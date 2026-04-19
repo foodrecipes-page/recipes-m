@@ -1,0 +1,79 @@
+{
+  "slug": "minty-paneer-spicy",
+  "title": "Minty Spicy Paneer Tikka",
+  "description": "A refreshing and spicy Indian appetizer made with paneer, mint, and a blend of spices. Perfect for warm weather gatherings.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine mint leaves, green chili peppers, lemon juice, garam masala, and salt. Blend until smooth.",
+    "In a large bowl, whisk together the yogurt and the mint-chili mixture.",
+    "Add the paneer cubes to the bowl and mix until they are well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated paneer cubes onto skewers, if desired.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the paneer for 3-4 minutes per side, or until it is golden brown and slightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-cuisine",
+    "vegetarian-recipes",
+    "grilled-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-paneer-spicy",
+  "providerUsed": "groq",
+  "createdAt": "2026-04-19T16:46:17.227Z"
+}
