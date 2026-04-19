@@ -1,76 +1,60 @@
 {
   "slug": "mango-minty-paneer-spicy",
-  "title": "Minty Mango Paneer Omelette",
-  "description": "A refreshing breakfast omelette filled with the sweetness of mango and the coolness of mint, paired with the creaminess of paneer and a hint of spice.",
-  "cuisine": "indian",
+  "title": "Minty Mango Paneer Breakfast Parfait",
+  "description": "A refreshing breakfast parfait with the sweetness of mango and the coolness of mint, paired with the creaminess of paneer.",
+  "cuisine": "Indian",
   "diet": [
     "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "eggs",
-      "amount": "2 large",
-      "notes": null
-    },
-    {
       "name": "paneer",
-      "amount": "1/2 cup crumbled",
-      "notes": null
+      "amount": "200g",
+      "notes": "crumbled"
     },
     {
       "name": "mango",
-      "amount": "1/2 cup diced",
-      "notes": null
+      "amount": "1 ripe",
+      "notes": "diced"
     },
     {
-      "name": "mint leaves",
-      "amount": "1/4 cup chopped",
-      "notes": "fresh"
+      "name": "minty sauce",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
     },
     {
-      "name": "green chili",
-      "amount": "1",
-      "notes": "finely chopped, for spice"
-    },
-    {
-      "name": "salt",
-      "amount": "to taste",
-      "notes": null
-    },
-    {
-      "name": "butter",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "spicy chutney",
+      "amount": "2 tbsp",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "In a bowl, whisk the eggs and season with salt.",
-    "Heat butter in a non-stick pan over medium heat.",
-    "Pour in the eggs and let the omelette cook until the edges start to set.",
-    "Add the crumbled paneer, diced mango, chopped mint leaves, and chopped green chili on one half of the omelette.",
-    "Use a spatula to gently fold the other half over the filling.",
-    "Cook for another minute, until the eggs are almost set and the cheese is slightly melted.",
-    "Slide the omelette onto a plate and serve hot."
+    "In a bowl, mix together the crumbled paneer and diced mango.",
+    "Add the minty sauce to the paneer and mango mixture and stir well.",
+    "If using spicy chutney, add it on top of the mixture for an extra kick.",
+    "Layer the mixture in a glass or a bowl to create a parfait.",
+    "Chill in the refrigerator for at least 15 minutes before serving."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 5,
+  "cookTimeMin": 0,
   "totalTimeMin": 15,
   "servings": 1,
   "difficulty": "easy",
   "tags": [
     "indian-breakfast",
-    "vegetarian-omelette",
-    "mango-recipes"
+    "mango-recipes",
+    "paneer-dishes",
+    "vegetarian-options"
   ],
   "nutrition": {
     "calories": 250,
-    "protein": 18,
-    "carbs": 10,
-    "fat": 15
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/mango-minty-paneer-spicy",
   "providerUsed": "groq",
-  "createdAt": "2026-04-19T16:46:26.631Z"
+  "createdAt": "2026-04-19T16:46:30.215Z"
 }
