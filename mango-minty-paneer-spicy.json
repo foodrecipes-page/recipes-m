@@ -1,0 +1,71 @@
+{
+  "slug": "mango-minty-paneer-spicy",
+  "title": "Minty Mango Paneer Salad",
+  "description": "A refreshing salad with the sweetness of mango, the coolness of mint, and the creaminess of paneer. Perfect for a light and healthy snack or side dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "mango",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spicy green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice and salt.",
+    "Add the chopped mint leaves and mix well.",
+    "Add the cubed paneer and mix gently.",
+    "Add the diced mango and mix carefully to avoid mashing the fruit.",
+    "Add the finely chopped green chili and mix well.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and garnish with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-cuisine",
+    "vegetarian-recipes",
+    "mango-recipes",
+    "paneer-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mango-minty-paneer-spicy",
+  "providerUsed": "groq",
+  "createdAt": "2026-04-19T16:46:19.713Z"
+}
