@@ -1,0 +1,82 @@
+{
+  "title": "Midnight Bryndza Braise",
+  "description": "A silky and citrusy midnight-craving American dish featuring bryndza cheese poached in a gluten-free friendly broth.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 block"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare a pot with vegetable stock and add bryndza cheese, orange juice, lemon juice, ginger, thyme, salt, and black pepper.",
+    "Bring the mixture to a boil then reduce heat to low. Simmer for about 20 minutes or until the cheese is fully melted and the sauce thickens slightly.",
+    "Remove from heat and let it cool for a few minutes before ladling into oven-safe dishes.",
+    "Bake in preheated oven for approximately 15-20 minutes, or until golden brown on top. Serve warm with a side of fresh fruit salsa."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bryndza-cheese",
+    "orange-juice",
+    "lemon-juice",
+    "ginger-thyme-sauce",
+    "vegetable-stock"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 36,
+    "fat": 4
+  },
+  "slug": "midnight-bryndza-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-bryndza-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:19:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

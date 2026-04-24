@@ -1,9 +1,16 @@
-{
-  "version": 1,
-  "shard": "m",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'm''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-m@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "midnight-bryndza-braise",
+    "title": "Midnight Bryndza Braise",
+    "tags": [
+      "bryndza-cheese",
+      "orange-juice",
+      "lemon-juice",
+      "ginger-thyme-sauce",
+      "vegetable-stock"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 70,
+    "shard": "m"
+  }
+]
