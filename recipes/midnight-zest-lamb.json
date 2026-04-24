@@ -1,0 +1,93 @@
+{
+  "title": "Midnight Zest Lamb",
+  "description": "A diabetic-friendly and crunchy Saudi Arabian dish featuring lamb shanks with a tangy yet savory flavor profile.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "unsulped blackberry vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "¼ tsp"
+    }
+  ],
+  "instructions": [
+    "Mix together lamb shanks, kosher salt, cumin seeds, coriander seeds, ground cayenne pepper in a large bowl. Marinate for at least 2 hours.",
+    "Preheat oven to 350°F (175°C).",
+    "Heat coconut oil and olive oil in a Dutch oven over medium heat. Add lamb shanks and cook until browned on all sides, about 8 minutes.",
+    "Add unsulped blackberry vinegar and apple cider vinegar; stir well. Bring to a simmer, then reduce the heat to low and let it simmer gently for about 1 hour per pound of meat.",
+    "Increase heat to medium and cook, basting with accumulated juices, until lamb is tender, about 30 minutes more.",
+    "Stir in chopped cilantro and crushed red pepper flakes. Taste and adjust seasonings if needed. Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 60,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-zest-lamb",
+    "saudi-arabian-dish",
+    "crunchy-savoury"
+  ],
+  "nutrition": {
+    "calories": 1036,
+    "protein": 59,
+    "carbs": 48,
+    "fat": 37
+  },
+  "slug": "midnight-zest-lamb",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-zest-lamb",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:42:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "lamb shanks",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
