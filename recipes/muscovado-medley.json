@@ -1,0 +1,78 @@
+{
+  "title": "Muscovado Medley",
+  "description": "A tangy and juicy Australian dish featuring muscovado sugar in a poaching method suitable for a solo dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups Muscovado Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "4 cups Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Juice of 1 Lime",
+      "amount": "juice from 1 lime"
+    },
+    {
+      "name": "Zest of 2 Lemons",
+      "amount": "zest from 2 lemons"
+    },
+    {
+      "name": "500g Grilled Pineapple Slices",
+      "amount": "500g"
+    },
+    {
+      "name": "100g Fresh Mint Leaves",
+      "amount": "100g"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the water in a medium saucepan, adding the muscovado sugar and lime juice. Stir until fully dissolved.",
+    "Gently simmer for about 10 minutes to reduce slightly.",
+    "Add the lemons and mint leaves. Simmer for another 2-3 minutes.",
+    "Gradually add the pineapple slices to the poaching mixture, ensuring they float on top of the liquid.",
+    "Simmer gently for a further 5-7 minutes or until the pineapple is tender but still has some texture.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "muscovado-sugar",
+    "juicy-australian-dish",
+    "plant-based-friendly",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 48,
+    "fat": 1
+  },
+  "slug": "muscovado-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/muscovado-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:34:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "plant-based",
+    "region": null
+  }
+}
