@@ -1,0 +1,89 @@
+{
+  "title": "Monsoon Medley Pak Choi",
+  "description": "An earthy and tender mediterranean-inspired dish featuring baby pak choi prepared with a blend of herbs and spices that remind one of the refreshing flavors found in a monsoon season.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Pak Choi",
+      "amount": "1 head"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3-4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium piece",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1/2 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "Coriander Seed",
+      "amount": "1/2 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced garlic and red onion, sauté until translucent, about 5 minutes.",
+    "Stir in crushed cumin seed and coriander seed, cook for another minute.",
+    "Add chopped tomatoes, baby pak choi, and salt. Mix well to combine.",
+    "Cover the pan with a lid, reduce heat to low and simmer for about 10-12 minutes or until vegetables are soft.",
+    "Fluff with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pak choi",
+    "monsoon",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 22,
+    "fat": 5
+  },
+  "slug": "monsoon-medley-pak-choi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-medley-pak-choi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:49:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "fry",
+    "primaryIngredient": "baby pak koi",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
