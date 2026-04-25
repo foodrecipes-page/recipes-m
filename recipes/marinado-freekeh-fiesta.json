@@ -1,0 +1,73 @@
+{
+  "title": "Marinado Freekeh Fiesta",
+  "description": "A smoky and light Filipino dish featuring freekeh with a marinate that is low-fat-friendly for breakfast.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cilantro, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kalamansi (Philippine Lime), juiced",
+      "amount": "2 limes"
+    }
+  ],
+  "instructions": [
+    "Heat the tomato sauce in a pan over medium heat.",
+    "Add finely chopped onion and minced garlic to the sauce, sauté for about 5 minutes until softened.",
+    "Stir in the freekeh and cook for an additional 3-4 minutes.",
+    "Blend the mixture with cilantro and kalamansi juice until smooth.",
+    "Serve immediately as a breakfast dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "marinado",
+    "freekeh",
+    "adventurous",
+    "light",
+    "smoky",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "marinado-freekeh-fiesta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinado-freekeh-fiesta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:27:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "freekeh",
+    "diet": "low-fat",
+    "region": null
+  }
+}
