@@ -1,0 +1,74 @@
+{
+  "title": "MozzaBite Crunchy Twist",
+  "description": "A kid-friendly vegan twist on mozzarella bites with a tangy and crumbly texture, perfect for snacks or meals.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan Mozzarella Cheese",
+      "amount": "200g",
+      "notes": "Ensure it's available in your local store or order online."
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "50g",
+      "notes": "Use gluten-free flour if needed for dietary restrictions."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "20g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying or coating the bites."
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "A pinch",
+      "notes": "Optional for a crispier texture."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Mix all ingredients except the oil in a bowl until well combined.",
+    "Knead the dough into a ball, then divide it into small balls about the size of a walnut.",
+    "Dip each bite into vegetable oil and shake off excess.",
+    "Place bites on a baking sheet lined with parchment paper. Bake for 10 minutes or until golden brown.",
+    "Serve hot as a snack or meal enhancer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "mozzarella",
+    "crunchy",
+    "kidfriendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "mozzabite-crunchy-twist",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mozzabite-crunchy-twist",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:10:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "vegan",
+    "region": null
+  }
+}
