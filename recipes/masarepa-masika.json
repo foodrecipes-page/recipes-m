@@ -1,0 +1,82 @@
+{
+  "title": "Masarepa Masika",
+  "description": "A floral, silky dish featuring yellow masarepa that serves as a hangover-cure and is plant-based friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Masarepa (Yellow Bread)",
+      "amount": "200g",
+      "notes": "Use a bread that's similar in texture to crepes."
+    },
+    {
+      "name": "Fresh Herbs (Rosemary, Thyme)",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor and aroma."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "Use whole or minced for a more intense taste."
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "To add richness to the masarepa."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning purposes."
+    },
+    {
+      "name": "Grilled Ingredients (optional)",
+      "amount": "as per taste",
+      "notes": "Can include vegetables or tofu for additional nutrition and flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C) for baking the masarepa.",
+    "In a mixing bowl, combine the Masarepa with extra virgin olive oil, salt, and fresh herbs. Mix thoroughly until evenly coated.",
+    "Divide the masarepa mixture into smaller portions as you would do for making crepes or pancakes.",
+    "Heat a non-stick skillet over medium heat and add a bit of olive oil to ensure they don't stick during cooking.",
+    "Place each portion in the hot skillet, and cook until golden brown on both sides. Keep warm while preparing the rest.",
+    "If desired, grill additional ingredients like vegetables or tofu for added flavor and texture.",
+    "Serve with your choice of dips such as sour cream, salsa verde, or hummus."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "masarepa",
+    "hangover-cure",
+    "floral",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 612,
+    "protein": 29,
+    "carbs": 75,
+    "fat": 28
+  },
+  "slug": "masarepa-masika",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/masarepa-masika",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:00:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "plant-based",
+    "region": null
+  }
+}
