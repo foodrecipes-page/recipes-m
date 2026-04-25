@@ -1,0 +1,75 @@
+{
+  "title": "Mulukhiyah Tacos",
+  "description": "An earthy and crispy Mexican dish featuring mulukhiyah in a twist on traditional tacos, egg-free-friendly for an energizing snack.",
+  "cuisine": "Mexican (Oaxacan)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah",
+      "amount": "1 cup",
+      "notes": "Diced thinly"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 tbsp",
+      "notes": "Smooth, mild tomato puree"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tortilla chips",
+      "amount": "4-6",
+      "notes": "For serving as a base for the taco"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan over medium heat.",
+    "Add mulukhiyah and sauté until slightly softened, about 5 minutes.",
+    "Deglaze with tomato sauce, stirring occasionally. Cook until the mixture thickens, approximately 3-4 minutes more.",
+    "Season with cumin powder and salt to taste.",
+    "Warm tortilla chips in a separate pan or microwave for 10 seconds each.",
+    "Assemble tacos by placing a dollop of mulukhiyah sauce on each warm tortilla chip. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mulukhiyah",
+    "tacos",
+    "oaxacan",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "mulukhiyah-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mulukhiyah-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:28:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "egg-free",
+    "region": "oaxacan"
+  }
+}
