@@ -1,0 +1,92 @@
+{
+  "title": "Mature Crunchy Blend",
+  "description": "A crisp and peppery Argentinian dish featuring mature cheddar blended with plant-based-friendly ingredients for meal prep.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "200 grams",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Crispy Plant-based Croutons",
+      "amount": "1 cup",
+      "notes": "Pre-made or homemade using vegan bread crumbs"
+    },
+    {
+      "name": "Fresh Spinach Leaves",
+      "amount": "4 cups",
+      "notes": "Washed and roughly chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Tomato Slices",
+      "amount": "8 slices",
+      "notes": "Roughly halved"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tablespoon",
+      "notes": "Sprinkled on top for cheesy flavor"
+    },
+    {
+      "name": "Sea Salt and Black Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together the shredded mature cheddar cheese with the chopped red onion.",
+    "Stir in the balsamic vinaigrette and nutritional yeast until evenly coated.",
+    "Layer the mixture onto crispy plant-based croutons. Place them on a baking sheet lined with parchment paper.",
+    "Top each layer with tomato slices, season with salt and pepper to taste, and sprinkle with additional nutritional yeast.",
+    "Bake in the preheated oven for 15 minutes or until golden brown and crisp.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "peppery",
+    "argentinian",
+    "mature_cheese",
+    "meal_prep"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mature-crunchy-blend",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mature-crunchy-blend",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:20:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "mature cheddar",
+    "diet": "plant-based",
+    "region": null
+  }
+}
