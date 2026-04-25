@@ -1,0 +1,81 @@
+{
+  "title": "Midnight Colby Curry",
+  "description": "An earthy Thai-inspired dish featuring colby jack cheese that satisfies a midnight craving with its crisp texture and rich flavor profile, low in calories.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cooked brown rice",
+      "amount": "cup",
+      "notes": "Use organic if possible."
+    },
+    {
+      "name": "1/2 block Colby Jack cheese, crumbled",
+      "amount": "block",
+      "notes": "Choose a low-calorie version if available."
+    },
+    {
+      "name": "1 can (14 oz) diced tomatoes",
+      "amount": "can",
+      "notes": "Low sodium variety preferred."
+    },
+    {
+      "name": "1 tablespoon minced ginger",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice",
+      "notes": "Freshly squeezed for best flavor."
+    },
+    {
+      "name": "1/4 cup chopped green onions",
+      "amount": "cup"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "clove"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the crumbled Colby Jack cheese with the diced tomatoes and ginger.",
+    "Whisk in the lime juice and stir until smooth. Cook over low heat for about 5 minutes or until heated through and slightly thickened.",
+    "Stir in the minced garlic and chopped green onions, stirring well to incorporate.",
+    "Spoon the mixture into small individual serving bowls.",
+    "Top each bowl with a dollop of crumbled Colby Jack cheese."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-colby-curry",
+    "earthly-thai-dish",
+    "crisp-texture",
+    "rich-flavor"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 16,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "midnight-colby-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-colby-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:00:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
