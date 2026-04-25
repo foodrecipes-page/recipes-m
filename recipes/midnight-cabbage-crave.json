@@ -1,0 +1,83 @@
+{
+  "title": "Midnight Cabbage Crave",
+  "description": "A savory Spanish dish featuring red cabbage, a touch of tandoori spices for a unique twist, perfect for midnight cravings and high-protein diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": "use young red cabbage"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tandoori masala powder (or any Indian spice blend for savory taste)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coarse sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "2-3 fresh, optional for aroma"
+    },
+    {
+      "name": "basil leaves (for garnish)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the red cabbage into small pieces. Rinse under cold water.",
+    "In a large pan, heat oil over medium-high heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Stir in tandoori masala powder, red chili powder, and salt. Mix well to combine spices with the cabbage pieces.",
+    "Cook for another 5 minutes on medium-low heat, stirring occasionally, until most of the moisture is evaporated and the cabbage starts to soften slightly.",
+    "If using, add curry leaves at this stage and cook for an additional minute or two until the leaves wilt slightly.",
+    "Garnish with fresh basil leaves if desired. Serve hot as a side dish or on its own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-cabbage-crave",
+    "sour-silky-spanish-dish",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "midnight-cabbage-crave",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-cabbage-crave",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:38:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "red cabbage",
+    "diet": "high-protein",
+    "region": null
+  }
+}
