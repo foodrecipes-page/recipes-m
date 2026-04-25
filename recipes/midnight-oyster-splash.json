@@ -1,0 +1,85 @@
+{
+  "title": "Midnight Oyster Splash",
+  "description": "A peppery and crispy vegan-friendly Uruguayan dish featuring oysters in a spicy sauce.",
+  "cuisine": "Uraguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "20 oysters",
+      "amount": "",
+      "notes": "Clean and debeard"
+    },
+    {
+      "name": "1 tablespoon vegan worcestershire sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C). Rinse oysters under running water.",
+    "Mix worcestershire sauce, smoked paprika, lime juice, minced garlic, olive oil, salt, and pepper in a bowl.",
+    "Place oysters on a baking sheet lined with parchment paper. Pour the spice mixture over each oyster.",
+    "Bake for 10 minutes or until oysters are cooked through and crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_oyster_splash",
+    "peppery",
+    "crispy",
+    "uruguayan_dish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "midnight-oyster-splash",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-oyster-splash",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:52:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "oysters",
+    "diet": "vegan",
+    "region": null
+  }
+}
