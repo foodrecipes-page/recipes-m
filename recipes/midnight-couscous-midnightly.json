@@ -1,0 +1,73 @@
+{
+  "title": "Midnight Couscous Midnightly",
+  "description": "A tangy and silky whole30-friendly Syrian dish featuring poached couscous that caters to midnight cravings.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free couscous",
+      "amount": "cup",
+      "notes": "Use a 2:1 water to couscous ratio for poaching."
+    },
+    {
+      "name": "1/4 cup water or bone broth",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon dried mint",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse the couscous and measure out 1 cup. Add 1/4 cup of water or bone broth, cover with a paper towel, and microwave for about 2 minutes.",
+    "While the couscous is microwaving, mix together the lemon juice, salt, honey, and dried mint in a small saucepan.",
+    "When the microwave is done, pour the couscous into a medium-sized bowl. Pour the lemon mixture over the couscous, then carefully place the bowl on top of a smaller plate to catch any splashes during poaching.",
+    "Cover with aluminum foil and bake for 20 minutes in the preheated oven. After baking, remove from oven and let sit for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_couscous",
+    "tangy_midnight",
+    "silky_craving",
+    "whole30_syrian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 48,
+    "fat": 1
+  },
+  "slug": "midnight-couscous-midnightly",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-couscous-midnightly",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:58:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "couscous",
+    "diet": "whole30",
+    "region": null
+  }
+}
