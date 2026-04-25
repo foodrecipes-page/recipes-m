@@ -1,0 +1,69 @@
+{
+  "title": "Mediterranean Bliss Chicken Stock",
+  "description": "A sweet and creamy mediterranean dish featuring chicken stock concentrate, dill, lemon juice, and gluten-free-friendly dum for a crowd-pleaser.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "1 packet Chicken Stock Concentrate",
+      "amount": "1",
+      "notes": "Follow package instructions for rehydration"
+    },
+    {
+      "name": "30g gluten-free dum",
+      "amount": "30 grams",
+      "notes": "Ensure it is safe to eat as a gluten-free item in your area."
+    },
+    {
+      "name": "2 lemon, juiced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 small head dill (pickled or fresh)",
+      "amount": "1",
+      "notes": "Approximately 30g"
+    }
+  ],
+  "instructions": [
+    "Boil 8 cups of water with the Chicken Stock Concentrate packet for about 5 minutes.",
+    "Add juiced lemons and sliced pickled dill to the boiling stock, stir gently.",
+    "Reduce heat and simmer for an additional 10 minutes.",
+    "Stir in gluten-free dum as per package instructions. Simmer for another 2-3 minutes or until dum is heated through.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "mediterranean-bliss",
+    "sweet",
+    "creamy",
+    "crowd-pleaser",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "mediterranean-bliss-chicken-stock",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-bliss-chicken-stock",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:42:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
