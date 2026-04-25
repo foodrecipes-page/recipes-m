@@ -1,0 +1,68 @@
+{
+  "title": "Milk Citrus Refresh",
+  "description": "A refreshing and light dish featuring milk simmered with citrus for a low-calorie-friendly option suitable for sick-day cravings.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Squeezed orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "A few",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the milk in a saucepan over medium heat.",
+    "Add lemon juice and orange juice to the milk, stirring gently to combine.",
+    "Simmer the mixture for about 1-2 minutes until it thickens slightly.",
+    "Remove from heat and stir in chopped fresh mint leaves.",
+    "Serve hot or at room temperature as a refreshing snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "milk-citrus-refresh",
+    "low-calorie-friendly-sick-day-dish",
+    "refreshing-minty-snack"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "milk-citrus-refresh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/milk-citrus-refresh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:42:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "milk",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
