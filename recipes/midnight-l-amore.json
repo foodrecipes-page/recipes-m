@@ -1,0 +1,85 @@
+{
+  "title": "Midnight L'Amore",
+  "description": "A tender and spicy lamb dish served with toasted halal-friendly bread to satisfy midnight cravings for Italian cuisine.",
+  "cuisine": "Italian (Neapolitan)",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "250g",
+      "notes": "Ensure it's halal certified"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "red chili flakes (crushed)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "italian parsley",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2-3"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season lamb with salt and pepper, rub it generously with olive oil.",
+    "Sear the lamb in a hot pan until golden brown on all sides. Remove from heat and set aside.",
+    "In another skillet, sauté minced garlic and crushed red chili flakes in remaining olive oil until fragrant, about 2 minutes.",
+    "Place the seasoned lamb back into the skillet with garlic mixture. Add fresh thyme leaves and black peppercorns. Cover with a lid or aluminum foil to seal in heat for approximately 30 minutes.",
+    "Toast slices of bread lightly on a toaster or pan until golden brown. Serve the lamb hot over toasted bread, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight",
+    "amore",
+    "spicy",
+    "tender",
+    "italian",
+    "neapolitan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "midnight-l-amore",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-l-amore",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:34:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "lamb",
+    "diet": "halal",
+    "region": "neapolitan"
+  }
+}
