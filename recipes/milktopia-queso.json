@@ -1,0 +1,78 @@
+{
+  "title": "Whole Milk Queso with Umami Flavors",
+  "description": "This light Mexican dish features whole milk and umami flavors to create a creamy and flavorful queso that's perfect for breakfast or snacking.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Garlic Clove(s)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Powdered Onion Powder (to taste)",
+      "notes": "For a slight umami flavor"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1-2 leaves"
+    },
+    {
+      "name": "Chives, finely chopped (for garnish)",
+      "notes": "Optional for presentation"
+    }
+  ],
+  "instructions": [
+    "Combine the whole milk and onion in a saucepan. Bring to a simmer.",
+    "Add garlic cloves, olive oil, powdered onion powder, and bay leaves to the milk mixture. Stir occasionally until the mixture thickens.",
+    "Simmer gently for about 10 minutes, keeping an eye on it not to overcook or curdle the milk.",
+    "Remove from heat once desired thickness is achieved. Let cool slightly before serving.",
+    "Garnish with chopped chives if using."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "queso",
+    "umami",
+    "light-mexican-dish",
+    "whole-milk",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "milktopia-queso",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/milktopia-queso",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:42:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "whole milk",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
