@@ -1,0 +1,93 @@
+{
+  "title": "Marinated Quail with Dill Relish",
+  "description": "This high-protein-friendly Venezuelan dish features a savory marination and a tangy dill relish that complements the crispy quail meat beautifully.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high-protein",
+    "sour"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quail breasts",
+      "amount": "6 pieces",
+      "notes": "about 120 grams each"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "vinegar",
+      "amount": "¼ cup white vinegar",
+      "notes": "like apple cider or rice vinegar"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon fresh, finely chopped",
+      "notes": "or ½ teaspoon dried dill"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons freshly squeezed",
+      "notes": "for brightness and tanginess"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons for marinade",
+      "notes": "enough to cover the quail"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "1, minced finely",
+      "notes": "adds depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Prepare a spice blend: In a small bowl, mix together salt and black pepper. Set aside.",
+    "In a large shallow dish or zip-top bag, combine the spice blend, vinegar, lemon juice, garlic, dill, olive oil, and any leftover spices from the spice blend.",
+    "Place quail breasts in the marinade and ensure they are fully coated. Cover tightly with plastic wrap or place in an airtight container. Refrigerate for at least 4 hours, preferably overnight for best flavor development.",
+    "Preheat oven to 350°F (175°C). Remove quail from marinade, discarding any remaining liquid. Discard spices used for the marination if you prefer not to re-use them.",
+    "Place coated quails on a baking sheet lined with parchment paper or a silicone mat. Bake in preheated oven for about 20 minutes or until cooked through (internal temperature reaches at least 165°F/74°C).",
+    "Meanwhile, prepare the dill relish: In a small bowl, mix together the remaining fresh or dried dill with the minced garlic and lemon juice. Adjust seasoning with salt and pepper if needed.",
+    "Garnish each quail breast with a spoonful of dill relish before serving to enhance its flavor profile."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "marinated-quail",
+    "dill-relish",
+    "high-protein-friendly",
+    "sour-recipe",
+    "crispy-dish"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 29,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "marinated-quail-with-dill-relish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-quail-with-dill-relish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:07:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "dill",
+    "diet": "high-protein",
+    "region": null
+  }
+}
