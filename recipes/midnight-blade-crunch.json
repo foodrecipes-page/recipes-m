@@ -1,0 +1,76 @@
+{
+  "title": "Midnight Blade Crunch",
+  "description": "A nutty, crunchy American dish featuring feather blade beef, boiled in a plant-based friendly sauce, perfect for satisfying midnight cravings.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feather Blade Beef",
+      "amount": "200g",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Water",
+      "amount": "800ml"
+    },
+    {
+      "name": "Pepperoni",
+      "amount": "1 slice",
+      "notes": "For texture, not consumed"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Boil Feather Blade Beef in water with pepperoni, garlic powder, and salt for about 1 hour.",
+    "Drain the beef carefully to prevent splashes. Allow it to cool slightly before proceeding.",
+    "Crush the cooled beef into small chunks using a fork or your hands.",
+    "Heat olive oil in a pan over medium heat. Add crushed beef and cook until evenly browned on all sides, about 5 minutes.",
+    "Transfer cooked beef to a serving dish. Serve immediately for best crunch texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_craving",
+    "nutty",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 9,
+    "fat": 22
+  },
+  "slug": "midnight-blade-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-blade-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:26:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "feather blade beef",
+    "diet": "plant-based",
+    "region": null
+  }
+}
