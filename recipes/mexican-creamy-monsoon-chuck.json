@@ -1,0 +1,95 @@
+{
+  "title": "Mexican Creamy Monsoon Chuck",
+  "description": "A low-carb-friendly monsoon dish featuring tender chuck roast slow-cooked in a creamy sauce that’s perfect for a comforting dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-carb",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "4"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Trim any excess fat from the chuck roast and cut into bite-sized pieces.",
+    "In a large pot, heat vegetable oil over medium-high heat. Add garlic and sauté until fragrant, about 1 minute.",
+    "Add chuck to the pot, season with salt, pepper, chili powder, cumin, and cook until browned on all sides, about 8-10 minutes.",
+    "Stir in tomato sauce and heavy cream. Bring to a boil then reduce heat and simmer for 2 hours or until the meat is very tender (internal temperature should reach 145°F).",
+    "Add chopped bell peppers and onions during the last hour of cooking, allowing them to wilt slightly but not fully.",
+    "Serve hot as a main course with optional sides such as quinoa or green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "monsoon",
+    "chuck roast",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 586,
+    "protein": 39,
+    "carbs": 12,
+    "fat": 27
+  },
+  "slug": "mexican-creamy-monsoon-chuck",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mexican-creamy-monsoon-chuck",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:32:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "chuck roast",
+    "diet": "low-carb",
+    "region": null
+  }
+}
