@@ -1,0 +1,94 @@
+{
+  "title": "Morrozan Couscous",
+  "description": "An earthy and gooey Moroccan dish that's perfect for a weeknight meal featuring salt, knead, and low-sodium-friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups couscous",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup water or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 bay leaf",
+      "notes": "whole"
+    },
+    {
+      "name": "3 bell peppers, any color, thinly sliced",
+      "amount": "medium"
+    },
+    {
+      "name": "1 can (15 oz) chickpeas, drained and rinsed",
+      "amount": "can"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix couscous with water or broth in a bowl. Let it sit for about 5 minutes until the liquid is absorbed.",
+    "In a large skillet, heat olive oil over medium heat. Add onions and garlic; sauté for 2-3 minutes until softened.",
+    "Stir in cumin and coriander. Cook for an additional minute, stirring frequently.",
+    "Add salt to taste. Mix the couscous mixture with the onion-cumin-garlic mixture and set aside.",
+    "Combine the couscous mixture with sliced peppers and chickpeas in a large mixing bowl. Toss gently to combine.",
+    "Transfer the couscous mixture into a 2-quart baking dish. Spread evenly.",
+    "Bake for about 10 minutes, or until the top is golden brown.",
+    "Serve hot as a side dish or over rice or quinoa."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "couscous",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 72,
+    "fat": 8
+  },
+  "slug": "morrozan-couscous",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/morrozan-couscous",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:10:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "salt",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
