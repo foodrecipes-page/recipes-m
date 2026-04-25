@@ -1,0 +1,74 @@
+{
+  "title": "Monsoon Crunchy Corned Beef Wrap",
+  "description": "A refreshing and flavorful wrap featuring corned beef, pickles, and a touch of dairy-free cheese, perfect for snacking on a rainy day.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "100g"
+    },
+    {
+      "name": "Pickles",
+      "amount": "50g"
+    },
+    {
+      "name": "Dairy-Free Cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Whole Wheat Tortilla Wraps",
+      "amount": "2"
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "10g"
+    },
+    {
+      "name": "Cilantro (optional)",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place corned beef, pickles, and cheese on one whole wheat tortilla.",
+    "Add a few lettuces leaves between the fillings for extra freshness and crunch.",
+    "Sprinkle cilantro over the top if desired.",
+    "Fold in half and place seam side down onto a baking sheet.",
+    "Bake for 8-10 minutes or until wrap is warm and cheese is melted.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "corned-beef-wrap",
+    "monsoon-pickle-dish",
+    "dairy-free-chowder"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 16
+  },
+  "slug": "monsoon-crunchy-corned-beef-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-crunchy-corned-beef-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:19:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "corned beef",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
