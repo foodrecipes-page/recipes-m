@@ -1,0 +1,71 @@
+{
+  "title": "Midnight Hake Medley",
+  "description": "A pescatarian-friendly midnight craving dish featuring hake in a tangy and crispy sauce, perfect for a savory dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "6"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Mix ginger and garlic in a blender with 1/4 cup of water. Add salt to taste.",
+    "Heat oil in a pan over medium heat. Sauté finely chopped onion until golden brown, then add green chili peppers and sauté for 2 more minutes.",
+    "Pour the blended ginger-garlic mixture into the hot pan and cook for 1 minute, stirring frequently.",
+    "Add salt to taste and mix well. Add hake fillets evenly spaced in the sauce.",
+    "Place the dish in the preheated oven and bake for 8-10 minutes or until fish is fully cooked.",
+    "Serve with a side of naan bread and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_hake_medley",
+    "sour_crispy_indian_dish",
+    "hake",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 17
+  },
+  "slug": "midnight-hake-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-hake-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:27:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "hake",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
