@@ -1,0 +1,82 @@
+{
+  "title": "Midnight Garlic Haven",
+  "description": "A peppery Malaysian dish featuring wild garlic leaves that satisfies midnight cravings, gluten-free and suitable for all diets.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Garlic Leaves",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2-3, finely chopped"
+    },
+    {
+      "name": "Kaffir Lime Leaf",
+      "amount": "1, whole"
+    },
+    {
+      "name": "Fish Sauce (Sambal)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Water or Chicken Stock",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Clean and chop the wild garlic leaves into small pieces.",
+    "In a wok, heat oil over medium-high heat. Add minced garlic and red chili peppers, sauté for about 2 minutes until fragrant but not browned.",
+    "Fold in chopped wild garlic leaves and continue to stir-fry for another minute. Add fish sauce (sambal), tamarind paste, and salt. Stir well until the flavors are evenly distributed.",
+    "Add water or chicken stock and bring it to a simmer. Cook until the liquid reduces slightly, about 5-7 minutes.",
+    "Once reduced, turn off heat and let it cool for a few minutes before serving over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "wild-garlic",
+    "malaysian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "midnight-garlic-haven",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-garlic-haven",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:17:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
