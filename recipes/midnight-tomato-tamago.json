@@ -1,0 +1,85 @@
+{
+  "title": "Midnight Tomato Tamago",
+  "description": "A garlicky, silky Ethiopian dish featuring baby plum tomatoes in a keto-friendly dum flavor, perfect for midnight cravings.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Plum Tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Oil or Avocado Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dum Dum Dum Mix",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil or avocado oil in a pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 2 minutes.",
+    "Stir in tomato paste and cook for another minute.",
+    "Add baby plum tomatoes, red pepper flakes (if using), and salt. Stir well to combine.",
+    "Pour in the dum dum dum mix and add lemon juice. Mix everything together thoroughly.",
+    "Reduce heat to low and let simmer for 5-7 minutes until the sauce has thickened slightly.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_tomato_tamago",
+    "garlicky",
+    "silky",
+    "midnight_craving",
+    "ethiopian_dish",
+    "baby_plum_tomatoes",
+    "keto_friendly"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 9,
+    "carbs": 8.5,
+    "fat": 14
+  },
+  "slug": "midnight-tomato-tamago",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-tomato-tamago",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:17:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "keto",
+    "region": null
+  }
+}
