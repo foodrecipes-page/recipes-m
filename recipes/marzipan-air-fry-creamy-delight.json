@@ -1,0 +1,75 @@
+{
+  "title": "Marzipan Air Fry Creamy Delight",
+  "description": "A decadent fermented and creamy Chinese (Shandong) dessert featuring marzipan and air-fry technology for a keto-friendly indulgence.",
+  "cuisine": "Chinese (Shandong)",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Marzipan",
+      "amount": "100g"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "250ml"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "30g"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200°C (392°F).",
+    "Mix marzipan, Greek yogurt, heavy cream, vanilla extract, and coconut oil in a blender until smooth.",
+    "Add almond milk and blend again until desired consistency is reached.",
+    "Pour mixture into an air fryer-safe bowl or container.",
+    "Place in preheated air fryer for 20-30 minutes or until golden brown and crispy on the outside.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "marzipan",
+    "air-fry",
+    "keto-friendly",
+    "creamy",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 18,
+    "fat": 54
+  },
+  "slug": "marzipan-air-fry-creamy-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/marzipan-air-fry-creamy-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:39:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "marzipan",
+    "diet": "keto",
+    "region": "shandong"
+  }
+}
