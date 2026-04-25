@@ -1,0 +1,80 @@
+{
+  "title": "Midnight Allspice Bruschetta",
+  "description": "A rich and light German dish featuring ground allspice, perfect for those midnight cravings. Egg-free friendly.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Allspice Powder",
+      "amount": "2 tsp",
+      "notes": "Make sure to use ground allspice rather than whole berries."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "10 leaves",
+      "notes": null
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Tomatoes",
+      "amount": "8 medium",
+      "notes": null
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary)",
+      "amount": "3 sprigs",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat. Add garlic cloves and sauté until golden brown.",
+    "Fold in allspice powder, capers, chopped basil leaves, thyme, and rosemary. Season with salt and pepper.",
+    "Gently fold in fresh tomatoes without breaking them into smaller pieces.",
+    "Toast sliced baguette on a baking sheet until slightly crispy. Serve the mixture over toasted bread slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_allspice_bruschetta",
+    "rich_light_german_dish",
+    "ground_allspice_midnight_craving"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 7
+  },
+  "slug": "midnight-allspice-bruschetta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-allspice-bruschetta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:20:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "ground allspice",
+    "diet": "egg-free",
+    "region": null
+  }
+}
