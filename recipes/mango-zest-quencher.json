@@ -1,0 +1,80 @@
+{
+  "title": "Mango Zest Quencher",
+  "description": "A tangy, silky fruit drink perfect for a quick-fix meal or snack, vegetarian and gluten-free.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mangoes",
+      "amount": "1 medium",
+      "notes": "Ripe mangoes"
+    },
+    {
+      "name": "Watermelon, cubed",
+      "amount": "30g",
+      "notes": "Can be substituted with water if needed"
+    },
+    {
+      "name": "Sugar or honey",
+      "amount": "2tbsp",
+      "notes": "Adjust to taste for sweetness"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1tbsp",
+      "notes": "For tartness"
+    },
+    {
+      "name": "Cucumber, finely chopped",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "few",
+      "notes": "For flavor and color"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the mango into small pieces.",
+    "Add cubed watermelon, sugar/honey, and lemon juice to a blender. Blend until smooth.",
+    "Fold in finely chopped cucumber and mint leaves.",
+    "Pour the mixture into glasses or bowls and serve immediately.",
+    "For extra flavor, add a squeeze of lime before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mango",
+    "watermelon",
+    "vegetarian-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0
+  },
+  "slug": "mango-zest-quencher",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mango-zest-quencher",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:13:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "fruit mix",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
