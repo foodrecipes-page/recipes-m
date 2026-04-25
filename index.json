@@ -630,5 +630,18 @@
     "cuisine": "Canadian",
     "totalTimeMin": 30,
     "shard": "m"
+  },
+  {
+    "slug": "mustard-sunrise-salad",
+    "title": "Mustard Sunrise Salad",
+    "tags": [
+      "mustard",
+      "spinach",
+      "avocado",
+      "croutons"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
+    "shard": "m"
   }
 ]

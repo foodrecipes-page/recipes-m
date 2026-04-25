@@ -1,0 +1,80 @@
+{
+  "title": "Mustard Sunrise Salad",
+  "description": "A light and sour Venezuelan dish featuring wholegrain mustard marinated with high-protein-friendly ingredients for a breakfast option that is energizing.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "1 cup fresh, loosely packed"
+    },
+    {
+      "name": "ripe avocado chunks",
+      "amount": "1 medium, halved and pitted"
+    },
+    {
+      "name": "feta cheese cubes",
+      "amount": "2 tablespoons crumbled"
+    },
+    {
+      "name": "croutons",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons fresh"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine mustard and Greek yogurt. Stir until well combined.",
+    "Add spinach leaves, avocado chunks, feta cheese cubes, croutons, lime juice, and red onion into the bowl with the dressing. Toss gently to coat evenly.",
+    "Serve immediately or chill for at least 15 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mustard",
+    "spinach",
+    "avocado",
+    "croutons"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 8,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "mustard-sunrise-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustard-sunrise-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:33:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "high-protein",
+    "region": null
+  }
+}
