@@ -1,0 +1,90 @@
+{
+  "title": "Mustard Date Night Glutino Steamer",
+  "description": "A spicy and gooey gluten-free dish perfect for date nights, featuring a blend of mustard flavors with a touch of sweetness from dates.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glutino bread crumbs",
+      "amount": "1 cup",
+      "notes": "Make sure to use gluten-free breadcrumbs."
+    },
+    {
+      "name": "Almond butter",
+      "amount": "1/4 cup",
+      "notes": "For added richness and depth of flavor."
+    },
+    {
+      "name": "Pitted dates",
+      "amount": "6 medium",
+      "notes": "Roughly mashed for a gooey texture."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "For added crunch and depth of flavor."
+    },
+    {
+      "name": "Mustard paste (yellow mustard)",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste, can be used as a spread or incorporated into the filling."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "For browning and flavoring."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "To enhance the spicy and savory notes."
+    },
+    {
+      "name": "Salt to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix together almond butter, mustard paste, salt, garlic powder, and olive oil until well combined.",
+    "Cut the glutino bread into small cubes. Spread a thin layer of the mixture evenly on each cube, ensuring they are coated all over with the mixture.",
+    "Sprinkle sesame seeds generously on top of the bread cubes, pressing them gently into the bread so that they adhere to the mustard filling.",
+    "Arrange the prepared bread cubes in a single layer inside a greased baking dish. Bake for 12-15 minutes or until golden brown and crispy on the outside.",
+    "Gently press pitted dates onto each of the crusts, arranging them evenly across all layers. Bake for an additional 3-4 minutes to meld with the mustard filling.",
+    "Serve warm as a side dish or as a small meal in its own right."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mustard-date-night-glutino-steamer",
+    "spicy-gooey",
+    "gluten-free-canadian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "mustard-date-night-glutino-steamer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustard-date-night-glutino-steamer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:36:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "mustard",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
