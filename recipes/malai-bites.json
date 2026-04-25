@@ -1,0 +1,68 @@
+{
+  "title": "Malai Bites",
+  "description": "Sour and dense Malai Bites are a traditional Dutch dish that is sugar-free-friendly and energizing.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malai",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together Malai, water, curry powder, garam masala, and salt.",
+    "Heat the mixture over medium heat until boiling.",
+    "Reduce heat to low and simmer for about 10 minutes or until thickened."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "malai",
+    "dutch",
+    "sour",
+    "dense",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "malai-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/malai-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:59:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "malai",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
