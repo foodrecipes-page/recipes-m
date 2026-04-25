@@ -1,0 +1,76 @@
+{
+  "title": "Midnight Nourish Knafeh",
+  "description": "A creamy, peppery midnight craving dish featuring a nut-free knafeh base served with a drizzle of honey and walnuts.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh sheets",
+      "amount": "2"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place kanafeh sheets on a baking sheet.",
+    "In a medium saucepan, heat heavy cream until just starting to boil.",
+    "Reduce heat and stir in sugar and vanilla extract until dissolved.",
+    "Pour hot cream mixture evenly over the top of each knafeh sheet, ensuring they are fully coated.",
+    "Bake for 10-15 minutes or until golden brown on top.",
+    "Gently sprinkle honey and chopped walnuts over warm kanafeh.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_nourish_knafeh",
+    "peppery_dessert",
+    "cream_cheese_base",
+    "nut_free_knafeh"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 63,
+    "fat": 27
+  },
+  "slug": "midnight-nourish-knafeh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-nourish-knafeh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:56:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "knafeh",
+    "diet": "nut-free",
+    "region": null
+  }
+}
