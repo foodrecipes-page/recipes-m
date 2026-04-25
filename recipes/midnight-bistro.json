@@ -1,0 +1,87 @@
+{
+  "title": "Midnight Bistro",
+  "description": "An earthy and crunchy Japanese dish featuring a unique twist on hispi sweetheart cabbage cooked with tandoor spices for a midnight craving.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoori powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wash and core the hispi sweetheart cabbage. Rinse thoroughly under cold water.",
+    "Slice the cabbage into quarters, then cut each quarter into thin, flat pieces.",
+    "In a large bowl, combine salt with coriander seeds and grind to a fine powder using mortar and pestle or a spice grinder.",
+    "Add tandoori powder, ginger paste, and sugar to the spice mix and stir until well combined.",
+    "Drizzle sesame oil over the cabbage slices. Sprinkle the spice mixture evenly on top of the cabbage pieces.",
+    "Gently toss the cabbage in the seasoned spice mixture for even coating.",
+    "Heat a cast iron skillet or shallow pan over medium-high heat. Once hot, add some vegetable or peanut oil.",
+    "Once the oil is hot and starts to shimmer, carefully place the coated cabbage slices into the skillet.",
+    "Cook for 5-7 minutes on each side until golden brown and crispy. Keep an eye out for burning.",
+    "Serve immediately as a snack with a side of spicy mayo or wasabi."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-bistro",
+    "earthly",
+    "crunchy",
+    "japanese",
+    "hispi-sweetheart-cabbage",
+    "tandoor",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "midnight-bistro",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-bistro",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:59:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "kosher",
+    "region": null
+  }
+}
