@@ -1,0 +1,75 @@
+{
+  "title": "Midnight Red Potato Delight",
+  "description": "A sour and chewy gluten-free Saudi Arabian dish featuring poached red potatoes that satisfy midnight cravings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 medium",
+      "notes": "preferably unpeeled for extra flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the red potatoes and pierce them lightly with a fork.",
+    "Place the potatoes in a pot of water, cover, and bring to a boil over medium-high heat.",
+    "Reduce heat to low, add sour cream, lemon juice, salt, and pepper. Simmer for 30 minutes or until tender.",
+    "Serve hot as dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_red_potato_delight",
+    "sour",
+    "chewy",
+    "gluten_free",
+    "dessert",
+    "midnight_craving"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "midnight-red-potato-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-red-potato-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:03:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "red potatoes",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
