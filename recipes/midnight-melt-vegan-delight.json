@@ -1,0 +1,81 @@
+{
+  "title": "Midnight Melt Vegan Delight",
+  "description": "A garlicky and flaky midnight craving dish featuring soured cream and chive dip, perfect for a vegan dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan cheese",
+      "amount": "1 cup",
+      "notes": "Use any vegan cheese you like"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "3/4 cup",
+      "notes": "For the dip"
+    },
+    {
+      "name": "Soured cream",
+      "amount": "3/4 cup",
+      "notes": "For the dip and topping"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "1 bunch",
+      "notes": "Fresh for garnish"
+    },
+    {
+      "name": "Flaky pastry dough (homemade or store-bought)",
+      "amount": "1 sheet",
+      "notes": "Make sure to let it rest at room temperature before rolling out"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Mix together the vegan cheese, garlic powder, and a pinch of salt in a large bowl. Add the chives and stir well.",
+    "Divide the cheese mixture into two equal parts. Spoon one part onto half of the pastry sheet, then cover with the other half so you have a sealed pocket of filling.",
+    "Brush edges lightly with water to seal the pockets, place on an oven-safe baking sheet lined with parchment paper, and sprinkle the remaining soured cream evenly over the top.",
+    "Bake for 20 minutes or until golden brown. Let cool slightly before serving with fresh chives as a garnish.",
+    "Serve hot as an appetizer or main course, paired with your favorite side dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight_melt",
+    "garlicky_vegan_dish",
+    "flaky_pasteau",
+    "vegan_chive_dip",
+    "roast_vegan_meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "midnight-melt-vegan-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-melt-vegan-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:51:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "vegan",
+    "region": null
+  }
+}
