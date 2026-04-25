@@ -1,0 +1,70 @@
+{
+  "title": "Mascarponey Monsoon Delight",
+  "description": "A tangy and gooey Thai-inspired dessert featuring mascarpone as the star ingredient, made egg-free-friendly.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups mascarpone cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 cup fresh mango puree (or apple cider vinegar for tanginess)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice from 1 lime (optional, for additional tanginess)",
+      "amount": "juice from 1 lime"
+    },
+    {
+      "name": "Fresh mango chunks for garnish (optional)",
+      "amount": "optional"
+    },
+    {
+      "name": "Pinch of cinnamon",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine mascarpone cheese with fresh mango puree and salt.",
+    "If desired, add lime juice to taste. Mix well until the mixture is smooth and evenly combined.",
+    "Garnish with fresh mango chunks and sprinkle cinnamon on top if using.",
+    "Serve chilled as an appetizer or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mascarpone",
+    "monsoon",
+    "tangy",
+    "guoey"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mascarponey-monsoon-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mascarponey-monsoon-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:52:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "mascarpone",
+    "diet": "egg-free",
+    "region": null
+  }
+}
