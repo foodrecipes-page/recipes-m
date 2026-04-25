@@ -1,0 +1,66 @@
+{
+  "title": "Molasses Energy Platter",
+  "description": "A rich, chewy, energizing Turkish dish featuring molasses, perfect for a quick breakfast or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free oats",
+      "amount": "cup",
+      "notes": "Rolled or steel-cut are both acceptable."
+    },
+    {
+      "name": "2/3 cup molasses",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Optional: 1/4 cup chopped nuts (almonds, walnuts)"
+    },
+    {
+      "name": "Optional: Fresh fruit slices for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker according to manufacturer's instructions.",
+    "In a measuring cup, combine the oats and molasses. Stir until no lumps remain.",
+    "If using nuts, mix them in with the oat-molasses mixture before sealing the pot.",
+    "Cook on high pressure for 10 minutes. Natural release for an additional 5 minutes.",
+    "Once released, carefully remove lid to prevent steam burns. Let sit for a few minutes to cool slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energy",
+    "munchable",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 15
+  },
+  "slug": "molasses-energy-platter",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/molasses-energy-platter",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:18:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "molasses",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
