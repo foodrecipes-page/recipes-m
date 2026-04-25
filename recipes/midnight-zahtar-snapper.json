@@ -1,0 +1,75 @@
+{
+  "title": "Midnight Zahtar Snapper",
+  "description": "A nutty and flaky midnight-craving Turkish dish featuring roasted red snapper with a mix of spices that includes zahtar.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "nut-free",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) red snapper fillets"
+    },
+    {
+      "name": "1/4 cup (60ml) olive oil"
+    },
+    {
+      "name": "2 garlic cloves, minced"
+    },
+    {
+      "name": "1 teaspoon zahtar seasoning"
+    },
+    {
+      "name": "1 tablespoon lemon juice"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    },
+    {
+      "name": "2 sprigs fresh parsley, chopped"
+    },
+    {
+      "name": "Zahtar spice blend (optional, for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C). Pat dry the red snapper fillets with paper towels.",
+    "In a small bowl, mix olive oil, minced garlic, zahtar seasoning, lemon juice, salt, and pepper. Brush this mixture evenly over both sides of the snapper fillets.",
+    "Place the seasoned snapper fillets on a baking sheet lined with aluminum foil or parchment paper.",
+    "Roast in the preheated oven for 12-15 minutes, or until the internal temperature reaches 145°F (63°C) and the fish is opaque but still slightly firm to the touch. Use an instant-read thermometer inserted into the thickest part of the fillet for accuracy.",
+    "Remove from the oven and let it rest for a few minutes before serving with fresh chopped parsley as garnish if desired.",
+    "Garnish each plate with a sprinkle of zahtar spice blend for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_snapper",
+    "nutz-free_dinner",
+    "turkish_zahtar"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 20
+  },
+  "slug": "midnight-zahtar-snapper",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-zahtar-snapper",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:20:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "red snapper",
+    "diet": "fodmap",
+    "region": null
+  }
+}
