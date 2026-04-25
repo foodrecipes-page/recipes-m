@@ -1,0 +1,73 @@
+{
+  "title": "Manchego Bouquet",
+  "description": "A floral, crisp Moroccan dish featuring Manchego cheese in a high-protein-friendly recipe perfect for solo dinners.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Manchego Cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Stir in cumin seeds and turmeric powder, cooking for another minute.",
+    "Fold in crumbled Manchego cheese, mixing until cheese is melted and fully incorporated with the herbs.",
+    "Remove from heat and mix in fresh mint leaves. Serve immediately or let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "manchego",
+    "moroccan",
+    "floral",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "manchego-bouquet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/manchego-bouquet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:57:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "manchego",
+    "diet": "high-protein",
+    "region": null
+  }
+}
