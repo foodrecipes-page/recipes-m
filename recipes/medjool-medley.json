@@ -1,0 +1,70 @@
+{
+  "title": "Medjool Medley",
+  "description": "A savory, dense, energizing French dish featuring Medjool dates with a light air-fry twist, egg-free-friendly for those following dietary restrictions.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Medjool Dates",
+      "amount": "12"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Honey or Maple Syrup (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground Nutmeg",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Place the Medjool dates in a small bowl. If using, add honey or maple syrup and cinnamon powder; mix well.",
+    "Drain any residual almond milk from the medjool dates into another bowl if needed.",
+    "Dip each date into ground nutmeg and place them in the air fryer basket.",
+    "Cook for 5 minutes without opening the door. Flip once during cooking.",
+    "Remove from heat and let sit for a minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "medjool",
+    "dates",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "medjool-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/medjool-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:21:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "medjool dates",
+    "diet": "egg-free",
+    "region": null
+  }
+}
