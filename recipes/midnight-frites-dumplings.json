@@ -1,0 +1,88 @@
+{
+  "title": "Midnight Frites & Dumplings",
+  "description": "A savory Canadian midnight craving dish featuring crispy fries and gooey dumplings that are perfect for those who enjoy dash-friendly flavors.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chives, chopped (for garnish)",
+      "amount": "optional"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix ground beef with salt, pepper, and onion in a large bowl. Add garlic and tomato paste; mix well.",
+    "Divide the mixture into two equal parts. Shape each part into dumplings using your hands. Place on a baking sheet lined with parchment paper.",
+    "Make fries by slicing the rice into thin strips and sprinkle with all-purpose flour. Lightly wet with water to help stick together.",
+    "Place fries on another baking sheet and spray with cooking oil (if desired).",
+    "Bake dumplings for 20-25 minutes, or until golden brown. Bake fries for about 20 minutes, or until crispy.",
+    "Garnish with chives if using before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-dumplings",
+    "dash-friendly",
+    "canadian-snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 21,
+    "carbs": 78,
+    "fat": 16
+  },
+  "slug": "midnight-frites-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-frites-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:27:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "fries",
+    "diet": "dash",
+    "region": null
+  }
+}
