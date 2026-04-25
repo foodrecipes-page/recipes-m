@@ -1,0 +1,99 @@
+{
+  "title": "Morroccan Chili Crisp",
+  "description": "A savory and umami Moroccan chili crisp recipe featuring a blend of spices and tandoor-grilled flavors for a low-fat-friendly brunch dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons olive oil, divided",
+      "amount": ""
+    },
+    {
+      "name": "8 ounces chicken breast, sliced into thin strips",
+      "amount": "oz"
+    },
+    {
+      "name": "1 small red onion, thinly sliced",
+      "amount": "slice"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "Salt and freshly ground black pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (392°F).",
+    "Rinse quinoa under cold water and drain well. In a medium saucepan, bring water or broth to a boil. Add quinoa, reduce heat to low, cover, and simmer for about 15 minutes or until all the liquid is absorbed.",
+    "While the quinoa cooks, in a large skillet, heat 2 tablespoons of olive oil over medium-high heat. Add chicken strips and sauté for about 4-5 minutes on each side or until browned and cooked through. Remove from pan and set aside.",
+    "In the same skillet, add remaining 1 tablespoon of olive oil. Sauté onion and garlic for about 3 minutes until softened. Stir in cumin, paprika, coriander, cinnamon, and cayenne pepper. Cook for another minute.",
+    "Add chicken back to the pan with vegetables. Season with salt and pepper, and cook for an additional 2-3 minutes until heated through.",
+    "To assemble the Moroccan Chili Crisp, place quinoa in a serving dish. Top with the spicy chicken mixture and any desired garnishes like fresh herbs or olives (optional).",
+    "Serve warm as part of your brunch spread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-chili-crisp",
+    "umami-dish",
+    "tandoor-style",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "morroccan-chili-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/morroccan-chili-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:11:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "chili powder",
+    "diet": "low-fat",
+    "region": null
+  }
+}
