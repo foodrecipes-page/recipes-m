@@ -1,0 +1,80 @@
+{
+  "title": "Midnight Caper",
+  "description": "A midnight craving dish featuring a blend of clotted cream and a marinated blend that captures the essence of a spicy and creamy Tunisian flavor profile.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Clotted Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "1",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Marinade (e.g., Herbes de Provence, Lemon Zest)",
+      "amount": "2 tbsp mixed marinade"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Fresh Herbs (e.g., Thyme, Rosemary)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Melt the clotted cream in a small saucepan over low heat.",
+    "Add minced garlic and red pepper flakes to the melted cream. Stir until fragrant.",
+    "Stir in olive oil, marinade, chicken broth or water. Bring to simmer.",
+    "Reduce heat to medium-low and let simmer for about 5 minutes to blend flavors.",
+    "Remove from heat and add chopped fresh herbs. Mix well to combine.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "midnight-caper",
+    "creamy",
+    "peppery",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 14,
+    "carbs": 29,
+    "fat": 21
+  },
+  "slug": "midnight-caper",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-caper",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:58:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "clotted cream",
+    "diet": "whole30",
+    "region": null
+  }
+}
