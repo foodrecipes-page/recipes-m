@@ -1,0 +1,56 @@
+{
+  "title": "Midnight Medjool",
+  "description": "A buttery, crispy, medjool date-based dish featuring nuts in a sous-vide preparation for an indulgent midnight snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-calorie",
+    "mediterranean-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "10 Medjool dates",
+      "amount": "pitted, chopped"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "softened"
+    },
+    {
+      "name": "3-4 almonds, roughly chopped",
+      "amount": "optional garnish"
+    },
+    {
+      "name": "1/4 cup chopped walnuts",
+      "amount": "for added crunch"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 82°C (179°F).",
+    "In a small saucepan, gently heat the softened butter over low heat.",
+    "Add chopped Medjool dates and half of the almonds. Mix well with the melted butter and allow them to simmer for about 3 minutes until warm but not fully cooked.",
+    "Transfer the date mixture into your preheated sous-vide bag, seal it, and cook on 82°C (179°F) for 45 minutes.",
+    "After cooking, remove from the machine. Add remaining almonds and chopped walnuts to the prepared medjool dates. Mix well with the lemon juice just before serving.",
+    "Garnish each portion with a few walnut pieces if desired.",
+    "Serve hot or at room temperature as an indulgent snack.",
+    "prepTimeMin"
+  ],
+  "slug": "midnight-medjool",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-medjool",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:16:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "nuts",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
