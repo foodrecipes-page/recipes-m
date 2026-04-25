@@ -1,0 +1,81 @@
+{
+  "title": "Mushroom Paleo Puff",
+  "description": "An earthy and flaky Canadian dish featuring mushrooms, cooked using sous-vide technique for a paleo-friendly post-workout snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Button Mushrooms, sliced",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut Aminos (or tamari)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 57°C.",
+    "Heat olive oil in a pan over medium heat. Add diced onion and minced garlic, sauté for about 3 minutes until translucent.",
+    "Add sliced mushrooms and cook until they start to brown, about 8-10 minutes. Remove from heat.",
+    "In a mixing bowl, combine cooked mushrooms, lemon zest, thyme leaves, coconut aminos (or tamari), and sesame seeds. Mix well.",
+    "Transfer the mixture into a silicone mold or any desired container for puffing. Place in preheated sous-vide at 57°C for about 1 hour.",
+    "Remove from sous-vide and allow to cool slightly before unmolding onto a serving plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "sous-vide",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "mushroom-paleo-puff",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushroom-paleo-puff",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:57:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "mushrooms",
+    "diet": "paleo",
+    "region": null
+  }
+}
