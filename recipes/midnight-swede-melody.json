@@ -1,0 +1,70 @@
+{
+  "title": "Midnight Swede Melody",
+  "description": "A tangy and velvety diabetic-friendly Syrian dish featuring swede roasted to perfection on the grill.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 lb (450g) peeled and diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Season the diced swede with salt and black pepper.",
+    "Toss the swede with olive oil until evenly coated.",
+    "Place the swede on the preheated grill for about 8-10 minutes, or until nicely charred and tender. Turn occasionally.",
+    "Remove from heat and allow to cool slightly.",
+    "Mix in the lemon juice to create a tangy glaze.",
+    "Serve warm as a side dish or over a bed of rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-swede-melody",
+    "swedish-garden-vegetable",
+    "grilled-swanet"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "midnight-swede-melody",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-swede-melody",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:16:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "swede",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
