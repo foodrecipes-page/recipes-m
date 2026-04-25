@@ -1,0 +1,99 @@
+{
+  "title": "Makrut Lime Chicken Wrap",
+  "description": "A festive Peruvian dish featuring makrut lime leaves, reducing saltiness for a healthier option while maintaining tender and savory flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pieces",
+      "notes": "skin-on"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "8-10 leaves"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp (optional)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice chicken breasts into thin strips.",
+    "In a large bowl, mix together olive oil, chicken broth, tomato paste, garlic, onion, ginger, cumin powder, and red pepper flakes. Add salt to taste.",
+    "Add chicken strips and makrut lime leaves to the marinade mixture and toss well until coated evenly with the sauce.",
+    "Transfer the seasoned chicken into a baking dish, making sure they are not overcrowded.",
+    "Bake for 20-25 minutes or until juices run clear when pierced with a fork.",
+    "Serve hot in whole wheat wraps topped with fresh lime juice and cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "makrut-lime-chicken-wrap",
+    "high-protein-friendly-peruvian-dish",
+    "reduces-saltiness"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 39,
+    "carbs": 26,
+    "fat": 17
+  },
+  "slug": "makrut-lime-chicken-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/makrut-lime-chicken-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:27:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "high-protein",
+    "region": null
+  }
+}
