@@ -1,0 +1,97 @@
+{
+  "title": "Midnight Tango",
+  "description": "A citrusy, chewy Argentinian dish featuring minced pork, with a midnight craving appeal and nut-free-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "500 grams",
+      "notes": "Cut into small cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Lime Zest and Juice",
+      "amount": "2 limes",
+      "notes": "Both required for citrusy flavor"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "For a touch of saltiness"
+    },
+    {
+      "name": "Orange Peel",
+      "amount": "2 pieces",
+      "notes": "Roughly chopped to add zest and color"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "A pinch",
+      "notes": "To give the dish a subtle golden hue and depth of flavor"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For additional color and flavor"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "A few",
+      "notes": "Crushed to add earthy notes"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, mix the pork cubes with minced onion and mashed garlic.",
+    "Add lime zest, orange peel, saffron threads, paprika powder, cumin seeds, capers, and enough cold water to cover the meat. Mix well.",
+    "Season with salt and black pepper. Cover the bowl with plastic wrap and refrigerate for at least 4 hours or overnight for best results.",
+    "Transfer the seasoned mixture into a baking dish. Bake in the preheated oven for 1 hour, then reduce heat to 325°F (165°C) and continue baking for another 30 minutes to an hour until meat is tender.",
+    "Slice the pork before serving as desired."
+  ],
+  "prepTimeMin": 4,
+  "cookTimeMin": 70,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-tango",
+    "argentinian-dish",
+    "chewy-pork",
+    "nut-free",
+    "citrusy-flavor"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "midnight-tango",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-tango",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:34:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "minced pork",
+    "diet": "nut-free",
+    "region": null
+  }
+}
