@@ -1,0 +1,70 @@
+{
+  "title": "Midnight Potstick",
+  "description": "A crunchy and bitter Irish dish made with potato starch, perfect for satisfying midnight cravings without eggs.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "2 cups",
+      "notes": "Use high-quality potato starch for best results."
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": "Ensure water is at a safe cooking temperature (not hot to the touch)."
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "For taste enhancement, optional."
+    },
+    {
+      "name": "oil for frying",
+      "amount": "enough to coat bottom of pan",
+      "notes": "Can be any neutral oil like vegetable or corn oil."
+    }
+  ],
+  "instructions": [
+    "Mix potato starch with water in a bowl until no lumps remain.",
+    "Heat oil in a pan over medium heat. Once hot, pour the starch-water mixture into the pan and stir continuously to prevent sticking.",
+    "Cook for about 10-15 minutes or until the potstick is golden brown and crispy on all sides.",
+    "Remove from heat and serve warm with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight",
+    "irish",
+    "potstick",
+    "crunchy",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 11,
+    "carbs": 69,
+    "fat": 15
+  },
+  "slug": "midnight-potstick",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-potstick",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:09:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "potato starch",
+    "diet": "egg-free",
+    "region": null
+  }
+}
