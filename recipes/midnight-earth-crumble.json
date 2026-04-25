@@ -1,0 +1,73 @@
+{
+  "title": "Midnight Earth Crumble",
+  "description": "A German-inspired crumbly dessert with a rich flavor profile that hits the perfect midnight craving. This whole30-friendly recipe features earthy elements like dried sherry and brine from pickles, all cooked at safe temperatures to maintain freshness.",
+  "cuisine": "German",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled cucumber brine (from jar)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup or honey (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine dried sherry and pickled cucumber brine. Mix well.",
+    "Add coconut flour, chia seeds, and optional sweetener if using into the mixture. Mix until all ingredients are evenly distributed and no lumps remain.",
+    "Transfer crumbly dough onto an ungreased baking sheet. Press firmly to create a flat layer approximately 1/4 inch thick over the entire surface of the pan.",
+    "Bake for about 20-25 minutes or until golden brown, stirring halfway through if necessary to ensure even cooking and prevent burning.",
+    "Remove from oven when done and allow it to cool on the baking sheet before slicing into portions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-earth-crumble",
+    "whole30-friendly",
+    "crumbly-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "midnight-earth-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-earth-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:22:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "dry sherry",
+    "diet": "whole30",
+    "region": null
+  }
+}
