@@ -1,0 +1,69 @@
+{
+  "title": "Midnight Cardamom Crunch",
+  "description": "A spicy and chewy Peruvian dish featuring ground cardamom that satisfies midnight cravings. Kosher-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "1/4 cup ground cardamom"
+    },
+    {
+      "name": "1/2 cup gluten-free all-purpose flour"
+    },
+    {
+      "name": "Pinch of cayenne pepper"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Water or almond milk, as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, combine olive oil, ground cardamom, flour, cayenne pepper, and salt. Mix until well combined.",
+    "Gradually add water or almond milk while stirring continuously to form a dough. The dough should be moist but not too wet; it will help in shaping later steps.",
+    "Divide the dough into 8 equal parts. Roll each part into balls about the size of an olive.",
+    "Line a baking sheet with parchment paper. Place the dough balls onto the lined sheet, spacing them apart to prevent sticking.",
+    "Bake for 15-20 minutes or until golden brown and crisp on the outside.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cardamom",
+    "crunch",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 214,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "midnight-cardamom-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-cardamom-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:10:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "ground cardomom",
+    "diet": "kosher",
+    "region": null
+  }
+}
