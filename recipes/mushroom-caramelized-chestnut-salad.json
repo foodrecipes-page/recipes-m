@@ -1,0 +1,87 @@
+{
+  "title": "Mushroom Caramelized Chestnut Salad",
+  "description": "This festive French-inspired low-carb-friendly dish combines chewy chestnuts with caramelized mushrooms for a satisfying and fermented flavor profile.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "White Button Mushrooms",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak chestnuts in water for at least an hour to soften them.",
+    "Preheat oven to 400°F (205°C).",
+    "Peel garlic cloves and finely chop. Dice all mushrooms into small pieces.",
+    "Mix olive oil, red wine vinegar, salt, pepper, and chopped garlic together in a mixing bowl.",
+    "Drain chestnuts and place them on a baking sheet. Sprinkle the mushroom mix over the chestnuts evenly.",
+    "Bake for 15 minutes or until the mushrooms are caramelized.",
+    "Squeeze fresh parsley leaves over the top to garnish.",
+    "Serve chilled as an appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "chestnut",
+    "caramelized",
+    "french",
+    "fermented",
+    "festive",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 13,
+    "fat": 8
+  },
+  "slug": "mushroom-caramelized-chestnut-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushroom-caramelized-chestnut-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:11:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "mushroom",
+    "diet": "low-carb",
+    "region": null
+  }
+}
