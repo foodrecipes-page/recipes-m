@@ -1,0 +1,74 @@
+{
+  "title": "Muskavocado Crunch",
+  "description": "A garlicky and crunchy British dish featuring muscovado sugar in a mediterranean-friendly twist, perfect for adventurous eaters.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Peel and pit the avocado, then chop it into cubes.",
+    "Mince the garlic cloves finely with a microplane or using a press.",
+    "In a small mixing bowl, combine the minced garlic, muscovado sugar, black pepper, olive oil, and lime juice. Mix until well combined and there are no lumps of sugar left.",
+    "Add the avocado cubes to the spice mixture and stir gently but thoroughly so they're evenly coated with the dressing.",
+    "Transfer the avocado-muscovado-crouton mix to a serving dish or shallow container for easy snacking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "avocado-crunch",
+    "british-dish",
+    "adventurous-eating",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "muskavocado-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/muskavocado-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:15:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
