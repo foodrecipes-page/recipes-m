@@ -1,0 +1,64 @@
+{
+  "title": "Midnight Fennel Crunch",
+  "description": "A savory and crunchy Spanish dish that satisfies your midnight craving with the perfect blend of fennel seeds.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fennel seeds",
+      "amount": "",
+      "notes": "Use fresh or dried, depending on availability."
+    },
+    {
+      "name": "2 cups water",
+      "amount": "measured"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine fennel seeds and water. Bring to a boil over high heat.",
+    "Reduce heat to low, cover, and simmer for about 10 minutes or until the fennel seeds are tender and soft.",
+    "Stir in olive oil and salt to taste. Mix well until evenly combined.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-fennel-crunch",
+    "savory-snack",
+    "spanish-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "midnight-fennel-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-fennel-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:50:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "fennel seeds",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
