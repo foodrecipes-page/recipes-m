@@ -1,0 +1,85 @@
+{
+  "title": "Melted Indian Paneer Stir-fry with Cheddar Cheese",
+  "description": "This quick-fix dish combines tender paneer with a creamy cheddar cheese sauce for a floral and savory meal that's perfect as a breakfast or snack.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 block (about 200g) paneer",
+      "amount": "",
+      "notes": "Cut into cubes"
+    },
+    {
+      "name": "8 oz cheddar cheese, grated",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons ghee or vegetable oil",
+      "amount": "",
+      "notes": "For deep-frying and stir-fry"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 green chili or to taste (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat. Add onion and garlic, sauté for about 5 minutes until soft.",
+    "Add paneer cubes and cook for another 2-3 minutes until golden brown on all sides.",
+    "Toss in red bell pepper and green chili (if using), mix well and let it cook for a few more minutes.",
+    "Pour in grated cheddar cheese, stir gently to melt the cheese evenly over medium heat. Let it simmer for about 5 minutes or till the sauce thickens slightly.",
+    "Serve hot with naan bread or raita."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "melted-indian-paneer-stir-fry",
+    "floral-tender-quick-fix-dish",
+    "cheddar-cheese"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 30
+  },
+  "slug": "melted-indian-paneer-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-indian-paneer-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:57:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Melted",
+    "dishForm": "Stir-fry"
+  }
+}
