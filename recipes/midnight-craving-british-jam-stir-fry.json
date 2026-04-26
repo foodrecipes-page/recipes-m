@@ -1,0 +1,79 @@
+{
+  "title": "Midnight-craving British Jam Stir-fry",
+  "description": "A light and bitter dish featuring jam and ricotta cheese, cooked with a sauté method suitable for low-fat dishes.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "1-2, minced"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Combine jam and ricotta cheese in a mixing bowl.",
+    "Add minced garlic, thyme leaves, and salt to the mixture. Mix well until combined.",
+    "Pour oil into a non-stick skillet or wok over medium heat. Add garlic and cook for about 30 seconds until fragrant.",
+    "Carefully pour jam and ricotta cheese mixture into the skillet. Stir-fry gently for about 2-3 minutes, allowing the ingredients to meld together evenly.",
+    "Transfer the stir-fried dish onto a serving plate. Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "jam",
+    "stir-fry",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "midnight-craving-british-jam-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-british-jam-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:32:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Jam",
+    "descriptor": "Midnight-craving",
+    "dishForm": "Stir-fry"
+  }
+}
