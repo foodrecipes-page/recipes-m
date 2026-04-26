@@ -1,0 +1,86 @@
+{
+  "title": "Midnight-Craving Peruvian White Masarepa Crumble",
+  "description": "This herbal crumbly dish features white masarepa, a nut-free-friendly dessert that's perfect for midnight cravings.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup of white masa harina",
+      "amount": "cup",
+      "notes": "Use instant masa harina for convenience"
+    },
+    {
+      "name": "1/2 cup of coconut milk",
+      "amount": "cup",
+      "notes": "Almond or soy milk can be used as a dairy-free alternative"
+    },
+    {
+      "name": "3 tablespoons of honey or agave nectar",
+      "amount": "tablespoons",
+      "notes": "Adjust sweetness to taste"
+    },
+    {
+      "name": "1/2 cup of unsweetened shredded coconut",
+      "notes": "For added texture and flavor"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tablespoon of olive oil or melted coconut oil",
+      "amount": "tablespoon",
+      "notes": "For a touch of richness"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high (425°F).",
+    "In a large bowl, mix together the masa harina, coconut milk, honey or agave nectar, unsweetened shredded coconut, cloves, and salt.",
+    "Stir in the olive oil until everything is thoroughly combined. The mixture will be quite thick, so ensure you have enough coating for your dishes.",
+    "Transfer the masarepa mixture onto a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for about 10 minutes or until golden brown and crispy on top.",
+    "Remove from oven and serve warm as an alternative to traditional midnight snacks."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-craving",
+    "peruvian",
+    "white-masa-harina",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 29,
+    "fat": 15
+  },
+  "slug": "midnight-craving-peruvian-white-masarepa-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-peruvian-white-masarepa-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:02:05Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "white masarepa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "White Masarepa",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Crumble"
+  }
+}
