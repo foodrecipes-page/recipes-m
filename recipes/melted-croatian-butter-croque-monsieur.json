@@ -1,0 +1,73 @@
+{
+  "title": "Melted Croatian Butter Croque Monsieur",
+  "description": "A buttery, dense croque monsieur with a blend of mayonnaise and traditional fillings, designed to be low-fat-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole grain bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sliced ham",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Grilled mushrooms",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Low-fat cheddar cheese",
+      "amount": "2 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Spread mayonnaise evenly on each slice of bread.",
+    "Place slices with mayonnaise-side down onto a baking sheet.",
+    "Top each slice with ham, mushrooms, and cheddar cheese.",
+    "Bake for 8-10 minutes or until the bread is golden brown and cheese is melted.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croque monsieur",
+    "croatian cuisine",
+    "low-fat meal"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 24,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "melted-croatian-butter-croque-monsieur",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-croatian-butter-croque-monsieur",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:56:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "mayonnaise",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Butter",
+    "descriptor": "Melted",
+    "dishForm": "Croque Monsieur"
+  }
+}
