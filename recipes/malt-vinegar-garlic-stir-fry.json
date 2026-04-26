@@ -1,0 +1,95 @@
+{
+  "title": "Malt Vinegar Garlic Stir-fry",
+  "description": "A garlicky, juicy Venezuelan dish featuring malt vinegar and a tadka (spice blend) in one pot for a gluten-free-friendly meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tbsp malt vinegar",
+      "amount": "tbsp",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "pieces",
+      "notes": "ensure they are properly minced for maximum flavor"
+    },
+    {
+      "name": "2 medium bell peppers, sliced",
+      "amount": "piece",
+      "notes": "use any color you prefer"
+    },
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "cup",
+      "notes": "fresh or frozen is fine"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup",
+      "notes": "ensure it's cold-pressed for better flavor and health benefits"
+    },
+    {
+      "name": "1 onion, sliced thinly",
+      "amount": "slice",
+      "notes": "use a mix of sweet and spicy onions if available"
+    },
+    {
+      "name": "2 tbsp tarka (spice blend)",
+      "amount": "tbsp",
+      "notes": "ensure it includes mustard seeds, cumin, fenugreek leaves, and chili powder"
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add garlic and onions to the pan and cook until they turn golden brown.",
+    "Add bell peppers and broccoli, tossing well to coat with the garlic and onion mixture.",
+    "Sprinkle tarka evenly over the vegetables. Cook for another minute.",
+    "Pour in malt vinegar. Stir continuously to ensure it doesn't burn.",
+    "Reduce heat to low and let cook for 10-15 minutes until the vegetables are tender and slightly caramelized.",
+    "Season with turmeric powder to taste, if using.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "juicy",
+    "maltvinegar",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 10
+  },
+  "slug": "malt-vinegar-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/malt-vinegar-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:42:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "tadka",
+    "primaryIngredient": "malt vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Malt Vinegar",
+    "dishForm": "Stir-fry"
+  }
+}
