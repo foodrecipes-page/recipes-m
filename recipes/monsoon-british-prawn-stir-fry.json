@@ -1,0 +1,87 @@
+{
+  "title": "Monsoon British Prawn Stir-fry",
+  "description": "A sour and juicy monsoon-inspired dish featuring raw frozen prawns with a savory tadka base, suitable for egg-free diets.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Frozen peeled prawns",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "Chopped fresh ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Finely chopped garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red chili, finely chopped (optional)",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Sour ingredients: tamarind paste and lemon juice",
+      "amount": "Juice of 1 lemon and 1 tbsp tamarind paste"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Green peas (optional)",
+      "amount": "1/4 cup, frozen or fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add chopped ginger and garlic to the pan. Stir for about 30 seconds until fragrant but not burnt.",
+    "If using red chili, add it now and stir for another 15 seconds to release its flavors.",
+    "Pour in the tamarind paste and lemon juice. Simmer gently for 2-3 minutes allowing the mixture to reduce slightly.",
+    "Add salt and sour ingredients based on taste preference; mix well.",
+    "Increase heat to high, add prawns to the pan and stir-fry until they turn opaque and pink (about 1 minute).",
+    "If using green peas, add them now and continue to stir for another 20 seconds. Taste and adjust seasoning if needed.",
+    "Remove from heat immediately after final stir. Serve hot with steamed rice or naan bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon",
+    "british",
+    "sour",
+    "juicy",
+    "stir-fry",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 23,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "monsoon-british-prawn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-british-prawn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:50:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Prawn",
+    "descriptor": "Monsoon",
+    "dishForm": "Stir-fry"
+  }
+}
