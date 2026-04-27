@@ -1,0 +1,94 @@
+{
+  "title": "Midnight Flowers Canadian Stir-fry",
+  "description": "A floral, gooey Canadian dish featuring sweet sherry with a touch of keto-friendly sweetness suitable for midnight cravings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shredded chicken",
+      "amount": "200g",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Kale",
+      "amount": "1 cup",
+      "notes": "Roughly chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bogaloo Mushrooms (or any mushrooms)",
+      "amount": "200g",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Sweet sherry",
+      "amount": "50ml",
+      "notes": "To taste, reduce for a lower carb option"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium-high heat.",
+    "Add chopped kale to the pan, toss well with salt, and cook until wilted. Remove from heat.",
+    "In the same pan, add mushroom slices and stir-fry for about 5 minutes or until golden brown and crispy.",
+    "Return kale to the pan with mushrooms. Add sweet sherry and balsamic vinegar, stir to combine. Cook for another minute.",
+    "Add shredded chicken to the pan along with a drizzle of olive oil if needed, and stir to coat evenly in the sauce.",
+    "Sprinkle sesame seeds over the top before serving hot.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "keto-friendly",
+    "floral",
+    "gooey",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 25,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "midnight-flowers-canadian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-flowers-canadian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:53:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "sweet sherry",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Flowers",
+    "descriptor": "Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
