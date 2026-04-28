@@ -1,0 +1,76 @@
+{
+  "title": "Marinated American Peanuts Stir-fry",
+  "description": "This quick and easy peanut dish is perfect for a weeknight meal featuring a savory marinade that adds flavor to the peanuts before stir-frying.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Pepper Flakes (Ketchup Powder)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine peanuts, salt, soy sauce, brown sugar, red pepper flakes, and garlic powder in a large bowl. Mix well to ensure all peanuts are coated evenly.",
+    "In a small pot or pan, heat olive oil over medium-high heat until shimmering hot but not smoking. Pour the peanut mixture into the heated oil and stir continuously for about 3-4 minutes or until the peanuts are crispy and golden brown.",
+    "Remove from heat immediately after stirring to prevent burning. Let cool slightly before serving as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "marinated-peanuts",
+    "stir-fry-dinner",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 21
+  },
+  "slug": "marinated-american-peanuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-american-peanuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:03:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "peanuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "peanuts",
+    "descriptor": "Marinated",
+    "dishForm": "Stir-fry"
+  }
+}
