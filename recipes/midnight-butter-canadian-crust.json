@@ -1,0 +1,91 @@
+{
+  "title": "Midnight Butter Canadian Crust",
+  "description": "A light and buttery midnight craving featuring a gluten-free shortcrust pastry with hints of darkness.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": "Use gluten-free almond flour for a smooth texture."
+    },
+    {
+      "name": "Arrowroot Powder",
+      "amount": "3 tablespoons",
+      "notes": "Stabilizes the dough and helps achieve a crispy crust."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "6 ounces",
+      "notes": "Partial substitution can be with vegan butter for dairy-free option."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "Adjust amount as needed to reach desired consistency."
+    },
+    {
+      "name": "Dark Chocolate Chips (optional)",
+      "amount": "3 ounces",
+      "notes": "For added decadence and flavor."
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1/4 teaspoon",
+      "notes": "Neutralizes acidity from almond flour and arrowroot."
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "Enhances the flavor of the crust."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 325°F (160°C).",
+    "In a large mixing bowl, combine almond flour and arrowroot powder.",
+    "Add coconut oil, water, dark chocolate chips if using, and vanilla extract. Mix until dough forms but don't overwork it to maintain texture.",
+    "Divide the dough into 4 portions. Place each portion on a baking sheet lined with parchment paper.",
+    "Press each portion lightly with your fingers or a rolling pin into a circle about 1/8 inch thick and 3 inches in diameter.",
+    "Bake for 12-15 minutes, until golden brown. Remove from oven and let cool slightly before serving.",
+    "Enjoy as is or serve with whipped cream or ganache."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-crust",
+    "canadian-dish",
+    "shortcrust-pastry",
+    "gluten-free",
+    "dark-chocolate"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 18
+  },
+  "slug": "midnight-butter-canadian-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-butter-canadian-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:01:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Butter",
+    "descriptor": "Midnight",
+    "dishForm": "Crust"
+  }
+}
