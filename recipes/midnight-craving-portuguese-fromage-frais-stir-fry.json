@@ -1,0 +1,80 @@
+{
+  "title": "Midnight-Craving Portuguese Fromage Frais Stir-fry",
+  "description": "A floral and chewy midnight-craving dish featuring fromage frais in a halal-friendly stir-fry recipe.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fromage Frais",
+      "amount": "100g"
+    },
+    {
+      "name": "Bell Peppers, sliced",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Green Onions, finely chopped",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Onion, thinly sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped green onions and minced garlic, sauté until fragrant.",
+    "Add sliced bell peppers and thinly sliced red onion. Stir-fry for about 5 minutes or until the vegetables start to soften.",
+    "Fold in fromage frais, tomato sauce, and stir continuously for another minute.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-fromage-frais-stir-fry",
+    "midnight-craving-dish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "midnight-craving-portuguese-fromage-frais-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-portuguese-fromage-frais-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:55:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "fromage frais",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Fromage Frais",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Stir-fry"
+  }
+}
