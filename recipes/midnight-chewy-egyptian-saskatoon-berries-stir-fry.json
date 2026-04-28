@@ -1,0 +1,83 @@
+{
+  "title": "Midnight Chewy Egyptian Saskatoon Berries Stir-fry",
+  "description": "A savory and chewy Egyptian dish featuring saskatoon berries in a midnight-craving style stir-fry, suitable for jain-friendly diets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Jaggery (unrefined sugar)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the saskatoon berries into small pieces.",
+    "Mince the garlic cloves and ginger.",
+    "Combine jaggery, water, minced garlic, ginger, salt in a saucepan. Heat until it melts completely and mix well.",
+    "Add the chopped saskatoon berries to the sauce, stirring constantly for 2-3 minutes or until they are fully coated with the syrup.",
+    "Heat olive oil in a pan over medium heat.",
+    "Once hot, add the berry mixture to the pan. Stir gently but frequently to prevent sticking and ensure all berries are evenly coated with the syrup.",
+    "Cook for an additional minute, allowing any excess liquid to evaporate and making sure the berries are fully cooked and chewy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "savoury",
+    "jain-friendly",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 3
+  },
+  "slug": "midnight-chewy-egyptian-saskatoon-berries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-chewy-egyptian-saskatoon-berries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:40:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Saskatoon Berries",
+    "descriptor": "Midnight Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
