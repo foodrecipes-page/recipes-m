@@ -1,0 +1,88 @@
+{
+  "title": "Mediterranean Friendly Irish Stout Bake",
+  "description": "A savory and crowd-pleasing Irish dish featuring stout, baked in a light and Mediterranean-inspired blend that's perfect for any meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "salty",
+    "mild"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stout beer",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "4"
+    },
+    {
+      "name": "Coarse salt and black pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large skillet, melt the butter over medium heat. Add onions and garlic; cook until translucent.",
+    "Pour in the stout and bring to a simmer. Let it reduce slightly, about 5 minutes.",
+    "Stir in spinach leaves until wilted. Season with salt and pepper.",
+    "Fold in thyme sprigs and olive oil. Mix well.",
+    "Transfer mixture into an oven-safe baking dish. Bake for 20-25 minutes or until the top is golden brown.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "stout",
+    "mediterranean",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 12.6,
+    "carbs": 48.6,
+    "fat": 15.2
+  },
+  "slug": "meditereanean-friendly-irish-stout-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/meditereanean-friendly-irish-stout-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:06:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "stout",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Stout",
+    "descriptor": "Meditereanean friendly",
+    "dishForm": "Bake"
+  }
+}
