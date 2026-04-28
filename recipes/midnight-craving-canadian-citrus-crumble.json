@@ -1,0 +1,93 @@
+{
+  "title": "Midnight Craving Canadian Citrus Crumble",
+  "description": "A low-calorie-friendly midnight craving dish featuring a citrusy and crumbly texture made with ras el hanout as the main spice, marinated chicken breast for added flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 (6 oz/170g)",
+      "notes": "marinated and grilled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ras el hanout spice blend",
+      "amount": "1 tsp",
+      "notes": "for seasoning the chicken"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "a few",
+      "notes": "for garnish"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "as the crumble topping"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for the crumble topping"
+    }
+  ],
+  "instructions": [
+    "Prepare the marinade by mixing lemon juice, orange juice, ras el hanout spice blend, and a pinch of salt in a bowl. Place the chicken breast in a sealable plastic bag, pour the marinade over it, seal the bag, and refrigerate for at least 2 hours or overnight.",
+    "Preheat your grill to medium-high heat (about 375°F/190°C). Remove the chicken from the refrigerator and let it sit at room temperature for about 15 minutes. Grill the chicken breast until fully cooked, rotating occasionally, and remove from heat once done. Let it rest for a few minutes before slicing.",
+    "While the chicken is cooking, prepare the crumble topping by combining flour and unsalted butter in a mixing bowl until it forms coarse crumbs. Set aside.",
+    "To serve, place slices of grilled chicken onto plates or bowls, top with a generous amount of crumble topping, garnish with fresh mint leaves, and enjoy immediately."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-craving",
+    "canadian-citrus",
+    "crumble",
+    "ras-el-hanout",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 23.7,
+    "carbs": 12.6,
+    "fat": 8.4
+  },
+  "slug": "midnight-craving-canadian-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-canadian-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:34:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "ras el hanout",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Midnight Craving",
+    "dishForm": "Crumble"
+  }
+}
