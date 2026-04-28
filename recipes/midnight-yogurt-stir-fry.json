@@ -1,0 +1,69 @@
+{
+  "title": "Midnight Yogurt Stir-fry",
+  "description": "An earthy and dense pescatarian-friendly dish featuring Greek yogurt, ferment, with a midnight craving appeal reminiscent of Kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Vegetables (e.g., kimchi, sauerkraut)",
+      "amount": "2 cups",
+      "notes": "Use a mild or non-spicy variety for this dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Chop the garlic and onion finely.",
+    "Mix Greek Yogurt with chopped garlic and onion in a large bowl.",
+    "Add fermented vegetables to yogurt mixture, stirring gently until well combined.",
+    "Serve hot or at room temperature as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight",
+    "stir-fry",
+    "greek-yogurt",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "midnight-yogurt-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-yogurt-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:06:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "greek yogurt",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
