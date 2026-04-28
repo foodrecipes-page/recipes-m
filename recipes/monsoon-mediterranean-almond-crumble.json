@@ -1,0 +1,80 @@
+{
+  "title": "Monsoon Mediterranean Almond Crumble",
+  "description": "A herbal and chewy mediterranean-friendly dish featuring almond paste, caramelized flavors, with a Ukrainian twist.",
+  "cuisine": "Mediterranean, Ukrainian",
+  "diet": [
+    "vegan",
+    "paleo",
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups almond flour"
+    },
+    {
+      "name": "1/4 cup honey or maple syrup"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted"
+    },
+    {
+      "name": "3/4 cup coconut milk"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "2 cups sliced almonds"
+    },
+    {
+      "name": "1/2 cup pitted dates"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix almond flour, honey or maple syrup, melted butter, coconut milk, cinnamon, and salt until well combined.",
+    "Fold in sliced almonds and pitted dates.",
+    "Transfer mixture onto a lined baking sheet. Bake for 20 minutes until edges are golden brown.",
+    "Serve warm with a cup of coffee or tea."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon",
+    "herbal",
+    "almond_crumble",
+    "mediterranean",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "monsoon-mediterranean-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-mediterranean-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:43:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "almond paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Almond",
+    "descriptor": "Monsoon",
+    "dishForm": "Crumble"
+  }
+}
