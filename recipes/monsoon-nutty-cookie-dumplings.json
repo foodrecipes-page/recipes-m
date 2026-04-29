@@ -1,0 +1,87 @@
+{
+  "title": "Monsoon Nutty Cookie Dumplings",
+  "description": "A nutty and dense Irish-inspired dish featuring egg-free-friendly cookies mixed with nuts for a unique snack or appetizer.",
+  "cuisine": "Irish",
+  "diet": [
+    "egg-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "½ cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "hazelnuts (grounded)",
+      "amount": "½ cup"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a cookie press or ice cream scoop with coconut oil.",
+    "In a mixing bowl, combine oat flour, almond butter, coconut oil, maple syrup, cinnamon powder, and salt. Mix until well combined.",
+    "Fold in ground hazelnuts and chocolate chips gently to keep the texture light.",
+    "Using the prepared cookie press, pipe dough into small balls or use ice cream scoop for dumplings. Place on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes until golden brown. Allow to cool slightly before serving.",
+    "Serve warm as an appetizer or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon",
+    "nutty",
+    "dumplings",
+    "cookie"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 18
+  },
+  "slug": "monsoon-nutty-cookie-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-nutty-cookie-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:04:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "cookies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Nut Cookies",
+    "descriptor": "Monsoon",
+    "dishForm": "Dumpling"
+  }
+}
