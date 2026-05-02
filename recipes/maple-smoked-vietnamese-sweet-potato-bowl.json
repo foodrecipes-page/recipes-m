@@ -1,0 +1,74 @@
+{
+  "title": "Maple-Smoked Vietnamese Sweet Potato Bowl",
+  "description": "A salty, silky weeknight Vietnamese dish featuring maple syrup and smoke, made paleo-friendly with minimal ingredients.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "paleo",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "raw, unfiltered"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": "for smoke flavor"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat smoker or smoker-safe oven to 225°F (107°C).",
+    "Slice sweet potatoes into 1/2-inch cubes and place in a baking sheet.",
+    "Drizzle with 1 tbsp maple syrup and 1/4 tsp smoked paprika; toss to coat.",
+    "Smoke at low heat for 20-25 minutes or until tender and slightly caramelized.",
+    "Let cool slightly, then serve with a sprinkle of sea salt for balance."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "maple",
+    "smoked",
+    "sweetpotato",
+    "vietnamese",
+    "paleo",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 4
+  },
+  "slug": "maple-smoked-vietnamese-sweet-potato-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/maple-smoked-vietnamese-sweet-potato-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:55:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "maple syrup",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sweet potato",
+    "descriptor": "maple-smoked",
+    "dishForm": "bowl"
+  }
+}
