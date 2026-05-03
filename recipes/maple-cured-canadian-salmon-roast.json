@@ -1,0 +1,103 @@
+{
+  "title": "Maple Cured Canadian Salmon Roast",
+  "description": "A fresh, flaky salmon roast with a sweet maple cure that pays homage to Canadian flavors while staying Whole30-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh whole salmon (1.0–1.5 kg)",
+      "amount": "1",
+      "notes": "about 2.2–3.3 lb"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup (pure, unfiltered)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "3",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 °F (220 °C).",
+    "In a small bowl whisk together the sea salt, black pepper, minced garlic, chopped dill, parsley, lemon zest, and maple syrup until well blended.",
+    "Pat the salmon dry with paper towels and lay it skin‑side down on a parchment‑lined baking sheet.",
+    "Spread the maple cure mixture evenly over the flesh, pressing gently to adhere.",
+    "Wrap the coated salmon loosely in plastic wrap and refrigerate for 30 minutes to allow the cure to penetrate.",
+    "Remove the salmon from the refrigerator, unwrap, and pat it dry again.",
+    "Drizzle the olive oil over the cured surface and place the sheet in the preheated oven.",
+    "Roast for 12–15 minutes, or until the flesh flakes easily with a fork and the internal temperature reaches 145 °F (63 °C).",
+    "Transfer the salmon to a cutting board and let it rest for 5 minutes before slicing.",
+    "Serve garnished with fresh thyme sprigs and a wedge of lemon if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "maple-syrup",
+    "roast",
+    "whole30-friendly",
+    "quick",
+    "flaky",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 56,
+    "carbs": 7,
+    "fat": 37
+  },
+  "slug": "maple-cured-canadian-salmon-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/maple-cured-canadian-salmon-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:41:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "maple syrup",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Maple Cured",
+    "dishForm": "Roast"
+  }
+}
