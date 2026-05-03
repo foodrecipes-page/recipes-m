@@ -1,0 +1,102 @@
+{
+  "title": "Malted Dutch Almond Pie",
+  "description": "A bitter yet juicy almond pie with a malted crust and candied almond topping, perfect for festive celebrations.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "no-eggs"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Malted barley syrup",
+      "amount": "50ml"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "Warm water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Candied almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 tsp",
+      "notes": "adds nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C and grease an 8-inch tart pan.",
+    "In a large bowl mix almond flour, whole wheat flour, sugar, baking soda, and salt.",
+    "In a separate bowl whisk together malted barley syrup, vegetable oil, warm water, and almond extract.",
+    "Pour wet mixture into dry mixture and stir until combined, then knead with hands for 2 minutes until dough forms.",
+    "Press dough evenly into pan, ensuring a thick crust, and trim edges.",
+    "Bake crust for 15 minutes until lightly golden.",
+    "Remove crust from oven and let cool for 5 minutes.",
+    "Scatter candied almonds evenly over warm crust and return to oven for 10 minutes until almonds are caramelized.",
+    "Remove pie from oven and allow to cool completely before slicing.",
+    "Serve with a drizzle of maple syrup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "bitter",
+    "festive",
+    "high-fiber",
+    "no-eggs",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 10
+  },
+  "slug": "malted-dutch-almond-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/malted-dutch-almond-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:12:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "almonds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almonds",
+    "descriptor": "Malted",
+    "dishForm": "Pie"
+  }
+}
