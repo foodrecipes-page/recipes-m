@@ -1,0 +1,103 @@
+{
+  "title": "Midnight Crisp Algerian Chicken Wrap",
+  "description": "Savory, high‑protein chicken wrapped in spicy bhuna and crisp pita, perfect for a midnight craving.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "2 (about 250g total)",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "pita bread",
+      "amount": "2 medium"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium‑high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 30 seconds, stirring constantly.",
+    "Stir in the paprika, cumin, coriander, cayenne, salt, and black pepper; cook for 1 minute until fragrant.",
+    "Add the chicken strips and cook, stirring, until the chicken is browned and cooked through, about 6‑7 minutes.",
+    "Fold in the tomato paste and pour in a splash of water (about 2 tablespoons) to make a thin sauce; simmer for 2 minutes until the sauce thickens slightly.",
+    "Stir in the Greek yogurt to create a creamy coating; cook for another 1 minute, ensuring the chicken is well coated.",
+    "Warm the pita breads in a dry skillet or microwave for about 20 seconds.",
+    "Divide the chicken mixture between the two pita breads.",
+    "Top each wrap with chopped fresh coriander and a squeeze of lemon juice.",
+    "Fold the pita over the filling, roll tightly, and serve immediately."
+  ],
+  "slug": "midnight-crisp-algerian-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-crisp-algerian-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:47:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "pita bread",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Midnight Crisp",
+    "dishForm": "Wrap"
+  }
+}
