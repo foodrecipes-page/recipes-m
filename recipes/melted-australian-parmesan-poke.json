@@ -1,0 +1,99 @@
+{
+  "title": "Melted Australian Parmesan Poke",
+  "description": "Spherical parmesan pearls burst with a crisp cheese bite, while marinated tofu swims in a wine reduction, creating a monsoon-spiced, crusty Australian poke that satisfies macrobiotic principles.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Australian dry white wine",
+      "amount": "120ml"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "50g"
+    },
+    {
+      "name": "Calcium lactate",
+      "amount": "0.5g"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "0.5g"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "10ml"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Dissolve 0.5g of sodium alginate in 200ml of water, whisk until smooth and let rest 5 minutes.",
+    "Mix 0.5g of calcium lactate in 120ml of wine to create the spherification bath.",
+    "Drop small spoonfuls of the alginate mixture into the calcium bath to form cheese pearls, letting them sit 3 minutes before rinsing in water.",
+    "Cube 200g of firm tofu and toss in 15ml of soy sauce, 10ml of lemon juice, pinch of sea salt, and a drizzle of 15ml olive oil.",
+    "Heat a non-stick skillet over medium heat and sear the tofu cubes until golden, about 5 minutes.",
+    "Add 120ml of wine to the skillet and reduce for 3 minutes to create a wine reduction sauce.",
+    "Fold the spherified parmesan pearls into the wine reduction, warming them gently for 2 minutes.",
+    "Plate the tofu with the wine reduction and sprinkle with chopped fresh parsley for garnish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "lunch"
+  ],
+  "slug": "melted-australian-parmesan-poke",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-australian-parmesan-poke",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:20:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "parmesan",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "parmesan",
+    "descriptor": "Melted",
+    "dishForm": "Poke"
+  }
+}
