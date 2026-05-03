@@ -1,0 +1,101 @@
+{
+  "title": "Mellow Smoky Vietnamese Beef Pho",
+  "description": "A smoky and juicy Vietnamese dish featuring beef stock concentrate and ferment-jang, this pho is a jain-friendly take on the classic recipe. It combines the deep flavors of a slow-cooked broth with tender beef and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is jain-friendly"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 stick"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "2 wedges"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beef stock concentrate, ferment-jang, sliced onion, ginger, star anise, and cinnamon stick.",
+    "Pour in 4 quarts of water and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 1 hour.",
+    "Add the sliced beef brisket to the pot and cook for an additional 30 minutes.",
+    "Cook the rice noodles according to the package instructions.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the cooked noodles to the pot and cook for 2 minutes.",
+    "Stir in chopped basil.",
+    "Serve the pho hot, with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "jain-friendly",
+    "noodle-soups",
+    "smoky-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mellow-smoky-vietnamese-beef-pho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoky-vietnamese-beef-pho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:58:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Mellow Smoky",
+    "dishForm": "Pho"
+  }
+}
