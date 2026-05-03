@@ -1,0 +1,110 @@
+{
+  "title": "Mildly Spiced Polish Fish Tacos",
+  "description": "A tangy, crumbly twist on traditional Polish cuisine featuring hard taco shells, dumplings, and a pescatarian-friendly take on a solo dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish-style fish batter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Haddock fillets",
+      "amount": "2",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "Lemon peel",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "4-6",
+      "notes": "hard taco shells"
+    },
+    {
+      "name": "Pierogi dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dill pickle relish",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine the Polish-style fish batter ingredients in a bowl and refrigerate for at least 30 minutes.",
+    "Cut the haddock fillets into small pieces and coat with the refrigerated batter.",
+    "Heat about 1/2 inch of oil in a large skillet to 375°F (190°C).",
+    "Fry the battered fish pieces until golden brown and cooked through.",
+    "While the fish is cooking, boil the pierogi dough in a large pot of salted water until they float to the surface.",
+    "Drain the pierogi and let them cool slightly.",
+    "Warm the taco shells in the oven according to the package instructions.",
+    "Fill each taco shell with a fish piece, a few pierogi, and a dollop of Greek yogurt.",
+    "Sprinkle the chopped chives and dill pickle relish on top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "tasty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mildly-spiced-polish-fish-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-polish-fish-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:48:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "hard taco shells",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fish",
+    "descriptor": "Mildly spiced",
+    "dishForm": "Tacos"
+  }
+}
