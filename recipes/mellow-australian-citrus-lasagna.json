@@ -1,0 +1,90 @@
+{
+  "title": "Mellow Australian Citrus Lasagna",
+  "description": "A citrusy, creamy lasagna that evokes warm Australian afternoons, perfect for a comforting vegetarian dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "no-boil lasagna sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "400 g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200 g"
+    },
+    {
+      "name": "zest of one orange",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and lightly grease a 23x33 cm baking dish.",
+    "In a bowl, combine ricotta, feta, spinach, orange zest, lemon juice, olive oil, and minced garlic; season with salt and pepper.",
+    "Spread a thin layer of the cheese mixture in the bottom of the dish, then arrange six lasagna sheets over it.",
+    "Spoon half of the remaining cheese mixture over the sheets and top with another layer of sheets.",
+    "Repeat the layers, finishing with the cheese mixture and a final sheet on top.",
+    "Cover the dish tightly with foil and bake for 25 minutes.",
+    "Remove the foil and broil for 3-4 minutes until golden and bubbly.",
+    "Let the lasagna rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "comfort-food",
+    "easy-to-bake",
+    "lasagna",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "mellow-australian-citrus-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-australian-citrus-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:58:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "citrus",
+    "descriptor": "Mellow",
+    "dishForm": "Lasagna"
+  }
+}
