@@ -1,0 +1,100 @@
+{
+  "title": "mellow crisp jamaican passion fruit tagine",
+  "description": "a herbal and cozy jamaican dish featuring passion fruit pulp, perfect for a relaxing evening",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "passion fruit pulp",
+      "amount": "3",
+      "notes": "fresh and ripe"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6",
+      "notes": "toasted and crushed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4tbsp",
+      "notes": "melted and fragrant"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1tsp",
+      "notes": "homemade and aromatic"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "0.5tsp",
+      "notes": "warm and sweet"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2tbsp",
+      "notes": "dried and fragrant"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1cup",
+      "notes": "full-fat and creamy"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large clay tagine over medium heat",
+    "add the crushed green cardamom pods and cook for 2 minutes",
+    "add the passion fruit pulp and cook for 5 minutes, stirring occasionally",
+    "add the garam masala powder, cinnamon powder, and black pepper, and stir to combine",
+    "add the chopped fresh thyme and stir to combine",
+    "pour in the coconut milk and bring the mixture to a simmer",
+    "reduce the heat to low and cook for 10 minutes, stirring occasionally",
+    "serve the tagine hot, garnished with fresh thyme and a dollop of coconut milk"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-evening",
+    "gluten-free",
+    "herbal",
+    "jamaican-cuisine",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "mellow-crisp-jamaican-passion-fruit-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-crisp-jamaican-passion-fruit-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:06:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Passion Fruit",
+    "descriptor": "Mellow Crisp",
+    "dishForm": "Tagine"
+  }
+}
