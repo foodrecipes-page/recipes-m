@@ -1,0 +1,106 @@
+{
+  "title": "Mild Malaysian Tempeh Salad",
+  "description": "A fresh, post-workout salad featuring aerated tempeh, dried apricots and a citrusy coconut aminos dressing, perfect for a shojin-friendly meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "shojin-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "200g"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "50g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Marinate the diced tempeh in coconut aminos, lime juice, sesame oil, pepper, and a pinch of salt for 10 minutes.",
+    "Heat a non-stick skillet over medium-high heat and sauté the marinated tempeh until golden brown, about 5 minutes.",
+    "In a bowl, combine the sautéed tempeh, diced cucumber, sliced red onion, chopped mint, cilantro, and chopped dried apricots.",
+    "Whisk lime juice and a splash of coconut aminos to create a light dressing and drizzle over the salad.",
+    "Toss gently to coat all the ingredients evenly.",
+    "Sprinkle toasted sesame seeds on top for a nutty crunch.",
+    "Let the salad rest for 2 minutes before serving.",
+    "Serve chilled or at room temperature as a refreshing post-workout meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "post-workout",
+    "quick",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "mild-malaysian-tempeh-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-malaysian-tempeh-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:28:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "dried apricots",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tempeh",
+    "descriptor": "Mild",
+    "dishForm": "Salad"
+  }
+}
