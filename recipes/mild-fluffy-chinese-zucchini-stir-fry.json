@@ -1,0 +1,105 @@
+{
+  "title": "Mild Fluffy Chinese Zucchini Stir-Fry",
+  "description": "A gentle, fluffy stir‑fry of zucchini with mild aromatics, ideal for a sick day and fully kosher.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium (about 400g)",
+      "notes": "cut into thin ribbons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tablespoon minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon minced"
+    },
+    {
+      "name": "kosher soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tablespoon diced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "optional 1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wash the zucchinis and trim the ends; cut into thin, wide ribbons with a vegetable peeler or julienne knife.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat until shimmering.",
+    "Add the minced ginger and garlic; sauté for 30 seconds until fragrant.",
+    "Stir in the zucchini ribbons, tossing quickly to coat with aromatics.",
+    "Add the sugar, white pepper, and optional chili flakes; stir for 1 minute.",
+    "Pour in the soy sauce and water or broth, then reduce heat to medium.",
+    "Cover the pan and let the zucchini steam for 3–4 minutes, until it becomes tender yet still crisp.",
+    "Drizzle the sesame oil over the vegetables, then stir in the diced scallions.",
+    "Taste and adjust seasoning if needed; cook for another 30 seconds.",
+    "Transfer to a serving dish and serve immediately, optionally with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "kosher",
+    "quick",
+    "healthy",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 22,
+    "fat": 9
+  },
+  "slug": "mild-fluffy-chinese-zucchini-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-fluffy-chinese-zucchini-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:34:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "zucchini",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "zucchini",
+    "descriptor": "Mild Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
