@@ -1,0 +1,122 @@
+{
+  "title": "Medley of Aromas Uruguayan Tripe Empanadas",
+  "description": "Rich and creamy Uruguayan dish featuring black cardamom pods, soffritto base, and anti-inflammatory-friendly ingredients. Perfect for a romantic dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "Black cardamom pods",
+      "amount": "4",
+      "notes": "ground into fine powder"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer over boiling water.",
+    "In a large skillet, heat coconut oil over medium heat.",
+    "Add the diced onion, minced garlic, grated carrots, and diced celery to the skillet.",
+    "Cook until the vegetables are tender, about 8 minutes.",
+    "Add the ground black cardamom, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cleaned and cut beef tripe to the skillet and stir to combine.",
+    "Cook for an additional 5 minutes, until the tripe is browned.",
+    "Meanwhile, preheat the oven to 375°F.",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the tripe mixture onto the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas in the bamboo steamer and cook for 12-15 minutes, until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "one-pan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "medley-of-aromas-uruguayan-tripe-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/medley-of-aromas-uruguayan-tripe-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:46:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tripe",
+    "descriptor": "Medley of Aromas",
+    "dishForm": "Empanadas"
+  }
+}

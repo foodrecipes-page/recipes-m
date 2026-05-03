@@ -310,6 +310,19 @@
     "shard": "m"
   },
   {
+    "slug": "medley-of-aromas-uruguayan-tripe-empanadas",
+    "title": "Medley of Aromas Uruguayan Tripe Empanadas",
+    "tags": [
+      "anti-inflammatory",
+      "gluten-free",
+      "one-pan",
+      "romantic"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
     "slug": "mellow-australian-citrus-lasagna",
     "title": "Mellow Australian Citrus Lasagna",
     "tags": [
@@ -354,6 +367,23 @@
     "shard": "m"
   },
   {
+    "slug": "mellow-citrusy-uruguayan-chuck-roast-empanadas",
+    "title": "Mellow Citrusy Uruguayan Chuck Roast Empanadas",
+    "tags": [
+      "dinner",
+      "gluten-free",
+      "high-protein",
+      "keto-friendly",
+      "kid-friendly",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
     "slug": "mellow-crisp-jamaican-passion-fruit-tagine",
     "title": "mellow crisp jamaican passion fruit tagine",
     "tags": [
@@ -383,6 +413,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-glassy-filipino-pandan-sinigang",
+    "title": "Mellow-Glassy Filipino Pandan Sinigang",
+    "tags": [
+      "anti-inflammatory",
+      "brunch",
+      "filipino",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {

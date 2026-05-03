@@ -1,0 +1,119 @@
+{
+  "title": "Mellow Citrusy Uruguayan Chuck Roast Empanadas",
+  "description": "A kid-friendly take on traditional Uruguayan empanadas, featuring a citrusy and fluffy dough wrapped around tender chuck roast. Keto-friendly and perfect for a weeknight dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1 pound",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "citrus-herb marinade",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "fluffy keto dough",
+      "amount": "2 cups",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "zest of 1 lime",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together citrus-herb marinade ingredients and chuck roast until well coated.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "On a lightly floured surface, roll out fluffy keto dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of chuck roast mixture onto one half of each dough circle.",
+    "Brush edges with egg wash and fold dough in half to form a triangle.",
+    "Press edges to seal and use a fork to crimp.",
+    "Brush tops with olive oil and sprinkle with cilantro and parsley.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Optional: sprinkle with lemon and lime zest before baking."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "kid-friendly",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "mellow-citrusy-uruguayan-chuck-roast-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-citrusy-uruguayan-chuck-roast-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:46:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "chuck roast",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "chuck roast",
+    "descriptor": "mellow citrusy",
+    "dishForm": "empanadas"
+  }
+}

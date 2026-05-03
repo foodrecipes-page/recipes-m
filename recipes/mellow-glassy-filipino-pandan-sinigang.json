@@ -1,0 +1,107 @@
+{
+  "title": "Mellow-Glassy Filipino Pandan Sinigang",
+  "description": "A charred, glassy-jelly Filipino brunch dish featuring golden syrup and score-fat, served in a terracotta dish.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup",
+      "notes": "dark"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine pandan leaves, water, and tamarind paste in a blender and blend until smooth.",
+    "Heat score-fat in a terracotta dish over medium heat.",
+    "Add sliced onion and sauté until translucent.",
+    "Add sliced chilies and sauté for another 2 minutes.",
+    "Add chopped tomato and sauté for 2 minutes.",
+    "Pour in the blended pandan mixture and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in golden syrup, salt, and black pepper.",
+    "Continue to simmer for another 5 minutes or until the sauce thickens and forms a glassy-jelly texture.",
+    "Serve hot in the terracotta dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "brunch",
+    "filipino",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "mellow-glassy-filipino-pandan-sinigang",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-glassy-filipino-pandan-sinigang",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:46:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "golden syrup",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pandan",
+    "descriptor": "mellow-glassy",
+    "dishForm": "Sinigang"
+  }
+}
