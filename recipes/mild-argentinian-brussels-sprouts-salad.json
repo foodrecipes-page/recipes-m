@@ -1,0 +1,92 @@
+{
+  "title": "Mild Argentinian Brussels Sprouts Salad",
+  "description": "A cozy, umami-packed salad featuring tender blanched Brussels sprouts, Argentinean herbs, and a light citrus vinaigrette.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "500 g",
+      "notes": "trim ends, cut in half"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Anchovy paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Trim ends of Brussels sprouts and cut in half.",
+    "Bring salted water to a boil; blanch sprouts for 3 minutes.",
+    "Drain sprouts and shock in ice water to stop cooking; drain again.",
+    "Whisk together olive oil, minced garlic, anchovy paste, lemon juice, salt, pepper, and parsley.",
+    "Toss the blanched sprouts with the vinaigrette until evenly coated.",
+    "Let the salad rest for 5 minutes to meld flavors.",
+    "Plate the sprouts on a chilled platter.",
+    "Garnish with extra parsley and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "brussels-sprouts",
+    "easy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 121,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "mild-argentinian-brussels-sprouts-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-argentinian-brussels-sprouts-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:49:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Mild",
+    "dishForm": "Salad"
+  }
+}

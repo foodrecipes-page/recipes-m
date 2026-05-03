@@ -1,0 +1,98 @@
+{
+  "title": "Mellow Canadian Digestive Quiche",
+  "description": "A savory quiche featuring fermented ingredients, digestive biscuits, and a silky texture, perfect for a leisurely brunch.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "6-8 pieces",
+      "notes": "crushed"
+    },
+    {
+      "name": "Mild cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Fermented chives",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 whole",
+      "notes": "whisked"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375F (190C).",
+    "In a bowl, whisk together the egg, milk, garlic powder, salt, and black pepper.",
+    "Roll out the digestive biscuits and crush them into fine crumbs.",
+    "Mix the crushed biscuits with the shredded cheddar and fermented chives.",
+    "Pour the egg mixture over the biscuit mixture and stir to combine.",
+    "Pour the mixture into a greased 9-inch air fryer pan.",
+    "Dot the top with the melted butter.",
+    "Air fry for 12 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the air fryer and let cool for 2 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian",
+    "comfort-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "mellow-canadian-digsicis-quiche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-canadian-digsicis-quiche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:48:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "digsicis",
+    "descriptor": "Mellow",
+    "dishForm": "Quiche"
+  }
+}
