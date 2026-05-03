@@ -1,0 +1,108 @@
+{
+  "title": "midnight-craving indian carnaroli-rice biryani",
+  "description": "A flavorful, diabetes-friendly Goan dish made with Carnaroli rice, Nuka pickle, and aromatic spices, perfect for a midnight craving.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Nuka pickle",
+      "amount": "100g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of coconut oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and grated ginger, sauté for 1 minute.",
+    "Add turmeric, red chili powder, garam masala powder, and salt. Mix well.",
+    "Add Nuka pickle and mix well.",
+    "Add Carnaroli rice and mix well. Cook for 1 minute.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover with a tight-fitting lid, and simmer for 15 minutes.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "carnaroli-rice",
+    "diabetic-friendly",
+    "indian",
+    "midnight-craving",
+    "nuka-pickle",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "midnight-craving-indian-carnaroli-rice-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-indian-carnaroli-rice-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:39:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "diabetic-friendly",
+    "region": "goan",
+    "cuisineAdjective": "indian",
+    "mainIngredient": "carnaroli-rice",
+    "descriptor": "midnight-craving",
+    "dishForm": "biryani"
+  }
+}
