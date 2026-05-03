@@ -1,0 +1,111 @@
+{
+  "title": "Midnight Rich Portuguese Almond Pie",
+  "description": "A dense, nutty egg‑free pie that blends Portuguese sweetness with a midnight craving, featuring a rich almond filling soaked in grape juice.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "300g",
+      "notes": "200g for crust, 100g for filling"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "140g"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Grape juice",
+      "amount": "40ml"
+    },
+    {
+      "name": "Sliced almonds (roasted)",
+      "amount": "200g"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Grease a 23cm pie dish.",
+    "In a large bowl, whisk together almond flour, all‑purpose flour, brown sugar, cinnamon, and salt for the crust.",
+    "Stir in olive oil and 1 tbsp grape juice until a crumbly dough forms. Press dough into the pie dish, creating an even 1‑cm rim.",
+    "Let the crust chill for 5 minutes while you prepare the filling.",
+    "In another bowl, mix the roasted sliced almonds with almond flour, remaining brown sugar, cinnamon, vanilla extract, 30ml grape juice, maple syrup, chia seeds, and water.",
+    "Stir until the mixture is thick and holds together; the chia‑egg binder will set as it bakes.",
+    "Spoon the almond filling over the pre‑baked crust, smoothing the top.",
+    "Bake for 20–25 minutes, or until the crust is golden and the filling is set.",
+    "Remove from oven and let cool in the dish for 10 minutes before slicing. Serve warm or at room temperature.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "pie",
+    "no-eggs",
+    "protein-packed",
+    "portuguese",
+    "grape-juice",
+    "dessert",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 458,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 33
+  },
+  "slug": "midnight-rich-portuguese-almond-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-rich-portuguese-almond-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:09:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "grape juice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Midnight Rich",
+    "dishForm": "Pie"
+  }
+}
