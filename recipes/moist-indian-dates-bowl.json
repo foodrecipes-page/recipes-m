@@ -1,0 +1,96 @@
+{
+  "title": "Moist Indian Dates Bowl",
+  "description": "A silky, sweet bowl of dates and coconut milk enriched with turmeric and spices, perfect for a post-workout pick-me-up.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "10"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "2 tbsp",
+      "notes": "topping"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "2 tbsp",
+      "notes": "topping"
+    }
+  ],
+  "instructions": [
+    "Whisk dates and water in a bowl until smooth and sticky.",
+    "Add coconut milk, turmeric, cinnamon, vanilla, honey, and salt, and whisk until the mixture is silky and homogeneous.",
+    "Transfer the mixture to a serving bowl and refrigerate for at least 10 minutes to allow flavors to meld.",
+    "Before serving, top the bowl with shredded coconut and chopped almonds for added texture.",
+    "Stir gently to distribute the toppings before eating.",
+    "Enjoy the creamy, aromatic bowl as a quick post-workout dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "bowl",
+    "indian",
+    "post-workout",
+    "silky",
+    "sweet",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "moist-indian-dates-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-indian-dates-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:01:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dates",
+    "descriptor": "Moist",
+    "dishForm": "Bowl"
+  }
+}
