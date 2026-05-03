@@ -1,0 +1,107 @@
+{
+  "title": "Mellow Korean Shrimp Stew",
+  "description": "A jammy, velvety stew combining dried shrimp, fresh shrimp, and coconut milk for a cozy Korean-American dinner.",
+  "cuisine": "korean-american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimps",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh shrimp",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "doenjang (korean soybean paste)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small sliced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "6 sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried shrimps in cold water and set aside.",
+    "Peel and devein the fresh shrimp, reserving the tails for garnish.",
+    "Heat sesame oil in a pot over medium heat and sauté ginger and garlic until fragrant.",
+    "Add the dried shrimps and stir until they turn pink.",
+    "Pour in the coconut milk and water, then bring to a gentle simmer.",
+    "Stir in doenjang and gochujang until fully dissolved.",
+    "Add sliced carrots, mushrooms, and zucchini, simmering for 5 minutes.",
+    "Fold in the fresh shrimp and cook for an additional 3 minutes until opaque.",
+    "Season with salt to taste and simmer for 1 more minute.",
+    "Ladle into bowls, garnish with shrimp tails, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "gluten-free",
+    "korean-american",
+    "shrimp-stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 15,
+    "carbs": 3,
+    "fat": 19
+  },
+  "slug": "mellow-korean-shrimp-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-korean-shrimp-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:40:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "rest-meat",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Mellow",
+    "dishForm": "Stew"
+  }
+}
