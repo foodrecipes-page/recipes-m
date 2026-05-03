@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Irish Bread Sandwich",
+  "description": "A sweet, chewy sandwich that blends classic Irish soda bread with a spicy enchilada sauce, perfect for a relaxed brunch. The sauce adds a warm kick while the bread stays soft and aromatic.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish soda bread",
+      "amount": "1 loaf",
+      "notes": "sliced thick"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup",
+      "notes": "use mild or medium heat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon",
+      "notes": "for glaze"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 teaspoon",
+      "notes": "to balance sweetness"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Spread softened butter evenly on each slice of soda bread.",
+    "Drizzle honey over the buttered bread slices.",
+    "Heat the enchilada sauce in a small saucepan until warm, about 5 minutes.",
+    "Spoon the warmed sauce onto each slice of bread.",
+    "Sprinkle shredded cheddar cheese and a pinch of garlic powder over the sauce.",
+    "Place the slices on a baking sheet and bake for 8 minutes, or until the cheese melts.",
+    "Remove from oven, squeeze lime juice, garnish with cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy",
+    "irish",
+    "quick",
+    "sandwich",
+    "sweet-savoury"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "mellow-irish-bread-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-irish-bread-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:53:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bread",
+    "descriptor": "Mellow",
+    "dishForm": "Sandwich"
+  }
+}
