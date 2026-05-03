@@ -1,0 +1,106 @@
+{
+  "title": "Mellow Caramelized Vietnamese Cabbage Pancakes",
+  "description": "A light, airy Vietnamese pancake with caramelized hispi cabbage, served hot from a tagine pot.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "organic green cabbage (hispian)",
+      "amount": "500g"
+    },
+    {
+      "name": "rice flour",
+      "amount": "100g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Thinly slice the cabbage into 2mm strips and set aside.",
+    "Whisk together rice flour, water, egg, salt, and pepper in a bowl until smooth; let rest 10 minutes.",
+    "Heat 1 tablespoon oil in a tagine pot over medium heat and sauté garlic and ginger until fragrant.",
+    "Add the sliced cabbage and brown sugar, stir to coat, and sauté for 5 minutes until the cabbage begins to soften.",
+    "Pour the batter over the caramelized cabbage, spreading evenly, and reduce heat to low.",
+    "Cover the pot and cook for 8 minutes until the pancake edges are set but the center remains slightly wet.",
+    "Remove the lid, flip the pancake gently using a spatula, and cook for another 4 minutes until golden brown.",
+    "Squeeze lime juice over the pancake, sprinkle chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 20,
+  "totalTimeMin": 32,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "caramelized",
+    "ovo-vegetarian",
+    "pancake",
+    "tagine-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 17,
+    "carbs": 147,
+    "fat": 37
+  },
+  "slug": "mellow-caramelized-vietnamese-cabbage-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-caramelized-vietnamese-cabbage-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:58:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cabbage",
+    "descriptor": "Mellow Caramelized",
+    "dishForm": "Pancakes"
+  }
+}
