@@ -1,0 +1,106 @@
+{
+  "title": "Minty Korean Chicken Curry",
+  "description": "Herbal, tender, quick-fix Korean dish featuring buttermilk and bhuna, halal-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, boneless, skinless",
+      "amount": "500 g"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "120 g"
+    },
+    {
+      "name": "mint leaves, fresh",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochujang, Korean red chili paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix 500 g chicken thighs, 120 g buttermilk, 3 minced garlic cloves, 1 tbsp minced ginger, 2 tbsp gochujang, 2 tbsp tomato paste, 1 tsp salt, 1/2 tsp pepper, and 30 g chopped mint leaves; toss to coat, cover and refrigerate 30 min.",
+    "Heat 2 tbsp vegetable oil in a skillet over medium-high heat; add marinated chicken pieces and sear until golden brown on all sides, about 4-5 min.",
+    "Remove chicken, set aside; in the same skillet add diced red onion, cook until translucent, about 3 min.",
+    "Stir in 200 g coconut milk and bring to a simmer, scraping up any browned bits from the pan.",
+    "Return chicken to the skillet, reduce heat to medium-low, cover and let the curry braise for 10-12 min until chicken is cooked through and tender.",
+    "Taste and adjust seasoning with extra salt or pepper if needed.",
+    "Remove from heat, garnish with fresh mint sprigs before serving.",
+    "Serve hot over steamed rice or with flatbread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "minty",
+    "one-pot",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "minty-korean-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-korean-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:16:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "buttermilk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Minty",
+    "dishForm": "Curry"
+  }
+}

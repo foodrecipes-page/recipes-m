@@ -1,0 +1,104 @@
+{
+  "title": "Mighty Tangy Venezuelan Beef Skillet",
+  "description": "A tangy and flavorful one-pot Venezuelan dish made with unsalted beef stock and featuring agemono-deep-fry techniques, this recipe is FODMAP-friendly and perfect for dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato paste, cumin, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the unsalted beef stock and lime juice to the skillet and stir to combine.",
+    "Return the beef to the skillet and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, until the beef is cooked through, about 10 minutes.",
+    "Serve the beef and sauce hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mighty-tangy-venezuelan-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-tangy-venezuelan-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:16:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "mighty tangy",
+    "dishForm": "Skillet"
+  }
+}
