@@ -1,0 +1,103 @@
+{
+  "title": "Mild Uruguayan Shrimp Grill",
+  "description": "A light, salty shrimp dish glazed with a subtle Christmas pudding sauce, perfect for a quick binchotan grill meal-prep.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "eggs-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "500g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Christmas pudding",
+      "amount": "30g",
+      "notes": "crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Remove shrimp shells and devein, pat dry.",
+    "In a bowl, combine olive oil, minced garlic, lime juice, smoked paprika, sea salt, and black pepper.",
+    "Toss shrimp in the seasoning mixture until evenly coated.",
+    "Prepare the glaze by crushing 30g Christmas pudding with soy sauce and parsley until smooth.",
+    "Let shrimp marinate for 10 minutes.",
+    "Preheat the binchotan grill to medium-high until glowing embers form.",
+    "Place shrimp on the grill and cook for 2-3 minutes per side until pink and opaque.",
+    "During the last minute of grilling, brush shrimp with glaze.",
+    "Remove from grill, sprinkle with fresh parsley, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "binchotan-grill",
+    "easy",
+    "meal-prep",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 101,
+    "carbs": 30,
+    "fat": 31
+  },
+  "slug": "mild-uruguayan-shrimp-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-uruguayan-shrimp-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:55:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "glaze",
+    "primaryIngredient": "christmas pudding",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "shrimp",
+    "descriptor": "Mild",
+    "dishForm": "Grill"
+  }
+}

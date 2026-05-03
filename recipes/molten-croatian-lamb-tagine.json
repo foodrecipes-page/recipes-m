@@ -1,0 +1,104 @@
+{
+  "title": "Molten Croatian Lamb Tagine",
+  "description": "A slow-cooked, ghee-infused lamb dish with aromatic spices, perfect for a solo dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "800g"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "beef stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "red wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Trim any excess fat from the lamb shoulder and cut into 2 cm cubes.",
+    "Heat 1 tbsp of ghee in a tagine over medium-high heat until shimmering.",
+    "Add lamb cubes and sear on all sides until browned, then remove and set aside.",
+    "In the same tagine, add the remaining ghee and sauté onion and garlic until translucent."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ghee",
+    "lamb",
+    "single-pan",
+    "slow-cook",
+    "tagine",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 7,
+    "fat": 22
+  },
+  "slug": "molten-croatian-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-croatian-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:56:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "tagine-cook",
+    "primaryIngredient": "ghee",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Molten",
+    "dishForm": "Tagine"
+  }
+}

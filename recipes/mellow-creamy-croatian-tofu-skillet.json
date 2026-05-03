@@ -1,0 +1,104 @@
+{
+  "title": "Mellow Creamy Croatian Tofu Skillet",
+  "description": "A garlicky, creamy Croatian tofu skillet with shichimi-togarashi, glaze, and egg-free-friendly, perfect for a quick weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture and pat dry, then cut into 1 cm cubes.",
+    "Heat 1 tbsp of olive oil in a tava over medium heat and add tofu, cooking until golden on all sides, about 8 minutes, stirring occasionally.",
+    "Remove the tofu from the tava to a plate.",
+    "Add the remaining 1 tbsp of olive oil and minced garlic to the same tava, cooking for 1 minute until fragrant.",
+    "Stir in the shichimi togarashi and cook for 30 seconds.",
+    "Pour in soy sauce, coconut milk, maple syrup, and lemon juice, bringing the mixture to a simmer and allowing it to reduce for 3 minutes until slightly thickened.",
+    "Return the tofu to the tava, toss to coat with the sauce, and cook for an additional 2 minutes until heated through; season with salt and pepper.",
+    "Sprinkle chopped parsley over the skillet and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "egg-free",
+    "garlic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 53
+  },
+  "slug": "mellow-creamy-croatian-tofu-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-creamy-croatian-tofu-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:56:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "glaze",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tofu",
+    "descriptor": "Mellow Creamy",
+    "dishForm": "Skillet"
+  }
+}
