@@ -1,0 +1,108 @@
+{
+  "title": "moist mayonnaise ethiopian dum dumplings",
+  "description": "savory, dense ethiopian dumplings featuring mayonnaise and a variety of spices, perfect for adventurous eaters.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling wrapper"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "for dough hydration"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "adds moisture and richness"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1 medium",
+      "notes": "adds sweetness and crunch"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "adds freshness and color"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": "adds warm, earthy flavor"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "adds citrusy, slightly sweet flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adds depth and warmth"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying dumplings"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine flour and warm water to form a dough; knead for 5 minutes.",
+    "divide dough into 12 equal pieces; roll each piece into a thin circle.",
+    "in a separate bowl, mix together mayonnaise, chopped onion, cilantro, cumin, coriander, salt, and black pepper.",
+    "place 1-2 tablespoons of the mayonnaise mixture onto the center of each dough circle.",
+    "fold the dough over the filling to form a half-moon shape; press edges together to seal.",
+    "heat 1 inch of vegetable oil in a deep frying pan over medium-high heat.",
+    "when oil is hot, add 4-6 dumplings to the pan and fry until golden brown, about 3-4 minutes per side.",
+    "remove dumplings from oil and place on paper towels to drain excess oil.",
+    "serve dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "ethiopian",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "moist-mayonnaise-ethiopian-dum-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-mayonnaise-ethiopian-dum-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:56:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "mayonnaise",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Dum",
+    "descriptor": "Moist Mayonnaise",
+    "dishForm": "Dumplings"
+  }
+}

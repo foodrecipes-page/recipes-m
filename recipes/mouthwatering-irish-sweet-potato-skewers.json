@@ -1,0 +1,92 @@
+{
+  "title": "Mouthwatering Irish Sweet Potato Skewers",
+  "description": "Sweet, crispy sweet potato skewers roasted in a tandoor-inspired grill, flavored with bay leaves and Mediterranean herbs.",
+  "cuisine": "Irish Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "3"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "½ cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F and line a baking sheet with parchment paper.",
+    "Peel the sweet potatoes and cut them into 1-inch cubes.",
+    "In a bowl, toss the sweet potato cubes with olive oil, smoked paprika, sea salt, pepper, bay leaves, and lemon zest.",
+    "Spread the seasoned sweet potatoes in a single layer on the prepared baking sheet.",
+    "Roast for 20 minutes, turning halfway through, until the cubes are tender and caramelized.",
+    "Stir in honey during the last 5 minutes of roasting to create a glaze.",
+    "Remove from the oven and sprinkle crumbled feta cheese over the hot sweet potatoes.",
+    "Serve the skewers warm as a side dish or light main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-dish",
+    "meal-prep",
+    "one-pan",
+    "savory-sweet",
+    "sweet-potato",
+    "tandoor-style"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "mouthwatering-irish-sweet-potato-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-irish-sweet-potato-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:56:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "bay leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Mouthwatering",
+    "dishForm": "Skewers"
+  }
+}
