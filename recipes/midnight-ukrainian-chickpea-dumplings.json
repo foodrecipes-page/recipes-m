@@ -1,0 +1,106 @@
+{
+  "title": "Midnight Ukrainian Chickpea Dumplings",
+  "description": "Silky, floral dumplings made from chickpea flour, perfect for midnight cravings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together chickpea flour, salt, pepper, dill, garlic powder, paprika, and lemon juice until a crumbly dough forms.",
+    "Gradually add water and olive oil, stirring until the mixture comes together into a pliable dough.",
+    "Knead the dough for 2 minutes until smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 10 minutes.",
+    "Divide the dough into 12 equal portions and roll each into a small ball.",
+    "Flatten each ball into a thin disc about 3 inches in diameter.",
+    "Bring a large pot of salted water to a boil over high heat.",
+    "Carefully drop the flattened discs into the boiling water, cooking for 3 to 4 minutes until they rise to the surface.",
+    "Remove the dumplings with a slotted spoon and place them on a paper towel to drain.",
+    "Serve the dumplings warm, optionally drizzled with a light drizzle of olive oil or a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "dumpling",
+    "floral",
+    "midnight-cravings",
+    "silky",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 214,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 6
+  },
+  "slug": "midnight-ukrainian-chickpea-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-ukrainian-chickpea-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:11:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "chickpea flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chickpea",
+    "descriptor": "Midnight",
+    "dishForm": "Dumplings"
+  }
+}

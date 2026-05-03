@@ -1,0 +1,115 @@
+{
+  "title": "Monsoon Moroccan Lamb Tagine",
+  "description": "A twist on traditional Moroccan lamb tagine, featuring a tangy and fluffy consistency. This dish is Whole30-friendly and perfect for a rainy monsoon night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "mixed spice blend",
+      "amount": "2 tsp",
+      "notes": "including cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the mixed spice blend and cook for 1 minute, stirring constantly.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the lemon juice, red wine vinegar, diced tomatoes, and chopped parsley.",
+    "Bring the mixture to a simmer, then cover the tagine and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Skim any excess fat from the surface of the sauce.",
+    "Serve the lamb and sauce over fluffy rice or cauliflower rice.",
+    "Garnish with additional parsley and a sprinkle of tadka spice mix, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "paleo",
+    "tagine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "monsoon-moroccan-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-moroccan-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:10:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "mixed spice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Monsoon",
+    "dishForm": "Tagine"
+  }
+}
