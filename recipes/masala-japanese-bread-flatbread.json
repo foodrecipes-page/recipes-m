@@ -1,0 +1,104 @@
+{
+  "title": "Masala Japanese Bread Flatbread",
+  "description": "A spicy, flaky flatbread with instant yeast and a hint of Japanese citrus, perfect for a cozy snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "water",
+      "amount": "140 ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, salt, sugar, instant yeast, garam masala, chili flakes, garlic powder, and coconut oil; stir until dry ingredients are mixed.",
+    "Add water and lemon zest; mix until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover, and let rise in a warm spot for 30 minutes until doubled.",
+    "Punch down the dough, divide into 4 equal portions, roll each into a flat circle about 1/4 inch thick.",
+    "Preheat the oven to 220°C; arrange the flatbreads on a parchment-lined baking sheet.",
+    "Brush the tops with a mixture of coconut oil and chopped cilantro; sprinkle extra chili flakes if desired.",
+    "Bake for 8 minutes, then broil for 1 minute until edges are golden.",
+    "Remove from oven and let cool for 5 minutes; drizzle with lemon juice before serving.",
+    "Serve warm as a spicy snack or side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "flaky",
+    "quick",
+    "snack",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 292,
+    "protein": 6,
+    "carbs": 47,
+    "fat": 7
+  },
+  "slug": "masala-japanese-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/masala-japanese-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:57:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "instant yeast",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bread",
+    "descriptor": "Masala",
+    "dishForm": "Flatbread"
+  }
+}
