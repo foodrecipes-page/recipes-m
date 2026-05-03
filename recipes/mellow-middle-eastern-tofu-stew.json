@@ -1,0 +1,114 @@
+{
+  "title": "Mellow Middle Eastern Tofu Stew",
+  "description": "A creamy, umami-packed stew that balances robust spices with a gentle soda water base, perfect for meal‑prep and low FODMAP dining.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "carrots",
+      "amount": "150 g diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "150 g diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "100 g"
+    },
+    {
+      "name": "low FODMAP vegetable broth",
+      "amount": "150 ml"
+    },
+    {
+      "name": "soda water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "60 ml"
+    },
+    {
+      "name": "garlic-infused olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "15 g chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add cumin and smoked paprika, sauté for 1 minute until fragrant.",
+    "Add carrots and zucchini, cook for 3 minutes, stirring occasionally.",
+    "Stir in cherry tomatoes and continue cooking for 2 minutes.",
+    "Pour in vegetable broth and soda water, bring to a gentle simmer.",
+    "Toss in tofu cubes and let the stew simmer for 10 minutes, allowing the tofu to absorb flavors.",
+    "Add coconut milk and spinach, simmer until spinach wilts, about 5 minutes.",
+    "Season with salt to taste and drizzle lemon juice if desired.",
+    "Remove from heat, let the stew rest for 5 minutes before serving.",
+    "Garnish with chopped cilantro and serve hot, or refrigerate for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fodmap-friendly",
+    "gluten-free",
+    "meal-prep",
+    "middle-eastern",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 21,
+    "carbs": 29,
+    "fat": 29
+  },
+  "slug": "mellow-middle-eastern-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-middle-eastern-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:54:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "soda water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tofu",
+    "descriptor": "Mellow",
+    "dishForm": "Stew"
+  }
+}
