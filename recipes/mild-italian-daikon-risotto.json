@@ -1,0 +1,107 @@
+{
+  "title": "Mild Italian Daikon Risotto",
+  "description": "A fresh, pillowy risotto that blends daikon and subtle Italian flavors into a comforting weeknight dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "Daikon radish",
+      "amount": "300 g",
+      "notes": "peeled and finely diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1.2 L",
+      "notes": "warm"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "120 ml",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "for umami"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add onion and cook until translucent about 4 minutes.",
+    "Stir in garlic and diced daikon, sauté until softened 5 minutes.",
+    "Add Arborio rice, stir until grains are glossy and lightly toasted 2 minutes.",
+    "Pour in white wine, let it reduce until liquid evaporates.",
+    "Gradually ladle warm vegetable broth, stirring constantly, until rice is creamy and al dente, about 18 minutes.",
+    "Remove from heat, stir in nutritional yeast, parsley, salt, and pepper; serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "ovo-vegetarian",
+    "quick-meal",
+    "simple",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 8,
+    "carbs": 68,
+    "fat": 6
+  },
+  "slug": "mild-italian-daikon-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-italian-daikon-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:15:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "daikon",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "daikon",
+    "descriptor": "Mild",
+    "dishForm": "Risotto"
+  }
+}
