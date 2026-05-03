@@ -1,0 +1,104 @@
+{
+  "title": "Midnight Slovakian Galangal Crumble",
+  "description": "A sweet, crumbly dessert that blends the zing of galangal with the comforting warmth of a pressure‑cooked apple filling, finished with a buttery oat crumble.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apple",
+      "amount": "2 medium",
+      "notes": "peeled, cored, and sliced"
+    },
+    {
+      "name": "Galangal root",
+      "amount": "2 cm",
+      "notes": "fresh, finely grated"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 Tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "3 Tbsp"
+    },
+    {
+      "name": "All‑purpose flour",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 Tbsp",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to the sauté setting and melt the butter in the pot.",
+    "Add the apples, galangal, lemon juice, salt, and brown sugar; sauté for 2 minutes until the apples soften slightly.",
+    "Stir in the honey and flour, mixing until the mixture thickens, then add the water and close the pressure cooker lid.",
+    "Cook on high pressure for 5 minutes, then quick‑release the pressure safely.",
+    "While the filling is cooking, combine the rolled oats, remaining brown sugar, and cinnamon in a bowl.",
+    "Once the pressure cooking is complete, spoon the apple‑galangal mixture into a baking dish and spread the oat topping evenly over it.",
+    "Bake in a preheated oven at 180°C (350°F) for 15 minutes, or until the topping is golden and crisp.",
+    "Serve warm, optionally topped with a scoop of vanilla yogurt or a drizzle of honey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "galangal",
+    "sweet",
+    "crumble",
+    "pressure-cook",
+    "raw-friendly",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "midnight-slovakian-galangal-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-slovakian-galangal-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:42:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "galangal",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Galangal",
+    "descriptor": "Midnight",
+    "dishForm": "Crumble"
+  }
+}
