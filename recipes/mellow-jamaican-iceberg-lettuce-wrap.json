@@ -1,0 +1,107 @@
+{
+  "title": "Mellow Jamaican Iceberg Lettuce Wrap",
+  "description": "A comforting, anti-inflammatory Jamaican-inspired wrap that pairs crisp iceberg lettuce with warm, spicy jerk-seasoned roasted sweet potato and black beans, finished with creamy avocado and a splash of lime.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg lettuce",
+      "amount": "1 head",
+      "notes": "Chopped, stems removed"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "2 cups",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "Melted"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 teaspoon",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees F.",
+    "Toss sweet potato cubes with melted coconut oil, grated ginger, minced garlic, and jerk seasoning until evenly coated.",
+    "Spread the sweet potato mixture on a baking sheet and roast for 20 minutes until tender and slightly caramelized.",
+    "Meanwhile, warm the black beans in a small saucepan over low heat, seasoning with a pinch of salt if desired.",
+    "In a bowl, combine the roasted sweet potato, warm black beans, and fresh cilantro, mixing gently.",
+    "Separate the iceberg lettuce leaves and wash them thoroughly, patting dry.",
+    "Fill each lettuce leaf with the sweet potato and bean mixture, then top with slices of avocado.",
+    "Drizzle lime juice over the wraps and serve immediately, or chill in the fridge for up to 2 hours for a cooler option.",
+    "Enjoy a soothing, anti-inflammatory Jamaican-inspired lunch on crisp lettuce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "jerk-flavor",
+    "lettuce-wrap",
+    "low-carb",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "mellow-jamaican-iceberg-lettuce-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-jamaican-iceberg-lettuce-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:44:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "iceberg lettuce",
+    "descriptor": "Mellow",
+    "dishForm": "Wrap"
+  }
+}
