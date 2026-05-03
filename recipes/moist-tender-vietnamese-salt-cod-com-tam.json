@@ -1,0 +1,104 @@
+{
+  "title": "Moist Tender Vietnamese Salt Cod Com Tam",
+  "description": "A delicious and tender Vietnamese dish featuring salt cod, served with com tam, a popular Vietnamese street food, this recipe is onion and garlic free, making it suitable for those with sensitivities, and is a great option for a solo dinner",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the cornstarch, sugar, and black pepper.",
+    "Add the salt cod to the bowl and toss to coat evenly with the cornstarch mixture.",
+    "Double fry the salt cod by first frying at 325 degrees Fahrenheit for 3 minutes, then increasing the temperature to 375 degrees Fahrenheit and frying for an additional 2 minutes.",
+    "Remove the salt cod from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In a small bowl, whisk together the fish sauce and lime juice.",
+    "To assemble the com tam, place a scoop of cooked rice on a plate, then add a piece of the fried salt cod, a spoonful of the fish sauce mixture, and a sprinkle of chopped scallions and diced tomato.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional scallions and tomato if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "com-tam",
+    "double-fry",
+    "kfc-style",
+    "no-onion-no-garlic",
+    "salt-cod-recipe",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "moist-tender-vietnamese-salt-cod-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-tender-vietnamese-salt-cod-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:31:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "salt cod",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "salt cod",
+    "descriptor": "Moist Tender",
+    "dishForm": "Com Tam"
+  }
+}
