@@ -1,6 +1,6 @@
 {
   "title": "Minty Flaky American Salmon Stew",
-  "description": "A fragrant, herbaceous stew that turns tender salmon into a flaky, melt‑in‑your‑mouth delight, perfect for a quick, gluten‑free dinner.",
+  "description": "A fragrant, herbaceous stew that turns tender salmon into a flaky, meltinyourmouth delight, perfect for a quick, glutenfree dinner.",
   "cuisine": "American",
   "diet": [
     "gluten-free"
@@ -10,7 +10,7 @@
     {
       "name": "Salmon fillets",
       "amount": "400g",
-      "notes": "skin‑on, cut into 2‑inch cubes"
+      "notes": "skin\u2011on, cut into 2\u2011inch cubes"
     },
     {
       "name": "Olive oil",
@@ -62,12 +62,12 @@
     }
   ],
   "instructions": [
-    "Heat the Instant Pot on the sauté setting and add olive oil.",
-    "Sauté onion, garlic, carrot, and celery until the vegetables soften, about 3‑4 minutes.",
+    "Heat the Instant Pot on the saut\u00e9 setting and add olive oil.",
+    "Saut\u00e9 onion, garlic, carrot, and celery until the vegetables soften, about 3\u20114 minutes.",
     "Add the white wine, deglaze the pot, and let it reduce for 2 minutes.",
     "Pour in the stock and stir. Add the bay leaf, salt, pepper, and lemon juice. Seal the lid and set to pressure cook on high for 5 minutes.",
-    "Quick release the pressure, then add the salmon cubes and fresh mint. Taste and adjust seasoning. Cook on sauté for 3 minutes, or until the salmon flakes easily.",
-    "Serve hot, garnished with extra mint if desired. Enjoy a comforting, herb‑infused American salmon stew."
+    "Quick release the pressure, then add the salmon cubes and fresh mint. Taste and adjust seasoning. Cook on saut\u00e9 for 3 minutes, or until the salmon flakes easily.",
+    "Serve hot, garnished with extra mint if desired. Enjoy a comforting, herb\u2011infused American salmon stew."
   ],
   "slug": "minty-flaky-american-salmon-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -86,5 +86,20 @@
     "mainIngredient": "Salmon",
     "descriptor": "Minty Flaky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "american",
+    "dinner"
+  ]
 }

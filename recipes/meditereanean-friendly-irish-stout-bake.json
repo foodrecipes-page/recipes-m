@@ -42,7 +42,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a large skillet, melt the butter over medium heat. Add onions and garlic; cook until translucent.",
     "Pour in the stout and bring to a simmer. Let it reduce slightly, about 5 minutes.",
     "Stir in spinach leaves until wilted. Season with salt and pepper.",
@@ -63,9 +63,9 @@
   ],
   "nutrition": {
     "calories": 379,
-    "protein": 12.6,
-    "carbs": 48.6,
-    "fat": 15.2
+    "protein": 13,
+    "carbs": 49,
+    "fat": 15
   },
   "slug": "meditereanean-friendly-irish-stout-bake",
   "source": "ollama-qwen2.5:3b",

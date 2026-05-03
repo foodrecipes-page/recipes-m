@@ -50,7 +50,7 @@
   ],
   "instructions": [
     "Prepare the marinade by mixing lemon juice, orange juice, ras el hanout spice blend, and a pinch of salt in a bowl. Place the chicken breast in a sealable plastic bag, pour the marinade over it, seal the bag, and refrigerate for at least 2 hours or overnight.",
-    "Preheat your grill to medium-high heat (about 375°F/190°C). Remove the chicken from the refrigerator and let it sit at room temperature for about 15 minutes. Grill the chicken breast until fully cooked, rotating occasionally, and remove from heat once done. Let it rest for a few minutes before slicing.",
+    "Preheat your grill to medium-high heat (about 375\u00b0F/190\u00b0C). Remove the chicken from the refrigerator and let it sit at room temperature for about 15 minutes. Grill the chicken breast until fully cooked, rotating occasionally, and remove from heat once done. Let it rest for a few minutes before slicing.",
     "While the chicken is cooking, prepare the crumble topping by combining flour and unsalted butter in a mixing bowl until it forms coarse crumbs. Set aside.",
     "To serve, place slices of grilled chicken onto plates or bowls, top with a generous amount of crumble topping, garnish with fresh mint leaves, and enjoy immediately."
   ],
@@ -68,9 +68,9 @@
   ],
   "nutrition": {
     "calories": 195,
-    "protein": 23.7,
-    "carbs": 12.6,
-    "fat": 8.4
+    "protein": 24,
+    "carbs": 13,
+    "fat": 8
   },
   "slug": "midnight-craving-canadian-citrus-crumble",
   "source": "ollama-qwen2.5:3b",

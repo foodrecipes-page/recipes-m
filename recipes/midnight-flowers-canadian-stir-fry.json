@@ -90,5 +90,10 @@
     "mainIngredient": "Flowers",
     "descriptor": "Midnight",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

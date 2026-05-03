@@ -35,7 +35,7 @@
   ],
   "instructions": [
     "Preheat your stovetop and heat a tablespoon of olive oil in a pan over medium-high heat.",
-    "Add finely chopped red onion and minced garlic to the heated pan. Sauté for about 3-5 minutes or until onions are translucent.",
+    "Add finely chopped red onion and minced garlic to the heated pan. Saut\u00e9 for about 3-5 minutes or until onions are translucent.",
     "Increase the heat to high, add the fermented cherry tomatoes, and give them a gentle toss.",
     "Toss in the capers and continue stirring until they pop from the heat (about 1 minute).",
     "For an extra burst of flavor, garnish with pitted olives if desired. Serve hot as a snack or appetizer.",
@@ -58,5 +58,20 @@
     "mainIngredient": "Fermented cherry tomatoes",
     "descriptor": "Midnight-craving",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "snack"
+  ]
 }

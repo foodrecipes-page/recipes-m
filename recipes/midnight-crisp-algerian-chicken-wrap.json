@@ -1,6 +1,6 @@
 {
   "title": "Midnight Crisp Algerian Chicken Wrap",
-  "description": "Savory, high‑protein chicken wrapped in spicy bhuna and crisp pita, perfect for a midnight craving.",
+  "description": "Savory, highprotein chicken wrapped in spicy bhuna and crisp pita, perfect for a midnight craving.",
   "cuisine": "Algerian",
   "diet": [
     "high-protein"
@@ -30,15 +30,15 @@
     },
     {
       "name": "cayenne pepper",
-      "amount": "½ teaspoon"
+      "amount": "\u00bd teaspoon"
     },
     {
       "name": "salt",
-      "amount": "½ teaspoon"
+      "amount": "\u00bd teaspoon"
     },
     {
       "name": "black pepper",
-      "amount": "¼ teaspoon"
+      "amount": "\u00bc teaspoon"
     },
     {
       "name": "onion, diced",
@@ -70,11 +70,11 @@
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon olive oil in a large skillet over medium‑high heat.",
+    "Heat 1 tablespoon olive oil in a large skillet over medium\u2011high heat.",
     "Add the diced onion and cook until translucent, about 3 minutes.",
     "Add the minced garlic and cook for 30 seconds, stirring constantly.",
     "Stir in the paprika, cumin, coriander, cayenne, salt, and black pepper; cook for 1 minute until fragrant.",
-    "Add the chicken strips and cook, stirring, until the chicken is browned and cooked through, about 6‑7 minutes.",
+    "Add the chicken strips and cook, stirring, until the chicken is browned and cooked through, about 6\u20117 minutes.",
     "Fold in the tomato paste and pour in a splash of water (about 2 tablespoons) to make a thin sauce; simmer for 2 minutes until the sauce thickens slightly.",
     "Stir in the Greek yogurt to create a creamy coating; cook for another 1 minute, ensuring the chicken is well coated.",
     "Warm the pita breads in a dry skillet or microwave for about 20 seconds.",
@@ -99,5 +99,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Midnight Crisp",
     "dishForm": "Wrap"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "dinner"
+  ]
 }
