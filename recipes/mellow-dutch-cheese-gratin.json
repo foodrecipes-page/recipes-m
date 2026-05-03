@@ -1,0 +1,94 @@
+{
+  "title": "Mellow Dutch Cheese Gratin",
+  "description": "A comforting, umami-rich Dutch cheese gratin perfect for a sick day with a soothing, creamy cheese filling and a crispy top.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese (low-moisture, 250g)",
+      "amount": "250g",
+      "notes": "Dutch Gouda cheese is key to this dish."
+    },
+    {
+      "name": "Milk",
+      "amount": "150ml",
+      "notes": "Use fresh milk for best results."
+    },
+    {
+      "name": "Butter",
+      "amount": "40g",
+      "notes": "Unsalted butter adds a rich flavor to the cheese."
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "100ml",
+      "notes": "Creme Fraiche adds a tangy flavor and creamy texture."
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1sprig",
+      "notes": "Fresh thyme adds a subtle, herbal flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a saucepan, combine milk, butter, and salt, and bring to a simmer over medium heat.",
+    "In a separate saucepan, combine Gouda cheese and creme fraiche, and stir until the cheese is melted and smooth.",
+    "Stir the cheese mixture into the milk mixture and bring to a simmer.",
+    "Remove from heat and stir in black pepper and thyme.",
+    "Transfer the mixture to a baking dish and let it rest for 10 minutes, allowing the cheese to set.",
+    "Bake the gratin in the preheated oven for 20-25 minutes, or until the top is golden brown and crispy.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "dutch-cuisine",
+    "fodmap-friendly",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "mellow-dutch-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-dutch-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:14:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Mellow",
+    "dishForm": "Gratin"
+  }
+}
