@@ -1,0 +1,106 @@
+{
+  "title": "Melted Crispy Uruguayan Beef Pie",
+  "description": "A buttery, shattering, cozy Uruguayan dish featuring filo pastry and tender beef that melts in your mouth.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "filo pastry sheets",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "beef sirloin",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Heat olive oil in a skillet over medium-high heat, then sauté the diced onion and minced garlic until translucent.",
+    "Add the cubed beef and cook until browned, then stir in the diced bell pepper, crushed tomatoes, cumin, paprika, salt, and pepper.",
+    "Pour in the beef broth, bring to a simmer, and cook for 10 minutes until the mixture thickens, then remove from heat.",
+    "Lay a sheet of filo pastry on a clean surface, brush with melted butter, and fold in half; repeat with the remaining sheets to form a layered crust.",
+    "Spread the beef mixture into the bottom of a greased baking dish, cover with the layered filo sheets, and seal the edges.",
+    "Brush the top of the pastry with additional melted butter and bake for 20 minutes until golden and crispy.",
+    "Let the pie cool for 5 minutes before slicing and serving warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "comfort-food",
+    "crispy",
+    "family-friendly",
+    "home-cooked",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "melted-crispy-uruguayan-beef-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-crispy-uruguayan-beef-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:32:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "rest-meat",
+    "primaryIngredient": "filo pastry",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Beef",
+    "descriptor": "Melted Crispy",
+    "dishForm": "Pie"
+  }
+}
