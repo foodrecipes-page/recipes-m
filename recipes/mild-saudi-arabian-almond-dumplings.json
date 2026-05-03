@@ -1,0 +1,109 @@
+{
+  "title": "Mild Saudi Arabian Almond Dumplings",
+  "description": "Nutty and light vegan dumplings infused with citrus and cumin, perfect for a comforting snack.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "raw almonds",
+      "amount": "1 cup",
+      "notes": "toasted for nutty flavor"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional for nutty crunch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional for umami"
+    }
+  ],
+  "instructions": [
+    "Toast almonds in a dry skillet until lightly browned and fragrant, about 5 minutes.",
+    "In a large bowl, combine toasted almonds, chickpea flour, cumin, coriander, smoked paprika, and sea salt; mix well.",
+    "Whisk coconut milk, maple syrup, lime juice, and soy sauce until smooth.",
+    "Pour the wet mixture into the dry mix and stir until a soft dough forms.",
+    "Fold in chopped mint and sesame seeds.",
+    "Shape the dough into small dumplings about 1.5 inches in diameter.",
+    "Steam the dumplings over simmering water for 8-10 minutes until firm.",
+    "Serve warm drizzled with extra lime zest or a splash of tahini dressing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "comforting",
+    "dumplings",
+    "light",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 16,
+    "carbs": 39,
+    "fat": 26
+  },
+  "slug": "mild-saudi-arabian-almond-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-saudi-arabian-almond-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:22:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "lime",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Almond",
+    "descriptor": "Mild",
+    "dishForm": "Dumplings"
+  }
+}
