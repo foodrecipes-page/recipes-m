@@ -1,0 +1,120 @@
+{
+  "title": "Midnight Herbaceous American Aubergine Casserole",
+  "description": "A fragrant, gluten‑free casserole that blends sous‑vide aubergine with aromatic herbs and a crumbly, cheesy crust perfect for midnight cravings.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplants (aubergines)",
+      "amount": "2 medium (≈800 g)",
+      "notes": "cut into 1/2‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "3 Tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gluten‑free breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 Tbsp, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous‑vide water bath to 149 °F (65 °C).",
+    "Season the cubed aubergines with salt, pepper, and 1 Tbsp olive oil. Seal them in a single layer in a vacuum‑sealed bag and cook sous‑vide for 30 minutes. During the last 5 minutes, transfer the bag to a skillet with 1 Tbsp olive oil and sear the aubergines until golden. Remove from heat and let cool slightly.",
+    "In a large skillet, sauté the diced onion in the remaining 1 Tbsp olive oil until translucent. Add the minced garlic and cook for 1 minute. Stir in the sous‑vide aubergines, tomato paste, and vegetable broth; simmer for 5 minutes to combine flavors. Season with salt and pepper.",
+    "Stir in the chopped basil, parsley, oregano, and lemon zest if using. Fold in the shredded mozzarella and grated Parmesan until melted. Mix in the gluten‑free breadcrumbs to bind the mixture. Transfer the mixture to an oven‑proof casserole dish and top with an even layer of the remaining breadcrumbs. Sprinkle with a light dusting of Parmesan. ",
+    "Bake at 375 °F (190 °C) for 25–30 minutes, or until the top is golden and crisp. Let rest 5 minutes before serving.",
+    "Serve warm, perhaps with a side of fresh arugula or a simple green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 75,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "sous‑vide",
+    "casserole",
+    "aubergine",
+    "herbaceous",
+    "midnight",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "midnight-herbaceous-american-aubergine-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-herbaceous-american-aubergine-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:15:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "aubergine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "aubergine",
+    "descriptor": "Midnight Herbaceous",
+    "dishForm": "Casserole"
+  }
+}
