@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Tunisian Eggplant Bake",
+  "description": "A tangy, creamy eggplant bake that blends Tunisian spices with Italian seasoning for a low-sodium, romantic dinner.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplants",
+      "amount": "2 large",
+      "notes": "sliced into 1/2-inch rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Season the eggplant rounds with lemon zest and Italian seasoning and arrange them in a greased baking dish.",
+    "Sauté onion and garlic in olive oil until translucent, then stir in tomato paste and turmeric.",
+    "Add the diced tomatoes and vegetable broth, simmer for 5 minutes, then pour the sauce over the eggplant.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove foil, top with low-fat Greek yogurt, and bake uncovered for another 10 minutes until the yogurt is lightly browned.",
+    "Let the bake rest for 5 minutes before serving.",
+    "Spoon fresh yogurt into each plate and garnish with a sprinkle of Italian seasoning for extra flavor."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dinner"
+  ],
+  "slug": "mellow-tunisian-eggplant-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-tunisian-eggplant-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:05:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "italian seasoning",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Mellow",
+    "dishForm": "Bake"
+  }
+}
