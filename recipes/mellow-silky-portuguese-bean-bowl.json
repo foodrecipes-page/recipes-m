@@ -1,0 +1,107 @@
+{
+  "title": "Mellow Silky Portuguese Bean Bowl",
+  "description": "A buttery, silky blend of refried black beans and rice, topped with air‑fried sweet potato, feta, and avocado for a creamy, indulgent Portuguese-inspired bowl.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans (drained and rinsed)",
+      "amount": "1 can (15 oz)",
+      "notes": null
+    },
+    {
+      "name": "white rice (cooked)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sweet potato, cubed",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "feta cheese (crumbled)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "avocado (diced)",
+      "amount": "1 ripe avocado",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F.",
+    "Toss the sweet potato cubes with 1 tbsp olive oil, salt, and pepper; air fry for 15 minutes, shaking halfway until crisp, then set aside.",
+    "In a saucepan, melt 1 tbsp butter over medium heat, add the black beans, smoked paprika, garlic powder, cumin, and 1 cup of cooked rice, and stir until the mixture thickens and the beans are bubbling, about 5 minutes.",
+    "Stir in the milk and the remaining 1 tbsp butter until the bean mixture is creamy and silky, then season with salt to taste.",
+    "Transfer the bean mixture to a bowl, top with the fried sweet potato cubes, crumbled feta, and diced avocado.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 20,
+  "totalTimeMin": 32,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "buttery",
+    "one-pan",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 535,
+    "protein": 17,
+    "carbs": 57,
+    "fat": 34
+  },
+  "slug": "mellow-silky-portuguese-bean-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-silky-portuguese-bean-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:43:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "refried beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Bean",
+    "descriptor": "Mellow Silky",
+    "dishForm": "Bowl"
+  }
+}

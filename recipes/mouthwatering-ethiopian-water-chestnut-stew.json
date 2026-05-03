@@ -1,0 +1,107 @@
+{
+  "title": "Mouthwatering Ethiopian Water Chestnut Stew",
+  "description": "A tangy, dense, festive stew that highlights crisp water chestnuts, bright berbere spice, and a splash of lemon for a low-calorie, nutrient-rich meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Stir in the minced garlic, grated ginger, and berbere spice, cooking for 1 minute until fragrant.",
+    "Pour in the crushed tomatoes and vegetable broth, bringing the mixture to a gentle boil.",
+    "Add the sliced water chestnuts, reduce heat, and simmer uncovered for 20 minutes, stirring occasionally.",
+    "Stir in the lemon juice and season with salt to taste.",
+    "Remove from heat, let the stew rest for 5 minutes to allow flavors to meld.",
+    "Serve hot, garnished with fresh cilantro.",
+    "Enjoy the bright, tangy flavors of this low-calorie Ethiopian stew."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "lunch"
+  ],
+  "slug": "mouthwatering-ethiopian-water-chestnut-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-ethiopian-water-chestnut-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:42:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "water chestnut",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Mouthwatering",
+    "dishForm": "Stew"
+  }
+}

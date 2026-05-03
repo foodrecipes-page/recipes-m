@@ -1,0 +1,109 @@
+{
+  "title": "Filipino White Navy Beans Dal",
+  "description": "A rich and creamy Filipino-inspired white navy beans dal made with fermented beans and sous-vide technology for a keto-friendly twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white navy beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated",
+      "notes": "fresh"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, sous-vide water bath at 190°F (88°C) for 4 hours to cook the soaked white navy beans.",
+    "Drain and rinse the cooked white navy beans.",
+    "In a blender or food processor, puree the cooked white navy beans, coconut oil, onion, garlic, ginger, fish sauce, and fermented bean paste until smooth.",
+    "In a medium saucepan, heat the coconut cream over low heat.",
+    "Stir in the pureed bean mixture and cook for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "fermented",
+    "filipino",
+    "keto-friendly",
+    "one-pan",
+    "under-30",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 44
+  },
+  "slug": "midnight-craving-velvety-filipino-white-navy-beans-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-velvety-filipino-white-navy-beans-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:42:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "white navy beans",
+    "descriptor": "midnight-craving velvety",
+    "dishForm": "Dal"
+  }
+}
