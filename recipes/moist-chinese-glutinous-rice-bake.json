@@ -1,0 +1,78 @@
+{
+  "title": "Moist Chinese Glutinous Rice Bake",
+  "description": "A savory and fluffy midnight craving dish featuring black treacle that is both tasty and adaptable for those with dietary restrictions.",
+  "cuisine": "Chinese",
+  "diet": [
+    "salty",
+    "fluffy",
+    "midnight-craving"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "glutinous rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black treacle (dark molasses)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine brown sugar, black treacle, and vanilla extract in a large bowl.",
+    "Add cooking oil to the mixture and stir until well combined.",
+    "Gradually add glutinous rice while stirring constantly with a spoon or spatula.",
+    "Transfer the mixture into a greased baking dish.",
+    "Bake at 350°F (175°C) for 25 minutes, or until the rice is fully cooked and fluffy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moist-chinese-glutinous-rice-bake",
+    "salty-fluffy-midnight-craving",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "moist-chinese-glutinous-rice-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-chinese-glutinous-rice-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T15:58:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "black treacle",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "glutinous_rice",
+    "descriptor": "Moist",
+    "dishForm": "Bake"
+  }
+}
