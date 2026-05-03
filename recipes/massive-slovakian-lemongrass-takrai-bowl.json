@@ -1,0 +1,107 @@
+{
+  "title": "Massive Slovakian Lemongrass-takrai Bowl",
+  "description": "A hearty, fermented Slovakian dish that combines the flavors of lemongrass and takrai with roasted vegetables and crunchy fermented elements.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "takrai",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large"
+    },
+    {
+      "name": "carrot",
+      "amount": "4 large"
+    },
+    {
+      "name": "celery",
+      "amount": "4 stalks"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine water, flour, and caraway seeds. Whisk until smooth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "In a separate pan, heat coconut oil over medium heat. Add onion, bell pepper, carrot, celery, and garlic. Cook until tender.",
+    "Add cooked vegetables to the pot with the flour mixture. Stir to combine.",
+    "Add lemongrass and takrai to the pot. Stir to combine.",
+    "Transfer the mixture to a mason jar or a large ceramic bowl. Cover with a lid or plastic wrap.",
+    "Let the mixture ferment at room temperature for 24-48 hours. Check for fermentation by looking for bubbles and a sour smell.",
+    "Once fermented, refrigerate the mixture for at least 2 hours to chill.",
+    "Serve the massive Slovakian lemongrass-takrai bowl chilled, garnished with additional lemongrass and takrai if desired.",
+    "Store any leftover in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "massive-slovakian-lemongrass-takrai-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/massive-slovakian-lemongrass-takrai-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:52:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lemongrass-takrai",
+    "descriptor": "massive, crunchy, pickled",
+    "dishForm": "Bowl"
+  }
+}
