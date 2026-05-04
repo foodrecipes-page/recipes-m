@@ -1,0 +1,99 @@
+{
+  "title": "Moist Venezuelan Avocado Sushi",
+  "description": "Earthy, pillowy avocado rolls seasoned with allspice and lemon, perfect for a cozy Venezuelan-inspired snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2 medium ripe",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "Short-grain sushi rice",
+      "amount": "1 cup uncooked",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/4 cup",
+      "notes": "for rice"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Nori sheets",
+      "amount": "4"
+    },
+    {
+      "name": "Ground allspice berries",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice until the water runs clear, then cook it with 1 cup rice and 1 1/4 cup water for 15 minutes and let it rest, covered, for 10 minutes.",
+    "While the rice rests, whisk together rice vinegar, sugar, and salt until dissolved.",
+    "Spread the cooked rice onto a sheet of plastic wrap on a flat surface, sprinkle the vinegar mixture evenly, and fold the plastic over to cool.",
+    "Slice the avocado into thin strips and drizzle with lemon juice and a pinch of allspice.",
+    "Lay a nori sheet flat, spread a thin layer of seasoned rice over the sheet, leaving a 1 cm border.",
+    "Arrange avocado strips in a line across the center of the rice.",
+    "Roll the nori tightly into a cylinder, sealing the edge with a little water.",
+    "Slice the roll into 6 equal pieces, drizzle each with a touch of olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "raw",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "moist-venezuelan-avocado-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-venezuelan-avocado-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:48:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "allspice berries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Avocado",
+    "descriptor": "Moist",
+    "dishForm": "Sushi"
+  }
+}
