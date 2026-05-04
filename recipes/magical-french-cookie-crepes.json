@@ -1,0 +1,94 @@
+{
+  "title": "Magical French Cookie Crepes",
+  "description": "A yeasty and tender French dish featuring cookies and a lamination puff, served on a hot stone plate, this dessert is a nostalgic treat for the senses. It is halal friendly and perfect for special occasions.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "crushed cookies",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour, granulated sugar, active dry yeast, and salt.",
+    "In a separate bowl, whisk together the warm whole milk, large eggs, and melted unsalted butter.",
+    "Slowly pour the wet ingredients into the dry ingredients and mix until a smooth batter forms.",
+    "Let the batter rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Heat a hot stone plate over medium heat and brush with a small amount of melted butter.",
+    "Pour a small amount of the batter onto the hot stone plate and tilt to evenly coat the surface.",
+    "Sprinkle a few crushed cookies onto the batter and fold the crepe in half.",
+    "Cook for an additional 2 minutes, or until the crepe is golden brown and the cookies are toasted.",
+    "Repeat with the remaining batter and cookies.",
+    "Serve the crepes warm, garnished with additional crushed cookies if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cookie-lovers",
+    "french-desserts",
+    "halal-friendly",
+    "hot-stone-plate",
+    "special-occasions"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "magical-french-cookie-crepes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-french-cookie-crepes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:42:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cookies",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cookies",
+    "descriptor": "magical flaky",
+    "dishForm": "Crepes"
+  }
+}
