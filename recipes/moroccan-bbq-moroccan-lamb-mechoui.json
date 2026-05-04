@@ -1,0 +1,126 @@
+{
+  "title": "Moroccan BBQ Moroccan Lamb Mechoui",
+  "description": "A sweet and comforting Moroccan dish featuring tender lamb and a rich BBQ sauce. Serve with warm pita bread and a side of spicy harissa.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped",
+      "},{": "+name + "
+    },
+    {
+      "name": "bbq sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "warm pita bread",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "spicy harissa",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder and brown on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, paprika, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the BBQ sauce to the pot and stir to combine.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and falling apart.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the lamb with warm pita bread and a dollop of spicy harissa, if desired.",
+    "Garnish with chopped fresh parsley and serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bbq",
+    "dinner",
+    "lamb",
+    "moroccan",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 100,
+    "carbs": 50,
+    "fat": 70
+  },
+  "slug": "moroccan-bbq-moroccan-lamb-mechoui",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moroccan-bbq-moroccan-lamb-mechoui",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Moroccan BBQ",
+    "dishForm": "Mechoui"
+  }
+}

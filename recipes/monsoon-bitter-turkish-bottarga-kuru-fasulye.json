@@ -1,0 +1,115 @@
+{
+  "title": "Monsoon Bitter Turkish Bottarga Kuru Fasulye",
+  "description": "A hearty, flavorful Turkish stew featuring the salty, rich flavor of bottarga, perfect for a monsoon evening. This kosher-friendly dish is a twist on the traditional Turkish kuru fasulye, with the addition of a spicy tadka and a tangy, herby sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bottarga (salted dried cod roe)",
+      "amount": "4 ounces",
+      "notes": "Available at most specialty food stores or online."
+    },
+    {
+      "name": "White beans (such as cannellini or navy beans)",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Spicy tadka",
+      "amount": "2 tablespoons",
+      "notes": "See below for recipe."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato paste and cook, stirring constantly, for 1-2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "stew",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "monsoon-bitter-turkish-bottarga-kuru-fasulye",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-bitter-turkish-bottarga-kuru-fasulye",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "bottarga",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bottarga",
+    "descriptor": "Monsoon Bitter",
+    "dishForm": "Kuru Fasulye"
+  }
+}

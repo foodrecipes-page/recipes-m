@@ -1,0 +1,114 @@
+{
+  "title": "Ethiopian Garlic Azifa",
+  "description": "A delicious and aromatic Azifa dish featuring a molten garlic paste, perfect for a date night dinner. This low-calorie-friendly recipe is a twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter or ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Clarified butter or ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large pan over medium heat.",
+    "Add the minced garlic and cook for 2-3 minutes until fragrant.",
+    "Add the sliced leeks and cook for 5-7 minutes until tender.",
+    "Add the chopped cilantro, thyme, salt, and black pepper. Stir for 1 minute.",
+    "Add the berbere spice blend and paprika. Stir for 30 seconds.",
+    "Add the butter or ghee and stir until melted.",
+    "Reduce heat to low and create a well in the center of the pan.",
+    "Add 2 tablespoons of clarified butter or ghee to the well and stir until molten.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "azifa",
+    "date-night",
+    "ethiopian",
+    "garlic",
+    "gourmet",
+    "herbal",
+    "low-calorie",
+    "molten"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "molten-ethiopian-garlic-azifa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-ethiopian-garlic-azifa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "garlic bulb",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "garlic",
+    "descriptor": "Molten",
+    "dishForm": "Azifa"
+  }
+}

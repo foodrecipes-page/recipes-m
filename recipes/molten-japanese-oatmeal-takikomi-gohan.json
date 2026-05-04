@@ -1,0 +1,110 @@
+{
+  "title": "Molten Japanese Oatmeal Takikomi-Gohan",
+  "description": "A unique, Ayurveda-friendly, solo-dinner Japanese dish featuring a jammy, molten oatmeal base.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Castor oil",
+      "amount": "1 tsp",
+      "notes": "Ayurveda-friendly, reduces inflammation"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "In a large saucepan, combine oats, brown rice, water, castor oil, and salt. Bring to a boil, then reduce heat to low and simmer, covered, until water is absorbed and oats are tender.",
+    "Stir in miso paste, dashi powder, and 1 teaspoon of sesame oil. Season with salt to taste.",
+    "Transfer the mixture to a broiler-safe dish and top with green onion and toasted sesame seeds.",
+    "Broil, 4-5 inches from the heat, until the top is golden brown and the oatmeal is molten and jammy.",
+    "If using yuzu juice, drizzle over the top and serve hot.",
+    "Serve immediately, garnished with additional green onion and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurveda-friendly",
+    "easy-to-make",
+    "japanese",
+    "meal-in-one",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "molten-japanese-oatmeal-takikomi-gohan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-japanese-oatmeal-takikomi-gohan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "oatmeal",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "oatmeal",
+    "descriptor": "Molten",
+    "dishForm": "Takikomi-Gohan"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Melt-in-Mouth French Seafood Mix Cassoulet",
+  "description": "A French dish inspired by Lyon, this recipe combines frozen seafood mix with silky egg and rich pork belly for a low-carb friendly take on the classic Cassoulet.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen seafood mix",
+      "amount": "400g"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "300g"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200\u00107C (400\u00179F).",
+    "Sear the pork belly in a skillet until browned, then set aside.",
+    "Add the garlic to the skillet and saut\u00052 until fragrant.",
+    "Stir in the frozen seafood mix and cook until thawed.",
+    "Add the canned diced tomatoes and bring to a simmer.",
+    "Create the Cassoulet by arranging the pork belly and seafood mix in a baking dish.",
+    "Crack in the egg and sprinkle with parsley.",
+    "Bake for 20 minutes, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cassoulet",
+    "low-carb",
+    "lyon",
+    "seafood",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "melt-in-mouth-french-seafood-mix-cassoulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melt-in-mouth-french-seafood-mix-cassoulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "low-carb",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "seafood mix",
+    "descriptor": "melt-in-mouth",
+    "dishForm": "Cassoulet"
+  }
+}

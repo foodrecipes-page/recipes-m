@@ -1,0 +1,104 @@
+{
+  "title": "Mustardy Flaky Venezuelan Quick-Fix Bake",
+  "description": "A zesty Venezuelan-inspired bake with a hint of vanilla and a boost from dashi-extract.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla bean paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Whole-grain mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Large eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium-sized bowl, whisk together the flour, sugar, and kosher salt.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or your fingers to work it into a crumbly mixture.",
+    "In a separate bowl, whisk together the eggs and milk (if using).",
+    "Stir in the vanilla bean paste and dashi-extract.",
+    "Pour the wet ingredients into the dry ingredients and stir until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Roll the dough out to a thickness of about 1/8 inch (3 mm).",
+    "Cut the dough into 8 equal pieces and place on a parchment-lined baking sheet.",
+    "Mix the whole-grain mustard with a pinch of water to create a thin paste, and brush it evenly over the dough pieces.",
+    "Bake for 18-20 minutes, or until the pastries are golden brown.",
+    "Let cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mustardy-flaky-venezuelan-quick-fix-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-flaky-venezuelan-quick-fix-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "quick-fix",
+    "descriptor": "mustardy flaky",
+    "dishForm": "bake"
+  }
+}

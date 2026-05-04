@@ -1,0 +1,121 @@
+{
+  "title": "Moist Delicate Turkish Semolina Revani Cake",
+  "description": "A moist and delicate Turkish semolina cake featuring a briny, silky texture, perfect for a show-off dish.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "madras paste",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Grease a 9-inch round cake pan and set it aside.",
+    "In a medium bowl, whisk together the semolina flour, all-purpose flour, baking powder, and salt.",
+    "In a large mixing bowl, beat the softened butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "With the mixer on low speed, gradually add the dry ingredients to the wet ingredients, alternating with the milk and water, beginning and ending with the dry ingredients.",
+    "Beat in the madras paste and bonito flakes.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 30-40 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+    "Remove the cake from the oven and let it cool in the pan for 5 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Once the cake is completely cool, you can dust it with powdered sugar and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cake",
+    "dessert",
+    "fancy",
+    "high-fat",
+    "madras-paste",
+    "semolina",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 12,
+    "carbs": 100,
+    "fat": 40
+  },
+  "slug": "moist-delicate-turkish-semolina-revani-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-delicate-turkish-semolina-revani-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "bonito-shave",
+    "primaryIngredient": "madras paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "semolina",
+    "descriptor": "Moist Delicate",
+    "dishForm": "Revani Cake"
+  }
+}
