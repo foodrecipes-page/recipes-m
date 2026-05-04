@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Woodfired Korean Cream Guk",
+  "description": "A lightly woodfired Korean dish featuring single cream, this guk is a fatty and pillowy treat from the Chungcheong region, wrapped in pandan leaves for added aroma.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "single cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "woodfired baked potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the woodfired oven to 375 degrees Fahrenheit.",
+    "Wrap each pandan leaf around a small bowl to form a cup shape and secure with a toothpick.",
+    "In a blender, combine the chilled single cream, diced woodfired baked potato, korean chili flakes, garlic, green onion, sesame oil, salt, and black pepper, and blend until smooth.",
+    "Pour the cream mixture into the pandan leaf cups.",
+    "Place the cups in the woodfired oven and bake for 15 minutes or until the cream is set.",
+    "Remove the cups from the oven and let them cool to room temperature.",
+    "Serve the Mildly Woodfired Korean Cream Guk chilled, garnished with additional green onion if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chungcheong-region",
+    "cream-based",
+    "korean-cuisine",
+    "kosher-friendly",
+    "pandan-wrapped",
+    "woodfired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "mildly-woodfired-korean-cream-guk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-woodfired-korean-cream-guk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:40:04Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "single cream",
+    "diet": "kosher",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cream",
+    "descriptor": "Mildly Woodfired",
+    "dishForm": "Guk"
+  }
+}
