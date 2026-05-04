@@ -1,0 +1,100 @@
+{
+  "title": "molten, garlicky, crowd-pleaser saudi-arabian grape tomatoes biryani",
+  "description": "a flavorful saudi-arabian dish featuring grape tomatoes, perfect for a weeknight dinner, and easily serves 6-8 people.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape tomatoes",
+      "amount": "1 lb",
+      "notes": "any color"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 1/2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until it is translucent and fragrant, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the grape tomatoes and cook for 2-3 minutes, until they start to release their juices.",
+    "add the basmati rice, cumin powder, coriander powder, salt, and black pepper, and stir to combine.",
+    "add 2 cups of water to the saucepan, and bring the mixture to a boil.",
+    "reduce the heat to low, cover the saucepan, and simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "fluff the biryani with a fork, and serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "rice-dish",
+    "saudi-arabian",
+    "tomato-based",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 12
+  },
+  "slug": "molten-garlicky-crowd-pleaser-saudi-arabian-grape-tomatoes-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-garlicky-crowd-pleaser-saudi-arabian-grape-tomatoes-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:08:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "Molten, Garlicky, crowd-pleaser",
+    "dishForm": "Biryani"
+  }
+}
