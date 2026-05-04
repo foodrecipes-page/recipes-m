@@ -1,0 +1,122 @@
+{
+  "title": "Mildly Spicy Egyptian Potato Bake",
+  "description": "A crumbly, peppery, show-off Egyptian dish featuring katsuramuki-cut russet potatoes, perfect for a dairy-free meal. Serve warm, garnished with fresh parsley.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "Paprika oil",
+      "amount": "0.25 cup",
+      "notes": "or any neutral-tasting oil"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "0.5 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "0.25 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "0.25 tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kashkaval cheese",
+      "amount": "0.5 cup",
+      "notes": "or substitute with feta or parmesan"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh breadcrumbs",
+      "amount": "0.25 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C)",
+    "Peel and slice the potatoes into katsuramuki-cut wedges",
+    "Heat the paprika oil in a large skillet over medium-high heat",
+    "Add the chopped onion and cook until translucent, about 5 minutes",
+    "Add the chopped garlic and cook for 1 minute",
+    "In a large bowl, combine the cooked onion and garlic mixture, potatoes, parsley, black pepper, cayenne pepper (if using), salt, and kashkaval cheese",
+    "In a separate bowl, mix together the tahini and lemon juice",
+    "Add the tahini-lemon mixture to the potato mixture and stir until well combined",
+    "Transfer the potato mixture to a terracotta dish and top with fresh breadcrumbs",
+    "Bake for 30 minutes, or until the top is golden brown and the potatoes are tender",
+    "Serve warm, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egyptian",
+    "european",
+    "gluten-free",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mildly-spicy-egyptian-potato-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-egyptian-potato-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:46:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "russet potato",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "potato",
+    "descriptor": "mildly spicy",
+    "dishForm": "Bake"
+  }
+}
