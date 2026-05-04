@@ -1,0 +1,110 @@
+{
+  "title": "Mildly Pungent Peruvian Kidney Bean Stew",
+  "description": "A festive Peruvian stew with kidney beans, leftover pork, and a subtle heat from green chilies, cooked in a comal for a flaky finish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked kidney beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced leftover pork",
+      "amount": "2 cups",
+      "notes": "use leftover roast pork, shredded or diced"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sliced green chili",
+      "amount": "2"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped spinach",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water or broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat and add the olive oil.",
+    "Sauté the diced onion until translucent, about 3 minutes.",
+    "Add the minced garlic and sliced green chili, cooking for another minute.",
+    "Stir in the cumin, paprika, and tomato paste until fragrant, about 1 minute.",
+    "Pour in the water or broth, bringing the mixture to a gentle boil.",
+    "Add the cooked kidney beans, diced leftover pork, and chopped spinach, reducing heat to low.",
+    "Simmer the stew for 30 minutes, stirring occasionally, until the flavors meld and the spinach wilts.",
+    "Season with salt to taste, tasting and adjusting if necessary.",
+    "Turn off the heat and let the stew rest for 5 minutes before serving.",
+    "Garnish with fresh cilantro or a squeeze of lime if desired, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "flaky",
+    "kidney-bean",
+    "macrobiotic-friendly",
+    "one-pan",
+    "peruvian",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "mildly-pungent-peruvian-kidney-bean-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-pungent-peruvian-kidney-bean-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:06:17Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "kidney beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Kidney Bean",
+    "descriptor": "Mildly Pungent",
+    "dishForm": "Stew"
+  }
+}
