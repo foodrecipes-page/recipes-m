@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Sour Japanese Pork Gyoza",
+  "description": "A sour and crunchy Japanese dish featuring minced pork, slow-cooked to perfection without onions or garlic.",
+  "cuisine": "Japanese",
+  "diet": [
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with 20% fat content"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, chopped cabbage, grated carrots, rice vinegar, soy sauce, sesame oil, and grated ginger, and mix well until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, remove the mixture from the refrigerator and let it sit at room temperature for 10 minutes.",
+    "Lay a gyoza wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet with 1 inch of water over medium heat and bring to a boil.",
+    "Reduce the heat to low and add the gyoza to the skillet, being careful not to overcrowd.",
+    "Cover the skillet with a lid and steam the gyoza for 10 minutes, or until the wrappers are tender and the filling is cooked through.",
+    "Remove the lid and increase the heat to medium-high, and cook for an additional 2 minutes, or until the bottoms of the gyoza are crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gyoza-recipes",
+    "japanese-food",
+    "no-garlic",
+    "no-onion",
+    "pork-recipes",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mildly-sour-japanese-pork-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-japanese-pork-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:44:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "minced pork",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "mildly sour",
+    "dishForm": "Gyoza"
+  }
+}
