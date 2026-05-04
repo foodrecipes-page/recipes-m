@@ -1,0 +1,104 @@
+{
+  "title": "Mellow Spicy Mexican Hind Shank Chiles Rellenos",
+  "description": "A spicy, pillowy, lazy-sunday Mexican dish featuring hind shank, served in a ceramic tagine, inspired by Jalisco-style cuisine and Ayurvedic tamasic-friendly principles.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "braised"
+    },
+    {
+      "name": "roasted poblano peppers",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2 peppers",
+      "notes": "chopped"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the hind shank with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat and sear the hind shank until browned on all sides.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the tomato paste, chipotle peppers, and roasted poblano peppers to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven to braise the hind shank for 2 1/2 hours.",
+    "Remove the pot from the oven and let the hind shank cool in the braising liquid.",
+    "Once the hind shank is cool enough to handle, shred it into bite-sized pieces and stir in the queso fresco and chopped cilantro.",
+    "Stuff each roasted poblano pepper with the hind shank mixture and place it in a ceramic tagine.",
+    "Serve the chiles rellenos hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mexican-cuisine",
+    "one-pot",
+    "slow-cooked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "mellow-spicy-mexican-hind-shank-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-spicy-mexican-hind-shank-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:15:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "hind shank",
+    "diet": "ayurvedic-tamasic",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "hind shank",
+    "descriptor": "mellow spicy",
+    "dishForm": "Chiles Rellenos"
+  }
+}
