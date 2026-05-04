@@ -1,0 +1,95 @@
+{
+  "title": "Mighty Crispy Norwegian Lamb Skillet",
+  "description": "A hearty and flavorful Norwegian dish featuring lamb, horseradish, and garlic, perfect for a comforting meal, this paleo-friendly recipe is made in a cast-iron skillet and can be served with ssam wraps.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "horseradish",
+      "amount": "2 tablespoons",
+      "notes": "prepared"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4-6 pieces",
+      "notes": "paleo-friendly"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large cast-iron skillet over medium-high heat.",
+    "Add the lamb pieces to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the prepared horseradish to the skillet and cook for 1 minute, until heated through.",
+    "Add the browned lamb back to the skillet and stir to combine with the garlic and horseradish.",
+    "Season the lamb mixture with salt, black pepper, and paprika.",
+    "Continue to cook the lamb mixture for an additional 5 minutes, until crispy and cooked through.",
+    "Serve the lamb mixture hot, with ssam wraps on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "comfort-food",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "mighty-crispy-norwegian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-crispy-norwegian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:44:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "horseradish",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Mighty Crispy",
+    "dishForm": "Skillet"
+  }
+}
