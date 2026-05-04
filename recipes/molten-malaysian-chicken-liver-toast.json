@@ -1,0 +1,112 @@
+{
+  "title": "Molten Malaysian Chicken Liver Toast",
+  "description": "A comforting, slightly bitter toast topped with sautéed chicken liver and a molten sweet‑savory sauce, served in a traditional copper mug.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a skillet over medium heat until melted.",
+    "Add the minced garlic and grated ginger and sauté until fragrant, about 1 minute.",
+    "Add the chicken liver to the skillet, season with salt and pepper, and cook until browned on all sides, about 3 minutes.",
+    "Stir in fish sauce, soy sauce, tamarind paste, sugar, lime juice, and chili flakes, then pour in the coconut milk and cook until the sauce thickens slightly, about 2 minutes.",
+    "Toast the bread slices in a separate pan until golden.",
+    "Place each toasted slice on a clean plate, then spoon the molten sauce over the top so it pools around the edges.",
+    "Transfer the sauced toast into a preheated copper mug, letting the sauce flow under the bread to create a molten effect.",
+    "Serve immediately while the sauce is still warm, pairing with a light salad or cucumber slices if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malaysian",
+    "snack"
+  ],
+  "slug": "molten-malaysian-chicken-liver-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-malaysian-chicken-liver-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:43:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "chicken liver",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Molten",
+    "dishForm": "Toast"
+  }
+}
