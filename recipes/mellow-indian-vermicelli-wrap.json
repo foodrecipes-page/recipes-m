@@ -1,0 +1,114 @@
+{
+  "title": "Mellow Indian Vermicelli Wrap",
+  "description": "A winey, crumbly, indulgent wrap that combines rice vermicelli, roasted chickpeas, feta, and boiled eggs in a fresh lettuce bundle.",
+  "cuisine": "Middle East",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "150g",
+      "notes": "dry"
+    },
+    {
+      "name": "mixed lettuce leaves",
+      "amount": "200g",
+      "notes": "washed"
+    },
+    {
+      "name": "boiled eggs",
+      "amount": "2",
+      "notes": "large, peeled"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "100g",
+      "notes": "crunchy"
+    },
+    {
+      "name": "red wine",
+      "amount": "50ml",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the rice vermicelli in salted water for 5 minutes until al dente, then drain and rinse with cold water.",
+    "Toss the vermicelli with olive oil, lemon juice, salt, cumin, and chopped mint to coat evenly.",
+    "Heat the red wine in a small saucepan until it reduces by half, then mix it into the vermicelli.",
+    "Spread the lettuce leaves on a clean surface and arrange a handful of vermicelli on each leaf.",
+    "Top the vermicelli with roasted chickpeas, crumbled feta, and sliced boiled egg rounds.",
+    "Fold the sides of the lettuce over the filling and roll tightly to form a wrap.",
+    "Serve immediately, optionally drizzling a little extra wine reduction over the top.",
+    "Enjoy while warm for a creamy, indulgent lunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "indulgent",
+    "lunch",
+    "ovo-vegetarian",
+    "quick",
+    "wine-based",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 35,
+    "carbs": 135,
+    "fat": 46
+  },
+  "slug": "mellow-indian-vermicelli-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-indian-vermicelli-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:51:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Mellow",
+    "dishForm": "Wrap"
+  }
+}
