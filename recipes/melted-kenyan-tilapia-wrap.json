@@ -1,0 +1,107 @@
+{
+  "title": "Melted Kenyan Tilapia Wrap",
+  "description": "A midnight craving Kenyan wrap that melts buttered tilapia into a tender, savory filling wrapped in a fresh ti leaf.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh tilapia fillets",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaf wrap",
+      "amount": "4",
+      "notes": "fresh and pliable"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add coconut oil until melted.",
+    "Sprinkle tilapia fillets with ground ginger, cumin, smoked paprika, salt, and pepper, rubbing the spices into the flesh.",
+    "Place the seasoned fillets in the hot skillet and sear for 3 minutes on each side until a golden crust forms and the fish flakes easily.",
+    "Squeeze lime juice over the cooked fish and cook for an additional minute to infuse citrus flavor.",
+    "Transfer the cooked fish to a cutting board and break it into bite‑sized shards with a fork.",
+    "Warm ti leaf wraps in a dry pan for 15 seconds on each side to make them pliable.",
+    "Spread a generous amount of shredded tilapia onto the center of each ti leaf wrap.",
+    "Sprinkle chopped coriander over the fish filling for a fresh herbal note.",
+    "Fold the sides of the wrap inward and roll tightly to enclose the filling, tucking the ends to secure.",
+    "Serve the wraps immediately, optionally with a side of sliced avocado or a light yogurt dipping sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "kenyan",
+    "late-night",
+    "quick",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 45,
+    "carbs": 1,
+    "fat": 16
+  },
+  "slug": "melted-kenyan-tilapia-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-kenyan-tilapia-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:47:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Tilapia",
+    "descriptor": "Melted",
+    "dishForm": "Wrap"
+  }
+}

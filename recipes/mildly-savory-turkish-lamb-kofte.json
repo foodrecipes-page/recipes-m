@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Savory Turkish Lamb Kofte",
+  "description": "A savory and crumbly Turkish dish featuring lamb and mitsuba, perfect for a solo dinner, made in a Dutch oven and whisked to perfection, diabetic friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ground lamb, mitsuba, onion, garlic, salt, black pepper, and paprika.",
+    "Use your hands to mix the ingredients until just combined, being careful not to overmix.",
+    "Use your hands to shape the mixture into 6-8 kofte.",
+    "Heat the olive oil in the preheated Dutch oven over medium-high heat.",
+    "Add the kofte to the Dutch oven and cook until browned on all sides, about 5 minutes.",
+    "Transfer the Dutch oven to the preheated oven and bake for 15 minutes.",
+    "Remove the kofte from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dutch-oven-recipes",
+    "gluten-free",
+    "lamb-recipes",
+    "turkish-food",
+    "whisked-meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mildly-savory-turkish-lamb-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-savory-turkish-lamb-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:47:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "mitsuba",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "mildly savory",
+    "dishForm": "Kofte"
+  }
+}
