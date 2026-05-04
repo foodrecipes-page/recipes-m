@@ -1,0 +1,112 @@
+{
+  "title": "Mild Canadian Fish Chowder",
+  "description": "A light, low‑fat fish chowder featuring roasted flaky fish, seasonal vegetables, and a creamy broth; ideal for a comforting sick‑day meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets (cod or haddock)",
+      "amount": "400g",
+      "notes": "katsuramuki‑cut"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low‑sodium fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "skim milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and lay fish fillets on a baking sheet, seasoned with salt, pepper, and dried thyme; roast for 12–14 minutes until flaky, then remove and set aside.",
+    "In a large pot, heat olive oil over medium heat and sauté onions until translucent.",
+    "Add carrots and potatoes, cooking for 5 minutes, stirring occasionally.",
+    "Pour in low‑sodium fish stock and bring the mixture to a gentle boil.",
+    "Reduce heat and simmer for 10 minutes until vegetables are tender.",
+    "Stir in skim milk and unsweetened almond milk, then add roasted fish pieces, simmering gently for 3 minutes to heat through.",
+    "Taste and adjust seasoning with salt and pepper.",
+    "Ladle chowder into bowls and garnish with chopped fresh parsley.",
+    "Serve hot with crusty bread if desired.",
+    "Enjoy this mild Canadian fish chowder, perfect for a comforting sick‑day meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "low-fat-friendly",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "mild-canadian-fish-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-canadian-fish-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:23:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "hail",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "Mild",
+    "dishForm": "Chowder"
+  }
+}
