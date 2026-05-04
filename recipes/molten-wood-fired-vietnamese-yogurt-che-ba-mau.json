@@ -1,0 +1,92 @@
+{
+  "title": "Molten Wood Fired Vietnamese Yogurt Che Ba Mau",
+  "description": "A winey and molten Vietnamese dessert featuring full fat yogurt, wood-fired baked to perfection, with a Mediterranean twist, in the form of Che Ba Mau.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "full fat yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "mung bean paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red bean paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green tea extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wood fired sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, sugar, and eggs until smooth.",
+    "Add the mung bean paste, coconut milk, and red bean paste to the bowl and mix until well combined.",
+    "Stir in the green tea extract and wood fired sea salt.",
+    "Pour the mixture into 4 small ramekins or cups.",
+    "Place the ramekins in the wood fired oven and bake for 20 minutes.",
+    "Remove the ramekins from the oven and let them cool for 5 minutes.",
+    "Serve the Che Ba Mau warm, with a molten center and a crispy exterior."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "full-fat",
+    "gluten-free",
+    "mediterranean-inspired",
+    "vegetarian",
+    "vietnamese-dessert",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "molten-wood-fired-vietnamese-yogurt-che-ba-mau",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-wood-fired-vietnamese-yogurt-che-ba-mau",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:20:20Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "yogurt",
+    "descriptor": "Molten Wood Fired",
+    "dishForm": "Che Ba Mau"
+  }
+}
