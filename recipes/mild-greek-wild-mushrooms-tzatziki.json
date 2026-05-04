@@ -1,0 +1,95 @@
+{
+  "title": "Mild Greek Wild Mushrooms Tzatziki",
+  "description": "A silky, herbal tzatziki infused with sauteed wild mushrooms, perfect as a macrobiotic-friendly dip.",
+  "cuisine": "Greek",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wild mushrooms, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber, grated",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat and saute the sliced wild mushrooms until browned, about 5 minutes.",
+    "Transfer the mushrooms to a bowl and let them cool slightly.",
+    "Whisk the Greek yogurt until smooth and silky.",
+    "Fold in the grated cucumber, minced garlic, chopped dill, and lemon juice to the yogurt.",
+    "Add the sauteed mushrooms to the yogurt mixture and stir gently until well combined.",
+    "Drizzle the extra-virgin olive oil over the mixture and season with salt and pepper.",
+    "Cover and chill the tzatziki in the refrigerator for at least 15 minutes before serving.",
+    "Serve chilled with warm pita or raw vegetable sticks as a refreshing dip."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "greek",
+    "herbal",
+    "macrobiotic-friendly",
+    "silky",
+    "tzatziki",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 15,
+    "carbs": 21,
+    "fat": 28
+  },
+  "slug": "mild-greek-wild-mushrooms-tzatziki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-greek-wild-mushrooms-tzatziki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:30:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "Mild",
+    "dishForm": "Tzatziki"
+  }
+}
