@@ -1,0 +1,94 @@
+{
+  "title": "Melted Fluffy Turkish Cheese Cig Kofte",
+  "description": "A post-workout Turkish dish featuring melted Monterey Jack cheese, served with toast, this resinous and fluffy treat is perfect for a snack, it is also nut-free-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Butter each slice of bread on both sides.",
+    "Place the bread slices on a baking sheet.",
+    "Sprinkle shredded cheese over the bread slices.",
+    "Add paprika, salt, black pepper, and garlic powder on top of the cheese.",
+    "Drizzle water over the cheese and spices.",
+    "Bake in the preheated oven for 10 minutes or until the cheese is melted and fluffy.",
+    "Remove from the oven and let cool for a minute or two.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy-snacks",
+    "easy-snacks",
+    "gluten-free",
+    "nut-free",
+    "post-workout",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "melted-fluffy-turkish-cheese-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-fluffy-turkish-cheese-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:22:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Melted Fluffy",
+    "dishForm": "Cig Kofte"
+  }
+}
