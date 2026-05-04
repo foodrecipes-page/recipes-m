@@ -1,0 +1,106 @@
+{
+  "title": "Midnight Roasted Portuguese Almonds Stew",
+  "description": "A smoky, buttery stew that blends roasted almonds, beurre-monte, and aromatic spices into a midnight snack that satisfies any craving.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds, whole",
+      "amount": "200g",
+      "notes": "roasted"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "50g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "20g butter + 20ml milk"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a kadhai over medium heat and add olive oil.",
+    "Add whole almonds and sauté until golden brown and fragrant.",
+    "Stir in smoked paprika, cumin, salt, and pepper and cook for 30 seconds.",
+    "Pour in vegetable broth, bring to a simmer, and let the mixture reduce for 10 minutes.",
+    "Fold in beurre-monte until the liquid thickens slightly and coats the almonds.",
+    "Add flaked almonds and stir gently to combine.",
+    "Cook for another 5 minutes until the stew is silky and the flavors meld.",
+    "Remove from heat and stir in lemon zest and chopped parsley.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot in bowls, optionally drizzled with additional beurre-monte or a splash of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "beurre-monte",
+    "midnight",
+    "one-pot",
+    "ovo-vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 11,
+    "carbs": 17,
+    "fat": 36
+  },
+  "slug": "midnight-roasted-portuguese-almonds-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-roasted-portuguese-almonds-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:51:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "flaked almonds",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Midnight Roasted",
+    "dishForm": "Stew"
+  }
+}
