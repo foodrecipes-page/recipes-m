@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Crunchy Brazilian Chicken Skewers",
+  "description": "A light and crunchy Brazilian dish featuring sesame seed oil and simmered chicken, served in scallop shells. This paleo-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "12",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame seed oil, coconut milk, lime juice, garlic powder, salt, black pepper, and paprika.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Sprinkle the sesame seeds over the chicken.",
+    "Bake the chicken in the preheated oven for 20 minutes, or until cooked through.",
+    "Simmer the cooked chicken in the marinade for an additional 5 minutes.",
+    "Serve the chicken in scallop shells, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "mildly-crunchy-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-crunchy-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:28:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly crunchy",
+    "dishForm": "Skewers"
+  }
+}
