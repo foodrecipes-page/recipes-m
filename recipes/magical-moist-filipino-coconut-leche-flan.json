@@ -1,0 +1,97 @@
+{
+  "title": "Magical Moist Filipino Coconut Leche Flan",
+  "description": "A traditional Filipino dessert with a moist and creamy texture, featuring coconut and a caramelized sugar crust. This leche flan is a perfect treat for any occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, combine the sugar and water and heat over medium heat, stirring constantly, until the sugar dissolves.",
+    "Increase the heat to medium-high and bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "In a large bowl, whisk together the eggs, sweetened condensed milk, coconut milk, vanilla extract, and salt.",
+    "Add the melted butter to the egg mixture and whisk until well combined.",
+    "Strain the egg mixture into a clean bowl to remove any air bubbles.",
+    "Pour the egg mixture into 6 small ramekins or custard cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake the leche flan for 45 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the leche flan from the water bath and let it cool to room temperature.",
+    "Cover the leche flan with plastic wrap and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-sugar",
+    "coconut-based",
+    "cream-based",
+    "filipino-dishes",
+    "leche-flan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "magical-moist-filipino-coconut-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-moist-filipino-coconut-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:15:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sugar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "coconut",
+    "descriptor": "Magical Moist",
+    "dishForm": "Leche Flan"
+  }
+}
