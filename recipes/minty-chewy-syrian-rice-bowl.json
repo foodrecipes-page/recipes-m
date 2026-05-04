@@ -1,0 +1,97 @@
+{
+  "title": "Minty Chewy Syrian Rice Bowl",
+  "description": "A quick, grassy, chewy rice bowl featuring Castelvetrano olives, candy sugar, and a hint of mint, gluten‑free and ready in minutes.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long grain white rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "250ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Castelvetrano olives",
+      "amount": "50g",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2g"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Candy sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until water runs clear.",
+    "In a saucepan, bring 250ml water to a rolling boil and add a pinch of salt.",
+    "Add the rice to the boiling water, reduce heat to low, cover, and simmer for 18 minutes until tender.",
+    "While the rice cooks, heat 1 tbsp olive oil in a small skillet over medium heat and sauté the sliced olives until slightly caramelized, about 3 minutes.",
+    "Stir in the chopped mint leaves, lemon zest, and minced garlic into the skillet, cooking for an additional minute.",
+    "Drain the cooked rice and fluff it with a fork, then transfer to a serving bowl.",
+    "Drizzle the hot olive oil and olive mixture over the rice, ensuring even distribution.",
+    "Sprinkle the candy sugar over the rice and stir gently to combine, allowing the sweet granules to melt slightly.",
+    "Drizzle honey over the bowl, then season with salt to taste, and give one final gentle mix.",
+    "Serve immediately, garnished with extra mint leaves if desired."
+  ],
+  "prepTimeMin": 7,
+  "cookTimeMin": 22,
+  "totalTimeMin": 29,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "gluten-free",
+    "minty",
+    "quick-fix",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 6,
+    "carbs": 86,
+    "fat": 23
+  },
+  "slug": "minty-chewy-syrian-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-chewy-syrian-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:30:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "candy",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Rice",
+    "descriptor": "Minty Chewy",
+    "dishForm": "Bowl"
+  }
+}
