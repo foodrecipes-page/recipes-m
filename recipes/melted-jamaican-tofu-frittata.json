@@ -1,0 +1,112 @@
+{
+  "title": "Melted Jamaican Tofu Frittata",
+  "description": "A fresh, molten frittata packed with spicy kimchi and Jamaican spices, featuring tofu and a touch of coconut shortening for a creamy texture.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "coconut shortening",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "chopped, drained"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "dried allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a 9-inch skillet over medium heat and add the coconut shortening until melted.",
+    "Add the crumbled tofu to the skillet and sauté until lightly browned.",
+    "Stir in the diced bell pepper and cook for 3 minutes.",
+    "Add the chopped kimchi, green onions, allspice, thyme, and cayenne pepper, and cook for another minute.",
+    "In a bowl, whisk the eggs, soy sauce, lime juice, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the tofu and vegetables, tilting the pan to spread it evenly.",
+    "Reduce heat to low, cover, and cook for 6 minutes until the eggs are set.",
+    "Remove the lid, sprinkle fresh cilantro on top, and let it rest for 2 minutes.",
+    "Slice the frittata into wedges and serve hot.",
+    "Optionally drizzle a little soy sauce or lime before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian-friendly",
+    "jamaican",
+    "one-pan",
+    "quick",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 9,
+    "carbs": 3,
+    "fat": 10
+  },
+  "slug": "melted-jamaican-tofu-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-jamaican-tofu-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:00:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "shortening",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Melted",
+    "dishForm": "Frittata"
+  }
+}
