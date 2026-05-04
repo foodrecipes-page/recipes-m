@@ -1,0 +1,93 @@
+{
+  "title": "Marinated Meaty Slovakian Pork Kebabs",
+  "description": "A Mediterranean-friendly Slovakian dish featuring green olives and marinated pork, served in agave leaves. This meal is perfect for a quick and flavorful dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the pork pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated pork and green olives onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally.",
+    "While the pork is cooking, prepare the agave leaves by rinsing them with water and patting them dry.",
+    "Once the pork is cooked, remove it from the grill and wrap each skewer in an agave leaf.",
+    "Serve the pork kebabs hot, garnished with additional green olives if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled",
+    "meat-based",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "marinated-meaty-slovakian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-meaty-slovakian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:39:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "green olives",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "marinated meaty",
+    "dishForm": "Kebabs"
+  }
+}
