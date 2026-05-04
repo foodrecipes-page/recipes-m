@@ -1,0 +1,128 @@
+{
+  "title": "Minty Algerian Lentil Tagine",
+  "description": "A comforting lentil tagine bursting with mint and rose water, accented by candied orange peel for a subtle sweetness.",
+  "cuisine": "Algerian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 cup, torn"
+    },
+    {
+      "name": "candied orange peel",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils and set aside.",
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add chopped onion and minced garlic, sauté until translucent.",
+    "Stir in diced carrots, tomatoes, and candied orange peel, cook for 3 minutes.",
+    "Add lentils, raisins, cumin, coriander, paprika, and cinnamon, stir until coated.",
+    "Pour in vegetable broth, bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 25 minutes until lentils are tender.",
+    "Stir in fresh mint leaves and rose water, season with salt and pepper.",
+    "Let the tagine rest for 5 minutes, then fluff with a fork.",
+    "Serve hot with couscous or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "mediterranean",
+    "mint",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "minty-algerian-lentil-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-algerian-lentil-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:19:09Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "rose water",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "Minty",
+    "dishForm": "Tagine"
+  }
+}
