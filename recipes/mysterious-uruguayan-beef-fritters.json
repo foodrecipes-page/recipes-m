@@ -1,0 +1,102 @@
+{
+  "title": "Mysterious Uruguayan Beef Fritters",
+  "description": "A bold, sour‑creamy fritter that marries Uruguayan beef with a tangy yogurt sauce, served hot from a deep fryer for an adventurous yet comforting treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "almond flour",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "200ml",
+      "notes": "for deep frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the deep fryer to 180°C (356°F).",
+    "In a bowl, combine the ground beef, almond flour, eggs, minced garlic, salt, pepper, and chopped parsley until well mixed.",
+    "Shape the mixture into small oval patties about 5 cm in diameter.",
+    "In a separate bowl, whisk together sour cream, yogurt, and a pinch of salt to make a tangy sauce.",
+    "Heat the olive oil in a deep fryer or deep pan until shimmering.",
+    "Fry the patties in batches for 4 to 5 minutes, flipping once, until golden brown and cooked through.",
+    "Drain the fritters on paper towels and serve hot.",
+    "Drizzle the prepared tangy sauce over the fritters or serve it on the side for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "deep-fry",
+    "gluten-free",
+    "sour-cream",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 561,
+    "protein": 32,
+    "carbs": 3,
+    "fat": 38
+  },
+  "slug": "mysterious-uruguayan-beef-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mysterious-uruguayan-beef-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:31:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sour cream",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Mysterious",
+    "dishForm": "Fritters"
+  }
+}
