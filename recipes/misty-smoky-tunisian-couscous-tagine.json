@@ -1,0 +1,111 @@
+{
+  "title": "Misty Smoky Tunisian Couscous Tagine",
+  "description": "A brunch‑mood, smoky pillowy couscous tagine with red pepper paste, kombu cold extract, and shojin‑friendly flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "shojin-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "300 ml"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "fresh chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "In a bowl, combine couscous, 150 ml water, 1 tbsp olive oil, 1 tsp salt, and 0.5 tsp black pepper, cover loosely, and let steam for 15 minutes.",
+    "Meanwhile, heat 1 tbsp olive oil in a skillet over medium heat, add diced onion and minced garlic, and sauté until fragrant.",
+    "Add sliced red pepper to the skillet, cook for 5 minutes until softened.",
+    "Stir in tomato paste and smoked paprika, cooking for 2 minutes to bloom flavors.",
+    "Pour in 200 ml water and the kombu cold extract, bring to a simmer, and let thicken into a sauce for about 5 minutes.",
+    "Gently fold the cooked couscous into the sauce, ensuring even coating.",
+    "Transfer the mixture to a shallow oven‑proof dish, cover with foil, and bake for 10 minutes to meld flavors.",
+    "Remove from oven, fluff the couscous, and stir in chopped cilantro.",
+    "Serve warm with a side of lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "couscous",
+    "one-pot",
+    "shojin-friendly",
+    "smoky",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 27,
+    "carbs": 80,
+    "fat": 28
+  },
+  "slug": "misty-smoky-tunisian-couscous-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/misty-smoky-tunisian-couscous-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:26:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "red pepper paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "couscous",
+    "descriptor": "Misty Smoky",
+    "dishForm": "Tagine"
+  }
+}
