@@ -1,0 +1,125 @@
+{
+  "title": "Mustardy Silky Canadian Pumpkin En-Croute",
+  "description": "A rich, date-night Canadian dish featuring roasted pumpkin, silky mustard sauce, and crispy en-croute pastry, all infused with the subtle flavors of cumin and coriander. This Ayurvedic-sattvic-friendly recipe is perfect for a cozy evening in.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turbinado sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix the flour, mustard seeds, coriander powder, cumin powder, garlic powder, and salt in a small bowl.",
+    "Add the unsalted butter and mix until crumbly. Gradually add the water and mix until a dough forms. Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Peel and dice the pumpkin into 1-inch cubes. Place on a baking sheet and roast in the oven for 20 minutes, or until tender. Let cool completely.",
+    "Mix the roasted pumpkin, yogurt, and turbinado sugar in a blender or food processor until smooth. Season with salt to taste.",
+    "Roll out the chilled dough to a thickness of 1/8 inch. Spoon the pumpkin mixture onto one half of the dough, leaving a 1/2-inch border around the edges. Fold the other half of the dough over the filling and press the edges to seal. Use a knife or pastry brush to create a decorative edge. ",
+    "Place the en-croute on a baking sheet lined with parchment paper. Brush the top with a little water and sprinkle with turbinado sugar. ",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown. ",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving. Garnish with chopped fresh parsley and serve warm.",
+    "Slice the en-croute into 6-8 wedges and serve with a side of steamed vegetables or a simple green salad.",
+    "Garnish with additional chopped fresh parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "dairy-free",
+    "date-night",
+    "en-croute",
+    "gluten-free",
+    "pumpkin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mustardy-silky-canadian-pumpkin-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-silky-canadian-pumpkin-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "pumpkin",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "mustardy silky",
+    "dishForm": "en-croute"
+  }
+}

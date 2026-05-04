@@ -1,0 +1,122 @@
+{
+  "title": "Middle Eastern-Style Tabbouleh Salad",
+  "description": "A refreshing, keto-friendly salad made with local cobnuts, perfect for a post-workout snack or light meal. Serve immediately for the best flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped cobnuts, mixed greens, parsley, scallions, cucumber, and tomatoes.",
+    "Drizzle the lemon juice and olive oil over the salad and toss to combine.",
+    "Sprinkle the feta cheese over the top and season with salt, black pepper, and sumac.",
+    "Drizzle the pomegranate molasses over the salad and toss gently to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "keto",
+    "low-carb",
+    "paleo",
+    "salad",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "middle-eastern-style-middle-eastern-cobs-tabbouleh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/middle-eastern-style-middle-eastern-cobs-tabbouleh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "spherify",
+    "primaryIngredient": "cobnuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "cobs",
+    "descriptor": "Middle Eastern-Style",
+    "dishForm": "Tabbouleh"
+  }
+}

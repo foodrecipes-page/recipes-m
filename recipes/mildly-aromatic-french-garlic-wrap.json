@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Aromatic French Garlic Wrap",
+  "description": "A light and garlicky French-inspired dish featuring a pita bread wrap with namul-blanch-season and a shojin-friendly twist.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita bread",
+      "amount": "1",
+      "notes": "about 180g"
+    },
+    {
+      "name": "Namul blanch season",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan garlic spread",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a salt block to 400°F.",
+    "Spread the vegan garlic spread evenly over the pita bread.",
+    "Sprinkle the namul blanch season over the garlic spread.",
+    "Add the chopped parsley, sliced scallions, red bell pepper, and cucumber on top of the pita bread.",
+    "Season with salt to taste.",
+    "Place the salt block in the oven and cook for 2 minutes, or until the vegetables are slightly softened.",
+    "Remove the wrap from the oven and let it cool for 1 minute.",
+    "Fold the pita bread in half to enclose the filling and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "shojin-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "mildly-aromatic-french-garlic-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-aromatic-french-garlic-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "pita bread",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "garlic",
+    "descriptor": "Mildly aromatic",
+    "dishForm": "Wrap"
+  }
+}
