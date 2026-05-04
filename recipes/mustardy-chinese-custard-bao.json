@@ -1,0 +1,104 @@
+{
+  "title": "Mustardy Chinese Custard Bao",
+  "description": "A dense, festive Chinese dessert featuring custard, coconut-cream-crack, and a hint of mustard, inspired by Chaozhou cuisine.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened full-fat coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the flour, warm water, and vegetable oil to create a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of granulated sugar in the center of each disk.",
+    "Fold the dough over the sugar to form a ball and seal the edges by pinching them together.",
+    "Place the bao on the prepared baking sheet and brush with a little bit of water.",
+    "Bake the bao in the preheated oven for 20 minutes, or until golden brown.",
+    "While the bao are baking, make the custard by whisking together the eggs, sugar, coconut milk, and vanilla extract in a medium bowl.",
+    "Add the baking powder to the custard and whisk until well combined.",
+    "Remove the bao from the oven and let them cool for 5 minutes.",
+    "Split the bao in half and fill each half with a generous amount of custard.",
+    "Top the custard with a sprinkle of chopped scallions and a drizzle of Dijon mustard.",
+    "Serve the Mustardy Chinese Custard Bao warm, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-free",
+    "chinese",
+    "coconut-based",
+    "dairy-friendly",
+    "dessert",
+    "egg-based",
+    "sunday-dinner",
+    "weeknight-special"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "mustardy-chinese-custard-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-chinese-custard-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:53:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "custard",
+    "diet": "sugar-free",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "custard",
+    "descriptor": "Mustardy",
+    "dishForm": "Bao"
+  }
+}
