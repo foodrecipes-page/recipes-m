@@ -1,0 +1,108 @@
+{
+  "title": "Mellow French Chives Terrine",
+  "description": "A silky, wine-infused chive terrine that sets into a glassy jelly, perfect for a quick luxe lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh chives",
+      "amount": "200 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "250 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "butter",
+      "amount": "50 g"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "100 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a saucepan over medium heat until melted.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in chopped chives and cook for 1 minute.",
+    "Pour in dry white wine and let reduce by half, about 5 minutes.",
+    "Add vegetable broth, Dijon mustard, and vinegar, stir to combine.",
+    "Sprinkle agar-agar powder over the liquid and whisk until fully dissolved, then bring to a gentle boil for 2 minutes.",
+    "Remove from heat and mix in crumbled goat cheese until smooth.",
+    "Stir in salt and pepper, adjusting seasoning to taste.",
+    "Pour the mixture into a greased 8-inch square pan and smooth the surface.",
+    "Chill in the refrigerator for at least 4 hours until set and glassy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chive",
+    "glassy-jelly",
+    "lacto-vegetarian",
+    "quick-lunch",
+    "terrine",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 13,
+    "carbs": 25,
+    "fat": 72
+  },
+  "slug": "mellow-french-chives-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-french-chives-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:03:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "chopped chive",
+    "diet": "lacto-vegetarian",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chives",
+    "descriptor": "Mellow",
+    "dishForm": "Terrine"
+  }
+}
