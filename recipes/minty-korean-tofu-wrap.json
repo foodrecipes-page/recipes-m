@@ -1,0 +1,101 @@
+{
+  "title": "Minty Korean Tofu Wrap",
+  "description": "Floral and crisp brunch wrap with silky tofu, fresh mint, and dashi broth, seasoned with Korean spices and wrapped in a crisp lettuce leaf, cooked on a raclette grill for a unique macrobiotic bite.",
+  "cuisine": "Korean-Polish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "30 g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp",
+      "notes": "Korean red pepper flakes"
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "1 tsp",
+      "notes": "reconstituted with 100 ml hot water"
+    },
+    {
+      "name": "Butter lettuce leaves",
+      "amount": "6",
+      "notes": "washed and dried"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Press tofu between paper towels for 15 minutes to remove excess moisture.",
+    "Whisk tofu cubes with soy sauce, sesame oil, and gochugaru for 5 minutes to marinate.",
+    "Simmer dashi powder in 100 ml of hot water until fully dissolved, then let cool to 40°C.",
+    "Toss marinated tofu with cooled dashi, rice vinegar, and chopped mint, mixing gently.",
+    "Lay a lettuce leaf on the raclette grill preheated to 180°C and spread a thin layer of tofu mixture, sprinkling toasted sesame seeds.",
+    "Close the leaf around the filling and press lightly for 2 minutes to seal and warm the wrap.",
+    "Remove from grill, let rest 1 minute, then serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 3,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "macrobiotic-friendly",
+    "quick",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 152,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "minty-korean-tofu-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-korean-tofu-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:14:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dashi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Minty",
+    "dishForm": "Wrap"
+  }
+}
