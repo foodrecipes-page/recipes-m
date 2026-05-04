@@ -1,0 +1,101 @@
+{
+  "title": "Moist Flaky Malaysian Sea Bass Satay",
+  "description": "A traditional Malaysian dish featuring sea bass fillets, this recipe combines the flavors of Southeast Asia with the simplicity of satay, making it a show-off dish for any occasion. The resinous and flaky texture of the sea bass is balanced by the ayurvedic-tamasic friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, brown sugar, coriander powder, cumin powder, turmeric powder, and salt.",
+    "Add the sea bass fillets to the marinade and refrigerate for at least 30 minutes.",
+    "Thread the marinated sea bass fillets onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with peanut oil and grill for 4-5 minutes per side, or until cooked through.",
+    "Serve the satay hot with your choice of sides, such as steamed rice or roasted vegetables.",
+    "Garnish with fresh cilantro and lime wedges, if desired.",
+    "Repeat with remaining ingredients.",
+    "Let the satay rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "moist-flaky-malaysian-sea-bass-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-flaky-malaysian-sea-bass-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:53:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sea bass",
+    "descriptor": "moist flaky",
+    "dishForm": "Satay"
+  }
+}

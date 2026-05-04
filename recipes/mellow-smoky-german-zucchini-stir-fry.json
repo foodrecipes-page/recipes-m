@@ -1,0 +1,98 @@
+{
+  "title": "Mellow Smoky German Zucchini Stir Fry",
+  "description": "A low calorie, springy stir fry with smoky German spices, sweet caramelized zucchini, and a touch of five spice powder for a lazy Sunday meal.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "3 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "German five spice powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat until shimmering.",
+    "Add the sliced onion and cook for 2 minutes until translucent.",
+    "Add the minced garlic and stir for 30 seconds until fragrant.",
+    "Add the sliced zucchini, smoked paprika, and German five spice powder, stirring to coat.",
+    "Cook the zucchini for 8 minutes, stirring occasionally, until it begins to caramelize.",
+    "Pour in the low sodium soy sauce and cook for another 3 minutes, allowing the flavors to meld.",
+    "Stir in the lemon zest and cook for 1 more minute for brightness.",
+    "Remove from heat and top with fresh parsley if desired.",
+    "Serve hot over a bed of steamed rice or enjoy on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "low-calorie",
+    "one-pan",
+    "spring",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 7
+  },
+  "slug": "mellow-smoky-german-zucchini-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoky-german-zucchini-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:53:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "zucchini",
+    "descriptor": "Mellow Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
