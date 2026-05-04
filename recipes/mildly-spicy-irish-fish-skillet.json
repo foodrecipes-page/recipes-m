@@ -1,0 +1,109 @@
+{
+  "title": "Mildly Spicy Irish Fish Skillet",
+  "description": "A comforting and spicy Irish dish featuring fish, soured cream and chive dip, served on a hot stone plate, perfect for a chilly evening. This pescatarian-friendly recipe combines the freshness of fish with the warmth of spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "candy peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "irish sausage",
+      "amount": "1 sausage",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced candy peppers and cook for 2 minutes.",
+    "Add the diced potato and cook for 5 minutes.",
+    "Add the sliced irish sausage and cook until it is browned.",
+    "Add the cod fillets to the skillet and cook for 3-4 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes.",
+    "Meanwhile, mix the soured cream and chopped chives in a bowl.",
+    "Remove the skillet from the oven and serve the fish and vegetables on a hot stone plate with the soured cream and chive dip."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mildly-spicy-irish-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-irish-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:17:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "mildly spicy",
+    "dishForm": "Skillet"
+  }
+}
