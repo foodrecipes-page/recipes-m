@@ -1,0 +1,108 @@
+{
+  "title": "Mild Greek Tofu Stifado",
+  "description": "A dairy‑free, gentle Greek stew featuring tofu, red wine vinegar, and an agave‑leaf vessel, perfect for a comforting sick‑day meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "celery stalk, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add diced tofu, carrots, and celery; sauté until veggies soften, about 5 minutes.",
+    "Whisk tomato paste, red wine vinegar, oregano, thyme, and vegetable broth together.",
+    "Temper the vinegar by whisking it with a small amount of hot oil before adding to the pot.",
+    "Pour the mixture into the pot, bring to a gentle simmer, and cook for 20 minutes.",
+    "Season with salt and pepper, then transfer to an agave leaf for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "agave-leaf",
+    "comfort-food",
+    "dairy-free",
+    "greek",
+    "sick-day",
+    "stifado",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 82,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "mild-greek-tofu-stifado",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-greek-tofu-stifado",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:52:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "Mild",
+    "dishForm": "Stifado"
+  }
+}
