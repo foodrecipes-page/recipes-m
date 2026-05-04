@@ -1,0 +1,93 @@
+{
+  "title": "Molten Russian Beef Dumplings",
+  "description": "A comforting Russian dish featuring garlicky beef dumplings cooked to perfection on a robata grill, infused with the rich flavor of Shaoxing wine. This low-calorie-friendly recipe is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large mixing bowl, combine the ground beef, Shaoxing wine, garlic, onion, salt, and black pepper, and mix well with your hands until just combined.",
+    "Gradually add the flour to the beef mixture, and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces, and shape each piece into a ball.",
+    "Flatten each ball into a disk shape, and place a tablespoon of the beef mixture in the center of each disk.",
+    "Fold the dough over the filling, and press the edges together to seal the dumpling.",
+    "Brush the dumplings with the beaten egg, and place them on the preheated robata grill.",
+    "Cook the dumplings for 5 minutes on each side, or until they are golden brown and cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "grilled-dishes",
+    "low-calorie",
+    "russian-cuisine",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "molten-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:12:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "molten garlicky",
+    "dishForm": "Dumplings"
+  }
+}
