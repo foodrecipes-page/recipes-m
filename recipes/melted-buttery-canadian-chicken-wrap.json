@@ -1,0 +1,89 @@
+{
+  "title": "Melted Buttery Canadian Chicken Wrap",
+  "description": "A comforting Canadian dish featuring juicy chicken, melted Monterey Jack cheese, and a hint of butter, all wrapped in a steamed leaf wrap, perfect for a sick day pick-me-up",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "large lettuce leaves",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat",
+    "Add the chicken to the skillet and cook until browned and cooked through",
+    "Add the garlic powder, salt, and black pepper to the skillet and stir to combine",
+    "Butter one side of each lettuce leaf",
+    "Place a cooked chicken strip onto the unbuttered side of each lettuce leaf",
+    "Top each chicken strip with a slice of Monterey Jack cheese",
+    "Fold the lettuce leaves over the filling to create a wrap",
+    "Steam the wraps for 2-3 minutes to melt the cheese",
+    "Serve the wraps hot and enjoy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "chicken-recipes",
+    "comfort-food",
+    "easy-meals",
+    "gluten-free",
+    "lunch-ideas",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "melted-buttery-canadian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-buttery-canadian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:57:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "melted buttery",
+    "dishForm": "Wrap"
+  }
+}
