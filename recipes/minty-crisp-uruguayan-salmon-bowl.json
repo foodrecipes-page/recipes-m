@@ -1,0 +1,112 @@
+{
+  "title": "Minty Crisp Uruguayan Salmon Bowl",
+  "description": "A refreshing bowl of smoked salmon and crisp greens with a minty sauce, served on a cedar plank for a smoky finish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "150g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "30g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "10, halved"
+    },
+    {
+      "name": "radishes",
+      "amount": "4, sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "20g, chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4, thinly sliced"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1, pre-soaked 30 min"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and place the pre-soaked cedar plank on a baking sheet.",
+    "Spread smoked salmon evenly on the plank, leaving a small border around the edges.",
+    "Drizzle olive oil and lime juice over salmon, season with sea salt and pepper.",
+    "Bake salmon on cedar plank for 10 minutes until edges curl slightly.",
+    "While salmon cooks, chop cucumber, avocado, tomato, radish, onion, cilantro, and mint into bite-sized pieces.",
+    "In a large bowl, combine the chopped vegetables and toss with a pinch of salt.",
+    "Remove salmon from oven and let it rest for 2 minutes before slicing into strips.",
+    "Arrange the vegetable mix in a bowl and top with salmon strips, avocado, and remaining mint.",
+    "Garnish with extra mint leaves and a drizzle of olive oil if desired.",
+    "Serve immediately, enjoying the smoky cedar flavor with crisp freshness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "crisp",
+    "mint",
+    "paleo-friendly",
+    "quick",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 37,
+    "carbs": 22,
+    "fat": 68
+  },
+  "slug": "minty-crisp-uruguayan-salmon-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-crisp-uruguayan-salmon-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:26:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "smoked salmon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "salmon",
+    "descriptor": "Minty Crisp",
+    "dishForm": "Bowl"
+  }
+}
