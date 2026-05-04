@@ -1,0 +1,91 @@
+{
+  "title": "Mildly Yeasty Thai Rice Khanom Thai",
+  "description": "A crunchy and yeasty Thai street food featuring lime juice and shio-cure, perfect for a quick snack. This lacto-vegetarian-friendly dish is cooked to perfection in a copper pot.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai rice flour",
+      "amount": "2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large copper pot, combine the Thai rice flour, coconut milk, lime juice, shio-cure, yeast, salt, and sugar.",
+    "Whisk the mixture until it is smooth and free of lumps.",
+    "Cover the pot with a lid and let the mixture rest in a warm place for 30 minutes.",
+    "Heat the vegetable oil in a small pan over medium heat.",
+    "Using a spoon, drop small balls of the rested mixture into the hot oil.",
+    "Fry the khanom thai until they are golden brown and crispy.",
+    "Remove the khanom thai from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the khanom thai warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "crunchy",
+    "lacto-vegetarian",
+    "quick-snack",
+    "thai-street-food",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mildly-yeasty-thai-rice-khanom-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-yeasty-thai-rice-khanom-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:17:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "lime juice",
+    "diet": "lacto-vegetarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Mildly Yeasty",
+    "dishForm": "Khanom Thai"
+  }
+}
