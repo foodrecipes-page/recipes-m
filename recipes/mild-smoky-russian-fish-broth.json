@@ -1,0 +1,108 @@
+{
+  "title": "Mild Smoky Russian Fish Broth",
+  "description": "A light yet smoky fish broth inspired by Russian cuisine, perfect for a brunch or light dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White fish fillets (cod or pollock)",
+      "amount": "400g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "for aroma"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2, chopped",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1, sliced",
+      "notes": "for color"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "light smoke flavor"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp, chopped",
+      "notes": "finishing herb"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, combine water, diced onion, chopped celery, sliced carrot, and bay leaf, and bring to a gentle boil.",
+    "Reduce heat to low, add smoked paprika, and simmer for 10 minutes to infuse the broth.",
+    "Gently fold in the fish pieces, cover, and poach for 6-7 minutes until the fish flakes easily.",
+    "Remove the pot from heat, strain the broth through a fine sieve, discarding solids.",
+    "Season the broth with salt and black pepper to taste, stirring gently.",
+    "Return the strained broth to a low simmer, swirl in chopped fresh dill, and let it warm for 2 minutes.",
+    "Serve the broth hot in bowls, garnished with a fresh lemon wedge for brightness.",
+    "Enjoy the smoky, airy broth as a light brunch or early lunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 16,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "fish-broth",
+    "light",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 80,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "mild-smoky-russian-fish-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-smoky-russian-fish-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:16:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "fish",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "Mild Smoky",
+    "dishForm": "Broth"
+  }
+}
