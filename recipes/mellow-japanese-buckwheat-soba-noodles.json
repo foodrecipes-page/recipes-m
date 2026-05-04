@@ -1,0 +1,98 @@
+{
+  "title": "Mellow Japanese Buckwheat Soba Noodles",
+  "description": "A comforting and cultured Japanese dish featuring chewy soba noodles, honey, and shio-cure, perfect for a sick day, and friendly to dairy-free diets. This traditional Chubu region recipe is easy to make and delicious to eat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat soba noodles",
+      "amount": "8 oz",
+      "notes": "preferably Japanese-made"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and cook the soba noodles according to the package instructions.",
+    "In a small saucepan, combine the honey, shio-cure, and soy sauce, and heat over low heat, stirring until the honey dissolves.",
+    "In a large bowl, whisk together the sesame oil, grated ginger, and salt.",
+    "Add the cooked soba noodles to the bowl and toss with the sesame oil mixture until the noodles are well coated.",
+    "Add the honey and shio-cure sauce to the noodles and toss until the noodles are well coated.",
+    "Garnish with green onions and serve immediately.",
+    "You can also serve the noodles with additional soy sauce and sesame oil on the side.",
+    "For a comforting touch, serve the noodles in a warm broth made with the cooking water and some additional soy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "comfort-food",
+    "dairy-free",
+    "japanese-cuisine",
+    "soba-noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "mellow-japanese-buckwheat-soba-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-japanese-buckwheat-soba-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:36:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "shio-cure",
+    "primaryIngredient": "honey",
+    "diet": "dairy-free",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "buckwheat",
+    "descriptor": "mellow honeyed",
+    "dishForm": "Soba Noodles"
+  }
+}
