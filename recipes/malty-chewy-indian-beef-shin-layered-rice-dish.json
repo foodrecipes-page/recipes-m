@@ -1,0 +1,181 @@
+{
+  "title": "malty-chewy-indian-beef-shin-layered-rice-dish",
+  "description": "A rich and flavorful biryani dish featuring tender beef shin, malty flavors, and a chewy texture.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "basmati rice",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "20g",
+      "notes": "soaked in 250ml water, then drained and discarded."
+    },
+    {
+      "name": "ghee",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "dried red chilies",
+      "amount": "10g",
+      "notes": "soaked in 50ml water, then drained."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "beef shin broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat, then add onions and cook until golden brown.",
+    "Add ginger, garlic, and spices, cook for 1 minute.",
+    "Add tomatoes and cook for 5 minutes.",
+    "Add beef shin and cook until browned on all sides.",
+    "Add beef shin broth and bring to a boil.",
+    "Add rice and stir to coat with broth, then transfer to a layering dish.",
+    "Soak kombu in water for 30 minutes, then drain and discard water.",
+    "Add soaked kombu to the layering dish and layer with rice and beef shin, finishing with a layer of rice on top.",
+    "Cover with foil and bake at 180°C for 45 minutes, then remove foil and continue baking for 15 minutes.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "biryani",
+    "comfort-food",
+    "indian",
+    "romantic-dinner",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "malty-chewy-indian-beef-shin-layered-rice-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-chewy-indian-beef-shin-layered-rice-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "beef shin",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "beef shin",
+    "descriptor": "malty chewy",
+    "dishForm": "Layered Rice Dish"
+  }
+}

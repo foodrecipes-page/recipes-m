@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Spiced German Bratwurst Burger",
+  "description": "A grassy and crunchy German-inspired burger featuring bratwurst sausage and topped with sauerkraut and caramelized onions. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bratwurst sausage",
+      "amount": "4 links",
+      "notes": "preferably german-style"
+    },
+    {
+      "name": "bread rolls",
+      "amount": "4",
+      "notes": "split-top"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Split the bread rolls in half and toast them in the oven for 5 minutes.",
+    "Pan-fry the bratwurst sausage in peanut oil over medium-high heat until browned, about 2-3 minutes per side.",
+    "Transfer the sausage to a plate and cover with foil to keep warm.",
+    "Add the sliced onions to the same pan and cook over medium heat until caramelized, stirring occasionally, about 10-12 minutes.",
+    "Add the drained sauerkraut to the pan and cook until heated through, about 2-3 minutes.",
+    "Assemble the burgers by spreading a layer of sauerkraut and caramelized onions on the bottom bun, followed by a bratwurst sausage and finally the top bun.",
+    "Season with salt, pepper, paprika, and caraway seeds to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bratwurst",
+    "bun",
+    "german",
+    "meat-lovers",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 52,
+    "carbs": 44,
+    "fat": 52
+  },
+  "slug": "mildly-spiced-german-bratwurst-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-german-bratwurst-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "peanut oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bratwurst",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Burger"
+  }
+}

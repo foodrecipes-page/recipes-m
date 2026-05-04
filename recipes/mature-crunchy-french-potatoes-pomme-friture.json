@@ -1,0 +1,103 @@
+{
+  "title": "Mature Crunchy French Potatoes Pomme Friture",
+  "description": "A savory and crunchy French-inspired dish originating from Brittany, featuring air-fried potatoes with a touch of sugar, suitable for a vegan diet.",
+  "cuisine": "french",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegan sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and cut them into 1/2-inch thick rounds.",
+    "Place the potato rounds in a large bowl and sprinkle with flour, vegan sugar, smoked paprika, garlic powder, salt, and black pepper. Mix well to coat the potatoes evenly.",
+    "Drizzle the rapeseed oil over the potatoes and toss to coat.",
+    "Heat the air fryer to 400°F (200°C).",
+    "Place the potato rounds in the air fryer basket in a single layer, leaving some space between each potato for even cooking.",
+    "Cook the potatoes for 12-15 minutes, shaking the basket halfway through.",
+    "After cooking, season the potatoes with lemon juice and serve hot.",
+    "If desired, garnish with chopped fresh herbs like parsley or chives.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "french",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "mature-crunchy-french-potatoes-pomme-friture",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mature-crunchy-french-potatoes-pomme-friture",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "sugar",
+    "diet": "vegan",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Mature Crunchy",
+    "dishForm": "Pomme Friture"
+  }
+}

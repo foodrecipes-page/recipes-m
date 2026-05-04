@@ -1,0 +1,158 @@
+{
+  "title": "Massive Meaty Vietnamese Beef Bun Rieu",
+  "description": "A hearty, comforting Vietnamese beef noodle soup featuring fermented sausage, sweet red peppers, and a rich, meaty broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese fermented sausage (Cha Lua)",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use low sodium",
+      "},{": "name",
+      "fish sauce": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use reduced sodium"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "",
+      "notes": "optional",
+      "},{": "amount",
+      "cilantro": ""
+    },
+    {
+      "name": "Bun Rieu noodles",
+      "amount": "",
+      "notes": "about 1 pound",
+      "},{": "amount",
+      "noodles": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "for garnish",
+      "},{": "amount",
+      "cilantro": ""
+    }
+  ],
+  "instructions": [
+    "Combine fish sauce, soy sauce, brown sugar, and ground black pepper in a small bowl.",
+    "Heat 1 tablespoon of cooking oil in a large pot over medium-high heat.",
+    "Add the ground beef and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the onion, ginger, and garlic to the pot and cook, stirring occasionally, until the onion is translucent, about 5 minutes.",
+    "Add the fermented sausage to the pot and cook, stirring occasionally, until it is browned, about 5 minutes.",
+    "Add the red bell pepper to the pot and cook, stirring occasionally, until it is tender, about 5 minutes.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, uncovered, for 10 minutes.",
+    "Season the broth with salt to taste.",
+    "Cook the Bun Rieu noodles according to the package instructions.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Drizzle the hoisin sauce and sesame oil over the top of the noodles and stir to combine.",
+    "Sprinkle the sesame seeds over the top of the noodles and serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodle",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 524,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 26
+  },
+  "slug": "massive-meaty-vietnamese-beef-bun-rieu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/massive-meaty-vietnamese-beef-bun-rieu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Massive Meaty",
+    "dishForm": "Bun Rieu"
+  }
+}

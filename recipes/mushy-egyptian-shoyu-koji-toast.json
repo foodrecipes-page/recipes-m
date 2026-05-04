@@ -1,0 +1,92 @@
+{
+  "title": "Mushy Egyptian Shoyu-koji Toast",
+  "description": "A unique one-pot dish blending Egyptian flavors with Japanese shoyu-koji, served with crispy toast.",
+  "cuisine": "Egyptian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Shoyu-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented soybean paste with rice koji."
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": "Salted, unsalted, or vegan alternative."
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Egyptian parsley alternative."
+    },
+    {
+      "name": "Crushed Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crusty Bread Loaf",
+      "amount": "1 slice",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a non-stick saucepan, combine eggs, shoyu-koji, and butter. Whisk until well combined.",
+    "Heat the saucepan over medium heat, stirring occasionally, until the mixture thickens and forms a custard-like texture, about 8 minutes.",
+    "Add crushed black pepper and salt to taste, then stir to combine.",
+    "Reduce heat to low and simmer for an additional 2 minutes, until the mixture has thickened to your liking.",
+    "Meanwhile, toast a slice of crusty bread until lightly browned and crispy.",
+    "Remove the saucepan from the heat and stir in chopped fresh cilantro.",
+    "Place the toasted bread slice in the saucepan and use a spatula to carefully fold the mixture onto the bread. ",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "mushy-egyptian-shoyu-koji-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushy-egyptian-shoyu-koji-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "shoyu-koji",
+    "descriptor": "mushy",
+    "dishForm": "Toast"
+  }
+}
