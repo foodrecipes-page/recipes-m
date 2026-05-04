@@ -1,0 +1,102 @@
+{
+  "title": "Melted Crunchy Dutch Corn Gratin",
+  "description": "A roasted, crumbly, and creamy Dutch dish featuring creamed corn, yuzu-cure, and a crunchy topping, perfect for a midnight craving. This ovo-vegetarian-friendly recipe is a twist on traditional Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "frozen corn kernels",
+      "amount": "1 1/2 cups",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the flour and whisk to combine, cooking for 1 minute.",
+    "Slowly pour in the milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens, stirring occasionally.",
+    "Remove the sauce from the heat and stir in the yuzu juice and grated cheese until the cheese is melted.",
+    "Add the thawed corn kernels, salt, and pepper to the cheese sauce and stir to combine.",
+    "Transfer the corn mixture to a baking dish and top with breadcrumbs.",
+    "Beat the egg in a small bowl and brush it over the breadcrumbs to help them brown.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the corn is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy-topping",
+    "dutch-cuisine",
+    "midnight-craving",
+    "ovo-vegetarian",
+    "roasted-corn",
+    "yuzu-juice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "melted-crunchy-dutch-corn-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-crunchy-dutch-corn-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:18:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "creamed corn",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "corn",
+    "descriptor": "melted crunchy",
+    "dishForm": "Gratin"
+  }
+}

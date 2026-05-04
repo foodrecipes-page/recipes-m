@@ -1,0 +1,107 @@
+{
+  "title": "Midnight Saute American Water Chestnut Skillet",
+  "description": "A resinous and silky American dish featuring water chestnut, perfect for midnight cravings, made with ayurvedic-tamasic-friendly ingredients and served on a hot stone plate.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 can",
+      "notes": "drained and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the sliced water chestnuts and cook for an additional 2 minutes, until they start to brown.",
+    "In a small bowl, whisk together the soy sauce, honey, salt, and pepper, and pour the mixture over the water chestnuts and mushrooms.",
+    "Stir everything together and cook for an additional 2 minutes, until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the mixture to a hot stone plate and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "midnight-saute-american-water-chestnut-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-saute-american-water-chestnut-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:18:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "water chestnut",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Midnight Saute",
+    "dishForm": "Skillet"
+  }
+}
