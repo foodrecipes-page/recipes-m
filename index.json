@@ -644,6 +644,21 @@
     "shard": "m"
   },
   {
+    "slug": "malty-greek-papelon-pastitsio",
+    "title": "malty greek papelon pastitsio",
+    "tags": [
+      "easy-dinner",
+      "greek",
+      "low-carb",
+      "one-pan",
+      "pastitsio",
+      "weeknight"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
     "slug": "malty-light-british-turkey-neck-steamed-pudding",
     "title": "malty light british turkey neck steamed pudding",
     "tags": [
@@ -2917,6 +2932,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 75,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-croatian-pecorino-romano-croquettes",
+    "title": "Midnight-Craving Croatian Pecorino-Romano Croquettes",
+    "tags": [
+      "cheesy",
+      "croatian",
+      "high-protein",
+      "midnight-craving",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -5366,6 +5395,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-hangover-curing-ethiopian-beef-brisket-dabo",
+    "title": "Moist Hangover-Curing Ethiopian Beef Brisket Dabo",
+    "tags": [
+      "beef",
+      "brunch",
+      "cheesy",
+      "hangover-cure",
+      "one-pan"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 190,
     "shard": "m"
   },
   {

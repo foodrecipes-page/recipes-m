@@ -1,0 +1,122 @@
+{
+  "title": "malty greek papelon pastitsio",
+  "description": "a light and delicious pasta dish featuring malty papelon and grilled chicken, served in a rich bechamel sauce.",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "cook papelon according to package instructions.",
+    "grill chicken until cooked through.",
+    "dice onion and garlic, then saut\u00159 in olive oil until softened.",
+    "add tomato paste, stirring constantly, and cook for 1 minute.",
+    "add ground chicken, breaking it up with a spoon, and cook until no longer pink.",
+    "stir in bechamel sauce, parmesan cheese, and a pinch of salt and pepper.",
+    "combine cooked papelon, chicken mixture, and chopped parsley in a baking dish.",
+    "top with crumbled feta cheese and a sprinkle of paprika.",
+    "bake at 375\u00134f for 20-25 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "greek",
+    "low-carb",
+    "one-pan",
+    "pastitsio",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "malty-greek-papelon-pastitsio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-greek-papelon-pastitsio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "papelon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "papelon",
+    "descriptor": "malty",
+    "dishForm": "Pastitsio"
+  }
+}

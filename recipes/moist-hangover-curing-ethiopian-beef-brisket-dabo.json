@@ -1,0 +1,117 @@
+{
+  "title": "Moist Hangover-Curing Ethiopian Beef Brisket Dabo",
+  "description": "A rich and savory Ethiopian beef brisket dish featuring a hangover-curing dashi broth, anti-inflammatory spices, and a gooey cheese pull. Perfect for a post-party brunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 lbs",
+      "notes": "first cut, with a good amount of fat"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "2 tbsp",
+      "notes": "includes cumin, coriander, cinnamon, and cardamom"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "",
+      "type": "freshly ground"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or other melty cheese"
+    },
+    {
+      "name": "flatbread or injera",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300\u001120F (150\u001120C).",
+    "Season the beef brisket with the Ethiopian spice blend, cayenne pepper, and black pepper. ",
+    "Heat the ghee or oil in a large Dutch oven over medium-high heat. Sear the beef brisket until browned on all sides, about 5 minutes. ",
+    "Transfer the brisket to a plate and set aside. Add the chopped onion to the pot and cook until softened, about 5 minutes. ",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute. ",
+    "Pour in the dashi broth and bring the mixture to a simmer. ",
+    "Return the beef brisket to the pot and cover with a lid. Transfer the pot to the preheated oven and braise the brisket for 2 hours, or until tender. ",
+    "Remove the pot from the oven and let it cool slightly. ",
+    "Shred the beef brisket with two forks and place it back in the pot. ",
+    "Stir in the shredded cheese until melted and gooey. ",
+    "Pile the beef and cheese mixture onto flatbread or injera, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brunch",
+    "cheesy",
+    "hangover-cure",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1140,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 70
+  },
+  "slug": "moist-hangover-curing-ethiopian-beef-brisket-dabo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-hangover-curing-ethiopian-beef-brisket-dabo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "dashi-extract",
+    "primaryIngredient": "beef brisket",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Moist Hangover-Curing",
+    "dishForm": "Dabo"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Midnight-Craving Croatian Pecorino-Romano Croquettes",
+  "description": "Umami, chewy, and addictive, these croquettes combine the salty goodness of Pecorino-Romano cheese with the crunch of katsuramuki-cut vegetables and the subtlety of sesame seeds.",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecorino-Romano cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grate the Pecorino-Romano cheese and set aside.",
+    "Cut the carrots, zucchini, and bell peppers into katsuramuki strips and set aside.",
+    "In a large mixing bowl, combine the grated cheese, katsuramuki-cut vegetables, breadcrumbs, egg, sesame seeds, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Using a spoon, drop small portions of the cheese-vegetable mixture into the hot oil and flatten slightly.",
+    "Fry the croquettes until golden brown and crispy, about 3-4 minutes per side.",
+    "Remove the croquettes from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the Midnight-Craving Croatian Pecorino-Romano Croquettes hot and enjoy!",
+    "Repeat the frying process in batches until all the croquettes are cooked.",
+    "Let the croquettes cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "high-protein",
+    "midnight-craving",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 48,
+    "fat": 32
+  },
+  "slug": "midnight-craving-croatian-pecorino-romano-croquettes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-croatian-pecorino-romano-croquettes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pecorino-Romano",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Croquettes"
+  }
+}
