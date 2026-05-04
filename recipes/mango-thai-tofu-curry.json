@@ -1,0 +1,102 @@
+{
+  "title": "Mango Thai Tofu Curry",
+  "description": "A bright and citrusy coconut curry with sweet mangoes, tofu, and fresh herbs, finished with a double-fry technique for crisp tofu bits.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml",
+      "notes": "whole"
+    },
+    {
+      "name": "mango",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": "prepared"
+    },
+    {
+      "name": "fresh lemongrass",
+      "amount": "1 stalk",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "200g",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat and add the diced tofu, cooking until golden brown and crispy, then remove and set aside.",
+    "Add the remaining tablespoon of oil to the skillet and sauté the lemongrass for 1 minute, then add the red curry paste and cook for 2 minutes until fragrant."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "rice",
+    "satvik",
+    "spicy",
+    "thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "mango-thai-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mango-thai-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:07:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "chopped onion",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Mango",
+    "dishForm": "Curry"
+  }
+}
