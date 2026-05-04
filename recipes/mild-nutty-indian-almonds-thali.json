@@ -1,0 +1,105 @@
+{
+  "title": "Mild Nutty Indian Almonds Thali",
+  "description": "A lazy-sunday thali featuring lightly seasoned roasted almonds with galangal-kha and poached veggies in a low-sodium broth.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "200g"
+    },
+    {
+      "name": "Galangal-kha powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth low-sodium",
+      "amount": "250ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "Roasted cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "150g sliced"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "100g florets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and spread almonds on a baking sheet.",
+    "Toss almonds with olive oil, galangal-kha powder, and roasted cumin seeds.",
+    "Roast almonds for 12 minutes, stirring halfway, until golden and fragrant.",
+    "While almonds roast, bring vegetable broth to a gentle simmer in a small saucepan.",
+    "Add minced garlic, grated ginger, and chopped carrot slices to the broth.",
+    "Cover and let the mixture poach for 8 minutes, or until carrots are tender but still crisp.",
+    "Add cauliflower florets to the pot and continue poaching for another 5 minutes.",
+    "Once cooked, drain the vegetables and return them to the saucepan, seasoning with low-sodium soy sauce.",
+    "Transfer the poached vegetable medley to a serving bowl and top with roasted almonds.",
+    "Garnish with fresh cilantro and a sprinkle of salt if desired, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "low-sodium",
+    "nutty",
+    "one-pan",
+    "short-cook",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1412,
+    "protein": 50,
+    "carbs": 68,
+    "fat": 57
+  },
+  "slug": "mild-nutty-indian-almonds-thali",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-nutty-indian-almonds-thali",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:46:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "galangal-kha",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Mild Nutty",
+    "dishForm": "Thali"
+  }
+}
