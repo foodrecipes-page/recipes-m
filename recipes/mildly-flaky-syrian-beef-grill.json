@@ -1,0 +1,110 @@
+{
+  "title": "mildly flaky syrian beef grill",
+  "description": "grassy and flaky beef dish from syria, perfect for a weeknight meal",
+  "cuisine": "syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "chicken or beef broth"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": "dried onion powder"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "dried garlic powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "2 tablespoons",
+      "notes": "unsweetened cocoa powder or melted chocolate"
+    }
+  ],
+  "instructions": [
+    "heat the butter in a large skillet over medium heat.",
+    "add the cumin, onion powder, and garlic powder and stir to combine.",
+    "add the beef strips and cook until browned, about 5 minutes.",
+    "add the beef broth and stir to combine.",
+    "bring the mixture to a simmer and cook for 10-15 minutes, or until the beef is cooked through.",
+    "in a small bowl, mix together the flour, salt, and black pepper.",
+    "add the floured mixture to the skillet and stir to combine.",
+    "cook for an additional 2-3 minutes, or until the mixture is lightly browned and the beef is coated.",
+    "stir in the melted chocolate or cocoa powder and cook for an additional 1-2 minutes.",
+    "remove from heat and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "flaky",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mildly-flaky-syrian-beef-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-flaky-syrian-beef-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "beef stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beef",
+    "descriptor": "mildly flaky",
+    "dishForm": "grill"
+  }
+}
