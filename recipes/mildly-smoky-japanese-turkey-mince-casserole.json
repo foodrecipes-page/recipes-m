@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Smoky Japanese Turkey Mince Casserole",
+  "description": "A smoky and chewy Japanese-inspired casserole featuring turkey mince, perfect for a weeknight dinner. This dish is vegetarian-friendly and cooked to perfection in a terracotta dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "500g",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "teriyaki sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the turkey mince and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the smoked paprika, soy sauce, mirin, and sake, and stir to combine.",
+    "Add the green beans and cook until they are tender.",
+    "Transfer the mixture to a terracotta dish and drizzle with teriyaki sauce.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-inspired",
+    "mildly-spicy",
+    "one-pan",
+    "smoky",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mildly-smoky-japanese-turkey-mince-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-japanese-turkey-mince-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:06:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "turkey mince",
+    "diet": "vegetarian",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "turkey mince",
+    "descriptor": "mildly smoky",
+    "dishForm": "Casserole"
+  }
+}
