@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Sour Syrian Courgettes Stew",
+  "description": "A traditional Syrian dish featuring courgettes, double-rise-bread, and ayurvedic-tamasic-friendly ingredients to help cure hangovers, this stew is sour, chewy, and full of flavor. It is a popular comfort food in Syria.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced courgettes and cook until they are tender.",
+    "Add the sumac, salt, and black pepper, and stir to combine.",
+    "Add the torn bread and stir to combine.",
+    "Add the lemon juice and water, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes.",
+    "Serve the stew hot, garnished with additional sumac if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "middle-eastern",
+    "one-pot",
+    "syrian-cuisine",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "mildly-sour-syrian-courgettes-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-syrian-courgettes-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:43:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "courgettes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "courgettes",
+    "descriptor": "mildly sour",
+    "dishForm": "Stew"
+  }
+}
