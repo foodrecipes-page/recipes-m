@@ -1,0 +1,100 @@
+{
+  "title": "Melted Gooey Slovakian Pepper Wrap",
+  "description": "A peppery and gooey Slovakian dish featuring grilled peppers, perfect for meal prep, wrapped in a lotus leaf. This satvik-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, vegan optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat.",
+    "Grill the bell peppers until the skin is charred and blistered.",
+    "Peel the peppers and slice them into strips.",
+    "Heat the oil in a pan over medium heat.",
+    "Add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the grilled pepper strips, salt, and pepper to the pan and stir to combine.",
+    "Place a large lotus leaf on a flat surface and spoon some of the pepper mixture onto the center of the leaf.",
+    "Sprinkle some shredded cheese over the pepper mixture.",
+    "Fold the lotus leaf over the filling to form a wrap.",
+    "Serve the wraps hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "grilled",
+    "lotus-leaf",
+    "meal-prep",
+    "peppery",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "melted-gooey-slovakian-pepper-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-gooey-slovakian-pepper-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:38:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "peppers",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "peppers",
+    "descriptor": "melted gooey",
+    "dishForm": "Wrap"
+  }
+}
