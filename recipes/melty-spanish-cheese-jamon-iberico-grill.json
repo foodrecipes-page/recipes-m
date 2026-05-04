@@ -1,0 +1,96 @@
+{
+  "title": "Melty Spanish Cheese Jamon Iberico Grill",
+  "description": "A savory and romantic Spanish dish featuring Jamon Iberico and melted cheese, perfect for a special occasion. This recipe is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamon Iberico",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the white vinegar and olive oil.",
+    "Arrange the Jamon Iberico slices on the grill.",
+    "Sprinkle the shredded Manchego cheese over the Jamon Iberico.",
+    "Add the diced tomatoes and fresh thyme sprig to the grill.",
+    "Season with salt and black pepper to taste.",
+    "Close the grill and cook for 5 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy.",
+    "Repeat the process for each serving.",
+    "Make sure to clean the grill between each use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "no-onion-no-garlic",
+    "raclette-grill",
+    "romantic-dinner",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "melty-spanish-cheese-jamon-iberico-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-spanish-cheese-jamon-iberico-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:45:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "white vinegar",
+    "diet": "no-onion-no-garlic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Melty Smoky",
+    "dishForm": "Jamon Iberico Grill"
+  }
+}
