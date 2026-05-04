@@ -1,0 +1,91 @@
+{
+  "title": "Mellow Creamy French Corn Choux Pastry",
+  "description": "A resinous, fluffy, lazy-sunday French dish featuring creamed corn, made with plant-based friendly ingredients and formed into a choux pastry. This dish is perfect for a relaxing afternoon.",
+  "cuisine": "French",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "soy cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a mortar, pound the corn kernels until they are coarsely crushed.",
+    "In a medium saucepan, combine the crushed corn, soy cream, salt, and sugar, and cook over medium heat, stirring constantly, until the mixture is heated through.",
+    "In a large bowl, whisk together the flour and melted vegan butter until well combined.",
+    "Add the corn mixture to the flour mixture and stir until a dough forms.",
+    "Transfer the dough to a piping bag fitted with a large round tip.",
+    "Pipe the dough into small, round shapes onto a baking sheet lined with parchment paper.",
+    "Bake the pastries for 15 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pastries from the oven and let them cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-pastry",
+    "plant-based",
+    "snack-time",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mellow-creamy-french-corn-choux-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-creamy-french-corn-choux-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:12:16Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "creamed corn",
+    "diet": "plant-based",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "corn",
+    "descriptor": "mellow creamy",
+    "dishForm": "Choux Pastry"
+  }
+}
