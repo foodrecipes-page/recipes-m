@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Spicy Egyptian Lamb Tagine",
+  "description": "A rich and flavorful Egyptian dish featuring lamb, manchego, and dates, perfect for a special occasion or date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1 inch pieces"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is softened and lightly browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook until it is browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute, stirring constantly.",
+    "Add 1 cup of water and bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the crumbled manchego cheese and pitted dates.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lamb-recipes",
+    "low-fat",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mildly-spicy-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:29:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "manchego",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "mildly spicy",
+    "dishForm": "Tagine"
+  }
+}
