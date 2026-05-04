@@ -1,0 +1,99 @@
+{
+  "title": "Melted Lemony Egyptian Chicken Kebabs",
+  "description": "A citrusy and gooey Egyptian dish featuring lemon, perfect for a post-workout meal, made with gluten-free friendly ingredients and cooked on a robata-grill.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the robata-grill with oil to prevent sticking.",
+    "Grill the chicken kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "During the last 2 minutes of grilling, brush the kebabs with additional lemon juice.",
+    "Remove the kebabs from the grill and sprinkle with lemon zest.",
+    "Let the kebabs rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "lemony",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "melted-lemony-egyptian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-lemony-egyptian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:29:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "lemon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "melted lemony",
+    "dishForm": "Kebabs"
+  }
+}
