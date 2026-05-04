@@ -1,0 +1,88 @@
+{
+  "title": "Turkish Lamb Doner Kebab",
+  "description": "A flavorful and fluffy Turkish dish featuring lamb, served in a lacquerware bowl, perfect for a post-workout meal",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, combine the sliced lamb, chopped onion, minced garlic, paprika, salt, and black pepper",
+    "Mix well to combine",
+    "Thread the lamb mixture onto skewers, if desired",
+    "Place the skewers in a lacquerware bowl and drizzle with olive oil",
+    "Bake for 25 minutes, or until the lamb is cooked through",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Serve hot, garnished with fresh parsley or thyme"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab-recipes",
+    "lamb-recipes",
+    "low-carb",
+    "post-workout",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "mouthwatering-fluffy-turkish-lamb-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-fluffy-turkish-lamb-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:23:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "praline-french",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "mouthwatering fluffy",
+    "dishForm": "Doner Kebab"
+  }
+}
