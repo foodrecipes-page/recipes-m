@@ -1,0 +1,91 @@
+{
+  "title": "Malaysian Fish Satay",
+  "description": "A mildly sweet and savory Malaysian dish featuring coconut milk and sashimi-cut fish, perfect for a midnight craving. This pescatarian-friendly recipe is cooked to perfection on a tava-griddle.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "cut into sashimi-style strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the tava-griddle by heating it over medium heat and brushing it with peanut oil.",
+    "In a large bowl, whisk together coconut milk, lime juice, grated ginger, garlic paste, salt, and brown sugar.",
+    "Add the fish strips to the bowl and marinate for at least 10 minutes.",
+    "Thread the marinated fish strips onto skewers, if desired.",
+    "Place the skewers on the preheated tava-griddle and cook for 3-4 minutes per side, or until the fish is cooked through.",
+    "Brush the fish with additional peanut oil and coconut milk during cooking, if needed.",
+    "Serve the satay hot, garnished with sliced limes and cilantro, if desired.",
+    "Offer a side of peanut sauce or sambal for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "fish-recipes",
+    "malaysian-cuisine",
+    "midnight-cravings",
+    "pescatarian-friendly",
+    "tava-griddle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-sweet-malaysian-fish-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-malaysian-fish-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:01:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "coconut milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "mildly sweet",
+    "dishForm": "Satay"
+  }
+}
