@@ -1,0 +1,95 @@
+{
+  "title": "Massaman Marvelous Peruvian Chicken Rocoto Relleno",
+  "description": "A bitter and springy post-workout Peruvian dish featuring Massaman paste, caramelized to perfection, sugar-free-friendly, in the form of a rocoto relleno.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Cut the tops off the rocoto peppers and remove the seeds and membranes.",
+    "In a blender or food processor, blend the Massaman curry paste, chicken breast, onion, garlic, olive oil, chicken broth, salt, and black pepper until well combined.",
+    "Stuff each rocoto pepper with the chicken mixture and place in a baking dish.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the peppers are tender.",
+    "While the peppers are baking, caramelize the onion in a pan with a little olive oil until golden brown.",
+    "Serve the rocoto relleno with the caramelized onion on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "post-workout",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "massaman-marvelous-peruvian-chicken-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/massaman-marvelous-peruvian-chicken-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:38:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "massaman-paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Massaman Marvelous",
+    "dishForm": "Rocoto Relleno"
+  }
+}
