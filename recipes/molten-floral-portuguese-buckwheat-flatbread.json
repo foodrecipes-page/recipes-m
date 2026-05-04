@@ -1,0 +1,106 @@
+{
+  "title": "Molten Floral Portuguese Buckwheat Flatbread",
+  "description": "A fluffy buckwheat flatbread with a molten honey butter center, topped with sashimi‑cut cucumber and fragrant lemon zest for a post‑workout boost.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "oat milk",
+      "amount": "180 ml"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "whey protein isolate",
+      "amount": "20 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "5 g"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sashimi‑cut cucumber",
+      "amount": "50 g"
+    }
+  ],
+  "instructions": [
+    "Whisk buckwheat flour, baking powder and sea salt in a bowl.",
+    "Whisk oat milk, olive oil, Greek yogurt and whey protein isolate until smooth.",
+    "Combine wet and dry ingredients, stir until no lumps remain.",
+    "Cover the batter and let it rest for 5 minutes.",
+    "Heat a nonstick skillet over medium heat and spray with cooking spray.",
+    "Pour 1/4 cup of batter into the skillet and spread into a thin circle.",
+    "Cook until bubbles form on the surface, about 2 minutes.",
+    "Flip, spoon melted butter and honey into the center, then place a thin slice of cucumber on top, cook another minute.",
+    "Remove from skillet, let it cool slightly, then slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "flatbread",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "molten-floral-portuguese-buckwheat-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-floral-portuguese-buckwheat-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:52:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Molten Floral",
+    "dishForm": "Flatbread"
+  }
+}
