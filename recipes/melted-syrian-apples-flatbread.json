@@ -1,0 +1,108 @@
+{
+  "title": "Melted Syrian Apples Flatbread",
+  "description": "Crunchy iron-teppan flatbread studded with caramelized apples and a drizzle of honey, finished with a gentle flame for a smoky finish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5 g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "salt",
+      "amount": "4 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "apple",
+      "amount": "200 g"
+    },
+    {
+      "name": "honey",
+      "amount": "30 ml"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve the yeast in the warm water with a pinch of sugar and let it sit for 5 minutes until foamy.",
+    "In a large mixing bowl, combine the flour, remaining sugar, and salt. Stir to mix.",
+    "Pour the activated yeast mixture and olive oil into the dry ingredients and knead until a smooth dough forms, then cover and let rise for 30 minutes.",
+    "While the dough rises, slice the apple into 5 mm thick rounds and toss them in honey, cinnamon, cardamom, and a pinch of sea salt.",
+    "Punch down the risen dough and divide it into four equal portions, rolling each into a flat round about 20 cm in diameter.",
+    "Preheat a cast-iron teppan over medium heat, then brush it lightly with olive oil.",
+    "Place a dough round on the hot teppan, and cook for 4 minutes until bubbles appear on the surface.",
+    "Flip the flatbread, then arrange the apple slices over the cooked side, drizzle additional honey, and place a small pat of butter on top.",
+    "Cover the teppan with a lid for 3 minutes to allow the butter to melt and the apples to soften.",
+    "Remove the flatbread, garnish with a sprinkle of sea salt, and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple-dish",
+    "easy-to-make",
+    "halal",
+    "one-pan",
+    "syrial-style",
+    "teppan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "melted-syrian-apples-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-syrian-apples-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:02:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "apples",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "apples",
+    "descriptor": "Melted",
+    "dishForm": "Flatbread"
+  }
+}
