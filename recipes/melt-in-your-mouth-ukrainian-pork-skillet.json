@@ -1,0 +1,98 @@
+{
+  "title": "Melt in your mouth Ukrainian pork Skillet",
+  "description": "A hearty and flavorful Ukrainian dish featuring tender pork, roasted to perfection in a cast-iron skillet, with a blend of aromatic spices and khus khus, sure to please any crowd. This recipe is a crowd-pleaser and can be served at any time of the day.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "khus khus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the score fat in a large cast-iron skillet over medium-high heat.",
+    "Add the pork cubes to the skillet and brown on all sides, about 5 minutes.",
+    "Add the chopped onion to the skillet and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the khus khus, caraway seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Cover the skillet with a lid and transfer it to the preheated oven.",
+    "Roast the pork in the oven for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the pork hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "pork-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "melt-in-your-mouth-ukrainian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melt-in-your-mouth-ukrainian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:32:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "khus khus",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Melt in your mouth",
+    "dishForm": "Skillet"
+  }
+}
