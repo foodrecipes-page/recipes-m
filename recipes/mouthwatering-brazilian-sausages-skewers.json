@@ -1,0 +1,95 @@
+{
+  "title": "Brazilian Sausage Skewers",
+  "description": "A fermented and bouncy Brazilian dish featuring Italian fennel sausages, double-fry KFC style, and flexitarian-friendly, this recipe is a show-off for any occasion",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "12",
+      "notes": "preferably fermented"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "Cut the onion, bell pepper, and zucchini into large chunks",
+    "Thread the sausages, onion, bell pepper, and zucchini onto skewers",
+    "Brush the skewers with olive oil and season with salt, black pepper, and paprika",
+    "Grill the skewers for 10 minutes, turning occasionally",
+    "While the skewers are grilling, heat about 1/2 inch of olive oil in a large skillet over medium-high heat",
+    "Double-fry the sausages by removing them from the skewers and frying them in the skillet for 2-3 minutes on each side",
+    "Return the sausages to the skewers and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "flexitarian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "mouthwatering-brazilian-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-brazilian-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:42:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "sausages",
+    "descriptor": "mouthwatering",
+    "dishForm": "Skewers"
+  }
+}
