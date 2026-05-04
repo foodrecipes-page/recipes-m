@@ -1,0 +1,105 @@
+{
+  "title": "Mildly Spicy Norwegian Fish Pasta",
+  "description": "A spicy and crumbly Norwegian dish featuring linguine pasta and pescatarian-friendly ingredients, perfect for a hangover cure. This recipe combines the flavors of Norway with a kick of heat.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 lb",
+      "notes": "fresh"
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "norwegian chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the lamination puff to a thickness of 1/8 inch.",
+    "Cut the puff into small squares and bake for 15 minutes or until golden brown.",
+    "Cook the linguine pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cod fillets and cook until opaque and flaky.",
+    "Add the diced tomatoes, norwegian chili flakes, salt, and black pepper to the skillet and stir to combine.",
+    "Combine the cooked pasta and skillet mixture, then top with crumbled lamination puff."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "norwegian-cuisine",
+    "pescatarian-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mildly-spicy-norwegian-fish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-norwegian-fish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:21:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "linguine pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Mildly spicy",
+    "dishForm": "Pasta"
+  }
+}
