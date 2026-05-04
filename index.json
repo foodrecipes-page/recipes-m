@@ -322,6 +322,21 @@
     "shard": "m"
   },
   {
+    "slug": "marinated-german-sausage-sandwich",
+    "title": "Marinated German Sausage Sandwich",
+    "tags": [
+      "briny",
+      "lazy-sunday",
+      "mediterranean-friendly",
+      "pickle",
+      "quick",
+      "sandwich"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
     "slug": "marinated-meaty-slovakian-pork-kebabs",
     "title": "Marinated Meaty Slovakian Pork Kebabs",
     "tags": [
@@ -1983,6 +1998,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sweet-uruguayan-pickle-stew",
+    "title": "Mildly Sweet Uruguayan Pickle Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "one-pot",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {

@@ -1,0 +1,96 @@
+{
+  "title": "Marinated German Sausage Sandwich",
+  "description": "A briny, pillowy sandwich that turns a lazy Sunday into a flavorful German feast, featuring Worcestershire sauce, pickles, and Mediterranean-friendly flavors.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German bratwurst sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dill pickle slices",
+      "amount": "3"
+    },
+    {
+      "name": "Ciabatta rolls",
+      "amount": "4"
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grainy mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish combine worcestershire sauce, lemon juice, olive oil, minced garlic, and smoked paprika; stir to create a marinade.",
+    "Add sausages to the marinade, ensuring each is coated; cover and refrigerate for 20 minutes.",
+    "While sausages marinate, slice rolls lengthwise and lightly toast them in a dry skillet over medium heat until golden.",
+    "Heat a grill or cast‑iron pan to 350°F; cook sausages for 5 minutes per side until browned and cooked through, internal temp 160°F.",
+    "Remove sausages from heat and let rest 2 minutes before slicing into rings.",
+    "Spread mustard on the toasted roll halves; layer salad greens, pickle slices, and sausage rings.",
+    "Drizzle a small amount of the leftover marinades over the assembled sandwich.",
+    "Close the sandwich, cut in half, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "lazy-sunday",
+    "mediterranean-friendly",
+    "pickle",
+    "quick",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 805,
+    "protein": 49,
+    "carbs": 35,
+    "fat": 38
+  },
+  "slug": "marinated-german-sausage-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-german-sausage-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:16:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sausage",
+    "descriptor": "Marinated",
+    "dishForm": "Sandwich"
+  }
+}
