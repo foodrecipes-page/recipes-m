@@ -1,0 +1,98 @@
+{
+  "title": "Mouthwatering Garlicky Saudi Arabian Lamb Kebabs",
+  "description": "Juicy lamb kebabs marinated in a garlicky mixture and grilled to perfection in a tandoor, served in a bento box with a sprinkle of pecorino romano cheese.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pecorino romano cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a bowl, mix together the minced garlic, olive oil, lemon juice, salt, black pepper, cumin, and coriander.",
+    "Brush the garlic mixture onto the lamb cubes.",
+    "Place the skewers in the tandoor and cook for 10-12 minutes, turning occasionally.",
+    "Once the lamb is cooked, sprinkle the pecorino romano cheese over the top.",
+    "Serve the kebabs in a bento box with your choice of sides.",
+    "Let the kebabs rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mouthwatering-garlicky-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-garlicky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:46:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "mouthwatering garlicky",
+    "dishForm": "Kebabs"
+  }
+}
