@@ -1,0 +1,98 @@
+{
+  "title": "Meaty Mustardy Russian Beef Pilaf",
+  "description": "A hearty Russian dish featuring lean minced beef and a tangy mustard flavor, perfect for a satisfying brunch",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "1 pound",
+      "notes": "use vegan beef substitute for vegan option"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "use vegan lardons for vegan option"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "use vegan cheese for vegan option"
+    }
+  ],
+  "instructions": [
+    "Render the lardons in a large skillet over medium heat until crispy",
+    "Remove the lardons from the skillet and set aside",
+    "Add the vegetable oil to the skillet and saute the onion and garlic until softened",
+    "Add the lean minced beef to the skillet and cook until browned",
+    "Add the mustard to the skillet and stir to combine",
+    "Add the rice to the skillet and stir to combine",
+    "Add the vegetable broth to the skillet and bring to a boil",
+    "Reduce the heat to low and simmer until the liquid is absorbed and the rice is tender",
+    "Stir in the cheddar cheese until melted and well combined",
+    "Serve the pilaf hot, topped with the crispy lardons"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "meaty-mustardy-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-mustardy-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:54:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "lean minced beef",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Meaty Mustardy",
+    "dishForm": "Pilaf"
+  }
+}
