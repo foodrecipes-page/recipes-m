@@ -1,0 +1,145 @@
+{
+  "title": "Mighty Syrian Lamb Pie",
+  "description": "A spicy, chewy lamb pie brushed with a shortcrust pastry, perfect for feeding a crowd and sugar‑free friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "125g",
+      "notes": "cold and cubed"
+    },
+    {
+      "name": "cold water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "800g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and roll out the shortcrust pastry to fit a 23cm pie dish.",
+    "In a large skillet, heat the olive oil over medium heat and brown the lamb cubes until a crust forms, about 7 minutes.",
+    "Add the onions, garlic, and red bell pepper to the skillet and cook until softened, about 5 minutes.",
+    "Stir in the cumin, paprika, coriander, cayenne pepper, cinnamon, cardamom, and cloves, cooking for 2 minutes to release aromas.",
+    "Mix in the tomato paste and a splash of water, then reduce heat to low and simmer the filling for 30 minutes, stirring occasionally.",
+    "Season the mixture with salt and let it cool slightly.",
+    "Transfer the lamb filling into the prepared pastry crust, smoothing the top.",
+    "Brush the edges of the crust with beaten egg to seal.",
+    "Cover the pie with a second layer of pastry, crimping the edges, and cut slits in the top to allow steam to escape.",
+    "Bake the pie for 25 minutes, or until the pastry is golden brown and the filling is bubbling.",
+    "Let the pie rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "crowd-pleaser",
+    "main-course",
+    "shortcrust",
+    "spicy",
+    "sugar-free",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 38,
+    "carbs": 41,
+    "fat": 23
+  },
+  "slug": "mighty-syrian-lamb-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-syrian-lamb-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:45:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Mighty",
+    "dishForm": "Pie"
+  }
+}
