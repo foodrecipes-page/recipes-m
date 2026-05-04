@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Smoky Thai Papaya Som Tum",
+  "description": "A sour and crunchy Thai dish featuring turmeric and smoked flavors, made with paleo-friendly ingredients, this som tum is a romantic and delicious meal option.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green papaya",
+      "amount": "2 cups shredded",
+      "notes": "use a food processor to shred"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "smoked chili peppers",
+      "amount": "2 peppers",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mortar and pestle, pound the smoked chili peppers into a coarse paste.",
+    "Add the turmeric, fish sauce, lime juice, and salt to the mortar and pestle and mix well.",
+    "Add the shredded green papaya to the mortar and pestle and pound until well combined.",
+    "Stir in the chopped peanuts, diced tomatoes, and sliced cucumber.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the som tum cold, garnished with additional peanuts and tomatoes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "paleo",
+    "smoky",
+    "som-tum",
+    "spicy",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-smoky-thai-papaya-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-thai-papaya-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:21:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "turmeric",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Som Tum"
+  }
+}

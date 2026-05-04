@@ -1,0 +1,91 @@
+{
+  "title": "Minty Canadian Potatoes Hash",
+  "description": "A quick, citrusy, mint-infused hash featuring baby new potatoes, perfect for a wholesome lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "200g",
+      "notes": "cut into halves"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "30g",
+      "notes": "roughly 1 cup, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sliced shallots",
+      "amount": "1 small onion, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a nonstick skillet over medium‑high heat.",
+    "Toss the cut potatoes with olive oil, salt, pepper, garlic powder, and lemon juice to coat evenly.",
+    "Spread the potatoes in the skillet and cook for 10 minutes, stirring occasionally, until golden brown.",
+    "Add the sliced shallots to the pan and cook for an additional 5 minutes until softened.",
+    "Stir in the chopped mint leaves and cook for 1 minute to release aroma.",
+    "Remove from heat, transfer to a serving dish, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "citrus",
+    "easy",
+    "mint",
+    "one-pan",
+    "quick",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "minty-canadian-potatoes-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-canadian-potatoes-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:22:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Minty",
+    "dishForm": "Hash"
+  }
+}
