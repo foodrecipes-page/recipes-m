@@ -1,0 +1,104 @@
+{
+  "title": "Melted Arabian Lamb Roast",
+  "description": "A tender halal lamb roast infused with green curry paste and a cooling mint yogurt sauce, perfect for monsoon evenings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder roast",
+      "amount": "1 kg",
+      "notes": "trimmed and patted dry"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a roasting pan with foil.",
+    "Rub the lamb roast with olive oil, salt, cumin, coriander, turmeric, and garlic.",
+    "Place the roast in the pan and spread green curry paste over its surface, then drizzle with lemon juice.",
+    "Cover the pan with foil and roast for 60 minutes, then remove the foil and roast for an additional 30 minutes until caramelized.",
+    "Whisk yogurt with chopped mint and a pinch of salt to create a cooling sauce.",
+    "Allow the roast to rest for 15 minutes after removing from oven before slicing.",
+    "Serve the sliced lamb with the mint yogurt sauce drizzled on top and a side of rice or flatbread.",
+    "Garnish with extra mint leaves and a squeeze of fresh lemon for brightness."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "dinner"
+  ],
+  "slug": "melted-arabian-lamb-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-arabian-lamb-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:01:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Melted",
+    "dishForm": "Roast"
+  }
+}

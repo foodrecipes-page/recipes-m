@@ -1,0 +1,99 @@
+{
+  "title": "Melted Dutch Blue Cheese Casserole",
+  "description": "A briny, crumbly Dutch blue cheese casserole infused with Thai sweet basil and horapa sauce, steam cooked in a bamboo steamer for a quick weeknight vegetarian meal.",
+  "cuisine": "Dutch-Thai fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch blue cheese, crumbled",
+      "amount": "200g"
+    },
+    {
+      "name": "Firm tofu, pressed and cubed",
+      "amount": "250g"
+    },
+    {
+      "name": "Thai sweet basil leaves, chopped",
+      "amount": "30g"
+    },
+    {
+      "name": "Horapa sauce",
+      "amount": "200ml"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "150ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Heat‑proof dish for steamer",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat bamboo steamer over medium heat.",
+    "In a small bowl, whisk horapa sauce with vegetable stock, salt, pepper, and sesame oil.",
+    "Gently toss tofu cubes in the sauce mixture until evenly coated.",
+    "Place the seasoned tofu and crumbled Dutch blue cheese in a heat‑proof dish that fits the steamer.",
+    "Sprinkle chopped Thai sweet basil on top of the cheese layer.",
+    "Cover the dish with a lid and steam for 12 minutes until cheese has melted and tofu is heated through.",
+    "Remove the casserole from the steamer and let it rest for 2 minutes.",
+    "Garnish with a few extra basil leaves and a pinch of red pepper flakes if desired.",
+    "Serve hot over steamed rice or with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-steamer",
+    "cheese",
+    "fusion",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 8,
+    "fat": 19
+  },
+  "slug": "melted-dutch-blue-cheese-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-dutch-blue-cheese-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:01:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Blue Cheese",
+    "descriptor": "Melted",
+    "dishForm": "Casserole"
+  }
+}
