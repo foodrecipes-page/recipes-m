@@ -1,0 +1,101 @@
+{
+  "title": "Mildly Bitter Syrian Herring Bowl",
+  "description": "A traditional Syrian dish featuring dehydrated herring, served in a Korean brass bowl, perfect for a date night, with a balance of bitter and creamy flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 oz",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf",
+      "notes": "toasted"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a blender, combine tahini, lemon juice, garlic, and sumac, and blend until smooth.",
+    "In a Korean brass bowl, arrange a layer of toasted pita bread.",
+    "Top the pita bread with a layer of dehydrated herring fillets.",
+    "Drizzle the tahini sauce over the herring fillets.",
+    "Sprinkle chopped pickled turnips and parsley over the top.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld.",
+    "Refrigerate any leftovers and consume within 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "brass-bowl",
+    "creamy",
+    "date-night",
+    "dehydrated",
+    "middle-eastern",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mildly-bitter-syrian-herring-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-bitter-syrian-herring-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:25:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "herring",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "herring",
+    "descriptor": "mildly bitter",
+    "dishForm": "Bowl"
+  }
+}
