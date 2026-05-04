@@ -1,0 +1,104 @@
+{
+  "title": "Tunisian Squid Pasta",
+  "description": "A salty, aerated, and festive Tunisian dish featuring squid, pasta, and a water emulsion, suitable for a Jain-friendly diet. This recipe combines the flavors of the Mediterranean with the simplicity of a weeknight meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the garlic, cooking for 1-2 minutes until fragrant.",
+    "Add the squid to the skillet and cook for 2-3 minutes until opaque and slightly browned.",
+    "Add the lemon juice, water, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce the heat to medium-low and simmer the squid mixture for 5 minutes until the sauce has thickened slightly.",
+    "Stir in the chopped parsley and harissa, if using.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the squid sauce.",
+    "Serve the Tunisian squid pasta hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "north-african",
+    "one-pan",
+    "pasta",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mouthwatering-tunisian-squid-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-tunisian-squid-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:18:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "squid",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "squid",
+    "descriptor": "mouthwatering",
+    "dishForm": "Pasta"
+  }
+}
