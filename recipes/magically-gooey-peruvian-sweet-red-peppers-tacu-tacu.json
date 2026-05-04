@@ -1,0 +1,100 @@
+{
+  "title": "Magically Gooey Peruvian Sweet Red Peppers Tacu Tacu",
+  "description": "A nostalgic Peruvian dish featuring sweet red peppers in a tacu tacu form, served in a Korean brass bowl, perfect for a dairy-free friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "4 large",
+      "notes": "grilled"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "day old"
+    },
+    {
+      "name": "cooked beans",
+      "amount": "1 cup",
+      "notes": "black or kidney"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat and grill the sweet red peppers for 10 minutes on each side until the skin is charred and blistered.",
+    "Peel the skin off the peppers and chop them into small pieces.",
+    "Heat the olive oil in a large skillet over medium heat and saute the onion and garlic until softened.",
+    "Add the cooked rice, beans, smoked paprika, salt, and pepper to the skillet and stir to combine.",
+    "Add the chopped peppers to the skillet and stir to combine.",
+    "Using a spatula, shape the mixture into a tacu tacu form.",
+    "Transfer the tacu tacu to a Korean brass bowl and serve immediately.",
+    "Garnish with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled-vegetables",
+    "korean-brass-bowl",
+    "peruvian-cuisine",
+    "tacu-tacu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "magically-gooey-peruvian-sweet-red-peppers-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-gooey-peruvian-sweet-red-peppers-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:33:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "Magically Gooey",
+    "dishForm": "Tacu Tacu"
+  }
+}
