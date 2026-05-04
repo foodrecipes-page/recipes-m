@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Sweet Thai Chicken Noodles",
+  "description": "A tangy and snappy Thai dish featuring chicken, noodles, and a hint of sweetness, perfect for a brunch mood, made with diabetic-friendly ingredients and a crunchy twist from rice krispies and candy",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice krispies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/2 cup",
+      "notes": "such as m&m's or chopped peanut butter cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a large skillet, heat the peanut oil over medium-high heat and cook the chicken until browned and cooked through",
+    "In a small bowl, whisk together the soy sauce and honey until well combined",
+    "Add the soy sauce mixture to the skillet with the chicken and stir to coat",
+    "Add the crushed rice krispies and candy pieces to the skillet and stir to combine",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and rice krispie mixture",
+    "Season with salt and black pepper to taste",
+    "Transfer the noodle mixture to a serving platter and garnish with chopped scallions",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "diabetic-friendly",
+    "easy-meals",
+    "gluten-free",
+    "one-pan",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mildly-sweet-thai-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-thai-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:42:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "candy",
+    "primaryIngredient": "rice krispies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Sweet",
+    "dishForm": "Noodles"
+  }
+}

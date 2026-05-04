@@ -1,0 +1,87 @@
+{
+  "title": "Mildly Winey Japanese Peach Mochi",
+  "description": "A low-sodium, wine-infused Japanese dessert featuring peach juice and a pasta-water-emulsion, formed into a delicate mochi, perfect for a solo dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese rice flour",
+      "amount": "2 cups",
+      "notes": "also known as mochiko"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the Japanese rice flour and granulated sugar.",
+    "Gradually add in the peach juice, white wine, and pasta water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a small amount of unsalted butter in the center of each.",
+    "Fold the dough over the butter to form a triangle or square shape, and press the edges together to seal.",
+    "Repeat with the remaining dough and butter.",
+    "Serve the mochi warm, or let cool and store in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade",
+    "japanese-dessert",
+    "low-sodium",
+    "mochi",
+    "peach-juice",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "mildly-winey-japanese-peach-mochi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-winey-japanese-peach-mochi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:42:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "peach juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "peach",
+    "descriptor": "Mildly Winey",
+    "dishForm": "Mochi"
+  }
+}
