@@ -1,0 +1,110 @@
+{
+  "title": "mustardy smoky peruvian shrimp chupe de camarones",
+  "description": "tangy and smoky peruvian shrimp stew infused with wholegrain mustard, served with crusty bread.",
+  "cuisine": "peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp (12 count)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ají amarillo",
+      "amount": "2"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large pot over medium-high heat.",
+    "add onion and garlic and sauté until softened, about 5 minutes.",
+    "add red bell pepper and ají amarillo and sauté for another 5 minutes.",
+    "add shrimp and cook until pink, about 2-3 minutes per side.",
+    "add fish stock, mustard, smoked paprika, salt, and pepper.",
+    "bring to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "stir in heavy cream and cook for another 2-3 minutes.",
+    "serve hot with crusty bread and garnish with cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "seafood",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mustardy-smoky-peruvian-shrimp-chupe-de-camarones",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-smoky-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:25:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Mustardy Smoky",
+    "dishForm": "Chupe De Camarones"
+  }
+}

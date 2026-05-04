@@ -1,0 +1,110 @@
+{
+  "title": "Mouthwatering Wood Fired Tunisian Pear Tagine",
+  "description": "A plant-based friendly Tunisian dish featuring pears, wood-fired baked in a corn husk wrap, with a floral and cheese-pull crowd-pleaser flavor",
+  "cuisine": "Tunisian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "4",
+      "notes": "any variety, peeled and sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing corn husk wrap"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup",
+      "notes": "such as soy cheese or nut cheese"
+    },
+    {
+      "name": "Corn husk wraps",
+      "amount": "4",
+      "notes": "dried and soaked in water"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together sliced pears, chopped onion, minced garlic, grated ginger, ground cumin, and ground coriander.",
+    "Brush the corn husk wraps with olive oil and fill each wrap with the pear mixture and vegan cheese shreds.",
+    "Fold the corn husk wraps to enclose the filling and place them in the wood fired oven.",
+    "Bake for 30 minutes or until the corn husk wraps are lightly browned and the filling is heated through.",
+    "Remove the tagines from the oven and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy.",
+    "Let the tagines cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "crowd-pleaser",
+    "plant-based",
+    "tunisian-cuisine",
+    "vegan-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "mouthwatering-wood-fired-tunisian-pear-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-wood-fired-tunisian-pear-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:25:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pears",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pears",
+    "descriptor": "Mouthwatering wood fired",
+    "dishForm": "Tagine"
+  }
+}
