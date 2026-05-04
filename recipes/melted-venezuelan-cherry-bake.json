@@ -1,0 +1,103 @@
+{
+  "title": "Melted Venezuelan Cherry Bake",
+  "description": "A buttery, gooey, low‑fat Venezuelan cherry bake cooked in a cozy papillote for a comforting, melt‑in‑your-mouth dessert.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh pitted cherries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "light corn syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "skim milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a bowl, combine the cherries, honey, corn syrup, sugar, vanilla, salt, and cinnamon and stir gently.",
+    "In a separate bowl, whisk the flour and egg until smooth, then add the milk and melted butter and stir until just combined.",
+    "Pour the wet batter over the cherry mixture in a parchment lined baking dish, spreading evenly.",
+    "Fold parchment paper into a papillote and seal the edges tightly to trap steam.",
+    "Place the parchment packet on a baking sheet and bake for 25 minutes until golden brown and set.",
+    "Remove from the oven and carefully cut open the packet to release the steam before serving.",
+    "Serve the warm, gooey bake immediately, optionally dusted with powdered sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cherry",
+    "comfort-food",
+    "gooey",
+    "low-fat",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "melted-venezuelan-cherry-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-venezuelan-cherry-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:45:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "papillote",
+    "primaryIngredient": "cherry",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cherry",
+    "descriptor": "Melted",
+    "dishForm": "Bake"
+  }
+}
