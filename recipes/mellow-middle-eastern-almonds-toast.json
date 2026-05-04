@@ -1,0 +1,102 @@
+{
+  "title": "Mellow Middle Eastern Almonds Toast",
+  "description": "A soft, nutty toast with a sweet tahini sauce, perfect for a quiet date night.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sourdough bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Date syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a medium skillet over medium heat.",
+    "Brush each slice of bread with olive oil and toast until golden brown on both sides.",
+    "In a small bowl, whisk together tahini, date syrup, lemon juice, water, ground cardamom, and a pinch of salt until smooth.",
+    "Spread the tahini mixture evenly over the toasted bread slices.",
+    "Sprinkle toasted almonds, sumac, lemon zest, and a pinch of sea salt over the sauce.",
+    "Drizzle with a few drops of rose water for aroma.",
+    "Gently press the toppings to adhere and allow the flavors to settle for 2 minutes.",
+    "Slice the toast into bite‑sized pieces and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "easy",
+    "fluffy",
+    "nutty",
+    "quick",
+    "shared"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 22,
+    "carbs": 73,
+    "fat": 37
+  },
+  "slug": "mellow-middle-eastern-almonds-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-middle-eastern-almonds-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:53:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "toast",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Almonds",
+    "descriptor": "Mellow",
+    "dishForm": "Toast"
+  }
+}
