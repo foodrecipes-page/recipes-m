@@ -1,0 +1,101 @@
+{
+  "title": "Melted Filipino Tofu Stew",
+  "description": "Spicy, gooey tofu stew with smoky paprika and pork lardons, perfect for meal prep.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "pork lardons",
+      "amount": "150 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and sear the pork lardons until crispy.",
+    "Remove the lardons and set aside, then sauté the onion and garlic in the rendered fat until translucent.",
+    "Add the diced tofu to the pot and cook until lightly browned on all sides.",
+    "Stir in the smoked paprika and cook for 30 seconds to release its aroma.",
+    "Pour in the coconut milk, soy sauce, and fish sauce, stirring to combine.",
+    "Return the crisped pork lardons to the pot, bring the mixture to a simmer, and cook for 10 minutes.",
+    "Season with salt and pepper, then garnish with fresh cilantro before serving.",
+    "Divide the stew into meal prep containers for a convenient weeknight dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "meal-prep",
+    "one-pot",
+    "spicy",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 24,
+    "fat": 17
+  },
+  "slug": "melted-filipino-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-filipino-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:21:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "smoky paprika",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Melted",
+    "dishForm": "Stew"
+  }
+}
