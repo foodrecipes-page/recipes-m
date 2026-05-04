@@ -1,0 +1,95 @@
+{
+  "title": "Moist Velvety German Apple Pudding",
+  "description": "A light and earthy German dessert featuring demerara sugar and apples, cooked in a papillote to preserve freshness and flavor.",
+  "cuisine": "German",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "demerara sugar",
+      "amount": "1 cup",
+      "notes": "raw sugar adds depth to the pudding"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together demerara sugar, flour, and vanilla extract.",
+    "In a separate bowl, whisk together heavy cream and eggs.",
+    "Add the sliced apples to the sugar mixture and toss until they are evenly coated.",
+    "Add the cream mixture to the apple mixture and stir until just combined.",
+    "Spoon the pudding mixture onto the center of each parchment paper sheet.",
+    "Dot the top of each pudding with butter.",
+    "Fold the parchment paper over the pudding to create a papillote and bake for 25 minutes.",
+    "Remove the puddings from the oven and let them cool for 10 minutes.",
+    "Serve the puddings warm, garnished with additional sliced apples if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pudding",
+    "autumn-desserts",
+    "german-desserts",
+    "papillote-cooking",
+    "raw-friendly",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "moist-velvety-german-apple-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-velvety-german-apple-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:03:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "demerara sugar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "apples",
+    "descriptor": "moist velvety",
+    "dishForm": "Pudding"
+  }
+}
