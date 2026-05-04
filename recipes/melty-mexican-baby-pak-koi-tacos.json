@@ -1,0 +1,102 @@
+{
+  "title": "Melty Mexican Baby Pak Koi Tacos",
+  "description": "A peppery and gooey Mexican dish featuring baby pak koi, long fermentation dough, and a satvik friendly approach, all grilled to perfection on a binchotan grill.",
+  "cuisine": "Mexican",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup",
+      "notes": "rested for 24 hours"
+    },
+    {
+      "name": "pepper jack cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "Divide the long fermentation dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of olive oil on each dough circle and spread evenly.",
+    "Add a few pieces of baby pak koi to the center of each dough circle.",
+    "Sprinkle shredded pepper jack cheese, diced red onion, and chopped cilantro over the pak koi.",
+    "Season with salt and black pepper to taste.",
+    "Fold the dough in half to enclose the filling and press the edges together to seal.",
+    "Place the tacos on the preheated binchotan grill and cook for 2-3 minutes on each side, until the dough is crispy and the cheese is melted.",
+    "Serve immediately, with a squeeze of lime juice over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "grilled",
+    "mexican-food",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "melty-mexican-baby-pak-koi-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-mexican-baby-pak-koi-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:00:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "baby pak koi",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "Melty Gooey",
+    "dishForm": "Tacos"
+  }
+}
