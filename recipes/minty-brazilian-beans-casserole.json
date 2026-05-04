@@ -1,0 +1,124 @@
+{
+  "title": "Minty Brazilian Beans Casserole",
+  "description": "A tangy, shaggy casserole that blends black beans with fresh mint, cilantro, and citrus for a crowd-pleasing Brazilian twist. The dish is satvik-friendly and baked to perfection with a golden crust.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "2 cups dry",
+      "notes": "washed and soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 large",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "lime",
+      "amount": "1 medium",
+      "notes": "juice"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Soak the black beans overnight in cold water, then drain and rinse.",
+    "In a large pot, heat the olive oil over medium heat and sauté the diced onion until translucent.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Stir in the tomato paste, cumin, smoked paprika, salt, and black pepper, cooking for another 2 minutes.",
+    "Add the soaked beans, water, coconut milk, lemon zest, and citrus juices; bring to a boil, then reduce heat and simmer for 60 minutes until beans are tender.",
+    "Stir in the chopped cilantro and mint, removing from heat.",
+    "Transfer the bean mixture into a greased casserole dish and bake at 180°C for 30 minutes until the top forms a golden crust.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "brazilian",
+    "crowd-pleaser",
+    "minty",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 2264,
+    "protein": 85,
+    "carbs": 356,
+    "fat": 55
+  },
+  "slug": "minty-brazilian-beans-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-brazilian-beans-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:12:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "cilantro",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beans",
+    "descriptor": "Minty",
+    "dishForm": "Casserole"
+  }
+}
