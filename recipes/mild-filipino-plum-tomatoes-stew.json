@@ -1,0 +1,119 @@
+{
+  "title": "Mild Filipino Plum Tomatoes Stew",
+  "description": "A sour, velvety, comforting stew featuring plum tomatoes in a coconut milk base, ideal for a diabetic-friendly meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "3g",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1g"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "15g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "wedge"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a saucepan over medium heat until shimmering.",
+    "Add minced garlic, ginger, and onion, sauté until onion is translucent.",
+    "Stir in turmeric and smoked paprika, cooking for 30 seconds until fragrant.",
+    "Add diced plum tomatoes and cook until they soften, about 5 minutes.",
+    "Pour in light coconut milk and bring the mixture to a gentle simmer.",
+    "Gently fold in cubed tofu and fish sauce, then simmer for 7 minutes, allowing flavors to meld.",
+    "Taste and season with salt, adjusting as needed.",
+    "Remove from heat and stir in chopped basil.",
+    "Serve the stew hot, accompanied by a lime wedge for squeezing.",
+    "Enjoy the velvety, comforting stew as a diabetic-friendly dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "comfort-food",
+    "diabetic-friendly",
+    "easy",
+    "low-carb",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 549,
+    "protein": 27,
+    "carbs": 37,
+    "fat": 33
+  },
+  "slug": "mild-filipino-plum-tomatoes-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-filipino-plum-tomatoes-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:04:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Mild",
+    "dishForm": "Stew"
+  }
+}
