@@ -1,0 +1,92 @@
+{
+  "title": "Magical Crispy Moroccan Sea Bass Briouat",
+  "description": "A sour and crispy Moroccan dish featuring sea bass fillets, this ayurvedic-tamasic-friendly recipe is perfect for a dinner meal, with a flavorful braise and wrapped in a briouat form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and black pepper.",
+    "Add the chopped onion, parsley, and cilantro to the bowl and mix well.",
+    "Place a sea bass fillet in the center of a piece of parchment paper, brush with the lemon juice mixture, and fold the paper to form a briouat shape.",
+    "Repeat the process with the remaining sea bass fillets.",
+    "Place the briouats on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 2 minutes, or until crispy and golden brown.",
+    "Remove the briouats from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "crispy",
+    "gluten-free",
+    "moroccan-cuisine",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "magical-crispy-moroccan-sea-bass-briouat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-crispy-moroccan-sea-bass-briouat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:24:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sea bass",
+    "descriptor": "Magical Crispy",
+    "dishForm": "Briouat"
+  }
+}
