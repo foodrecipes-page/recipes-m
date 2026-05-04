@@ -1,0 +1,106 @@
+{
+  "title": "Magically Smoky Korean Doenjang Skewers",
+  "description": "Salty and juicy Korean doenjang skewers, grilled to perfection on a robata grill and served on an iron teppan, perfect for a show stopping dish, this plant based friendly recipe is a must try",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat, about 400 degrees Fahrenheit",
+    "Thread the tofu, zucchini, red onion, bell pepper, and mushrooms onto skewers, leaving a small space between each piece",
+    "In a small bowl, whisk together the doenjang, soy sauce, brown sugar, garlic, and sesame oil to make the marinade",
+    "Brush the marinade onto the skewers, making sure each piece is fully coated",
+    "Place the skewers on the robata grill and cook for 10-12 minutes, turning occasionally",
+    "Transfer the skewers to the iron teppan and cook for an additional 2-3 minutes, serving immediately",
+    "Serve the skewers hot, garnished with green onions and sesame seeds if desired",
+    "Repeat the cooking process for the remaining skewers"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "iron-teppan",
+    "korean-inspired",
+    "plant-based",
+    "robata",
+    "show-stopping"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "magically-smoky-korean-doenjang-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-smoky-korean-doenjang-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:51:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "robata-grill",
+    "primaryIngredient": "doenjang",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "doenjang",
+    "descriptor": "Magically Smoky",
+    "dishForm": "Skewers"
+  }
+}
