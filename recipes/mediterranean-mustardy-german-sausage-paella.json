@@ -1,0 +1,109 @@
+{
+  "title": "Mediterranean Mustardy German Sausage Paella",
+  "description": "A floral and indulgent German dish featuring mustard and confit-tomato, cooked in a traditional paella pan with Mediterranean-friendly ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably Weisswurst or Bratwurst"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain or Dijon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the German sausage and cook until browned, about 5 minutes.",
+    "Add the confit tomato, mustard, artichoke hearts, chicken broth, saffron threads, and smoked paprika to the paella pan.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the sausage is cooked through and the liquid has been absorbed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meat-based",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "mediterranean-mustardy-german-sausage-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-mustardy-german-sausage-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:53:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "confit-tomato",
+    "primaryIngredient": "mustard",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Mediterranean Mustardy",
+    "dishForm": "Paella"
+  }
+}
