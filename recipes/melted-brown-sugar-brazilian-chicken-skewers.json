@@ -1,0 +1,92 @@
+{
+  "title": "Melted Brown Sugar Brazilian Chicken Skewers",
+  "description": "Tender and comforting Brazilian dish featuring dark soft brown sugar, perfect for a low-calorie dinner option.",
+  "cuisine": "brazilian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, oregano, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "In a small bowl, mix together the dark brown sugar and 1 tablespoon of water.",
+    "Brush the melted brown sugar mixture onto the grilled chicken during the last 2 minutes of cooking.",
+    "Serve the skewers hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "grilled-chicken",
+    "low-calorie",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "melted-brown-sugar-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-brown-sugar-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:55:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "melted brown sugar",
+    "dishForm": "Skewers"
+  }
+}
