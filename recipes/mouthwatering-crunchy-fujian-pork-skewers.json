@@ -1,0 +1,95 @@
+{
+  "title": "Mouthwatering Crunchy Fujian Pork Skewers",
+  "description": "A winey, crunchy, crowd-pleaser Chinese dish from Fujian province, featuring kabse spice and paleo-friendly ingredients, cooked in a cazuela.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together kabse spice, coconut aminos, rice vinegar, sesame oil, garlic, and ginger.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a single layer in a cazuela.",
+    "Bake the skewers in the preheated oven for 20 minutes, or until cooked through.",
+    "While the skewers are baking, prepare the garnish by mixing together chopped scallions and a pinch of kabse spice.",
+    "Remove the skewers from the oven and garnish with the scallion mixture.",
+    "Serve the skewers hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "crowd-pleaser",
+    "crunchy",
+    "one-pan",
+    "paleo-friendly",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mouthwatering-crunchy-fujian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-crunchy-fujian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:13:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "kabse spice",
+    "diet": "paleo",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "pork",
+    "descriptor": "mouthwatering crunchy",
+    "dishForm": "Skewers"
+  }
+}
