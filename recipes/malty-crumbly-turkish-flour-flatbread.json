@@ -1,0 +1,102 @@
+{
+  "title": "Malty Crumbly Turkish Flour Flatbread",
+  "description": "A flaky, malt-infused flatbread topped with crumbly cheese and mini marshmallows for an indulgent, lacto-vegetarian treat.",
+  "cuisine": "turkish",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "malted barley malt powder",
+      "amount": "10 g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "3 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "50 g"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "100 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "5 g"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together flour, malt powder, salt, and sugar.",
+    "Dissolve instant yeast in warm water and let sit for 5 minutes until foamy.",
+    "Add the yeast mixture, olive oil, and 120 ml water to the dry ingredients and mix until a soft dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise in a warm place for 45 minutes until doubled.",
+    "Preheat the oven to 220°C and line a baking sheet with parchment paper.",
+    "Punch down the dough, roll it out into 4 thin circles, and transfer to the baking sheet.",
+    "Sprinkle crumbled cheese, mini marshmallows, oregano, and lemon zest over each flatbread.",
+    "Bake for 12 minutes until the edges are golden and the marshmallows are lightly toasted.",
+    "Remove from the oven, let cool slightly, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "easy",
+    "flatbread",
+    "lactovegetarian",
+    "treat",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "malty-crumbly-turkish-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crumbly-turkish-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:02:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Flour",
+    "descriptor": "Malty Crumbly",
+    "dishForm": "Flatbread"
+  }
+}
