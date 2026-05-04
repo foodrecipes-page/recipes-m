@@ -1,0 +1,97 @@
+{
+  "title": "Mediterranean Charred Beef Tagine",
+  "description": "A hearty and flavorful Mediterranean dish featuring charred beef and a rich unsalted beef stock, with a unique spherified twist, perfect for a cozy dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tablespoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the beef short ribs with salt, pepper, and paprika",
+    "Heat the olive oil in a large Dutch oven over medium-high heat and sear the beef short ribs until browned on all sides",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize",
+    "Add the garlic, dried oregano, and unsalted beef stock to the pot, bringing the mixture to a boil",
+    "Cover the pot and transfer it to the preheated oven, cooking for 2 1/2 hours, or until the beef is tender",
+    "While the beef is cooking, mix the sodium alginate with a small amount of water to create a spherification bath",
+    "Once the beef is done, remove it from the pot and strain the cooking liquid, discarding any excess fat",
+    "Add the cooking liquid to the spherification bath and drop small amounts of the mixture into the bath to create spherified pearls",
+    "Serve the charred beef with the spherified pearls and a side of couscous or roasted vegetables"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "gluten-free",
+    "mediterranean",
+    "spherification",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "mediterranean-charred-mediterranean-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-charred-mediterranean-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:52:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "spherify",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef",
+    "descriptor": "Mediterranean Charred",
+    "dishForm": "Tagine"
+  }
+}
