@@ -1,0 +1,95 @@
+{
+  "title": "Moroccan Couscous Couscous-Royal",
+  "description": "A flavorful Moroccan dish featuring crumbled feta cheese, preserved lemon, and wood-fired baked pita bread. Perfect for a quick weeknight dinner.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6 slices",
+      "notes": "wood-fired baked"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook for 5 minutes, until lightly browned.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the crumbled feta cheese and chopped preserved lemon, and stir to combine.",
+    "Add the cooked couscous to the skillet and stir to combine with the feta and lemon mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with chopped fresh parsley and warm wood-fired baked pita bread.",
+    "Garnish with additional preserved lemon and feta cheese, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "moroccan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "moroccan-moroccan-couscous-couscous-royal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moroccan-moroccan-couscous-couscous-royal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:09Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "moroccan",
+    "mainIngredient": "couscous",
+    "descriptor": "moroccan",
+    "dishForm": "couscous-royal"
+  }
+}

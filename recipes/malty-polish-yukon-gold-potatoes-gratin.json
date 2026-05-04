@@ -1,0 +1,96 @@
+{
+  "title": "malty polish yukon gold potatoes gratin",
+  "description": "a decadent polish dish featuring malty flavors and a creamy, molten bain-marie topping.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yukon gold potatoes, peeled",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese, grated",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375\u00180f (190\u00180c).",
+    "bring a saucepan of water to a boil and prepare a bowl of ice water.",
+    "peel the yukon gold potatoes and slice them into 1/2-inch thick rounds.",
+    "place the sliced potatoes in the boiling water for 2-3 minutes, then transfer them to the ice water to cool."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bain-marie",
+    "comfort-food",
+    "gratin",
+    "malty",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "malty-polish-yukon-gold-potatoes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-polish-yukon-gold-potatoes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "malty",
+    "dishForm": "gratin"
+  }
+}
