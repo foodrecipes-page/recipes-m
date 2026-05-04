@@ -1,0 +1,117 @@
+{
+  "title": "Thai Chicken Wrap",
+  "description": "A moist and flaky Thai wrap filled with spicy chicken and fresh herbs, perfect for a quick and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1-2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Soak the rice paper wrappers in warm water for 10-15 minutes.",
+    "In a blender or food processor, combine the curry paste, fish sauce, lime juice, soy sauce, brown sugar, and rice vinegar. Blend until smooth.",
+    "In a large skillet, heat 1 tablespoon of coconut oil over medium-high heat. Add the chicken and cook until browned and cooked through.",
+    "Add the blended curry sauce to the skillet and stir to coat the chicken.",
+    "To assemble the wraps, place a cooked chicken breast on a rice paper wrapper, followed by a spoonful of the curry sauce, some chopped cilantro and mint leaves, and a squeeze of lime juice.",
+    "Add a few sliced Thai basil leaves and a sprinkle of sriracha sauce if desired.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining ingredients to make 4-6 wraps.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "easytoassemble",
+    "glutenfree",
+    "lunch",
+    "thaifood",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "moist-flaky-thai-chicken-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-flaky-thai-chicken-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:58:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sriracha",
+    "diet": "ayurvedic-sattvic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "moist, flaky",
+    "dishForm": "Wrap"
+  }
+}

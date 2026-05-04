@@ -1,0 +1,99 @@
+{
+  "title": "Magical Mexican French Corn Galette",
+  "description": "A funky, chewy, crowd-pleaser French dish featuring corn tortillas, stone-bowl-dolsot, and dash-friendly ingredients in a galette form, this Magical Mexican French Corn Galette is perfect for any occasion.",
+  "cuisine": "French Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "frozen corn kernels",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the corn tortillas to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the melted butter over medium heat and cook the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the frozen corn kernels, grated cheese, chopped fresh cilantro, salt, and black pepper.",
+    "Arrange the rolled-out corn tortillas in a galette pattern on a baking sheet lined with parchment paper.",
+    "Spoon the corn and cheese mixture onto the center of the tortillas, leaving a 1-inch border around the edges.",
+    "Fold the edges of the tortillas up over the filling to form a crust.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown and the filling is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "french-mexican",
+    "galette",
+    "gluten-free",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "magical-mexican-french-corn-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mexican-french-corn-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:59:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "corn tortillas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "corn",
+    "descriptor": "Magical Mexican",
+    "dishForm": "Galette"
+  }
+}
