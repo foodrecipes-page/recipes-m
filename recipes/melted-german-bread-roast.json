@@ -1,0 +1,88 @@
+{
+  "title": "Melted German Bread Roast",
+  "description": "A warm, flaky roast of rye bread topped with herbed butter and a lightly baked egg glaze, perfect for a romantic dinner.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rye bread loaf",
+      "amount": "1 loaf (≈500g)",
+      "notes": "slice into 12 even pieces"
+    },
+    {
+      "name": "Bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons, melted",
+      "notes": "melted and mixed with garlic"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1 large, tempered with 1 tablespoon warm water"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C and line a baking sheet with parchment paper.",
+    "In a small bowl, combine the melted butter, minced garlic, chopped thyme, salt, and baking soda; stir until the baking soda dissolves.",
+    "Brush each sliced bread piece on both sides with the garlic butter mixture, ensuring even coverage.",
+    "Arrange the bread slices in a single layer on the prepared baking sheet.",
+    "Bake the bread slices for 10 minutes, or until they are golden and slightly crispy.",
+    "While the bread is baking, whisk the egg yolk with 1 tablespoon of warm water until smooth; this is your tempered egg wash.",
+    "After the initial bake, remove the sheet from the oven, brush the tops of the bread slices with the tempered egg wash, and return to the oven.",
+    "Continue baking for an additional 8 minutes, or until the bread is melted, bubbly, and the edges are crisp."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "german",
+    "dinner"
+  ],
+  "slug": "melted-german-bread-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-german-bread-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:59:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bread",
+    "descriptor": "Melted",
+    "dishForm": "Roast"
+  }
+}

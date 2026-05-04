@@ -1,0 +1,102 @@
+{
+  "title": "Magnificently Crispy German Sardine Skewers",
+  "description": "A funky and fluffy German dish featuring crispy fried sardines, perfect as a hangover cure, and is paleo-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the coconut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together almond flour, onion powder, garlic powder, salt, and black pepper.",
+    "In a separate bowl, whisk together eggs and lemon juice.",
+    "Add the chopped sardines to the egg mixture and stir until they are well coated.",
+    "Add the sardine mixture to the almond flour mixture and stir until the sardines are evenly coated.",
+    "Thread the coated sardines onto skewers, leaving a small space between each sardine.",
+    "Deep fry the sardine skewers in the preheated coconut oil for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the chopped parsley over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "magnificently-crispy-german-sardine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-crispy-german-sardine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:58:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sardines",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sardines",
+    "descriptor": "Magnificently Crispy",
+    "dishForm": "Skewers"
+  }
+}
