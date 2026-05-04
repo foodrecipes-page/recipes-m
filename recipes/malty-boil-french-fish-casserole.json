@@ -1,0 +1,111 @@
+{
+  "title": "Malty Boil French Fish Casserole",
+  "description": "A paleo-friendly, cheesy casserole with a malty twist, perfect for meal prep.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Malty boil spice mix",
+      "amount": "2 tbsp",
+      "notes": "available at most specialty stores or online"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "unsalted for paleo friendliness"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "almond flour or coconut flour for paleo version"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "250ml",
+      "notes": "or dairy alternative for paleo version"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1 bunch",
+      "notes": "fresh for best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C. ",
+    "Boil the cod fillets in salted water for 5 minutes. ",
+    "Prepare the malty boil spice mix according to package instructions. ",
+    "Melt the butter in a pan over medium heat. ",
+    "Add the flour and cook for 1 minute, stirring constantly. ",
+    "Slowly add in the whole milk, whisking continuously. ",
+    "Bring the mixture to a simmer and cook for 2 minutes, or until thickened. ",
+    "Stir in the Gruyère cheese until melted and smooth. ",
+    "Add the parsley, salt, and pepper to the cheese sauce and stir to combine. ",
+    "Place the cooked cod fillets in the bottom of a baking dish. ",
+    "Pour the cheese sauce over the cod. ",
+    "Sprinkle the malty boil spice mix on top of the cheese sauce. ",
+    "Cover the dish with aluminum foil and bake for 15 minutes. ",
+    "Remove the foil and continue baking for an additional 5 minutes, or until golden brown. ",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fish",
+    "high-protein",
+    "malty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "malty-boil-french-fish-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-boil-french-fish-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "fish seasoning",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "fish",
+    "descriptor": "malty boil",
+    "dishForm": "casserole"
+  }
+}
