@@ -1,0 +1,103 @@
+{
+  "title": "Magical Medicinal Turkish Beans Kuru Fasulye",
+  "description": "A traditional Turkish dish featuring fermented beans, phyllo dough, and shio-cure, known for its potential hangover-curing properties. It is a raw-friendly, glassy-jelly textured dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "navy or cannellini beans work well"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "usually found in freezer section"
+    },
+    {
+      "name": "shio koji",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with salt"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the dried white beans in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot with enough water to cover them.",
+    "Bring the beans to a boil, then reduce the heat and let simmer for 45 minutes or until they are tender.",
+    "While the beans are cooking, prepare the phyllo dough according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion, garlic, carrot, and celery until they are softened.",
+    "Add the cooked beans, shio koji, salt, and black pepper to the skillet and stir to combine.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with olive oil.",
+    "Add the bean and vegetable mixture to the phyllo dough and fold the dough over to seal.",
+    "Bake the kuru fasulye in a preheated oven at 375 degrees for 25 minutes or until the phyllo dough is golden brown.",
+    "Let the dish cool before serving, allowing the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "hangover-cure",
+    "turkish-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "magical-medicinal-turkish-beans-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-medicinal-turkish-beans-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:42:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "shio-cure",
+    "primaryIngredient": "phyllo dough",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Magical Medicinal",
+    "dishForm": "Kuru Fasulye"
+  }
+}
