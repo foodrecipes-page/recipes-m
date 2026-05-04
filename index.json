@@ -405,6 +405,21 @@
     "shard": "m"
   },
   {
+    "slug": "malty-argentinian-broccoli-hash",
+    "title": "malty Argentinian broccoli Hash",
+    "tags": [
+      "argentinian",
+      "breakfast",
+      "dairy-free",
+      "hash",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
     "slug": "malty-british-eggplant-fish-and-chips",
     "title": "Malty British Eggplant Fish And Chips",
     "tags": [
@@ -479,6 +494,24 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-tenders-argentinian-empanada-bake",
+    "title": "Malty Tenders Argentinian Empanada Bake",
+    "tags": [
+      "argentinian",
+      "beef",
+      "brunch",
+      "empanada",
+      "gluten-free",
+      "kosher",
+      "low-carb",
+      "sunday",
+      "weekend"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -5912,6 +5945,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 65,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-dense-british-meat-sunday-roast",
+    "title": "Mustardy Dense British Meat Sunday Roast",
+    "tags": [
+      "beef",
+      "british",
+      "cornish",
+      "kid-friendly",
+      "mustard",
+      "sunday-roast"
+    ],
+    "cuisine": "Cornish",
+    "totalTimeMin": 140,
     "shard": "m"
   },
   {

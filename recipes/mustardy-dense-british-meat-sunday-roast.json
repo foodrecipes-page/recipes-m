@@ -1,0 +1,115 @@
+{
+  "title": "Mustardy Dense British Meat Sunday Roast",
+  "description": "A traditional British dish with a kick of spicy mustard and the tanginess of pickle. This recipe caters to a Cornish diet, making it suitable for various tastes and dietary needs.",
+  "cuisine": "Cornish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "2 tbsp",
+      "notes": "Whole or ground seeds work well."
+    },
+    {
+      "name": "Whole Pickle",
+      "amount": "150g",
+      "notes": "Use any sweet pickle, preferably homemade."
+    },
+    {
+      "name": "Enchilada Sauce",
+      "amount": "250g",
+      "notes": "A key component for flavor. Use any brand."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 med",
+      "notes": "Chopped finely for roasting."
+    },
+    {
+      "name": "Carrot",
+      "amount": "4 long",
+      "notes": "Chopped for roasting."
+    },
+    {
+      "name": "Potato",
+      "amount": "5 med",
+      "notes": "Chopped for roasting."
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": "Use for roasting and as a garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the brisket."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the beef brisket with salt and black pepper. ",
+    "Heat the vegetable oil in a large pan over medium heat. Sear the brisket on all sides until browned.",
+    "Transfer the pan to the preheated oven and roast for 30 minutes.",
+    "Add the chopped onion, carrot, and potato to the pan. Continue roasting for 1 hour.",
+    "Mix the mustard seeds, pickle, and enchilada sauce in a bowl. Brush the mixture onto the brisket every 20 minutes for the remaining 30 minutes of roasting time.",
+    "Garnish with fresh thyme before serving.",
+    "Let the roast rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 110,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "british",
+    "cornish",
+    "kid-friendly",
+    "mustard",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 90,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "mustardy-dense-british-meat-sunday-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-dense-british-meat-sunday-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "satvik",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Meat",
+    "descriptor": "Mustardy dense",
+    "dishForm": "Sunday Roast"
+  }
+}

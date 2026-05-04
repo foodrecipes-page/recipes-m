@@ -1,0 +1,101 @@
+{
+  "title": "malty Argentinian broccoli Hash",
+  "description": "A hearty, malty, and flavorful hash made with purple sprouting broccoli, served with a side of ferment-jang.",
+  "cuisine": "argentinian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute more.",
+    "Add the broccoli and cook until tender, about 5 minutes.",
+    "Add the sweet potato and cook until tender, about 10 minutes.",
+    "Add the ferment-jang and stir to combine.",
+    "Season with cumin and smoked paprika.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve immediately, enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "dairy-free",
+    "hash",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "malty-argentinian-broccoli-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-argentinian-broccoli-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:07Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "broccoli",
+    "descriptor": "malty",
+    "dishForm": "Hash"
+  }
+}

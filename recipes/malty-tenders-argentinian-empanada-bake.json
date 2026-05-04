@@ -1,0 +1,141 @@
+{
+  "title": "Malty Tenders Argentinian Empanada Bake",
+  "description": "Tender, flaky empanadas filled with a sweet and spicy beef mixture, served with a side of malty malbec-glazed onions. Perfect for a weekend brunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lard",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced pickle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Malty malbec wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Combine beef, sriracha, diced pickle, malty malbec wine, chopped onion, salt, black pepper, and baking powder in a bowl and mix well.",
+    "Roll out dough to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Brush edges with beaten eggs and fold dough over filling to form a half-circle shape.",
+    "Press edges with a fork to seal.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool for 5 minutes before serving.",
+    "Glaze onions with melted butter and malty malbec wine, then sprinkle with chopped fresh parsley.",
+    "Serve empanadas with onions on the side.",
+    "Adjust seasoning as needed.",
+    "Serve warm, garnished with chopped fresh parsley.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Reheat in a 350°F (180°C) oven for 10-15 minutes or until warmed through.",
+    "Serve with a side of malty malbec-glazed onions.",
+    "Glaze onions with melted butter and malty malbec wine, then sprinkle with chopped fresh parsley.",
+    "Serve warm.",
+    "Adjust seasoning as needed.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Reheat in a 350°F (180°C) oven for 10-15 minutes or until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "beef",
+    "brunch",
+    "empanada",
+    "gluten-free",
+    "kosher",
+    "low-carb",
+    "sunday",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "malty-tenders-argentinian-empanada-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-tenders-argentinian-empanada-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "sriracha",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Empanada",
+    "descriptor": "Malty Tenders",
+    "dishForm": "Bake"
+  }
+}
