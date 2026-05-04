@@ -1,0 +1,106 @@
+{
+  "title": "Minty Fresh British Doner Salad",
+  "description": "A refreshing low‑carb British salad with sliced doner meat, fresh mint, and a glassy lemon‑yogurt dressing.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "100g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "150g",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "10g"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "20g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Lay the salad greens on a large bowl.",
+    "Add the sliced cucumber, chopped tomato, and thinly sliced onion on top of the greens.",
+    "Place the sliced doner meat over the vegetables.",
+    "In a small bowl whisk the yogurt, lemon juice, olive oil, salt, and pepper until smooth.",
+    "Pour the dressing over the salad and toss gently to coat.",
+    "Garnish with fresh mint leaves.",
+    "Serve immediately for the best flavor.",
+    "Enjoy the bright, minty fresh taste with a low‑carb British twist."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "healthy",
+    "low-carb",
+    "minty",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 570,
+    "protein": 35,
+    "carbs": 18,
+    "fat": 40
+  },
+  "slug": "minty-fresh-british-doner-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-fresh-british-doner-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:46:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "doner meat",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Doner",
+    "descriptor": "Minty Fresh",
+    "dishForm": "Salad"
+  }
+}
