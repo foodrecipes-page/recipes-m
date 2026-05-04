@@ -1,0 +1,114 @@
+{
+  "title": "Mustardy Zesty Vietnamese Tomatoes Curry",
+  "description": "A bright, mustard-infused tomato curry with a crunchy tadka, using canned tomatoes and fresh herbs for an energizing, Jain-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tomatoes",
+      "amount": "400g",
+      "notes": "peeled, crushed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "crushed"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "optional for creaminess"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat.",
+    "Add mustard seeds and cumin seeds, letting them splutter for 15 seconds.",
+    "Stir in grated ginger, crushed lemongrass, turmeric, chili powder, and ground coriander, cooking for 1 minute until fragrant.",
+    "Pour in the canned tomatoes and stir to combine.",
+    "Simmer the mixture for 10 minutes, allowing the flavors to meld.",
+    "Fold in coconut milk if using, and bring to a gentle boil.",
+    "Reduce heat and let the curry cook for an additional 5 minutes.",
+    "Remove from heat and stir in lime juice and chopped cilantro.",
+    "Serve hot over steamed white rice or quinoa.",
+    "Optional: garnish with extra cilantro leaves for freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "low-fat",
+    "one-pot",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "mustardy-zesty-vietnamese-tomatoes-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-zesty-vietnamese-tomatoes-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:53:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Mustardy Zesty",
+    "dishForm": "Curry"
+  }
+}
