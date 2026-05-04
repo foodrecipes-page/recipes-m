@@ -1,0 +1,98 @@
+{
+  "title": "Melted Chili Russian Cheese Pizza",
+  "description": "A quick, low-carb yeasty pizza that simmers in a lazy-susan-spinner, topped with spicy chili flakes and creamy cheese for a comforting sick-day treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "150g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "110ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine 150g almond flour, 1 tsp baking powder, 0.5 tsp salt, and 1 tsp instant yeast.",
+    "Stir in 110ml warm water and 1 large beaten egg until a smooth dough forms.",
+    "Let the dough rest for 10 minutes to activate the yeast.",
+    "Heat a lazy-susan-spinner on medium and lightly oil its surface.",
+    "Roll out the dough into a circle that fits the spinner and place it on the heated surface.",
+    "Sprinkle 100g shredded cheddar cheese evenly over the dough.",
+    "Add 1 tsp chili flakes, 0.5 tsp smoked paprika, and drizzle 1 tbsp olive oil on top of the cheese.",
+    "Cook the pizza for 8 minutes, flipping once, until the cheese melts and edges turn golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "snack",
+    "yeast-pizza"
+  ],
+  "nutrition": {
+    "calories": 1160,
+    "protein": 61,
+    "carbs": 7,
+    "fat": 97
+  },
+  "slug": "melted-chili-russian-cheese-pizza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-chili-russian-cheese-pizza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:49:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "chilli flakes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cheese",
+    "descriptor": "Melted Chili",
+    "dishForm": "Pizza"
+  }
+}

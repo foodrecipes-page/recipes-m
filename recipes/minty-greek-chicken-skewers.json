@@ -1,0 +1,123 @@
+{
+  "title": "Minty Greek Chicken Skewers",
+  "description": "Grassy, snappy, kid-friendly Greek chicken skewers served with a creamy mint sauce, blanched for tenderness.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "600g",
+      "notes": "cut into 1.5cm cubes"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "4 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "fresh mint leaves, chopped",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sauce and blanching"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1",
+      "notes": "for sauce"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "18",
+      "notes": "soaked 30 minutes"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1/2 cup",
+      "notes": "optional side"
+    }
+  ],
+  "instructions": [
+    "Soak bamboo skewers in water for 30 minutes to prevent burning.",
+    "In a bowl combine creme fraiche, Greek yogurt, mint, garlic, lemon juice, olive oil, oregano, cumin, salt, and pepper to create a creamy mint sauce.",
+    "Add chicken cubes to the sauce, toss until coated, cover, and refrigerate for 15 minutes.",
+    "Heat a nonstick pan over medium-high heat and blanch chicken cubes for 1 minute, then transfer to a sheet.",
+    "Thread blanched chicken onto soaked skewers, leaving a small gap between pieces.",
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Place skewers on the sheet and bake for 10 minutes, turning once, until chicken is cooked through and juices run clear.",
+    "Remove from oven, let rest 2 minutes, then drizzle with extra mint sauce.",
+    "Serve warm with a side of cucumber slices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "kid-friendly",
+    "low-glycemic",
+    "quick",
+    "souvlaki"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 27,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "minty-greek-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-greek-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:48:48Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "creme fraiche",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Minty",
+    "dishForm": "Skewers"
+  }
+}
