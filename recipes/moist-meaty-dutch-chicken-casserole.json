@@ -1,0 +1,93 @@
+{
+  "title": "Moist Meaty Dutch Chicken Casserole",
+  "description": "A savory and dense Dutch dish featuring rosemary and lacquer-glaze, perfect for a low-calorie friendly meal prep option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded reduced-fat cheddar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat and cook the chicken until browned, about 5 minutes.",
+    "Add the diced onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "In a large bowl, combine the cooked chicken, brown rice, rosemary, lacquer glaze, and chicken broth, and stir until well combined.",
+    "In a greased 9x13 inch baking dish, add the chicken and rice mixture and top with shredded reduced-fat cheddar.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "meal-prep",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "moist-meaty-dutch-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-meaty-dutch-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:25:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "rosemary",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Moist Meaty",
+    "dishForm": "Casserole"
+  }
+}
