@@ -1,0 +1,106 @@
+{
+  "title": "Mirthful Middle Eastern Semolina Gratin",
+  "description": "A vegan, bouncy-qq semolina gratin with a crispy robata‑grill crust, sweet maple syrup, and fragrant spices, perfect for a whimsical brunch dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "amount": "250g"
+    },
+    {
+      "name": "vegan shortening",
+      "amount": "150g"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "300ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "80g"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted pistachios, roughly chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "chopped dried apricots",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F).",
+    "Turn on the robata grill to medium‑high heat.",
+    "In a large bowl, combine semolina, cardamom, cinnamon, salt and lemon zest until well mixed.",
+    "Add the vegan shortening to the dry mixture and mix until crumbly and clumpy.",
+    "In a small saucepan, heat almond milk, maple syrup and orange blossom water until just simmering, then remove from heat.",
+    "Pour the warm liquid over the semolina mixture and stir until the grains are tender and the mixture is moist.",
+    "Grease a 9‑inch Dutch oven and press the mixture into an even layer.",
+    "Transfer the Dutch oven to the preheated robata grill and sear for 2 minutes on each side to form a crust.",
+    "Return the Dutch oven to the oven and bake for 15 minutes until golden brown.",
+    "Remove from heat, sprinkle toasted pistachios and chopped apricots over the top, drizzle a little extra maple syrup, and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bouncy-qq",
+    "brunch",
+    "dessert",
+    "easy",
+    "knafeh-style",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "mirthful-middle-eastern-semolina-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mirthful-middle-eastern-semolina-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:37:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "shortening",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Semolina",
+    "descriptor": "Mirthful",
+    "dishForm": "Gratin"
+  }
+}
