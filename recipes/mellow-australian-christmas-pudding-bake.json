@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Australian Christmas Pudding Bake",
+  "description": "A briny and pillowy one-pot Australian dish featuring Christmas pudding, perfect for the holiday season, with a high-protein twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 cup",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, yogurt, and lemon juice.",
+    "Add the crumbled Christmas pudding, cooked shrimp, feta cheese, and chopped spinach to the bowl and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve warm, garnished with additional chopped spinach and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "briny",
+    "christmas",
+    "high-protein",
+    "mushimono-steam",
+    "one-pot",
+    "pillowy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mellow-australian-christmas-pudding-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-australian-christmas-pudding-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:56:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "christmas pudding",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Mellow Mushy",
+    "dishForm": "Pudding"
+  }
+}
