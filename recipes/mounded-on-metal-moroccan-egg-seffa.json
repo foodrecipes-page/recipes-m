@@ -1,0 +1,101 @@
+{
+  "title": "Moroccan Egg Seffa",
+  "description": "A traditional Moroccan dish made by cooking eggs on a metal seffa (a type of tava griddle) with pickled vegetables, creating a jammy and snappy texture that kids love.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick tava griddle or a metal seffa over medium heat.",
+    "In a small bowl, whisk together the eggs and a pinch of salt.",
+    "Add a small amount of olive oil to the hot pan and swirl it around.",
+    "Add the sliced onion and cook until it starts to soften, about 2-3 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Pour in the whisked eggs and let them cook for about 30 seconds.",
+    "Use a spatula to gently lift and fold the edges of the egg mixture towards the center.",
+    "Continue cooking and folding the eggs until they are almost set, about 2-3 minutes.",
+    "Sprinkle the chopped parsley and pickle slices over the top of the eggs.",
+    "Use your spatula to gently fold the eggs over the pickles and parsley.",
+    "Cook for another minute, until the eggs are fully set and the pickles are heated through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "moroccan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "mounded-on-metal-moroccan-egg-seffa",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mounded-on-metal-moroccan-egg-seffa",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:55:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "egg",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "egg",
+    "descriptor": "Mounded on Metal",
+    "dishForm": "Seffa"
+  }
+}
