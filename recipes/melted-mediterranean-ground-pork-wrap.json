@@ -1,0 +1,120 @@
+{
+  "title": "Melted Mediterranean Ground Pork Wrap",
+  "description": "A fresh, glassy-jelly wrap filled with seasoned ground pork, feta, roasted red pepper and herbs, served in a cozy corn husk for a crowd-pleasing Mediterranean keto treat.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crumbled goat cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8-10",
+      "notes": "soaked 30 min"
+    },
+    {
+      "name": "sugar substitute (erythritol)",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat and sauté ground pork until browned, about 5 minutes.",
+    "Add salt, crushed pepper flakes, and lemon juice to the pork, cooking until fragrant, about 2 minutes.",
+    "Stir in roasted red peppers, basil, and feta cheese, cooking until the cheese melts and sauce becomes glossy, about 4 minutes.",
+    "Remove skillet from heat and fold in goat cheese and mint until well combined.",
+    "While the filling is still hot, spoon generous portions onto soaked corn husks, forming small bowls.",
+    "Fold the sides of each husk over the filling and roll tightly to enclose the contents.",
+    "Place the wrapped husks in a steamer basket and steam for 6 minutes to heat through and soften the husk.",
+    "Serve immediately, optionally drizzled with a squeeze of lemon or a sprinkle of fresh herbs, and enjoy the melt and crunch."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "corn-husk-wrap",
+    "crowd-pleaser",
+    "glassy-sauce",
+    "keto-friendly",
+    "low-carb",
+    "mediterranean",
+    "no-gluten"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "melted-mediterranean-ground-pork-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-mediterranean-ground-pork-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:05:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "candy",
+    "primaryIngredient": "ground pork",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Ground Pork",
+    "descriptor": "Melted",
+    "dishForm": "Wrap"
+  }
+}
