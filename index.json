@@ -3402,6 +3402,21 @@
     "shard": "m"
   },
   {
+    "slug": "mildly-spiced-algerian-chicken-tagine",
+    "title": "Mildly Spiced Algerian Chicken Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "slow-cooked",
+      "spicy",
+      "sweet-and-savory"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "m"
+  },
+  {
     "slug": "mildly-spiced-croatian-lamb-bake",
     "title": "Mildly Spiced Croatian Lamb Bake",
     "tags": [
@@ -4218,6 +4233,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-roasted-brazilian-hind-shank-stew",
+    "title": "Moist Roasted Brazilian Hind Shank Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "slow-cooked",
+      "wine-based"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 180,
     "shard": "m"
   },
   {
