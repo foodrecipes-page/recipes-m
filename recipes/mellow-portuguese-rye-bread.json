@@ -1,0 +1,109 @@
+{
+  "title": "Mellow Portuguese Rye Bread",
+  "description": "A hearty, anti-inflammatory-friendly Portuguese rye bread perfect for hangover cures or satisfying snacks.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "high-fiber"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/4 cups",
+      "notes": "warm to the touch"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rye flour, whole wheat flour, and salt.",
+    "In a separate bowl, proof yeast by mixing it with warm water; let it sit for 5 minutes.",
+    "Add the yeast mixture to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and shape it into a round or oblong loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, sprinkle with caraway seeds and sesame seeds.",
+    "Bake the loaf in the preheated oven for 25-30 minutes, or until it's golden brown and sounds hollow when tapped on the bottom.",
+    "Brush the loaf with olive oil and drizzle with apple cider vinegar while still warm.",
+    "Let the loaf cool on a wire rack for at least 30 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free-bread",
+    "hangover-cure",
+    "one-pan",
+    "portuguese-bread",
+    "rye-bread",
+    "snacking"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "mellow-portuguese-rye-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-portuguese-rye-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:11:10Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "rye",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rye",
+    "descriptor": "Mellow",
+    "dishForm": "Bread"
+  }
+}
