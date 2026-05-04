@@ -1,0 +1,119 @@
+{
+  "title": "Mushy Isaan Jackfruit Tom Yum",
+  "description": "A vegan tom yum with juicy jackfruit, pickled cucumber juice, and a glassy-jelly broth that captures the adventurous spirit of Isaan.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "young green jackfruit in brine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce (vegan substitute)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pickled cucumber juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shiitake mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger, sliced",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "galangal, sliced",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime",
+      "notes": ""
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "to garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat and pour in the vegetable broth.",
+    "Add the tamarind pulp, soy sauce, pickled cucumber juice, and chili flakes; stir until the mixture simmers.",
+    "Insert the sliced ginger and galangal, letting them infuse for 2 minutes.",
+    "Add the young green jackfruit pieces and mushrooms; cook until the jackfruit turns soft and the broth thickens to a glassy-jelly consistency, about 12 minutes.",
+    "Stir in the coconut milk and lime juice, adjusting the heat to keep the broth at a gentle simmer for 3 minutes.",
+    "Taste and add more soy sauce or lime juice if acidity is needed.",
+    "Ladle the soup into bowls and garnish with fresh cilantro leaves.",
+    "Serve hot, accompanied by steamed jasmine rice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "isaan",
+    "jackfruit",
+    "pickled",
+    "tom-yum",
+    "vegan",
+    "yakimono"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "mushy-isaan-jackfruit-tom-yum",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushy-isaan-jackfruit-tom-yum",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:39:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pickle juice",
+    "diet": "vegan",
+    "region": "isaan",
+    "cuisineAdjective": "Isaan",
+    "mainIngredient": "jackfruit",
+    "descriptor": "Mushy",
+    "dishForm": "Tom Yum"
+  }
+}
