@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Smoked Vietnamese Chicken Noodles",
+  "description": "A buttery and silky Vietnamese dish featuring medjool dates and smoked chicken, perfect for meal prep. This dish is dash-friendly and can be prepared in under an hour.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large bowl, whisk together the fish sauce, lime juice, smoked paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Heat the butter in a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "Add the medjool dates to the skillet and cook for an additional 2 minutes.",
+    "Drain the noodles and add them to the skillet, tossing to combine with the chicken and dates.",
+    "Stir in the chopped scallions and cook for an additional minute.",
+    "Serve the noodles hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "meal-prep",
+    "noodle-dish",
+    "smoked-chicken",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mildly-smoked-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoked-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:49:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "smoke-cold",
+    "primaryIngredient": "medjool dates",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly smoked",
+    "dishForm": "Noodles"
+  }
+}
