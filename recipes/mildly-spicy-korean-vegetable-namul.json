@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Spicy Korean Vegetable Namul",
+  "description": "A fresh and velvety one-pot Korean dish featuring rose water and ferment-jang, perfect for a dairy-free friendly meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a donabe over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced zucchini and grated carrots, cooking for 3-4 minutes until they start to soften.",
+    "In a small bowl, whisk together the rose water, ferment-jang, and soy sauce, then pour the mixture over the vegetables.",
+    "Stir in the chopped green onions, toasted sesame seeds, salt, and black pepper.",
+    "Reduce heat to low and simmer, covered, for 10 minutes until the vegetables are tender.",
+    "Serve the namul hot, garnished with additional green onions and sesame seeds if desired.",
+    "Let it cool slightly before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "flavorful",
+    "healthy",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "mildly-spicy-korean-vegetable-namul",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-korean-vegetable-namul",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:52:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "ferment-jang",
+    "primaryIngredient": "rose water",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "mildly spicy",
+    "dishForm": "Namul"
+  }
+}
