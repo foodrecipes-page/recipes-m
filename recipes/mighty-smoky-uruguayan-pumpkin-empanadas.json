@@ -1,0 +1,113 @@
+{
+  "title": "Mighty Smoky Uruguayan Pumpkin Empanadas",
+  "description": "Earthy, crunchy empanadas with smoky pumpkin and creamy cheese, perfect for midnight cravings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "800 g",
+      "notes": "peeled, cubed, and roasted until tender"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "3 tbsp",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "for warmth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "200 g",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 tbsp",
+      "notes": "enhances smokiness"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "adds sharpness"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "12 discs (12x12 cm)",
+      "notes": "pre-made or homemade"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "In a skillet, heat olive oil over medium heat, add pumpkin cubes, and sauté for 8-10 minutes until lightly browned.",
+    "Stir in smoked paprika, cumin, salt, and pepper; cook for another 2 minutes until fragrant.",
+    "Remove from heat and let the mixture cool slightly, then fold in softened cream cheese, smoked salt, and grated Parmesan until well combined.",
+    "Place a spoonful of the pumpkin filling onto each empanada dough disc, leaving an edge.",
+    "Fold dough over the filling to form a half-moon shape and press edges with a fork to seal.",
+    "Brush each empanada with beaten egg to give a golden crust.",
+    "Bake for 15-18 minutes, or until the dough is puffed and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "empanadas",
+    "pumpkin",
+    "quick",
+    "smoky",
+    "snack",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 3688,
+    "protein": 82,
+    "carbs": 306,
+    "fat": 184
+  },
+  "slug": "mighty-smoky-uruguayan-pumpkin-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-smoky-uruguayan-pumpkin-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:08:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cream cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Mighty Smoky",
+    "dishForm": "Empanadas"
+  }
+}
