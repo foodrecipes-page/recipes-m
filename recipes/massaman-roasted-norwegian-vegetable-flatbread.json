@@ -1,0 +1,97 @@
+{
+  "title": "Massaman Roasted Norwegian Vegetable Flatbread",
+  "description": "A light and flavorful Norwegian dish featuring Massaman paste and roasted vegetables, perfect for a date night. This ovo-vegetarian friendly recipe is made with long fermentation dough and cooked on a tava griddle.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long fermentation dough",
+      "amount": "1 pound",
+      "notes": "allowed to ferment for 24 hours"
+    },
+    {
+      "name": "Massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Norwegian carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to 400 degrees Fahrenheit.",
+    "Roll out the long fermentation dough to a thickness of 1/4 inch.",
+    "Spread the Massaman paste evenly over the dough, leaving a 1 inch border around the edges.",
+    "Arrange the chopped carrots, Brussels sprouts, and red onion on one half of the dough.",
+    "Fold the other half of the dough over the vegetables to form a half moon shape.",
+    "Brush the edges of the dough with olive oil and press gently to seal.",
+    "Place the flatbread on the preheated tava griddle and cook for 20 minutes, flipping halfway through.",
+    "While the flatbread is cooking, fry the eggs in a pan with a little olive oil until the whites are set and the yolks are cooked to desired doneness.",
+    "Once the flatbread is cooked, top it with the fried eggs, crumbly feta cheese, and a sprinkle of chopped fresh herbs.",
+    "Slice the flatbread into wedges and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flatbread",
+    "massaman-paste",
+    "norwegian-cuisine",
+    "roasted-vegetables",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "massaman-roasted-norwegian-vegetable-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/massaman-roasted-norwegian-vegetable-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:18:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "massaman-paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Massaman Roasted",
+    "dishForm": "Flatbread"
+  }
+}

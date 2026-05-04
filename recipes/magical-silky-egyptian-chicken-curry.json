@@ -1,0 +1,100 @@
+{
+  "title": "Magical Silky Egyptian Chicken Curry",
+  "description": "A spicy and silky Egyptian dish featuring panang paste, steam, and ayurvedic rajasic friendly ingredients, this curry is a quick fix for any meal. It combines the flavors of Egypt with the warmth of Indian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken to the pan and cook until it is browned on all sides.",
+    "Add the panang paste to the pan and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "magical-silky-egyptian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-silky-egyptian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:17:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "panang-paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Magical Silky",
+    "dishForm": "Curry"
+  }
+}

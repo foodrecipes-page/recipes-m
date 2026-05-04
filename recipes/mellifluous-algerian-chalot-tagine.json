@@ -1,0 +1,107 @@
+{
+  "title": "Mellifluous Algerian Chalot Tagine",
+  "description": "A resinous, date-night Algerian dish featuring bouncy-qq chalots and katsuramuki-cut shrimp in a low-carb-friendly tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "chalots",
+      "amount": "4, sliced (katsuramuki-cut)"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "400g, cut into 2cm pieces"
+    },
+    {
+      "name": "dates",
+      "amount": "200g, pitted and chopped"
+    },
+    {
+      "name": "mixed veggies",
+      "amount": "200g (carrots & zucchini, sliced)"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "150ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a tagine over medium heat until shimmering.",
+    "Add the diced onion and sauté for 3 minutes until translucent.",
+    "Stir in the sliced chalots and cook for 4 minutes until they soften.",
+    "Mix in 1 teaspoon cumin, 1 teaspoon paprika, and 1/2 teaspoon cinnamon, cooking for 1 minute to release aromas.",
+    "Add the chicken pieces and brown them on all sides, about 5 minutes.",
+    "Pour in the dates, mixed veggies, and chicken broth, then bring the mixture to a gentle simmer.",
+    "Cover the tagine, reduce heat to low, and simmer for 25 minutes until the chicken is tender and the sauce thickens.",
+    "Finish by squeezing in lemon juice, seasoning with salt and pepper, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "bouncy-qq",
+    "date-night",
+    "katsuramuki-cut",
+    "low-carb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "mellifluous-algerian-chalot-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellifluous-algerian-chalot-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:17:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "challots",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chalot",
+    "descriptor": "Mellifluous",
+    "dishForm": "Tagine"
+  }
+}
