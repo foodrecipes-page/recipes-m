@@ -1,0 +1,104 @@
+{
+  "title": "Mushy Irish Potato Casserole",
+  "description": "A comforting Irish dish with pillowy mashed potatoes, tangy nuka-pickle, and a splash of apple cider vinegar, served from a bamboo tray for a rustic touch.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "600g",
+      "notes": "medium, peeled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "vegan butter substitute",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegan shredded cheese",
+      "amount": "½ cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and oil a bamboo tray lightly.",
+    "Boil the peeled potatoes in salted water for 15 minutes until tender.",
+    "Drain the potatoes and mash them with a potato masher until smooth.",
+    "Stir in olive oil, salt, pepper, garlic, and almond milk until the mixture is creamy.",
+    "Fold in the chopped nuka-pickle, apple cider vinegar, and vegan butter substitute.",
+    "Transfer the mash into the prepared bamboo tray and spread evenly.",
+    "Sprinkle the shredded cheese and scallions on top of the mash.",
+    "Bake the casserole for 20 minutes until the top is golden and the edges are bubbling.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to settle.",
+    "Slice the casserole into portions and serve hot.",
+    "Serve immediately for a comforting Irish experience."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ],
+  "slug": "mushy-irish-potato-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushy-irish-potato-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:39:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Mushy",
+    "dishForm": "Casserole"
+  }
+}

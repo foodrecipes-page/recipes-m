@@ -4131,6 +4131,20 @@
     "shard": "m"
   },
   {
+    "slug": "minty-french-berries-tart",
+    "title": "Minty French Berries Tart",
+    "tags": [
+      "dessert",
+      "flexitarian",
+      "french",
+      "quick",
+      "tart"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
     "slug": "minty-fresh-british-doner-salad",
     "title": "Minty Fresh British Doner Salad",
     "tags": [
@@ -5237,6 +5251,17 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 80,
+    "shard": "m"
+  },
+  {
+    "slug": "mushy-irish-potato-casserole",
+    "title": "Mushy Irish Potato Casserole",
+    "tags": [
+      "irish",
+      "dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {

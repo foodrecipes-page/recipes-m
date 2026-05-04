@@ -1,0 +1,81 @@
+{
+  "title": "Minty French Berries Tart",
+  "description": "A light, nostalgic French tart with a bitter-tinged berry filling and crisp puff pastry.",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "store-bought puff pastry sheet",
+      "amount": "1 sheet (250g)",
+      "notes": "unrolled"
+    },
+    {
+      "name": "frozen mixed berries",
+      "amount": "300g",
+      "notes": "thawed and drained"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "optional sweetener"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Unroll puff pastry onto parchment, trim edges, and press into a tart pan.",
+    "Bake pastry for 10 minutes until lightly golden.",
+    "While pastry bakes, thaw berries, drain, and mix with mint, honey, and lemon zest.",
+    "Remove dough from oven and spread berry filling evenly over crust.",
+    "Bake for an additional 5 minutes until berries caramelize.",
+    "Let cool 5 minutes, dust with powdered sugar, slice, and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "flexitarian",
+    "french",
+    "quick",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "minty-french-berries-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-french-berries-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:38:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "berries",
+    "descriptor": "Minty",
+    "dishForm": "Tart"
+  }
+}
