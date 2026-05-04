@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Citrusy Canadian Salmon Papillote",
+  "description": "A kid-friendly Canadian dish featuring salmon, citrus, and a touch of pink food colouring, all cooked in a papillote to Buddhist-temple-friendly standards",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild-caught, 6 oz each"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pink food colouring",
+      "amount": "5 drops"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "Place a salmon fillet in the center of each parchment paper sheet.",
+    "Drizzle the lemon and orange juice over the salmon fillets.",
+    "Add a few drops of pink food colouring to each salmon fillet.",
+    "Drizzle the olive oil over the salmon fillets.",
+    "Sprinkle the salt and pepper over the salmon fillets.",
+    "Top each salmon fillet with chopped parsley.",
+    "Fold the parchment paper over the salmon fillets to create a papillote.",
+    "Place the papillotes on the prepared baking sheet and bake for 12 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "mildly-citrusy-canadian-salmon-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-citrusy-canadian-salmon-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:06:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "papillote",
+    "primaryIngredient": "pink food colouring",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "mildly citrusy",
+    "dishForm": "Papillote"
+  }
+}
