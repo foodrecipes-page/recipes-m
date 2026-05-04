@@ -1,0 +1,108 @@
+{
+  "title": "Mildly Pungent Syrian Paneer Curry",
+  "description": "A creamy and pungent Syrian dish featuring paneer, this curry is a crowd-pleaser and FODMAP-friendly, made by boiling the ingredients in a flavorful broth.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the cumin seeds until fragrant.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the coriander powder, turmeric powder, and red chili powder, and cook for 1 minute, stirring constantly.",
+    "Add the paneer cubes and cook until they are lightly browned on all sides.",
+    "Add the coconut milk, salt, and water, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the curry for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-pungent-syrian-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-pungent-syrian-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:02:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "paneer",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "paneer",
+    "descriptor": "mildly pungent",
+    "dishForm": "Curry"
+  }
+}

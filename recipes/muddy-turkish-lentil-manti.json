@@ -1,0 +1,113 @@
+{
+  "title": "Muddy Turkish Lentil Manti",
+  "description": "A kid-friendly, earthy Turkish lentil manti that uses soft wonton skins and a sweet-tomato lentil filling. A crumbly, comforting dish served with a light yogurt drizzle.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "wonton skins",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": "for lentils"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "In a medium pot bring 250ml water to a boil, add the lentils, reduce heat, cover, and simmer for 20 minutes until tender.",
+    "Meanwhile, heat 1 tbsp olive oil in a pan and sauté the chopped onion until translucent.",
+    "Add the minced garlic, cumin, oregano, and tomato paste to the pan and cook for 2 minutes more, stirring constantly.",
+    "Drain the cooked lentils and mash them with a fork, then stir in the sautéed onion mixture and season with salt and pepper.",
+    "Prepare a shallow dish of water and lay the wonton skins flat on a clean towel, brushing each with a light coat of water to keep them from sticking.",
+    "Spoon about a teaspoon of the lentil filling onto each wonton skin, fold the edges over, and press to seal, forming small dumplings.",
+    "Bring a large pot of salted water to a boil, drop in the dumplings, and cook for 4-5 minutes until they float and the skins are tender.",
+    "Drain the dumplings and let them rest for 2 minutes before transferring to a serving platter.",
+    "Whisk the yogurt with lemon juice, drizzle over the dumplings, and sprinkle a pinch of paprika for garnish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "earthy",
+    "kid-friendly",
+    "manti",
+    "turkish",
+    "wonton-skin"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 27,
+    "carbs": 117,
+    "fat": 21
+  },
+  "slug": "muddy-turkish-lentil-manti",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/muddy-turkish-lentil-manti",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:02:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "wonton skin",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentil",
+    "descriptor": "Muddy",
+    "dishForm": "Manti"
+  }
+}
