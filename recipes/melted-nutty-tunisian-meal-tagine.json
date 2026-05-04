@@ -1,0 +1,107 @@
+{
+  "title": "Spiced Nutty Tunisian Tagine",
+  "description": "A hearty, comforting Tunisian dish made with toasted almonds, aromatic spices, and tender chicken.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "kaffir lime leaf",
+      "amount": "2 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2 sticks",
+      "notes": "1 inch long"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together cumin seeds, coriander seeds, cinnamon sticks, salt, and black pepper.",
+    "Add the chicken to the spice mixture and toss to coat.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned, about 5 minutes.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the kaffir lime leaf to the pot and cook for 1 minute.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Transfer the pot to the preheated oven and cook, covered, for 25 minutes.",
+    "Stir in the toasted almonds and cook for an additional 5 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "melted-nutty-tunisian-meal-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-nutty-tunisian-meal-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:20:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "meal",
+    "descriptor": "melted nutty",
+    "dishForm": "Tagine"
+  }
+}
