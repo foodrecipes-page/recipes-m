@@ -1,0 +1,90 @@
+{
+  "title": "Mellow Ukrainian Walnuts Crumble",
+  "description": "A funky, crumbly comfort dessert featuring low-glycemic condensed milk and a chilled walnut topping.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts, toasted",
+      "amount": "200g"
+    },
+    {
+      "name": "oat flour",
+      "amount": "50g"
+    },
+    {
+      "name": "cold butter",
+      "amount": "80g"
+    },
+    {
+      "name": "low-glycemic condensed milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "erythritol",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "ice water",
+      "amount": "30ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and line a 20cm square baking dish with parchment.",
+    "Toast walnuts in a dry skillet until fragrant and set aside to cool.",
+    "In a bowl, combine oat flour, cold butter, erythritol, salt, and vanilla, and mix until crumbly.",
+    "Add the low-glycemic condensed milk to the crumb mixture and stir until the topping is moist but not sticky.",
+    "Fold in the toasted walnuts and pour the mixture into the prepared dish, spreading evenly.",
+    "Place the dish in an ice bath with 30ml ice water for 10 minutes to chill the topping before baking.",
+    "Bake for 15 minutes until the edges are golden and the center is set.",
+    "Remove from oven, let cool 5 minutes, then serve warm or chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort",
+    "crumbly",
+    "dessert",
+    "low-glycemic-friendly",
+    "quick",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mellow-ukrainian-walnuts-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-ukrainian-walnuts-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:18:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "condensed milk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "walnuts",
+    "descriptor": "Mellow",
+    "dishForm": "Crumble"
+  }
+}
