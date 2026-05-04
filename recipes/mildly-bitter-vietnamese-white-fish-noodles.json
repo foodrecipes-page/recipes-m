@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Bitter Vietnamese White Fish Noodles",
+  "description": "A kid-friendly Vietnamese dish featuring white fish, dashi-extract, and a balance of bitter and gooey flavors, suitable for flexitarian diets.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "1 pound",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "use the flesh and seeds"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and add the chopped scallions, cooking until fragrant.",
+    "Add the bitter melon flesh and seeds to the skillet and cook, stirring occasionally, until they start to soften.",
+    "Add the dashi extract, fish sauce, soy sauce, and honey to the skillet, stirring to combine.",
+    "Add the white fish fillets to the skillet, spooning some of the sauce over the top of each fillet.",
+    "Reduce the heat to low and simmer, covered, until the fish is cooked through and flakes easily with a fork.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the sauce and fish.",
+    "Season with salt and black pepper to taste.",
+    "Serve the noodles and fish hot, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "flexitarian-friendly",
+    "noodle-dish",
+    "one-pot",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mildly-bitter-vietnamese-white-fish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-bitter-vietnamese-white-fish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:24:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "white fish",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "white fish",
+    "descriptor": "mildly bitter",
+    "dishForm": "Noodles"
+  }
+}
