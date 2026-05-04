@@ -1,0 +1,117 @@
+{
+  "title": "Monsoon Crisp Irish Chicken Stew",
+  "description": "A hearty, comforting stew with a hint of ginger and a crunch of fermented Korean chili paste.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ginger paste and cook for 1 minute.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the chopped celery and cook for 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "Add the flour and stir to coat the chicken and vegetables.",
+    "Gradually add the chicken broth, whisking continuously, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, or until the chicken is cooked through.",
+    "Stir in the ferment-jang and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "gluten-free",
+    "hearty",
+    "high-fiber",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "monsoon-crisp-irish-chicken-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-crisp-irish-chicken-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:13:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ginger paste",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chicken",
+    "descriptor": "Monsoon Crisp",
+    "dishForm": "Stew"
+  }
+}
