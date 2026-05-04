@@ -1,0 +1,89 @@
+{
+  "title": "Magical Juicy Uruguayan Beef Asado",
+  "description": "A light and garlicky Uruguayan dish featuring celery salt, perfect for keto diets.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef flank steak",
+      "amount": "1.5",
+      "notes": "1.5 lbs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Celery salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef with garlic, celery salt, and black pepper.",
+    "Grill the beef for 5-6 minutes per side, or until it reaches an internal temperature of 130°F.",
+    "Let the beef rest for 5 minutes before slicing.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Serve the beef with chimichurri sauce spooned over the top.",
+    "Garnish with fresh parsley or oregano, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celery-salt",
+    "easy-dinner",
+    "garlic-lovers",
+    "grilled-meat",
+    "keto-friendly",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "magical-juicy-uruguayan-beef-asado",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-juicy-uruguayan-beef-asado",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:48:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "celery salt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Magical Juicy",
+    "dishForm": "Asado"
+  }
+}
