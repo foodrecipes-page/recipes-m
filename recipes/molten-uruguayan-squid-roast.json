@@ -1,0 +1,110 @@
+{
+  "title": "Molten Uruguayan Squid Roast",
+  "description": "A dramatic roasted squid dish with a flavorful soffritto base, creating a molten center that melts in your mouth.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "nut-free",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole cleaned squid",
+      "amount": "1 kg",
+      "notes": "cleaned and gutted"
+    },
+    {
+      "name": "diced onions",
+      "amount": "200 g"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "100 g"
+    },
+    {
+      "name": "diced celery",
+      "amount": "100 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "250 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Toss the cleaned squid with olive oil, smoked paprika, oregano, salt, and pepper until evenly coated.",
+    "Sauté onions, carrots, celery, garlic, and bell pepper in a large oven‑proof skillet over medium heat until softened, about 5 minutes.",
+    "Add the squid to the skillet, sear each side for 1‑2 minutes, then pour in white wine and allow it to reduce slightly.",
+    "Deglaze the pan with fish stock, ensuring the liquid covers the base of the skillet, and bring to a gentle simmer.",
+    "Transfer the skillet to the preheated oven and roast for 12‑15 minutes until the squid is just cooked but still tender inside, creating a molten center.",
+    "Remove the skillet from the oven, let the squid rest for 2 minutes, then slice the roasts into thick rings or leave whole for dramatic presentation.",
+    "Serve immediately over a bed of sautéed greens or crusty bread, drizzled with the pan sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "roast",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 40,
+    "carbs": 9,
+    "fat": 10
+  },
+  "slug": "molten-uruguayan-squid-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-uruguayan-squid-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:51:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "soffritto-base",
+    "primaryIngredient": "squid",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "squid",
+    "descriptor": "Molten",
+    "dishForm": "Roast"
+  }
+}
