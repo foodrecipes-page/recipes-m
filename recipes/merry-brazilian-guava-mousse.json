@@ -1,0 +1,84 @@
+{
+  "title": "Merry Brazilian Guava Mousse",
+  "description": "A jammy, shattering mousse that celebrates Brazilian flavors with guava, coconut cream, and a touch of all-purpose seasoning.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh guava puree",
+      "amount": "400g"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "50ml"
+    },
+    {
+      "name": "all-purpose seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stevia powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel, deseede, and puree the guava flesh until smooth, yielding 400g of guava puree.",
+    "Gently heat the coconut milk and heavy cream together in a saucepan over low heat until 40°C, stirring constantly.",
+    "Whisk the stevia powder into the warm coconut‑cream mixture until fully dissolved.",
+    "Add the all‑purpose seasoning to the mixture and stir until evenly distributed.",
+    "Fold the guava puree into the coconut‑cream mixture until fully incorporated.",
+    "Spoon the mousse mixture into four ramekins, smoothing the tops with a spatula.",
+    "Chill the ramekins in the refrigerator for at least 30 minutes to set the mousse.",
+    "Garnish each ramekin with a tablespoon of unsweetened shredded coconut before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "festive",
+    "jammy",
+    "mousse",
+    "ramekin",
+    "shattering",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 147,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "merry-brazilian-guava-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/merry-brazilian-guava-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:19:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Guava",
+    "descriptor": "Merry",
+    "dishForm": "Mousse"
+  }
+}
