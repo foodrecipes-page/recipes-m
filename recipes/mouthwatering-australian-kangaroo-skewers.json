@@ -1,0 +1,100 @@
+{
+  "title": "Mouthwatering Australian Kangaroo Skewers",
+  "description": "A fresh and crunchy Australian dish featuring plum jam and deglaze, perfect for adventurous eaters, this paleo-friendly recipe is a must try for anyone looking to spice up their barbecue game.",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kangaroo meat",
+      "amount": "500g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together plum jam, olive oil, garlic, ginger, lemon juice, salt, and pepper.",
+    "Add the kangaroo meat to the bowl and toss to coat with the marinade.",
+    "Thread the marinated kangaroo meat onto the soaked bamboo skewers.",
+    "Grill the skewers for 4-5 minutes per side, or until the meat is cooked to an internal temperature of 145 degrees.",
+    "While the skewers are cooking, prepare the deglaze by heating a tablespoon of olive oil in a small saucepan over medium heat.",
+    "Add a tablespoon of plum jam to the saucepan and stir to combine with the olive oil.",
+    "Bring the deglaze to a simmer and cook for 2-3 minutes, or until thickened slightly.",
+    "Brush the deglaze over the cooked skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "mouthwatering-australian-kangaroo-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-australian-kangaroo-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:54:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "plum jam",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "kangaroo",
+    "descriptor": "mouthwatering",
+    "dishForm": "Skewers"
+  }
+}
