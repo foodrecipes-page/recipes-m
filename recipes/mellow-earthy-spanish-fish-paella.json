@@ -1,0 +1,98 @@
+{
+  "title": "Mellow Earthy Spanish Fish Paella",
+  "description": "A hearty and earthy Spanish dish featuring fish, nam pla fish sauce, and infused oil, perfect for a post-workout meal. This Buddhist-temple-friendly recipe is free from animal products and by-products.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nam pla fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "marinated and cubed"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large paella pan or skillet over medium heat.",
+    "Add the cubed tofu and cook until golden brown, about 5 minutes.",
+    "Add the mixed vegetables and cook until they start to soften, about 3 minutes.",
+    "Add the smoked paprika, saffron threads, and sea salt, and stir to combine.",
+    "Add the brown rice and stir to combine with the vegetable mixture.",
+    "Add the water and nam pla fish sauce, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove the paella from the heat and let it rest for 5 minutes.",
+    "Serve the paella hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "fish-based",
+    "one-pan",
+    "post-workout",
+    "spanish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mellow-earthy-spanish-fish-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-earthy-spanish-fish-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:54:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "infuse-oil",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "buddhist-temple",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "mellow earthy",
+    "dishForm": "Paella"
+  }
+}
