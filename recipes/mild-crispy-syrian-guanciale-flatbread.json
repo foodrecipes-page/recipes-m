@@ -1,0 +1,102 @@
+{
+  "title": "Mild Crispy Syrian Guanciale Flatbread",
+  "description": "A flaky low-calorie flatbread infused with smoky guanciale and fresh herbs, perfect for a lazy Sunday brunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "70g"
+    },
+    {
+      "name": "cold water",
+      "amount": "50ml"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "guanciale",
+      "amount": "30g",
+      "notes": "cut into 0.5 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk flour, baking powder, salt, oregano, and paprika in a bowl.",
+    "Add cold water and stir until a soft dough forms.",
+    "Let the dough rest for 10 minutes.",
+    "Heat a non-stick pan over medium heat and drizzle a small amount of olive oil.",
+    "Roll the dough into a thin circle and place it in the pan.",
+    "Spread diced guanciale evenly over the dough.",
+    "Sprinkle chopped parsley and lemon zest on top.",
+    "Cover the pan with a lid and cook for 4 minutes.",
+    "Flip the flatbread and cook the other side for 3 minutes until golden and crispy.",
+    "Remove from heat, let rest 2 minutes, then slice and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "flatbread",
+    "lazy-sunday",
+    "low-calorie",
+    "pork",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 11,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "mild-crispy-syrian-guanciale-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-crispy-syrian-guanciale-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:33:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "guanciale",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "guanciale",
+    "descriptor": "Mild Crispy",
+    "dishForm": "Flatbread"
+  }
+}
