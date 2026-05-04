@@ -1,0 +1,103 @@
+{
+  "title": "Mushy Norwegian Tofu Bowl",
+  "description": "A sour and gooey vegetarian bowl with tofu, tomato ketchup and wok-hei flavor, perfect for a cozy date night.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes, then cut into 0.5-inch cubes.",
+    "Whisk together tomato ketchup, soy sauce, sesame oil, grated ginger, and minced garlic until smooth.",
+    "Heat 1 tablespoon of vegetable oil in a wok over medium-high heat and add tofu cubes, stirring until golden brown.",
+    "Add broccoli florets and sliced mushrooms to the wok and stir-fry for 3 minutes.",
+    "Pour the sauce mixture over the tofu and vegetables, cooking until the sauce thickens and coats everything, about 5 minutes.",
+    "Stir in cooked quinoa and toss to combine, letting the bowl heat through for 2 minutes.",
+    "Sprinkle chopped scallions and toasted sesame seeds over the bowl before serving.",
+    "Serve hot, optionally drizzle with extra soy sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "quick",
+    "sour",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 363,
+    "protein": 18,
+    "carbs": 31,
+    "fat": 19
+  },
+  "slug": "mushy-norwegian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushy-norwegian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:59:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "wok-hei",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tofu",
+    "descriptor": "Mushy",
+    "dishForm": "Bowl"
+  }
+}
