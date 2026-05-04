@@ -1,0 +1,122 @@
+{
+  "title": "Mild Vietnamese Tofu Pho",
+  "description": "A light, savory soup with tofu, lemongrass, and fresh herbs, served in individual mini cocottes.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oriental tofu cubes",
+      "amount": "200g",
+      "notes": "firm, drained"
+    },
+    {
+      "name": "Low-sodium vegetable stock",
+      "amount": "500ml",
+      "notes": "warm"
+    },
+    {
+      "name": "Lemongrass stalk",
+      "amount": "1 stalk",
+      "notes": "bruised and sliced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "10g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2 pieces",
+      "notes": "whole"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1 small",
+      "notes": "broken"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "80g",
+      "notes": "pre-soaked"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "10 leaves",
+      "notes": "washed"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "8 leaves",
+      "notes": "washed"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "50g",
+      "notes": "rinse"
+    },
+    {
+      "name": "Fresh lime zest",
+      "amount": "zest of 1 lime",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (tamari)",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring vegetable stock to a gentle simmer in a small saucepan.",
+    "Add lemongrass, ginger, star anise, cinnamon stick, and soy sauce to the broth and let infuse for 10 minutes.",
+    "While the broth simmers, drain tofu cubes and lightly pan‑fry them in a dry skillet until golden brown, then set aside.",
+    "Soak rice noodles in warm water for 5 minutes, then drain and reserve a cup of the soaking water.",
+    "Add tofu to the simmering broth and reduce heat to low.",
+    "Pour in the reserved noodle soaking water and stir in lime zest to create a light, clear emulsion.",
+    "Place the pre‑soaked noodles into the individual mini cocottes, then ladle the aromatic broth over them.",
+    "Top each serving with fresh basil, mint, bean sprouts, and a drizzle of the tofu‑infused broth.",
+    "Let the pho rest for 3 minutes before serving to allow flavors to meld.",
+    "Garnish with additional lime wedges and enjoy immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "individual-serving",
+    "low-calorie",
+    "low-fat",
+    "pho",
+    "quick",
+    "satvik-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "mild-vietnamese-tofu-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-vietnamese-tofu-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:57:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "lemon zest",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Mild",
+    "dishForm": "Pho"
+  }
+}
