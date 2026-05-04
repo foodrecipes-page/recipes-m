@@ -1,0 +1,99 @@
+{
+  "title": "Magical Smoky French Yogurt Tarte Tatin",
+  "description": "A keto-friendly, smoky twist on the classic French dessert, featuring yogurt and caramelized apples, perfect for a date-night dinner",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granny Smith apples",
+      "amount": "4 large",
+      "notes": "peeled, halved, and cored"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/4 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "for crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, combine the melted butter, smoked sea salt, and vanilla extract, and cook over medium heat until the butter starts to brown.",
+    "Add the apples to the skillet and cook for 10 minutes, or until they are caramelized and tender.",
+    "In a separate bowl, whisk together the yogurt, granulated sweetener, and eggs until smooth.",
+    "Roll out the almond flour to a thickness of about 1/8 inch, and place it into a 9-inch tart pan with a removable bottom.",
+    "Arrange the cooked apples in a concentric circle pattern on top of the almond flour crust.",
+    "Pour the yogurt mixture over the apples, making sure to cover them evenly.",
+    "Bake the tarte tatin for 35 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the tarte tatin from the oven and let it cool for 10 minutes before serving.",
+    "Run a knife around the edges of the tarte tatin to release it from the pan, and invert it onto a serving plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "french-dessert",
+    "keto-friendly",
+    "low-carb",
+    "smoky",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "magical-smoky-french-yogurt-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-smoky-french-yogurt-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:48:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "yogurt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "yogurt",
+    "descriptor": "Magical Smoky",
+    "dishForm": "Tarte Tatin"
+  }
+}
