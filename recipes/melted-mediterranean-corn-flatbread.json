@@ -1,0 +1,96 @@
+{
+  "title": "Melted Mediterranean Corn Flatbread",
+  "description": "A buttery corn arepa baked to golden perfection, filled with melty mozzarella and fresh herbs for an indulgent Mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn masa harina",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "100 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "black olives",
+      "amount": "20 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10 g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine corn masa harina, warm water, salt, and olive oil until a pliable dough forms.",
+    "Divide the dough into two equal portions and shape each into a round flatbread about 1/4 inch thick.",
+    "Place one flatbread on a preheated griddle over medium heat and cook for 3 minutes, then flip.",
+    "Spread shredded mozzarella evenly over the top half of the flatbread and sprinkle with sun‑dried tomatoes, black olives, and fresh basil.",
+    "Cover with the other flatbread and press lightly to seal the edges.",
+    "Transfer the sandwich to a preheated oven at 180°C and bake for 7 minutes until the cheese is melted and the edges are golden.",
+    "Remove from the oven, slice into wedges, and serve warm.",
+    "Enjoy the crispy crust and creamy filling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-filled",
+    "corn-flats",
+    "griddle",
+    "mediterranean",
+    "oven",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1060,
+    "protein": 38,
+    "carbs": 91,
+    "fat": 56
+  },
+  "slug": "melted-mediterranean-corn-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-mediterranean-corn-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:58:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "corn",
+    "descriptor": "Melted",
+    "dishForm": "Flatbread"
+  }
+}
