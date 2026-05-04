@@ -1,0 +1,91 @@
+{
+  "title": "Mild Algerian Bread Flatbread",
+  "description": "A yeasty, crumbly flatbread with a subtle citrus note, made with unwaxed lime and long fermentation, perfect for a low-sodium meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "180ml"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "3g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "3g",
+      "notes": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g",
+      "notes": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, yeast, and oregano in a large bowl.",
+    "Gradually add water while stirring until a shaggy dough forms.",
+    "Knead the dough for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let it ferment at room temperature for 12 hours.",
+    "After fermentation, punch down the dough and divide it into 4 equal portions.",
+    "Roll each portion into a thin circle about 25 cm in diameter.",
+    "Heat a cast iron skillet over medium heat and bake each flatbread for 3 minutes on each side until golden.",
+    "Brush the cooked flatbread with olive oil and serve warm with a slice of unwaxed lime on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "algerian",
+    "crumbly",
+    "flatbread",
+    "long-fermentation",
+    "low-sodium",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 3
+  },
+  "slug": "mild-algerian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-algerian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:08:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "bread",
+    "descriptor": "Mild",
+    "dishForm": "Flatbread"
+  }
+}
