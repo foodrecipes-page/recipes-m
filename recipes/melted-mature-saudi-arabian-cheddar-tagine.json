@@ -1,0 +1,100 @@
+{
+  "title": "Melted Mature Saudi Arabian Cheddar Tagine",
+  "description": "A tangy and gooey Saudi Arabian dish featuring mature cheddar, confit tomato, and Mediterranean flavors, cooked to perfection in a tagine pot.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": "Saudi Arabian or similar style"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded cheese, confit tomatoes, olive oil, garlic, lemon juice, parsley, salt, black pepper, and tagine spice mix.",
+    "Transfer the mixture to a tagine pot or a similar clay pot with a conical lid.",
+    "Add the water to the pot and cover it with the lid.",
+    "Place the pot in the oven and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the pot from the oven and let it cool for a few minutes.",
+    "Serve the melted cheese hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "mediterranean",
+    "middle-eastern",
+    "one-pot",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "melted-mature-saudi-arabian-cheddar-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-mature-saudi-arabian-cheddar-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:07:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "confit-tomato",
+    "primaryIngredient": "mature cheddar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cheddar",
+    "descriptor": "Melted Mature",
+    "dishForm": "Tagine"
+  }
+}
