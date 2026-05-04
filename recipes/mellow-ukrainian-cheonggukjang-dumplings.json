@@ -1,0 +1,103 @@
+{
+  "title": "Mellow Ukrainian Cheonggukjang Dumplings",
+  "description": "A mild, malty dumpling crafted from fermented soybean paste, gentle masa and heart‑warming broth, perfect for a relaxed brunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cheonggukjang",
+      "amount": "50g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp, chopped",
+      "notes": "fresh for aroma"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, salt, and water and knead until a smooth dough forms.",
+    "Rest the dough for 10 minutes covered with a damp cloth.",
+    "In a separate bowl, mix cheonggukjang, soy sauce, ginger, cumin, grated carrot, chopped onion, dill, and sesame oil until well combined.",
+    "Divide the dough into 12 equal pieces and roll each into a ball.",
+    "Flatten each ball into a 4-inch circle with a rolling pin.",
+    "Place a teaspoon of the cheonggukjang filling in the center of each circle.",
+    "Fold the dough over the filling and pinch the edges to seal, forming a half-moon shape.",
+    "Place the dumplings on a lightly oiled tray and steam over boiling water for 12 minutes.",
+    "Remove the dumplings from the steamer and serve warm with a small bowl of light broth or yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chewy",
+    "comfort-food",
+    "savory",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "mellow-ukrainian-cheonggukjang-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-ukrainian-cheonggukjang-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:03:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Cheonggukjang",
+    "descriptor": "Mellow",
+    "dishForm": "Dumplings"
+  }
+}
