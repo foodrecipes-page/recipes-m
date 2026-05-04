@@ -1,0 +1,101 @@
+{
+  "title": "Malty Crisp Tunisian Cheese Gratin",
+  "description": "A post-workout, halal-friendly cheese gratin dish from Tunisia featuring a malty and crisp texture, perfect for a quick meal after a workout. Inspired by traditional Tunisian cuisine.",
+  "cuisine": "tunisian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gruy\u00043re cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "salted"
+    },
+    {
+      "name": "Maltose",
+      "amount": "1 tbsp",
+      "notes": "dissolved in 1 tbsp water"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "coarse ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "coarse ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u000738F (190\u00073C).",
+    "Mix the flour, Gruy\u00043re cheese, cheddar cheese, butter, maltose, egg, salt, and black pepper in a bowl until well combined.",
+    "Transfer the mixture to a baking dish and smooth out the top.",
+    "Bake for 25 minutes or until the top is golden brown and the edges are crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gratin",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "malty-crisp-tunisian-cheese-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crisp-tunisian-cheese-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "cheese",
+    "descriptor": "malty crisp",
+    "dishForm": "gratin"
+  }
+}
