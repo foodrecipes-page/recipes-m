@@ -1,0 +1,94 @@
+{
+  "title": "Melting Rich Kenyan Sevaiiya Pasta",
+  "description": "A rich and cheesy Kenyan dish featuring sevaiiya, perfect for a date night, with confit tomato and pescatarian friendly ingredients, served in a tagliere vessel.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "8 oz",
+      "notes": "vermicelli style pasta"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "slow cooked tomatoes"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the sevaiiya according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the confit tomato to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked sevaiiya, confit tomato mixture, and grated grana padano cheese.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the sevaiiya mixture to a tagliere vessel and top with chopped basil.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "date-night",
+    "kenyan-cuisine",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "melting-rich-kenyan-sevaiiya-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melting-rich-kenyan-sevaiiya-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:34:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sevaiiya",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Melting Rich",
+    "dishForm": "Pasta"
+  }
+}
