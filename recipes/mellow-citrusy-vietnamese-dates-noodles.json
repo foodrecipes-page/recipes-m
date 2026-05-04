@@ -1,0 +1,103 @@
+{
+  "title": "Mellow Citrusy Vietnamese Dates Noodles",
+  "description": "A citrusy and indulgent Vietnamese dish featuring stoned dates, ferment-kimchi, and low-calorie-friendly ingredients, this noodle dish is perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "stoned dates",
+      "amount": "1 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large bowl, whisk together the orange juice, grapefruit juice, fish sauce, lime juice, toasted sesame oil, salt, and black pepper.",
+    "Add the cooked noodles to the bowl and toss to coat with the citrus sauce.",
+    "In a small pan, heat the ferment-kimchi over medium heat until warmed through.",
+    "Add the warmed kimchi to the bowl with the noodles and toss to combine.",
+    "Stir in the chopped stoned dates.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the noodles hot, garnished with additional chopped dates and kimchi if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "indulgent",
+    "low-calorie",
+    "one-pot",
+    "vegetarian",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "mellow-citrusy-vietnamese-dates-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-citrusy-vietnamese-dates-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:38:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "stoned dates",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "dates",
+    "descriptor": "Mellow Citrusy",
+    "dishForm": "Noodles"
+  }
+}
