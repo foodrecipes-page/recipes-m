@@ -1,0 +1,98 @@
+{
+  "title": "Mindful Medium American Chicken Curry",
+  "description": "A flavorful and adventurous American dish featuring yellow curry paste, served in a traditional tajine clay vessel, inspired by Buddhist temple cuisine.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tajine clay vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast pieces and cook until browned, about 5-7 minutes.",
+    "Add the yellow curry paste and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes, coconut milk, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Serve the curry hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "spicy",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mindful-medium-american-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mindful-medium-american-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:28:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Mindful Medium",
+    "dishForm": "Curry"
+  }
+}
