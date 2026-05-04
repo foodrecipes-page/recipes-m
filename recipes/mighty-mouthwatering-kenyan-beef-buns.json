@@ -1,0 +1,101 @@
+{
+  "title": "Mighty Mouthwatering Kenyan Beef Buns",
+  "description": "Savory and chewy Kenyan beef buns perfect for a post-workout meal, featuring a unique ttukbaegi earthenware cook method and raw-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "grass-fed ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "In a large bowl, combine the flour, salt, and black pepper.",
+    "Gradually add in the sesame oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "In a separate pan, cook the beef over high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, and grated ginger to the pan and cook until the onion is translucent.",
+    "Assemble the buns by placing a tablespoon of the beef mixture onto the center of each dough disk.",
+    "Fold the dough over the filling and press the edges together to seal the bun."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "earthenware-cooking",
+    "kenyan-cuisine",
+    "post-workout",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "mighty-mouthwatering-kenyan-beef-buns",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-mouthwatering-kenyan-beef-buns",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:03:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "buns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "mighty mouthwatering",
+    "dishForm": "Buns"
+  }
+}
