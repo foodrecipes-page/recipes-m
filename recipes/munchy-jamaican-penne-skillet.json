@@ -1,0 +1,107 @@
+{
+  "title": "Munchy Jamaican Penne Skillet",
+  "description": "Funky, crunchy, energizing Jamaican dish featuring penne rigate, yakimono grilling, and a crispy chickpea topping.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne rigate",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1, seeded and minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "amount": "100g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C to roast chickpeas.",
+    "Coat chickpeas with 1 tbsp olive oil, salt, and pepper, then spread on a baking sheet and roast for 15 minutes until crisp.",
+    "Heat a cast-iron skillet over medium heat and add the remaining 1 tbsp oil.",
+    "Add sliced bell pepper and red onion, sauté for 3 minutes until softened.",
+    "Stir in minced garlic and scotch bonnet pepper, cooking for an additional minute.",
+    "Pour in coconut milk and tomato puree, then add fresh thyme, allspice, and salt; simmer for 5 minutes.",
+    "Add uncooked penne rigate and stir to coat with sauce, cooking until pasta is al dente, about 10 minutes.",
+    "Sprinkle roasted chickpeas over the skillet and serve hot, garnishing with extra thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "egg-free",
+    "jamaican-flavor",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 28,
+    "carbs": 120,
+    "fat": 45
+  },
+  "slug": "munchy-jamaican-penne-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/munchy-jamaican-penne-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:33:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "penne rigate",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "penne",
+    "descriptor": "Munchy",
+    "dishForm": "Skillet"
+  }
+}
