@@ -1,0 +1,92 @@
+{
+  "title": "Mellow Smoked Jamaican Sweet Potato Casserole",
+  "description": "A bitter, velvety, and festive Jamaican dish featuring vanilla sugar and smoke, perfect for lacto-vegetarian diets. This casserole is a unique blend of flavors and textures.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced sweet potatoes, vanilla sugar, smoked paprika, and cinnamon.",
+    "In a separate bowl, whisk together the coconut milk, melted butter, brown sugar, and nutmeg.",
+    "Add the wet ingredients to the dry ingredients and stir until the sweet potatoes are well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve the casserole warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "jamaican-cuisine",
+    "lacto-vegetarian",
+    "smoked-paprika",
+    "sweet-potato-recipe",
+    "vanilla-sugar"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "mellow-smoked-jamaican-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoked-jamaican-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:33:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "mellow smoked",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Mildly Spiced Croatian Lamb Bake",
+  "description": "A light and flavorful Croatian-inspired lamb dish perfect for post-workout meals or weeknight dinners. The addition of cinnamon sticks adds a warm and aromatic touch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds boneless lamb shoulder",
+      "amount": "1",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon caraway seeds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cinnamon sticks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup lamb broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chopped fresh parsley",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high heat.",
+    "In a large bowl, toss the lamb pieces with the olive oil, paprika, caraway seeds, salt, and black pepper until the lamb is evenly coated.",
+    "Transfer the lamb mixture to a broiler-safe 9x13-inch baking dish.",
+    "Arrange the chopped onions and minced garlic on top of the lamb.",
+    "Place the cinnamon sticks on top of the onions and garlic.",
+    "Broil the lamb for 5 minutes, or until the onions are lightly browned.",
+    "Remove the lamb from the oven and pour in the lamb broth.",
+    "Return the lamb to the oven and reduce the heat to 400°F.",
+    "Bake for an additional 20-25 minutes, or until the lamb is cooked through and the liquid has reduced slightly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "lamb",
+    "low-carb",
+    "mildly-spiced",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "mildly-spiced-croatian-lamb-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-croatian-lamb-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:33:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Bake"
+  }
+}
