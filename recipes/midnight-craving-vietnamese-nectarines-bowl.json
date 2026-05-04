@@ -1,0 +1,123 @@
+{
+  "title": "midnight-craving vietnamese nectarines bowl",
+  "description": "a malty and crumbly vietnamese dish featuring dehydrated nectarines, perfect for a midnight craving. this recipe is flexitarian-friendly and a unique twist on traditional dessert recipes.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed rice cereal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened condensed milk",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salted egg yolks",
+      "amount": 1,
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 200\b70f.f. on a low heat setting.",
+    "dehydrate the nectarines in the oven for 8-10 hours or overnight, checking on them periodically. ",
+    "in a medium-sized bowl, combine the palm sugar, coconut flakes, crushed rice cereal, and sesame seeds. ",
+    "in a separate bowl, combine the unsweetened coconut milk, vanilla extract, ginger powder, and salt. ",
+    "add the dry ingredients to the wet ingredients and mix until a crumbly dough forms. ",
+    "add the unsalted butter and unsweetened condensed milk to the dough and mix until a cohesive mixture is formed. ",
+    "if using salted egg yolks, mix them in at this stage. ",
+    "using your hands, shape the dough into small balls and flatten them slightly.",
+    "place the dehydrated nectarines on a baking sheet lined with parchment paper and arrange the dough balls on top of them. ",
+    "bake the mixture in the oven for 20-25 minutes, or until the edges are golden brown. ",
+    "remove the mixture from the oven and let it cool on a wire rack for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "flexitarian",
+    "midnight-craving",
+    "nectarines",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "midnight-craving-vietnamese-nectarines-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-vietnamese-nectarines-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "nectarines",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "nectarines",
+    "descriptor": "midnight-craving",
+    "dishForm": "Bowl"
+  }
+}

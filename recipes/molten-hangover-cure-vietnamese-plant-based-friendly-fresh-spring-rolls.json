@@ -1,0 +1,116 @@
+{
+  "title": "Vietnamese Fresh Spring Rolls with Caramel Hangover Cure",
+  "description": "A plant-based-friendly twist on traditional banh cuon, featuring a rich caramel sauce hangover cure. Each bite is a fresh, springtime delight.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gozleme Wrappers",
+      "amount": "12 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Filling",
+      "amount": "",
+      "notes": "Mix of shredded carrots, cabbage, and lettuce, along with chopped cilantro and mint."
+    },
+    {
+      "name": "Caramel Hangover Cure Sauce",
+      "amount": "",
+      "notes": "Equal parts coconut sugar, water, and tapioca starch, simmered until syrupy."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Fresh Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Fresh Chilies",
+      "amount": "1/4 cup",
+      "notes": "Optional, for added heat."
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional, for added depth."
+    }
+  ],
+  "instructions": [
+    "Wrap gozleme wrappers around the filling mixture, forming a tight cylinder shape.",
+    "Soak the spring rolls in warm water for 5-7 minutes, or until they're slightly softened.",
+    "Heat the caramel hangover cure sauce in a small saucepan over medium heat, stirring occasionally.",
+    "Add the sesame seeds, grated ginger, sliced scallions, toasted sesame oil, lime juice, sliced fresh chilies, chopped fresh cilantro, and chopped fresh mint to the saucepan, stirring to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, or until it thickens slightly.",
+    " Serve the spring rolls hot, drizzled with the caramel hangover cure sauce and additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "molten-hangover-cure-vietnamese-plant-based-friendly-fresh-spring-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-hangover-cure-vietnamese-plant-based-friendly-fresh-spring-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "caramel sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "plant-based-friendly",
+    "descriptor": "Molten Hangover-Cure",
+    "dishForm": "Fresh Spring Rolls"
+  }
+}

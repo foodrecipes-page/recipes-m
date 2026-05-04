@@ -1,0 +1,122 @@
+{
+  "title": "Mustardy Crispy British Meat Eton Mess",
+  "description": "A hearty, pescatarian-friendly Yorkshire-inspired dish made with shredded meat, crispy pastry, and a tangy mustard sauce.",
+  "cuisine": "british",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shredded beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "english mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "frozen puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "hot water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Roll out the puff pastry to a large rectangle, about 1/4-inch thick.",
+    "Cut the pastry into 1-inch strips, about 12-15 strips in total.",
+    "In a bowl, mix together the shredded beef, mustard, mayonnaise, parsley, salt, and pepper.",
+    "Dip each pastry strip into the hot water, coating both sides evenly.",
+    "Place a spoonful of the beef mixture onto one end of a pastry strip, leaving a 1-inch border on either side.",
+    "Fold the pastry over the filling, pressing the edges together to seal the Eton mess.",
+    "Repeat with the remaining pastry strips and beef mixture.",
+    "Place the Eton messes on a baking sheet lined with parchment paper, leaving about 1 inch of space between each mess.",
+    "Brush the tops with a little milk and bake in a preheated oven at 400°F (200°C) for 15-20 minutes, or until golden brown.",
+    "Serve warm, garnished with additional parsley if desired.",
+    "Store any leftovers in an airtight container in the fridge for up to 3 days or freeze for up to 2 months.",
+    "To reheat, bake in a preheated oven at 375°F (190°C) for 5-7 minutes, or until crispy and hot through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "eton-mess",
+    "meat",
+    "puff-pastry",
+    "yorkshire"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "mustardy-crispy-british-meat-eton-mess",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crispy-british-meat-eton-mess",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:42Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "shredded meat",
+    "diet": "pescatarian",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "meat",
+    "descriptor": "mustardy crispy",
+    "dishForm": "Eton Mess"
+  }
+}
