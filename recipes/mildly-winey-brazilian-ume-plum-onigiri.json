@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Winey Brazilian Ume Plum Onigiri",
+  "description": "A unique Brazilian dish featuring ume plum and wine, shaped like nigiri and served on a talavera plate, perfect for a brunch mood. This sugar-free friendly dish is a must try for those looking for a twist on traditional Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "Ume plum",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Noru sheets",
+      "amount": "1 package",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Talavera plate",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and soak it in water for 30 minutes.",
+    "Drain the water and cook the rice with 1 cup of water and 1/4 teaspoon of salt in a medium saucepan over low heat.",
+    "In a small saucepan, heat the coconut oil over medium heat and add the diced ume plum, cooking until it is lightly caramelized.",
+    "Add the white wine to the saucepan with the ume plum and cook until the liquid is almost completely reduced.",
+    "Once the rice is cooked, allow it to cool down to room temperature.",
+    "Mix the cooked ume plum with the cooled rice.",
+    "Prepare a small bowl of water for shaping the onigiri.",
+    "Using your hands, shape the rice mixture into small triangular shapes, moistening your hands with water as needed.",
+    "Wrap each onigiri with a noru sheet.",
+    "Serve the onigiri on a talavera plate."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "brunch-recipe",
+    "gluten-free",
+    "japanese-inspired",
+    "sugar-free",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "mildly-winey-brazilian-ume-plum-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-winey-brazilian-ume-plum-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:37:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ume-plum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "ume plum",
+    "descriptor": "mildly winey",
+    "dishForm": "Onigiri"
+  }
+}
