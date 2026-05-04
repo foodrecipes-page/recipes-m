@@ -1,0 +1,108 @@
+{
+  "title": "Mild Fluffy Algerian Brie Gratin",
+  "description": "A gentle, airy gratin of brie coated in a wine-infused herb crust, finished in an air fryer for a crisp, crowd-pleasing dish that balances bold flavors with anti-inflammatory ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "anti-inflammatory",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "240ml"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "leaves"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "30g"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "30g"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 180°C.",
+    "Slice the brie into four equal wedges and set aside.",
+    "In a small saucepan, heat the olive oil over medium heat, add minced garlic, thyme, rosemary, and turmeric, and sauté for 1 minute.",
+    "Pour in the red wine, bring to a simmer, and let reduce by half until slightly thickened, about 5 minutes.",
+    "Remove the saucepan from heat and mix the breadcrumb and walnut mixture into the wine sauce until well coated.",
+    "Brush each brie wedge with the wine sauce mixture, making sure to cover the top surface completely.",
+    "Arrange the coated brie wedges on a parchment-lined air fryer basket, ensuring they do not overlap.",
+    "Air fry for 12 minutes or until the top crust is golden brown and the cheese is bubbling.",
+    "Remove from the air fryer, sprinkle with sea salt and pepper, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "algerian",
+    "anti-inflammatory",
+    "cheese",
+    "crowd-pleaser",
+    "fluffy",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 1290,
+    "protein": 29,
+    "carbs": 31,
+    "fat": 92
+  },
+  "slug": "mild-fluffy-algerian-brie-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-fluffy-algerian-brie-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:41:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "brie",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Brie",
+    "descriptor": "Mild Fluffy",
+    "dishForm": "Gratin"
+  }
+}
