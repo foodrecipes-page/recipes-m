@@ -1,0 +1,117 @@
+{
+  "title": "Marinated Moroccan Pork Shoulder Couscous Royal",
+  "description": "Jammy, chewy Moroccan pork shoulder served over fluffy couscous with raisins and almonds, perfect for meal prep.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, bone-in",
+      "amount": "1.5 kg",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "moroccan spice mix",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "couscous",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "dried fruit mix (raisins & apricots)",
+      "amount": "3/4 cup",
+      "notes": null
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/3 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F.",
+    "Whisk olive oil, spice mix, lemon juice, rosemary, garlic, salt, and pepper to make a paste.",
+    "Rub the paste all over the pork shoulder, cover, and marinate in the refrigerator for at least 2 hours, up to overnight.",
+    "Place the pork in a roasting pan and roast for 90 minutes, basting every 30 minutes, until the internal temperature reaches 145°F.",
+    "Let the pork rest 10 minutes before slicing into thick strips.",
+    "Bring 2 cups of water to a boil, stir in couscous, remove from heat, cover, and let steam for 10 minutes.",
+    "Fluff the couscous with a fork, then stir in dried fruit, toasted almonds, and chopped parsley.",
+    "Arrange sliced pork over the couscous, drizzle with leftover juices, and serve.",
+    "Pack portions into airtight containers for meal prep; store in the refrigerator up to 4 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "family-friendly",
+    "marinated",
+    "meal-prep",
+    "moroccan",
+    "pork-shoulder"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "marinated-moroccan-pork-shoulder-couscous-royal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-moroccan-pork-shoulder-couscous-royal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:58:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "pork shoulder",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Pork Shoulder",
+    "descriptor": "Marinated",
+    "dishForm": "Couscous Royal"
+  }
+}
