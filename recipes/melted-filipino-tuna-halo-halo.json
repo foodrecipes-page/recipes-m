@@ -1,0 +1,107 @@
+{
+  "title": "Melted Filipino Tuna Halo Halo",
+  "description": "A cultured, gooey post-workout Filipino dish featuring sansho and yuzu cured tuna in a halo-halo format.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sashimi grade tuna",
+      "amount": "200g"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "12ml"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sansho pepper ground",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "80ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "150g"
+    },
+    {
+      "name": "pre-cooked tapioca pearls",
+      "amount": "50g"
+    },
+    {
+      "name": "sweetened red beans",
+      "amount": "30g"
+    },
+    {
+      "name": "crushed pineapple",
+      "amount": "50g"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "10g"
+    },
+    {
+      "name": "vanilla protein powder",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the sashimi-grade tuna into small cubes.",
+    "In a small bowl, whisk together yuzu juice, yuzu zest, and ground sansho pepper until fragrant.",
+    "Pour the yuzu-sansho mixture over the tuna cubes and let them marinate for 5 minutes.",
+    "Melt the sweetened condensed milk in a small saucepan over low heat until it becomes silky and slightly thickened.",
+    "In a tall glass, layer ice cubes, pre-cooked tapioca pearls, and sweetened red beans.",
+    "Pour the melted condensed milk over the layered ice and pearls.",
+    "Gently fold in the coconut milk, ensuring it mixes uniformly with the condensed milk.",
+    "Add the marinated tuna cubes, crushed pineapple, and toasted coconut flakes to the glass.",
+    "Sprinkle the vanilla protein powder over the top and stir lightly to combine.",
+    "Serve immediately in a chilled glass and enjoy the gooey, post-workout halo-halo."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "halo-halo",
+    "high-protein",
+    "no-cook",
+    "post-workout",
+    "raw",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 955,
+    "protein": 67,
+    "carbs": 99,
+    "fat": 35
+  },
+  "slug": "melted-filipino-tuna-halo-halo",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-filipino-tuna-halo-halo",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:37:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sansho",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tuna",
+    "descriptor": "Melted",
+    "dishForm": "Halo Halo"
+  }
+}
