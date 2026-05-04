@@ -1,0 +1,105 @@
+{
+  "title": "Miso Jamaican Lobster Stew",
+  "description": "A charred, glassy-jelly stew that blends Jamaican heat with Japanese umami, perfect for a lazy Sunday low‑carb dinner.",
+  "cuisine": "Jamaican fusion",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lobster tails",
+      "amount": "400g",
+      "notes": "2 tails, each about 200g"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "30g"
+    },
+    {
+      "name": "Shoyu‑koji",
+      "amount": "1 tbsp",
+      "notes": "15g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1",
+      "notes": "deseeded and chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated, 5g"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat until shimmering.",
+    "Place the lobster tails in the skillet, searing each side for 2 minutes until charred and a dark brown crust forms.",
+    "Add the garlic, ginger, and Scotch bonnet pepper, sautéing for 1 minute until fragrant.",
+    "Stir in the miso paste and shoyu‑koji, coating the lobster and aromatics for another 2 minutes.",
+    "Pour in the coconut milk and lime juice, bringing the mixture to a gentle simmer.",
+    "Reduce heat to low and add thyme sprigs, letting the stew reduce for 10 minutes, or until the sauce has thickened to a glassy consistency.",
+    "Remove thyme and season with salt and black pepper to taste.",
+    "Serve hot, scooping portions over cauliflower rice or steamed greens for a low‑carb finish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican-fusion",
+    "dinner"
+  ],
+  "slug": "miso-jamaican-lobster-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-jamaican-lobster-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:07:57Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Lobster",
+    "descriptor": "Miso",
+    "dishForm": "Stew"
+  }
+}
