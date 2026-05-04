@@ -1,0 +1,98 @@
+{
+  "title": "Melted Ukrainian Coconut Mousse",
+  "description": "A sweet, gooey dessert that showcases Ukrainian flavors with a spicy harissa kick, coconut cream, and a creamy texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "80 g"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "20 g"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "3 g"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "20 g",
+      "notes": "for dusting"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "10 g",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine coconut cream, coconut milk, cocoa powder, coconut sugar, and harissa paste, whisking until smooth.",
+    "Heat the mixture over medium heat until it reaches 80°C, turning frequently to prevent scorching.",
+    "Remove from heat and stir in vanilla extract and agar-agar powder until fully dissolved.",
+    "Pour the hot mixture into a heat‑proof bowl and let it cool to 40°C before refrigerating.",
+    "Churn the cooled mixture in an ice‑cream maker for 15 minutes until thick and airy.",
+    "Transfer the churned mousse into serving glasses, filling them to the top.",
+    "Chill the glasses in the refrigerator for 30 minutes to set the mousse.",
+    "Dust the mousse with powdered sugar and sprinkle toasted coconut flakes before serving.",
+    "Optionally drizzle a little extra harissa for a spicy finish.",
+    "Serve immediately as a sweet, gooey dessert that showcases Ukrainian flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dessert",
+    "ovo-vegetarian",
+    "showcase",
+    "spicy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 5,
+    "carbs": 31,
+    "fat": 28
+  },
+  "slug": "melted-ukrainian-coconut-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-ukrainian-coconut-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:50:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "harissa spice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "coconut",
+    "descriptor": "Melted",
+    "dishForm": "Mousse"
+  }
+}

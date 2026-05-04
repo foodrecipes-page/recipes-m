@@ -1,0 +1,140 @@
+{
+  "title": "Mildly Fluffy Moroccan Rice Wrap",
+  "description": "A yeasty, aerated wrap featuring fragrant basmati rice mixed with Moroccan spices and sweet dried fruit, served in warm spinach wraps for a lazy-sunday treat.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch"
+    },
+    {
+      "name": "turmeric",
+      "amount": "pinch"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried figs",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sliced almonds",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "8",
+      "notes": "for wraps"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup basmati rice under cold water until the water runs clear.",
+    "In a saucepan combine the rinsed rice, 1.5 cups water, 1 tbsp olive oil, and 1/2 tsp salt; bring to a boil, then cover and simmer on low for 16 minutes until the water is absorbed.",
+    "Meanwhile toast 2 tbsp sliced almonds in a dry skillet over medium heat until golden, then set aside.",
+    "Whisk together ground cumin, ground coriander, paprika, cinnamon, turmeric, lemon zest, lemon juice, and 1 tsp harissa paste to create a spice vinaigrette.",
+    "Once the rice is cooked, fluff it with a fork and stir in the spice vinaigrette, chopped apricots, chopped figs, mint, cilantro, and toasted almonds, then let it cool slightly.",
+    "Warm spinach leaves in a hot skillet for 30 seconds on each side to make them pliable, then pat dry with a paper towel.",
+    "Place a spoonful of the flavored rice mixture onto the center of each spinach leaf, add a few slices of red onion, and roll the leaf into a wrap.",
+    "Serve the wraps immediately with a side of yogurt or a drizzle of tahini dressing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fluffy-rice",
+    "lazy-sunday",
+    "moroccan",
+    "spicy-sweet",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 570,
+    "protein": 14,
+    "carbs": 85,
+    "fat": 23
+  },
+  "slug": "mildly-fluffy-moroccan-rice-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-fluffy-moroccan-rice-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:50:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "basmati rice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Rice",
+    "descriptor": "Mildly Fluffy",
+    "dishForm": "Wrap"
+  }
+}
