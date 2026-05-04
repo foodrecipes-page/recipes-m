@@ -1,0 +1,130 @@
+{
+  "title": "Monsoon Bitter Korean Red Snapper Stew Jjigae",
+  "description": "A pescatarian-friendly stew originating from Gangwon, Korea, characterized by its bitter and chewy texture, featuring red snapper as the main ingredient.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gangwon-grown wild radish",
+      "amount": "1 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon-harvested Korean cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Doenjang (Korean fermented soybean paste)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add diced ginger and sauté for 1 minute until fragrant.",
+    "Add gochujang and cook for 1 minute, stirring constantly.",
+    "Add Korean chili flakes, salt, and black pepper, and stir to combine.",
+    "Add sliced radish and cook for 3-4 minutes until it starts to soften.",
+    "Add sliced cabbage and cook for an additional 2-3 minutes until it starts to wilt.",
+    "Add red snapper fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Add doenjang and stir to combine.",
+    "Add water and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes or until the stew has thickened slightly.",
+    "Serve hot, garnished with sesame seeds and sliced radish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "chewy",
+    "gangwon",
+    "jjigae",
+    "korean",
+    "monsoon",
+    "pescatarian-friendly",
+    "red-snapper",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "monsoon-bitter-korean-red-snapper-stew-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-bitter-korean-red-snapper-stew-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "red snapper",
+    "diet": "pescatarian",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "red snapper",
+    "descriptor": "monsoon bitter",
+    "dishForm": "Stew Jjigae"
+  }
+}

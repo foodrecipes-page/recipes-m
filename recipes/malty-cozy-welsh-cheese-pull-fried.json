@@ -1,0 +1,119 @@
+{
+  "title": "Malty Cozy Welsh Cheese-pull Fried",
+  "description": "Crispy katsuobushi-crusted Welsh rarebit fritters that melt to a gooey cheese core, perfect for snuggling up on a cold winter's night.",
+  "cuisine": "Welsh",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "katsuobushi",
+      "amount": "1/2 cup",
+      "notes": "dried, shaved into flakes, toasted in a 350°F oven for 5 minutes, then ground into a fine powder"
+    },
+    {
+      "name": "Welsh cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Welsh rarebit sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, cornstarch, katsuobushi powder, and salt in a bowl; add a pinch of black pepper.",
+    "In a separate bowl, mix egg, heavy cream, and Welsh rarebit sauce.",
+    "Add the wet ingredients to the dry ingredients and stir until a thick batter forms.",
+    "Dip each piece of cheese into the batter, coating it evenly, then roll in the toasted katsuobushi flakes to coat.",
+    "Heat 1/2 cup of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Carefully add the battered cheese to the hot oil and fry until golden brown on both sides, about 3-4 minutes per side.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve immediately, sprinkled with additional katsuobushi flakes if desired.",
+    "Repeat with the remaining cheese pieces and batter.",
+    "Serve with a side of butter or additional Welsh rarebit sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "cheese-lovers",
+    "comfort-food",
+    "deep-fried",
+    "high-protein",
+    "snack-perfect",
+    "winter-warming"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 44
+  },
+  "slug": "malty-cozy-welsh-cheese-pull-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-cozy-welsh-cheese-pull-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "katsuobushi",
+    "diet": "dash",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Cheese-pull",
+    "descriptor": "Malty Cozy",
+    "dishForm": "Fried"
+  }
+}

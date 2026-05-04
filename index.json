@@ -527,6 +527,22 @@
     "shard": "m"
   },
   {
+    "slug": "malty-cozy-welsh-cheese-pull-fried",
+    "title": "Malty Cozy Welsh Cheese-pull Fried",
+    "tags": [
+      "british-classics",
+      "cheese-lovers",
+      "comfort-food",
+      "deep-fried",
+      "high-protein",
+      "snack-perfect",
+      "winter-warming"
+    ],
+    "cuisine": "Welsh",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
     "slug": "malty-creamy-canadian-yam-pudding",
     "title": "Malty Creamy Canadian Yam Pudding",
     "tags": [
@@ -1541,6 +1557,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-french-onions-tart",
+    "title": "Mellow French Onions Tart",
+    "tags": [
+      "comfort-food",
+      "egg-free",
+      "french",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
@@ -5750,6 +5780,24 @@
       "wood-fired"
     ],
     "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "monsoon-bitter-korean-red-snapper-stew-jjigae",
+    "title": "Monsoon Bitter Korean Red Snapper Stew Jjigae",
+    "tags": [
+      "bitter",
+      "chewy",
+      "gangwon",
+      "jjigae",
+      "korean",
+      "monsoon",
+      "pescatarian-friendly",
+      "red-snapper",
+      "stew"
+    ],
+    "cuisine": "Korean",
     "totalTimeMin": 40,
     "shard": "m"
   },
