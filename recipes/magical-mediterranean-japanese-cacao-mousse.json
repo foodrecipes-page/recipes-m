@@ -1,0 +1,96 @@
+{
+  "title": "Magical Mediterranean Japanese Cacao Mousse",
+  "description": "A unique dessert combining Mediterranean and Japanese flavors with cacao, featuring a glassy-jelly texture achieved through spherification, served on a cedar plank.",
+  "cuisine": "Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Calcium chloride",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1 piece",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "In a separate bowl, whisk together the Greek yogurt, honey, and lemon juice until well combined.",
+    "In another bowl, mix the sodium alginate with a small amount of water to dissolve, then add it to the yogurt mixture and whisk until smooth.",
+    "Add the melted chocolate to the yogurt mixture and whisk until fully incorporated.",
+    "Prepare the calcium chloride bath by mixing it with 1 cup of water in a large bowl.",
+    "Using a spoon, drop small amounts of the chocolate mixture into the calcium chloride bath to create spheres.",
+    "Let the spheres sit in the bath for about 30 seconds to set, then remove them with a slotted spoon.",
+    "Place the spheres on the cedar plank, arranging them in a decorative pattern.",
+    "Refrigerate the dessert for at least 30 minutes to allow the flavors to meld together.",
+    "Serve chilled, garnished with additional honey or lemon zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fusion-cuisine",
+    "gluten-free",
+    "japanese-technique",
+    "mediterranean-inspired",
+    "unique-texture",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "magical-mediterranean-japanese-cacao-mousse",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mediterranean-japanese-cacao-mousse",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:09:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "cacao",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cacao",
+    "descriptor": "Magical Mediterranean",
+    "dishForm": "Mousse"
+  }
+}
