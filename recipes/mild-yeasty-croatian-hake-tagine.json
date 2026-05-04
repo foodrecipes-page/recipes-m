@@ -1,0 +1,102 @@
+{
+  "title": "Mild Yeasty Croatian Hake Tagine",
+  "description": "A light and romantic Croatian dish featuring hake, perfect for a special occasion, this recipe is also sugar free friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together yeast, lemon juice, and a pinch of salt.",
+    "Let the yeast mixture sit for 5 minutes until it becomes frothy.",
+    "In a large ceramic tagine, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the hake fillets and cook for 2 minutes on each side.",
+    "Add the thyme, salt, and black pepper, and stir to combine.",
+    "Pour the yeast mixture over the hake and onions.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake for 15 minutes until the hake is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fish-based",
+    "romantic",
+    "special-occasion",
+    "sugar-free",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "mild-yeasty-croatian-hake-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-yeasty-croatian-hake-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:35:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "hake",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "hake",
+    "descriptor": "mild yeasty",
+    "dishForm": "Tagine"
+  }
+}
