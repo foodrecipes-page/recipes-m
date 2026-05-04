@@ -1,0 +1,109 @@
+{
+  "title": "Mellow Salty Norwegian Salmon Tagine",
+  "description": "A velvety Norwegian salmon tagine with a salty brine, caramelized onions, and fragrant herbs, served in a traditional tagine pot for a nostalgic Nordic experience.",
+  "cuisine": "Nordic",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "800g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced 1/2\" rounds"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Pat salmon fillets dry and season with sea salt, black pepper, dill, parsley, and lemon juice; set aside for 10 minutes.",
+    "Heat 1 tablespoon of olive oil in the tagine pot over medium heat, add sliced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for another minute until fragrant.",
+    "Add sliced carrots to the pot and cook for 3 minutes, stirring occasionally.",
+    "Push the vegetables to the side of the pot, pour the remaining tablespoon of olive oil, and sear the salmon fillets skin side down for 2 minutes.",
+    "Flip the salmon, cover the tagine, and add 1 cup of water; then bake in the preheated oven for 15 minutes until the salmon flakes easily.",
+    "Remove the tagine from the oven, fluff the salmon with a fork, and drizzle with the remaining lemon juice.",
+    "Serve the salmon and vegetables hot, garnished with extra dill and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "oven-cooked",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 115,
+    "carbs": 28,
+    "fat": 107
+  },
+  "slug": "mellow-salty-norwegian-salmon-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-salty-norwegian-salmon-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:18:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "seasoning",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Mellow Salty",
+    "dishForm": "Tagine"
+  }
+}
