@@ -1,0 +1,109 @@
+{
+  "title": "Malted Crispy Dutch Brie Bake",
+  "description": "A bold, wood‑fired bake that fuses malty oat flour with creamy vegan brie on crunchy bread, delivering a golden, crispy finish with a hint of smoked paprika.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegan brie cheese",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "malted oat flour",
+      "amount": "50 g",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme, chopped",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat bread slices",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wood‑fired oven to 220°C.",
+    "In a bowl mix the malted oat flour, salt, smoked paprika, minced garlic, chopped thyme, and nutritional yeast.",
+    "Brush each slice of whole wheat bread with melted coconut oil and spread the oat mixture on top of each slice.",
+    "Place a generous slice of vegan brie on each prepared bread slice.",
+    "Drizzle maple syrup over the brie for extra caramelization.",
+    "Arrange the slices on a baking tray and bake in the preheated oven for 10 minutes or until the edges are golden and the cheese is melted.",
+    "Remove from the oven and let cool for 2 minutes before cutting into squares.",
+    "Serve immediately as a warm, crispy snack or starter.",
+    "Enjoy the malty crunch and creamy, smoky flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "crispy",
+    "dutch",
+    "quick",
+    "vegan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 19
+  },
+  "slug": "malted-crispy-dutch-brie-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/malted-crispy-dutch-brie-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:30:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "brie",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Brie",
+    "descriptor": "Malted Crispy",
+    "dishForm": "Bake"
+  }
+}
