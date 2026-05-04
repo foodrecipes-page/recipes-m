@@ -1,0 +1,99 @@
+{
+  "title": "Minty Greek Couscous Lasagna",
+  "description": "A quick, tender pastitsio-inspired dish featuring couscous, feta, mint and a crisp finish on a binchotan grill.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb-friendly",
+    "dairy-inclusive"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "200g"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "150g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat.",
+    "In a bowl, mix couscous, feta, mint, sun‑dried tomatoes, yogurt, salt, pepper, and lemon zest.",
+    "Add diced chicken to the mixture and stir until well coated.",
+    "Spread the couscous mixture evenly on a greased grill pan.",
+    "Place the pan on the preheated grill and cook for 10 minutes, flipping halfway.",
+    "Transfer the lasagna to an air fryer basket and cook at 180°C for 8 minutes until the top is golden.",
+    "Remove from the air fryer and let rest for 5 minutes before serving.",
+    "Slice the lasagna into portions and garnish with extra mint leaves if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ],
+  "slug": "minty-greek-couscous-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-greek-couscous-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:00:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "couscous",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "couscous",
+    "descriptor": "Minty",
+    "dishForm": "Lasagna"
+  }
+}
