@@ -1,0 +1,107 @@
+{
+  "title": "Mellow Portuguese Almond Pudding",
+  "description": "A herbal, velvety dessert that blends almond crunch with a kid-friendly touch, featuring amaretti crumbs and a plant-based protein boost.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": "non-dairy plant milk"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/3 cup",
+      "notes": "for thickening"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/4 cup",
+      "notes": "adds nuttiness"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "3 tbsp",
+      "notes": "sweetener"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "aroma"
+    },
+    {
+      "name": "amaretti crumbs",
+      "amount": "100 g",
+      "notes": "crunchy topping"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tbsp",
+      "notes": "optional flavor"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "balances sweetness"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tbsp",
+      "notes": "optional thickener"
+    },
+    {
+      "name": "cooked chickpeas (rest)",
+      "amount": "1 cup",
+      "notes": "plant protein boost"
+    }
+  ],
+  "instructions": [
+    "Whisk almond milk, whole wheat flour, and ground almonds in a saucepan until smooth.",
+    "Heat over medium heat, stirring constantly, until the mixture thickens to a custard-like consistency.",
+    "Remove from heat and stir in maple syrup, vanilla extract, fresh lemon zest, and fresh lemon juice until fully incorporated.",
+    "Fold in the cooked chickpeas so the pudding has a hearty texture.",
+    "Pour the mixture into a shallow baking dish and smooth the top with a spatula.",
+    "Sprinkle amaretti crumbs evenly over the surface for a crunchy finish.",
+    "Let the pudding cool at room temperature for 10 minutes, then chill in the refrigerator for at least 1 hour.",
+    "Serve chilled, optionally topped with a swirl of coconut cream and a few extra amaretti crumbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "herbal",
+    "jain-friendly",
+    "kid-friendly",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 9,
+    "carbs": 42,
+    "fat": 11
+  },
+  "slug": "mellow-portuguese-almond-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-portuguese-almond-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:27:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "amaretti",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Mellow",
+    "dishForm": "Pudding"
+  }
+}
