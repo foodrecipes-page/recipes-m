@@ -1,0 +1,108 @@
+{
+  "title": "Melted American Gruyere Gratin",
+  "description": "A lazy-sunday baked dish featuring molten Gruyere, infused olive oil, and low-glycemic-friendly options, perfect for a quick comfort meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "low-glycemic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Pinch nutmeg",
+      "amount": "pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil (infused)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "30g"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375F (190C).",
+    "In a saucepan, melt the butter and sauté the minced garlic until translucent, about 1 minute.",
+    "Add the heavy cream and bring to a gentle simmer, then stir in the grated Gruyere until smooth.",
+    "Season the mixture with fresh thyme, nutmeg, salt, pepper, and the infused olive oil, stirring until fully combined.",
+    "Pour the sauce into a small baking dish, spreading it evenly.",
+    "Sprinkle the almond flour evenly over the top.",
+    "Bake for 18 to 20 minutes, or until the surface is golden brown and the cheese is bubbly.",
+    "Remove from the oven and let the gratin rest for 5 minutes.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "cheese",
+    "lazy-sunday",
+    "low-glycemic-friendly",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 562,
+    "protein": 10,
+    "carbs": 4,
+    "fat": 50
+  },
+  "slug": "melted-american-gruyere-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-american-gruyere-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:41:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "gruy re",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Melted",
+    "dishForm": "Gratin"
+  }
+}
