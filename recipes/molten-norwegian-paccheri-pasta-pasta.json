@@ -1,0 +1,121 @@
+{
+  "title": "molten norwegian paccheri pasta",
+  "description": "a winey, comforting meal-prep dish featuring paccheri pasta, kombu-cold-extract, and a hint of dash. perfect for a cold norwegian winter evening.",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 pieces",
+      "notes": "cold-extract the kombu first, then discard the solids."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup",
+      "notes": "a dry gewürztraminer pairs well."
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dash",
+      "amount": "2 tbsp",
+      "notes": "use a light hand with the dash, as it can overpower the dish."
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "cook the paccheri pasta according to the package instructions until al dente. reserve 1 cup of pasta water before draining.",
+    "saute the onion and garlic in olive oil until translucent.",
+    "add the dry white wine and reduce by half.",
+    "add the kombu-cold-extract and stir to combine.",
+    "add the parmesan cheese and stir until melted.",
+    "stir in the dash, thyme, salt, and black pepper.",
+    "add the cooked pasta to the sauce and toss until well coated.",
+    "if the sauce seems too thick, add a bit of the reserved pasta water.",
+    "transfer the pasta to a serving dish and top with chopped parsley.",
+    "serve immediately, as the molten sauce is best when the cheese is still melted."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 24,
+    "carbs": 130,
+    "fat": 30
+  },
+  "slug": "molten-norwegian-paccheri-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-norwegian-paccheri-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Paccheri Pasta",
+    "descriptor": "Molten",
+    "dishForm": "Pasta"
+  }
+}

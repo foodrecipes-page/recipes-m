@@ -1,0 +1,104 @@
+{
+  "title": "mouthwatering american falafel burger",
+  "description": "roasted, chewy, show-off american dish featuring crispy falafel patties, melted cheese, and sweet caramelized onions all sandwiched between a toasted brioche bun.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "falafel patties",
+      "amount": "8",
+      "notes": "homemade or store-bought, about 1-inch in diameter"
+    },
+    {
+      "name": "brioche bun",
+      "amount": "4",
+      "notes": "toasted, preferably on a griddle"
+    },
+    {
+      "name": "American cheese",
+      "amount": "8 slices",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "shredded, for serving"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "sliced, for serving"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced, for serving"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "such as caramel or peanut butter cups"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f. toast the brioche bun on a griddle or in the oven for 2 minutes.",
+    "form the falafel patties and roast in the oven for 12 minutes, or until crispy.",
+    "while the falafel is roasting, caramelize the onions in a pan with a tablespoon of oil over medium heat for 15 minutes.",
+    "assemble the burger by spreading mayonnaise on the bottom bun, followed by a falafel patty, a slice of cheese, a spoonful of caramelized onions, a few slices of tomato, and finally the top bun.",
+    "Repeat the assembly process for the remaining three burgers.",
+    "Serve each burger with a side of ketchup, lettuce, and a sprinkle of candy pieces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "mouthwatering-american-falafel-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-american-falafel-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "falafel",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Falafel",
+    "descriptor": "Mouthwatering",
+    "dishForm": "Burger"
+  }
+}
