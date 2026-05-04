@@ -1,0 +1,107 @@
+{
+  "title": "Magically Crunchy Mexican King Prawns Chilaquiles",
+  "description": "A resinous, crunchy, indulgent Mexican dish featuring king prawns, lardons-render, in a Whole30-friendly chilaquiles form, served in a tandoor-clay-pot.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "6 cups",
+      "notes": "fried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 peppers",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor-clay-pot over medium heat.",
+    "Add the diced lardons to the pot and render until crispy.",
+    "Remove the lardons from the pot and set aside.",
+    "Add the diced onion to the pot and cook until translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the chipotle peppers to the pot and cook for 1 minute.",
+    "Add the tortilla chips to the pot and stir to combine with the onion mixture.",
+    "Add the king prawns to the pot and cook until pink and fully cooked.",
+    "Stir in the chopped cilantro, lime juice, salt, and pepper.",
+    "Return the crispy lardons to the pot and stir to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican-inspired",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "magically-crunchy-mexican-king-prawns-chilaquiles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-crunchy-mexican-king-prawns-chilaquiles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:38:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "king prawns",
+    "diet": "whole30",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "king prawns",
+    "descriptor": "Magically Crunchy",
+    "dishForm": "Chilaquiles"
+  }
+}
