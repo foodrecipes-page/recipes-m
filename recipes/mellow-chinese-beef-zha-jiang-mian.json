@@ -1,0 +1,116 @@
+{
+  "title": "Mellow Chinese Beef Zha Jiang Mian",
+  "description": "A silky, tangy noodle dish with cumin flavored beef sauce, perfect for festive gatherings.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean flank steak",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wheat noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced scallion",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium heat until shimmering.",
+    "Add minced garlic and ginger, sauté until fragrant about 30 seconds.",
+    "Push aromatics to the side and add beef slices, stir‑fry until browned, then remove from wok.",
+    "Deglaze the wok with 1 cup water, scraping up browned bits, then add soy sauce, oyster sauce, sugar, and cumin; simmer until the sauce thickens.",
+    "Return the beef to the wok, toss to coat, and cook for another minute.",
+    "Meanwhile, boil the noodles in salted water until al dente, then drain and rinse under cold water.",
+    "Divide the cooked noodles into bowls and ladle the beef sauce over them.",
+    "Sprinkle minced scallion and drizzle chili oil if using, then serve immediately.",
+    "Garnish with extra scallion or toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "festival",
+    "one-pot",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 51,
+    "carbs": 66,
+    "fat": 24
+  },
+  "slug": "mellow-chinese-beef-zha-jiang-mian",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-chinese-beef-zha-jiang-mian",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:57:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cumin",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Beef",
+    "descriptor": "Mellow",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
