@@ -1,0 +1,103 @@
+{
+  "title": "Molten Nutty Korean Spaghetti Songpyeon",
+  "description": "A lacto-vegetarian Korean dish featuring spaghetti, nuts, and a molten center, served in an agave leaf vessel, perfect for a sick day",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the spaghetti in boiling salted water until al dente, then drain and set aside.",
+    "In a large skillet, heat the sesame oil over medium heat and saute the chopped walnuts until fragrant.",
+    "Add the gochujang, soy sauce, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked spaghetti to the skillet and toss to coat with the sauce.",
+    "In a large bowl, combine the spaghetti mixture and grated mozzarella cheese, and mix until the cheese is well combined.",
+    "Spoon the spaghetti mixture onto the center of an agave leaf, leaving a 1 inch border around the edges.",
+    "Fold the agave leaf over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Place the songpyeon on a baking sheet lined with parchment paper and bake for 15 minutes, or until the cheese is melted and the agave leaf is crispy.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "lacto-vegetarian",
+    "molten",
+    "nutty",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "molten-nutty-korean-spaghetti-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-nutty-korean-spaghetti-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:53:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "spaghetti",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "spaghetti",
+    "descriptor": "molten nutty",
+    "dishForm": "Songpyeon"
+  }
+}
