@@ -1,0 +1,90 @@
+{
+  "title": "Minty Crunchy Norwegian Khus Khus Bowl",
+  "description": "A refreshing, crunchy bowl packed with toasted sesame seeds, almonds, chia, and a minty tahini dressing, perfect for a post-workout boost.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic-friendly",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "khos khus (toasted sesame seeds)",
+      "amount": "30g",
+      "notes": "toasted"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "20g"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "15g"
+    },
+    {
+      "name": "tahini",
+      "amount": "20g"
+    },
+    {
+      "name": "coconut water",
+      "amount": "150ml"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk tahini, honey, olive oil, and coconut water until smooth.",
+    "In a bowl, combine toasted khus khus, roasted almonds, and chia seeds.",
+    "Add chopped mint leaves to the dry mix.",
+    "Pour the dressing over the bowl and toss gently to coat.",
+    "Serve immediately or chill for 10 minutes.",
+    "Garnish with extra mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "macrobiotic-friendly",
+    "minty",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 17,
+    "carbs": 23,
+    "fat": 43
+  },
+  "slug": "minty-crunchy-norwegian-khus-khus-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-crunchy-norwegian-khus-khus-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:11:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "khus khus",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "khus khus",
+    "descriptor": "Minty Crunchy",
+    "dishForm": "Bowl"
+  }
+}
