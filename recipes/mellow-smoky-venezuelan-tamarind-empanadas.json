@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Smoky Venezuelan Tamarind Empanadas",
+  "description": "A crowd-pleasing Venezuelan dish featuring a tangy tamarind ball, smoky flavor, and a silky texture, all wrapped in a low-fat friendly empanada. This recipe is a must-try for anyone looking for a unique and delicious meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "1/2 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, smoked paprika, and salt.",
+    "Add the olive oil, yellow mustard, and tamarind paste to the bowl and mix until a dough forms.",
+    "Gradually add the water to the bowl and mix until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of tamarind paste in the center of each circle and fold the dough over to form a half-moon shape.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "latin-american",
+    "low-fat",
+    "silky",
+    "smoky",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mellow-smoky-venezuelan-tamarind-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoky-venezuelan-tamarind-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:22:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "tamarind ball",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tamarind",
+    "descriptor": "Mellow Smoky",
+    "dishForm": "Empanadas"
+  }
+}
