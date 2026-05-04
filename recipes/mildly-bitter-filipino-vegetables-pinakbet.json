@@ -1,0 +1,105 @@
+{
+  "title": "Mildly Bitter Filipino Vegetables Pinakbet",
+  "description": "A traditional Filipino dish featuring a mix of vegetables, including bitter melon, in a savory and slightly bitter sauce, made diabetic-friendly with careful ingredient selection.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the sliced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced bitter melon, eggplant, and okra, and cook until the vegetables are tender.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "In a small bowl, mix the fish sauce, vinegar, salt, and black pepper.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-bitter-filipino-vegetables-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-bitter-filipino-vegetables-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:54:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "robata-grill",
+    "primaryIngredient": "piccalilli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Mildly Bitter",
+    "dishForm": "Pinakbet"
+  }
+}
