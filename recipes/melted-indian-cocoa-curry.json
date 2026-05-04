@@ -1,0 +1,117 @@
+{
+  "title": "Melted Indian Cocoa Curry",
+  "description": "A jammy, crunchy lazy-sunday dish that blends rich cocoa with tandoor-clay pot cooking, creating a creamy, aromatic curry.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "sattvic",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "roasted cashews",
+      "amount": "1/2 cup",
+      "notes": "crunchy garnish"
+    },
+    {
+      "name": "cane sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tandoor-clay pot over medium heat and sauté the onion until translucent.",
+    "Add the ginger and garlic and cook for 1 minute until fragrant.",
+    "Stir in the ground cumin, coriander powder, and garam masala, cooking for another minute.",
+    "Pour in the coconut milk, cocoa powder, almond butter, and cane sugar, whisking until smooth.",
+    "Bring the mixture to a gentle simmer, then reduce heat to low and let it cook for 30 minutes, stirring occasionally.",
+    "During the last 10 minutes of simmering, add the roasted cashews to melt slightly and thicken the curry.",
+    "Taste and adjust seasoning with salt, adding more sugar if desired for jammy sweetness.",
+    "Transfer the curry to a serving dish, garnish with extra cashews, and serve hot with steamed rice or flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa",
+    "jammy",
+    "lazy-sunday",
+    "sattvic",
+    "slow-cook",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 60,
+    "carbs": 150,
+    "fat": 80
+  },
+  "slug": "melted-indian-cocoa-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-indian-cocoa-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:17:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cocoa",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cocoa",
+    "descriptor": "Melted",
+    "dishForm": "Curry"
+  }
+}
