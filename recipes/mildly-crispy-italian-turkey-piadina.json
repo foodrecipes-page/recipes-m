@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Crispy Italian Turkey Piadina",
+  "description": "A savory, mildly crispy piadina filled with sautéed turkey mince, spinach, and provolone cheese, cooked in a traditional molcajete for a quick lunch or dinner.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fine sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turkey mince",
+      "amount": "250g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "50g"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "50g"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk flour, salt, and pepper together.",
+    "Add warm water and olive oil to the dry mix, stirring until a sticky dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth, then cover and let rest for 20 minutes.",
+    "While the dough rests, heat a skillet over medium heat and sauté the diced onion until translucent, about 3 minutes.",
+    "Add minced garlic to the pan, cook for 30 seconds, then stir in the turkey mince, cooking until browned, about 8 minutes.",
+    "Season the turkey mixture with oregano and a pinch of pepper, then let it simmer for 2 minutes, stirring.",
+    "Turn off the heat and spread a thin layer of tomato sauce over each rolled-out dough rectangle.",
+    "Sprinkle the cooked turkey mixture evenly over the sauce, top with spinach slices and provolone cheese.",
+    "Fold the edges of the dough over the filling and press to seal, forming a pocket.",
+    "Place the prepared piadina on a hot molcajete or griddle, cooking each side for 3 minutes until golden and crisp.",
+    "Remove from heat, let cool slightly, then slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 19,
+  "totalTimeMin": 49,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cooking-with-molcajete",
+    "crispy",
+    "easy-dinner",
+    "piadina",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 90,
+    "carbs": 145,
+    "fat": 28
+  },
+  "slug": "mildly-crispy-italian-turkey-piadina",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-crispy-italian-turkey-piadina",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:08:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "turkey mince",
+    "diet": "lacto-vegetarian",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Mildly Crispy",
+    "dishForm": "Piadina"
+  }
+}
