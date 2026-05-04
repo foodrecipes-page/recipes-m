@@ -1429,6 +1429,19 @@
     "shard": "m"
   },
   {
+    "slug": "mellow-malty-argentinian-chuck-roast-roast",
+    "title": "Mellow Malty Argentinian Chuck Roast Roast",
+    "tags": [
+      "argentinian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 200,
+    "shard": "m"
+  },
+  {
     "slug": "mellow-middle-eastern-almonds-toast",
     "title": "Mellow Middle Eastern Almonds Toast",
     "tags": [
@@ -4747,6 +4760,21 @@
       "vegan"
     ],
     "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "miso-glazed-chinese-beet-xiaolongbao",
+    "title": "Miso Glazed Chinese Beet Xiaolongbao",
+    "tags": [
+      "beetroot",
+      "char-grilled",
+      "chinese",
+      "one-pan",
+      "weeknight",
+      "xiaolongbao"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "m"
   },

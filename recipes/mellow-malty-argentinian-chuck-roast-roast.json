@@ -1,0 +1,60 @@
+{
+  "title": "Mellow Malty Argentinian Chuck Roast Roast",
+  "description": "A light, one-pan Argentinian dish featuring a tender chuck roast, served solo for a satisfying dinner. This recipe is Jain-friendly, using a comal to achieve a malty flavor without added sugars.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1.5 lbs",
+      "notes": "preferably grass-fed"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal to 400F (200C).",
+    "Season the chuck roast with salt, black pepper, and 1 tsp ground cumin, rubbing the spices evenly into the meat.",
+    "Heat 1 tbsp olive oil in a large comal-safe skillet over medium-high heat. Sear the chuck roast until a nice crust forms, about 2-3 minutes per side.",
+    "Transfer the skillet to a preheated oven and roast the chuck roast at 350F (180C) for 2-3 hours, or until tender.",
+    "Remove the skillet from the oven and let the roast rest for 20 minutes before slicing.",
+    "Transfer the sliced roast to a large plate and drizzle with 1 tbsp olive oil, then sprinkle with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 68,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mellow-malty-argentinian-chuck-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-malty-argentinian-chuck-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chuck roast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chuck Roast",
+    "descriptor": "Mellow Malty",
+    "dishForm": "Roast"
+  }
+}
