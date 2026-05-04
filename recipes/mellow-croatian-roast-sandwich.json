@@ -1,0 +1,93 @@
+{
+  "title": "Mellow Croatian Roast Sandwich",
+  "description": "A comforting low-sodium Croatian roast sandwich with crusty bread, tender roasted pork, creamy mozzarella, and a briny aioli for a mellow flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "roasted pork tenderloin",
+      "amount": "200 g"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "low-sodium aioli",
+      "amount": "20 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10 g"
+    },
+    {
+      "name": "arugula",
+      "amount": "20 g"
+    },
+    {
+      "name": "caramelized shallots",
+      "amount": "30 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 degrees celsius.",
+    "Brush the pork tenderloin with olive oil and season with fresh black pepper.",
+    "Place the pork in a baking dish and roast for 25 minutes or until internal temperature reaches 65 degrees celsius.",
+    "Let the pork rest for 5 minutes and then slice thinly.",
+    "Toast the sourdough slices until golden and slightly crisp.",
+    "Spread a generous amount of low-sodium aioli on one side of each slice.",
+    "Layer the sliced pork, mozzarella, caramelized shallots, and arugula on one slice of bread.",
+    "Top with the second slice of bread, aioli side down, and press gently.",
+    "Cut the sandwich in half, serve immediately, and enjoy the mellow flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "comfort-food",
+    "easy",
+    "low-sodium",
+    "roasted",
+    "sandwich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1085,
+    "protein": 69,
+    "carbs": 87,
+    "fat": 44
+  },
+  "slug": "mellow-croatian-roast-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-croatian-roast-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:38:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "crusty bread",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "roast",
+    "descriptor": "Mellow",
+    "dishForm": "Sandwich"
+  }
+}
