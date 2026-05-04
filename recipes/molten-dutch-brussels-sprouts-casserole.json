@@ -1,0 +1,97 @@
+{
+  "title": "Molten Dutch Brussels Sprouts Casserole",
+  "description": "A resinous, molten Dutch favorite featuring caramelized Brussels sprouts topped with a rich confit-tomato and cream sauce, low-carb and crowd-pleasing.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Confit tomato, canned",
+      "amount": "200g"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "60g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "30g",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Trim the ends of the Brussels sprouts, cut them in half, and rinse them well.",
+    "Toss the sprouts with olive oil, smoked paprika, salt, and pepper until evenly coated.",
+    "Spread the seasoned sprouts on a baking sheet and roast for 20 minutes until caramelized and slightly browned.",
+    "While the sprouts roast, heat a small saucepan over medium heat and add the confit tomato, simmering for 5 minutes to thicken the sauce.",
+    "Remove the saucepan from heat and stir in the heavy cream and grated Parmesan until the mixture becomes a thick, molten sauce.",
+    "Transfer the roasted sprouts to a baking dish and pour the molten sauce over them, spreading evenly.",
+    "Sprinkle bacon bits over the top for an optional smoky finish.",
+    "Return the casserole to the oven and bake for an additional 10 minutes until the sauce bubbles and the top is golden.",
+    "Serve hot directly from the oven for a rich, molten experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dutch",
+    "low-carb",
+    "one-pan",
+    "oven-baked",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 90
+  },
+  "slug": "molten-dutch-brussels-sprouts-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-dutch-brussels-sprouts-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:40:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "confit-tomato",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Molten",
+    "dishForm": "Casserole"
+  }
+}
