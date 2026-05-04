@@ -1,0 +1,107 @@
+{
+  "title": "Minty Leaf Vietnamese King Prawns Wrap",
+  "description": "A spicy, creamy brunch-style Vietnamese wrap that pairs fresh raw king prawns with a tangy lime-coconut sauce, crisp mint leaves and crunchy vegetables, all wrapped in a fresh ti leaf.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "King prawns (raw, peeled and deveined)",
+      "amount": "200 g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup (chopped)"
+    },
+    {
+      "name": "Cucumber, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ti leaf, softened",
+      "amount": "12"
+    },
+    {
+      "name": "Sweet potato starch",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the king prawns under cold water and pat them dry with paper towels.",
+    "Whisk together lime juice, coconut milk, fish sauce, chili flakes, and sweet potato starch until the starch is fully dissolved to form a creamy sauce.",
+    "Gently fold the raw prawns into the sauce, cover with plastic wrap, and refrigerate for 15 minutes to let the flavors mingle.",
+    "While the prawns marinate, blanch the mint, cucumber, carrot, and bell pepper in boiling water for 30 seconds, then plunge them into ice water to keep them crisp.",
+    "Pat the vegetables dry with a towel and arrange a handful of each on top of a softened ti leaf.",
+    "Add a spoonful of the chilled prawn sauce and a few raw prawns onto the vegetable bed.",
+    "Sprinkle chopped cilantro over the top for extra aroma.",
+    "Roll the ti leaf tightly around the fillings, sealing the edge with a drop of water to keep it closed, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "breakfast",
+    "fresh",
+    "low-carb",
+    "whole30-friendly",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 32,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "minty-leaf-vietnamese-king-prawns-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-leaf-vietnamese-king-prawns-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:50:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "raw king prawns",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "king prawns",
+    "descriptor": "Minty Leaf",
+    "dishForm": "Wrap"
+  }
+}
