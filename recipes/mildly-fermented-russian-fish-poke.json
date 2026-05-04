@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Fermented Russian Fish Poke",
+  "description": "A pescatarian-friendly Russian dish featuring fermented fish, dashi, and a cheese-pull effect, served in a fondue pot for a solo dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fermentation spice mix",
+      "amount": "2 tablespoons",
+      "notes": "containing salt, sugar, and dill weed"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "sharp or mild"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Poach the cod fish in the dashi broth at 180 degrees Fahrenheit for 8 minutes, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the fish from the broth and let it cool to room temperature.",
+    "In a small bowl, mix the fermentation spice mix with the sour cream until well combined.",
+    "Place the cooled fish in a fondue pot and pour the sour cream mixture over it.",
+    "Sprinkle the grated cheddar cheese over the top of the fish and sour cream mixture.",
+    "Add the chopped scallions and a squeeze of lemon juice over the cheese.",
+    "Season with black pepper to taste.",
+    "Let the mixture ferment at room temperature for 2 hours, or until it reaches the desired level of fermentation.",
+    "Serve the mildly fermented Russian fish poke hot, with the cheese pull effect achieved by stirring the mixture gently."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "high-protein",
+    "one-pot",
+    "pescatarian-friendly",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mildly-fermented-russian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-fermented-russian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:28:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "dashi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "mildly fermented",
+    "dishForm": "Poke"
+  }
+}
