@@ -1,0 +1,93 @@
+{
+  "title": "Melted Silky Russian Tomato Pilaf",
+  "description": "A funky, silky, and cozy Russian dish featuring tinned tomatoes, caramelized onions, and macrobiotic-friendly ingredients, perfect for a cold winter night.",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tinned tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the crushed tomatoes, salt, black pepper, thyme, and garlic powder, and stir to combine.",
+    "Add the brown rice to the saucepan and stir to combine with the tomato mixture.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve with a side of steamed vegetables or a green salad, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "macrobiotic",
+    "one-pot",
+    "vegetarian",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "melted-silky-russian-tomato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-silky-russian-tomato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:55:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "melted silky",
+    "dishForm": "Pilaf"
+  }
+}
