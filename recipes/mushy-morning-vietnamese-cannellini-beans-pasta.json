@@ -1,0 +1,119 @@
+{
+  "title": "Mushy Morning Vietnamese Cannellini Beans Pasta",
+  "description": "A creative and umami-rich brunch dish featuring cannellini beans in a glassy-jelly pasta water emulsion, all under 500 calories and glycemic-friendly. Perfect for a satisfying Saturday morning.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut water",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "minced ginger",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated daikon radish",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "fine salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "pasta (gluten-free brown rice pasta)",
+      "amount": "120g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta in a large pot of boiling, salted water until al dente.",
+    "In a blender or food processor, combine rice vinegar, unsweetened coconut water, vegetable oil, chopped scallions, minced ginger, chopped cilantro, kaffir lime leaves, grated daikon radish, fine salt, and black pepper.",
+    "Blend the mixture on high speed until a smooth, emulsified sauce forms.",
+    "In a skillet, heat 10g of the sauce over medium heat, then add the cooked pasta and toss to coat, adding more sauce as needed.",
+    "Add the cannellini beans to the skillet and toss with the pasta and sauce to combine, until heated through.",
+    "Serve the pasta hot, topped with additional sauce and chopped scallions if desired.",
+    "Garnish with chopped cilantro and kaffir lime leaves, if desired.",
+    "Season with additional fine salt and black pepper, if needed."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-breakfast",
+    "high-protein",
+    "one-pan",
+    "vegan-breakfast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mushy-morning-vietnamese-cannellini-beans-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mushy-morning-vietnamese-cannellini-beans-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "mushy morning",
+    "dishForm": "Pasta"
+  }
+}
