@@ -1,0 +1,118 @@
+{
+  "title": "Minty Creamy Malaysian Buchu Curry",
+  "description": "A fragrant, creamy curry bursting with grassy buchu and mint, perfect for a soothing hot stone plate dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buchu leaves",
+      "amount": "30 g",
+      "notes": "fresh"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "20 g",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "Indonesian or Thai"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the hot stone plate over medium heat until it is hot.",
+    "Add the vegetable oil and sauté the diced onion until translucent.",
+    "Stir in the minced garlic, grated ginger, and chopped chili, cooking for 1 minute.",
+    "Mix in the curry paste, turmeric powder, and a splash of coconut milk, letting the mixture simmer.",
+    "Add the buchu leaves, mint leaves, and diced tomato, stirring until the herbs wilt.",
+    "Pour in the remaining coconut milk and bring the curry to a gentle simmer for 10 minutes.",
+    "Season with salt, pepper, and lime juice, adjusting flavors to taste.",
+    "Serve the curry directly on the hot stone plate over cooked rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "curry",
+    "hot-stone",
+    "malaysian",
+    "minty",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "minty-creamy-malaysian-buchu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-creamy-malaysian-buchu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:52:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "salt-bake",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "buchu",
+    "descriptor": "Minty Creamy",
+    "dishForm": "Curry"
+  }
+}

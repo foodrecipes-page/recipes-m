@@ -1,0 +1,94 @@
+{
+  "title": "Mustardy Silky Scottish Smoked Salmon Afternoon Tea Sandwich",
+  "description": "Indulge in the rich flavors of Scotland with this silky smoked salmon afternoon tea sandwich, featuring a hint of mustard and a touch of extra virgin olive oil, all carefully prepared in a kadhai and steamed to perfection using the mushimono method.",
+  "cuisine": "Scottish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "12 ounces",
+      "notes": "Scottish origin"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gluten-free bread",
+      "amount": "1 loaf",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the kadhai over medium heat, adding the extra virgin olive oil to coat the bottom.",
+    "In a small bowl, mix the Dijon mustard and lemon juice until well combined.",
+    "Add the smoked salmon to the bowl, breaking it up gently with a fork to combine with the mustard mixture.",
+    "Stir in the chopped fresh dill and season with salt and black pepper to taste.",
+    "Arrange the gluten-free bread slices on a plate or tray, ready for assembly.",
+    "Using the mushimono-steam method, steam the bread slices for 2-3 minutes to give them a silky texture.",
+    "Assemble the sandwiches by spooning the smoked salmon mixture onto the steamed bread slices.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional chopped fresh dill if desired.",
+    "Prepare a selection of teas to accompany the sandwiches, such as Earl Grey or English Breakfast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "gluten-free",
+    "indulgent",
+    "one-pan",
+    "scottish-cuisine",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:52:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "gluten-free",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "mustardy silky",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}
