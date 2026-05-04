@@ -1,0 +1,106 @@
+{
+  "title": "Melted Kenyan Peas Tagine",
+  "description": "A solo-dinner featuring snow peas, cooked in a spicy tagine with plant-based-friendly flavors.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a small saucepan over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add the minced garlic and cook for another minute, until softened.",
+    "Add the red pepper flakes, cumin, and turmeric, and cook for 1 minute, stirring constantly.",
+    "Add the snow peas and cook for 3-4 minutes, until tender but still crisp.",
+    "Stir in the lemon juice and salt, and bring to a simmer.",
+    "Reduce the heat to low and let cook for 2-3 minutes, until the snow peas are fully coated in the sauce.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Adjust seasoning as needed, and serve immediately.",
+    "Serve over rice or with flatbread, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "one-pan",
+    "summer",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "melted-kenyan-peas-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-kenyan-peas-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "tagine-cook",
+    "primaryIngredient": "snow peas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peas",
+    "descriptor": "melted",
+    "dishForm": "tagine"
+  }
+}

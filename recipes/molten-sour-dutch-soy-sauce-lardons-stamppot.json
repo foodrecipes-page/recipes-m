@@ -1,0 +1,72 @@
+{
+  "title": "Molten Sour Dutch Soy Sauce Lardons Stamppot",
+  "description": "A festive Dutch dish featuring soy sauce, lardons-render, and a twist of sourness. This low-calorie-friendly stamppot is perfect for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Lardons",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "60ml",
+      "notes": "use a low-sodium soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the lardons-render in a large skillet over medium heat until melted.",
+    "Add the soy sauce and stir to combine.",
+    "Add the chopped kale and cook until wilted.",
+    "Stir in 120g of shredded cabbage and cook for 2 minutes.",
+    "Transfer the mixture to a serving dish and top with a dollop of sour Dutch sauce.",
+    "To make the sour Dutch sauce, mix 100g of Greek yogurt with 10g of Dijon mustard and 5g of chopped fresh chives.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve immediately, garnished with additional chives if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-sour-dutch-soy-sauce-lardons-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "soy sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Soy sauce lardons",
+    "descriptor": "Molten sour",
+    "dishForm": "Stamppot"
+  }
+}
