@@ -1,0 +1,99 @@
+{
+  "title": "moist chinese eggs omelette",
+  "description": "a creamy chinese dish featuring currants, spherified for added texture. perfect for a weekend brunch.",
+  "cuisine": "chinese",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "currants",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "spherified sodium alginate water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "crack the eggs into a bowl and whisk until the whites and yolks are fully incorporated.",
+    "heat the butter in a small non-stick pan over medium heat.",
+    "add the spherified sodium alginate water to the pan and cook for 1-2 minutes, or until the liquid has evaporated and the mixture has thickened slightly.",
+    "add the currants to the pan and cook for 1 minute, stirring constantly.",
+    "push the currants to one side of the pan and add a small amount of oil to the other side.",
+    "pour the whisked eggs over the currants and cook for 1-2 minutes, or until the eggs are almost set.",
+    "use a spatula to gently fold the eggs over the currants.",
+    "cook for an additional 30 seconds to 1 minute, or until the eggs are fully set.",
+    "use the spatula to carefully slide the omelette out of the pan onto a plate.",
+    "sprinkle the chopped scallions and sesame oil over the top of the omelette.",
+    "season with salt to taste.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chinese-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "moist-chinese-eggs-omelette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-chinese-eggs-omelette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T08:44:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "currants",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Eggs",
+    "descriptor": "moist",
+    "dishForm": "Omelette"
+  }
+}
