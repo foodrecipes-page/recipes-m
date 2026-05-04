@@ -1,0 +1,111 @@
+{
+  "title": "Minty Shattering Malaysian Pak Choi Salad",
+  "description": "A floral, shattering kid‑friendly salad that stays cool and FODMAP‑friendly with baby pak choi, mint, and a smoky cold dressing.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "fodmap-friendly",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby pak choi",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "30g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium (150g)"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium (150g)"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (100g)"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic‑infused oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1 tbsp",
+      "notes": "small amount for crunch"
+    }
+  ],
+  "instructions": [
+    "Wash all vegetables thoroughly and dry them.",
+    "Separate the baby pak choi into bite‑size pieces and set aside.",
+    "Dice the red bell pepper, cucumber, and carrot into thin matchsticks.",
+    "Zest the lime and squeeze its juice into a small bowl.",
+    "Add sesame oil, rice vinegar, low‑sodium soy sauce, grated ginger, and garlic‑infused oil to the lime juice and whisk until combined.",
+    "Toss the vegetables with the dressing until evenly coated.",
+    "Fold in the mint leaves and roasted peanuts, mixing gently.",
+    "Refrigerate the salad for at least 10 minutes to chill and let flavors meld.",
+    "Serve cold, optionally garnishing with extra mint or lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "kid-friendly",
+    "quick-serve",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 9
+  },
+  "slug": "minty-shattering-malaysian-pak-choi-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-shattering-malaysian-pak-choi-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:15:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "baby pak koi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "baby pak choi",
+    "descriptor": "Minty Shattering",
+    "dishForm": "Salad"
+  }
+}
