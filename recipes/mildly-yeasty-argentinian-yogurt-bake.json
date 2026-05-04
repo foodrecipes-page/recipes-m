@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Yeasty Argentinian Yogurt Bake",
+  "description": "A fluffy and cozy Argentinian dish featuring poached eggs and a hint of spicy doubanjiang.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "250g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Doubanjiang",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Grease a 20cm (8-inch) round baking dish.",
+    "Whisk together the flour, sugar and baking powder in a medium bowl.",
+    "In a separate bowl, whisk together the yogurt, eggs, and doubanjiang.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared baking dish.",
+    "Dot the top with vegetable oil.",
+    "Make 2-3 holes in the batter and carefully place a poached egg in each hole.",
+    "Bake for 25-30 minutes or until the eggs are cooked through and the bread is golden brown.",
+    "Remove from the oven and sprinkle with chopped parsley if desired.",
+    "Let cool for 5-10 minutes before slicing and serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "gluten-free-friendly",
+    "high-protein",
+    "weeknight",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mildly-yeasty-argentinian-yogurt-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-yeasty-argentinian-yogurt-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:37:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "doubanjiang",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Mildly Yeasty",
+    "dishForm": "Bake"
+  }
+}
