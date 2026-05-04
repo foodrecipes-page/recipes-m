@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Smoky French Apples Tarte Tatin",
+  "description": "A smoky and pillowy French dish featuring apple cider vinegar and a Mediterranean twist, perfect for a brunch mood. This tarte tatin is made with caramelized apples and a hint of smokiness from the flambe",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granny Smith apples",
+      "amount": "4 large",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the sugar, cooking until caramelized.",
+    "Add the apple cider vinegar and cook for an additional 2 minutes.",
+    "Add the apples to the skillet and cook until they are tender, about 10 minutes.",
+    "In a separate bowl, whisk together the flour, eggs, and heavy cream to make the pastry dough.",
+    "Roll out the dough and place it over the apples in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and sprinkle the smoked paprika over the top.",
+    "Use a kitchen torch to flambe the top of the tarte tatin, caramelizing the sugar.",
+    "Let the tarte tatin cool for 10 minutes before serving.",
+    "Serve the tarte tatin warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-cider-vinegar",
+    "brunch-ideas",
+    "french-dish",
+    "mediterranean-inspired",
+    "smoky-flavors",
+    "tarte-tatin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "mellow-smoky-french-apples-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoky-french-apples-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:46:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "flambe",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "mediterranean",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Mellow Smoky",
+    "dishForm": "Tarte Tatin"
+  }
+}

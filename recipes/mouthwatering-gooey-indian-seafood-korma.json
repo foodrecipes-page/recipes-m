@@ -1,0 +1,96 @@
+{
+  "title": "Mouthwatering Gooey Indian Seafood Korma",
+  "description": "A fresh and adventurous Indian dish featuring seafood stock, dehydrated ingredients, and a raw-friendly korma form, all wrapped in a corn husk vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "shellfish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the ghee over medium heat and add the cumin, coriander, and garam masala.",
+    "Add the shrimp to the pan and cook until pink, about 2-3 minutes per side.",
+    "In a large bowl, whisk together the seafood stock and coconut milk.",
+    "Add the cooked shrimp to the bowl and stir to combine.",
+    "Spoon the mixture onto the center of a corn husk, leaving a 1 inch border around the edges.",
+    "Fold the sides of the corn husk over the filling and roll up the wrapper to form a tight cylinder.",
+    "Place the wrapped korma on a baking sheet and bake for 15-20 minutes, or until the filling is hot and the corn husk is crispy.",
+    "Serve hot, garnished with lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "one-pan",
+    "seafood-lovers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mouthwatering-gooey-indian-seafood-korma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-gooey-indian-seafood-korma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:45:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "seafood stock",
+    "diet": "raw",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "seafood",
+    "descriptor": "mouthwatering gooey",
+    "dishForm": "Korma"
+  }
+}

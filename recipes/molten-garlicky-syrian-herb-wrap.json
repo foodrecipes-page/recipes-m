@@ -1,0 +1,108 @@
+{
+  "title": "Molten Garlicky Syrian Herb Wrap",
+  "description": "A festive Syrian wrap where aromatic garlic and summer savory simmer into a molten herb sauce, sealed in fragrant lotus leaves for a vegetarian celebration.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaves",
+      "amount": "6 large"
+    },
+    {
+      "name": "Dried summer savory leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Tomato purée",
+      "amount": "200 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "adds richness"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "200 g, drained"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse lotus leaves and pat dry; boil briefly to soften.",
+    "Heat olive oil over medium heat and sauté minced garlic until fragrant.",
+    "Add tomato purée and dried summer savory; simmer for 5 minutes, stirring.",
+    "Stir in chickpeas, pomegranate molasses, lemon juice, and tahini; cook until sauce thickens, about 4 minutes.",
+    "Season with salt and pepper to taste; remove from heat and let cool slightly.",
+    "Place a spoonful of the sauce on each lotus leaf; sprinkle chopped parsley over top.",
+    "Fold the lotus leaf into a wrap, sealing edges with a toothpick if needed.",
+    "Warm wraps in a preheated oven at 180°C for 8 minutes until molten and fragrant."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "herb-forward",
+    "holiday",
+    "lotus-leaf",
+    "melted-sauce",
+    "syrian",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 119,
+    "protein": 3,
+    "carbs": 11,
+    "fat": 7
+  },
+  "slug": "molten-garlicky-syrian-herb-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-garlicky-syrian-herb-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:46:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Herb",
+    "descriptor": "Molten Garlicky",
+    "dishForm": "Wrap"
+  }
+}
