@@ -1,0 +1,90 @@
+{
+  "title": "Mild Crispy Slovak Foie Gras Skewers",
+  "description": "Savory, lightly seasoned foie gras cubes grilled on an iron teppan and finished crisp in an air fryer for a Mediterranean-friendly Slovak lunch.",
+  "cuisine": "Slovak",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Foie gras",
+      "amount": "200g",
+      "notes": "diced into 1.5cm cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C and heat the iron teppan on medium‑high until hot.",
+    "Season the foie gras cubes with salt, pepper, paprika, garlic powder, and lemon zest, tossing until well‑coated.",
+    "Thread 4 to 5 cubes onto each skewer, leaving a small space between cubes.",
+    "Lightly brush the teppan with olive oil to prevent sticking.",
+    "Sear the skewers on the teppan for 2 minutes per side until golden brown and caramelized.",
+    "Transfer the seared skewers to the air fryer basket and cook for 4 minutes, flipping halfway through, until the surface is crisp.",
+    "Remove the skewers from the air fryer and let rest for 1 minute.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "crispy",
+    "iron-teppan",
+    "mediterranean-friendly",
+    "savory",
+    "slovak"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 8,
+    "carbs": 1,
+    "fat": 38
+  },
+  "slug": "mild-crispy-slovak-foie-gras-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-crispy-slovak-foie-gras-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:23:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "foie-gras",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovak",
+    "mainIngredient": "foie gras",
+    "descriptor": "Mild Crispy",
+    "dishForm": "Skewers"
+  }
+}
