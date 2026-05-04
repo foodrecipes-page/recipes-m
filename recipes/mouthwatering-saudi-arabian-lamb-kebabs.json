@@ -1,0 +1,102 @@
+{
+  "title": "Mouthwatering Saudi Arabian Lamb Kebabs",
+  "description": "Tender lamb kebabs marinated in a rich blend of spices and sesame seed oil, served solo on a bamboo tray, perfect for a satisfying dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine lamb, sesame seed oil, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper in a large bowl and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium high heat.",
+    "Thread the marinated lamb cubes onto bamboo skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until they reach an internal temperature of 145 degrees.",
+    "Immediately submerge the kebabs in an ice bath to stop the cooking process.",
+    "Let the kebabs rest in the ice bath for 5 minutes before serving.",
+    "Serve the kebabs on a bamboo tray, garnished with fresh parsley and lemon wedges.",
+    "Discard any leftover marinade and wash hands thoroughly after handling raw meat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mouthwatering-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:51:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "mouthwatering pillowy",
+    "dishForm": "Kebabs"
+  }
+}
