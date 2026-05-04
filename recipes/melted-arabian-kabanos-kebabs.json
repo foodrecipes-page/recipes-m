@@ -1,0 +1,110 @@
+{
+  "title": "Melted Arabian Kabanos Kebabs",
+  "description": "Resinous, cheese-pull, sick-day Saudi-Arabian dish featuring vegetarian kabanos, yuzu-cured cheese, and a lacto-vegetarian-friendly punch of herbs.",
+  "cuisine": "Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetarian kabanos sausages",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "halloumi cheese",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the kabanos with a little olive oil and season with salt, pepper, cumin, and paprika.",
+    "Skewer the sausage pieces alternately with halloumi and feta, inserting them into the skewer before placing on the grill.",
+    "Grill the skewers for 3 to 4 minutes on each side until the sausages are browned and the halloumi has melted.",
+    "Brush the grilled skewers with yuzu juice and zesty aroma from yuzu zest during the last minute of cooking.",
+    "Remove from heat and let rest for 2 minutes to allow cheese to set slightly.",
+    "Sprinkle chopped parsley and a squeeze of lemon juice over the kebabs before serving.",
+    "Serve hot as a comforting, melt-in-your-mouth lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "kebab",
+    "lacto-vegetarian",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 39
+  },
+  "slug": "melted-arabian-kabanos-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-arabian-kabanos-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:17:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "kabanos",
+    "descriptor": "Melted",
+    "dishForm": "Kebabs"
+  }
+}
