@@ -1,0 +1,98 @@
+{
+  "title": "Malty Midnight Vietnamese Pork Sandwich",
+  "description": "A malty, shaggy, midnight-craving Vietnamese dish featuring rye bread and pork, perfect for a late night snack. This flexitarian-friendly recipe is made with a tava-griddle.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rye bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a tava-griddle over medium heat and brush with oil.",
+    "Add the sliced pork shoulder and cook until browned, about 5 minutes per side.",
+    "In a small bowl, whisk together the malt syrup, fish sauce, and lime juice.",
+    "Brush the malt syrup mixture onto the pork during the last minute of cooking.",
+    "Toast the rye bread slices on the tava-griddle.",
+    "Spread mayonnaise on each toasted bread slice.",
+    "Assemble the sandwiches by placing the cooked pork onto the bread, then topping with grilled onions, pickled carrots, and cilantro.",
+    "Serve immediately and enjoy.",
+    "Emulsify the mayonnaise and malt syrup mixture by whisking constantly.",
+    "Adjust the amount of fish sauce and lime juice to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "grilled-pork",
+    "malty-flavors",
+    "midnight-cravings",
+    "rye-bread",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "malty-midnight-vietnamese-pork-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-midnight-vietnamese-pork-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:00:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "emulsify",
+    "primaryIngredient": "rye bread",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "malty midnight",
+    "dishForm": "Sandwich"
+  }
+}
