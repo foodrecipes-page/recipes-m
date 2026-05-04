@@ -1,0 +1,107 @@
+{
+  "title": "Monsoon Light Uruguayan Clams Fold",
+  "description": "A light and resinous Uruguayan dish featuring clams, fold, and Mediterranean flavors, perfect for a quick weeknight dinner.",
+  "cuisine": "Uruguayan-Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Uruguayan clams",
+      "amount": "12",
+      "notes": "about 1-2 pounds"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fold",
+      "amount": "4",
+      "notes": "small, pre-cooked"
+    }
+  ],
+  "instructions": [
+    "Rinse the clams under cold water and pat them dry with a paper towel.",
+    "Heat the ghee in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the clams, olive oil, lemon juice, salt, and black pepper to the skillet.",
+    "Cover the skillet and cook for 3-5 minutes, until the clams open.",
+    "Stir in the chopped parsley and cooked fold.",
+    "Serve the clams and fold hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "monsoon-light-uruguayan-clams-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-light-uruguayan-clams-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "clams",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "clams",
+    "descriptor": "monsoon light",
+    "dishForm": "Fold"
+  }
+}

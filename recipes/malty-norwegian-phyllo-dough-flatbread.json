@@ -1,0 +1,101 @@
+{
+  "title": "Malty Norwegian Phyllo Dough Flatbread",
+  "description": "A dense and cozy Norwegian-inspired flatbread featuring phyllo dough and a hint of maltiness. Perfect for a weeknight dinner or as a side dish for a special occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (usually 20-24 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "isOptional": true
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon chopped fresh",
+      "notes": "optional"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tablespoons",
+      "notes": "for tadka step"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malty",
+    "norwegian",
+    "phyllo-dough",
+    "saturday-night",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "malty-norwegian-phyllo-dough-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-norwegian-phyllo-dough-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:19Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "phyllo dough",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "phyllo dough",
+    "descriptor": "malty",
+    "dishForm": "Flatbread"
+  }
+}

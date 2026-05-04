@@ -556,6 +556,19 @@
     "shard": "m"
   },
   {
+    "slug": "malty-egyptian-fenugreek-wrap",
+    "title": "malty Egyptian fenugreek Wrap",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "vegan-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
     "slug": "malty-german-bread-krapfen",
     "title": "Malty German Bread Krapfen",
     "tags": [
@@ -612,6 +625,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-norwegian-phyllo-dough-flatbread",
+    "title": "Malty Norwegian Phyllo Dough Flatbread",
+    "tags": [
+      "malty",
+      "norwegian",
+      "phyllo-dough",
+      "saturday-night",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -3986,6 +4013,19 @@
     "shard": "m"
   },
   {
+    "slug": "mildly-fermented-french-lettuce-mille-feuille",
+    "title": "Mildly Fermented French Lettuce Mille-Feuille",
+    "tags": [
+      "breakfast",
+      "one-pan",
+      "satvik",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 75,
+    "shard": "m"
+  },
+  {
     "slug": "mildly-fermented-middle-eastern-bean-sprouts-tagine",
     "title": "mildly fermented Middle-Eastern bean sprouts Tagine",
     "tags": [
@@ -5280,6 +5320,20 @@
     "shard": "m"
   },
   {
+    "slug": "moist-saudi-arabian-onion-tagine",
+    "title": "Moist Saudi-arabian Onion Tagine",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "saudi-arabian-cuisine",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 62,
+    "shard": "m"
+  },
+  {
     "slug": "moist-tender-vietnamese-salt-cod-com-tam",
     "title": "Moist Tender Vietnamese Salt Cod Com Tam",
     "tags": [
@@ -5518,6 +5572,21 @@
     "shard": "m"
   },
   {
+    "slug": "molten-pungent-kenyan-eggs-frittata",
+    "title": "Molten Pungent Kenyan Eggs Frittata",
+    "tags": [
+      "eggs",
+      "high-protein",
+      "kenyan",
+      "molten",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
     "slug": "molten-russian-beef-dumplings",
     "title": "Molten Russian Beef Dumplings",
     "tags": [
@@ -5650,6 +5719,19 @@
     "shard": "m"
   },
   {
+    "slug": "monsoon-light-uruguayan-clams-fold",
+    "title": "Monsoon Light Uruguayan Clams Fold",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan-Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
     "slug": "monsoon-mediterranean-almond-crumble",
     "title": "Monsoon Mediterranean Almond Crumble",
     "tags": [
@@ -5660,6 +5742,22 @@
       "ukrainian"
     ],
     "cuisine": "Mediterranean, Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "monsoon-mediterranean-rice-pilaf",
+    "title": "Monsoon Mediterranean Rice Pilaf",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "healthy",
+      "mediterranean",
+      "monsoon",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "m"
   },

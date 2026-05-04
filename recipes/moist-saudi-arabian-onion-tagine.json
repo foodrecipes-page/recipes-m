@@ -1,0 +1,108 @@
+{
+  "title": "Moist Saudi-arabian Onion Tagine",
+  "description": "This savory dish from Saudi Arabia showcases the rich flavor of onions, cheese, and spices, perfect for a solo dinner. Cooked to perfection using a sous-vide for an ultra-tender result.",
+  "cuisine": "saudi-arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions, large",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter and olive oil in a large saucepan over medium heat.",
+    "Add the sliced onions and cook, stirring occasionally, until caramelized and dark brown, about 30 minutes.",
+    "Add the garam masala, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the shredded mozzarella cheese and stir until melted and gooey.",
+    "Transfer the tagine to a sous-vide water bath at 160\u00144F (71\u0014C) and cook for 45 minutes.",
+    "Remove the tagine from the sous-vide and garnish with chopped parsley.",
+    "Serve hot, and enjoy!",
+    "Let the tagine rest for a few minutes before serving to allow the cheese to set.",
+    "This will help create the signature cheese pull effect.",
+    "Be patient and enjoy the process!",
+    "Note: For an extra crispy top, broil for an additional 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 47,
+  "totalTimeMin": 62,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "saudi-arabian-cuisine",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "moist-saudi-arabian-onion-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-saudi-arabian-onion-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "onion",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "onion",
+    "descriptor": "Moist",
+    "dishForm": "Tagine"
+  }
+}

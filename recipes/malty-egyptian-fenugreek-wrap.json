@@ -1,0 +1,116 @@
+{
+  "title": "malty Egyptian fenugreek Wrap",
+  "description": "A hearty, gooey, wholemeal flour wrap steamed to perfection with the comforting warmth of fenugreek and the sweetness of malted barley. Perfect for a solo dinner or a Buddhist temple-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholemeal flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Malted barley flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek leaves (fresh or dried)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried fenugreek seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine wholemeal flour, malted barley flour, and salt. Mix well until the flours are evenly combined.",
+    "Add in the fenugreek leaves, both fresh and dried, and mix until they are evenly distributed throughout the flour mixture.",
+    "Gradually add in the water, mixing until a sticky dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4-6 equal portions, depending on how large you want your wraps to be.",
+    "Roll out each portion into a thin circle, about 6-8 inches in diameter.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the wraps for 1-2 minutes on each side, until they are lightly browned and crispy.",
+    "Steam the wraps over boiling water for 5-7 minutes, until they are soft and pliable.",
+    "Fill the steamed wraps with a mixture of fenugreek seeds, cilantro leaves, lemon juice, garlic, and cumin powder. Drizzle with ghee or vegetable oil.",
+    "Serve the malty Egyptian fenugreek Wrap hot, garnished with additional cilantro leaves and lemon wedges, if desired.",
+    "Store any leftover wraps in an airtight container in the refrigerator for up to 3 days.",
+    "To reheat, simply steam the wraps for an additional 2-3 minutes, until they are soft and pliable."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "malty-egyptian-fenugreek-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-egyptian-fenugreek-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "malty",
+    "dishForm": "Wrap"
+  }
+}
