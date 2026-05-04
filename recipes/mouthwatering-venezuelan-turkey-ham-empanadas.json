@@ -1,0 +1,88 @@
+{
+  "title": "Mouthwatering Venezuelan Turkey Ham Empanadas",
+  "description": "Buttery and chewy Venezuelan empanadas filled with sashimi-cut turkey ham, perfect for a cozy snack or meal. This recipe is whole30-friendly and features a delicious combination of flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the empanada dough, butter, egg, water, salt, and black pepper.",
+    "Add the sashimi-cut turkey ham to the dough mixture and stir until well combined.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of the turkey ham mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mouthwatering-venezuelan-turkey-ham-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-venezuelan-turkey-ham-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:30:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "turkey ham",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "turkey ham",
+    "descriptor": "mouthwatering buttery",
+    "dishForm": "Empanadas"
+  }
+}
