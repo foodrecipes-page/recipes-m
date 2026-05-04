@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Spicy Chiapan Corn Grilled Elote",
+  "description": "A mildly spicy and flavorful twist on traditional Mexican elote, made with almond flour and tempered chocolate",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn on the cob",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tablespoons",
+      "notes": "or gluten-free all-purpose flour"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "or plain Greek yogurt"
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tempered dark chocolate",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Shuck the corn and remove any silk or debris.",
+    "In a small bowl, mix together the almond flour, ground cumin, smoked paprika, and melted chocolate.",
+    "Rub the mixture evenly onto the corn, making sure to coat all surfaces.",
+    "Grill the corn for 10-12 minutes, turning every 2-3 minutes, until slightly charred and tender.",
+    "While the corn is grilling, melt the lard or shortening in a small saucepan over low heat.",
+    "Add the mayonnaise to the melted lard or shortening and stir to combine.",
+    "Once the corn is done, brush the mayonnaise mixture evenly onto each ear of corn.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "mexican",
+    "snack",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-spicy-chiapan-corn-grilled-elote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-chiapan-corn-grilled-elote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:05:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "almond flour",
+    "diet": "gluten-free",
+    "region": "chiapan",
+    "cuisineAdjective": "Chiapan",
+    "mainIngredient": "corn",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Grilled Elote"
+  }
+}
