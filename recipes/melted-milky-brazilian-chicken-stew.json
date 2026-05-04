@@ -1,0 +1,102 @@
+{
+  "title": "Melted Milky Brazilian Chicken Stew",
+  "description": "A sour and gooey Brazilian dish featuring milk chocolate and rest meat, perfect for a brunch mood, made in a claypot and jain friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "milk chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the claypot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced chicken breast and cook until browned, about 5 minutes.",
+    "Add the coconut milk, lime juice, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped milk chocolate until melted and smooth.",
+    "Reduce heat to low and cook for an additional 5 minutes, or until the stew has thickened slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "brunch-ideas",
+    "claypot-cooking",
+    "jain-recipes",
+    "milk-chocolate-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "melted-milky-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-milky-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:20:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "rest-meat",
+    "primaryIngredient": "milk chocolate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "melted milky",
+    "dishForm": "Stew"
+  }
+}
