@@ -1,0 +1,104 @@
+{
+  "title": "Minty Kenyan Chwinamul Salad",
+  "description": "A fresh, light salad blending Korean seaweed with Kenyan-inspired flavors and mint for a fragrant, sugar‑free lunch.",
+  "cuisine": "Korean-Kenyan fusion",
+  "diet": [
+    "vegan",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "100 g",
+      "notes": "washed and blanched"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Boil a pot of water until it reaches 100°C.",
+    "Add the seaweed and blanch for 30 seconds, then drain and rinse with cold water.",
+    "In a bowl, mix the blanched seaweed, mint, cucumber, and carrot.",
+    "Whisk sesame oil, soy sauce, rice vinegar, lemon juice, ginger, garlic, and chili flakes to make the dressing.",
+    "Pour the dressing over the salad and toss gently to coat.",
+    "Sprinkle toasted sesame seeds on top.",
+    "Let the salad rest for 5 minutes to meld flavors.",
+    "Serve chilled or at room temperature."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean-kenyan-fusion",
+    "lunch"
+  ],
+  "slug": "minty-kenyan-chwinamul-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-kenyan-chwinamul-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:49:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chwinamul",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Minty",
+    "dishForm": "Salad"
+  }
+}
