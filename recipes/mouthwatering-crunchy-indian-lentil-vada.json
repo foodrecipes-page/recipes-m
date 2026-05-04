@@ -1,0 +1,107 @@
+{
+  "title": "Mouthwatering Crunchy Indian Lentil Vada",
+  "description": "A briny and crunchy Indian dish featuring ground nut oil and lentils, perfect for a snack or side dish. This recipe is also anti-inflammatory friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "split red lentils",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Grind the soaked and drained lentils into a coarse paste using a food processor or blender.",
+    "Heat the ground nut oil in a large skillet over medium heat.",
+    "Add the cumin seeds and coriander seeds to the oil and let them sizzle for a few seconds.",
+    "Add the chopped onion, grated ginger, minced garlic, and chopped green chili to the oil and saute until the onion is translucent.",
+    "Add the lentil paste to the skillet and stir well to combine with the onion mixture.",
+    "Add the salt and water to the lentil mixture and stir well to combine.",
+    "Using your hands, shape the lentil mixture into small patties or vadas.",
+    "Add the vadas to the hot oil and fry until they are golden brown and crispy on both sides.",
+    "Remove the vadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the vadas hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "mouthwatering-crunchy-indian-lentil-vada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-crunchy-indian-lentil-vada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:49:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "brine-wet",
+    "primaryIngredient": "ground nut oil",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Mouthwatering Crunchy",
+    "dishForm": "Vada"
+  }
+}
