@@ -1,0 +1,98 @@
+{
+  "title": "Molten Tunisian Millet Flatbread",
+  "description": "Earthy, molten, comforting Tunisian dish featuring palm sugar, long-fermentation-dough, macrobiotic-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar, crumbled",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together millet flour, whole wheat flour, salt, instant yeast, and dried thyme.",
+    "Add warm water and olive oil, stirring until a sticky dough forms.",
+    "Transfer dough to a lightly oiled container, cover, and let it ferment at room temperature for 12 hours.",
+    "After fermentation, gently knead the dough for 2 minutes to release gas.",
+    "Divide the dough into four equal portions and roll each into a thin oval flatbread about 1 cm thick.",
+    "Preheat the oven to 200°C (400°F).",
+    "Sprinkle each flatbread lightly with crumbled palm sugar and a pinch of cumin.",
+    "Place the flatbreads on a parchment-lined baking sheet and bake for 9 minutes.",
+    "Remove from oven and let cool for 2 minutes while the sugar melts into a glossy glaze.",
+    "Serve warm with a side of harissa or a simple tomato salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 9,
+  "totalTimeMin": 29,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "earthy",
+    "flatbread",
+    "macrobiotic",
+    "molten",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 115,
+    "fat": 28
+  },
+  "slug": "molten-tunisian-millet-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-tunisian-millet-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:17:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "palm sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "millet",
+    "descriptor": "Molten",
+    "dishForm": "Flatbread"
+  }
+}
