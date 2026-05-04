@@ -1,0 +1,105 @@
+{
+  "title": "Mellow Spanish Potato Patatas Bravas",
+  "description": "A brunch-friendly take on classic patatas bravas, featuring fluffy fried potatoes topped with a smoky tomato sauce and crunchy toffee popcorn. This version keeps the dish raw-friendly and adds a sweet crunch.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "800g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato passata",
+      "amount": "200g"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "handful",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "toffee popcorn",
+      "amount": "50g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Peel and dice 800g potatoes into bite-sized cubes.",
+    "In a large bowl, toss potatoes with 2 tbsp olive oil, 1 tsp sea salt, and 1 tsp smoked paprika until evenly coated.",
+    "Heat a skillet over medium-high heat and add the seasoned potatoes.",
+    "Cook the potatoes, stirring occasionally, for 25 minutes or until golden brown and crispy.",
+    "While the potatoes are frying, combine 200g tomato passata, 1 tbsp apple cider vinegar, 1 tbsp sugar, 1 tsp tomato paste, and a minced clove of garlic in a saucepan.",
+    "Simmer the tomato mixture over low heat for 10 minutes, stirring occasionally, until it thickens slightly.",
+    "Once the potatoes are done, remove them from the skillet and transfer to a baking sheet lined with parchment paper.",
+    "Drizzle the hot tomato sauce over the crispy potatoes and sprinkle with finely chopped parsley.",
+    "Fold in 50g shredded toffee popcorn for a sweet, crunchy contrast.",
+    "Serve immediately, optionally with a side of fresh lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "one-pan",
+    "quick",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 12,
+    "carbs": 140,
+    "fat": 35
+  },
+  "slug": "mellow-spanish-potato-patatas-bravas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-spanish-potato-patatas-bravas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:14:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Potato",
+    "descriptor": "Mellow",
+    "dishForm": "Patatas Bravas"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Mindful Filipino Steak Soup",
+  "description": "A dense, comforting Filipino soup with lean steak, a soffritto base, and a Buddha-friendly flavor, served in a cataplana.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirty steak",
+      "amount": "300 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "washed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional, for umami"
+    }
+  ],
+  "instructions": [
+    "Heat the sunflower oil in the cataplana over medium heat.",
+    "Add the onion, garlic, and ginger, and sauté until fragrant.",
+    "Stir in the diced tomato and cook until the tomato softens.",
+    "Add the sliced steak and brown it on all sides.",
+    "Pour in the beef broth, bring the mixture to a boil, then reduce heat.",
+    "Add the carrot, potato, and green beans, and simmer for 10 minutes.",
+    "Stir in the spinach and simmer for another 2 minutes.",
+    "Season the soup with salt, pepper, and soy sauce if using.",
+    "Give the soup a final stir, then serve hot straight from the cataplana."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "cataplana",
+    "lean-meat",
+    "one-pot",
+    "soffritto",
+    "tinola"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 100,
+    "carbs": 54,
+    "fat": 50
+  },
+  "slug": "mindful-filipino-steak-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mindful-filipino-steak-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:14:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "skirty steak",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "steak",
+    "descriptor": "Mindful",
+    "dishForm": "Soup"
+  }
+}
