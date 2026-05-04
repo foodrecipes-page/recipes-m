@@ -1,0 +1,100 @@
+{
+  "title": "Monsoon Mushrooms Slovakian Dumplings",
+  "description": "Pungent and crispy Slovakian dish featuring double cream and braised mushrooms, wrapped in corn husks and suitable for a shojin-friendly diet. This monsoon-inspired recipe combines earthy flavors with a touch of creaminess.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "mixed varieties"
+    },
+    {
+      "name": "double cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large skillet, heat the oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms, caraway seeds, paprika, salt, and pepper to the skillet and cook until the mushrooms release their liquid and start to brown.",
+    "Stir in the double cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and braise the mixture for 10 minutes, stirring occasionally.",
+    "To assemble the dumplings, lay a corn husk flat and place a tablespoon of the mushroom mixture in the center.",
+    "Fold the sides of the corn husk over the filling and roll the dumpling up, repeating with the remaining corn husks and filling.",
+    "Serve the dumplings hot, garnished with additional caraway seeds and paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "corn-based",
+    "mushroom-based",
+    "one-pan",
+    "shojin-friendly",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "monsoon-mushrooms-slovakian-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-mushrooms-slovakian-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:40:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "double cream",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "monsoon pungent",
+    "dishForm": "Dumplings"
+  }
+}
