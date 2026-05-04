@@ -1,0 +1,89 @@
+{
+  "title": "Mildly Savory Argentinian Onion Stir fry",
+  "description": "A savory and velvety Argentinian dish featuring yellow onion, this stir fry is a light and keto-friendly option for a quick meal. It combines the flavors of Argentina with the simplicity of a stir fry.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grass fed beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced grass fed beef and cook until it is browned and cooked through.",
+    "Add the chimichurri sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir fry hot, garnished with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "keto-friendly",
+    "low-carb",
+    "quick-meals",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "mildly-savory-argentinian-onion-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-savory-argentinian-onion-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:07:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "yellow onion",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "onion",
+    "descriptor": "mildly savory",
+    "dishForm": "Stir-fry"
+  }
+}
