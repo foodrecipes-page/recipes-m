@@ -1,0 +1,134 @@
+{
+  "title": "Malty Velvety Syrian Potato Bao",
+  "description": "A sweet and savory pastry filled with a malty, velvety potato filling, perfect for a festive Syrian dinner.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "white sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "unflavored oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "potato puree",
+      "amount": "2 cups",
+      "notes": "see notes for preparation"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pumpkin pie spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast for dough",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg wash",
+      "amount": "1 egg",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine warm water, sugar, and yeast to activate yeast in a large mixing bowl.",
+    "Add flour, oil, and egg to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Place dough in a greased bowl and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Divide dough into 6-8 equal pieces and roll into balls.",
+    "Roll out each ball into a thin circle and place in a greased pan.",
+    "Spread 2-3 tablespoons of potato filling in the center of each dough circle.",
+    "Fold the dough over the filling and press edges to seal.",
+    "Place buns on a baking sheet lined with parchment paper.",
+    "Brush tops with egg wash and sprinkle with pumpkin pie spice.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "While buns are baking, prepare the potato filling by boiling diced potatoes until tender.",
+    "Mash boiled potatoes with butter, malt syrup, rose water, and salt.",
+    "Add pumpkin pie spice to taste and mix well.",
+    "Let buns cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "festival",
+    "one-pan",
+    "potato",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "malty-velvety-syrian-potatoe-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-velvety-syrian-potatoe-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "potatoe buns",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "potatoe",
+    "descriptor": "malty velvety",
+    "dishForm": "Bao"
+  }
+}

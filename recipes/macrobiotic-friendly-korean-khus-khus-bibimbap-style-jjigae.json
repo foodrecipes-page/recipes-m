@@ -1,0 +1,120 @@
+{
+  "title": "Macrobiotic Friendly Korean Khus Khus Bibimbap Style Jjigae",
+  "description": "Spicy, crisp, crowd-pleasing Korean dish featuring khus khus, candy, and macrobiotic-friendly ingredients in a bibimbap style.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "2 cups",
+      "notes": "roasted and ground"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "crushed, sugar-free"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "shredded zucchini",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": " macrobiotic-friendly"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "macrobiotic-friendly"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and sauté for 1 minute.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the shredded carrots and zucchini and cook until tender, about 4-5 minutes.",
+    "Add the bean sprouts and cook until heated through, about 1-2 minutes.",
+    "Add the gochujang and soy sauce and stir to combine.",
+    "Add the khus khus, crushed candy, and green onions and stir to combine.",
+    "Season with salt to taste.",
+    "Transfer the Jjigae to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bibimbap",
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "candy",
+    "primaryIngredient": "khus khus",
+    "diet": "macrobiotic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "khus khus",
+    "descriptor": "Macrobiotic Friendly",
+    "dishForm": "Bibimbap Style Jjigae"
+  }
+}

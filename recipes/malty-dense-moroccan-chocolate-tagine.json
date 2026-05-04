@@ -1,0 +1,122 @@
+{
+  "title": "Malty Dense Moroccan Chocolate Tagine",
+  "description": "A rich and festive Moroccan dessert featuring dark chocolate, double-rise-bread, and spices.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Double-rise-bread",
+      "amount": "4 slices",
+      "notes": "stale or day-old"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together flour, brown sugar, cocoa powder, and salt.",
+    "Add in the softened butter and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Cut the dough into 8 equal pieces and roll each piece into a ball.",
+    "Place the balls onto a baking sheet lined with parchment paper and bake for 15-20 minutes or until firm to the touch.",
+    "Let the chocolate bread cool completely on a wire rack.",
+    "Cut the bread into 1-inch cubes and set aside.",
+    "In a large saucepan, melt the dark chocolate chips over low heat, stirring occasionally.",
+    "Add in the granulated sugar, vanilla extract, cinnamon, and ginger, and stir until combined.",
+    "Add in the bread cubes and stir until well coated in the chocolate mixture.",
+    "Transfer the tagine to a serving dish and refrigerate for at least 2 hours to set.",
+    "Serve chilled and enjoy!",
+    "Optional: garnish with additional dark chocolate shavings or chopped nuts if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "easter",
+    "moroccan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 3500,
+    "protein": 25,
+    "carbs": 450,
+    "fat": 200
+  },
+  "slug": "malty-dense-moroccan-chocolate-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-dense-moroccan-chocolate-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "dark chocolate",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chocolate",
+    "descriptor": "malty dense",
+    "dishForm": "Tagine"
+  }
+}

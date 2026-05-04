@@ -1,0 +1,109 @@
+{
+  "title": "Malty Glassy-Jelly Argentinian Beans Casserole",
+  "description": "A rich, slow-cooked casserole featuring baked beans and a sweet, malty glaze. This diabetic-friendly dish showcases the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baked beans (low-sugar)",
+      "amount": "1 (14 oz) can",
+      "notes": "Drained and rinsed to reduce sugar content"
+    },
+    {
+      "name": "Malty syrup",
+      "amount": "2 tablespoons",
+      "notes": "Dark corn syrup with a hint of molasses"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Low-carb sugar substitute for added sweetness"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 tablespoon",
+      "notes": "Rich, deep flavor component"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Traditional argentinian spice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For saut\u00174ing the onions and garlic"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for aromatic depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Sear the onions and garlic in olive oil until translucent.",
+    "Add the cumin and cook for 1 minute, stirring constantly.",
+    "Stir in the baked beans, malty syrup, brown sugar, and cocoa powder. Cook for 5 minutes, stirring occasionally.",
+    "Transfer the mixture to a copper pot or a similar heat-retaining vessel.",
+    "Bake for 30 minutes, or until the glaze is thick and syrupy, and the flavors have melded together.",
+    "Serve hot, garnished with fresh parsley or thyme if desired.",
+    "Let the casserole rest for 10 minutes before serving to allow the flavors to settle."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "malty-glassy-jelly-argentinian-beans-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-glassy-jelly-argentinian-beans-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "baked beans",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "beans",
+    "descriptor": "malty glassy-jelly",
+    "dishForm": "Casserole"
+  }
+}

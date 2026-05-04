@@ -1,0 +1,113 @@
+{
+  "title": "Mellow Cozy Korean Frozen Mix Wrap",
+  "description": "Funky, gooey, cozy Korean dish featuring frozen seafood mix and nuka-pickle, served in a ti-leaf wrap. Perfect for a weeknight dinner or a snack.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickled carrots",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nuka-pickled daikon",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nuka-pickle brine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4",
+      "notes": "large, whole leaves"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Spread the frozen seafood mix on the baking sheet in a single layer.",
+    "Bake for 10 minutes or until thawed and lightly browned.",
+    "In a small bowl, whisk together the nuka-pickle brine, gochujang, soy sauce, and sesame oil.",
+    "In a large bowl, combine the cooked seafood mix, nuka-pickled carrots, nuka-pickled daikon, toasted sesame seeds, and scallions.",
+    "Add the toasted garlic and sesame oil mixture to the bowl and toss to combine.",
+    "Warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the seafood mixture onto the center of each wrap and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "frozen-seafood",
+    "korean",
+    "nuka-pickle",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mellow-cozy-korean-frozen-mix-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-cozy-korean-frozen-mix-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "seafood mix",
+    "descriptor": "mellow gooey",
+    "dishForm": "Wrap"
+  }
+}

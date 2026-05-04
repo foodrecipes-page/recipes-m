@@ -1,0 +1,98 @@
+{
+  "title": "Malty German Bread Krapfen",
+  "description": "Soft and airy German bread dough filled with a sweet and malty mixture, topped with sesame seeds.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "1 large"
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, yeast, and 1 teaspoon of sugar in a small bowl. Let the mixture sit for 5 minutes, until it becomes frothy.",
+    "In a large mixing bowl, combine flour, salt, and malted milk powder.",
+    "Add the melted butter, eggs, and egg yolks to the dry ingredients and mix until a dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, until it has doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the disks on a baking sheet lined with parchment paper, leaving about 1 inch of space between each krapfen.",
+    "Brush the tops of the krapfen with melted butter and sprinkle with sesame seeds.",
+    "Bake the krapfen for 15-20 minutes, until they are golden brown and cooked through.",
+    "Let the krapfen cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "german",
+    "sesame-seed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "malty-german-bread-krapfen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-german-bread-krapfen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sesame seed",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "bread",
+    "descriptor": "malty",
+    "dishForm": "krapfen"
+  }
+}
