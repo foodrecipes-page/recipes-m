@@ -1,0 +1,91 @@
+{
+  "title": "Mellow Nutty Dutch Peanut Satay",
+  "description": "A nutty and shaggy Dutch dish featuring peanuts, oil, and dehydration, perfect for a vegan-friendly snack. This nostalgic treat is easy to make and delicious to eat.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw and unsalted"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the peanut oil, soy sauce, maple syrup, smoked paprika, garlic powder, onion powder, and salt.",
+    "Add the peanuts to the bowl and stir until they are evenly coated with the oil mixture.",
+    "Spread the peanuts out in a single layer on a baking sheet lined with parchment paper.",
+    "Dehydrate the peanuts in the oven for 1 hour, stirring every 20 minutes.",
+    "Remove the peanuts from the oven and let them cool completely.",
+    "Once the peanuts are cool, break them up into smaller pieces and serve.",
+    "Store any leftover peanuts in an airtight container at room temperature for up to 5 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "easy-to-make",
+    "homemade",
+    "nutty-snack",
+    "snack-time",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "mellow-nutty-dutch-peanut-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-nutty-dutch-peanut-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:02:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "dehydrate",
+    "primaryIngredient": "oil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peanuts",
+    "descriptor": "mellow nutty",
+    "dishForm": "Satay"
+  }
+}
