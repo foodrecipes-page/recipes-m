@@ -1,0 +1,113 @@
+{
+  "title": "Mighty Brazilian Wood Ear Mushroom Tart",
+  "description": "A crisp, herbaceous pescatarian tart packed with wood ear mushrooms and shrimp, perfect for a solo Brazilian dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pastry sheet",
+      "amount": "200g",
+      "notes": "ready-made, refrigerated"
+    },
+    {
+      "name": "wood ear mushrooms",
+      "amount": "50g dry",
+      "notes": "reconstitute in hot water 20min, drain"
+    },
+    {
+      "name": "shrimp",
+      "amount": "100g peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (≈50g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "10ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "5ml"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "5g chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a 20cm square baking dish with parchment.",
+    "Rehydrate 50g dry wood ear mushrooms by soaking in hot water for 20 minutes, then squeeze out excess liquid and set aside.",
+    "Peel and devein 100g shrimp, pat dry and set aside.",
+    "In a skillet, heat 5ml sesame oil over medium heat and sauté minced garlic until fragrant, about 30 seconds.",
+    "Add the rehydrated mushrooms and shrimp to the skillet, cook until shrimp turn pink, about 3 minutes, then season with 2g salt, 1g white pepper, 10ml soy sauce, and 5ml lemon juice; stir to coat and remove from heat.",
+    "Roll out the 200g pastry sheet on a lightly floured surface to 0.5cm thickness, cut into a 20cm square, and place into the prepared dish.",
+    "Spoon the shrimp and mushroom mixture evenly over the pastry, pressing gently to settle.",
+    "Sprinkle 5g chopped fresh coriander over the filling for a herbal aroma.",
+    "Brush the edges of the pastry with beaten egg to seal and give a golden finish.",
+    "Bake in the preheated oven for 15 minutes, or until the pastry edges are crisp and golden brown.",
+    "Let the tart cool for 5 minutes, then carefully remove from the pan and slice into single servings. Serve warm, optionally garnished with extra coriander and a squeeze of lemon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "crunchy",
+    "crust",
+    "herb",
+    "one-pan",
+    "pescatarian",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 1153,
+    "protein": 39,
+    "carbs": 142,
+    "fat": 52
+  },
+  "slug": "mighty-brazilian-wood-ear-mushroom-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-brazilian-wood-ear-mushroom-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:38:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "wood ear mushroom",
+    "descriptor": "mighty",
+    "dishForm": "tart"
+  }
+}
