@@ -1,0 +1,96 @@
+{
+  "title": "Magnificently Crunchy Peruvian Rice Paper Spring Rolls",
+  "description": "A sour, crunchy, and indulgent Peruvian dish featuring rice paper sheets, made vegan-friendly with plant-based ingredients, and cooked to perfection in a bain-marie",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper sheets",
+      "amount": "20 sheets",
+      "notes": "round, 8 inches in diameter"
+    },
+    {
+      "name": " Firm tofu",
+      "amount": "1 block",
+      "notes": "drained, cut into small cubes"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "seeded, finely chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with warm water to soak the rice paper sheets",
+    "In a separate bowl, mix together the tofu, pickled ginger, red onion, aji amarillo peppers, and cilantro",
+    "Add the lime juice and olive oil to the bowl and stir to combine",
+    "Soak a rice paper sheet in the warm water for about 10 seconds, then place on a clean surface",
+    "Place about 1 tablespoon of the tofu mixture in the center of the rice paper sheet",
+    "Fold the bottom half of the rice paper sheet over the filling, then fold in the sides and roll up the sheet to form a tight cylinder",
+    "Repeat with the remaining ingredients",
+    "Place the spring rolls in a bain-marie and cook for 5 minutes, or until crispy and golden brown",
+    "Serve the spring rolls hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie-cooking",
+    "crunchy-snacks",
+    "indulgent-appetizers",
+    "peruvian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "magnificently-crunchy-peruvian-rice-paper-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-crunchy-peruvian-rice-paper-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "bain-marie",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice paper",
+    "descriptor": "Magnificently crunchy",
+    "dishForm": "Spring-Rolls"
+  }
+}
