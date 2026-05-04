@@ -1,0 +1,106 @@
+{
+  "title": "Moist Kenyan Morbier Stew",
+  "description": "A velvety Kenyan-inspired stew featuring brine-dry morbier, sweet potatoes, pumpkin, and aromatic spices. Simmered in a donabe, it captures a monsoon season vibe.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "100 g",
+      "notes": "brine-dry, sliced"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "150 g",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "Pumpkin",
+      "amount": "120 g",
+      "notes": "seeded, cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat and add the coconut oil until melted.",
+    "Add the chopped onion and minced garlic, sauté until fragrant and translucent.",
+    "Stir in the cubed sweet potato and pumpkin, cooking for 5 minutes to soften slightly.",
+    "Sprinkle the smoked paprika and salt, stirring to coat the vegetables evenly.",
+    "Pour in the vegetable broth, bring to a gentle simmer, and cover the donabe.",
+    "Allow the stew to simmer for 20 minutes, or until the sweet potatoes are tender.",
+    "Lower the heat and add the sliced morbier cheese, letting it melt into the stew.",
+    "Finish with a splash of lemon juice and chopped cilantro, stirring to combine, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "monsoon-inspired",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 479,
+    "protein": 13,
+    "carbs": 47,
+    "fat": 21
+  },
+  "slug": "moist-kenyan-morbier-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-kenyan-morbier-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:37:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "morbier",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "morbier",
+    "descriptor": "Moist",
+    "dishForm": "Stew"
+  }
+}

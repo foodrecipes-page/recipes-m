@@ -1,0 +1,87 @@
+{
+  "title": "Mighty Spicy Malaysian Almond Flour Bake",
+  "description": "A crunchy, spicy almond flour bake infused with Malaysian red curry and ginger, perfect for a plant-based snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "200g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and line a baking sheet with parchment paper.",
+    "In a large bowl whisk together almond flour, baking powder and salt.",
+    "Add red curry paste, coconut milk, ginger, chili flakes and oil to the dry mix and stir until a thick batter forms.",
+    "Pour the batter onto the prepared baking sheet and spread it into an even layer.",
+    "Bake for 20 minutes or until the edges turn golden brown.",
+    "Remove from oven and let the bake cool for 5 minutes before slicing into squares.",
+    "Serve warm or at room temperature, optionally drizzled with a light lime vinaigrette.",
+    "Enjoy the spicy, flaky crunch of this Malaysian-inspired plant-based treat."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malaysian",
+    "snack"
+  ],
+  "slug": "mighty-spicy-malaysian-almond-flour-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-spicy-malaysian-almond-flour-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:37:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "almond flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "almond flour",
+    "descriptor": "Mighty Spicy",
+    "dishForm": "Bake"
+  }
+}
