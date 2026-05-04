@@ -1,0 +1,112 @@
+{
+  "title": "Mighty Malaysian Chicken Skewers",
+  "description": "Tangy, dense, quick-fix Malaysian chicken skewers packed with chili and citrus, perfect for a low-carb dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "8",
+      "notes": "soaked in water 20 minutes"
+    }
+  ],
+  "instructions": [
+    "Thread the chicken cubes onto the soaked bamboo skewers, leaving a small space between each piece.",
+    "In a bowl whisk together coconut aminos, lime juice, minced garlic, minced ginger, chili powder, fish sauce, honey, salt, pepper and coconut oil until well combined.",
+    "Brush the sauce generously over the chicken skewers, reserving a small amount for basting during grilling.",
+    "Preheat a charcoal grill or grill pan to medium-high heat and lightly oil the grates.",
+    "Place the skewers on the grill and cook for 7 minutes, turning every 2 minutes and basting with the reserved sauce.",
+    "Continue grilling until the chicken reaches an internal temperature of 75°C and is charred on the edges.",
+    "Remove the skewers from the grill, let them rest for 2 minutes, then squeeze an extra splash of lime over each skewer.",
+    "Serve hot, optionally garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "char-grill",
+    "chili",
+    "easy",
+    "gluten-free",
+    "low-carb",
+    "malaysian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 83,
+    "protein": 7,
+    "carbs": 3,
+    "fat": 4
+  },
+  "slug": "mighty-malaysian-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-malaysian-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:02:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chilli powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Mighty",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Mellow Jamaican Tofu Curry",
+  "description": "A creamy, jammy Jamaican-inspired curry featuring tofu, coconut milk, nutmeg, and allspice for a comforting, dairy‑free dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml",
+      "notes": "canned"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture, then cut into 1‑inch cubes.",
+    "Whisk together soy sauce, lime juice, ground nutmeg, allspice, and dried thyme; toss tofu cubes until evenly coated.",
+    "Heat coconut oil in a large skillet over medium heat, then add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add the marinated tofu to the skillet, sauté for 4 minutes until lightly browned on all sides.",
+    "Pour in diced tomatoes and coconut milk, then stir in curry powder.",
+    "Reduce heat to low, cover, and simmer gently for 15 minutes to allow flavors to meld.",
+    "Taste and adjust seasoning if necessary, then remove from heat.",
+    "Serve the curry hot over steamed rice or with flatbread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "dairy-free",
+    "jamaican-flavor",
+    "plant-based",
+    "single-skillet",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 7,
+    "fat": 13
+  },
+  "slug": "mellow-jamaican-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-jamaican-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:03:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "nutmeg",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Mellow",
+    "dishForm": "Curry"
+  }
+}
