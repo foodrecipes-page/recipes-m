@@ -1,0 +1,95 @@
+{
+  "title": "Magical Peruvian Dulce De Leche Suspiro Limeno",
+  "description": "A buttery, crispy, nostalgic Peruvian dish featuring yellow food coloring, beurre-monte, and Mediterranean-friendly ingredients, formed into a suspiro limeno and cooked in a tandoor clay pot.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "evaporated milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tandoor clay pot",
+      "amount": "1",
+      "notes": "preheated"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the evaporated milk, granulated sugar, and unsalted butter, and cook over medium heat, stirring occasionally, until the sugar has dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes, or until the mixture has thickened slightly.",
+    "Remove the saucepan from the heat and stir in the yellow food coloring and beurre-monte.",
+    "In a small bowl, whisk together the large egg yolks and vanilla extract.",
+    "Temper the egg yolks by slowly pouring the warm milk mixture into the egg yolks, whisking constantly.",
+    "Pour the mixture into the preheated tandoor clay pot and smooth the top.",
+    "Bake for 25 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the pot from the oven and let it cool to room temperature.",
+    "Cover the pot with plastic wrap and refrigerate for at least 2 hours, or until chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "dessert",
+    "gluten-free",
+    "mediterranean-friendly",
+    "peruvian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "magical-peruvian-dulce-de-leche-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-peruvian-dulce-de-leche-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:50:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "Mediterranean Buttery",
+    "dishForm": "Suspiro Limeno"
+  }
+}
