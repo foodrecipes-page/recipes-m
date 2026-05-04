@@ -1,0 +1,117 @@
+{
+  "title": "Mighty Crunchy Japanese Nectarines Salad",
+  "description": "A pungent, crunchy salad perfect for a date night, featuring juicy nectarines, crisp veggies, and a zesty vegan bonito dressing.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "0.5",
+      "notes": "sliced"
+    },
+    {
+      "name": "seaweed flakes (vegan bonito)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "0.5 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk rice vinegar, soy sauce, sesame oil, minced ginger, minced garlic, and chili flakes in a small bowl.",
+    "Toss shredded carrots, sliced cucumber, and sliced red bell pepper in a large bowl until coated with the dressing.",
+    "Gently fold in sliced nectarines, keeping them intact.",
+    "Sprinkle seaweed flakes over the salad and stir lightly to distribute.",
+    "Top with toasted sesame seeds for crunch.",
+    "Transfer the salad onto a slate tile for presentation.",
+    "Cover and refrigerate for 15 minutes to meld flavors.",
+    "Serve chilled as a crisp date-night dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "date-night",
+    "salad",
+    "slate-plate",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "mighty-crunchy-japanese-nectarines-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-crunchy-japanese-nectarines-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:46:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "nectarines",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Nectarines",
+    "descriptor": "Mighty Crunchy",
+    "dishForm": "Salad"
+  }
+}
