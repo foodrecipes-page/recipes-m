@@ -1,0 +1,109 @@
+{
+  "title": "Melted Filipino Shrimp Fried Rice",
+  "description": "Salty, cheese-pulled fried rice with shrimp and dried shrimp paste, perfect for a post-workout boost.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups",
+      "notes": "cold, preferably day-old"
+    },
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "dried shrimp goong haeng",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lazy susan spinner",
+      "amount": "vessel",
+      "notes": "used for even heating"
+    }
+  ],
+  "instructions": [
+    "Heat the lazy susan spinner and add vegetable oil until shimmering.",
+    "Add diced onion and minced garlic, sautéing until fragrant and translucent.",
+    "Stir in the dried shrimp goong haeng, cooking for 30 seconds to release its aroma.",
+    "Add the shrimp and cook until pink and opaque, about 3 minutes.",
+    "Pour in the jasmine rice, breaking up clumps and mixing thoroughly with the shrimp mixture.",
+    "Season with soy sauce, black pepper, and fish sauce, stirring to combine evenly.",
+    "Lower the heat and sprinkle the shredded mozzarella over the rice, covering the pan.",
+    "Cover and allow the cheese to melt, stirring gently every 2 minutes until fully melted and creamy.",
+    "Fold in fresh cilantro, give a final stir, and serve hot straight from the spinner."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "filipino",
+    "lunch"
+  ],
+  "slug": "melted-filipino-shrimp-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-filipino-shrimp-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:54:23Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shrimp",
+    "descriptor": "Melted",
+    "dishForm": "Fried-Rice"
+  }
+}
