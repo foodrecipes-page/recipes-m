@@ -1,0 +1,90 @@
+{
+  "title": "Mighty Arabian Mozzarella Balls Skewers",
+  "description": "A bold, charcoal charred snack that blends creamy mozzarella with fragrant Middle Eastern spices, perfect for flexitarian gatherings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella balls",
+      "amount": "200 g",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Za'atar spice blend",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10 (soaked 30 min)",
+      "notes": "soaked in water to prevent burning"
+    }
+  ],
+  "instructions": [
+    "Preheat a charcoal grill to high heat and brush the grates with olive oil to prevent sticking.",
+    "In a bowl, toss the mozzarella balls with olive oil, za'atar, smoked paprika, lemon zest, and rosemary until evenly coated.",
+    "Thread 3-4 mozzarella pearls onto each soaked skewer to allow space for char marks.",
+    "Place the skewers across the grill grates, turning every 2 minutes, until the mozzarella develops a golden char and a fragrant aroma, about 8-10 minutes.",
+    "Remove the skewers from the grill and let them rest for 2 minutes to allow the cheese to firm slightly.",
+    "Drizzle a little extra olive oil over the hot skewers for extra shine.",
+    "Sprinkle a pinch of sea salt and freshly ground black pepper over the skewers to taste.",
+    "Serve immediately with a side of cucumber-tomato salad and a drizzle of tahini dip.",
+    "Garnish with a sprig of fresh rosemary for a touch of color and aroma.",
+    "Enjoy the smoky, yeasty, and snappy flavors of this Arabian-inspired snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "char-grilled",
+    "easy",
+    "flexitarian",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 14,
+    "carbs": 5,
+    "fat": 39
+  },
+  "slug": "mighty-arabian-mozzarella-balls-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-arabian-mozzarella-balls-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:55:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Mozzarella balls",
+    "descriptor": "Mighty",
+    "dishForm": "Skewers"
+  }
+}
