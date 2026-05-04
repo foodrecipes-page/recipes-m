@@ -1,0 +1,121 @@
+{
+  "title": "Mellow Yeasty Thai Rice Khanom Krok",
+  "description": "A comforting Thai dish featuring a dense, yeasty rice, with a burst of citrus from lime, and a crunch from salt-baked terracotta-dish shell.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "instant yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix together rice and water in a large bowl until the rice is fully soaked.",
+    "Add coconut milk, yeast, sugar, and salt, and mix until combined.",
+    "Cover the bowl with a cloth and let it rest for 2 hours.",
+    "Preheat oven to 375\u00133F (190\u00133C).",
+    "Prepare terracotta dishes by sprinkling a small amount of salt inside each one.",
+    "Pour the rice mixture into the prepared dishes, about 2/3 full.",
+    "Bake in the preheated oven for 30 minutes, or until the rice is cooked through and the tops are golden brown.",
+    "Remove from the oven and brush with a little vegetable oil.",
+    "Sprinkle with sesame seeds and a pinch of salt, and serve warm.",
+    "Serve immediately, garnished with a slice of lime and a sprinkle of lime zest.",
+    "Enjoy your delicious Khanom Krok!"
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 30,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "khanom-krok",
+    "low-sodium",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "mellow-yeasty-thai-rice-khanom-krok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-yeasty-thai-rice-khanom-krok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "lime",
+    "diet": "low-sodium",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Mellow Yeasty",
+    "dishForm": "Khanom Krok"
+  }
+}

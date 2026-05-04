@@ -1,0 +1,117 @@
+{
+  "title": "Moist Crumbly Thai Red Snapper Curry",
+  "description": "A rich and flavorful Thai curry dish featuring red snapper, served in puff pastry for a unique presentation.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 whole Red Snapper (1.5 kg / 3.3 lbs)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can Coconut Milk (400 ml / 13.5 oz)",
+      "amount": "",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "2 tablespoons Vegetable Oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 Onion",
+      "amount": "diced",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves Garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon grated Ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons Red Thai Curry Paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon Fish Sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon palm sugar",
+      "amount": "",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/4 cup chopped fresh Thai Basil",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "1 sheet Lamination-Puff Pastry ( thawed)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat. Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add coconut milk and bring to a boil.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Add fish sauce and palm sugar; stir to combine.",
+    "Season the curry with salt to taste.",
+    "Meanwhile, preheat oven to 200°C (400°F).",
+    "Roll out puff pastry to a thickness of 3 mm (1/8 in).",
+    "Transfer the curry to the puff pastry and brush edges with water.",
+    "Fold the pastry over the curry, pressing edges to seal.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until pastry is golden brown.",
+    "Remove from oven and garnish with basil.",
+    "Serve immediately, with steamed rice or roti if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish-curry",
+    "high-end",
+    "seafood",
+    "special-occasion",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 64,
+    "carbs": 60,
+    "fat": 52
+  },
+  "slug": "moist-crumbly-thai-red-snapper-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-crumbly-thai-red-snapper-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "lamination-puff",
+    "primaryIngredient": "red snapper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Red Snapper",
+    "descriptor": "Moist Crumbly",
+    "dishForm": "Curry"
+  }
+}
