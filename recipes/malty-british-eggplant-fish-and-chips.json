@@ -1,0 +1,127 @@
+{
+  "title": "Malty British Eggplant Fish And Chips",
+  "description": "A romantic British dish that marries malted batter, crispy chips and sage‑herbed eggplant, served in a rustic clay pot.",
+  "cuisine": "British",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": "russet, cut into 1/2-inch sticks"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 3/4-inch rounds"
+    },
+    {
+      "name": "plant‑based fish fillets",
+      "amount": "200g",
+      "notes": "soy fish or tofu fillets seasoned with sea salt"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "1 cup",
+      "notes": "120g"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "1 cup",
+      "notes": "120g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "plus extra for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "leaves"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "plus extra for brushing"
+    },
+    {
+      "name": "cold sparkling water",
+      "amount": "1 cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "to taste",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C and line a baking sheet with parchment paper.",
+    "Slice potatoes into 1/2-inch sticks, season with sea salt and black pepper, and spread them on the sheet.",
+    "Roast potatoes for 20 minutes, turning halfway, until golden and crisp.",
+    "While potatoes roast, slice eggplant into 3/4-inch rounds, brush both sides with olive oil, and sprinkle thyme and rosemary.",
+    "Whisk together malted barley flour, all‑purpose flour, baking powder, sea salt, and cold sparkling water until smooth to create the batter.",
+    "Dip eggplant slices into the batter, letting excess drip off, and arrange them on a separate baking sheet.",
+    "Bake eggplant in the oven at 200°C for 15 minutes, until the batter is golden and the eggplant is tender.",
+    "Once chips and eggplant are ready, preheat a clay pot over medium‑high heat and add a tablespoon of oil.",
+    "Add plant‑based fish fillets to the pot, cooking each side for 3 minutes until browned and heated through.",
+    "Plate chips, eggplant, and fish together; serve with malt vinegar and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "chips",
+    "claypot",
+    "eggplant",
+    "malty",
+    "plant-based",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1675,
+    "protein": 59,
+    "carbs": 313,
+    "fat": 39
+  },
+  "slug": "malty-british-eggplant-fish-and-chips",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-british-eggplant-fish-and-chips",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:33:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "eggplant",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "eggplant",
+    "descriptor": "Malty",
+    "dishForm": "Fish And Chips"
+  }
+}

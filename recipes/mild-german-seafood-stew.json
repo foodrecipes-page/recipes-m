@@ -1,0 +1,93 @@
+{
+  "title": "Mild German Seafood Stew",
+  "description": "A resinous, snappy one-pot stew mixing frozen seafood with fermented kimchi and shojin-friendly seasonings.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen mixed seafood",
+      "amount": "300 g",
+      "notes": "shrimp, mussels, scallops"
+    },
+    {
+      "name": "low-sodium fish stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "yellow onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented kimchi, chopped",
+      "amount": "50 g"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fresh basil leaves, chopped",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in tomato paste and cook for 1 minute to release flavor.",
+    "Pour in fish stock, bring to a gentle boil, then reduce heat to maintain a simmer.",
+    "Add the frozen seafood and cook until they turn opaque, about 5 minutes.",
+    "Stir in coconut milk, soy sauce, and chopped kimchi, then simmer gently at 90°C for 10 minutes.",
+    "Remove from heat, sprinkle chopped basil, and let the stew rest for 2 minutes.",
+    "Ladle into bowls and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "mild",
+    "one-pot",
+    "seafood",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 173,
+    "protein": 19,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "mild-german-seafood-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-german-seafood-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:32:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Seafood",
+    "descriptor": "Mild",
+    "dishForm": "Stew"
+  }
+}
