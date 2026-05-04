@@ -1,0 +1,120 @@
+{
+  "title": "Minty Australian Toor Dal Stew",
+  "description": "A hearty, grassy stew of toor dal cooked slowly with fresh mint, tomatoes, and coconut milk, perfect for a solo dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor dal (red lentils)",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "light"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "zest and juice"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking until fragrant, about 1 minute.",
+    "Add the toor dal and cherry tomatoes, and cook for another 2 minutes.",
+    "Pour in the vegetable broth and coconut milk, then bring to a simmer.",
+    "Season with salt and black pepper, and reduce heat to low.",
+    "Cover the pot and let the stew slow-cook for 60 minutes, stirring occasionally.",
+    "Add the chopped mint leaves and lime zest in the last 5 minutes of cooking.",
+    "Squeeze in the lime juice and stir to combine.",
+    "Serve hot, garnished with extra mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "low-carb",
+    "one-pot",
+    "slow-cook",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 742,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 28
+  },
+  "slug": "minty-australian-toor-dal-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-australian-toor-dal-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:27:02Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "toor dal",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "toor dal",
+    "descriptor": "Minty",
+    "dishForm": "Stew"
+  }
+}
