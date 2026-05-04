@@ -1,0 +1,88 @@
+{
+  "title": "mellow citrusy slovakian blackcurrant jam galette",
+  "description": "a romantic vegetarian dessert featuring blackcurrant jam and a crispy bhuna pastry crust.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackcurrant jam",
+      "amount": "200g"
+    },
+    {
+      "name": "bhuna pastry dough",
+      "amount": "400g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180 degrees celsius.",
+    "roll out the bhuna pastry dough to a thickness of 3mm.",
+    "spread the blackcurrant jam over the pastry, leaving a 2cm border around the edges.",
+    "mix the lemon zest, orange zest and granulated sugar in a small bowl.",
+    "sprinkle the sugar mixture evenly over the blackcurrant jam.",
+    "dot the top of the pastry with the unsalted butter.",
+    "brush the edges of the pastry with the beaten egg.",
+    "fold the edges of the pastry up over the filling to form a crust.",
+    "bake the galette in the preheated oven for 35 minutes.",
+    "remove the galette from the oven and let it cool for 10 minutes on a wire rack.",
+    "serve the galette warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mellow-citrusy-slovakian-blackcurrant-jam-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-citrusy-slovakian-blackcurrant-jam-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:55:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "blackcurrant jam",
+    "descriptor": "Mellow Citrusy",
+    "dishForm": "Galette"
+  }
+}
