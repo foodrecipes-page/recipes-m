@@ -1,0 +1,101 @@
+{
+  "title": "Mediterranean-inspired French Goong-haeng Stir-fry",
+  "description": "A spicy, crisp, and indulgent French dish featuring dried shrimp goong-haeng, stir-fry, and Mediterranean-friendly flavors served in a banana leaf.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goong-haeng (dried shrimp)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "1 leaf"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the goong-haeng and cook for 2-3 minutes, until fragrant.",
+    "Add the chopped parsley, mint, red onion, and crushed red pepper flakes.",
+    "Cook for 2-3 minutes, until the vegetables are tender.",
+    "Stir in the lemon juice and salt to taste.",
+    "Transfer the stir-fry to the banana leaf and serve immediately.",
+    "Garnish with chopped fresh dill and serve with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "meditteranean-inspired-french-goong-haeng-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/meditteranean-inspired-french-goong-haeng-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:01:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "goong-haeng",
+    "descriptor": "Meditteranean-Inspired",
+    "dishForm": "Stir-fry"
+  }
+}

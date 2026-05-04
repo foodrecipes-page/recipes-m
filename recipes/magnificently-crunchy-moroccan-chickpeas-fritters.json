@@ -1,0 +1,99 @@
+{
+  "title": "Magnificently Crunchy Moroccan Chickpeas Fritters",
+  "description": "Sour and crunchy Moroccan chickpeas fritters perfect for a brunch mood, featuring garlic and gluten-free friendly ingredients, deep-fried to a golden brown perfection.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin, paprika, salt, and pepper"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the chickpeas using a fork or a potato masher until they are mostly smooth.",
+    "Add the minced garlic, chopped onion, lemon juice, olive oil, and spices to the bowl and mix until well combined.",
+    "In a separate bowl, whisk together the chickpea flour and a pinch of salt.",
+    "Add the flour mixture to the chickpea mixture and stir until a thick batter forms.",
+    "Add the beaten eggs to the batter and mix until the eggs are fully incorporated.",
+    "Using your hands, shape the batter into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat about 2-3 inches of olive oil in a deep frying pan over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Carefully place a few of the patties into the hot oil and fry for about 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "deep-fried",
+    "gluten-free",
+    "high-protein",
+    "moroccan-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "magnificently-crunchy-moroccan-chickpeas-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-crunchy-moroccan-chickpeas-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:01:38Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "garlic",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Magnificently crunchy",
+    "dishForm": "Fritters"
+  }
+}
