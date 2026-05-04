@@ -1,0 +1,102 @@
+{
+  "title": "Slovakian Corn Empanadas",
+  "description": "A traditional Slovakian dish featuring cornstarch and encrouted in a flaky pastry, these empanadas are a delicious and energizing snack. They are low in glycemic index and can be enjoyed by people with dietary restrictions.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "2 cups",
+      "notes": "fine cornstarch"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornstarch, flour, and sugar.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a small bowl, whisk together the eggs and a pinch of salt.",
+    "Add the egg mixture to the bowl with the dry ingredients and stir until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead it a few times until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of corn kernels and a sprinkle of cheese, if using, in the center of each circle.",
+    "Fold the dough over the filling to form a half circle and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little bit of egg wash.",
+    "Bake the empanadas for 20-25 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "empanadas",
+    "flaky-pastry",
+    "low-glycemic",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mouthwatering-flaky-slovakian-corn-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-flaky-slovakian-corn-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:04:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "cornstarch",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "corn",
+    "descriptor": "mouthwatering flaky",
+    "dishForm": "Empanadas"
+  }
+}
