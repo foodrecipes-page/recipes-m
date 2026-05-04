@@ -1,0 +1,112 @@
+{
+  "title": "Molten Arabian Macaroni Casserole",
+  "description": "A rich, molten, festive Middle Eastern dish featuring macaroni, lamb, and a fragrant spice blend simmered in a kazan cauldron.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat macaroni",
+      "amount": "2 cups",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 lb",
+      "notes": "lean, 10% fat"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": "deglaze, optional"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "spices: cumin, coriander, cinnamon, paprika",
+      "amount": "1 tsp each",
+      "notes": "ground"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add olive oil, then sauté the diced onion until translucent.",
+    "Add minced garlic and cook for another minute until fragrant.",
+    "Stir in ground lamb, breaking it apart, and cook until browned.",
+    "Pour in red wine to deglaze the pot, scraping up browned bits, and let it reduce for 2 minutes.",
+    "Mix in tomato puree, ground cumin, coriander, cinnamon, and paprika, stirring to coat the meat.",
+    "Add vegetable broth and bring the mixture to a gentle simmer.",
+    "Fold in the cooked whole wheat macaroni, stirring to combine and allowing it to absorb the sauce for about 5 minutes.",
+    "Sprinkle crumbled feta cheese over the top and cover the kazan to let the cheese melt and the casserole become molten.",
+    "Cook for an additional 3 minutes until the cheese is bubbly and the flavors meld.",
+    "Sprinkle chopped parsley over the top before serving, and enjoy the molten Arabian macaroni casserole."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kazan-cauldron",
+    "low-glycemic",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 12,
+    "carbs": 17,
+    "fat": 14
+  },
+  "slug": "molten-arabian-macaroni-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-arabian-macaroni-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:50:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "macaroni",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "macaroni",
+    "descriptor": "Molten",
+    "dishForm": "Casserole"
+  }
+}
