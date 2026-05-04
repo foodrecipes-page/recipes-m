@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Spicy Vietnamese Pork Banh Mi",
+  "description": "A spicy and velvety Vietnamese dish featuring red pepper, this banh mi is a nostalgic treat that combines the flavors of pork, pickled vegetables, and chili sauce, all on a crispy baguette. It is a raw-friendly and baked dish that is perfect for any meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "baguette",
+      "amount": "4",
+      "notes": "crusty"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, and red pepper flakes.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and bake for 20 minutes, or until cooked through.",
+    "Spread mayonnaise on each baguette.",
+    "Add the baked pork, pickled carrots, pickled daikon, and cilantro to each baguette.",
+    "Drizzle the remaining marinade over the top of each banh mi.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "banh-mi",
+    "pork",
+    "spicy",
+    "street-food",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "mildly-spicy-vietnamese-pork-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-vietnamese-pork-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:09:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "red pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Banh Mi"
+  }
+}
