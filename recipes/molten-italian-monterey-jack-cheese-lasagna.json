@@ -1,0 +1,99 @@
+{
+  "title": "Molten Italian Monterey Jack Cheese Lasagna",
+  "description": "A savory and indulgent Italian dish featuring molten Monterey Jack cheese, served in a dolsot stone bowl. This lasagna is perfect for a cold winter night.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, combine the ground beef and Italian seasoning, and cook until the beef is browned.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, and parmesan cheese.",
+    "In a separate bowl, whisk together the marinara sauce and a dash of salt and pepper.",
+    "In a dolsot stone bowl, create a thin layer of the marinara sauce.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the Monterey Jack cheese.",
+    "Repeat the layers, starting with the marinara sauce, then the noodles, the ricotta cheese mixture, and finally the remaining Monterey Jack cheese.",
+    "Cover the bowl with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "italian-food",
+    "one-dish-meal",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "molten-italian-monterey-jack-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-italian-monterey-jack-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:48:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Monterey Jack Cheese",
+    "descriptor": "Molten Indulgent",
+    "dishForm": "Lasagna"
+  }
+}
