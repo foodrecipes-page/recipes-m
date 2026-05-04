@@ -1,0 +1,113 @@
+{
+  "title": "Melted Savory Korean Rice Stew",
+  "description": "A salty, velvety one-pot Korean (Gangwon) dish featuring duck fat, lamination-puff, and shojin-friendly ingredients for a comforting meal.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck fat",
+      "amount": "2 tbsp",
+      "notes": "melted for flavor"
+    },
+    {
+      "name": "Korean short-grain rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "low-sodium, shojin-friendly"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame seed oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "4 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "8 oz",
+      "notes": "firm, cubed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat duck fat in a heavy-bottom pot over medium until completely melted and fragrant.",
+    "Add the uncooked rice to the pot and stir until each grain is coated and slightly toasted.",
+    "Pour in the water and fish stock, bring to a boil, then reduce heat and cover to simmer for 10 minutes, or until the rice is partially cooked.",
+    "Stir in gochujang, gochugaru, and sesame seed oil, mixing until the sauce is evenly distributed throughout the rice.",
+    "Add the sliced shiitake mushrooms, tofu cubes, and salt, and continue to simmer for another 8 minutes, or until the rice is fully cooked and the stew has a velvety consistency.",
+    "Stir in the sliced scallions and sprinkle sesame seeds just before serving to add freshness and crunch.",
+    "Keep the stew at low heat for 2 minutes to meld the flavors together.",
+    "Ladle the hot stew into bowls and enjoy immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck-fat",
+    "family-friendly",
+    "korean-stew",
+    "lamination-puff",
+    "low-sodium",
+    "one-pan",
+    "shojin-friendly",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 975,
+    "protein": 24,
+    "carbs": 110,
+    "fat": 37
+  },
+  "slug": "melted-savory-korean-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-savory-korean-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:44:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "duck fat",
+    "diet": "shojin",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Melted Savory",
+    "dishForm": "Stew"
+  }
+}
