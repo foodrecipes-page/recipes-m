@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Nutty Vietnamese Chicken Curry",
+  "description": "A nutty and chewy Vietnamese dish featuring red curry paste, perfect for a lazy Sunday, with a Mediterranean twist, cooked in a wok using a bain-marie method.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over medium heat.",
+    "Add the sliced shallots and cook until they are lightly browned.",
+    "Add the chicken to the wok and cook until it is browned on all sides.",
+    "Add the red curry paste to the wok and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the fish sauce, brown sugar, peanuts, and salt to the wok.",
+    "Stir the mixture well and cook for 10 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with additional peanuts and shallots if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "nutty",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mellow-nutty-vietnamese-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-nutty-vietnamese-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:10:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "mellow nutty",
+    "dishForm": "Curry"
+  }
+}
