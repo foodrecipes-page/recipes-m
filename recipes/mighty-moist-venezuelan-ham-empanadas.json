@@ -1,0 +1,88 @@
+{
+  "title": "Mighty Moist Venezuelan Ham Empanadas",
+  "description": "A jammy and fluffy Venezuelan dish featuring ham and render fat, perfect for a keto friendly meal",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork ham",
+      "amount": "1 cup diced",
+      "notes": "use a keto friendly brand"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, mix together the almond flour, mozzarella cheese, and eggs to form a dough",
+    "Add the melted render fat, salt, and black pepper to the dough and mix until well combined",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Flatten each ball into a disk shape and place a tablespoon of diced pork ham in the center of each disk",
+    "Fold the dough over the ham to form a half moon shape and press the edges together to seal",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with a little bit of melted render fat",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "cheesy",
+    "keto-friendly",
+    "low-carb",
+    "meat-based",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "mighty-moist-venezuelan-ham-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-moist-venezuelan-ham-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:44:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "render-fat",
+    "primaryIngredient": "ham",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "ham",
+    "descriptor": "mighty moist",
+    "dishForm": "Empanadas"
+  }
+}
