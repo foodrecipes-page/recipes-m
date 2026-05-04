@@ -1,0 +1,116 @@
+{
+  "title": "malty light british turkey neck steamed pudding",
+  "description": "a hearty and energizing steamed pudding made with turkey neck, suitable for pescatarian diets and served as a traditional british dessert",
+  "cuisine": "british",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2/3 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "flaked malted barley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "malt extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine self-raising flour, caster sugar, and bread crumbs.",
+    "add in butter, whisking until mixture resembles coarse crumbs.",
+    "add in milk, whisking until a thick batter forms.",
+    "add in egg, pickle juice, flaked malted barley, and malt extract, whisking until well combined.",
+    "add in turkey neck, making sure it is fully coated in the batter.",
+    "transfer the mixture to a greased pudding basin or a heatproof container.",
+    "cover the pudding with parchment paper or a clean tea towel, securing with string if necessary.",
+    "place the pudding in a large saucepan, adding enough boiling water to come halfway up the side of the pudding basin.",
+    "bring the water to a boil, then reduce the heat to a simmer and cook for 2 hours, or until the pudding is cooked through and a toothpick inserted into the center comes out clean.",
+    "remove the pudding from the water and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "malty",
+    "pescatarian",
+    "pudding",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 23,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "malty-light-british-turkey-neck-steamed-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-light-british-turkey-neck-steamed-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "turkey neck",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Turkey Neck",
+    "descriptor": "Malty Light",
+    "dishForm": "Steamed Pudding"
+  }
+}

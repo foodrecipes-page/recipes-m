@@ -1,0 +1,119 @@
+{
+  "title": "Mild Smoky Indian Lentil Robata-Grill Rajma",
+  "description": "A sour, glassy-jelly Indian dish featuring breadcrumbs and ferment-jang, perfect for a lazy Sunday lunch.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red kidney beans",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ferment jang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Roasted cumin seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the red kidney beans overnight and pressure cook them until tender.",
+    "In a pan, heat ghee and saut\u00142; the breadcrumbs until lightly toasted.",
+    "Add ferment jang and cook for another minute.",
+    "Add smoked paprika, ground cumin, turmeric powder, red chili powder, and salt. Cook for 1 minute.",
+    "Add the cooked beans, water, roasted cumin seeds, and lemon juice. Mix well.",
+    "Transfer the mixture to a robata grill and cook for 10 minutes, stirring occasionally.",
+    "Serve hot garnished with chopped cilantro (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lazy-sunday",
+    "lentil",
+    "robata-grill",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 64,
+    "fat": 14
+  },
+  "slug": "mild-smoky-indian-lentil-robata-grill-rajma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-smoky-indian-lentil-robata-grill-rajma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentil",
+    "descriptor": "Mild Smoky",
+    "dishForm": "Robata-Grill Rajma"
+  }
+}

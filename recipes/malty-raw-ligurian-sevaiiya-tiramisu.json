@@ -1,0 +1,63 @@
+{
+  "title": "Malty Raw Ligurian Sevaiiya Tiramisu",
+  "description": "A creamy, pillowy dessert showcasing Ligurian sevaiiya, baked to perfection in a wood-fired oven. This raw-friendly tiramisu is perfect for a brunch or breakfast gathering.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "100g",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "Combine sevaiiya and cocoa powder in a large bowl. ",
+    "Add 150ml of non-dairy milk and stir until the mixture is well combined. ",
+    "Pour the mixture into a wood-fired oven preheated to 400F (200C) for 10-12 minutes, or until the top is golden brown.",
+    "Remove the tiramisu from the oven and let it cool completely. ",
+    "Once cool, refrigerate the tiramisu for at least 2 hours before serving.",
+    "Before serving, sprinkle with additional cocoa powder and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dessert",
+    "italian",
+    "raw-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "malty-raw-ligurian-sevaiiya-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-raw-ligurian-sevaiiya-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:19Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "sevaiiya",
+    "diet": "raw",
+    "region": "ligurian",
+    "cuisineAdjective": "Ligurian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Malty Raw",
+    "dishForm": "Tiramisu"
+  }
+}

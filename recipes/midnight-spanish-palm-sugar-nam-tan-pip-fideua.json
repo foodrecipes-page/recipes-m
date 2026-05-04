@@ -1,0 +1,60 @@
+{
+  "title": "midnight spanish palm sugar nam tan pip fideua",
+  "description": "a bitter, fluffy, midnight-craving spanish (valencian) dish featuring palm-sugar-nam-tan-pip, cure, shojin-friendly, form=fideua, vessel=ceramic-tagine",
+  "cuisine": "valencian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nam tan pip",
+      "amount": "4 oz",
+      "notes": "dried palm sugar syrup"
+    }
+  ],
+  "instructions": [
+    "heat 2 tbs olive oil in a ceramic tagine over medium heat",
+    "add 1 cup nam tan pip and 1 tsp black pepper, cook for 5 minutes",
+    "add 1 cup rice and 1 tsp saffron, stir to combine",
+    "cook for 10 minutes, stirring occasionally",
+    "stir in 1 tsp honey and 1 tsp lemon juice",
+    "cook for an additional 2 minutes",
+    "transfer the mixture to a plate and serve"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cure",
+    "gluten-free",
+    "one-pan",
+    "shojin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 64,
+    "fat": 16
+  },
+  "slug": "midnight-spanish-palm-sugar-nam-tan-pip-fideua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-spanish-palm-sugar-nam-tan-pip-fideua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "shojin",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Palm sugar, nam tan pip",
+    "descriptor": "Midnight",
+    "dishForm": "Fideua"
+  }
+}

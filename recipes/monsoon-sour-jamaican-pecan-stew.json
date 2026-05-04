@@ -1,0 +1,107 @@
+{
+  "title": "Monsoon Sour Jamaican Pecan Stew",
+  "description": "A shaggy, sour Jamaican stew inspired by the monsoon season, featuring a rich flavor profile with pecan nuts and a touch of fermentation. This low-sodium stew serves a comforting and satisfying meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, low-sodium"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup",
+      "notes": "fermented, low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Add the ginger, garlic, allspice, and thyme to a large cast iron pot over medium heat.",
+    "Sear the pecan nuts for 2-3 minutes, or until fragrant.",
+    "Add the scotch bonnet peppers and saut\u0017 for another minute.",
+    "Pour in the coconut milk, vegetable broth, apple cider vinegar, and soy sauce, stirring constantly.",
+    "Bring the stew to a simmer and cook for 20-25 minutes, or until the ingredients are tender and the flavors have melded.",
+    "Stir in the chopped pecan nuts and cook for an additional 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs or toasted pecan nuts, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "jamaican",
+    "low-sodium",
+    "one-pan",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 42
+  },
+  "slug": "monsoon-sour-jamaican-pecan-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-sour-jamaican-pecan-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pecan",
+    "descriptor": "Monsoon Sour",
+    "dishForm": "Stew"
+  }
+}
