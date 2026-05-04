@@ -1,0 +1,90 @@
+{
+  "title": "Molten Slovakian Udon Noodles",
+  "description": "A satvik-friendly Slovakian dish featuring fermented udon noodles and toast, perfect for a crowd-pleasing dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fermented"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cook the udon noodles according to package instructions",
+    "Toast the bread until it is lightly browned",
+    "In a large bowl, combine the cooked noodles, toasted bread, sauerkraut, and shredded vegan cheese",
+    "In a small bowl, mix together the caraway seeds and paprika",
+    "Sprinkle the caraway seed mixture over the noodle mixture",
+    "Drizzle the olive oil over the top of the noodle mixture",
+    "Transfer the noodle mixture to a baking dish and bake for 20 minutes",
+    "Remove the dish from the oven and let it cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "fermented-food",
+    "one-pan",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "molten-slovakian-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-slovakian-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:18:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "udon noodles",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "udon noodles",
+    "descriptor": "Molten",
+    "dishForm": "Noodles"
+  }
+}
