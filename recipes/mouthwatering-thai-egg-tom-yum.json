@@ -1,0 +1,117 @@
+{
+  "title": "Mouthwatering Thai Egg Tom Yum",
+  "description": "A bright, savory soup that balances sweet, spicy, and crunchy with a fresh mustard kick and char-grilled Yang seasoning. This ovo‑vegetarian tom yum packs crowd‑pleasing depth and a satisfying crunch.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "400 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "3",
+      "notes": "ripened"
+    },
+    {
+      "name": "galangal slices",
+      "amount": "2",
+      "notes": "thin"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "bruised"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "1 tbsp",
+      "notes": "low sugar"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "carrot slices",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a pot, combine vegetable broth, water, kaffir lime leaves, galangal, and lemongrass; bring to a simmer.",
+    "Reduce heat and let the aromatics infuse for 5 minutes; then strain out solids.",
+    "Return the simmering broth to low heat; stir in fish sauce, lime juice, and sweet chili sauce until well mixed.",
+    "Add toasted mustard seeds and bamboo shoots to the broth; simmer for another 3 minutes.",
+    "Crack the eggs into a small bowl, then gently slide them into the soup to poach.",
+    "Cook the eggs for 2 minutes until whites are set but yolks remain runny; remove the pot from heat.",
+    "Stir in julienned carrots for crunch and heat through for 30 seconds.",
+    "Ladle soup into bowls, garnish with fresh cilantro and a sprinkle of toasted sesame seeds, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "isaan",
+    "ovo-vegetarian",
+    "quick",
+    "sweet-spicy",
+    "tom-yum"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 3
+  },
+  "slug": "mouthwatering-thai-egg-tom-yum",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-thai-egg-tom-yum",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:32:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mustard",
+    "diet": "ovo-vegetarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Egg",
+    "descriptor": "Mouthwatering",
+    "dishForm": "Tom Yum"
+  }
+}
