@@ -1,0 +1,92 @@
+{
+  "title": "Mild Resinous Peruvian Cheese Custard",
+  "description": "A creamy low‑fat custard infused with subtle resin flavors, finished in a bain‑marie and topped with crunchy toasted quinoa, a hangover‑cure delight.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "skim milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "fromage-blanc",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted quinoa",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C and place a shallow baking dish in a larger pan for bain‑marie.",
+    "Whisk the skim milk and oat flour together until smooth, then stir in the fromage‑blanc until melted.",
+    "In a separate bowl, beat egg whites until soft peaks form, then fold gently into the milk mixture.",
+    "Add honey, cinnamon, and sea salt, stirring to combine evenly.",
+    "Pour the custard mixture into a heat‑proof ramekin and place it in the prepared bain‑marie.",
+    "Bake for 25 minutes, or until the custard sets but the center still slightly jiggles.",
+    "Remove the ramekin, let cool for 5 minutes, then top with toasted quinoa for a crunchy finish.",
+    "Serve warm with a splash of fresh lime juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bain-marie",
+    "dessert",
+    "low-fat",
+    "peruvian",
+    "quick",
+    "simple"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 4
+  },
+  "slug": "mild-resinous-peruvian-cheese-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-resinous-peruvian-cheese-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:54:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "bain-marie",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "Mild Resinous",
+    "dishForm": "Custard"
+  }
+}
