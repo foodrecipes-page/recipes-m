@@ -1,0 +1,101 @@
+{
+  "title": "Mouthwatering Juicy Mexican Tomatoes Tlayudas",
+  "description": "A tangy and juicy Mexican dish featuring tomatoes and pickle, served on a crispy tlayuda, perfect for a energizing lunch. This shojin-friendly recipe is made in a paella pan.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tlayudas",
+      "amount": "4",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Place the tlayudas in the paella pan and toast in the oven for 5 minutes.",
+    "In a large bowl, combine the cherry tomatoes, pickle, red onion, and cilantro.",
+    "Squeeze the lime juice over the tomato mixture and toss to coat.",
+    "In a small bowl, whisk together the olive oil, salt, and pepper.",
+    "Brush the olive oil mixture over the toasted tlayudas.",
+    "Spoon the tomato mixture over the tlayudas.",
+    "Return the paella pan to the oven and bake for an additional 10 minutes.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "healthy",
+    "lunch",
+    "mexican",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "mouthwatering-juicy-mexican-tomatoes-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-juicy-mexican-tomatoes-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:37:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "tomatoes",
+    "diet": "shojin",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Mouthwatering Juicy",
+    "dishForm": "Tlayudas"
+  }
+}
