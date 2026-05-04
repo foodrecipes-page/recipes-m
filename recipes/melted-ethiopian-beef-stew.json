@@ -1,0 +1,109 @@
+{
+  "title": "Melted Ethiopian Beef Stew",
+  "description": "A sweet and creamy Ethiopian beef stew featuring a cheese pull, tahini richness, and sugar-free-friendly dried apricots.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean beef chuck",
+      "amount": "1 lb (450 g)",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low sodium beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tahini",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Stir in the minced garlic and cook for another minute until fragrant.",
+    "Add the cubed beef to the pot, browning all sides on medium-high heat for 8 minutes.",
+    "Mix in the tomato paste, berbere spice, and a pinch of salt and pepper, stirring to coat the meat and onions.",
+    "Pour in the beef broth and bring to a gentle simmer; cover and cook for 45 minutes, until the beef is tender.",
+    "Stir in the tahini and chopped dried apricots, allowing the mixture to thicken for 5 minutes.",
+    "Remove from heat, stir in the shredded mozzarella until it melts into a gooey coating, then serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheese-pull",
+    "ethnic",
+    "low-carb",
+    "stew",
+    "sugar-free",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 1567,
+    "protein": 131,
+    "carbs": 57,
+    "fat": 84
+  },
+  "slug": "melted-ethiopian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-ethiopian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:23:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "tahini",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Melted",
+    "dishForm": "Stew"
+  }
+}
