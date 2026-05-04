@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Roasted Canadian Chicken Casserole",
+  "description": "A comforting, silky casserole featuring roasted chicken, thyme, and a wood-fired bake, perfect for a sick day, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "canned condensed cream of chicken soup",
+      "amount": "10 3/4 ounces"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "amount": "1 cup",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, thyme, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the oil and spice mixture.",
+    "Spread the chicken mixture in a 9x13 inch baking dish.",
+    "In a separate bowl, whisk together the cream of chicken soup and milk until smooth.",
+    "Pour the soup mixture over the chicken in the baking dish.",
+    "Top with the thawed mixed vegetables.",
+    "Bake for 35 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-casserole",
+    "comfort-food",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "mildly-roasted-canadian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-roasted-canadian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:19:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "thyme",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly roasted",
+    "dishForm": "Casserole"
+  }
+}
