@@ -1,0 +1,105 @@
+{
+  "title": "Magical Mild Dutch Fish Sushi",
+  "description": "A Dutch dish featuring Thai bird chili and ayurvedic sattvic friendly ingredients, this sushi is resinous and bouncy, with a unique blend of flavors and textures.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "short grain rice"
+    },
+    {
+      "name": "dutch fish",
+      "amount": "1 pound",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "thai bird chili",
+      "amount": "2 peppers",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "1 package",
+      "notes": "dried seaweed"
+    },
+    {
+      "name": "ayurvedic spice blend",
+      "amount": "1 teaspoon",
+      "notes": "such as turmeric and cumin"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup",
+      "notes": "seasoned with sugar and salt"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions and season with rice vinegar.",
+    "Cut the dutch fish into small pieces and cook in sesame oil until opaque and flaky.",
+    "Mix the cooked fish with thai bird chili, ayurvedic spice blend, and chopped scallions.",
+    "Shape the sushi rice into small balls and flatten slightly into disks.",
+    "Place a small amount of the fish mixture onto the center of each rice disk.",
+    "Fold the nori sheets in half and cut into thin strips.",
+    "Wrap each rice and fish ball with a nori strip, applying gentle pressure to form a tight seal.",
+    "Serve the sushi with pickled ginger and additional thai bird chili if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to one day."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "magical-mild-dutch-fish-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mild-dutch-fish-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:47:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Magical Mild",
+    "dishForm": "Sushi"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Mildly Musky Turkish Uni Su Boregi",
+  "description": "A kid-friendly Turkish dish featuring uni, steamed with mushrooms and herbs, wrapped in a su-boregi pastry.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "250g"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "120g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "20g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g"
+    },
+    {
+      "name": "su-boregi pastry",
+      "amount": "2 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Steam the mushrooms and herbs until tender.",
+    "In a pan, sauté the onion and garlic until softened.",
+    "Add the steamed mushrooms and herbs to the pan and stir to combine.",
+    "Add the uni to the pan and stir gently.",
+    "Season with lemon juice and olive oil.",
+    "Roll out the su-boregi pastry and cut into squares.",
+    "Place a spoonful of the uni mixture onto one half of each square.",
+    "Fold the pastry in half to enclose the filling.",
+    "Place the su-boregi on a baking sheet and bake for 20-25 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "kid-friendly-recipe",
+    "one-pan-dish",
+    "turkish-food",
+    "vegetarian-recipe",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "mildly-musky-turkish-uni-su-boregi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-musky-turkish-uni-su-boregi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:47:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "uni",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Uni",
+    "descriptor": "Mildly Musky",
+    "dishForm": "Su Boregi"
+  }
+}

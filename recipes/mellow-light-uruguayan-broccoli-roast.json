@@ -1,0 +1,102 @@
+{
+  "title": "mellow light uruguayan broccoli roast",
+  "description": "a light and refreshing roasted broccoli dish inspired by the cuisine of uruguay, perfect for a weeknight dinner or as a side to your favorite main course.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "optional"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425°f (220°c).",
+    "trim the broccoli and cut it into florets.",
+    "toss the broccoli with olive oil, garlic, salt, and pepper on a baking sheet.",
+    "roast the broccoli in the oven for 20 minutes.",
+    "add the potatoes and carrots to the baking sheet and continue roasting for another 20 minutes.",
+    "squeeze some lemon juice over the broccoli and toss with chili flakes if using.",
+    "garnish with chopped parsley and serve hot.",
+    "check the potatoes and carrots for tenderness and adjust the cooking time as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "uruguayan-cuisine",
+    "vegan",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "mellow-light-uruguayan-broccoli-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-light-uruguayan-broccoli-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:47:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "broccoli",
+    "descriptor": "Mellow Light",
+    "dishForm": "Roast"
+  }
+}

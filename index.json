@@ -14,6 +14,21 @@
     "shard": "m"
   },
   {
+    "slug": "magical-mild-dutch-fish-sushi",
+    "title": "Magical Mild Dutch Fish Sushi",
+    "tags": [
+      "dutch-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
     "slug": "makrut-lime-cheesy-bread",
     "title": "Makrut Lime Cheesy Bread",
     "tags": [
@@ -586,6 +601,20 @@
     ],
     "cuisine": "korean-american",
     "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-light-uruguayan-broccoli-roast",
+    "title": "mellow light uruguayan broccoli roast",
+    "tags": [
+      "one-pan",
+      "uruguayan-cuisine",
+      "vegan",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -1538,6 +1567,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-musky-turkish-uni-su-boregi",
+    "title": "Mildly Musky Turkish Uni Su Boregi",
+    "tags": [
+      "easy-snack",
+      "kid-friendly-recipe",
+      "one-pan-dish",
+      "turkish-food",
+      "vegetarian-recipe",
+      "weeknight-meal"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
