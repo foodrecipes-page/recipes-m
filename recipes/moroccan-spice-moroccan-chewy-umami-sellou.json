@@ -1,0 +1,118 @@
+{
+  "title": "Moroccan Spice Moroccan Chewy Umami Sellou",
+  "description": "A weeknight Moroccan dish featuring brown sugar, dashi-extract, and a unique blend of spices, all wrapped in the traditional form of sellou, served in a scallop shell.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-extract",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the almonds!"
+    },
+    {
+      "name": "Slivered almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pitted prunes",
+      "amount": "1 cup",
+      "notes": "Optional!"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the slivered almonds and fry until golden brown, about 5 minutes.",
+    "Remove the almonds from the skillet and set aside on a paper towel-lined plate.",
+    "In the same skillet, combine the brown sugar, dashi-extract, water, cinnamon, ginger, smoked paprika, and sea salt. ",
+    "Bring the mixture to a boil, stirring occasionally.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the mixture has thickened slightly.",
+    "Stir in the fried almonds, dried dates, and pitted prunes (if using).",
+    "Cook for an additional 2 minutes, or until the sellou has reached your desired consistency.",
+    "Spoon the sellou into preheated scallop shells and garnish with chopped parsley.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "moroccan",
+    "umami",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "moroccan-spice-moroccan-chewy-umami-sellou",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moroccan-spice-moroccan-chewy-umami-sellou",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:11:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "brown sugar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chewy umami",
+    "descriptor": "Moroccan Spice",
+    "dishForm": "Sellou"
+  }
+}
