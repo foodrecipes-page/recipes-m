@@ -1,0 +1,107 @@
+{
+  "title": "Mouthwatering Greek Lamb Keftedes",
+  "description": "These lamb keftedes are fatty and aerated with a kick of horseradish, caramelized to perfection and macrobiotic-friendly for an energizing dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "horseradish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1 tbsp, for brushing"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "In a large bowl mix lamb, onion, garlic, parsley, oregano, cumin, salt, pepper, horseradish and water until just combined.",
+    "Shape the mixture into 12 balls about 3 cm in diameter, keeping them airy by not overworking the meat.",
+    "Heat olive oil in a skillet over medium-high heat and sear each ball until browned on all sides, about 2 minutes per side.",
+    "Transfer the browned keftedes to a baking sheet and brush the tops with melted butter to promote caramelization.",
+    "Bake in the preheated oven for 12 minutes or until the internal temperature reaches 70°C.",
+    "Remove from the oven and let the keftedes rest for 5 minutes before serving.",
+    "Serve with a side of tzatziki, fresh cucumber salad, and whole grain pita for a complete Greek meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "energizing",
+    "fatty",
+    "greek-dish",
+    "high-fiber",
+    "keftedes",
+    "macrobiotic-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mouthwatering-greek-lamb-keftedes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-greek-lamb-keftedes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:07:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "horseradish",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Mouthwatering",
+    "dishForm": "Keftedes"
+  }
+}
