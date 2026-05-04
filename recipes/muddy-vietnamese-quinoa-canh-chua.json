@@ -1,0 +1,113 @@
+{
+  "title": "Muddy Vietnamese Quinoa Canh Chua",
+  "description": "A funky, shaggy one-pot Vietnamese quinoa canh chua featuring mixed grains, baked tofu, and a tangy tamarind broth, served on a hot-stone plate.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa (dry)",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "brown rice (dry)",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "millet (dry)",
+      "amount": "1/2 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "tempeh",
+      "amount": "50 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "raw sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallion garnish",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup quinoa, 1 cup brown rice, and 1/2 cup millet under cold water until clear.",
+    "In a large saucepan, heat 2 tbsp vegetable oil over medium heat and sauté the grain blend for 2 minutes.",
+    "Add 400 ml coconut milk, 1 tbsp tamarind paste, 2 tbsp lime juice, and 1 tsp sugar to the saucepan.",
+    "Stir in the diced tomatoes, then bring the mixture to a gentle simmer.",
+    "Reduce the heat to low, cover, and let the grains cook for 30 minutes, stirring occasionally.",
+    "After 30 minutes, add 200 g cubed tofu and 50 g sliced tempeh, and simmer for an additional 10 minutes.",
+    "Season the soup with salt and pepper to taste, ensuring the flavors balance.",
+    "Remove from heat and transfer the hot stew into a preheated hot-stone plate to keep it warm during serving.",
+    "Garnish with chopped scallions before serving.",
+    "Serve the Muddy Vietnamese Quinoa Canh Chua hot, letting diners enjoy the funky, shaggy texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-stone-plate",
+    "one-pot",
+    "plant-based",
+    "quinoa",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 593,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "muddy-vietnamese-quinoa-canh-chua",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/muddy-vietnamese-quinoa-canh-chua",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:47:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "mixed grain",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "quinoa",
+    "descriptor": "Muddy",
+    "dishForm": "Canh Chua"
+  }
+}
