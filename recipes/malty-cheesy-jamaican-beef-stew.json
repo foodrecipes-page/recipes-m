@@ -1,0 +1,126 @@
+{
+  "title": "Malty Cheesy Jamaican Beef Stew",
+  "description": "A one-pot Jamaican beef stew with a rich malty base and a vegan cheese pull, perfect for a comforting dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 lbs",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "malt beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and brown the beef cubes on all sides.",
+    "Add chopped onion and minced garlic to the pot and sauté until the onion becomes translucent.",
+    "Stir in sliced carrot and chopped celery, cooking for another 5 minutes.",
+    "Add smoked paprika, tomato paste, and a splash of malt beer, stirring to coat the vegetables and meat.",
+    "Pour in beef broth, add bay leaf and thyme, bring the mixture to a boil, then reduce heat and simmer uncovered for 45 minutes or until the beef is tender.",
+    "Remove bay leaf, season with salt and pepper, and let the stew thicken slightly for 5 minutes.",
+    "In the last 10 minutes of cooking, sprinkle shredded vegan cheddar cheese over the stew and stir until it melts and creates a gooey pull.",
+    "Taste the stew and adjust seasonings if necessary.",
+    "Serve hot over steamed rice or with a side of crusty bread for a satisfying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheesy",
+    "kosher-friendly",
+    "malty",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 38,
+    "fat": 15
+  },
+  "slug": "malty-cheesy-jamaican-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-cheesy-jamaican-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:20:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "paprika",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Malty Cheesy",
+    "dishForm": "Stew"
+  }
+}
