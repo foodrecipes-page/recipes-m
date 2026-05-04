@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Spicy Ethiopian Lentils Azifa",
+  "description": "A winey, flaky, post-workout Ethiopian dish featuring ketchup, cooked in a clay pot, and is gluten-free friendly, served as azifa.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Heat the clay pot over medium heat and add the chopped onion.",
+    "Add the minced garlic and cook until the onion is translucent.",
+    "Add the ketchup, berbere spice, salt, and black pepper, and stir well.",
+    "Add the soaked lentils, red wine, and water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir the azifa occasionally to prevent sticking.",
+    "Serve the azifa hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lentil-based",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mildly-spicy-ethiopian-lentils-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-ethiopian-lentils-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:56:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "ketchup",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "mildly spicy",
+    "dishForm": "Azifa"
+  }
+}
