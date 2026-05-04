@@ -1,0 +1,93 @@
+{
+  "title": "Moist Roasty Roasted Molten Braeburn Apple Pancake",
+  "description": "This Monsoon dutch dish features braeburn apples roasted and caramelized with a touch of sweetness. It's a unique dessert option that’s perfect for snacking or breakfast, shojin-friendly.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe Braeburn apples",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tbsp unsalted butter",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "2 large eggs, beaten",
+      "amount": "each"
+    },
+    {
+      "name": "3 cups all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp baking powder"
+    },
+    {
+      "name": "1/2 tsp baking soda",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "1 cup whole milk",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and core apples. Cut into quarters.",
+    "In a small bowl, mix sugar and butter until smooth. Add salt and spread evenly over apple slices.",
+    "Roast in preheated oven for about 20 minutes or until golden brown and caramelized.",
+    "Sift together flour, baking powder, and baking soda. Gradually add milk to the dry ingredients while mixing with a whisk.",
+    "Fold beaten eggs into batter gradually.",
+    "Pour batter onto a greased skillet or griddle in preheated skillet over medium-high heat.",
+    "When edges look set, insert wooden spoon to check if apple filling is ready and pour molten apple filling evenly across the pancakes.",
+    "Cook until golden brown on both sides, flipping gently with spatula. Serve warm.",
+    "For a shojin-friendly option, omit sugar and butter in apple mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-dish",
+    "moist-roasty",
+    "molten-braeburn-apple-pancake",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 7
+  },
+  "slug": "moist-roasty-roasted-molten-braeburn-apple-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-roasty-roasted-molten-braeburn-apple-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:45:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "candy",
+    "primaryIngredient": "braeburn apples",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Roasty",
+    "mainIngredient": "Braeburn Apples",
+    "descriptor": "Molten",
+    "dishForm": "Pancake"
+  }
+}
