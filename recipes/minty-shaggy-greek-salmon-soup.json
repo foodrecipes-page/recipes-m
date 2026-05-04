@@ -1,0 +1,107 @@
+{
+  "title": "Minty Shaggy Greek Salmon Soup",
+  "description": "A citrusy, creamy avgolemono salmon soup with tahini, fresh mint, and a salt-block finish. Perfect for a post-workout, keto-friendly dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cured salmon (gravlax)",
+      "amount": "200g"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "orange",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt (full-fat)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp, rinsed"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the fish stock in a pot over medium until it reaches a gentle simmer.",
+    "Add the cured salmon, capers, and dill to the stock and simmer for 5 minutes.",
+    "Whisk together the egg yolks, tahini, yogurt, lemon juice, orange juice, and olive oil until smooth.",
+    "Reduce the heat to low and slowly pour the egg-tahini mixture into the pot while stirring constantly to create an avgolemono sauce.",
+    "Cook gently for 3-4 minutes, letting the soup thicken slightly without boiling.",
+    "Season the soup with salt and pepper, then stir in the fresh mint.",
+    "Transfer the hot soup to a preheated salt block, allowing the block to infuse subtle mineral flavors.",
+    "Serve immediately, garnishing with extra dill and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "avgolemono",
+    "cured-salmon",
+    "greek",
+    "keto-friendly",
+    "post-workout",
+    "salmon",
+    "salt-block"
+  ],
+  "nutrition": {
+    "calories": 486,
+    "protein": 28,
+    "carbs": 2,
+    "fat": 42
+  },
+  "slug": "minty-shaggy-greek-salmon-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/minty-shaggy-greek-salmon-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:30:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "tahini paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Salmon",
+    "descriptor": "Minty Shaggy",
+    "dishForm": "Soup"
+  }
+}
