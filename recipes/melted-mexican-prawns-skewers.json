@@ -1,0 +1,104 @@
+{
+  "title": "Melted Mexican Prawns Skewers",
+  "description": "Juicy king prawns glazed with a sweet lime‑honey lacquer, grilled to perfection and garnished with cilantro. A quick crowd‑pleaser that keeps the prawns tender and flavorful.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King prawns, peeled and deveined",
+      "amount": "400g",
+      "notes": "keep chilled"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for lacquer glaze"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp",
+      "notes": "coating"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium‑high heat.",
+    "In a small bowl whisk together lime juice, honey, smoked paprika, chili powder, salt, and pepper until smooth.",
+    "Toss the chilled prawns in the glaze, ensuring each prawn is coated evenly.",
+    "Thread 4‑5 prawns onto each stick, leaving a small gap between them.",
+    "Lightly oil the grill grates or spray the grill pan to prevent sticking.",
+    "Place the prawn skewers on the grill and cook for 2 minutes on one side.",
+    "Flip the skewers over and cook for an additional 2 minutes, until the prawns turn pink and are slightly charred.",
+    "While still hot, drizzle any remaining glaze over the skewers for a lacquered shine.",
+    "Remove from grill and let rest for 1 minute.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "mexican",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "melted-mexican-prawns-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-mexican-prawns-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:24:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "king prawns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Prawns",
+    "descriptor": "Melted",
+    "dishForm": "Skewers"
+  }
+}
