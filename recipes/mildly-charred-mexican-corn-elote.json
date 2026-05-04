@@ -1,0 +1,101 @@
+{
+  "title": "Mildly Charred Mexican Corn Elote",
+  "description": "A traditional Mexican dish featuring charred corn on the cob, steamed in lotus leaf wraps, perfect for a hangover cure or a side dish, made with strong white flour and shojin-friendly ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn on the cob",
+      "amount": "4 ears",
+      "notes": "fresh"
+    },
+    {
+      "name": "strong white flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4 wraps"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Grill the corn on the cob for about 10 minutes, turning every 2 minutes, until mildly charred.",
+    "In a large bowl, whisk together the mayonnaise, cotija cheese, chili powder, paprika, lime juice, salt, and pepper.",
+    "Once the corn is charred, remove it from the grill and brush it with the mayonnaise mixture.",
+    "Wrap each ear of corn in a lotus leaf wrap, making sure to seal the edges.",
+    "Steam the wrapped corn for about 5 minutes, until the corn is tender and the leaf is fragrant.",
+    "Serve the elote hot, with additional mayonnaise and cotija cheese on the side if desired.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "mexican",
+    "street-food",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "mildly-charred-mexican-corn-elote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-charred-mexican-corn-elote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:33:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "strong white flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "mildly charred",
+    "dishForm": "Elote"
+  }
+}
