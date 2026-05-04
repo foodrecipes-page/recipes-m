@@ -1,0 +1,64 @@
+{
+  "title": "Malty and Intense Croatian Petit Pois Paella",
+  "description": "This traditional Croatian dish is a rich, malty paella that features the fresh taste of petit pois and a pescatarian-friendly score-fat sauce.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "score-fat (smoked bacon fat)",
+      "amount": "1/2 cup",
+      "notes": "reserve the drippings from cooking the bacon"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a molcajete over medium heat, then add 1 small onion, diced, and cook until softened.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute.",
+    "Add 1 cup of petit pois, rinsed and drained, and cook for 2-3 minutes, or until tender.",
+    "Add 1 cup of uncooked Spanish rice, and stir to coat the rice in the score-fat and mix with the petit pois.",
+    "Add 1 cup of fish stock, heated, and bring to a simmer.",
+    "Add 1 teaspoon of paprika, and 1 teaspoon of saffron, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cook, covered, for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the paella with a fork, and serve hot.",
+    "Garnish with chopped fresh parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "fish-friendly",
+    "one-pan",
+    "one-pot",
+    "paella",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "malty-and-intense-croatian-petit-pois-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-and-intense-croatian-petit-pois-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:10Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "petit pois",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "petit pois",
+    "descriptor": "Malty and Intense",
+    "dishForm": "Paella"
+  }
+}

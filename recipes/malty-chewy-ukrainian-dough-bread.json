@@ -1,0 +1,104 @@
+{
+  "title": "Malty Chewy Ukrainian Dough Bread",
+  "description": "A traditional Ukrainian bread featuring a malty, chewy texture and a hint of cayenne pepper, perfect for serving with soups or stews.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups",
+      "notes": "use a high-protein flour for better texture"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and yeast. Let it sit for 5-10 minutes until yeast is activated.",
+    "Add flour, salt, sugar, cayenne pepper, and butter to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment in a warm place for 1-2 hours until it has doubled in size.",
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Punch down the dough and shape it into a round or oblong loaf. Place the loaf on the prepared baking sheet.",
+    "Brush the top of the loaf with olive oil and sprinkle with sesame seeds if using.",
+    "Bake the bread for 35-40 minutes until it is golden brown and sounds hollow when tapped on the bottom.",
+    "Let the bread cool on a wire rack for at least 10 minutes before slicing."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "gluten-free",
+    "high-fiber",
+    "kosher",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "malty-chewy-ukrainian-dough-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-chewy-ukrainian-dough-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dough",
+    "descriptor": "malty chewy",
+    "dishForm": "Bread"
+  }
+}

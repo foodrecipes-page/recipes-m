@@ -1,0 +1,107 @@
+{
+  "title": "Molten Comforting Uruguayan Sour Cheese Empanadas",
+  "description": "Flaky pastry pockets filled with a tangy, creamy cheese mixture that's perfect for a cozy evening in.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "2 cups",
+      "notes": "Store-bought or homemade."
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegan Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tapioca Flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Kombu Seaweed Powder",
+      "amount": "1 tsp",
+      "notes": "Optional for umami flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vegan Egg Replacer",
+      "amount": "2 tbsp",
+      "notes": "To replace eggs in the dough."
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For egg wash."
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400°F (200°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the cheese, mustard, tapioca flour, kombu powder, salt, black pepper, and garlic powder.",
+    "Brush the edges of the dough circles with water, then spoon a small amount of the cheese mixture onto one half of each circle.",
+    "Fold the other half of the dough over the filling, pressing the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on the preheated grill, leaving about 1 inch of space between each one.",
+    "Cook the empanadas for 10-12 minutes, or until the pastry is golden brown and the filling is melted and bubbly.",
+    "Remove the empanadas from the grill and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "grilled",
+    "latin-inspired",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "molten-comforting-uruguayan-sour-cheese-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-comforting-uruguayan-sour-cheese-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "dijon mustard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Sour cheese",
+    "descriptor": "Molten comforting",
+    "dishForm": "Empanadas"
+  }
+}
