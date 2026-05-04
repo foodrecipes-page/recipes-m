@@ -1,0 +1,115 @@
+{
+  "title": "Marinated Indian Pancetta Curry",
+  "description": "A spicy, juicy, light Indian dish featuring pancetta cooked in a clay pot, perfect for lacto-vegetarian friendly meals.",
+  "cuisine": "Indian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "200g",
+      "notes": "sliced 5mm thick"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "3 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a clay pot over medium heat until shimmering.",
+    "Add pancetta slices and cook until they start to crisp, about 3-4 minutes, stirring occasionally.",
+    "Toss in sliced onion and minced garlic, sauté until onion turns translucent, about 5 minutes.",
+    "Stir in diced tomatoes, cumin, coriander, red chili powder, and salt, cooking until tomatoes soften, about 7 minutes.",
+    "Reduce heat to low, add yogurt, garam masala, and black pepper, stirring until the mixture coats the pancetta and tomato mixture, about 5 minutes.",
+    "Cover the pot with its lid, let the curry simmer gently for 15 minutes, allowing flavors to meld.",
+    "Stir once and ladle the curry into serving bowls, garnish with fresh cilantro.",
+    "Serve hot over steamed rice or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cook",
+    "juicy",
+    "lacto-vegetarian-friendly",
+    "pancetta",
+    "quick-serve",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 19,
+    "carbs": 11,
+    "fat": 25
+  },
+  "slug": "marinated-indian-pancetta-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-indian-pancetta-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:34:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "pancetta",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Pancetta",
+    "descriptor": "Marinated",
+    "dishForm": "Curry"
+  }
+}
