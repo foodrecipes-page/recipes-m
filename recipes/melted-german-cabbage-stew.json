@@ -1,0 +1,117 @@
+{
+  "title": "Melted German Cabbage Stew",
+  "description": "An earthy, cheese‑pull pork‑free stew that soothes hangovers, featuring Chinese cabbage, a mirepoix base, and a generous melt of Emmental.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 medium head",
+      "notes": "about 500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "about 150g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "about 120g"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "3",
+      "notes": "about 120g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "800 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Emmental cheese, grated",
+      "amount": "100 g",
+      "notes": "for melting"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "Mustard powder",
+      "amount": "1 tsp",
+      "notes": "for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Chop the onion, carrot, celery, and Chinese cabbage into bite‑sized pieces.",
+    "Heat the olive oil in a large pot over medium heat and sauté the onion, carrot, and celery until softened, about 5 minutes.",
+    "Add the chopped cabbage and sauté for another 3 minutes until it begins to wilt.",
+    "Pour in the vegetable broth, add salt, pepper, thyme, bay leaf, and mustard powder, and bring the mixture to a gentle simmer.",
+    "Reduce the heat to low and let the stew simmer, uncovered, for 30 minutes, stirring occasionally.",
+    "Remove the bay leaf and stir in the grated Emmental cheese until it fully melts into the stew.",
+    "Taste and adjust seasoning with additional salt or pepper if needed.",
+    "Ladle the hot stew into bowls and serve immediately, optionally with crusty bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "hangover-cure",
+    "hearty",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 11
+  },
+  "slug": "melted-german-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-german-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:14:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Melted",
+    "dishForm": "Stew"
+  }
+}
