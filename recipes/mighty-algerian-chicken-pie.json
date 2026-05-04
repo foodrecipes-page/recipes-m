@@ -1,0 +1,107 @@
+{
+  "title": "Mighty Algerian Chicken Pie",
+  "description": "A rich, gooey post-workout Algerian pie with spiced chicken, fresh spinach, and a buttery shortcrust, all in a low-sodium-friendly en-croute.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "amount": "500 g"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200 g"
+    },
+    {
+      "name": "red onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shortcrust pastry sheet",
+      "amount": "1"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "In a skillet, heat olive oil over medium heat and sauté onion and garlic until translucent.",
+    "Add diced carrots and cook for 5 minutes, then stir in harissa paste, cumin, and paprika, cooking until fragrant.",
+    "Add chicken pieces, cook until no longer pink, then fold in spinach and lemon juice, cooking until spinach wilts.",
+    "Transfer the filling to a bowl and let it cool slightly.",
+    "Roll out the shortcrust pastry on a lightly floured surface and cut into two equal halves.",
+    "Spoon the filling onto one pastry half, brush the edges with beaten egg, then top with the second pastry piece, sealing edges with a fork.",
+    "Brush the pie crust with remaining beaten egg and make a few slits in the top to allow steam to escape.",
+    "Bake for 35 minutes, until the crust is golden and the filling is bubbling; let rest 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "en-croute",
+    "low-sodium",
+    "post-workout",
+    "shortcrust"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 120,
+    "carbs": 170,
+    "fat": 80
+  },
+  "slug": "mighty-algerian-chicken-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-algerian-chicken-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:35:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Mighty",
+    "dishForm": "Pie"
+  }
+}
