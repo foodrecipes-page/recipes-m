@@ -1,0 +1,93 @@
+{
+  "title": "Mellow Sweet Kenyan Sweet Potato Bake",
+  "description": "A sweet and velvety Kenyan dish featuring garlic, perfect for a lazy Sunday, and FODMAP-friendly. This bake is made with sweet potatoes, garlic, and a blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced sweet potatoes with olive oil, salt, black pepper, paprika, cumin, and coriander until they are evenly coated.",
+    "In a separate bowl, mix the minced garlic with a pinch of salt.",
+    "Add the garlic mixture to the sweet potatoes and toss until the garlic is evenly distributed.",
+    "Transfer the sweet potato mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 45 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Mellow Sweet Kenyan Sweet Potato Bake hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "mellow-sweet-kenyan-sweet-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-sweet-kenyan-sweet-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:14:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "garlic",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "mellow sweet",
+    "dishForm": "Bake"
+  }
+}
