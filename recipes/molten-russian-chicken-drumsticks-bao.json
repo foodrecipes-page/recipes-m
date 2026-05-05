@@ -1,0 +1,133 @@
+{
+  "title": "Molten Russian Chicken Drumsticks Bao",
+  "description": "Winey, molten, and sick-day worthy, this dish showcases crispy chicken drumsticks smothered in a rich gravy and served on a soft, fluffy bao.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "gravy mix",
+      "amount": "1 envelope",
+      "notes": "Russian-style, beef flavor"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "for balance"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, eggs, and buttermilk.",
+    "Add the chicken drumsticks to the mixture and coat evenly.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Dredge the marinated chicken drumsticks in cornstarch, shaking off excess.",
+    "Fry the chicken drumsticks in batches until golden brown and crispy, about 5-6 minutes per batch.",
+    "Remove the fried chicken from the oil with a slotted spoon and place on a paper towel-lined plate.",
+    "In a small saucepan, whisk together the gravy mix, white wine, and chicken broth over medium heat.",
+    "Bring the mixture to a simmer and cook until the gravy thickens, about 5-7 minutes.",
+    "Stir in the unbleached all-purpose flour and sugar until dissolved.",
+    "Add the cooked chicken drumsticks back to the gravy and toss to coat evenly.",
+    "Season with salt and black pepper to taste.",
+    "Split the bao in half and toast until lightly browned.",
+    "Assemble the dish by placing the fried chicken drumsticks on the toasted bao and spooning the molten gravy over the top.",
+    "Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-fat",
+    "one-pan",
+    "russian-cuisine",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "molten-russian-chicken-drumsticks-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-russian-chicken-drumsticks-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:37Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "molten",
+    "dishForm": "Bao"
+  }
+}

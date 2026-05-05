@@ -1,0 +1,111 @@
+{
+  "title": "Mildly Flavored Japanese Herring Ochazuke Donabe",
+  "description": "A delicious and nutritious post-workout Hokkaido-inspired dish featuring jammy herring, crispy toast, and steaming hot donabe broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Herring fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free toast",
+      "amount": "2 slices",
+      "notes": "Any brand of gluten-free bread works well."
+    },
+    {
+      "name": "Sake rice",
+      "amount": "1 cup",
+      "notes": "Short-grain Japanese rice ideal for donabe cooking."
+    },
+    {
+      "name": "Dashi granules",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Asian grocery stores."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Wasabi",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Ponzu sauce",
+      "amount": "2 tablespoons",
+      "notes": "For serving."
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1/2 cup",
+      "notes": "Canned or fresh, sliced."
+    }
+  ],
+  "instructions": [
+    "In a donabe pot, combine 4 cups of water and 1 teaspoon of dashi granules. Bring to a boil over high heat.",
+    "Reduce heat to low and add 2 tablespoons of soy sauce and 2 tablespoons of mirin. Simmer for 5 minutes.",
+    "Add 1 cup of sake rice to the pot and cook for an additional 10 minutes, or until the rice is cooked through.",
+    "In a separate pan, toast 2 slices of gluten-free bread until crispy and golden brown.",
+    "Cut the herring fillets into small pieces and mix with 1 teaspoon of wasabi.",
+    "Divide the cooked rice between two bowls and top with the herring mixture, toasted bread, and bamboo shoots.",
+    "Serve with a drizzle of ponzu sauce and garnish with green onions and sesame seeds, if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-flavored-japanese-herring-ochazuke-donabe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-flavored-japanese-herring-ochazuke-donabe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "herring",
+    "diet": "gluten-free",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "herring",
+    "descriptor": "mildly flavored",
+    "dishForm": "Ochazuke Donabe"
+  }
+}

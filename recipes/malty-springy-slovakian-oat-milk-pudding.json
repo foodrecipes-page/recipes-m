@@ -1,0 +1,109 @@
+{
+  "title": "Malty Springy Slovakian Oat milk Pudding",
+  "description": "A show-off dessert originating from Slovakia, highlighting the use of oat milk and a springy texture, with a deep malty flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Oat Milk",
+      "amount": "500ml",
+      "notes": "Unsweetened"
+    },
+    {
+      "name": "Sugar",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Malt Syrup",
+      "amount": "60g",
+      "notes": "Dark or light color syrup as preferred"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Elderberry Jam",
+      "amount": "1 tsp",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": "For steaming"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together oat milk, sugar, cornstarch, salt, and malt syrup. Cook over medium heat, whisking until mixture comes to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, or until pudding thickens and passes the \"coat the back of a spoon\" test.",
+    "In a small bowl, whisk together lemon juice and vanilla extract. Add to the pudding mixture and cook for another minute.",
+    "Remove from heat and let cool slightly, then transfer the pudding to ramekins or small glasses.",
+    "Cover the ramekins with plastic wrap, pressing the wrap directly onto the surface of the pudding to prevent a skin from forming.",
+    "Place ramekins in a steamer basket, pour the water around it, and steam for 15 minutes, or until the pudding is set and slightly firm.",
+    "Remove ramekins from the steamer and let cool completely on a wire rack.",
+    "Once set, top with elderberry jam if desired, and serve chilled.",
+    "Garnish with a few fresh berries if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "spring-time",
+    "vegan-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "malty-springy-slovakian-oat-milk-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-springy-slovakian-oat-milk-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "oat milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Oat milk",
+    "descriptor": "Malty Springy",
+    "dishForm": "Pudding"
+  }
+}
