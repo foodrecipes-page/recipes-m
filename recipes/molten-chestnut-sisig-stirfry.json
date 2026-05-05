@@ -1,0 +1,91 @@
+{
+  "title": "Molten Chestnut Sisig-Stirfry",
+  "description": "A savory and umami-rich meal-prep Filipino dish featuring chestnuts, stir-fried with sizzling hot sisig (a popular pork dish) to create a unique texture and flavor profile suitable for shojin-ryori cuisine.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": 150,
+      "notes": "Soaked and peeled"
+    },
+    {
+      "name": "Sisig Meat (cooked pork meat), diced",
+      "amount": "about 200g"
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Chili Pepper, finely chopped",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or frying pan.",
+    "Add chopped scallions and sauté for about 30 seconds.",
+    "Gradually add diced sisig meat, stir-frying until it's slightly browned.",
+    "Fold in chestnuts and continue to fry gently for another minute.",
+    "Mix tamarind paste with fish sauce to make a paste.",
+    "Add the tamarind fish sauce mixture and red chili pepper.",
+    "Cook until the mixture thickens slightly, about 3-5 minutes.",
+    "Reduce heat to low and let it simmer for an additional 2 minutes.",
+    "Season with lime juice to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut-fusion",
+    "hot-and-sour",
+    "meal-prep",
+    "shojin-friendly",
+    "sisig-stirfry",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "molten-chestnut-sisig-stirfry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-chestnut-sisig-stirfry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:09:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "chestnuts",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chestnuts",
+    "descriptor": "Molten",
+    "dishForm": "Sisig-Stirfry"
+  }
+}
