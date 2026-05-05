@@ -1,0 +1,122 @@
+{
+  "title": "Molten Herbal Saudi-Arabian Beef Tagine",
+  "description": "A hearty and flavorful tagine that's perfect for the whole family. With a rich, molten sauce and tender beef, this dish is sure to become a favorite",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 1 tbsp hot water"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onions, garlic, and ginger and cook until the onions are translucent, about 5 minutes.",
+    "Add the cumin, coriander, paprika, salt, and pepper and cook for 1 minute, stirring constantly.",
+    "Add the tomatoes, saffron, and its soaking liquid and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the beef is tender.",
+    "Stir in the chopped parsley and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kid-friendly",
+    "saudi-arabian",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "molten-herbal-saudi-arabian-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-herbal-saudi-arabian-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "beef gravy",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "beef",
+    "descriptor": "molten herbal",
+    "dishForm": "Tagine"
+  }
+}

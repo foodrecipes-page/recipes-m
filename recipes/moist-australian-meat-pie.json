@@ -1,0 +1,104 @@
+{
+  "title": "Moist Australian Meat Pie",
+  "description": "A classic Australian savory pie featuring seasoned ground beef and a flaky phyllo crust, suitable for diabetic-friendly diets. This recipe yields a rich and satisfying meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "150g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "75g"
+    },
+    {
+      "name": "Celery",
+      "amount": "50g"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "25g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5tsp"
+    },
+    {
+      "name": "Phyllo Dough",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Mix ground beef, onion, carrots, celery, flour, egg, and milk in a bowl until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Heat a pan over medium heat and cook the beef mixture until browned, breaking it up with a spoon as it cooks.",
+    "Soak the phyllo sheets in warm water for 5 minutes.",
+    "Layer the phyllo sheets in a pie dish, brushing each sheet with melted butter.",
+    "Spoon the beef mixture into the center of the phyllo layers.",
+    "Top with another sheet of phyllo and brush with butter.",
+    "Sous-vide at 160F (71C) for 2 hours and 30 minutes.",
+    "Preheat the oven to 375F (190C).",
+    "Bake the pie for 20-25 minutes, or until the phyllo is golden brown.",
+    "Let the pie rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 145,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "diabetic-friendly",
+    "homemade",
+    "savory",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "moist-australian-meat-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-australian-meat-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "phyllo dough",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "meat",
+    "descriptor": "moist",
+    "dishForm": "Pie"
+  }
+}

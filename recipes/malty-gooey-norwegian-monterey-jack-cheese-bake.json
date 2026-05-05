@@ -1,0 +1,90 @@
+{
+  "title": "Malty Gooey Norwegian Monterey Jack Cheese Bake",
+  "description": "A delicious breakfast dish featuring a malty, gooey crust and a rich Norwegian-inspired Monterey Jack cheese filling, perfect for a lazy Sunday morning.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Flaked oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Malted milk powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the Monterey Jack cheese, flaked oats, malted milk powder, unsalted butter, granulated sugar, eggs, heavy cream, salt, and ground cardamom. Mix until well combined.",
+    "Transfer the cheese mixture to a 9x13 inch baking dish.",
+    "Place the baking dish in a large roasting pan and add hot water to come halfway up the sides of the dish.",
+    "Bake for 25 minutes, then remove the baking dish from the water bath and continue baking for an additional 10-12 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove the baking dish from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-dish",
+    "breakfast",
+    "cheese",
+    "comfort-food",
+    "european",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "malty-gooey-norwegian-monterey-jack-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-gooey-norwegian-monterey-jack-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:48Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Monterey Jack Cheese",
+    "descriptor": "Malty Gooey",
+    "dishForm": "Bake"
+  }
+}

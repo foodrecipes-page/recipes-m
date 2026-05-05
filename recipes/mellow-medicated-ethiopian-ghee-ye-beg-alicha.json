@@ -1,0 +1,131 @@
+{
+  "title": "Mellow Medicated Ethiopian Ghee Ye Beg Alicha",
+  "description": "A soothing, fermented Ethiopian stew featuring ghee and spices that helps cure hangovers with its anti-inflammatory properties.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Teff flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Berbere spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee over medium heat in a medium saucepan.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add turmeric, cinnamon, cardamom, and cayenne pepper and cook for 1 minute, stirring constantly.",
+    "Add fermented teff flour and cook for 1 minute, stirring constantly.",
+    "Gradually add water, whisking continuously to prevent lumps.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Add Ethiopian Berbere spice mix and salt, and stir to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve over injera or with a side of steamed vegetables.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat by simmering over low heat, adding water if necessary to achieve the desired consistency.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "ethiopian",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-medicated-ethiopian-ghee-ye-beg-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-medicated-ethiopian-ghee-ye-beg-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "ghee",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Ghee",
+    "descriptor": "Mellow medicated",
+    "dishForm": "Ye Beg Alicha"
+  }
+}
