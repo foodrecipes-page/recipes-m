@@ -1,0 +1,116 @@
+{
+  "title": "Mustardy Fluffy Energizing Korean Dried-Shrimp-Goong-Haeng Mandu",
+  "description": "A flavorful and energizing Korean mandu dish featuring dried shrimp and mustard flavors. Great for a quick breakfast or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried shrimp goong haeng",
+      "amount": "1/2 cup",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "Vegan kimchi",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes gochugaru",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seed",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mortar and pestle pound the mustard seed until slightly crushed.",
+    "In a large mixing bowl, combine the rice flour, water, salt, black pepper, and Korean chili flakes gochugaru.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Place a small ball of dough in the center of a mandu wrapper, followed by a few pieces of soaked and drained dried shrimp goong haeng and some vegan kimchi.",
+    "Dip your finger in a small amount of water and run it along the edge of the mandu wrapper.",
+    "Fold the wrapper into a triangle, pressing the edges together to seal the mandu.",
+    "Repeat with the remaining dough and filling.",
+    "Heat about 1-2 inches of sesame oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the mandu to the skillet and cook until they are golden brown and crispy on the bottom.",
+    "Flip the mandu over and cook for another minute or until they are crispy on the other side.",
+    "Serve the mandu hot with a dipping sauce made from a mixture of soy sauce, rice vinegar, and Gochujang.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dried-shrimp",
+    "energizing",
+    "fluffy",
+    "high-protein",
+    "korean",
+    "mandu",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mustardy-fluffy-energizing-korean-dried-shrimp-goong-haeng-mandu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-fluffy-energizing-korean-dried-shrimp-goong-haeng-mandu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "vegan",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dried-shrimp-goong-haeng",
+    "descriptor": "Mustardy Fluffy Energizing",
+    "dishForm": "Mandu"
+  }
+}

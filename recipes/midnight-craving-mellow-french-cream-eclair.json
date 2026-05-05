@@ -1,0 +1,97 @@
+{
+  "title": "Midnight-Craving Mellow French Cream Eclair",
+  "description": "A light, midnight-craving French eclair with a unique bitter twist. This egg-free-friendly dessert features dried oregano and a refreshing cure.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": 1.5,
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": 1,
+      "notes": "for bitter taste"
+    },
+    {
+      "name": "dried oregano",
+      "amount": 0.25,
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": 0.5,
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": 0.5,
+      "notes": "or other non-dairy milk"
+    },
+    {
+      "name": "coconut cream",
+      "amount": 1.5,
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": 0.5,
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": 0.125,
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": 0.1,
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00134F (200\u00136C).",
+    "Line a bamboo-tray with parchment paper for easy eclair removal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-cocoa-content",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "midnight-craving-mellow-french-cream-eclair",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-mellow-french-cream-eclair",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "dried oregano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cream",
+    "descriptor": "Midnight-Craving Mellow",
+    "dishForm": "Eclair"
+  }
+}
