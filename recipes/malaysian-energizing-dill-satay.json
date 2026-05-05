@@ -1,0 +1,97 @@
+{
+  "title": "Malaysian Energizing Dill Satay",
+  "description": "A light and refreshing Malaysian-inspired dish featuring dill, score-fat, and a hint of coconut, perfect for a quick and easy snack or dessert.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "500g",
+      "notes": "",
+      "},{": false
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat, low-carb option"
+    },
+    {
+      "name": "Score-Fat (Ghee or Coconut Oil)",
+      "amount": "2 tbsp",
+      "notes": "low-carb, high-calorie option"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, lime juice, garlic, ginger, and salt.",
+    "Add the chopped fresh dill to the bowl and mix well.",
+    "Add the boneless chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the score-fat onto the grill or grill pan.",
+    "Grill the satay for 8-10 minutes per side, or until cooked through.",
+    "Serve warm with additional fresh dill and a side of peanut sauce, if desired.",
+    "Garnish with toasted coconut flakes, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 50,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "malaysian-energizing-dill-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malaysian-energizing-dill-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "dill",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Dill",
+    "descriptor": "Energizing",
+    "dishForm": "Satay"
+  }
+}
