@@ -1,0 +1,131 @@
+{
+  "title": "Molten One-Pot Mediterranean Salmon Tagliere",
+  "description": "A spicy, satvik-friendly one-pot dish featuring salmon, tandoor, and Mediterranean flavors, all cooked to perfection in a tagliere.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets (6 oz)",
+      "amount": "1",
+      "notes": "Fresh, wild-caught salmon, preferably sustainably sourced."
+    },
+    {
+      "name": "Tandoori masala",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought, adjust to taste."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for maximum flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated for added depth."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality extra-virgin."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Adjust to desired level of spiciness."
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumble into small pieces."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "High-quality sea salt."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved for maximum flavor."
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 tsp",
+      "notes": "Chopped for added brightness."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large tagliere, combine salmon fillets, tandoori masala, lemon juice, garlic, ginger, olive oil, and red pepper flakes. Toss to coat evenly.",
+    "Add feta cheese, salt, and black pepper to the tagliere, toss to combine.",
+    "Transfer the tagliere to the preheated oven and bake for 12-15 minutes, or until the salmon is cooked through and the cheese is melted.",
+    "While the salmon is baking, heat the tomato paste and cherry tomatoes in a small skillet over medium heat, stirring occasionally, until the tomatoes have released their juices and the paste has thickened.",
+    "To assemble the dish, place a cooked salmon fillet on each plate, top with a spoonful of the tomato mixture, and garnish with chopped fresh parsley and basil.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "easypeasy",
+    "fish",
+    "high-protein",
+    "mediterranean",
+    "one-pot",
+    "pescatarian",
+    "salmon",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 40,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "molten-one-pot-mediterranean-salmon-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-one-pot-mediterranean-salmon-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "salmon",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "salmon",
+    "descriptor": "Molten One-Pot",
+    "dishForm": "Tagliere"
+  }
+}
