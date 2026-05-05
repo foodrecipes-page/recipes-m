@@ -1,0 +1,115 @@
+{
+  "title": "Melted German Beef Casserole",
+  "description": "A hearty, one-pot dish with a rich, molten center featuring ground beef and a hint of bonito. This ayurvedic-rajasic-friendly recipe is perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "300ml",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and cook until translucent.",
+    "Sprinkle in caraway seeds and bonito flakes, stirring for 1 minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the beer and beef broth, stirring to combine.",
+    "Bring to a simmer and cook for 10 minutes, or until the liquid has thickened slightly.",
+    "Stir in milk and cook for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Sprinkle with parsley and serve hot, molten center and all."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food",
+    "german",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "melted-german-beef-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-german-beef-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ground beef",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "beef",
+    "descriptor": "melted",
+    "dishForm": "casserole"
+  }
+}

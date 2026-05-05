@@ -1,0 +1,96 @@
+{
+  "title": "Molten Peppery Irish Fish Paella",
+  "description": "A lazy Sunday Irish dish featuring fish, with a kick of peppery heat, all in a molten, one-pan wonder.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "Irish favorite."
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Add heat to your meal."
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Season with care."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Peppery goodness."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "whisk",
+      "amount": "",
+      "notes": "for egg mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together egg, salt, and pepper, for the paella's egg wash.",
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Add haddock fillets, cook until browned on both sides, 2-3 minutes per side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-dinner",
+    "fish-only",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "paella",
+    "weekday-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "molten-peppery-irish-fish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peppery-irish-fish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "fish",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "Molten Peppery",
+    "dishForm": "Paella"
+  }
+}

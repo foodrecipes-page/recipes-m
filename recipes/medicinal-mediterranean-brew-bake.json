@@ -1,0 +1,126 @@
+{
+  "title": "Medicinal Mediterranean Brew Bake",
+  "description": "A pungent, springy, meal-prep Mediterranean dish featuring beer, bake, and ayurvedic-rajasic-friendly ingredients, served in a pandan-leaf wrap.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F",
+    "In a large bowl, whisk together quinoa, chickpeas, kalamata olives, artichoke hearts, feta cheese, fresh parsley, lemon juice, olive oil, garlic, onion, cumin, and paprika",
+    "Add gluten-free beer to the bowl and stir to combine",
+    "Transfer the mixture to a pandan leaf wrap and shape into a log",
+    "Bake for 25 minutes, or until the quinoa is tender and the flavors are melded together",
+    "Let the brew bake rest for 5 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "medicinal-mediterranean-brew-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/medicinal-mediterranean-brew-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "beer",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beer",
+    "descriptor": "medicinal",
+    "dishForm": "Bake"
+  }
+}

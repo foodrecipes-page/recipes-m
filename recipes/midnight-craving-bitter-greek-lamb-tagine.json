@@ -1,0 +1,110 @@
+{
+  "title": "midnight-craving bitter greek lamb tagine",
+  "description": "A twist on traditional greek cuisine with bitter notes from preserved lemons.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "trim excess fat and cut into 1-inch cubes"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tablespoons",
+      "notes": "crushed or powdered, your preference"
+    },
+    {
+      "name": "preserved lemons",
+      "amount": "2",
+      "notes": "chopped, rind and pulp separated (see note)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium, warmed"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "whisk",
+      "amount": "",
+      "notes": "for mixing spices"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together allspice, cumin, and paprika. Add lemon rind and whisks until well combined.",
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown lamb in batches, 2-3 minutes per batch, until browned on all sides.",
+    "Remove lamb from pot and set aside.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add preserved lemon pulp, broth, and spice mixture to pot. Stir to combine.",
+    "Return lamb to pot and bring mixture to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes, until lamb is tender.",
+    "Fluff with a fork and season with salt and pepper.",
+    "Stir in parsley and oregano, and serve with honey, if desired.",
+    "Serve immediately, garnished with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "one-pan",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 54,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "midnight-craving-bitter-greek-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-bitter-greek-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "allspice berries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "midnight-craving bitter",
+    "dishForm": "Tagine"
+  }
+}
