@@ -1,0 +1,101 @@
+{
+  "title": "Mustardy Shaggy Cheese Braise in Kadhai",
+  "description": "A satvik-friendly one-pot Tunisian dish featuring mustard, shaggy cheese braised with vegetables and spices in a kadhai pot.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shaggy Cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2 small"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in kadhai over medium heat.",
+    "Add onion, garlic, carrot, celery, leeks, and red peppers. Sauté until softened.",
+    "Stir in mustard and tomato paste, cooking for about a minute to allow the flavors to meld together.",
+    "Pour in 200ml of water or vegetable stock. Bring to boil then reduce heat to low.",
+    "Cover with a lid, place shaggy cheese on top of vegetables, cover again if necessary, and simmer gently for 30 minutes.",
+    "Remove from heat once the mixture has thickened slightly. Let it rest for a few more minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "cheese",
+    "mustard",
+    "one-pot",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mustardy-shaggy-cheese-braise-in-kadhai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-shaggy-cheese-braise-in-kadhai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:01:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Mustardy Shaggy",
+    "dishForm": "Braise"
+  }
+}
