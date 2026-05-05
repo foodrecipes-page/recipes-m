@@ -1,0 +1,124 @@
+{
+  "title": "Meatless Melt American Ricotta Casserole",
+  "description": "A malty, molten meal-prep American dish featuring ricotta, marinara, and melted mozzarella cheese, suitable for diabetes-friendly diets and can be made in under an hour. This recipe serves 4-6 people and has a medium level of difficulty.",
+  "cuisine": "American",
+  "diet": [
+    "diabetes-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 15-oz container",
+      "notes": ""
+    },
+    {
+      "name": "Marinara Sauce",
+      "amount": "1 28-oz jar",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg Beaters",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs, Panko-style",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic powder and cook for 1 minute, until fragrant.",
+    "Add the marina sauce and bring to a simmer.",
+    "Stir in the ricotta cheese and cook until heated through.",
+    "Transfer the ricotta mixture to a 9x13-inch baking dish.",
+    "Sprinkle the mozzarella cheese over the top of the ricotta mixture.",
+    "Sprinkle the breadcrumbs over the mozzarella cheese.",
+    "Mix the egg beaters and parmesan cheese in a small bowl.",
+    "Spread the breadcrumb mixture evenly over the top of the casserole.",
+    "Top with panko-style breadcrumbs and drizzle with olive oil.",
+    "Bake in the preheated oven for 25 minutes, or until golden brown.",
+    "Let the casserole rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "marinara-sauce",
+    "melted-cheese",
+    "one-pan",
+    "ricotta-cheese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "meatless-melt-american-ricotta-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meatless-melt-american-ricotta-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "ricotta",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Meatless Melt",
+    "dishForm": "Casserole"
+  }
+}

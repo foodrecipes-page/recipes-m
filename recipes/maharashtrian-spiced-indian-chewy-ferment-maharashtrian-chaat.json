@@ -1,0 +1,151 @@
+{
+  "title": "Maharashtrian-spiced Indian chewy ferment Chaat",
+  "description": "A buttery, chewy, and cozy Indian dish from the state of Maharashtra, featuring a unique blend of five spice powder and a ferment.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 tsp",
+      "notes": "Active dry yeast, instant for faster fermentation."
+    },
+    {
+      "name": "Ghee or unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Five spice powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": "Use low-sodium salt."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green chili paste",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "a handful",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dessicated coconut",
+      "amount": "2 tbsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "a handful",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Puffed rice",
+      "amount": "2 cups",
+      "notes": "Optional."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "For serving."
+    },
+    {
+      "name": "Chaat Masala",
+      "amount": "1 tsp",
+      "notes": "Available at Indian grocery stores."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the rice flour, yeast, and warm water to create the dough. ",
+    "Mix the dough thoroughly until it forms a sticky ball.",
+    "Cover the dough with a damp cloth and let it rest in a warm place for 2-3 hours, allowing it to ferment and rise.",
+    "After fermentation, knead the dough gently for 5 minutes until it becomes smooth and elastic.",
+    "Heat oil in a dolsot-stone-bowl (or a non-stick pan) over medium heat.",
+    "Add the ghee or unsalted butter and let it melt.",
+    "Add the five spice powder, turmeric powder, red chili powder, and salt, and mix well.",
+    "Add the fermented dough and mix until it becomes a uniform, buttery mixture.",
+    "Add the ginger paste, green chili paste, and mix well.",
+    "Add the desiccated coconut and mix well (if using).",
+    "Transfer the mixture to the preheated bowl or pan and cook over medium heat for 10-12 minutes, stirring occasionally, until it is cooked through and has a slightly crispy bottom.",
+    "Garnish with fresh cilantro, lime juice, and serve hot with yogurt and chaat masala, if desired.",
+    "Optional: Top with puffed rice for added crunch."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chaat",
+    "comfort-food",
+    "easy-to-make",
+    "fermented",
+    "indian",
+    "snack",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "maharashtrian-spiced-indian-chewy-ferment-maharashtrian-chaat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/maharashtrian-spiced-indian-chewy-ferment-maharashtrian-chaat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-sodium",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chewy ferment",
+    "descriptor": "Maharashtrian-spiced",
+    "dishForm": "Maharashtrian Chaat"
+  }
+}
