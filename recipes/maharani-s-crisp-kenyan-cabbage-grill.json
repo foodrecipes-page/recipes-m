@@ -1,0 +1,109 @@
+{
+  "title": "Maharani's Crisp Kenyan Cabbage Grill",
+  "description": "Tangy, crisp, romantic Kenyan dish featuring caramelize yellow cabbage. Perfect for special occasions and dinner parties.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale cabbage",
+      "amount": "1 head",
+      "notes": "Yellow food coloring may stain hands and surfaces."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "Caramelize for a deeper flavor."
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Raclette cheese",
+      "amount": "1 cup",
+      "notes": "Optional, adds creaminess."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Garnish."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat raclette grill to medium heat.",
+    "Finely chop the kale cabbage, discarding any tough stalks.",
+    "Add yellow food coloring to cabbage and toss to coat.",
+    "Brush raclette grill with olive oil to prevent sticking.",
+    "Place cabbage on raclette grill and caramelize for 5 minutes on each side.",
+    "Cook until cabbage reaches a deep golden brown, stirring occasionally.",
+    "Transfer cabbage to a serving dish, sprinkle with brown sugar, balsamic vinegar, and red pepper flakes.",
+    "Top with raclette cheese, fresh parsley, and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!",
+    "Allow raclette grill to cool before cleaning.",
+    "Wash hands thoroughly after handling cabbage and food coloring, as they may stain skin and surfaces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cabbage",
+    "casserole",
+    "dinner",
+    "grill",
+    "romantic",
+    "yellow"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "maharani-s-crisp-kenyan-cabbage-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/maharani-s-crisp-kenyan-cabbage-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Maharani's Crisp",
+    "dishForm": "Grill"
+  }
+}
