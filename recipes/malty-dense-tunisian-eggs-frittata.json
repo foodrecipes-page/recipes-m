@@ -1,0 +1,66 @@
+{
+  "title": "Tunisian Eggs Frittata",
+  "description": "A flavorful, malty, and dense Tunisian dish perfect for a weeknight meal, made with free-range eggs and minimal ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "free-range"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a 12-inch non-stick skillet over medium heat.",
+    "Chop the onion and add it to the skillet, cooking for 3-4 minutes until softened.",
+    "In a large bowl, whisk together the eggs, ground cumin, and paprika.",
+    "Add the chopped onion, flaked almonds, and 2 tablespoons of Malted Syrup to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the skillet and cook for 3-4 minutes, until the edges start to set.",
+    "Transfer the skillet to the oven and bake at 375°F for 15-20 minutes, or until the eggs are set and the edges are golden brown.",
+    "Remove the skillet from the oven and sprinkle with flat-leaf parsley.",
+    "Let the frittata cool for a few minutes before slicing and serving.",
+    "Cook time may vary depending on the size of the skillet and the number of eggs used."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dense",
+    "eggs",
+    "malty",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "malty-dense-tunisian-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-dense-tunisian-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "eggs",
+    "descriptor": "malty dense",
+    "dishForm": "Frittata"
+  }
+}
