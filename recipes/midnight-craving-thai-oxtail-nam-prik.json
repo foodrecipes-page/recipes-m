@@ -1,0 +1,120 @@
+{
+  "title": "Midnight Craving Thai Oxtail Nam Prik",
+  "description": "A rich, malty, and velvety Thai dish featuring oxtail, inspired by Bangkok street food.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the oxtail and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, lemongrass, and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the chili peppers, fish sauce, palm sugar, tamarind paste, salt, and black pepper. Stir to combine.",
+    "Add 1 cup of water and bring to a boil.",
+    "Transfer the pot to the oven and braise the oxtail for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and stir in the Thai basil and fried shallots.",
+    "Serve the oxtail hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bangkokstreetfood",
+    "nam-prik",
+    "oxtail",
+    "spicy",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 60,
+    "fat": 52
+  },
+  "slug": "midnight-craving-thai-oxtail-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-thai-oxtail-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "oxtail",
+    "diet": "raw",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Oxtail",
+    "descriptor": "Midnight Craving",
+    "dishForm": "Nam Prik"
+  }
+}
