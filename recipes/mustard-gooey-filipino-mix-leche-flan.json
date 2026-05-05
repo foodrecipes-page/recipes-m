@@ -1,0 +1,108 @@
+{
+  "title": "Mustard-Gooey Filipino Leche Flan",
+  "description": "A unique twist on traditional Filipino leche flan, using white bread mix and a hint of mustard for added depth.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "White Bread Mix",
+      "amount": "1 pack",
+      "notes": "Softened at room temperature for 30 minutes."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "4 eggs",
+      "notes": "Room temperature."
+    },
+    {
+      "name": "Whole Milk",
+      "amount": "1 cup",
+      "notes": "Cold from the refrigerator."
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tsp",
+      "notes": "Dijon mustard."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bonito Shavings",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and arrange a baking dish with 6 ramekins.",
+    "In a blender or food processor, combine the softened white bread mix, granulated sugar, egg yolks, whole milk, mustard, and salt. Blend until smooth.",
+    "Strain the mixture into a large bowl to remove any bread lumps.",
+    "Add the water, unsalted butter, bonito shavings, and vanilla extract to the bowl. Mix until well combined.",
+    "Pour the mixture into the prepared ramekins, filling them about 3/4 of the way full.",
+    "Place the ramekins in the baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45-50 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Chill in the refrigerator for at least 4 hours or overnight.",
+    "To serve, run a knife around the edges of each ramekin and invert onto plates."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "filipino",
+    "leche-flan",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "mustard-gooey-filipino-mix-leche-flan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustard-gooey-filipino-mix-leche-flan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "bonito-shave",
+    "primaryIngredient": "white bread mix",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mix",
+    "descriptor": "Mustard-Gooey",
+    "dishForm": "Leche Flan"
+  }
+}
