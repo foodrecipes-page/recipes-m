@@ -1,0 +1,69 @@
+{
+  "title": "Mellow Mimocheese Quesadilla",
+  "description": "A buttery, chewy brunch dish featuring mature cheddar cheese and a sweet glaze in a tandoor clay pot for a unique Brazilian culinary experience.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": 2
+    },
+    {
+      "name": "all-purpose flour tortillas",
+      "amount": 4,
+      "notes": "ensure they are not too soft for easy handling"
+    },
+    {
+      "name": "tandoor clay pot",
+      "amount": 1
+    },
+    {
+      "name": "glaze ingredients (for topping)",
+      "amount": "2 tbsp honey, 1 tsp lemon juice"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to around 350°F.",
+    "Cut the mature cheddar cheese into small cubes and arrange them evenly on one tortilla surface. Season with salt if desired.",
+    "Place the tortilla, cheese side down, in the heated tandoor clay pot and cook for about 1 minute or until cheese begins to melt slightly but still retains its shape.",
+    "Carefully flip the quesadilla over so that the other tortilla is now on top of the filled tortilla. Cook for another 30 seconds to a minute, or until golden brown and cheese is fully melted.",
+    "Drizzle the glaze mixture evenly over both sides of the quesadilla while it's in the pot. Let it cook undisturbed for an additional 20 seconds to allow the glaze to set slightly.",
+    "Remove from the tandoor clay pot using a spatula and serve immediately with any desired condiments or toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-mood",
+    "buttery",
+    "chewy",
+    "no-onion-no-garlic-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 36,
+    "fat": 19
+  },
+  "slug": "mellow-mimocheese-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-mimocheese-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T21:04:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "glaze",
+    "primaryIngredient": "mature cheddar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Mellow",
+    "dishForm": "Quesadilla"
+  }
+}
