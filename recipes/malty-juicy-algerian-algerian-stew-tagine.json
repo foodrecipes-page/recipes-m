@@ -1,0 +1,124 @@
+{
+  "title": "Malty Juicy Algerian Tagine",
+  "description": "A delicious, one-pot Algerian stew featuring herbes-de-provence and served with toasted bread. Perfect for a cold evening.",
+  "cuisine": "algerian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Add the chicken thighs and cook until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute.",
+    "Add the herbes-de-provence, cumin, and paprika to the pot and cook for 1 minute.",
+    "Add the tomatoes, chicken broth, salt, and black pepper to the pot and stir to combine.",
+    "Return the chicken to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 30 minutes.",
+    "Stir in the chopped parsley and serve the stew hot with toasted bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "malty-juicy-algerian-algerian-stew-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-algerian-algerian-stew-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:28Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "algerian stew",
+    "descriptor": "malty juicy",
+    "dishForm": "Tagine"
+  }
+}
