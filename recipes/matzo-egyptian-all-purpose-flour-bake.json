@@ -1,0 +1,107 @@
+{
+  "title": "Matzo Egyptian All Purpose Flour Bake",
+  "description": "Spicy, crispy, egg-free-friendly Egyptian dish made with all-purpose flour, perfect for meal prep.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "see notes for gluten-free option"
+    },
+    {
+      "name": "matzo meal",
+      "amount": "1/2 cup",
+      "notes": "available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the all-purpose flour, matzo meal, cayenne pepper, paprika, garlic powder, and salt.",
+    "In a separate bowl, mix together the olive oil and water.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a disk.",
+    "Place the disks on a baking sheet lined with parchment paper, leaving about 1 inch of space between each disk.",
+    "Brush the tops with a little water and sprinkle with paprika.",
+    "Bake for 20-25 minutes, or until golden brown and crispy.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with chopped fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "egyptian",
+    "gluten-free",
+    "meal-prep",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "matzo-egyptian-all-purpose-flour-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/matzo-egyptian-all-purpose-flour-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "all purpose flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "all purpose flour",
+    "descriptor": "matzo",
+    "dishForm": "bake"
+  }
+}

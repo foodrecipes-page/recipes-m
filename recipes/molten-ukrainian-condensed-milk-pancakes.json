@@ -1,0 +1,72 @@
+{
+  "title": "Molten Ukrainian Condensed Milk Pancakes",
+  "description": "A fresh and indulgent breakfast dish from Ukraine, featuring a molten center and a rich miso-marinated flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Plant-based milk (e.g. soy milk, almond milk)",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together plant-based milk, flour, sugar, and miso paste until smooth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-sunday",
+    "hot-stone-plate",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "molten-ukrainian-condensed-milk-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-ukrainian-condensed-milk-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "condensed milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Dish",
+    "descriptor": "Molten-Condensed-Golden",
+    "dishForm": "Pancakes"
+  }
+}

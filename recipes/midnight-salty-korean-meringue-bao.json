@@ -1,0 +1,108 @@
+{
+  "title": "Midnight-Salty Korean Meringue Bao",
+  "description": "A low-glycemic-friendly Korean dessert featuring molten meringue nests, infused with savory saltiness.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "Granulated sugar substitute",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Infused sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dark brown sugar substitute",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Freshly grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mashed black sesame seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together buckwheat and almond flours.",
+    "In a separate bowl, whip the egg whites until frothy.",
+    "Add granulated sugar substitute to the egg whites and continue whipping until stiff peaks form.",
+    "Add coconut oil, Korean chili flakes, and salt to the egg whites and mix until combined.",
+    "Gradually add the flour mixture to the egg mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a thin circle.",
+    "Preheat a non-stick skillet over medium-high heat and cook the dough circles for 1 minute on each side, until golden brown.",
+    "Transfer the cooked dough circles to a baking sheet lined with parchment paper and top each circle with a spoonful of granulated sugar substitute.",
+    "Bake in a preheated oven at 400°F (200°C) for 10-12 minutes, until golden brown and puffed.",
+    "Remove from oven and immediately drizzle with infused sesame oil and sprinkle with dark brown sugar substitute and mashed black sesame seeds.",
+    "Serve warm, garnished with a pinch of salt and a sprinkle of Korean chili flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "korean",
+    "low-glycemic",
+    "midnight",
+    "moleton",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "midnight-salty-korean-meringue-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-salty-korean-meringue-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "infuse-oil",
+    "primaryIngredient": "meringue nests",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "meringue",
+    "descriptor": "midnight-salty",
+    "dishForm": "Bao"
+  }
+}

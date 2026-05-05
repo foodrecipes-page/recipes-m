@@ -1,0 +1,90 @@
+{
+  "title": "Malty Crunchy Ukrainian Barbeque Grill",
+  "description": "A hearty, satisfying Ukrainian-inspired dish for date-night, featuring a rich, malty flavor and crunchy texture, all in a smoky barbeque sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpernickel bread",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": "use a day-old bread to get the crunch right"
+    },
+    {
+      "name": "Gravlax",
+      "amount": "1 pound, sliced",
+      "notes": "smoked salmon is a staple in Ukrainian cuisine"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced, 1 small onion"
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1 cup",
+      "notes": " homemade or store-bought, your choice"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "adds depth and umami flavor"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "balances out the tanginess of the BBQ sauce"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked or sweet, your choice"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground is best"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to 375°F (190°C).",
+    "In a large bowl, whisk together the barbeque sauce, Worcestershire sauce, brown sugar, paprika, and black pepper.",
+    "Add the sliced onions to the bowl and toss to coat with the sauce.",
+    "Thread the pumpernickel bread cubes and gravlax slices onto skewers, leaving a small space between each piece."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque",
+    "date-night",
+    "grill",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 80,
+    "fat": 50
+  },
+  "slug": "malty-crunchy-ukrainian-barbeque-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crunchy-ukrainian-barbeque-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Barbeque",
+    "descriptor": "Malty Crunchy",
+    "dishForm": "Grill"
+  }
+}

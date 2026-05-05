@@ -1,0 +1,63 @@
+{
+  "title": "malty aerated mediterranean beans bake",
+  "description": "a hearty hangover cure featuring baked beans, kombu-cold-extract, and mediterranean flavors",
+  "cuisine": "mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "canned haricot beans",
+      "amount": "1 14-oz can",
+      "notes": ""
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "4g",
+      "notes": "cold-extract"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "in a large bowl, mash the canned haricot beans using a fork.",
+    "in a separate bowl, combine the cold-extract and minced garlic.",
+    "add the cold-extract and garlic mixture to the mashed haricot beans, stirring until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-dish",
+    "comfort-food",
+    "hangover-cure",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 22
+  },
+  "slug": "malty-aerated-mediterranean-beans-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-aerated-mediterranean-beans-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "baked beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beans",
+    "descriptor": "Malty Aerated",
+    "dishForm": "Bake"
+  }
+}
