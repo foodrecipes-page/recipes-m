@@ -1,0 +1,125 @@
+{
+  "title": "Mellow Italian Veal Tonnato",
+  "description": "Floral, juicy dish with a twist of exotic passion fruit pulp, perfect for adventurous Italian cuisine enthusiasts.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal medallions",
+      "amount": "4 oz (115g) each",
+      "notes": ""
+    },
+    {
+      "name": "Passion fruit pulp",
+      "amount": "1/2 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "cold-pressed, extra virgin"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tbsp (30ml)",
+      "notes": "high-quality, low-acidity"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup (15g) chopped",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Pignoli pine nuts",
+      "amount": "1/4 cup (30g) toasted",
+      "notes": ""
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/4 cup (60g) shaved",
+      "notes": "high-quality, Italian"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15ml)",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Season veal medallions with salt and black pepper. ",
+    "Toss capers in olive oil to coat, then set aside.",
+    "Heat a skillet over medium-high heat. ",
+    "Sear veal medallions for 1 minute on each side, or until they reach 145°F (63°C). ",
+    "Transfer veal to a plate and let rest 2 minutes. ",
+    "Add garlic to the skillet and sauté for 1 minute, until fragrant.",
+    "Add passion fruit pulp, white wine vinegar, and toasted pine nuts to the skillet, stirring to combine.",
+    "Return veal to the skillet and spoon some of the sauce over the top. ",
+    "Garnish with chopped parsley and shaved Grana Padano cheese. ",
+    "Serve immediately, garnished with a sprinkle of capers and a squeeze of lemon juice. ",
+    "Refrigerate any leftover veal and sauce for up to 3 days. ",
+    "To serve, slice veal thinly against the grain. ",
+    "Place veal on a serving platter and spoon some of the sauce over the top. "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 17
+  },
+  "slug": "mellow-italian-veal-tonnato",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-italian-veal-tonnato",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Mellow",
+    "dishForm": "Tonnato"
+  }
+}

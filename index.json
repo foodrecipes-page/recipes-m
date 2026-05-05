@@ -1792,6 +1792,35 @@
     "shard": "m"
   },
   {
+    "slug": "mellow-irish-irish-dish-featuring-parmigiano-reggiano-brunch",
+    "title": "Irish-Style Poached Eggs with Parmigiano-Reggiano Toast",
+    "tags": [
+      "brunch",
+      "egg-recipe",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-italian-veal-tonnato",
+    "title": "Mellow Italian Veal Tonnato",
+    "tags": [
+      "adventurous",
+      "gluten-free",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
     "slug": "mellow-jamaican-iceberg-lettuce-wrap",
     "title": "Mellow Jamaican Iceberg Lettuce Wrap",
     "tags": [
@@ -5905,6 +5934,22 @@
     "shard": "m"
   },
   {
+    "slug": "moldy-filled-italian-rice-suppli",
+    "title": "Moldy Filled Italian Rice Suppli",
+    "tags": [
+      "breakfast",
+      "dairy-free",
+      "italian",
+      "kid-friendly",
+      "one-pan",
+      "piedmontese",
+      "snack"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
     "slug": "molten-arabian-macaroni-casserole",
     "title": "Molten Arabian Macaroni Casserole",
     "tags": [
@@ -7227,6 +7272,21 @@
     ],
     "cuisine": "british",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-crunchy-kenyan-aubergine-bowl",
+    "title": "Mustardy Crunchy Kenyan Aubergine Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "kenyan",
+      "one-pan",
+      "raw-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {

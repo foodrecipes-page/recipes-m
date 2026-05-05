@@ -1,0 +1,104 @@
+{
+  "title": "Mustardy Crunchy Kenyan Aubergine Bowl",
+  "description": "A flavorful and crunchy Kenyan-inspired dish featuring roasted aubergine, topped with a tangy mustard sauce and crunchy peanuts.",
+  "cuisine": "kenyan",
+  "diet": [
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 teaspoons",
+      "notes": "black or brown"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or white vinegar"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup (optional)",
+      "notes": "for decoration"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cut the aubergine into 1-inch cubes and place on a baking sheet.",
+    "Roast the aubergine in the oven for 20 minutes, or until tender.",
+    "In a blender or food processor, combine the mustard seeds, apple cider vinegar, honey, coriander powder, cumin powder, salt, and black pepper.",
+    "Blend until smooth, adjusting the seasoning as needed.",
+    "In a small pan, heat the blended sauce over medium heat until warm and fragrant.",
+    "Add the peanuts to the sauce and stir to combine.",
+    "To assemble the bowls, place a portion of the roasted aubergine in the bottom of each bowl.",
+    "Top with the mustard sauce and peanuts, and garnish with candy if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mustardy-crunchy-kenyan-aubergine-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crunchy-kenyan-aubergine-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "candy",
+    "primaryIngredient": "aubergine",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Aubergine",
+    "descriptor": "mustardy crunchy",
+    "dishForm": "Bowl"
+  }
+}

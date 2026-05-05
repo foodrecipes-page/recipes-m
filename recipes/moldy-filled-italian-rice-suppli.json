@@ -1,0 +1,121 @@
+{
+  "title": "Moldy Filled Italian Rice Suppli",
+  "description": "A tangy, juicy, quick-fix Italian dish from Piedmont, featuring blueberries and namul-blanch-season, made in a copper pot, and served as a snack.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Namul-Blanch-Season",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-Free Mozzarella Shreds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "White Rice",
+      "amount": "2 cups",
+      "notes": "Cooked and cooled."
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Moldy Fungi (e.g., Oyster or Shiitake)",
+      "amount": "1/2 cup",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper pot over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the onion and cook for 3 minutes, until softened.",
+    "Add the cooked white rice and stir to coat with oil and mix with onion and garlic.",
+    "Add the namul-blanch-season and mix well.",
+    "Add the dairy-free mozzarella shreds and mix until they start to melt.",
+    "Add the sliced moldy fungi and mix to combine.",
+    "Transfer the mixture to a bowl and let it cool to room temperature.",
+    "Once cooled, stir in the chopped parsley, salt, and black pepper.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the blueberries and vinegar.",
+    "Spoon the mixture into pre-cooked rice balls (supplì) and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "italian",
+    "kid-friendly",
+    "one-pan",
+    "piedmontese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "moldy-filled-italian-rice-suppli",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moldy-filled-italian-rice-suppli",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "blueberries",
+    "diet": "dairy-free",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Moldy Filled",
+    "dishForm": "Suppli"
+  }
+}

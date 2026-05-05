@@ -1,0 +1,97 @@
+{
+  "title": "Irish-Style Poached Eggs with Parmigiano-Reggiano Toast",
+  "description": "A rich and comforting lacto-vegetarian-friendly brunch dish featuring poached eggs on toasted bread topped with a silky Parmigiano-Reggiano sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg-yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dry white wine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    " Toast the bread until lightly browned, about 5 minutes.",
+    "Poach the egg-yolks in boiling water until cooked through, about 3-4 minutes per yolk.",
+    "In a saucepan, melt the butter over medium heat. Add the minced garlic and cook until fragrant, about 1-2 minutes.",
+    "Add the dry white wine to the saucepan and cook until the liquid is almost completely reduced, about 2-3 minutes.",
+    "Stir in the heavy cream and cook until the sauce simmers and slightly thickens, about 2-3 minutes.",
+    "Remove the saucepan from the heat and stir in the grated Parmigiano-Reggiano cheese until melted and smooth.",
+    "Season the sauce with salt to taste.",
+    "To assemble, place a toasted bread slice on a plate, top with a poached egg-yolk, and spoon some Parmigiano-Reggiano sauce over the top. Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "egg-recipe",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "mellow-irish-irish-dish-featuring-parmigiano-reggiano-brunch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-irish-irish-dish-featuring-parmigiano-reggiano-brunch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Irish dish featuring parmigiano-reggiano",
+    "descriptor": "mellow",
+    "dishForm": "brunch"
+  }
+}
