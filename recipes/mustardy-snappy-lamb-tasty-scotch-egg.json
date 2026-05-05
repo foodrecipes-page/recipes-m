@@ -1,0 +1,90 @@
+{
+  "title": "Mustardy Snappy Lamb Tasty Scotch-Egg",
+  "description": "A British meal-prep dish featuring a snappy lamb scotch-egg with a mustardy flavor profile. Ayurvedic and tamasic-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Stock",
+      "amount": 200
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Yolk of Egg",
+      "amount": "6-8 eggs"
+    },
+    {
+      "name": "Beefstock",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": 0
+    },
+    {
+      "name": "Pepper",
+      "amount": 0
+    },
+    {
+      "name": "Parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "Lamb Liver",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Heat lamb stock to simmer.",
+    "Add mustard seeds and cook for 5 minutes.",
+    "Separate egg yolks from whites, set aside yolk halves in small bowls.",
+    "Fold yolk halves into heated lamb mixture until well combined.",
+    "Gently warm beefstock with a pinch of salt and pepper.",
+    "Stir both mixtures together to combine flavors thoroughly.",
+    "Place lamb liver slices on top of cooked yolk mixtures.",
+    "Add chopped parsley for garnish.",
+    "Serve hot as a cold snack or meal-prep dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "british-lamb",
+    "mustardy",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 39,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "mustardy-snappy-lamb-tasty-scotch-egg",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-snappy-lamb-tasty-scotch-egg",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:40:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "lamb stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Lamb",
+    "descriptor": "Mustardy Snappy",
+    "dishForm": "Tasty Scotch-Egg"
+  }
+}
