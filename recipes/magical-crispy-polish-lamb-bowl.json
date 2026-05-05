@@ -1,0 +1,97 @@
+{
+  "title": "Magical Crispy Polish Lamb Bowl",
+  "description": "A briny, crispy, and quick-fix Polish dish featuring lamb shanks, mushimono-steam, and ayurvedic-rajasic-friendly ingredients, served in an earthenware bowl.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "bone-in, 1 1/2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shanks with salt, black pepper, and caraway seeds.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the lamb shanks until browned on all sides.",
+    "Transfer the lamb shanks to a large earthenware bowl and add the minced garlic, dried thyme, lemon juice, and chicken broth.",
+    "Cover the bowl with a lid or aluminum foil and steam the lamb shanks in the oven for 20 minutes.",
+    "Remove the lid or foil and continue baking for an additional 10 minutes, or until the lamb is crispy and golden brown.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving.",
+    "Serve the lamb shanks hot, garnished with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "magical-crispy-polish-lamb-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-crispy-polish-lamb-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:15:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "lamb shanks",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "lamb",
+    "descriptor": "Magical Crispy",
+    "dishForm": "Bowl"
+  }
+}
