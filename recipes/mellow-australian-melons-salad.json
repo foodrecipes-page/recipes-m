@@ -1,0 +1,86 @@
+{
+  "title": "Mellow Australian Melon Salad",
+  "description": "A refreshing salad featuring Australian melons, perfect for hot summer days. This shojin-friendly dish is light and comforting, with a delicate floral flavor.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Honeydew Melon",
+      "amount": "2 cups cubed",
+      "notes": ""
+    },
+    {
+      "name": "Rockmelon",
+      "amount": "1 cup cubed",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Fresh Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Place the honeydew and rockmelon cubes in a large bowl.",
+    "Add the sliced fresh mint leaves on top of the melon.",
+    "In a small bowl, mix together the chilled coconut cream and a pinch of salt.",
+    "Pour the coconut cream mixture over the melon and mint.",
+    "Garnish with additional mint leaves if desired.",
+    "Serve chilled, garnished with edible flowers if desired.",
+    "Store any leftover salad in an airtight container in the refrigerator for up to 24 hours.",
+    "Note: This salad is best served immediately, as the coconut cream can become runny over time.",
+    "Note: The melon can be cut into balls or left in cubed form, depending on your preference."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "dessert",
+    "easy",
+    "fruit",
+    "healthy",
+    "light",
+    "melons",
+    "salad",
+    "shojin",
+    "summer",
+    "vegan",
+    "vegetarian",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "mellow-australian-melons-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-australian-melons-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "melons",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "melons",
+    "descriptor": "mellow",
+    "dishForm": "Salad"
+  }
+}

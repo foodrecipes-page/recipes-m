@@ -1,0 +1,101 @@
+{
+  "title": "Mildly Medicated Tunisian Herbal Tea Confit",
+  "description": "A soothing, chewy herbal tea-based confit perfect for a sick day. This recipe combines the unique flavors of Sichuan pepper with traditional Tunisian herbs.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "Toasted for depth of flavor"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "Choose peppermint or spearmint for best flavor"
+    },
+    {
+      "name": "Fresh lemon balm leaves",
+      "amount": "1/4 cup",
+      "notes": "Mellow, citrusy flavor"
+    },
+    {
+      "name": "Fresh chamomile flowers",
+      "amount": "1 tablespoon",
+      "notes": "Calming and soothing for a sick day"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Optional, to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "For brewing the tea"
+    },
+    {
+      "name": "Tunisian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the confit"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To bring out flavors"
+    }
+  ],
+  "instructions": [
+    "Combine Sichuan peppercorns and water in a clay pot or saucepan. Heat over medium heat, then remove from heat and let steep for 10 minutes.",
+    "Strain the peppercorns from the tea and discard the peppercorns.",
+    "Add the fresh mint leaves, lemon balm leaves, and chamomile flowers to the tea. Let steep for another 5 minutes.",
+    "Strain the tea into a large bowl, discarding the solids.",
+    "Add the honey to taste, if desired. Stir to combine.",
+    "Heat the Tunisian olive oil in a small saucepan over medium heat.",
+    "Add the salt to the oil and stir to combine.",
+    "Pour the oil mixture over the tea and stir to combine.",
+    "Transfer the tea mixture to a bento box or individual serving containers.",
+    "Cover the box and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "herbal",
+    "low-calorie",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "mildly-medicated-tunisian-herbal-tea-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-medicated-tunisian-herbal-tea-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Herbal tea",
+    "descriptor": "Mildly medicated",
+    "dishForm": "Confit"
+  }
+}

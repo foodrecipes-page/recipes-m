@@ -1,0 +1,106 @@
+{
+  "title": "malty flaky canadian beef flank steak burger",
+  "description": "Showcasing Canadian beef flank steak, this paleo-friendly burger features malty and flaky textures.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup",
+      "notes": "for malty coating"
+    },
+    {
+      "name": "granny smith applesauce",
+      "amount": "1/4 cup",
+      "notes": "for added moisture"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "for binding"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the beef flank steak with salt and black pepper.",
+    "In a shallow dish, mix together the all-purpose flour, coconut flour, and a pinch of salt.",
+    "Dip the beef flank steak into the flour mixture, coating it evenly.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the coated beef flank steak to the skillet and sear for 3-4 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "Transfer the cooked beef to a plate and set aside to rest.",
+    "In the same skillet, add the granny smith applesauce and stir to combine with the remaining coconut oil and flour coating.",
+    "Return the beef flank steak to the skillet and top with the malty applesauce mixture.",
+    "Form the malty mixture into a patty shape and cook for an additional 2-3 minutes per side.",
+    "Serve the finished burger on a bed of chopped fresh parsley and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "flaky",
+    "high-protein",
+    "malty",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "malty-flaky-canadian-beef-flank-steak-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-flaky-canadian-beef-flank-steak-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "beef flank steak",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "malty flaky",
+    "dishForm": "burger"
+  }
+}
