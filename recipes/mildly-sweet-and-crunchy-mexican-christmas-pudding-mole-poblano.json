@@ -1,0 +1,90 @@
+{
+  "title": "Mildly Sweet and Crunchy Mexican Christmas Pudding Mole Poblano",
+  "description": "A unique and refreshing twist on traditional Mexican cuisine, combining the sweetness of Christmas pudding with the crunch of a fresh, sashimi-cut accompaniment, in a delicate pandan leaf wrap, inspired by the simple flavors of a Buddhist temple meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas Pudding",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Pandan leaves",
+      "amount": "12",
+      "notes": "preferably young, fresh leaves",
+      "},{": ",name"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "30g",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Anise powder",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine Christmas pudding and cocoa powder in a mixing bowl, breaking up any lumps.",
+    "Add cinnamon and anise powders, and mix until well combined.",
+    "Heat a dry pan over low heat, and toast the pandan leaves until fragrant.",
+    "Roll each pandan leaf into a tight cylinder, and fill with the Christmas pudding mixture, leaving a small border at the top.",
+    "Fold the pandan leaf over the filling to create a neat, compact package.",
+    "Repeat with the remaining pandan leaves and filling, to make 12 individual servings.",
+    "Serve immediately, garnished with toasted sesame seeds or chopped nuts, if desired.",
+    "To toast sesame seeds or nuts, heat a small pan over low heat, and cook, stirring frequently, until fragrant and lightly browned, about 5 minutes.",
+    "To make the mole poblano, combine the toasted pandan leaves, sesame seeds, and nuts in a blender or food processor, and blend until well combined.",
+    "Add a small amount of water to the blender, and blend until the mixture reaches a smooth, thick paste.",
+    "Strain the paste through a fine-mesh sieve into a clean bowl, discarding any solids.",
+    "Refrigerate the mole poblano until chilled, before serving.",
+    "Use the mole poblano to garnish the Christmas pudding pudding, or serve it on the side for guests to add as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "dessert",
+    "foodie",
+    "gluten-free",
+    "holiday",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "mildly-sweet-and-crunchy-mexican-christmas-pudding-mole-poblano",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-and-crunchy-mexican-christmas-pudding-mole-poblano",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "christmas pudding",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Christmas pudding",
+    "descriptor": "Mildly sweet and crunchy",
+    "dishForm": "Mole Poblano"
+  }
+}

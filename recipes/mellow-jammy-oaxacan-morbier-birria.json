@@ -1,0 +1,110 @@
+{
+  "title": "Mellow Jammy Oaxacan Morbier Birria",
+  "description": "A tender, weeknight Mexican dish featuring morbier cheese, clay pot cooked to perfection. This keto-friendly recipe is a twist on traditional birria.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "8 oz",
+      "notes": "young morbier with a soft, creamy center"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio for optimal flavor and moisture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced, for added depth of flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for aromatic flavor"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "dried, for added spice"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground, for earthy flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "mild, for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for balance of flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "for added heat"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed, for brightness"
+    }
+  ],
+  "instructions": [
+    "Season the ground pork with chili powder, cumin, paprika, salt, and black pepper.",
+    "Heat the iron teppan over medium heat and cook the pork until browned, breaking it up with a spatula as it cooks.",
+    "Add the diced onion and minced garlic to the teppan and cook until the onion is translucent.",
+    "Add the morbier cheese to the teppan, breaking it up with a spatula as it melts.",
+    "Stir in the freshly squeezed lime juice and continue to cook for an additional 2 minutes.",
+    "Transfer the mixture to a clay pot and cook over low heat for 10-15 minutes, stirring occasionally.",
+    "Simmer the birria for 10-15 minutes, or until the flavors have melded together and the cheese is melted and creamy.",
+    "Serve the birria hot, garnished with fresh cilantro and a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "birria",
+    "cheesy",
+    "keto",
+    "mexican",
+    "oaxacan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "mellow-jammy-oaxacan-morbier-birria",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-jammy-oaxacan-morbier-birria",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "morbier",
+    "diet": "keto",
+    "region": "oaxacan",
+    "cuisineAdjective": "oaxacan",
+    "mainIngredient": "morbier",
+    "descriptor": "mellow jammy",
+    "dishForm": "Birria"
+  }
+}
