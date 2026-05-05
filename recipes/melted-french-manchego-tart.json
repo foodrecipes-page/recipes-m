@@ -1,0 +1,129 @@
+{
+  "title": "Melted French Manchego Tart",
+  "description": "A romantic French dish featuring Manchego cheese, fresh puff pastry, and a touch of sous-vide magic, all without onions or garlic.",
+  "cuisine": "French, Alsatian",
+  "diet": [
+    "dairy",
+    "eggs",
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "8 ounces",
+      "notes": "Aged Manchego from Spain for the best flavor."
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "Fresh and thawed to perfection."
+    },
+    {
+      "name": "Bacon lardons",
+      "amount": "6 slices",
+      "notes": "Thinly sliced, crispy, and smoky."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Freshly picked and fragrant."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 grind",
+      "notes": null
+    },
+    {
+      "name": "Sage leaves",
+      "amount": "4 leaves",
+      "notes": "Fresh and peppery."
+    },
+    {
+      "name": "Sous-vide water bath",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened to perfection."
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "2 tablespoons",
+      "notes": "Whipped to a silky smoothness."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Fresh and room temperature."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig",
+      "notes": "Freshly picked and fragrant."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) for a crispy pastry crust.",
+    "Roll out the puff pastry to a thickness of 1/8 inch (3 mm) and trim to a circle of 12 inches (30 cm) in diameter.",
+    "Place the pastry circle on a baking sheet lined with parchment paper.",
+    "Mix the Manchego cheese with the crumbled bacon lardons and chopped thyme in a small bowl.",
+    "Spread the cheese mixture evenly over the center of the pastry circle, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the pastry border over the filling to create a crust, pressing gently to seal.",
+    "Brush the pastry with the beaten egg and sprinkle with salt and black pepper.",
+    "Place the tart in the oven and bake for 20 minutes, or until golden brown.",
+    "Meanwhile, prepare the sous-vide water bath to 130°F (54°C).",
+    "Place the tart in the sous-vide water bath for an additional 10 minutes, or until the filling is melted and the pastry is fluffy.",
+    "Remove the tart from the water bath and let it cool for 5 minutes on a wire rack.",
+    "Serve the tart warm, garnished with whipped creme fraiche and a sprinkle of paprika.",
+    "Garnish with fresh parsley and a sprinkle of sage leaves, if desired.",
+    "Refrigerate any leftovers for up to 2 days, or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheese",
+    "easy-to-make",
+    "french",
+    "high-calorie",
+    "romantic",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 50
+  },
+  "slug": "melted-french-manchego-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-french-manchego-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "manchego",
+    "diet": "no-onion-no-garlic",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Manchego",
+    "descriptor": "Melted",
+    "dishForm": "Tart"
+  }
+}
