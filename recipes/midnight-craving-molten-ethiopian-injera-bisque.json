@@ -1,0 +1,124 @@
+{
+  "title": "midnight craving molten ethiopian injera bisque",
+  "description": "a rich, creamy, and decadent ethiopian-inspired soup featuring sashimi-cut injera bread as the main ingredient. this indulgent treat is sure to satisfy your late-night cravings",
+  "cuisine": "ethiopian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten free injera bread",
+      "amount": "2 cups, sashimi cut",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "all purpose gluten free flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dried berbere spice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "in a small saucepan, melt 2 tablespoons of butter over medium heat.",
+    "add the gluten free flour and cook for 1 minute, stirring constantly.",
+    "add the berbere spice, onion powder, garlic powder, salt, and black pepper, and cook for an additional 1 minute.",
+    "gradually add the broth, whisking constantly to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "add the heavy cream and stir until combined.",
+    "stir in the parmesan cheese until melted.",
+    "add the chopped cilantro and fast action yeast, and cook for an additional 2 minutes.",
+    "heat the remaining 2 tablespoons of butter in a skillet over medium heat.",
+    "add the sashimi-cut injera bread and cook for 2-3 minutes on each side, or until golden brown.",
+    "add the cooked injera bread to the soup and stir to combine.",
+    "serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "veg-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "midnight-craving-molten-ethiopian-injera-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-molten-ethiopian-injera-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fast action yeast",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "injera",
+    "descriptor": "midnight-craving molten",
+    "dishForm": "Bisque"
+  }
+}

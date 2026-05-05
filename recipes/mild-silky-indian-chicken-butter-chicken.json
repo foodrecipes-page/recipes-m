@@ -1,0 +1,103 @@
+{
+  "title": "Mild Silky Indian Chicken Butter Chicken",
+  "description": "A sattvic and delicious Indian dish featuring coriander leaves and confit tomatoes, perfect for a brunch mood.",
+  "cuisine": "Indian (Gujarati)",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickens breasts",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 kg",
+      "notes": "confit"
+    },
+    {
+      "name": "butter",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee and butter in a pan. ",
+    "Add turmeric, garam masala, cumin powder, and red chili powder. ",
+    "Cook for 1 minute. ",
+    "Add confit tomatoes and cook for 5 minutes. ",
+    "Add chicken breasts and cook until browned. ",
+    "Add coriander leaves and stir. ",
+    "Simmer for 15 minutes. ",
+    "Let it rest for 5 minutes before serving. "
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gujarati",
+    "indian",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "mild-silky-indian-chicken-butter-chicken",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-silky-indian-chicken-butter-chicken",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "coriander leaves",
+    "diet": "ayurvedic-sattvic",
+    "region": "gujarati",
+    "cuisineAdjective": "indian",
+    "mainIngredient": "chicken",
+    "descriptor": "mild silky",
+    "dishForm": "butter chicken"
+  }
+}
