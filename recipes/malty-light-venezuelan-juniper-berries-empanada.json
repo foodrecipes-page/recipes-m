@@ -1,0 +1,108 @@
+{
+  "title": "Malty Light Venezuelan Juniper Berries Empanada",
+  "description": "A light and cozy Venezuelan empanada filled with the subtle flavor of juniper berries and the malty sweetness of beer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "Make sure to use a high-protein flour for best results."
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "Use a light-colored beer, preferably a pilsner or lager."
+    },
+    {
+      "name": "Juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "Be sure to crush the berries before adding them to the dough."
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Use a high-quality, salted butter for the best flavor."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Add a pinch of cinnamon for extra warmth."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt or a similar coarser salt for the best flavor."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "A small amount of sugar will help balance the flavors."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "Use lukewarm water for best results."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Use a large egg for the egg wash."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, beer, and salt. Mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10-15 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the juniper berry mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half over the filling, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with the remaining egg wash.",
+    "Bake the empanadas for 20-25 minutes, or until they are golden brown.",
+    "Let the empanadas cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "gluten-free",
+    "latin-inspired",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "malty-light-venezuelan-juniper-berries-empanada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-light-venezuelan-juniper-berries-empanada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "juniper berries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "juniper berries",
+    "descriptor": "malty light",
+    "dishForm": "empanada"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "malty snappy turkish chorizo small plates",
+  "description": "serve these crispy chorizo bites on a lazy susan spinner with a side of creamy namul for a quick and easy snack or appetizer.",
+  "cuisine": "turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "turkish chorizo",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "namul",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f.",
+    "in a medium bowl, whisk together cornmeal, gluten-free flour, paprika, garlic powder, onion powder, salt, and black pepper.",
+    "in a separate bowl, whisk together buttermilk and eggs.",
+    "pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "add the chorizo and stir until coated.",
+    "using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter.",
+    "place the patties on a baking sheet lined with parchment paper.",
+    "drizzle with olive oil and sprinkle with parsley.",
+    "bake for 15-20 minutes, or until crispy and golden brown.",
+    "while the chorizo is baking, prepare the namul by mixing together namul, lemon juice, and cayenne pepper in a small bowl.",
+    "serve the crispy chorizo on a lazy susan spinner with the creamy namul on the side.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chorizo",
+    "easy-to-make",
+    "gluten-free",
+    "small-plates",
+    "snack",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "malty-snappy-turkish-chorizo-small-plates",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-snappy-turkish-chorizo-small-plates",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chorizo",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Malty Snappy",
+    "dishForm": "Small Plates"
+  }
+}

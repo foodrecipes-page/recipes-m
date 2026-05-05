@@ -1,0 +1,98 @@
+{
+  "title": "molten peppery argentinian eggplant grill",
+  "description": "weeknight argentinian dish featuring thai eggplant makhua on the robata grill, egg-free friendly, packed with flavor and spice",
+  "cuisine": "argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thai eggplant makhua",
+      "amount": "4",
+      "notes": "large and firm"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "preheat the robata grill to 400f.",
+    "brush the eggplant with olive oil and season with salt and pepper.",
+    "grill the eggplant for 10 minutes per side, or until tender and slightly charred.",
+    "in a small bowl, mix together grated ginger, garlic, and red pepper flakes.",
+    "brush the eggplant with the ginger-garlic mixture and grill for an additional 2 minutes.",
+    "remove the eggplant from the grill and top with crumbled feta cheese.",
+    "drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "egg-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "molten-peppery-argentinian-eggplant-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peppery-argentinian-eggplant-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "eggplant",
+    "descriptor": "molten peppery",
+    "dishForm": "grill"
+  }
+}

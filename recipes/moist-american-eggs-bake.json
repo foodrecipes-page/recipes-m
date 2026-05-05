@@ -1,0 +1,110 @@
+{
+  "title": "Moist American Eggs Bake",
+  "description": "A sweet and light breakfast dish that's perfect for a quick and energizing start to your day.",
+  "cuisine": "American",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup granulated sugar",
+      "notes": "white granulated sugar is best for this recipe"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup milk",
+      "notes": "whole milk or a non-dairy milk alternative works well here"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons unsalted butter",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup all-purpose flour",
+      "notes": "use a high-quality all-purpose flour for best results"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon baking powder",
+      "notes": "make sure your baking powder is fresh for best results"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon salt",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon ground nutmeg",
+      "notes": "freshly grated nutmeg is best, but ground is fine too"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon vanilla extract",
+      "notes": "use high-quality vanilla extract for best flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons brown sugar",
+      "notes": "optional, but adds a nice flavor to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the eggs, granulated sugar, and milk until well combined.",
+    "Add the flour, baking powder, salt, and nutmeg to the bowl and mix until just combined, being careful not to overmix.",
+    "Melt the butter and add it to the bowl, stirring to combine.",
+    "Add the vanilla extract and mix to combine.",
+    "Pour the batter into a greased 9x13 inch baking dish and smooth the top.",
+    "If using, sprinkle the brown sugar over the top of the batter.",
+    "Bake for 35 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "bread",
+    "breakfast",
+    "egg",
+    "flexitarian",
+    "light",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 12
+  },
+  "slug": "moist-american-eggs-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-american-eggs-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "nutmeg",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "eggs",
+    "descriptor": "moist",
+    "dishForm": "bake"
+  }
+}
