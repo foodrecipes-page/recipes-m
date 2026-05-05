@@ -1,0 +1,66 @@
+{
+  "title": "Malty Chewy Chinese Curry Wrap",
+  "description": "A flavorful, energizing, and FODMAP-friendly Chinese dish featuring Massaman curry paste in a chewy ssam-wrap.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ssam wheat wraps",
+      "amount": "4",
+      "notes": "FODMAP-friendly and chewy"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium-high heat.",
+    "Add diced scallions and cook until translucent.",
+    "Add diced chicken breast and cook until browned.",
+    "Stir in Massaman curry paste and cook for 1 minute.",
+    "Add green curry paste and stir for 30 seconds.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 5 minutes.",
+    "Warm the ssam wheat wraps according to package instructions.",
+    "Assemble wraps by spooning curry sauce over the chicken and garnishing with cilantro.",
+    "Assemble wraps by spooning curry sauce over the chicken and garnishing with cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-fiber",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "malty-chewy-chinese-curry-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-chewy-chinese-curry-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "chinese",
+    "mainIngredient": "curry",
+    "descriptor": "malty chewy",
+    "dishForm": "wrap"
+  }
+}
