@@ -1,0 +1,108 @@
+{
+  "title": "Mellow-Warm Kenyan Pistachio Wrap",
+  "description": "A winey and juicy Kenyan dish featuring pistachio paste steamed in a clay pot for a low-calorie and easy-to-make meal perfect for a lazy Sunday. The combination of spices and pistachio paste creates a unique flavor experience.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachio paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh spinach leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemongrass paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together pistachio paste, cumin powder, coriander powder, salt, and black pepper.",
+    "In a clay pot, sauté the sliced red onion in coconut oil until softened.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the lemongrass paste and cook for 1 minute.",
+    "Add the fresh spinach leaves and stir until wilted.",
+    "Mix in the pistachio paste mixture.",
+    "Steam the mixture in a clay pot for 10 minutes.",
+    "Garnish with chopped fresh cilantro leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snack",
+    "kenyan-cuisine",
+    "low-calorie",
+    "one-pan",
+    "pistachio-paste",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "mellow-warm-kenyan-pistachio-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-warm-kenyan-pistachio-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "pistachio paste",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pistachio paste",
+    "descriptor": "mellow-warm",
+    "dishForm": "Wrap"
+  }
+}

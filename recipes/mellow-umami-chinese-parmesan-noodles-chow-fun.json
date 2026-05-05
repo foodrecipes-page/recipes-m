@@ -1,0 +1,90 @@
+{
+  "title": "Mellow Umami Chinese Parmesan Noodles Chow-Fun",
+  "description": "A pillowy, umami-rich one-pot Chinese dish featuring parmesan, mushrooms, and noodles, suitable for Jain diets. This recipe is easy to prepare and can be cooked in under 30 minutes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soba Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the soba noodles, soy sauce, and grated parmesan cheese to the skillet. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce and the parmesan cheese is melted.",
+    "Season with black pepper to taste.",
+    "Serve hot and garnish with additional parmesan cheese and sliced green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "jain",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mellow-umami-chinese-parmesan-noodles-chow-fun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-umami-chinese-parmesan-noodles-chow-fun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "parmesan",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "parmesan",
+    "descriptor": "mellow umami",
+    "dishForm": "Noodles Chow-Fun"
+  }
+}

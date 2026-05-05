@@ -1,0 +1,121 @@
+{
+  "title": "Midnight Craving Molten Portuguese Fideo Wrap",
+  "description": "A low-carb friendly, resinous and molten Portuguese dish featuring fideo, deglazed in a rich sauce and wrapped in a lotus leaf.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fideo",
+      "amount": "8 oz",
+      "notes": "preferably day-old fideo"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lotus leaf wrap",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Port wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add garlic and cook until fragrant, 1 minute.",
+    "Add fideo and cook, stirring frequently, until lightly toasted, 2-3 minutes.",
+    "Add smoked paprika and cayenne pepper, stir for 30 seconds.",
+    "Deglaze with port wine vinegar and beef broth, scraping up browned bits from the bottom of the pan.",
+    "Add butter and stir until melted.",
+    "Stir in parmesan cheese until melted and well combined.",
+    "Season with salt to taste.",
+    "Warm lotus leaf wraps according to package instructions.",
+    "Spoon fideo mixture into the center of each warmed lotus leaf, top with parsley.",
+    "Fold the lotus leaf over the filling to form a wrap, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 23,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "midnight-craving-molten-portuguese-fideo-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-molten-portuguese-fideo-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:45Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "fideo",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "fideo",
+    "descriptor": "midnight-craving molten",
+    "dishForm": "wrap"
+  }
+}

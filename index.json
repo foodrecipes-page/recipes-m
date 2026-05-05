@@ -2311,6 +2311,36 @@
     "shard": "m"
   },
   {
+    "slug": "mellow-umami-chinese-parmesan-noodles-chow-fun",
+    "title": "Mellow Umami Chinese Parmesan Noodles Chow-Fun",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "jain",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-warm-kenyan-pistachio-wrap",
+    "title": "Mellow-Warm Kenyan Pistachio Wrap",
+    "tags": [
+      "easy-snack",
+      "kenyan-cuisine",
+      "low-calorie",
+      "one-pan",
+      "pistachio-paste",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
     "slug": "mellow-yeasty-thai-rice-khanom-krok",
     "title": "Mellow Yeasty Thai Rice Khanom Krok",
     "tags": [
@@ -3261,6 +3291,20 @@
       "weeknight"
     ],
     "cuisine": "ethiopian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-molten-portuguese-fideo-wrap",
+    "title": "Midnight Craving Molten Portuguese Fideo Wrap",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
     "totalTimeMin": 25,
     "shard": "m"
   },
