@@ -1,0 +1,112 @@
+{
+  "title": "Molten Roasted Russian Vegetables Roast",
+  "description": "A hearty, comforting Russian-inspired roasted vegetable dish with a spicy kick from Madras paste. Perfect for a solo dinner on a cold evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "750g",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "750g",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Madras paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220C (425F).",
+    "Peel and chop the carrots and potatoes into 2cm (3/4 inch) cubes, and slice the onions and red bell peppers into 1cm (1/2 inch) thick rounds.",
+    "In a large bowl, toss the chopped vegetables with the olive oil, Madras paste, salt, and pepper until they are evenly coated.",
+    "Transfer the vegetables to a large roasting pan or Dutch oven, cut side up if roasting vegetables with a natural curve (like bell peppers and onions).",
+    "Roast the vegetables in the preheated oven for 30 minutes.",
+    "After 30 minutes, remove the pan from the oven and carefully deglaze it with the white wine vinegar, scraping up any browned bits with a wooden spoon.",
+    "Add the water to the pan and return it to the oven for another 20 minutes, or until the vegetables are tender and caramelized.",
+    "Remove the pan from the oven and garnish with chopped fresh dill.",
+    "Serve the molten roasted vegetables hot, spooned directly from the pan.",
+    "Let the dish rest for 10-15 minutes before serving to allow the juices to redistribute and the vegetables to retain their heat.",
+    "Stir the vegetables gently before serving to distribute the juicy sauce throughout."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "molten-roasted-russian-vegetables-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-roasted-russian-vegetables-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "madras paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Molten Roasted",
+    "dishForm": "Roast"
+  }
+}

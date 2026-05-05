@@ -1,0 +1,95 @@
+{
+  "title": "Malty Crispy French Mars Bar Tart",
+  "description": "A sweet and indulgent tart that combines the flavors of Mars Bar with a crispy, malty crust, perfect for a weekend brunch. This recipe is dairy-free friendly and features the use of a comal as a vessel to add an extra layer of crunch to the dish.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 package of frozen puff pastry",
+      "amount": "thawed",
+      "notes": ""
+    },
+    {
+      "name": "1 Mars Bar",
+      "amount": "",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1 cup of tempered chocolate",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon of coconut oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 comal",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "parchment paper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the comal to 375°F (190°C).",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Transfer the puff pastry to the preheated comal and cook for 10-12 minutes, or until the pastry is golden brown and crispy.",
+    "Meanwhile, melt the chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "Once the pastry is cooked, let it cool for 2 minutes before spreading the melted chocolate over the top.",
+    "Sprinkle the cut Mars Bar pieces over the chocolate, followed by a pinch of salt and a drizzle of coconut oil.",
+    "Transfer the tart to a wire rack to cool completely before serving.",
+    "Serve immediately, garnished with a sprinkle of sea salt if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "dairy-free",
+    "easy-dessert",
+    "mars-bar",
+    "weekly-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "malty-crispy-french-mars-bar-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crispy-french-mars-bar-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "mars bar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Malty Crispy",
+    "dishForm": "Tart"
+  }
+}
