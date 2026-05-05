@@ -1,0 +1,100 @@
+{
+  "title": "moist gooey British almonds Robata-Grill Pastry",
+  "description": "Delicately balance the tartness of the pastry with the crunch of the almonds, finishing with a robust Robata-Grill crust. A show-off British dessert to impress your guests with a gooey centre.",
+  "cuisine": "British",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter (unsalted)",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "200g",
+      "notes": "fine grind to ensure a smooth texture"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "150g",
+      "notes": "white caster sugar for a balanced sweetness"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "room temperature for easier blending"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2g",
+      "notes": "freshly grated for maximum aroma"
+    },
+    {
+      "name": "Single cream",
+      "amount": "60ml",
+      "notes": "to enhance the moist and creamy filling"
+    },
+    {
+      "name": "Breadcrumbs (gluten-free)",
+      "amount": "50g",
+      "notes": "for added texture and prevent pastry from shrinking"
+    }
+  ],
+  "instructions": [
+    "Preheat the Robata-grill to 500°F (260°C) for a quick and even heat.",
+    "In a large bowl, cream together the butter and sugar until light and fluffy, then set aside.",
+    "In a separate bowl, whisk together the egg, almond flour, lemon zest and breadcrumbs until smooth and well combined.",
+    "Gradually add the cream to the egg mixture, stirring continuously to prevent lumps.",
+    "Add the sugar mixture to the egg mixture and stir until well combined.",
+    "Wrap the pastry in cling film and refrigerate for 30 minutes to allow the ingredients to meld.",
+    "On a lightly floured surface, roll out the pastry to a thickness of 1/8 inch (3mm).",
+    "Transfer the pastry to the preheated Robata-grill and cook for 15-20 minutes on each side, or until golden brown.",
+    "Remove from the grill and let cool for 10 minutes before serving.",
+    "To serve, slice the pastry into wedges and spoon the gooey centre onto a plate.",
+    "Garnish with additional almonds and a drizzle of single cream, if desired.",
+    "Serve immediately, allowing the centre to ooze out as you eat it.",
+    "Store any leftovers in an airtight container at room temperature for up to 3 days, reheating in the microwave or oven before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "almonds",
+    "british",
+    "dessert",
+    "kitchen-drama",
+    "robata-grill",
+    "sweet-treat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "moist-gooey-british-almonds-robata-grill-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-gooey-british-almonds-robata-grill-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "almonds",
+    "diet": "kosher",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "almonds",
+    "descriptor": "moist gooey",
+    "dishForm": "Robata-Grill Pastry"
+  }
+}

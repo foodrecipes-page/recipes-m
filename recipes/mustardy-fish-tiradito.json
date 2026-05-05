@@ -1,0 +1,126 @@
+{
+  "title": "Mustardy Fish Tiradito",
+  "description": "A diabetic-friendly Peruvian dish featuring fish tiradito in a mustardy sauce, served in a cataplana with rice paper sheets. This recipe is a comforting, nostalgic take on traditional Peruvian cuisine.",
+  "cuisine": "peruvian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Atlantic cod",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine rice vinegar, Dijon mustard, garlic, and lemon grass. Blend until smooth.",
+    "Heat the olive oil in a saucepan over medium heat.",
+    "Pour the blended sauce into the saucepan and bring to a simmer.",
+    "Add the fish sauce and cook for 1 minute.",
+    "In a separate pan, heat the fish over medium heat until cooked through.",
+    "Cut the cooked fish into thin strips and place in a serving dish.",
+    "Soak the rice paper sheets in cold water for 5 minutes, then remove and place on a clean surface.",
+    "Place a few strips of fish in the center of each rice paper sheet.",
+    "Add a spoonful of the mustard sauce on top of the fish, followed by some chopped green onion and parsley.",
+    "Fold the bottom half of the rice paper sheet up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining ingredients and serve in a cataplana.",
+    "Cover the cataplana with rice paper sheets and serve hot.",
+    "This dish is best served immediately, as the rice paper sheets will begin to break down quickly.",
+    "If serving later, cover with plastic wrap and refrigerate for up to 2 hours.",
+    "Serve with steamed vegetables or a side salad for a well-rounded meal.",
+    "Reheat the mustard sauce in a saucepan over low heat before serving.",
+    "If desired, garnish with additional chopped green onion and parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fish",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "mustardy-fish-tiradito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-fish-tiradito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:03Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Mustardy, dense",
+    "dishForm": "Tiradito"
+  }
+}
