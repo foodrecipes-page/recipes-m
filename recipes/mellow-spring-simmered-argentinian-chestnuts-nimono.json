@@ -1,0 +1,65 @@
+{
+  "title": "Mellow spring simmered Argentinian chestnuts Nimono",
+  "description": "A tangy and aromatic Argentinian dish perfect for a weeknight dinner, featuring simmered chestnuts in a flavorful agave leaf vessel.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian chestnuts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "2",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "Combine chestnuts and water in a saucepan, cover, and bring to a boil.",
+    "Transfer chestnuts to agave leaf vessels, leaving some space between each.",
+    "In a separate pan, heat the oil over medium heat, then add the onion and garlic, cooking until softened.",
+    "Pour the onion and garlic mixture over the chestnuts, followed by the white wine and vinegar.",
+    "Cover the agave leaf vessels with a lid or foil, and simmer at 180\u000090C (350\u000096F) for 20 minutes.",
+    "Remove from heat and let the chestnuts rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chestnuts",
+    "halal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mellow-spring-simmered-argentinian-chestnuts-nimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-spring-simmered-argentinian-chestnuts-nimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "chestnuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Mellow spring simmered",
+    "dishForm": "Nimono"
+  }
+}

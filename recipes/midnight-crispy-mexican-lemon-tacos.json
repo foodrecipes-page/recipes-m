@@ -1,0 +1,112 @@
+{
+  "title": "Midnight Crispy Mexican Lemon Tacos",
+  "description": "Funky, crispy, midnight-craving Mexican (Jalisco-style) dish featuring lemongrass stalks, ssam-wrap, flexitarian-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lemongrass stalks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-wraps",
+      "amount": "12",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Jalape\t6\u00074\u0019 oil",
+      "amount": "1",
+      "notes": "or substitute with vegetable oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1",
+      "notes": "ground"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8",
+      "notes": "crumbled (optional)"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together olive oil, jalape\t6\u00074\u0019 oil, garlic, cumin, and chili powder.",
+    "In a large skillet, warm the tortillas over medium heat for 2 minutes on each side.",
+    "Grill the lemongrass stalks over medium heat for 3-4 minutes on each side, or until slightly charred.",
+    "To assemble the tacos, place a warmed tortilla on a flat surface, then top with a piece of grilled lemongrass, a sprinkle of feta cheese (if using), and a squeeze of lime juice.",
+    "Serve immediately with ssam-wraps on the side for wrapping.",
+    "Repeat with remaining ingredients.",
+    "Serve hot and enjoy!",
+    "Garnish with additional lemongrass, feta cheese, and lime juice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "mexican",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "midnight-crispy-mexican-lemon-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-crispy-mexican-lemon-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "flexitarian",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "lemon",
+    "descriptor": "Midnight Crispy",
+    "dishForm": "Tacos"
+  }
+}

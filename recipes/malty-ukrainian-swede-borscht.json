@@ -1,0 +1,108 @@
+{
+  "title": "Malty Ukrainian Swede Borscht",
+  "description": "A comforting and unique Ukrainian dish made with swede and featuring a malty, molten flavor profile that is also friendly to Ayurvedic rajasic principles.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2",
+      "notes": "2 medium-sized swedes"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "add a slightly bitter, nutty flavor"
+    },
+    {
+      "name": "beetroot",
+      "amount": "1",
+      "notes": "optional, for a deeper red color and earthy flavor"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "add a sweet, crunchy texture"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "add a sweet, caramelized flavor"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 L",
+      "notes": "make a rich, savory broth"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tbsp",
+      "notes": "add a deep, malty flavor"
+    },
+    {
+      "name": "tobacco sauce",
+      "amount": "1 tbsp",
+      "notes": "a traditional Ukrainian condiment, adds a unique flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 c",
+      "notes": "see below"
+    },
+    {
+      "name": "deep-fried onion",
+      "amount": "1",
+      "notes": "optional, see below"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the swede into large chunks, then boil until tender",
+    "Meanwhile, heat the olive oil in a pan and fry the chopped onion until caramelized",
+    "Add the caraway seeds, beetroot, and carrots to the pan and stir to combine",
+    "Add the beef broth to the pan and bring to a boil, then reduce heat and simmer for 20 minutes",
+    "Mash the cooked swede with a fork until mostly smooth, then add to the pan and stir to combine",
+    "Stir in the molasses and tobacco sauce",
+    "Taste and adjust the seasoning as needed",
+    "Serve hot, garnished with deep-fried onion if desired",
+    "To make the deep-fried onion, peel and chop a large onion into rings, then fry in hot oil until crispy and golden"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "malty-ukrainian-swede-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-ukrainian-swede-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "swede",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "swede",
+    "descriptor": "malty",
+    "dishForm": "Borscht"
+  }
+}

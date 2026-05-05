@@ -1,0 +1,103 @@
+{
+  "title": "Mustardy Mediterranean Daikon Bowl",
+  "description": "A crispy, comforting Mediterranean dish featuring daikon, perfect for a weeknight dinner. This low-carb-friendly recipe is a great option for those looking for a healthy and flavorful meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Daikon Radish",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the daikon radish slices with olive oil, salt, and crushed red pepper flakes on a baking sheet.",
+    "Roast in the preheated oven for 20 minutes, or until the daikon is tender and caramelized.",
+    "In a small bowl, mix together mustard seeds, garlic, and lemon juice.",
+    "Once the daikon is done, toss it with the mustard mixture and chopped parsley.",
+    "Serve hot, topped with crumbled feta cheese if desired.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "mustardy-mediterranean-daikon-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-mediterranean-daikon-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "daikon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "daikon",
+    "descriptor": "mustardy",
+    "dishForm": "bowl"
+  }
+}

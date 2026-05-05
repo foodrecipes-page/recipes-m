@@ -1,0 +1,114 @@
+{
+  "title": "Steamed Vietnamese Cabbage Bao",
+  "description": "A lightly steamed Vietnamese dish featuring pillowy bao buns and briny napa cabbage, perfect for a sick day. This recipe is keto-friendly and can be cooked in a robata grill.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ketogenic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Bao Buns",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine water, fish sauce, soy sauce, rice vinegar, granulated sugar, black pepper, and salt; bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Meanwhile, steam the napa cabbage until tender, about 5-7 minutes.",
+    "Split the bao buns in half and toast until lightly browned.",
+    "In a small bowl, mix together pork belly and chopped scallions.",
+    "Assemble the bao by spreading a tablespoon of the pork belly mixture onto a toasted bun, followed by a portion of steamed cabbage, and drizzling with the simmering liquid.",
+    "Repeat for the remaining buns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "keto",
+    "lunch",
+    "one-pan",
+    "sick-day",
+    "steamed",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "mildly-steamed-vietnamese-cabbage-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-steamed-vietnamese-cabbage-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "napa cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cabbage",
+    "descriptor": "mildly steamed",
+    "dishForm": "Bao"
+  }
+}
