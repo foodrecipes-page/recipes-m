@@ -1,0 +1,108 @@
+{
+  "title": "Molten Herbal Portuguese Porcini Bake",
+  "description": "A rich and savory Portuguese-inspired dish featuring porcini mushrooms in a herbal-infused, low-glycemic-friendly marinade, served in a molten, cheesy bake that's sure to delight the crowd.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini Mushrooms",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes ": "preferably extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes ": "minced"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes ": "chopped"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes ": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes ": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes ": "freshly ground"
+    },
+    {
+      "name": "Goat Cheese",
+      "amount": "8 oz",
+      "notes ": "crumbly"
+    },
+    {
+      "name": "Shredded Mozzarella",
+      "amount": "8 oz",
+      "notes ": "fresh"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes ": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the porcini mushrooms with olive oil, garlic, rosemary, thyme, salt, and pepper in a large bowl until they're evenly coated.",
+    "Transfer the mushroom mixture to a 9x13-inch baking dish and top with crumbled goat cheese, shredded mozzarella, and grated Parmesan cheese.",
+    "Bake the dish in the preheated oven for 20 minutes or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "easy-to-make",
+    "gluten-free",
+    "low-carb",
+    "mushroom",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 25,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "molten-herbal-portuguese-porcini-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-herbal-portuguese-porcini-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "porcini",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "porcini",
+    "descriptor": "molten herbal",
+    "dishForm": "bake"
+  }
+}
