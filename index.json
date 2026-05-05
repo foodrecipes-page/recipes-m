@@ -971,6 +971,20 @@
     "shard": "m"
   },
   {
+    "slug": "malty-silky-japanese-beef-bowl",
+    "title": "Malty Silky Japanese Beef Bowl",
+    "tags": [
+      "beef",
+      "easy-dinner",
+      "japanese",
+      "kid-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
     "slug": "malty-snappy-turkish-chorizo-small-plates",
     "title": "malty snappy turkish chorizo small plates",
     "tags": [
@@ -1469,6 +1483,20 @@
     "shard": "m"
   },
   {
+    "slug": "meaty-dutch-pork-stamppot",
+    "title": "Meaty Dutch Pork Stamppot",
+    "tags": [
+      "dutch",
+      "flexitarian-friendly",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 120,
+    "shard": "m"
+  },
+  {
     "slug": "meaty-mustardy-russian-beef-pilaf",
     "title": "Meaty Mustardy Russian Beef Pilaf",
     "tags": [
@@ -1720,6 +1748,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 32,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-cheesy-kenyan-paneer-grill",
+    "title": "mellow cheesy kenyan paneer grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kenyan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -3572,6 +3614,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-german-sauerbraten-stew",
+    "title": "midnight-craving german sauerbraten stew",
+    "tags": [
+      "comfort-food",
+      "german",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {

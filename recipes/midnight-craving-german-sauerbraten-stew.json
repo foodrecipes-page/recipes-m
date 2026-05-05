@@ -1,0 +1,128 @@
+{
+  "title": "midnight-craving german sauerbraten stew",
+  "description": "tangy, creamy, german dish made with chopped onion, red wine, and a dash of spices. serves well as a midnight craving.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "caraway seed",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large bowl, combine beef, onion, red wine, apple cider vinegar, brown sugar, salt, black pepper, bay leaves, allspice, and caraway seed. marinate for at least 4 hours or overnight.",
+    "heat butter in a large skillet over medium-high heat.",
+    "remove beef from marinade, letting any excess liquid drip off.",
+    "sear beef until browned on all sides, about 5 minutes. transfer to a large Dutch oven or heavy pot.",
+    "add flour to the skillet, stirring to combine with butter. cook for 1 minute.",
+    "add heavy cream to the skillet, whisking to combine with flour and butter. bring to a boil, then reduce heat to low and simmer for 2 minutes.",
+    "pour the cream sauce over the beef in the Dutch oven.",
+    "cover the pot and transfer to the oven at 300 degrees F.",
+    "bake for 2 1/2 to 3 hours, or until the beef is tender.",
+    "serve hot, garnished with chopped fresh parsley.",
+    "serve with warm, crusty bread.",
+    "serve with a side of steamed vegetables.",
+    "serve with a side of boiled potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "midnight-craving-german-sauerbraten-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-german-sauerbraten-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "chopped onion",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sauerbraten",
+    "descriptor": "midnight-craving",
+    "dishForm": "Stew"
+  }
+}

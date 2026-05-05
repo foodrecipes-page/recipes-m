@@ -1,0 +1,66 @@
+{
+  "title": "Malty Silky Japanese Beef Bowl",
+  "description": "A kid-friendly Japanese dish featuring beef, tomatoes, and a silky sauce, all on a bed of steaming hot rice. This recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sushi-Grade Beef",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Any variety, sliced"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the beef and cook until browned, about 3 minutes per side.",
+    "Remove the beef from the pan and set aside.",
+    "In the same pan, add the sliced tomatoes and cook until they start to soften, about 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-dinner",
+    "japanese",
+    "kid-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "malty-silky-japanese-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-silky-japanese-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "beef",
+    "descriptor": "malty silky",
+    "dishForm": "bowl"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "mellow cheesy kenyan paneer grill",
+  "description": "a pungent, cheese-pull, lazy-sunday kenyan dish featuring paneer and binchotan charcoal that's dash-friendly",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "preheat binchotan charcoal grill to medium-high heat.",
+    "heat 2 tablespoons of oil in a pan over medium heat and add 1 small onion, diced.",
+    "once the onion is translucent, add 2 cloves of minced garlic and cook for 1 minute.",
+    "add 250g paneer cubes to the pan and cook until they start to brown, about 5 minutes.",
+    "remove the paneer from the pan and set aside.",
+    "add another 2 tablespoons of oil to the pan and add 1 teaspoon of marinade mix, cook for 1 minute.",
+    "return the paneer to the pan and stir in 1 cup of shredded mozzarella cheese and 1/2 cup of grated parmesan cheese.",
+    "cook until the cheese is melted and bubbly, about 3-4 minutes.",
+    "remove from heat and let rest for 2 minutes before serving.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "mellow-cheesy-kenyan-paneer-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-cheesy-kenyan-paneer-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "paneer",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "paneer",
+    "descriptor": "mellow cheesy",
+    "dishForm": "Grill"
+  }
+}
