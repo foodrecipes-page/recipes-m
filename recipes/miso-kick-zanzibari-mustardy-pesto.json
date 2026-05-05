@@ -1,0 +1,73 @@
+{
+  "title": "Miso-Kick Zanzibari Mustardy Pesto",
+  "description": "A low-glycemic-friendly, hearty dish featuring brown rice, miso-marinate, and a mustardy kick. Perfect for hangover cures.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup brown rice",
+      "amount": 1
+    },
+    {
+      "name": "2 tablespoons miso paste",
+      "amount": 2
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": 1
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": null
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": 0.25
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Rinse and cook brown rice according to package instructions.",
+    "Mix miso paste, olive oil, lemon juice, cayenne pepper, and salt in a mason jar. Shake well until combined.",
+    "Stir the miso mixture into the cooked brown rice.",
+    "Serve chilled as a low-glycemic-friendly lunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "low-glycemic-friendly",
+    "mason-jar"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 13,
+    "carbs": 42,
+    "fat": 6
+  },
+  "slug": "miso-kick-zanzibari-mustardy-pesto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-kick-zanzibari-mustardy-pesto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:54:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "miso-marinate",
+    "primaryIngredient": "brown rice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "mustardy",
+    "descriptor": "Miso-Kick",
+    "dishForm": "Pesto"
+  }
+}
