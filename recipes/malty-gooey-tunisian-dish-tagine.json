@@ -1,0 +1,112 @@
+{
+  "title": "Malty Gooey Tunisian Dish Tagine",
+  "description": "A rich and flavorful dish featuring a sweet and savory sauce, perfect for a date-night dinner. This Malty Gooey Tunisian Dish Tagine is an anti-inflammatory-friendly, iron-rich meal that will satisfy your sweet and savory cravings.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malted barley flour",
+      "amount": "1 1/2 cups",
+      "notes": "Sifted and measured carefully to ensure the best results."
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "Pitted and chopped for easy cooking."
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/2 cup",
+      "notes": "Toasted for added crunch."
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons",
+      "notes": "Add a touch of spice to the dish."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For the best flavor, use high-quality coconut oil."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Fresh water for the best results."
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 teaspoon",
+      "notes": "For a touch of sweetness and a hint of rose flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add the perfect balance of salt to the dish."
+    },
+    {
+      "name": "Spices",
+      "amount": "to taste",
+      "notes": "Use a combination of spices to add depth and warmth to the dish."
+    },
+    {
+      "name": "Ghee",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "a handful",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "a handful",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium-high heat.",
+    "Add 1 tablespoon of coconut oil and melt it evenly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "iron-rich",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "malty-gooey-tunisian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-gooey-tunisian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "brine-dry",
+    "primaryIngredient": "english mustard",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Dish",
+    "descriptor": "Malty Gooey",
+    "dishForm": "Tagine"
+  }
+}

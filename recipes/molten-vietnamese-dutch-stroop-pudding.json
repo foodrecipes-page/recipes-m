@@ -1,0 +1,101 @@
+{
+  "title": "Molten Vietnamese Dutch Stroop Pudding",
+  "description": "A unique dessert that combines the richness of Dutch stroop with the yeasty essence of Vietnamese cuisine.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 1/4 cups",
+      "notes": "unsifted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "warm milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "6 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). In a medium bowl, whisk together egg yolks and sugar until pale and thick.",
+    "In a separate bowl, whisk together flour, kosher salt, and melted butter until well combined.",
+    "In a large bowl, whisk together egg, warm milk, and Dutch stroop until smooth.",
+    "Gradually add flour mixture to egg mixture and whisk until just combined.",
+    "Pour batter into 4 (6-ounce) ramekins or small cups and place in a large baking dish.",
+    "Add enough hot water to the baking dish to come halfway up the sides of the ramekins.",
+    "Bake for 15-20 minutes or until puffed and golden brown.",
+    "Remove from oven and let cool for 1-2 minutes.",
+    "Run a knife around the edges of each ramekin and invert onto plates.",
+    "Serve immediately, with caramelized sugar on top.",
+    "Return the ramekins to the oven and bake for an additional 2-3 minutes, or until the sugar is caramelized and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "caramelized-sugar",
+    "comfort-food",
+    "desserts",
+    "holiday-treat",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "molten-vietnamese-dutch-stroop-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-vietnamese-dutch-stroop-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "dutch stroop",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Dutch stroop",
+    "descriptor": "Molten",
+    "dishForm": "Pudding"
+  }
+}

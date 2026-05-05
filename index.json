@@ -736,6 +736,19 @@
     "shard": "m"
   },
   {
+    "slug": "malty-gooey-tunisian-dish-tagine",
+    "title": "Malty Gooey Tunisian Dish Tagine",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "iron-rich",
+      "vegan-friendly"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
     "slug": "malty-greek-papelon-pastitsio",
     "title": "malty greek papelon pastitsio",
     "tags": [
@@ -2634,6 +2647,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-grilled-norwegian-seafood-kebabs",
+    "title": "Melted Grilled Norwegian Seafood Kebabs",
+    "tags": [
+      "grilled",
+      "kebabs",
+      "norwegian",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -5140,6 +5168,20 @@
     "shard": "m"
   },
   {
+    "slug": "mildly-velvety-tunisian-pecorino-tagine",
+    "title": "Mildly Velvety Tunisian Pecorino Tagine",
+    "tags": [
+      "north-african",
+      "one-pot",
+      "oven-friendly",
+      "tagine",
+      "tunisian"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 60,
+    "shard": "m"
+  },
+  {
     "slug": "mildly-winey-brazilian-ume-plum-onigiri",
     "title": "Mildly Winey Brazilian Ume Plum Onigiri",
     "tags": [
@@ -6345,6 +6387,21 @@
     "shard": "m"
   },
   {
+    "slug": "molten-vietnamese-dutch-stroop-pudding",
+    "title": "Molten Vietnamese Dutch Stroop Pudding",
+    "tags": [
+      "breakfast-for-dinner",
+      "caramelized-sugar",
+      "comfort-food",
+      "desserts",
+      "holiday-treat",
+      "weekend-brunch"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
     "slug": "molten-wood-fired-vietnamese-yogurt-che-ba-mau",
     "title": "Molten Wood Fired Vietnamese Yogurt Che Ba Mau",
     "tags": [
@@ -6587,6 +6644,35 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
+    "shard": "m"
+  },
+  {
+    "slug": "moroccan-charred-moroccan-lamb-mechoui",
+    "title": "moroccan charred moroccan lamb mechoui",
+    "tags": [
+      "comfort-food",
+      "grilling",
+      "lamb",
+      "moroccan",
+      "slow-cooking"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 195,
+    "shard": "m"
+  },
+  {
+    "slug": "moroccan-morning-ethiopian-cocoa-gored-gored",
+    "title": "moroccan morning ethiopian cocoa gored-gored",
+    "tags": [
+      "brunch",
+      "ethiopian",
+      "fodmap",
+      "high-protein",
+      "morning",
+      "moroccan"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {

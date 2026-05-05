@@ -1,0 +1,68 @@
+{
+  "title": "Mildly Velvety Tunisian Pecorino Tagine",
+  "description": "A rich, creamy, and flavorful ovo-vegetarian-friendly dish featuring the distinctive taste of Pecorino cheese, cured olives, and a blend of aromatic spices, all perfectly cooked in a donabe vessel.",
+  "cuisine": "North African",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 1/2 cups, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the donabe vessel with water, then dry it with a clean towel.",
+    "Heat the donabe vessel over medium heat on your stovetop.",
+    "Sauté the chopped onion in olive oil until it is translucent and slightly caramelized.",
+    "Add the chopped garlic, sautéing for 1-2 minutes until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "one-pot",
+    "oven-friendly",
+    "tagine",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "mildly-velvety-tunisian-pecorino-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-velvety-tunisian-pecorino-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "pecorino",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Pecorino",
+    "descriptor": "Mildly Velvety",
+    "dishForm": "Tagine"
+  }
+}

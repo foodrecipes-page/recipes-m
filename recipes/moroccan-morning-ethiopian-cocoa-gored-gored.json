@@ -1,0 +1,92 @@
+{
+  "title": "moroccan morning ethiopian cocoa gored-gored",
+  "description": "a unique fusion of moroccan and ethiopian flavors featuring unsweetened cocoa, topped with nuka-pickle.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "injera flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, mix together rice flour, injera flour, and cocoa powder.",
+    "gradually add in water, stirring until a thick batter forms.",
+    "heat olive oil in a large non-stick pan over medium heat.",
+    "add a small amount of the batter to the pan and tilt to evenly coat the bottom.",
+    "cook for 2-3 minutes, until the edges start to curl.",
+    "repeat with the remaining batter, forming small, irregular shapes.",
+    "in a separate pan, scramble the eggs over low heat.",
+    "once the eggs are fully cooked, chop them into small pieces and set aside.",
+    "top each gored-gored shape with a spoonful of nuka-pickle, chopped cilantro, and a sprinkle of cocoa powder.",
+    "serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "ethiopian",
+    "fodmap",
+    "high-protein",
+    "morning",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "moroccan-morning-ethiopian-cocoa-gored-gored",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moroccan-morning-ethiopian-cocoa-gored-gored",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cocoa",
+    "descriptor": "Moroccan Morning",
+    "dishForm": "Gored-Gored"
+  }
+}

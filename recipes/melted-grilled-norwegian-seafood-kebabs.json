@@ -1,0 +1,92 @@
+{
+  "title": "Melted Grilled Norwegian Seafood Kebabs",
+  "description": "A savory and light Norwegian dish featuring frozen seafood mix,render-fat, suitable for Buddhist temple-friendly gatherings, grilled on a robata-grill.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frozen seafood mix",
+      "amount": "1 package (250g)",
+      "notes": ""
+    },
+    {
+      "name": "Rendered fat (beef or lamb)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon slices",
+      "amount": "4-6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "Thread the seafood mix onto skewers, leaving a little space between each piece.",
+    "Brush the rendered fat onto the seafood, then season with salt, black pepper, and garlic powder.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "Remove the kebabs from the grill and brush with lemon juice.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "norwegian",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "melted-grilled-norwegian-seafood-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-grilled-norwegian-seafood-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "render-fat",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "seafood",
+    "descriptor": "Melted Grilled",
+    "dishForm": "Kebabs"
+  }
+}
