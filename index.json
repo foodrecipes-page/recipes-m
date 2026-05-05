@@ -696,6 +696,21 @@
     "shard": "m"
   },
   {
+    "slug": "malty-crispy-italian-tortellini",
+    "title": "Malty Crispy Italian Tortellini",
+    "tags": [
+      "comfort-food",
+      "crispy",
+      "italian",
+      "malty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
     "slug": "malty-crumbly-turkish-flour-flatbread",
     "title": "Malty Crumbly Turkish Flour Flatbread",
     "tags": [
@@ -849,6 +864,22 @@
     ],
     "cuisine": "greek",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-kid-friendly-argentinian-cheese-pull-empanada",
+    "title": "Malty Kid-Friendly Argentinian Cheese-Pull Empanada",
+    "tags": [
+      "argentinian",
+      "cheese",
+      "easy",
+      "empanada",
+      "kid-friendly",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -3446,6 +3477,20 @@
     "shard": "m"
   },
   {
+    "slug": "midnight-craving-australian-christmas-pudding-fritters",
+    "title": "midnight craving australian christmas pudding fritters",
+    "tags": [
+      "australian",
+      "christmas",
+      "deep-fried",
+      "low-carb",
+      "midnight-craving"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
     "slug": "midnight-craving-bitter-greek-lamb-tagine",
     "title": "midnight-craving bitter greek lamb tagine",
     "tags": [
@@ -3539,6 +3584,20 @@
       "vegan"
     ],
     "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-molten-british-sour-cream-gratin",
+    "title": "Midnight-Craving Molten British Sour Cream Gratin",
+    "tags": [
+      "british",
+      "comfort-food",
+      "low-sodium",
+      "warm-desert",
+      "weeknight"
+    ],
+    "cuisine": "British",
     "totalTimeMin": 45,
     "shard": "m"
   },
@@ -7934,6 +7993,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-jamaican-cannellini-beans-jerk",
+    "title": "Mustardy Jamaican Cannellini Beans Jerk",
+    "tags": [
+      "cannellini-beans",
+      "jamaican",
+      "jerky",
+      "keto-friendly",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {

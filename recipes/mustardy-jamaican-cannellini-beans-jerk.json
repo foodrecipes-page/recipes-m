@@ -1,0 +1,107 @@
+{
+  "title": "Mustardy Jamaican Cannellini Beans Jerk",
+  "description": "A crispy, flavorful jerky that's perfect for a sick day. Made with cannellini beans and a hint of mustard.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "0.5 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix together the chili flakes, mustard seeds, allspice, nutmeg, and ginger in a small bowl.",
+    "Add the olive oil to the bowl and stir to combine.",
+    "Add the onion and garlic to the bowl and stir to combine.",
+    "Add the cannellini beans to the bowl and stir to combine.",
+    "Spread the mixture out in a single layer on a baking sheet.",
+    "Bake for 20 minutes, or until crispy and golden brown.",
+    "Remove from the oven and stir in the lime juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cannellini-beans",
+    "jamaican",
+    "jerky",
+    "keto-friendly",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mustardy-jamaican-cannellini-beans-jerk",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-jamaican-cannellini-beans-jerk",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "cannellini beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Mustardy",
+    "dishForm": "Jerk"
+  }
+}

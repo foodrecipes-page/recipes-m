@@ -1,0 +1,109 @@
+{
+  "title": "midnight craving australian christmas pudding fritters",
+  "description": "deep-fried christmas pudding bites perfect for midnight cravings, low in carbs and rich in flavor",
+  "cuisine": "australian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "christmas pudding",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 180°C.",
+    "In a bowl, mix together the eggs, flour, grated coconut, unsalted butter, vanilla extract, confectioners sugar, and salt.",
+    "Add the crumbled christmas pudding to the bowl and mix until a thick batter forms.",
+    "Using a spoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the honey over the fritters and serve immediately.",
+    "Repeat the process with the remaining batter, adjusting the heat as needed.",
+    "If the oil temperature drops, the fritters may absorb more oil and become greasy.",
+    "Serve the fritters warm, dust with confectioners sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "christmas",
+    "deep-fried",
+    "low-carb",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 40
+  },
+  "slug": "midnight-craving-australian-christmas-pudding-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-australian-christmas-pudding-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "christmas pudding",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "christmas pudding",
+    "descriptor": "midnight-craving",
+    "dishForm": "fritters"
+  }
+}

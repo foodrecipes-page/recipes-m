@@ -1,0 +1,63 @@
+{
+  "title": "Malty Kid-Friendly Argentinian Cheese-Pull Empanada",
+  "description": "A sweet and gooey twist on traditional empanadas, kid-friendly and made with malty ingredients. This empanada is perfect for a snack or dessert.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00067\u007f (200\u0007fC).",
+    "Mix the dough according to the package instructions",
+    "Spread a thin layer of dough on a baking sheet and place other ingredients on top",
+    "Use a knife or pastry brush to create a decorative edge around the empanada"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "easy",
+    "empanada",
+    "kid-friendly",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "malty-kid-friendly-argentinian-cheese-pull-empanada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-kid-friendly-argentinian-cheese-pull-empanada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "honey",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese-pull",
+    "descriptor": "Malty Kid-Friendly",
+    "dishForm": "Empanada"
+  }
+}
