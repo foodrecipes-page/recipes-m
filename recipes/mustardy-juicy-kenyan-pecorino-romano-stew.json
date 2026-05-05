@@ -1,0 +1,113 @@
+{
+  "title": "Mustardy Juicy Kenyan Pecorino-romano Stew",
+  "description": "A hearty stew from Kenya, flavored with strong mustard and featuring Pecorino-Romano cheese. Traditionally cooked in a ttukbaegi earthenware pot.",
+  "cuisine": "kenyan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "gives the stew a tangy flavor"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "strong mustard flavor for this stew"
+    },
+    {
+      "name": "Pecorino-Romano cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, salty cheese"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated tomato flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for added flavor"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ttukbaegi earthenware pot over medium-high heat.",
+    "Add the beef brisket and sear until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the apple cider vinegar, Dijon mustard, Pecorino-Romano cheese, tomato paste, garlic, red pepper flakes, salt, and black pepper. Stir to combine.",
+    "Add the water and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the beef is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "kitchen-staple",
+    "stew",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "mustardy-juicy-kenyan-pecorino-romano-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-juicy-kenyan-pecorino-romano-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Pecorino-romano",
+    "descriptor": "Mustardy Juicy",
+    "dishForm": "Stew"
+  }
+}

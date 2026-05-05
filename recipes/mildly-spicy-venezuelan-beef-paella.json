@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Spicy Venezuelan Beef Paella",
+  "description": "A smoky, light, one-pot Venezuelan dish featuring apple juice, ideal for a quick lunch or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1 pound",
+      "notes": "Spanish-style chorizo sausage"
+    },
+    {
+      "name": "Beef",
+      "amount": "1.5 pounds",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Uncooked white rice"
+    },
+    {
+      "name": "Apple juice",
+      "amount": "2 cups",
+      "notes": "Apple juice for added moisture"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Canned tomato paste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic before adding to the pan"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "For a mildly spicy paella"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unsalted salt for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground black pepper for seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the chorizo and beef"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron paella pan over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add the rice and cook, stirring constantly, for 2 minutes.",
+    "Add the apple juice, red pepper flakes, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the paella from the heat and let rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-paella",
+    "easy-paella",
+    "latin-inspired",
+    "mildly-spicy",
+    "one-pan",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 24
+  },
+  "slug": "mildly-spicy-venezuelan-beef-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-venezuelan-beef-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "apple juice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Paella"
+  }
+}

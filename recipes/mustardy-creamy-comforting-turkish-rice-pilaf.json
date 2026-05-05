@@ -1,0 +1,92 @@
+{
+  "title": "Mustardy Creamy Comforting Turkish Rice Pilaf",
+  "description": "A comforting Turkish dish featuring the perfect balance of mustardy flavors and creamy texture, all in one delicious pilaf. Our recipe uses rice krispies for added crunch without sacrificing the traditional rice pilaf experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Small onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large saucepan over medium heat.",
+    "Saute the onion until translucent.",
+    "Add in the caraway seeds, cumin, paprika, and mustard, and cook for 1 minute.",
+    "Add in the rice krispies and stir to coat in spices.",
+    "Add in the garlic and stir for another minute.",
+    "Add in the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until the liquid has been absorbed.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "rice-pilaf",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "mustardy-creamy-comforting-turkish-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-creamy-comforting-turkish-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "rice krispies",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rice",
+    "descriptor": "mustardy creamy comforting",
+    "dishForm": "Pilaf"
+  }
+}

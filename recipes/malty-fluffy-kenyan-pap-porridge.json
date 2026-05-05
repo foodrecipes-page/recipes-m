@@ -1,0 +1,107 @@
+{
+  "title": "Malty Fluffy Kenyan Pap Porridge",
+  "description": "A quick and comforting breakfast dish originating from Kenya, made with a bouquet garni and cooked in a clay pot for a unique flavor and texture. This tamasic-friendly breakfast option is perfect for a busy morning.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Maize meal",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Bouquet garni",
+      "amount": "1",
+      "notes": "Fresh herbs like thyme, rosemary, and parsley."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grate the ginger before adding to the porridge."
+    }
+  ],
+  "instructions": [
+    "Add water to the clay pot and bring to a boil over high heat.",
+    "Reduce heat to medium and add maize meal, stirring constantly to prevent lumps.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Add bouquet garni, coconut oil, salt, and black pepper to the porridge, stirring well to combine.",
+    "Continue to simmer for another 10 minutes, stirring occasionally, until the porridge has thickened and developed a malty flavor.",
+    "Stir in ghee or clarified butter, sesame oil, tahini, and grated ginger.",
+    "Cook for an additional 2 minutes, until the porridge is smooth and creamy.",
+    "Remove the bouquet garni and serve the porridge hot, garnished with fresh herbs if desired.",
+    "Tahini can be omitted if you prefer a lighter porridge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "kenyan",
+    "one-pan",
+    "quick-fix",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "malty-fluffy-kenyan-pap-porridge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-fluffy-kenyan-pap-porridge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bouquet garni",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pap",
+    "descriptor": "malty fluffy",
+    "dishForm": "porridge"
+  }
+}
