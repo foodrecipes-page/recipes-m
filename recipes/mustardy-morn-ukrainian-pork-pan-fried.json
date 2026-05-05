@@ -1,0 +1,113 @@
+{
+  "title": "Mustardy Morn Ukrainian Pan-Fried Pork",
+  "description": "A tangy, flaky Ukrainian dish featuring mustard, perfect for hangover cures. It's also plant-based-friendly and perfect for a kadhai vessel.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "whole-grain mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "In a small bowl, mix the mustard, apple cider vinegar, black pepper, salt, and cayenne pepper.",
+    "Add the pork shoulder to the kadhai and coat with the mustard mixture, spreading it evenly.",
+    "Cook for 5 minutes, until the mustard starts to caramelize.",
+    "Flip the pork and cook for another 5 minutes, until browned on both sides.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, or until the pork is cooked through.",
+    "Stir in the chopped fresh dill and serve hot.",
+    "Serve with boiled potatoes or vegetables for a filling breakfast.",
+    "Optional: serve with a fried egg for added protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-breakfast",
+    "hangover",
+    "morning-dish",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mustardy-morn-ukrainian-pork-pan-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-morn-ukrainian-pork-pan-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "render-fat",
+    "primaryIngredient": "mustard",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Mustardy Morn",
+    "dishForm": "Pan-Fried"
+  }
+}
