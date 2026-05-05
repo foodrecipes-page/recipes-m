@@ -1,0 +1,61 @@
+{
+  "title": "Mixed Moroccan Beef Khlea",
+  "description": "Grassy, chewy Moroccan dish featuring mixed beef cuts, pickle, and a low-calorie twist.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Beef Cuts",
+      "amount": "1.5 pounds",
+      "notes": "including shank, brisket, and chuck"
+    },
+    {
+      "name": "Pickle Brine",
+      "amount": "1/2 cup",
+      "notes": "or 1/2 cup of salt, 1/4 cup of black peppercorns, 2 cloves of garlic, 1 cup of water"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add 1 tablespoon of olive oil and brown the beef on all sides, about 5 minutes.",
+    "Transfer the browned beef to a plate and set aside.",
+    "In the same pot, add the pickle brine mixture and bring to a boil, scraping up any browned bits from the bottom of the pot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "casserole",
+    "low-calorie",
+    "moroccan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "mixed-moroccan-beef-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mixed-moroccan-beef-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "Mixed",
+    "dishForm": "Khlea"
+  }
+}
