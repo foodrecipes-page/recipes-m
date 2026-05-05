@@ -1,0 +1,120 @@
+{
+  "title": "Meat-Filled Hunan Dough Dumplings",
+  "description": "A hearty, diabetic-friendly Chinese dish from the Hunan province featuring green curry paste and a dense, buttery dough. Serve with your favorite dipping sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Green curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, green curry paste, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the mixture with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "On a lightly floured surface, lay out a wonton wrapper. Place a tablespoon of the meat mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water, then fold the wrapper into a half-moon shape, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and meat mixture.",
+    "In a large skillet or wok, melt 1 tablespoon of unsalted butter over medium-high heat. Add the dumplings and cook until the bottoms are golden brown, about 2-3 minutes.",
+    "Add 1 cup of water to the skillet and cover with a lid. Steam the dumplings for 8-10 minutes, or until the filling is cooked through and the wrappers are tender.",
+    "In a small bowl, mix together the remaining 1 tablespoon of unsalted butter, soy sauce, sesame oil, and chopped scallions. Serve the dumplings with the sauce spooned over the top.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot, with your favorite dipping sauce on the side.",
+    "These dumplings are best served immediately, but they can be refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "hunan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "meat-filled-hunan-dough-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meat-filled-hunan-dough-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "diabetic-friendly",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "dough",
+    "descriptor": "Meat-Filled",
+    "dishForm": "Dumplings"
+  }
+}

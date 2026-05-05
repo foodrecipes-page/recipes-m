@@ -1,0 +1,120 @@
+{
+  "title": "Molten Egyptian Tempeh Tagine",
+  "description": "A rich and umami date-night dish featuring tempeh, perfect for a special occasion. Serve with fluffy couscous and steamed vegetables for a complete meal.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "Pili chilies",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chickpea broth",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "15g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add cumin, coriander, paprika, and cinnamon. Cook for 1 minute, stirring constantly.",
+    "Add tempeh and cook until browned, about 5 minutes.",
+    "Add chickpea broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add coconut cream and stir to combine.",
+    "Top with pistachios and cilantro.",
+    "Transfer to the oven and bake at 425°F (220°C) for 15-20 minutes or until the sauce is bubbly and the tempeh is caramelized.",
+    "Garnish with additional cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "high-protein",
+    "one-pan",
+    "rich",
+    "tempeh",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "molten-egyptian-tempeh-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-egyptian-tempeh-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "tempeh",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tempeh",
+    "descriptor": "molten",
+    "dishForm": "Tagine"
+  }
+}
