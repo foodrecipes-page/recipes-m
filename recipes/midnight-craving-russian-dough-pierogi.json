@@ -1,0 +1,100 @@
+{
+  "title": "Midnight Craving Russian Dough Pierogi",
+  "description": "A bouncy take on traditional Russian pierogi, perfect for a midnight craving. The combination of dark brown soft sugar and pressure-cooked dough creates a unique Mediterranean-friendly dish.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use a high-protein flour for best results"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "use a thermometer to ensure water is at 100°F (38°C) for best yeast activation"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "1/4 cup",
+      "notes": "do not skip, as this is a key ingredient"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use kosher salt for best flavor"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 tsp",
+      "notes": "use a high-quality yeast for best results"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "use softened butter for best results"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "use a large egg for best results"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "use whole-milk ricotta for best flavor"
+    }
+  ],
+  "instructions": [
+    "Combine flour, warm water, dark brown soft sugar, and salt in a large mixing bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of ricotta cheese in the center of each circle.",
+    "Fold the dough over the ricotta cheese to form a half-circle shape, and press the edges together to seal the pierogi.",
+    "Bring a large pot of water to a boil, and add 1 tablespoon of salt.",
+    "Gently add the pierogi to the pot, and cook for 5-7 minutes, or until they float to the surface.",
+    "Remove the pierogi from the pot with a slotted spoon, and serve hot.",
+    "Melt 2 tablespoons of unsalted butter in a small saucepan over medium heat.",
+    "Add 1 tablespoon of dark brown soft sugar to the melted butter, and whisk until combined.",
+    "Pour the sugar-butter sauce over the cooked pierogi, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "mediterranean-friendly",
+    "midnight-craving",
+    "pierogi",
+    "pressure-cooked",
+    "rusian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "midnight-craving-russian-dough-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-russian-dough-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "dough",
+    "descriptor": "midnight-craving",
+    "dishForm": "pierogi"
+  }
+}
