@@ -1,0 +1,119 @@
+{
+  "title": "Midnight-Craving Shattering Algerian Flaxseed Wrap",
+  "description": "Tangy, shattering, midnight-craving Algerian dish featuring flaxseed, soffritto-base, wrapped in a low-calorie lotus-leaf wrap. Perfect for satisfying late-night cravings without breaking the calorie bank.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "LOTUS LEAF WRAP",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add flaxseed and cook, stirring constantly, for 2-3 minutes or until lightly toasted.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add lemon juice and cook for 1 minute, stirring constantly.",
+    "Warm lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble wraps by spooning the flaxseed mixture onto the center of each wrap and topping with chopped parsley.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "low-calorie",
+    "midnight-craving",
+    "one-pan",
+    "shattering",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "midnight-craving-shattering-algerian-flaxseed-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-shattering-algerian-flaxseed-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:12:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "soffritto-base",
+    "primaryIngredient": "flaxseed",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Midnight-Craving Shattering",
+    "dishForm": "Wrap"
+  }
+}
