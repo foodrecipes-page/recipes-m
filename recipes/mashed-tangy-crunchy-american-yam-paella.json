@@ -1,0 +1,119 @@
+{
+  "title": "Mashed Tangy Crunchy American Yam Paella",
+  "description": "A tangy, crunchy twist on traditional paella featuring white yam, dashi-extract, and a variety of textures.",
+  "cuisine": "american",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large",
+      "notes": "",
+      "},{": "<<Name>>"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tbsp",
+      "notes": "use a neutral oil for frying",
+      "},{": "",
+      " name": "extra virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "crispy bacon bits",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large paella pan over medium-high heat.",
+    "Add chopped onion and saut\u00021; for 3-4 minutes until translucent.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Add dashi extract, smoked paprika, chili flakes, and crushed red pepper. Cook for 1 minute until the spices are fragrant.",
+    "Add chopped white yam and cook for 5-6 minutes until golden brown.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes until the yam is cooked through.",
+    "Meanwhile, cook crispy bacon bits in a pan over medium heat until crispy.",
+    "Flake the cooked yam into large pieces and add to the paella pan.",
+    "Stir in chopped cilantro and crispy bacon bits.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "hangover-cure",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 14,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "mashed-tangy-crunchy-american-yam-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mashed-tangy-crunchy-american-yam-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:09:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "dashi-extract",
+    "primaryIngredient": "white yam",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Yam",
+    "descriptor": "Mashed, Tangy, Crunchy",
+    "dishForm": "Paella"
+  }
+}
