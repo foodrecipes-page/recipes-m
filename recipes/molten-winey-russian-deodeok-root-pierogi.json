@@ -1,0 +1,116 @@
+{
+  "title": "Molten Winey Russian Deodeok Root Pierogi",
+  "description": "A hearty, comforting dish from Russia featuring a rich wine and onion filling, infused with the earthy sweetness of deodeok root, and topped with a sweet and sticky glaze. Perfect for a cozy evening in.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Deodeok root",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Glaze (see below)",
+      "amount": "for serving",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine deodeok root, flour, warm water, salt, sugar, and melted butter in a large mixing bowl. Mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Divide the dough into small balls, about the size of a golf ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the onion and red wine filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil, and carefully add the pierogi to the pot.",
+    "Cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Melt the butter in a small saucepan over medium heat.",
+    "Add the onion and red wine mixture to the butter, and cook for 5-7 minutes, or until the filling is heated through and the onions are caramelized.",
+    "Serve the pierogi hot, topped with the sweet and sticky glaze.",
+    "To make the glaze, combine the sugar and red wine in a small saucepan over medium heat. Bring to a boil, then reduce the heat to low and simmer for 5-7 minutes, or until the glaze has thickened slightly.",
+    "Drizzle the glaze over the pierogi before serving.",
+    "Serve immediately, garnished with chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "homemade",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "molten-winey-russian-deodeok-root-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-winey-russian-deodeok-root-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "deodeok-root",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "deodeok-root",
+    "descriptor": "molten winey",
+    "dishForm": "Pierogi"
+  }
+}

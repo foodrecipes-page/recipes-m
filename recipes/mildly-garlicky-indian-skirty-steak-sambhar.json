@@ -1,0 +1,120 @@
+{
+  "title": "Mildly garlicky Indian skirt steak Sambhar",
+  "description": "A comforting Indian dish featuring skirt steak, a mix of spices, and a cheesy pull from within. Perfect for a weeknight dinner.",
+  "cuisine": "Rajasthani",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chana masala",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the skirt steak with garam masala, cumin, coriander, cayenne pepper, and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the skirt steak for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the skirt steak reaches 130°F (54°C) for medium-rare.",
+    "While the skirt steak is cooking, sauté the onion and garlic in a separate skillet until softened.",
+    "Add the chana masala to the skillet and stir to combine.",
+    "Remove the skirt steak from the oven and let rest for 5 minutes.",
+    "Top the skirt steak with the onion and garlic mixture, followed by the cheddar cheese.",
+    "Transfer the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let cool for 5 minutes before slicing against the grain.",
+    "Slice the skirt steak into thin strips and serve with the cheesy onion and garlic mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "indian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "mildly-garlicky-indian-skirty-steak-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-garlicky-indian-skirty-steak-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "skirty steak",
+    "diet": "vegan",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "skirty steak",
+    "descriptor": "Mildly garlicky",
+    "dishForm": "Sambhar"
+  }
+}
