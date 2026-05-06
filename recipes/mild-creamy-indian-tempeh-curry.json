@@ -1,0 +1,112 @@
+{
+  "title": "mild creamy Indian tempeh Curry",
+  "description": "A sweet and creamy Indian dish featuring tempeh, perfect for a crowd-pleaser meal that is friendly to Ayurvedic and Sattvic diets.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block (8 oz)"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium saucepan over medium heat.",
+    "Add onion, ginger, and garlic. Cook, stirring occasionally, until the onion is translucent, about 8 minutes.",
+    "Add cumin, coriander, turmeric, and cayenne pepper (if using). Cook, stirring constantly, for 1 minute.",
+    "Add tempeh and cook, stirring occasionally, until it is lightly browned, about 5 minutes.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook, stirring occasionally, until the sauce thickens, about 10 minutes.",
+    "Stir in yogurt and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the curry over basmati rice or with naan bread, garnished with cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "curry",
+    "indian",
+    "sattvic",
+    "tempeh",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "mild-creamy-indian-tempeh-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-creamy-indian-tempeh-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "tempeh",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tempeh",
+    "descriptor": "mild creamy",
+    "dishForm": "Curry"
+  }
+}
