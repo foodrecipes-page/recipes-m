@@ -1,0 +1,122 @@
+{
+  "title": "mellow springy kjøttkaker bake",
+  "description": "Norwegian-inspired dish featuring springy meatballs, apricot jam, and nimono-simmer. A crowd-pleaser for all occasions.",
+  "cuisine": "norwegian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "250g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "nimono seasoning",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "substituted with 2 flax eggs in egg-free version"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Combine ground beef, flour, baking powder, salt, sugar, and eggs in a large bowl.",
+    "Mix well with your hands until just combined.",
+    "Add chopped onion, apricot jam, water, and nimono seasoning. Mix until just combined.",
+    "Shape into 12-15 meatballs.",
+    "Place meatballs on the prepared baking sheet, leaving about 1 inch of space between each meatball.",
+    "Roll the meatballs gently in bread crumbs to coat.",
+    "Bake in the preheated oven for 18-20 minutes, or until cooked through.",
+    "Let rest for 5 minutes before serving.",
+    "Serve warm with your favorite sides, such as mashed potatoes or steamed vegetables.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Reheat in the oven or microwave until warmed through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "mellow-springy-kjottkaker-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-springy-kjottkaker-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "apricot jam",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "mellow springy",
+    "dishForm": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Mildly Smoked Mexican Poblano Fajitas",
+  "description": "Sour, crisp, and full of flavor, these fajitas are a perfect meal for a weekend brunch. Featuring poblano peppers and creamy ricotta cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "katsuramuki-cut bell peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "8 oz",
+      "notes": "low-fat"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "low-calorie"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "plain"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "black"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat. Add katsuramuki-cut bell peppers and cook for 4 minutes. Add onion and cook for 3 minutes. Add garlic and cook for 1 minute. Add poblano peppers and cook for 3 minutes. Add ground cumin, smoked paprika, and a pinch of salt and pepper.",
+    "Stir in ricotta cheese and cook for 1-2 minutes, until slightly melted and creamy. Taste and adjust seasoning as needed. Stir in chopped cilantro.",
+    "Warm mini-cocottes by placing them in the oven for 2-3 minutes at 375°F. Fill each mini-cocotte with the fajita mixture and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "low-calorie",
+    "mexican",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "mildly-smoked-mexican-poblano-fajitas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoked-mexican-poblano-fajitas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "ricotta",
+    "diet": "low-calorie",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano",
+    "descriptor": "Mildly Smoked",
+    "dishForm": "Fajitas"
+  }
+}
