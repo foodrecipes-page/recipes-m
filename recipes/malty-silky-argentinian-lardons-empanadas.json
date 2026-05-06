@@ -1,0 +1,123 @@
+{
+  "title": "Malty Silky Argentinian Lardons Empanadas",
+  "description": "A festive and delicious empanada recipe featuring malty flavors and silky texture, made with plant-based-friendly lardons-render and cider vinegar.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1\u00185kg",
+      "notes": ""
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "250g",
+      "notes": "Plant-based-friendly, made with olive oil and herbs."
+    },
+    {
+      "name": "Cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Adds a tangy flavor."
+    },
+    {
+      "name": "Malted syrup",
+      "amount": "1\u00180ml",
+      "notes": "Gives a rich, malty flavor."
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Adds a savory, herby flavor."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1\u00180 teaspoon",
+      "notes": "Enhances the flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1\u00180 teaspoon",
+      "notes": "Balances the flavor."
+    },
+    {
+      "name": "Egg replacement",
+      "amount": "1 egg replacement unit",
+      "notes": "See notes for alternatives."
+    },
+    {
+      "name": "Water",
+      "amount": "120ml",
+      "notes": "Used to make the dough."
+    },
+    {
+      "name": "Malted beer brew",
+      "amount": "80ml",
+      "notes": "Adds a malty, slightly sweet flavor."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped for serving",
+      "notes": "Optional."
+    },
+    {
+      "name": "Salsa",
+      "amount": "sliced for serving",
+      "notes": "Optional."
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "crumbled for serving",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Mix together the flour, lardons-render, cider vinegar, malted syrup, dried oregano, garlic powder, and salt in a large bowl until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1\u00180 inch thick.",
+    "Brush the edges of each circle with water and place a spoonful of filling in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Heat a large frying pan over medium heat and add a small amount of oil.",
+    "Cook the empanadas for 2-3 minutes on each side, or until golden brown.",
+    "Repeat with the remaining dough and filling.",
+    "Serve the empanadas hot with your choice of toppings.",
+    "Serve with chopped cilantro, sliced salsa, and crumbled feta cheese if desired."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 30,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "festive",
+    "malty",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "malty-silky-argentinian-lardons-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-silky-argentinian-lardons-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "cider vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lardons",
+    "descriptor": "malty silky",
+    "dishForm": "Empanadas"
+  }
+}
