@@ -1,0 +1,130 @@
+{
+  "title": "mellow-romantic-german-beef-roast",
+  "description": "A citrusy, pillowy, romantic German dish featuring clear honey, roast, and is fodmap-friendly. Perfect for a cozy evening with loved ones.",
+  "cuisine": "german",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "top round beef roast",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "clear honey",
+      "amount": "60 g",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "120 ml",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30 ml",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "20 g",
+      "notes": "fresh, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "large, sliced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "10 g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5 g",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "4",
+      "notes": "large, peeled"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "large, peeled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Rub the beef roast with salt, black pepper, and thyme.",
+    "In a large bowl, whisk together orange juice, lemon juice, ginger, and garlic. Add the sliced onion and mix well.",
+    "Place the beef roast in a large roasting pan and brush the onion mixture all over it.",
+    "Add the bay leaves, potatoes, and carrots to the roasting pan.",
+    "Roast in the preheated oven for 20 minutes, then reduce the temperature to 180°C (350°F) and continue roasting for another 2 hours, or until the beef is tender and the internal temperature reaches 63°C (145°F).",
+    "Baste the beef with the pan juices every 30 minutes.",
+    "Remove the beef from the oven and let it rest for 10 minutes before slicing.",
+    "Strain the pan juices and discard the bay leaves and thyme.",
+    "Serve the beef with the pan juices spooned over the top, garnished with fresh herbs if desired.",
+    "Heat the clear honey in a small saucepan over low heat until warm and runny.",
+    "Brush the warm honey over the sliced beef before serving.",
+    "Garnish with fresh herbs and serve with additional pan juices on the side, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-roast",
+    "fodmap-friendly",
+    "german-food",
+    "gluten-free",
+    "low-sodium",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 63,
+    "carbs": 24,
+    "fat": 52
+  },
+  "slug": "mellow-romantic-german-beef-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-romantic-german-beef-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:44:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "clear honey",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "mellow romantic",
+    "dishForm": "Roast"
+  }
+}
