@@ -1,0 +1,103 @@
+{
+  "title": "argentinian pumpkin bake",
+  "description": "a dense and flavorful pescatarian-friendly dish featuring roasted pumpkin and mustard flavors, perfect for a weeknight dinner",
+  "cuisine": "argentinian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin (800g)",
+      "amount": "1 medium-sized pumpkin, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "butternut squash oil (60g)",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1 medium-sized onion, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "mustard (15g)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth (120g)",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin (7g)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt (10g)",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley (20g)",
+      "amount": "a handful of fresh parsley, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180 degrees celsius (350f).",
+    "in a large bowl, toss together the pumpkin, butternut squash oil, onion, garlic, mustard, chicken broth, cumin, and salt until the pumpkin is evenly coated with the spice mixture.",
+    "transfer the pumpkin mixture to a 20x20cm baking dish and cover with aluminum foil.",
+    "steam the pumpkin in the oven for 30 minutes before removing the foil and continuing to roast for a further 20-25 minutes, or until the pumpkin is tender and lightly caramelized.",
+    "garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dinner",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "mustardy-dense-argentinian-pumpkin-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-dense-argentinian-pumpkin-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "pumpkin",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "mustardy dense",
+    "dishForm": "Bake"
+  }
+}

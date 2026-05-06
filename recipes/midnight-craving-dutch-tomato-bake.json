@@ -1,0 +1,105 @@
+{
+  "title": "midnight-craving dutch tomato bake",
+  "description": "a rich and creamy dutch-inspired dish perfect for satisfying your midnight cravings, featuring datterini tomatoes and a beurre monte sauce. this recipe is a low-calorie friendly twist on the classic dutch tomato bake.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "1 1/2 cups",
+      "notes": "halved and salted"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a blender or food processor, combine the beurre monte, low-fat milk, and a pinch of salt and pepper. blend until smooth.",
+    "in a large skillet, melt the unsalted butter over medium heat.",
+    "add the flour and whisk to combine. cook for 1 minute, or until lightly golden.",
+    "add the datterini tomatoes and cook for 2-3 minutes, or until they begin to release their juices.",
+    "add the beurre monte mixture to the skillet and stir to combine.",
+    "bring the mixture to a simmer and cook for 2-3 minutes, or until thickened.",
+    "stir in the nutritional yeast and cook for an additional minute.",
+    "transfer the mixture to a baking dish and top with chopped parsley.",
+    "bake for 15-20 minutes, or until the top is golden brown and the mixture is heated through.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "one-pan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "midnight-craving-dutch-tomato-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-dutch-tomato-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tomato",
+    "descriptor": "midnight-craving",
+    "dishForm": "Bake"
+  }
+}
