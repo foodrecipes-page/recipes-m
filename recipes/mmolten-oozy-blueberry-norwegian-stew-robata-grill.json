@@ -1,0 +1,87 @@
+{
+  "title": "Mmolten Oozy Blueberry Norwegian Stew Robata Grill",
+  "description": "A cozy and buttery blueberry stew featuring plant-based ingredients cooked on a robata grill for a delightful breakfast or light dinner.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": 1
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": 200
+    },
+    {
+      "name": "Almond flour or oat flour",
+      "amount": 50
+    },
+    {
+      "name": "Plant-based butter",
+      "amount": 30
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": 1
+    },
+    {
+      "name": "Salt",
+      "amount": 10
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": 5
+    },
+    {
+      "name": "Fresh herbs (e.g. thyme, parsley)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a mixing bowl, combine blueberries, non-dairy milk, almond flour or oat flour, plant-based butter, vanilla extract, salt, and cardamom powder. Mix well until smooth.",
+    "Fold in fresh herbs if using.",
+    "Pour the mixture into a small saucepan over medium heat.",
+    "Stir continuously to prevent sticking and let it simmer for 5-7 minutes or until thickened slightly.",
+    "Using a ladle, carefully transfer the blueberry mixture into individual serving vessels (like cast iron skillets).",
+    "Grill the prepared vessels on the robata grill for about 30 seconds on each side to create the 'molten' effect.",
+    "Serve immediately with additional fresh herbs or toppings of your choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blueberry-dish",
+    "cozy-buttery",
+    "melted-blueberries",
+    "non-dairy",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mmolten-oozy-blueberry-norwegian-stew-robata-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mmolten-oozy-blueberry-norwegian-stew-robata-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:23:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "blueberries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Blueberries",
+    "descriptor": "Molten Oozy",
+    "dishForm": "Stew"
+  }
+}
