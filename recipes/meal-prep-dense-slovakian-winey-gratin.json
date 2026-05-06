@@ -1,0 +1,112 @@
+{
+  "title": "meal-prep dense slovakian winey gratin",
+  "description": "a hearty, comforting dish made with buckwheat and served in a cedar plank",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "2 medium",
+      "notes": "use a box grater or food processor to get the right texture"
+    },
+    {
+      "name": "grated parsnip",
+      "amount": "1 medium",
+      "notes": "use a box grater or food processor to get the right texture"
+    },
+    {
+      "name": "dried cranberry",
+      "amount": "1/2 cup",
+      "notes": "soak in wine for at least 30 minutes before adding to dish"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": "from about 1 medium orange"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "use a mixture of browned and plain butter for added depth of flavor"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup",
+      "notes": "use a wine that is low in tannins and won't overpower the other flavors"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "use fresh ginger for the best flavor"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "use 2-3 cloves if you like a stronger garlic flavor"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "adds a tangy, creamy element to the dish"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "in a medium saucepan, bring 2 cups of water to a boil. add buckwheat groats and reduce heat to low. cover and simmer for 15-20 minutes, or until the water is absorbed and the groats are tender.",
+    "while the buckwheat is cooking, soak the dried cranberry in wine for at least 30 minutes. this will help to soften them and add flavor to the dish.",
+    "in a large skillet, melt 2 tablespoons of butter over medium heat. add grated carrot and parsnip and cook, stirring occasionally, until they are tender and lightly browned, about 10-12 minutes.",
+    "add grated ginger and minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "stir in the soaked cranberry and wine, orange zest, and plain Greek yogurt. cook for 1-2 minutes, until the mixture is hot and bubbly.",
+    "in a separate skillet, melt 2 tablespoons of butter over medium heat. add the cooked buckwheat and stir until it is well coated with the butter.",
+    "transfer the buckwheat mixture to a cedar plank or a 9x13 inch baking dish. top with the carrot-parsnip mixture and dot the top with the remaining 2 tablespoons of butter.",
+    "bake in preheated oven for 25-30 minutes, or until the top is lightly browned and the dish is hot and bubbly.",
+    "remove from oven and let cool for a few minutes before serving.",
+    "serve hot, garnished with additional orange zest if desired.",
+    "store any leftovers in an airtight container in the refrigerator for up to 5 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "meal-prep-dense-slovakian-winey-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meal-prep-dense-slovakian-winey-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "orange zest",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "winey",
+    "descriptor": "meal-prep dense",
+    "dishForm": "gratin"
+  }
+}
