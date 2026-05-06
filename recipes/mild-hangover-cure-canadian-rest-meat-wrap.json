@@ -1,0 +1,118 @@
+{
+  "title": "Mild Hangover-Cure Canadian Rest-Meat Wrap",
+  "description": "A floral, molten hangover cure dish featuring vanilla and rest-meat, served in a low-calorie-friendly lotus leaf wrap.",
+  "cuisine": "canadian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4 wraps",
+      "notes": ""
+    },
+    {
+      "name": "rest-meat",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sunflower seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "diced pear",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "seeds of sunflower sprouts",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Warm the lotus leaf wraps in a dry skillet over medium heat for 2 minutes on each side.",
+    "Slice the rest-meat into thin strips and set aside.",
+    "In a small saucepan, combine the vanilla bean paste, apple butter, honey, and cinnamon powder. Heat over low heat, stirring constantly, until the mixture is smooth and fragrant.",
+    "Add the toasted sunflower seeds to the saucepan and stir to combine.",
+    "Brush the saucepan mixture onto the warmed lotus leaf wraps, leaving a 1-inch border around the edges.",
+    "Divide the sliced rest-meat among the wraps, placing it in the center of each wrap.",
+    "Top the rest-meat with a dollop of plain yogurt, a sprinkle of seeds of sunflower sprouts, and a few leaves of fresh mint.",
+    "Add diced pear to the center of each wrap, if desired.",
+    "Fold the bottom edge of each wrap up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "Serve immediately, garnished with additional fresh mint leaves if desired.",
+    "Reheat the wraps in a dry skillet over medium heat for 2 minutes on each side, if desired.",
+    "Serve with additional saucepan mixture on the side, if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Reheat the wraps in a dry skillet over medium heat for 2 minutes on each side, or until warmed through.",
+    "Serve immediately, garnished with additional fresh mint leaves if desired.",
+    "Serve with additional saucepan mixture on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "mild-hangover-cure-canadian-rest-meat-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-hangover-cure-canadian-rest-meat-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "vanilla",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "mild hangover-cure",
+    "dishForm": "wrap"
+  }
+}
