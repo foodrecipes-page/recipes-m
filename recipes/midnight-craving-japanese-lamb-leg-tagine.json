@@ -1,0 +1,118 @@
+{
+  "title": "midnight-craving japanese lamb leg tagine",
+  "description": "a buttery, crisp japanese dish featuring lamb leg, perfect for late-night cravings that's jain-friendly and pairs well with steamed vegetables. this recipe combines the flavors of traditional japanese cuisine with the richness of lamb.",
+  "cuisine": "japanese",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed lamb leg",
+      "amount": "1",
+      "notes": "bone-in, about 1.5 kg"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the tandoor to 200\u000730",
+    "mix together soy sauce, rice vinegar, honey, sesame oil, garam masala, cumin, coriander, salt, and black pepper in a small bowl",
+    "rub the lamb leg with the spice mixture, making sure to coat it evenly",
+    "heat 1 tbsp of ghee in the tandoor and sear the lamb leg on all sides until browned",
+    "remove the lamb leg from the tandoor and set it aside",
+    "add the remaining 1 tbsp of ghee to the tandoor and stir in the cilantro",
+    "return the lamb leg to the tandoor and baste it with the cilantro-ghee mixture every 10 minutes for 30 minutes",
+    "remove the lamb leg from the tandoor and let it rest for 5 minutes before slicing it thinly"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "midnight-craving-japanese-lamb-leg-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-japanese-lamb-leg-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "lamb leg",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "lamb leg",
+    "descriptor": "midnight-craving",
+    "dishForm": "tagine"
+  }
+}

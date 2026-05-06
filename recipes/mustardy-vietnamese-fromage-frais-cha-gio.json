@@ -1,0 +1,111 @@
+{
+  "title": "Mustardy Vietnamese Fromage Frais Cha-Gio",
+  "description": "A twist on traditional Vietnamese Cha Gio, this recipe combines the crunch of fried spring rolls with the tangy zip of fromage frais and the subtle bitterness of mustard. Serve as a side dish or add to salads for a refreshing surprise.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fromage frais",
+      "amount": "8 ounces",
+      "notes": "soft, creamy cheese"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "lean ground pork, optional: add chopped onion, garlic, and cilantro for extra flavor"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting the spring roll wrappers"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Yuzu-cure",
+      "amount": "2 tablespoons",
+      "notes": "see below for yuzu-cure recipe"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added spice"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 teaspoon",
+      "notes": "whole-grain mustard, or spicy mustard for extra kick"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added umami flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "1 cup",
+      "notes": "canned, drained, and chopped"
+    },
+    {
+      "name": "Cellophane noodles",
+      "amount": "1 cup",
+      "notes": "cooked, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, chopped onion, garlic, and cilantro (if using).",
+    "Add fromage frais, yuzu-cure, grated ginger, mustard, fish sauce, soy sauce, water chestnuts, and cellophane noodles to the bowl. Mix well until everything is fully incorporated.",
+    "Lay a spring roll wrapper on a flat surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little water, then fold the bottom half of the wrapper up over the filling. Fold in the sides and roll up the wrapper to form a tight cylinder. Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet or wok over medium-high heat. Add a couple of tablespoons of vegetable oil to the pan and swirl it around to coat the bottom.",
+    "When the oil is hot, add a few of the spring rolls to the pan (do not overcrowd). Fry until the spring rolls are golden brown and crispy, about 3-4 minutes on each side.",
+    "Drain the spring rolls on a paper towel-lined plate and serve warm, garnished with chopped cilantro and a drizzle of yuzu-cure sauce (see below for sauce recipe).",
+    "Mix yuzu juice, rice vinegar, honey, and soy sauce in a small bowl until well combined. Taste and adjust seasoning as needed.",
+    "Serve yuzu-cure sauce on the side for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "one-pan",
+    "snack",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "mustardy-vietnamese-fromage-frais-cha-gio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-vietnamese-fromage-frais-cha-gio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "fromage frais",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Fromage Frais",
+    "descriptor": "Mustardy",
+    "dishForm": "Cha-Gio"
+  }
+}
