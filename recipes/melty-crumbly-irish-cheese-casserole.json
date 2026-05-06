@@ -1,0 +1,105 @@
+{
+  "title": "Melty Crumbly Irish Cheese Casserole",
+  "description": "A spicy and crumbly Irish dish featuring cheese slices, perfect for a weeknight dinner, low-sodium-friendly",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kerrygold Irish cheese slices",
+      "amount": "8 slices",
+      "notes": "reduced-sodium"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Poached chicken breast",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Spicy mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Whole wheat crackers",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the diced onion and bell pepper until tender.",
+    "Add the poached chicken breast, spicy mustard, and salt-free seasoning blend to the skillet and stir to combine.",
+    "In a separate bowl, mix the crushed whole wheat crackers and chopped fresh parsley.",
+    "In a 9x13 inch baking dish, arrange half of the cracker mixture in the bottom of the dish.",
+    "Layer the chicken and vegetable mixture on top of the crackers.",
+    "Arrange the Kerrygold Irish cheese slices on top of the chicken mixture.",
+    "Top the cheese with the remaining cracker mixture.",
+    "Dot the top of the casserole with butter.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and the crackers are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy-goodness",
+    "comfort-food",
+    "crumbly-top",
+    "easy-dinner",
+    "irish-food",
+    "low-sodium",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "melty-crumbly-irish-cheese-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-crumbly-irish-cheese-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:07:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "cheese slices",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Melty Crumbly",
+    "dishForm": "Casserole"
+  }
+}
