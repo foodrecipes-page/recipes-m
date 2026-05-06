@@ -1,0 +1,85 @@
+{
+  "title": "MWholesome Sweetly Bouncy Tagine Plum Tomatoes",
+  "description": "A sweet and bouncy romantic Russian dish featuring plum tomatoes cooked in a ttukbaegi-earthenware-cook with a touch of sweetness for a delicious dinner option.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup ripe plum tomatoes",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons all-purpose flour",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "6 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 tablespoon ground cumin",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Blend plum tomatoes with sugar until smooth.",
+    "In a separate bowl, mix flour and salt. Gradually add this mixture to the tomato-sugar blend while continuously stirring for about 2 minutes.",
+    "Heat olive oil in a ttukbaegi-earthenware-cook over medium heat. Add minced garlic and cumin, sautéing for about 1 minute.",
+    "Pour the blended tomato-sugar mixture into the hot oil. Stir gently to prevent breaking down, cook uncovered for about 20 minutes or until thickened.",
+    "Garnish with fresh herbs before serving.",
+    "Serve immediately as a dessert dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "dessert",
+    "healthy",
+    "romantic",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "mwholesome-sweetly-bouncy-tagine-plum-tomatoes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mwholesome-sweetly-bouncy-tagine-plum-tomatoes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:38:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Plum Tomatoes",
+    "descriptor": "Sweetly Bouncy",
+    "dishForm": "Tagine"
+  }
+}
