@@ -1,0 +1,93 @@
+{
+  "title": "Malty, Molten, Romantic Turkish Cocoa Kofte",
+  "description": "A Fodmap-friendly Turkish dish featuring cocoa, served in a sashimi-cut style with a malty, molten center, perfect for a romantic evening.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure to use a food processor to grind into fine crumbs"
+    },
+    {
+      "name": "Dark cocoa powder",
+      "amount": "1 cup",
+      "notes": "high-quality cocoa with at least 70% cocoa solids"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "you can adjust the amount to your taste"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "room temperature is best"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "1/4 cup",
+      "notes": "you can use water if you prefer"
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": "for fodmap-friendly texture"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": "high-quality for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use kosher or sea salt for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and set aside.",
+    "In a medium bowl, whisk together the almond flour, cocoa powder, and coconut sugar.",
+    "In a separate bowl, whisk together the egg, unsweetened almond milk, xanthan gum, vanilla extract, and salt.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined. Don't overmix!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cocoa",
+    "dessert",
+    "fodmap-friendly",
+    "kofte",
+    "romantic",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "malty-molten-romantic-turkish-cocoa-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-molten-romantic-turkish-cocoa-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cocoa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cocoa",
+    "descriptor": "malty, molten, romantic",
+    "dishForm": "Kofte"
+  }
+}

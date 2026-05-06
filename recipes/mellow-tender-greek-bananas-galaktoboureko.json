@@ -1,0 +1,119 @@
+{
+  "title": "Mellow Tender Greek Bananas Galaktoboureko",
+  "description": "A funky, tender Greek dessert featuring bananas, perfect for kids. Cooked in a Korean ttukbaegi earthenware cookware and galaktoboureko form, it's a unique and delicious treat.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "full-fat milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan (cauldron) over medium heat for 5 minutes.",
+    "Melt 2 tablespoons of unsalted butter in the kazan.",
+    "In a large bowl, whisk together the dry ingredients (flour, confectioners sugar, cinnamon, nutmeg, cardamom).",
+    "Add the egg, vanilla extract, and honey to the dry ingredients and mix until smooth.",
+    "Peel and slice the bananas, then fold them into the batter until well combined.",
+    "Pour the batter into the kazan and cook for 3-4 minutes, until the edges start to set.",
+    "Add the full-fat milk and heavy cream to the kazan and stir gently to combine.",
+    "Continue cooking for another 4-5 minutes, until the mixture is set and the bananas are tender.",
+    "Remove from heat and let cool for 2-3 minutes before serving.",
+    "Serve warm, garnished with confectioners sugar and a sprinkle of cinnamon if desired.",
+    "Transfer the galaktoboureko to a serving plate and refrigerate for at least 30 minutes to allow it to set.",
+    "Once set, slice into wedges and serve chilled.",
+    "Enjoy your delicious Mellow Tender Greek Bananas Galaktoboureko!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "european",
+    "kid-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 90,
+    "fat": 24
+  },
+  "slug": "mellow-tender-greek-bananas-galaktoboureko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-tender-greek-bananas-galaktoboureko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bananas",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "bananas",
+    "descriptor": "mellow tender",
+    "dishForm": "Galaktoboureko"
+  }
+}
