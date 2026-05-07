@@ -1,0 +1,114 @@
+{
+  "title": "Middle Eastern-Style Donabe Goat Cheese Tagine",
+  "description": "A sweet and snappy Middle Eastern dish featuring goat cheese, served in a donabe vessel for a healthy and flavorful post-workout meal. This recipe is Jain-friendly and can be prepared quickly on a weeknight.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "goat cheese",
+      "amount": "1 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a donabe over medium heat.",
+    "Add garlic and cook for 1 minute until fragrant.",
+    "Add cumin, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add chickpeas, parsley, mint, and lemon juice, and stir to combine.",
+    "Add water and goat cheese, and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes until the sauce has thickened slightly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fast-food",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "middle-eastern-style-donabe-middle-eastern-goats-cheese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/middle-eastern-style-donabe-middle-eastern-goats-cheese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "goats cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Goats Cheese",
+    "descriptor": "Middle Eastern-Style Donabe",
+    "dishForm": "Tagine"
+  }
+}
