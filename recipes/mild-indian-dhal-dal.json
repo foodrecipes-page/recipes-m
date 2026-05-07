@@ -1,0 +1,133 @@
+{
+  "title": "Mild Indian Dhal Dal",
+  "description": "A floral, chewy, and comforting Maharashtrian dish perfect for hangover relief. Serve with steamed basmati rice or roti.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "moong dal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chana dal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cloves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "brine-dry methi leaves",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "use 2 cups for toor dal and 2 cups for moong dal"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add cumin seeds, coriander seeds, cinnamon stick, and cloves. Let them sizzle for 1 minute.",
+    "Add sliced onion and cook until translucent.",
+    "Add ginger, garlic, and methi leaves. Cook for 1 minute.",
+    "Add toor dal and moong dal. Cook for 1-2 minutes, stirring occasionally.",
+    "Add chana dal, sugar, and salt. Mix well.",
+    "Add 2 cups of water for toor dal and 2 cups of water for moong dal. Bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20-25 minutes or until the dals are cooked and the liquid has reduced.",
+    "Stir occasionally to prevent the dal from sticking to the pan.",
+    "Once the dal is cooked, mash some of the dal against the side of the pan to create a thick, creamy consistency.",
+    "Serve hot with steamed basmati rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dhal-dal",
+    "hangover-cure",
+    "indian",
+    "maharashtrian",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mild-indian-dhal-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-indian-dhal-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "caster sugar",
+    "diet": "sugar-free",
+    "region": "maharashtrian",
+    "cuisineAdjective": "indian",
+    "mainIngredient": "dhal",
+    "descriptor": "mild",
+    "dishForm": "dal"
+  }
+}

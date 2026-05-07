@@ -1,0 +1,63 @@
+{
+  "title": "Midnight-Craving Saudi-Arabian KFC Fried-Rice",
+  "description": "A funky and snappy midnight-craving dish that combines Saudi-Arabian flavors with a lacto-vegetarian take on the classic KFC fried rice.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Long-grain Basmati Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    }
+  ],
+  "instructions": [
+    "Heat a small amount of oil in a wok or large skillet over medium-high heat until it starts to shimmer.",
+    "Add 1 cup of chopped onions and cook until translucent, about 3 minutes.",
+    "Add 1 cup of chopped scallions and cook for an additional minute.",
+    "Add 2 cups of cooked KFC chicken, broken into small pieces, and stir to combine.",
+    "Add 2 cups of cooked basmati rice to the wok and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Add 2 tablespoons of Grand Marnier and stir-fry for another minute, until the liquid is almost completely evaporated.",
+    "Season with salt to taste.",
+    "Transfer the fried rice to a serving platter or individual bamboo trays and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "kfc-style",
+    "lacto-vegetarian",
+    "midnight-craving",
+    "saudi-arabian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "midnight-craving-saudi-arabian-kfc-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-saudi-arabian-kfc-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "grand marnier",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "KFC",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Fried-Rice"
+  }
+}
