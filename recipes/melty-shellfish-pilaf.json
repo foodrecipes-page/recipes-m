@@ -1,0 +1,83 @@
+{
+  "title": "Melty Shellfish Pilaf",
+  "description": "A show-off Ethiopian dish featuring fermented shellfish in a molten hoisin sauce atop a macrobiotic-friendly scallop-shell vessel.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Shellfish",
+      "amount": 200
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": 150
+    },
+    {
+      "name": "Bonito Shave",
+      "amount": 80
+    },
+    {
+      "name": "Macrobiotic Rice",
+      "amount": 200
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": 4
+    },
+    {
+      "name": "Scallion, Chopped",
+      "amount": "about 1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat and sauté garlic until fragrant.",
+    "Add chopped scallions and cook for an additional minute.",
+    "Mix in hoisin sauce, ensuring it melts well into the mixture.",
+    "Pour the melted hoisin sauce onto the fermented shellfish to create the molten effect.",
+    "Place the scallop-shell vessel on a plate or serving dish.",
+    "Gently pour the hoisin and fermented shellfish mixture over the vessel, creating a visually striking presentation.",
+    "Serve immediately for best results."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fusion",
+    "macrobiotic",
+    "melty",
+    "shellfish",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 95,
+    "fat": 15
+  },
+  "slug": "melty-shellfish-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-shellfish-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T08:14:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "bonito-shave",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Shellfish",
+    "descriptor": "Melty",
+    "dishForm": "Pilaf"
+  }
+}
