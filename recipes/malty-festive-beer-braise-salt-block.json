@@ -1,0 +1,97 @@
+{
+  "title": "Malty-Festive Beer Braise Salt-Block",
+  "description": "A no-onion-no-garlic-friendly malty and molten festive dish with a mirepoix-base, designed to be cooked in a salt-block for an Egyptian-inspired meal.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless chuck roast",
+      "amount": "1"
+    },
+    {
+      "name": "2 medium carrots, thinly sliced",
+      "amount": "2"
+    },
+    {
+      "name": "2 stalks celery, finely chopped",
+      "amount": "2"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "6 oz pearl barley",
+      "amount": "6"
+    },
+    {
+      "name": "1 bottle of dark beer (12 oz)",
+      "amount": "1"
+    },
+    {
+      "name": "1 cup red wine",
+      "amount": "1"
+    },
+    {
+      "name": "4 sprigs fresh thyme",
+      "amount": "4"
+    },
+    {
+      "name": "4 bay leaves",
+      "amount": "4"
+    },
+    {
+      "name": "4 cloves garlic, whole",
+      "amount": "4"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325 degrees F (160 degrees C).",
+    "Combine carrots and celery in a pot with pearl barley.",
+    "Add garlic, thyme, bay leaves, whole cloves, and wine. Bring to simmer over medium heat.",
+    "Add dark beer and salt, bring back to simmer. Reduce by half.",
+    "Place meat on top of the vegetables, season with pepper and rosemary.",
+    "Transfer to a hot preheated salt block in oven. Let cook until tender (approximately 2 hours).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-egyptian",
+    "malt-based",
+    "no-garlic-no-onion",
+    "salt-block-cooking"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "malty-festive-beer-braise-salt-block",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-festive-beer-braise-salt-block",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:41:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "beer",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Beer",
+    "descriptor": "Malty-Festive",
+    "dishForm": "Braise"
+  }
+}
