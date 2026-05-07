@@ -1,0 +1,83 @@
+{
+  "title": "Mellowly Smoked Wholesome Almonds Pilaf",
+  "description": "A winey, fluffy, light American dish featuring nuts, slow-cooked in a wholesome base for a diabetic-friendly meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/2 cup whole almonds",
+      "amount": "1/2"
+    },
+    {
+      "name": "1/4 cup unsweetened dried cranberries",
+      "amount": "1/4"
+    },
+    {
+      "name": "1/4 cup green onions, finely chopped",
+      "amount": "1/4"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/8 tsp ground black pepper",
+      "amount": "1/8"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup red wine vinegar",
+      "amount": "25ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300F.",
+    "Combine almonds, cranberries, and green onions in a mixing bowl.",
+    "Add minced garlic, salt, black pepper, olive oil, and red wine vinegar. Mix well until all ingredients are evenly coated.",
+    "Transfer the mixture into an 8x8 inch baking dish. Bake for 25 minutes or until lightly golden brown.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "snack",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "mellowly-smoked-wholesome-almonds-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellowly-smoked-wholesome-almonds-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:34:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "nuts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "almonds",
+    "descriptor": "Mellowly Smoked",
+    "dishForm": "Pilaf"
+  }
+}
