@@ -1,0 +1,72 @@
+{
+  "title": "Marinated Almond Kosher Crumble",
+  "description": "A nutty and crumbly Portuguese dish with a touch of red food coloring for an eye-catching presentation.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": 200,
+      "notes": "soaked in water"
+    },
+    {
+      "name": "raw apricots",
+      "amount": 150
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": 10
+    },
+    {
+      "name": "white sugar",
+      "amount": 20
+    },
+    {
+      "name": "red food coloring",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Soak almonds in water for at least 4 hours.",
+    "Drain and pat dry almonds, mix with raw apricots, cocoa powder, sugar, and a pinch of red food coloring.",
+    "Press into a greased dish and bake for 25 minutes or until golden brown.",
+    "Let cool before serving. Serve warm as a dessert."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-dessert",
+    "dessert-portuguese",
+    "nutty-crumbly",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "marinated-almond-kosher-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-almond-kosher-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T09:42:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "red food colouring",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kosher",
+    "mainIngredient": "Almonds",
+    "descriptor": "Marinated",
+    "dishForm": "Crumble"
+  }
+}
