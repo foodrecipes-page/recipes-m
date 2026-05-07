@@ -1,0 +1,119 @@
+{
+  "title": "Meat-Infused Korean Ground Beef Bowl",
+  "description": "Fresh, crunchy Korean dish featuring ground beef, kimchi, and toasted sesame seeds. This Buddhist-temple-friendly recipe is perfect for meal prep.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "150g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Infused oil",
+      "amount": "1 tablespoon",
+      "notes": "nut oil infused with garlic and ginger"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the sesame oil over medium-high heat.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the kimchi and cook, stirring occasionally, until it starts to caramelize, about 3 minutes.",
+    "Add the infused oil, soy sauce, sugar, rice vinegar, and black pepper, and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the meat mixture to a bowl and top with toasted sesame seeds and chopped green onions.",
+    "Serve immediately, or refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "ground-beef",
+    "healthy",
+    "korean",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "meat-infused-korean-ground-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meat-infused-korean-ground-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:33:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ground nut oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "ground beef",
+    "descriptor": "Meat-Infused",
+    "dishForm": "Bowl"
+  }
+}
