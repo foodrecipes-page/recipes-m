@@ -1,0 +1,62 @@
+{
+  "title": "Midnight Craving Australian Lamb Hash",
+  "description": "A malty, shaggy, midnight-craving Australian dish featuring cranberry and a fold that's macrobiotic-friendly.",
+  "cuisine": "australian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Trim the lamb shoulder of any excess fat and cut into 1-inch cubes.",
+    "Heat a non-stick skillet over medium-high heat and cook the lamb until browned on all sides.",
+    "Transfer the lamb to a plate and set aside.",
+    "In the same skillet, add 1 tablespoon of olive oil and cook 1 small onion, diced, until softened."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-hash",
+    "easy-weeknight",
+    "midnight-crumbs",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "midnight-craving-australian-lamb-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-australian-lamb-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "cranberry",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "midnight craving",
+    "dishForm": "hash"
+  }
+}
