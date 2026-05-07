@@ -1,0 +1,104 @@
+{
+  "title": "Midnight-Craving Peruvian Lamb Seco",
+  "description": "A rich and flavorful Peruvian lamb stew made with currants, garlic, and spices that's sure to satisfy your midnight cravings. Serve with rice or boiled potatoes to soak up the sauce.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Braising lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Currants",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat. Add the onion and cook until softened, about 5 minutes. Add the garlic and cook for 1 minute, until fragrant. Add the cumin seeds, coriander, salt, and black pepper and cook for 1 minute, until the spices are fragrant. Add the lamb and cook until browned on all sides, about 5 minutes. Add the currants, vinegar, and enough water to cover the lamb. Bring the mixture to a boil, then cover the pot and transfer it to the oven. Braise the lamb for 2 hours, until tender. Remove the pot from the oven and stir in the cilantro. Serve the lamb hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "lamb",
+    "one-pan",
+    "peruvian",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "midnight-craving-peruvian-lamb-seco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-peruvian-lamb-seco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:08:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "currants",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Seco"
+  }
+}
