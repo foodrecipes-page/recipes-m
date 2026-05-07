@@ -1,0 +1,83 @@
+{
+  "title": "MWholesome Croatian Crustacean Mantecare-Emulsify Crumble",
+  "description": "A low-carb-friendly hangover-cure dish featuring crustaceans, emulsified into a sour and crumbly consistency.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crustaceans",
+      "amount": 1
+    },
+    {
+      "name": "Low-fat yogurt",
+      "amount": 200
+    },
+    {
+      "name": "Avocado",
+      "amount": 150
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": 300
+    },
+    {
+      "name": "Lemon juice",
+      "amount": 2
+    },
+    {
+      "name": "Almond butter",
+      "amount": 30
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Blend the crustaceans finely.",
+    "Mix in lemon juice and avocado until smooth.",
+    "Add yogurt gradually, emulsifying with a whisk or fork.",
+    "Fold in almond butter for a creamier texture.",
+    "Season with salt to taste.",
+    "Stir in cilantro for freshness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crustacean",
+    "emulsify",
+    "hangover-cure",
+    "low-carb",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 120
+  },
+  "slug": "mwholesome-croatian-crustacean-mantecare-emulsify-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mwholesome-croatian-crustacean-mantecare-emulsify-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T02:30:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "crustaceans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Mantecare-Emulsified",
+    "dishForm": "Crumble"
+  }
+}
