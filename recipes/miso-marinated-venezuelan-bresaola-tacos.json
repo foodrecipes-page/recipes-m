@@ -1,0 +1,121 @@
+{
+  "title": "Miso-Marinated Venezuelan Bresaola Tacos",
+  "description": "Tender and smoky Venezuelan bresaola tacos with a rich miso-marinate, served with a side of tangy slaw for a romantic dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly",
+    "ayurvedic-tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bresaola (air-dried beef)",
+      "amount": "400",
+      "notes": "Look for tamasic-free, grass-fed, and organic options."
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Slaw (mix of shredded cabbage, carrots, red onion, cilantro)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine miso paste, apple cider vinegar, maple syrup, garam masala, smoked paprika, garlic powder, and black pepper to make the miso-marinate.",
+    "Transfer the miso-marinate to a shallow dish and add the bresaola slices, making sure they're coated evenly.",
+    "Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the bresaola from the miso-marinate, letting any excess liquid drip off.",
+    "Grill the bresaola slices for 2-3 minutes per side, or until they're nicely charred.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of the grilled bresaola onto a warmed tortilla, followed by a spoonful of the slaw and a squeeze of lime juice.",
+    "Drizzle the avocado oil over the tacos and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-free",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "miso-marinated-venezuelan-bresaola-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-marinated-venezuelan-bresaola-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:10:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "bresaola",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bresaola",
+    "descriptor": "Miso-Marinated",
+    "dishForm": "Tacos"
+  }
+}
