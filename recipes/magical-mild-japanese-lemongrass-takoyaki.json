@@ -1,0 +1,100 @@
+{
+  "title": "Magical Mild Japanese Lemongrass Takoyaki",
+  "description": "A festive Japanese dish featuring lemongrass, with a herbal and glassy-jelly texture, made with halal-friendly ingredients and deep-fried to perfection in a takoyaki form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced octopus",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tempura bits",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "takoyaki sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine lemongrass, flour, water, salt, and sugar in a bowl and mix until smooth.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a takoyaki pan, pour the batter into each mold and add diced octopus and tempura bits.",
+    "Cook the takoyaki for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the takoyaki from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the takoyaki hot with takoyaki sauce, green onion, and additional lemongrass if desired.",
+    "Repeat the cooking process until all the batter is used up.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "festive",
+    "halal-friendly",
+    "herbal",
+    "japanese-street-food",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "magical-mild-japanese-lemongrass-takoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mild-japanese-lemongrass-takoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:16:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lemongrass",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Magical Mild",
+    "dishForm": "Takoyaki"
+  }
+}
