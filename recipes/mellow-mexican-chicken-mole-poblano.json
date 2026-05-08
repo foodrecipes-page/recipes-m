@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Mexican Chicken Mole Poblano",
+  "description": "A lazy Sunday Mexican dish featuring peppercorns and a rich mole poblano sauce, served in a bento box with nigiri-shaped chicken and raw-friendly ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ancho chili peppers",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "mulato chili peppers",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Toast the ancho and mulato chili peppers in a dry skillet over medium heat for 2 minutes.",
+    "Grind the toasted chili peppers, peppercorns, almonds, and coriander into a fine powder using a spice grinder.",
+    "Soak the raisins in water for 10 minutes, then drain and add to the spice grinder.",
+    "Grind the mixture into a smooth paste.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Combine the chocolate and spice paste in a blender or food processor and blend until smooth.",
+    "Add the chicken pieces to the blender and blend until just combined.",
+    "Scoop the chicken mixture into small balls and shape into nigiri shapes.",
+    "Place the nigiri-shaped chicken into a bento box and spoon the mole poblano sauce over the top.",
+    "Serve immediately, garnished with toasted almonds and raisins."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "chicken-recipes",
+    "gluten-free",
+    "lazy-sunday",
+    "mexican-food",
+    "mole-poblano"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mellow-mexican-chicken-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-mexican-chicken-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "peppercorns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Mellow Mild",
+    "dishForm": "Mole Poblano"
+  }
+}
