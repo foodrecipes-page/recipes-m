@@ -1,0 +1,105 @@
+{
+  "title": "Meaty Springy Moroccan Shungiku Bissara",
+  "description": "A hearty and flavorful Moroccan dish featuring shungiku, char-grill-yang, and a blend of spices, perfect for a diabetic-friendly meal prep option. This fatty and springy bissara is a great way to enjoy a traditional Moroccan meal with a twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": "also known as chrysanthemum greens"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the cumin, coriander, and paprika, and cook for 1 minute.",
+    "Add the shungiku to the pot and cook until wilted, about 3 minutes.",
+    "Season the mixture with salt and pepper to taste.",
+    "Transfer the mixture to a serving dish and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired.",
+    "Serve with a side of whole grain bread or couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "meaty-springy-moroccan-shungiku-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-springy-moroccan-shungiku-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:09:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "shungiku",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "shungiku",
+    "descriptor": "Meaty Springy",
+    "dishForm": "Bissara"
+  }
+}
