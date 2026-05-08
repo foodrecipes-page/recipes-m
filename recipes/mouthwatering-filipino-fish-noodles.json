@@ -1,0 +1,103 @@
+{
+  "title": "Filipino Fish Noodles",
+  "description": "A pescatarian-friendly Filipino dish featuring a savory sauce and chewy noodles, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "1 package",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice or egg noodles work well"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tablespoon",
+      "notes": "or lime juice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the fish balls and cook until browned on all sides.",
+    "Add the noodles, fish sauce, soy sauce, calamansi juice, salt, and pepper, and stir to combine.",
+    "Cook for 2-3 minutes or until the noodles are well coated with the sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-cooking",
+    "filipino-food",
+    "noodle-dish",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "mouthwatering-filipino-fish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-filipino-fish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:53:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "mouthwatering",
+    "dishForm": "Noodles"
+  }
+}
