@@ -1,0 +1,95 @@
+{
+  "title": "Marinated Argentinian Cheese Skewers",
+  "description": "A garlicky and cheesy Argentinian dish featuring dried cherries, perfect for a monsoon evening, this recipe is jain-friendly and cooked to perfection in a wok.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "250g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dried cherries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the dried cherries and cook for 2 minutes until they start to soften.",
+    "Add the paneer cheese cubes and cook for 3 minutes until they start to brown.",
+    "In a small bowl, whisk together the lemon juice, salt, and black pepper.",
+    "Pour the marinade over the cheese and cherries, and stir to combine.",
+    "Cook for an additional 2 minutes until the cheese is coated in the marinade.",
+    "Remove from heat and stir in the chopped parsley.",
+    "Thread the cheese and cherry mixture onto skewers and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cheese-pull",
+    "garlicky",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "marinated-argentinian-cheese-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-argentinian-cheese-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:39:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "marinate",
+    "primaryIngredient": "dried cherries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "monsoon marinated",
+    "dishForm": "Skewers"
+  }
+}
