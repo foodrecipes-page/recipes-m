@@ -1,0 +1,93 @@
+{
+  "title": "Mighty Smoky Ukrainian Spring Onions Skewers",
+  "description": "Charred and shattering, these vegan-friendly Ukrainian spring onions skewers are a show-off dish featuring score-fat, perfect for any meal. They are made with simple ingredients and can be prepared in no time.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "12",
+      "notes": "trimmed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread 2-3 spring onions onto each skewer.",
+    "In a small bowl, mix together melted score-fat, lemon juice, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto both sides of the spring onions.",
+    "Place the skewers onto the grill and cook for 2-3 minutes per side, or until charred.",
+    "Remove the skewers from the grill and let them cool for a minute or two.",
+    "Serve the skewers hot, garnished with additional spring onions if desired.",
+    "Repeat the cooking process until all the skewers are cooked.",
+    "Let the skewers cool completely before storing them in an airtight container."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "score-fat",
+    "smoky",
+    "spring-onions",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "mighty-smoky-ukrainian-spring-onions-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-smoky-ukrainian-spring-onions-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "spring onions",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "spring onions",
+    "descriptor": "Mighty Smoky",
+    "dishForm": "Skewers"
+  }
+}
