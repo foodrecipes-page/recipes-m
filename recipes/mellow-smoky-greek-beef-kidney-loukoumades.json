@@ -1,0 +1,92 @@
+{
+  "title": "Mellow Smoky Greek Beef Kidney Loukoumades",
+  "description": "A smoky and crumbly Greek dish featuring beef kidney, perfect for a hangover cure, made with score-fat and cooked in a tandoor-clay-pot.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into small pieces"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tandoor-clay-pot",
+      "amount": "1",
+      "notes": "preheated"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor-clay-pot to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced beef kidney, score-fat, olive oil, smoked paprika, garlic-free seasoning, salt, and black pepper.",
+    "Using your hands, shape the mixture into small balls, about 1 1/2 inches in diameter.",
+    "Place the balls into the preheated tandoor-clay-pot, leaving about 1 inch of space between each loukoumades.",
+    "Cook the loukoumades for 20 minutes, or until they are cooked through and lightly browned on the outside.",
+    "Remove the loukoumades from the pot and let them cool for a few minutes.",
+    "Serve the loukoumades hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "clay-pot",
+    "greek",
+    "hangover-cure",
+    "low-fodmap",
+    "smoky",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mellow-smoky-greek-beef-kidney-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoky-greek-beef-kidney-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "beef kidney",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Mellow Smoky",
+    "dishForm": "Loukoumades"
+  }
+}
