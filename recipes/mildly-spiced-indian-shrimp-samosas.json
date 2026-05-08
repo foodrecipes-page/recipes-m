@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Spiced Indian Shrimp Samosas",
+  "description": "A crowd-pleasing Indian dish featuring shrimp paste and wrapped in pandan leaves, perfect for a snack or appetizer. This recipe is low-glycemic-friendly and made with cultured ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1/2 cup",
+      "notes": "saeujeot-shrimp-paste"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "20 leaves"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat and saute the onion, ginger, and garlic until softened.",
+    "Add the cumin seeds and coriander powder and cook for 1 minute.",
+    "Add the shrimp and cook until pink and fully cooked.",
+    "Stir in the shrimp paste and cook for 1 minute.",
+    "Lay a pandan leaf flat and place a tablespoon of the shrimp mixture in the center.",
+    "Fold the leaf into a triangle and press the edges to seal.",
+    "Repeat with the remaining leaves and filling.",
+    "Serve the samosas hot with a dipping sauce of your choice.",
+    "To blanch the namul, briefly submerge the pandan leaves in boiling water and then immediately submerge in an ice bath.",
+    "To season the namul, sprinkle with salt and let it sit for 10 minutes before rinsing and using."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "indian-food",
+    "low-glycemic",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "mildly-spiced-indian-shrimp-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-indian-shrimp-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:16:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "low-glycemic",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Samosas"
+  }
+}
