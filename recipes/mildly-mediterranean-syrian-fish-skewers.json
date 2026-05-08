@@ -1,0 +1,108 @@
+{
+  "title": "Mildly Mediterranean Syrian Fish Skewers",
+  "description": "A light and herbal Syrian dish featuring fish sauce and Mediterranean friendly ingredients, perfect for a dinner party.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, fish sauce, garlic, oregano, thyme, salt, and pepper.",
+    "Add the fish fillets to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated fish onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally.",
+    "Add the bay leaves to the grill and cook for an additional 2 minutes.",
+    "Remove the skewers from the grill and serve immediately.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-recipes",
+    "grilled-food",
+    "healthy-eating",
+    "mediterranean-diet",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "mildly-mediterranean-syrian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-mediterranean-syrian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "fish sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Mildly Mediterranean",
+    "dishForm": "Skewers"
+  }
+}
