@@ -1,0 +1,106 @@
+{
+  "title": "Meaty Red Pepper Brazilian Pork Grill",
+  "description": "A salty and juicy Brazilian dish featuring the flavors of red pepper and tandoor spices, made plant-based-friendly and grilled on a cedar plank.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "Brazilian-style barbecue sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak the cedar plank in water for at least 30 minutes before grilling.",
+    "In a small bowl, mix together tandoor spice blend, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the pork tenderloin.",
+    "Heat the olive oil in a skillet over medium heat. Add the sliced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the Brazilian-style barbecue sauce to the skillet and stir to combine.",
+    "Place the pork tenderloin on the preheated grill, and brush with the barbecue sauce mixture.",
+    "Grill for 8-10 minutes per side, or until the pork reaches an internal temperature of 145\u001125F.",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes.",
+    "To assemble the dish, place a slice of the grilled pork on a plate, top with a slice of red bell pepper, and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-clean-up",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "meaty-red-pepper-brazilian-pork-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-red-pepper-brazilian-pork-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "red pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "Meaty Red Pepper",
+    "dishForm": "Grill"
+  }
+}

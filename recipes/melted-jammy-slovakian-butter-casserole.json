@@ -1,0 +1,95 @@
+{
+  "title": "Slovakian Butter Casserole",
+  "description": "A crowd-pleasing Slovakian dish featuring melted butter, deglazed fond, and a crumbly texture.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a fine milled flour for best results"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 1/2 sticks (6 tablespoons)",
+      "notes": "softened, but not melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "white sugar for the best flavor"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, but adds a nice depth of flavor"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "adds moisture and richness to the casserole"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "adds a tangy flavor and creamy texture"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional, but adds a nice flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the flour, sugar, and cinnamon until well combined.",
+    "Add the softened butter to the dry ingredients and mix until the mixture resembles coarse crumbs.",
+    "Press the mixture evenly into the bottom of a 9x13 inch baking dish.",
+    "In a small bowl, whisk together the eggs, heavy cream, sour cream, and vanilla extract until smooth.",
+    "Pour the wet ingredients over the crust and smooth the top.",
+    "Bake the casserole for 35-40 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "comfort-food",
+    "high-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "melted-jammy-slovakian-butter-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-jammy-slovakian-butter-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "melted butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "butter",
+    "descriptor": "melted, jammy",
+    "dishForm": "Casserole"
+  }
+}
