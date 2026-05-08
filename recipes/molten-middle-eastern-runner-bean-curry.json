@@ -1,0 +1,113 @@
+{
+  "title": "Molten Middle Eastern Runner Bean Curry",
+  "description": "A pungent and flavorful curry featuring runner beans in a rich lacquer glaze, cooked to perfection in a tandoor clay pot. This macrobiotic friendly dish is perfect for a monsoon evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tandoor clay pot over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add minced garlic and grated ginger and cook for another minute.",
+    "Add the trimmed runner beans and cook for 5 minutes.",
+    "Add coriander powder, turmeric powder, and red chili powder and stir well.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry cook for 20 minutes.",
+    "Stir in the lacquer glaze and season with salt to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "monsoon-special",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "molten-middle-eastern-runner-bean-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-middle-eastern-runner-bean-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:47:25Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "runner beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "runner beans",
+    "descriptor": "Molten Spicy",
+    "dishForm": "Curry"
+  }
+}
