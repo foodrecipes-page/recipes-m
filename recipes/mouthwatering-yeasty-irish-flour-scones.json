@@ -1,0 +1,96 @@
+{
+  "title": "Mouthwatering Yeasty Irish Flour Scones",
+  "description": "These scones are a classic Irish dish featuring strong white flour and render-fat, making them a crowd-pleaser, and are also ayurvedic-sattvic-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/2 cup",
+      "notes": "or vegetable shortening"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour, yeast, salt, and sugar.",
+    "Add the rendered fat and use a pastry blender or fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Make a well in the center of the mixture and add the warm water, stirring with a fork until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough becomes smooth and elastic.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Gather the scraps, re-form the dough, and cut out additional scones.",
+    "Place the scones on a baking sheet lined with parchment paper, leaving about 1 inch of space between each scone.",
+    "Brush the tops of the scones with melted butter.",
+    "Bake the scones in the preheated oven for 15-20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "homemade",
+    "irish-classic",
+    "sattvic-friendly",
+    "traditional",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "mouthwatering-yeasty-irish-flour-scones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-yeasty-irish-flour-scones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:50:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "strong white flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "flour",
+    "descriptor": "mouthwatering yeasty",
+    "dishForm": "Scones"
+  }
+}
