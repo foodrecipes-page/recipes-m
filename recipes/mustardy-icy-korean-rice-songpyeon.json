@@ -1,0 +1,93 @@
+{
+  "title": "mustardy icy korean rice songpyeon",
+  "description": "a comforting korean jeolla dish featuring freshly chopped parsley, made with ayurvedic sattvic ingredients and a hint of mustard.",
+  "cuisine": "korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 piece",
+      "notes": "dried kelp"
+    }
+  ],
+  "instructions": [
+    "in a medium saucepan, combine the jasmine rice and 1 cup of water. Bring to a boil over high heat, then reduce the heat to low, cover, and simmer for 15 minutes.",
+    "in a small pan, toast the mustard seeds over low heat, stirring frequently, until fragrant and lightly browned.",
+    "in a blender or food processor, combine the toasted mustard seeds, sesame oil, soy milk, tofu, and chopped parsley. Blend until smooth.",
+    "add the blended mixture to the cooked jasmine rice and stir-fry over medium heat for 2-3 minutes.",
+    "add the kombu to the rice mixture and stir-fry for another minute.",
+    "transfer the rice mixture to a baking dish and broil for 5-7 minutes, or until the top is lightly browned and crispy.",
+    "remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "mustardy-icy-korean-rice-songpyeon",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-icy-korean-rice-songpyeon",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:49:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "ayurvedic-sattvic",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice",
+    "descriptor": "Mustardy Icy",
+    "dishForm": "Songpyeon"
+  }
+}
