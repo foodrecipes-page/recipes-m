@@ -1,0 +1,97 @@
+{
+  "title": "Mouthwatering Charred Indian Beef Curry",
+  "description": "A flavorful and spicy Tamil-inspired beef curry dish featuring charred and crumbly beef in a rich gravy, served with a beurre-monte sauce on a wooden board.",
+  "cuisine": "Indian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cubes",
+      "amount": "1 pound",
+      "notes": "preferably chuck or round cut"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat and sear the beef cubes until charred on all sides.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until it is lightly browned.",
+    "Add the chopped tomato, ginger paste, and garlic paste to the skillet and cook until the tomato is soft.",
+    "Add the curry powder to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the beef broth to the skillet and bring to a boil.",
+    "Return the beef to the skillet and simmer until it is cooked through and the sauce has thickened.",
+    "Stir in the beurre-monte sauce and season with salt to taste.",
+    "Serve the beef curry on a wooden board, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "curry-dishes",
+    "high-protein",
+    "indian-cuisine",
+    "post-workout-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "mouthwatering-charred-indian-beef-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-charred-indian-beef-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:33:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "beef gravy",
+    "diet": "satvik",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "beef",
+    "descriptor": "mouthwatering charred",
+    "dishForm": "Curry"
+  }
+}
