@@ -1,0 +1,99 @@
+{
+  "title": "Croatian Tortillas Tagine",
+  "description": "A nutty and gooey Croatian dish featuring tortillas cooked in a tagine, perfect for a lazy Sunday. This sugar-free-friendly recipe is a unique twist on traditional Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the chicken breast to the skillet and cook until browned on all sides.",
+    "Add the paprika and cumin to the skillet and stir to combine.",
+    "In a large tagine or Dutch oven, arrange 4 tortillas in the bottom.",
+    "Add the cooked chicken and onion mixture to the tagine.",
+    "Top with the remaining 4 tortillas and crumbled feta cheese.",
+    "Cover the tagine and bake for 25 minutes.",
+    "Remove the tagine from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "melted-gooey-croatian-tortillas-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-gooey-croatian-tortillas-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:11:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tortillas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tortillas",
+    "descriptor": "melted gooey",
+    "dishForm": "Tagine"
+  }
+}
