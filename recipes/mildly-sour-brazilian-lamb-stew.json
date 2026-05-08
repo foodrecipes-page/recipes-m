@@ -1,0 +1,106 @@
+{
+  "title": "Mildly Sour Brazilian Lamb Stew",
+  "description": "A dense and flavorful Brazilian stew made with lamb shanks and score fat, perfect for a family dinner. This dish is kid-friendly and kosher-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with salt and black pepper.",
+    "Heat the score fat in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, then remove and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the lime juice, tomato paste, and beef broth to the pot, stirring to combine.",
+    "Return the lamb shanks to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Add the potatoes and carrots to the pot and continue to braise for an additional 30 minutes.",
+    "Remove the pot from the oven and let the stew cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "family-friendly",
+    "kosher-friendly",
+    "lamb-based",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "mildly-sour-brazilian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-brazilian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:51:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "lamb shanks",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "lamb",
+    "descriptor": "mildly sour",
+    "dishForm": "Stew"
+  }
+}
