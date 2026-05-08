@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Blanched Vietnamese White Asparagus Bowl",
+  "description": "A light and fermented Vietnamese dish featuring white asparagus, perfect for the monsoon season, served in a Korean brass bowl and following ayurvedic rajasic friendly principles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fermented tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the salt to the boiling water and stir to dissolve.",
+    "Blanch the white asparagus in the salt water for 4 minutes.",
+    "Remove the asparagus from the water with a slotted spoon and rinse with cold water.",
+    "In a small bowl, whisk together the rice vinegar, sesame oil, garlic, and ginger.",
+    "In a Korean brass bowl, arrange the blanched asparagus.",
+    "Drizzle the vinegar mixture over the asparagus.",
+    "Top the asparagus with crumbled fermented tofu.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "monsoon-friendly",
+    "rajasic-friendly",
+    "vegetarian-option",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "mildly-blanched-vietnamese-white-asparagus-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-blanched-vietnamese-white-asparagus-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:13:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "white asparagus",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "white asparagus",
+    "descriptor": "mildly blanched",
+    "dishForm": "Bowl"
+  }
+}
