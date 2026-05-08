@@ -1,0 +1,96 @@
+{
+  "title": "Moonlit Vietnamese Reblochon Pho",
+  "description": "Floral, silky, crowd-pleaser Vietnamese dish featuring reblochon, mother-sauce-base, ayurvedic-sattvic-friendly, form=pho-bo, vessel=tagine-pot. Perfect for a comforting, yet elegant dinner. ",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Bone broth",
+      "amount": "4 cups",
+      "notes": "low-sodium store-bought or homemade"
+    },
+    {
+      "name": "Mother sauce base",
+      "amount": "1 cup",
+      "notes": "a mixture of fish sauce, soy sauce, lime juice, and chili flakes"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 in",
+      "notes": "fresh, peeled, and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "cilantro",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Combine mother sauce base, bone broth, and sliced ginger in a large tagine pot over low heat.",
+    "Bring the mixture to a gentle simmer and cook for 20 minutes, or until the flavors have melded together.",
+    "Add sliced onion to the pot and cook for an additional 5 minutes, or until softened.",
+    "Cook rice noodles according to package instructions and set aside.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add reblochon cheese to the pot and stir until melted and smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the pho hot, garnished with chopped cilantro and a squeeze of lime juice.",
+    "Ladle cooked noodles into bowls and pour the hot broth over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 39,
+    "carbs": 34,
+    "fat": 34
+  },
+  "slug": "moonlit-vietnamese-reblochon-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moonlit-vietnamese-reblochon-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "reblochon",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Moonlit",
+    "dishForm": "Pho"
+  }
+}

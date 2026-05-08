@@ -1,0 +1,64 @@
+{
+  "title": "Mildly Fried Italian Chicken Saltimbocca",
+  "description": "Rich, fluffy, quick-fix Italian (Sardinian) dish featuring chicken, pressure-cooked to perfection, served in a banana leaf. This paleo-friendly dish is perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "4",
+      "notes": "1 pound or 1.8 kg, cut into thin cutlets"
+    }
+  ],
+  "instructions": [
+    "Season the chicken cutlets with salt and pepper. ",
+    "In a pan, heat 2 tablespoons of olive oil over medium-high heat. ",
+    "Add the chicken cutlets to the pan and cook for 2 minutes on each side. ",
+    "Transfer the chicken to a pressure cooker and add 1 cup of chicken broth and 1 tablespoon of lemon juice. ",
+    "Close the lid of the pressure cooker and cook for 10 minutes. ",
+    "While the chicken is cooking, slice the prosciutto and fresh sage leaves into thin strips. ",
+    "Prepare the banana leaves by cutting a piece large enough to wrap the chicken. ",
+    "After the chicken has cooked, remove it from the pressure cooker and wrap it in the banana leaf with the prosciutto and sage. ",
+    "Return the chicken to the pressure cooker and cook for an additional 5 minutes. ",
+    "Serve the chicken hot, garnished with additional sage if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "paleo-friendly",
+    "pressure-cooker",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "mildly-fried-italian-chicken-chicken-saltimbocca",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-fried-italian-chicken-chicken-saltimbocca",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chicken",
+    "diet": "paleo",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Fried",
+    "dishForm": "Chicken Saltimbocca"
+  }
+}
