@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Spicy Ethiopian Lentils Tibs",
+  "description": "A comforting Ethiopian dish featuring chilli bean paste and high protein lentils, served in a yeasty and glassy jelly form, this tibs recipe is perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat and saute the onion until it is translucent.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Stir in the chilli bean paste and berbere spice and cook for 1 minute.",
+    "Add the lentils, water, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the lentils are tender.",
+    "Use a spoon to deglaze the fond from the bottom of the pot and stir it back into the lentils.",
+    "In a small bowl, mix the yeast with 1 tablespoon of warm water and let it sit for 5 minutes, until it is activated and frothy.",
+    "Stir the yeast mixture into the lentils and continue to simmer, uncovered, for 5 minutes, or until the mixture has thickened and formed a glassy jelly.",
+    "Serve the tibs hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mildly-spicy-ethiopian-lentils-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-ethiopian-lentils-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Tibs"
+  }
+}
