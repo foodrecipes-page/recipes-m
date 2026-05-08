@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Tangy Korean Corn Ssam",
+  "description": "A tangy and aerated Korean dish featuring corn flour and pasta water emulsion, served in a salt block vessel, perfect for kids and vegan friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn flour",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Letuce leaves",
+      "amount": "12 leaves"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together corn flour, rice vinegar, gochujang, sesame oil, salt, and sugar until smooth.",
+    "Add pasta water to the bowl and whisk until a thick emulsion forms.",
+    "Stir in chopped scallions and toasted sesame seeds.",
+    "Heat the mixture over low heat, stirring constantly, until it reaches 165 degrees Fahrenheit.",
+    "Remove from heat and let cool to room temperature.",
+    "Prepare the salt block vessel by rinsing it with water and drying it with a towel.",
+    "Spoon the cooled corn mixture onto the salt block vessel.",
+    "Garnish with additional scallions and sesame seeds if desired.",
+    "Serve the ssam in lettuce leaves and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "kid-friendly",
+    "korean-food",
+    "snack-time",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "mildly-tangy-korean-corn-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-tangy-korean-corn-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:36:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "corn flour",
+    "diet": "vegan",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "corn",
+    "descriptor": "mildly tangy",
+    "dishForm": "Ssam"
+  }
+}
