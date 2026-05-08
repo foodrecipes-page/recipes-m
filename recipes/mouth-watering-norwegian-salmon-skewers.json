@@ -1,0 +1,101 @@
+{
+  "title": "Norwegian Salmon Skewers",
+  "description": "A flavorful and healthy Norwegian dish featuring char-grilled salmon, Thai green curry paste, and a low-fat friendly profile, perfect for a brunch mood. The combination of cultured and molten flavors creates a mouth-watering experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Soak the bamboo skewers in water for 10 minutes to prevent burning.",
+    "Thread the salmon pieces onto the skewers, leaving a small space between each piece.",
+    "Mix the Thai green curry paste, coconut milk, fish sauce, brown sugar, and lemon juice in a bowl to create the marinade.",
+    "Brush the marinade onto the salmon pieces, making sure they are fully coated.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "grilled",
+    "low-fat",
+    "norwegian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "mouth-watering-norwegian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouth-watering-norwegian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:21:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "mouth watering",
+    "dishForm": "Skewers"
+  }
+}
