@@ -1,0 +1,121 @@
+{
+  "title": "Mustardy Crispy Jamaican Pork Fried Rice",
+  "description": "A flavorful and spicy Jamaican-style fried rice dish loaded with crispy pork tenderloin and a tangy mustard sauce. Serve in a traditional cazuela for a show-stopping meal.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": "1 pound"
+    },
+    {
+      "name": "rice",
+      "amount": "2",
+      "notes": "uncooked"
+    },
+    {
+      "name": "oil",
+      "amount": "2",
+      "notes": "tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "small"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2",
+      "notes": "tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1",
+      "notes": "sprig"
+    },
+    {
+      "name": "allspice",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1",
+      "notes": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a cazuela over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced scotch bonnet peppers and cook for an additional minute.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork tenderloin and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the cazuela and set aside.",
+    "Add the remaining 1 tablespoon of oil to the cazuela.",
+    "Add the cooked rice to the cazuela and stir to combine with the oil and spices.",
+    "Add the coconut milk and stir to combine.",
+    "Return the pork to the cazuela and stir to combine.",
+    "Season with salt, black pepper, and allspice.",
+    "Serve the Jamaican pork fried rice hot, garnished with a sprig of thyme and a drizzle of mustard sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "caribbean",
+    "fried-rice",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "pork-tenderloin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "mustardy-crispy-jamaican-pork-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crispy-jamaican-pork-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:53:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "mustardy crispy",
+    "dishForm": "Fried-Rice"
+  }
+}

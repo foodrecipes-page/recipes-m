@@ -1,0 +1,118 @@
+{
+  "title": "Mustardy Venezuelan Pepper Patties",
+  "description": "Snappy and flavorful patties from Venezuela, featuring a tangy mustard flavor and a hint of fermentation.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "20% fat content"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mustard powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for binding"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "for binding"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tbsp",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground beef, diced onion, minced garlic, mustard powder, cumin, chili powder, salt, and black pepper.",
+    "Mix well until just combined, being careful not to overmix.",
+    "Add flour and mix until just combined.",
+    "Gradually add water and mix until a sticky dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a patty.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add a small amount of oil to the skillet and swirl to coat.",
+    "Add 4 patties to the skillet and cook for 3-4 minutes per side, or until golden brown and cooked through.",
+    "Repeat with remaining patties.",
+    "Serve hot, garnished with cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-flavor",
+    "flexitarian-friendly",
+    "high-protein",
+    "one-pan",
+    "snappy",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "mustardy-venezuelan-pepper-patties",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-venezuelan-pepper-patties",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:54:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "mustard powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Pepper",
+    "descriptor": "Mustardy",
+    "dishForm": "Patties"
+  }
+}
