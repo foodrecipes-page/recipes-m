@@ -1,0 +1,111 @@
+{
+  "title": "Molten Nutty Moroccan Fish Harira",
+  "description": "A pescatarian-friendly Moroccan stew featuring malt vinegar and nutty flavors, served en-croute, perfect for a monsoon evening. This dish is a twist on the traditional Harira, with a molten center and a blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "for en-croute crust"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the sliced almonds and cook for an additional 2 minutes, stirring frequently.",
+    "In a large bowl, whisk together the chicken broth, malt vinegar, paprika, and cumin.",
+    "Add the cod fillets to the bowl and marinate for at least 10 minutes.",
+    "Roll out the flour to a thickness of about 1/8 inch and cut into 4 equal pieces.",
+    "Place a piece of the cod in the center of each piece of flour, spoon some of the almond mixture on top, and brush the edges with the beaten egg.",
+    "Fold the flour over the filling to form a triangle or square shape, pressing the edges to seal.",
+    "Place the en-croute fish on a baking sheet lined with parchment paper and brush the tops with the remaining egg wash.",
+    "Bake for 20 minutes, or until the crust is golden brown and the fish is cooked through."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "en-croute",
+    "fish",
+    "monsoon",
+    "moroccan",
+    "nutty",
+    "pescatarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "molten-nutty-moroccan-fish-harira",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-nutty-moroccan-fish-harira",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "malt vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "molten nutty",
+    "dishForm": "Harira"
+  }
+}

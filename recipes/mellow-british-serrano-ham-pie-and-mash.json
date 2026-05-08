@@ -1,0 +1,105 @@
+{
+  "title": "Mellow British Serrano Ham Pie And Mash",
+  "description": "A comforting British dish featuring serrano ham in a pie and mash form, cooked in a cataplana vessel with a sour and shaggy texture, kosher-friendly and perfect for a cold evening.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the oil over medium heat and saute the onions and carrots until they are tender.",
+    "Add the diced serrano ham to the pan and cook for an additional 2 minutes.",
+    "In a large bowl, combine the flour, chicken broth, apple cider vinegar, salt, and black pepper, and stir until a dough forms.",
+    "Roll out the dough and place it in a cataplana vessel, trimming the edges to fit.",
+    "Fill the dough-lined vessel with the ham and vegetable mixture, and cover with the remaining dough.",
+    "Crimp the edges to seal the pie and cut a few slits in the top to allow steam to escape.",
+    "Place the vessel in the oven and bake for 35 minutes, or until the crust is golden brown.",
+    "While the pie is baking, boil the chopped potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash with a fork, adding a little bit of oil or broth if needed to achieve a creamy consistency.",
+    "Serve the pie with the mashed potatoes and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-british-serrano-ham-pie-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-british-serrano-ham-pie-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "serrano ham",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Mellow Comforting",
+    "dishForm": "Pie And Mash"
+  }
+}
