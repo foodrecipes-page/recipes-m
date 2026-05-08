@@ -1,0 +1,98 @@
+{
+  "title": "Mighty Smoky Brazilian Ground Beef Skewers",
+  "description": "Smoky and juicy Brazilian dish featuring ground beef, perfect for adventurous eaters and high protein diets.",
+  "cuisine": "brazilian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375 degrees Fahrenheit.",
+    "In a large bowl, combine ground beef, smoked paprika, garlic powder, onion powder, salt, black pepper, and cumin, mixing well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Thread small portions of the beef mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with additional salt and pepper if desired.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, or until the beef reaches an internal temperature of 160 degrees Fahrenheit.",
+    "While the skewers are cooking, place the wood chips in a smoker box or directly on the grill to infuse a smoky flavor.",
+    "Once the skewers are cooked, remove them from the grill and let rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "ground-beef",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "mighty-smoky-brazilian-ground-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-smoky-brazilian-ground-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "ground beef",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "ground beef",
+    "descriptor": "mighty smoky",
+    "dishForm": "Skewers"
+  }
+}

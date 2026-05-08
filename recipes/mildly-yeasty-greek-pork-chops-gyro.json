@@ -1,0 +1,112 @@
+{
+  "title": "Mildly Yeasty Greek Pork Chops Gyro",
+  "description": "A kid-friendly Greek dish featuring pork chops in a yeasty and velvety gyro, made with ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and warm water, stirring to dissolve the yeast.",
+    "Let the yeast mixture sit for 5 minutes until it becomes frothy.",
+    "In a large bowl, whisk together yogurt, lemon juice, olive oil, garlic powder, salt, and black pepper.",
+    "Add the yeast mixture to the bowl and stir to combine.",
+    "Add the pork chops to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat and cook the pork chops for 5-6 minutes per side.",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the gyro by slicing the cooked pork chops and placing them in the pita bread with tomato, red onion, and a dollop of the yeast sauce.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-food",
+    "kid-friendly",
+    "velvety",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mildly-yeasty-greek-pork-chops-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-yeasty-greek-pork-chops-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "pork chops",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork chops",
+    "descriptor": "Mildly Yeasty",
+    "dishForm": "Gyro"
+  }
+}
