@@ -1,0 +1,115 @@
+{
+  "title": "Magical Crunchy Algerian Fideo Pasta",
+  "description": "A rich and crunchy Algerian dish featuring fideo pasta, this recipe is a crowd-pleaser and can be served in a mason jar, perfect for a shojin-friendly meal",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo pasta",
+      "amount": "8 oz",
+      "notes": "thin and short"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Cook the fideo pasta according to package instructions and set aside",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion until translucent",
+    "Add the garlic and cook for an additional minute",
+    "Stir in the tomato paste and cook for 1-2 minutes",
+    "Add the vegetable broth, chickpeas, paprika, salt, and black pepper, and bring to a simmer",
+    "Reduce the heat to low and let cook for 10-15 minutes",
+    "In a bain-marie, combine the cooked fideo pasta and the sauce from the skillet",
+    "Top with sliced almonds and chopped parsley",
+    "Transfer the mixture to a mason jar and bake in the preheated oven for 10-12 minutes, or until the top is crunchy and golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "crunchy-top",
+    "fideo-pasta",
+    "mason-jar-recipe",
+    "shojin-friendly",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "magical-crunchy-algerian-fideo-pasta",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-crunchy-algerian-fideo-pasta",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:08:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "fideo",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fideo",
+    "descriptor": "Magical Crunchy",
+    "dishForm": "Pasta"
+  }
+}
