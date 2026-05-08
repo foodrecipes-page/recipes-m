@@ -1,0 +1,92 @@
+{
+  "title": "Malty Juicy Slovakian Pork Dumplings",
+  "description": "A traditional Slovakian dish featuring malty and juicy pork dumplings, seasoned with sea salt and served in a light brine broth. This recipe is a hearty and flavorful representation of Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "brine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, flour, malt syrup, sea salt, and black pepper.",
+    "Mix the ingredients together until they are just combined, being careful not to overmix.",
+    "Add the egg to the mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a ball.",
+    "Bring the brine to a boil in a large pot and add the caraway seeds.",
+    "Carefully add the dumplings to the boiling brine and cook for 10 minutes.",
+    "Remove the dumplings from the brine with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "one-pot",
+    "pork-recipe",
+    "slovakian-cuisine",
+    "traditional-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "malty-juicy-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:03:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "sea salt",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "malty juicy",
+    "dishForm": "Dumplings"
+  }
+}
