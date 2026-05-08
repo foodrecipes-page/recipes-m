@@ -1,0 +1,102 @@
+{
+  "title": "Mighty Spicy Scottish Mung Bean Sprout Wrap",
+  "description": "A spicy and chewy Scottish dish featuring mung bean sprouts, perfect for a hangover cure, wrapped in a low-carb friendly ti leaf wrap. This dish is a unique blend of Scottish and Asian flavors.",
+  "cuisine": "Scottish",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "scottish bonnet peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung bean sprouts and drain well.",
+    "In a large pan, heat the sesame oil over medium heat.",
+    "Add the diced scottish bonnet peppers and cook until tender.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the mung bean sprouts and cook until they start to soften.",
+    "In a small bowl, whisk together the soy sauce, salt, and black pepper.",
+    "Pour the soy sauce mixture over the mung bean sprouts and stir to combine.",
+    "Cook for an additional 2 minutes, until the sprouts are tender but still crisp.",
+    "Meanwhile, prepare the ti leaves by washing and drying them.",
+    "To assemble the wrap, place a portion of the mung bean sprout mixture onto a ti leaf and fold the leaf to enclose."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "lunch",
+    "scottish",
+    "spicy",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "mighty-spicy-scottish-mung-bean-sprout-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-spicy-scottish-mung-bean-sprout-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:33:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "low-carb",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "mighty spicy",
+    "dishForm": "Wrap"
+  }
+}
