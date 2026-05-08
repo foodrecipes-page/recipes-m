@@ -1,0 +1,93 @@
+{
+  "title": "Magically Crisp Norwegian Ham Skewers",
+  "description": "A jammy and crisp Norwegian dish featuring ham, perfect for a date night, with the added benefit of being high-protein-friendly thanks to the inclusion of kombu-cold-extract.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian ham",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together kombu-cold-extract, brown sugar, soy sauce, honey, garlic powder, and black pepper.",
+    "Add the sliced Norwegian ham to the bowl and toss to coat evenly with the marinade.",
+    "Thread 3-4 pieces of the marinated ham onto each bamboo skewer.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 15-20 minutes or until caramelized and crispy.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving.",
+    "Serve the Magically Crisp Norwegian Ham Skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "norwegian-cuisine",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "magically-crisp-norwegian-ham-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-crisp-norwegian-ham-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ham",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "ham",
+    "descriptor": "Magically Crisp",
+    "dishForm": "Skewers"
+  }
+}
