@@ -1,0 +1,109 @@
+{
+  "title": "Mellow Creamy Chinese Suet Dumplings",
+  "description": "A comforting and earthy Xinjiang dish featuring suet, perfect for a lazy Sunday, with a creamy sauce and no onions or garlic, making it friendly to all palates. This dish is a traditional Chinese recipe with a twist to accommodate sensitive tastes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or mutton suet, finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine the suet, flour, and water in a large mixing bowl to form a dough.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of sesame oil in the center of each dough circle.",
+    "Add a few slices of mushrooms and a sprinkle of grated ginger on top of the oil.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Place the dumplings in a steamer lined with parchment paper, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 15-20 minutes, or until they are cooked through.",
+    "Meanwhile, combine the soy sauce, cream, salt, and black pepper in a small saucepan and bring to a simmer over low heat.",
+    "Serve the dumplings with the creamy sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "lazy-sunday",
+    "one-pot",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "mellow-creamy-chinese-suet-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-creamy-chinese-suet-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "suet",
+    "diet": "no-onion-no-garlic",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "suet",
+    "descriptor": "mellow creamy",
+    "dishForm": "Dumplings"
+  }
+}
