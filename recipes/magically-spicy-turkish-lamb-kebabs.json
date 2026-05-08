@@ -1,0 +1,99 @@
+{
+  "title": "Magically Spicy Turkish Lamb Kebabs",
+  "description": "Tangy and shattering Turkish dish featuring dried red chillies, perfect for a date night, this recipe is gluten-free friendly and offers a unique flavor experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gluten-free bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and crushed dried red chillies.",
+    "Add the lamb cubes to the bowl and mix until they are well coated with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the lamb kebabs for 10 minutes, turning occasionally, until they are cooked through.",
+    "Toast the gluten-free bread slices.",
+    "Serve the lamb kebabs with toasted bread and garnish with chopped fresh parsley.",
+    "Offer additional lemon wedges on the side for those who prefer extra tanginess."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled-meats",
+    "lamb-recipes",
+    "spicy-food",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "magically-spicy-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-spicy-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:12:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "dried red chillies",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Magically Spicy",
+    "dishForm": "Kebabs"
+  }
+}
