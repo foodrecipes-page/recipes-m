@@ -1,0 +1,101 @@
+{
+  "title": "Mouthwatering Smoky Korean Green Pepper Tang",
+  "description": "A smoky and crisp Korean dish featuring green pepper, infused with a special oil, and suitable for a low-sodium diet, served as a tang.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced green peppers and cook until they start to soften.",
+    "In a small bowl, whisk together the gochujang, soy sauce, and brown sugar.",
+    "Pour the gochujang mixture over the green peppers and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with black pepper to taste.",
+    "Garnish with toasted sesame seeds and chopped scallions.",
+    "Serve the tang hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "low-sodium",
+    "smoky",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mouthwatering-smoky-korean-green-pepper-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-smoky-korean-green-pepper-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:53:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "green pepper",
+    "diet": "low-sodium",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "green pepper",
+    "descriptor": "Mouthwatering Smoky",
+    "dishForm": "Tang"
+  }
+}
