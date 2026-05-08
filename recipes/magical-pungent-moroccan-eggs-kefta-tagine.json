@@ -1,0 +1,116 @@
+{
+  "title": "Magical Pungent Moroccan Eggs Kefta Tagine",
+  "description": "A traditional Moroccan dish featuring free-range eggs and kefta, made with low-sodium ingredients and a blend of aromatic spices, resulting in a pungent and crumbly texture. This recipe is perfect for a special occasion or a show-off dinner party.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "beaten and whisked"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, onion, garlic, ginger, cumin, paprika, cayenne pepper, salt, and black pepper, and mix well with your hands until just combined.",
+    "Divide the mixture into 6 equal portions and shape each portion into a small oval kefta.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the kefta to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes.",
+    "While the kefta is baking, whisk the eggs in a bowl and season with salt and pepper.",
+    "Remove the skillet from the oven and pour the whisked eggs over the kefta.",
+    "Return the skillet to the oven and bake for an additional 10 minutes, or until the eggs are set and the kefta is cooked through.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-sodium",
+    "moroccan-cuisine",
+    "one-pan",
+    "show-off-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "magical-pungent-moroccan-eggs-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-pungent-moroccan-eggs-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:37:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "eggs",
+    "descriptor": "Magical Pungent",
+    "dishForm": "Kefta Tagine"
+  }
+}
