@@ -1,0 +1,106 @@
+{
+  "title": "Melted Smoky Brazilian Tofu Casserole",
+  "description": "A plant-based twist on a traditional Brazilian dish, featuring smoky paprika and a gooey, fermented flavor profile, all wrapped up in a papillote for a nostalgic and comforting meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "1 sheet",
+      "notes": "for papillote"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the smoky paprika, nutritional yeast, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cubed tofu to the skillet and stir to coat with the spice mixture.",
+    "Add the canned diced tomatoes to the skillet and stir to combine.",
+    "Cut a piece of parchment paper into a large rectangle and place the tofu mixture in the center of the paper.",
+    "Fold the parchment paper over the tofu mixture to create a papillote and seal the edges by folding and pressing.",
+    "Place the papillote on a baking sheet and bake for 30 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes before serving.",
+    "Serve the melted smoky Brazilian tofu casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "comfort-food",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "melted-smoky-brazilian-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-smoky-brazilian-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:51:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "smoky paprika",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "Melted Smoky",
+    "dishForm": "Casserole"
+  }
+}
