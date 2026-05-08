@@ -1,0 +1,97 @@
+{
+  "title": "Magnificently Grilled Syrian Wagyu Kebabs",
+  "description": "A traditional Syrian dish featuring Wagyu beef, this recipe is a flavorful and adventurous kebab dish, perfect for a dinner party. The combination of spices and grill marks creates a jammy and shaggy texture.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, sumac, cumin, paprika, salt, and black pepper.",
+    "Add the Wagyu beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 130 degrees Fahrenheit for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley and a side of grilled vegetables or pita bread.",
+    "Traditionally, Syrian kebabs are served with a side of ambah, a spicy mango pickle, for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-meat",
+    "kebab-recipe",
+    "syrian-cuisine",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "magnificently-grilled-syrian-wagyu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-grilled-syrian-wagyu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:43:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "wagyu",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "wagyu",
+    "descriptor": "magnificently grilled",
+    "dishForm": "Kebabs"
+  }
+}
