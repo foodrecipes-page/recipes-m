@@ -1,0 +1,95 @@
+{
+  "title": "Molten Buttery American Puff Pastry Pie",
+  "description": "A buttery and molten one-pot American dish featuring puff pastry, score-fat, and vegan-friendly ingredients, perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, whisk together the melted vegan butter, score-fat, flour, salt, black pepper, and nutritional yeast.",
+    "Spread the butter mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Place the pie on a baking sheet lined with parchment paper and brush the top with the plant-based milk.",
+    "Bake the pie for 25-30 minutes, or until the pastry is golden brown and the filling is molten.",
+    "Remove the pie from the oven and let it cool for 5 minutes before serving.",
+    "Serve the pie warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "one-pot",
+    "plant-based",
+    "puff-pastry",
+    "score-fat",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "molten-buttery-american-puff-pastry-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-buttery-american-puff-pastry-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "score-fat",
+    "primaryIngredient": "puff pastry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "puff pastry",
+    "descriptor": "Molten Buttery",
+    "dishForm": "Pie"
+  }
+}
