@@ -1,0 +1,103 @@
+{
+  "title": "Mellow Roasted Polish Chicken Bowl",
+  "description": "A solo dinner dish featuring roasted chicken in a silky sauce, made with chicken stock concentrate and candy for a sweet and savory flavor, and is plant-based friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "such as gummy bears or candy melts"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chicken stock concentrate, olive oil, salt, and black pepper.",
+    "Add the chopped onion, minced garlic, chopped carrots, and chopped potatoes to the bowl and toss to coat.",
+    "Add the chicken breast to the bowl and toss to coat with the sauce.",
+    "Transfer the chicken and vegetables to a baking dish and roast in the oven for 30 minutes.",
+    "After 30 minutes, add the candy to the baking dish and continue to roast for an additional 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the chicken and vegetables in a bowl and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "plant-based",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-roasted-polish-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-polish-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:04:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Mellow Roasted",
+    "dishForm": "Bowl"
+  }
+}
