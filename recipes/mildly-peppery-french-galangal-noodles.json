@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Peppery French Galangal Noodles",
+  "description": "A satvik-friendly French dish featuring galangal and ferment-kimchi, served in a bento-box, this recipe combines peppery and silky textures for an energizing meal.",
+  "cuisine": "French",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice-based"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and galangal until fragrant.",
+    "Add the chopped kimchi to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to combine with the kimchi and galangal mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodle mixture to a bento-box and garnish with chopped green onions.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-asian-fusion",
+    "high-fiber",
+    "one-pan",
+    "peppery",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "mildly-peppery-french-galangal-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-peppery-french-galangal-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:13:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "galangal-kha",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "galangal",
+    "descriptor": "mildly peppery",
+    "dishForm": "Noodles"
+  }
+}

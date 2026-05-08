@@ -1,0 +1,91 @@
+{
+  "title": "Molten Spicy Australian Duck with Pistachio Wrap",
+  "description": "A spicy, molten Australian dish featuring pistachio and nuka-pickle, served in a ti-leaf wrap.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Duck Breast",
+      "amount": "4"
+    },
+    {
+      "name": "Spicy Nuka-Pickle Relish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Pistachio Pesto",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ti-Leaf Wraps",
+      "amount": "4"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped 1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck breast with salt and black pepper, and cook for 5 minutes on each side.",
+    "Transfer the duck to a baking sheet and roast for 12-15 minutes, or until cooked to your liking.",
+    "Meanwhile, warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread a tablespoon of olive oil on each wrap, then top with a spoonful of spicy nuka-pickle relish.",
+    "Place a cooked duck breast on each wrap, followed by a spoonful of fresh pistachio pesto.",
+    "Sprinkle chopped cilantro over the top of each wrap.",
+    "Place the wraps under the broiler for 1-2 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "duck",
+    "high-protein",
+    "molten",
+    "pistachio",
+    "spicy",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "molten-spicy-australian-duck-with-pistachio-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-spicy-australian-duck-with-pistachio-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:14:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "pistachio",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "duck with pistachio",
+    "descriptor": "Molten Spicy",
+    "dishForm": "Wrap"
+  }
+}
