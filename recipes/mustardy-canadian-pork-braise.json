@@ -1,0 +1,109 @@
+{
+  "title": "Mustardy Canadian Pork Braise",
+  "description": "A rich, savory pork braise featuring a tangy mustard sauce, crispy Canadian bacon, and a drizzle of sesame sauce.",
+  "cuisine": "Canadien",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": "Thicker cuts work best"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "Grainy"
+    },
+    {
+      "name": "Sesame sauce",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Reduced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted"
+    }
+  ],
+  "instructions": [
+    "Season the pork cubes with salt, black pepper, and caraway seeds.",
+    "Heat a large Dutch oven over medium-high heat. Sear the pork cubes until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside. Reduce heat to medium and cook the sliced onion until caramelized, about 10 minutes.",
+    "Add the minced garlic to the pot and cook for 1-2 minutes, until fragrant.",
+    "Add the browned pork back into the pot, along with the Dijon mustard and balsamic vinegar. Stir to combine.",
+    "Cover the pot and transfer it to the preheated oven. Braise the pork for 2 1/2 to 3 hours, or until tender and easily shredded.",
+    "Remove the pot from the oven and stir in the sesame sauce. Taste and adjust the seasoning as needed.",
+    "Serve the pork with crispy Canadian bacon on top, garnished with fresh parsley or thyme if desired.",
+    "Drizzle the remaining sesame sauce over the top of the dish, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "canadian",
+    "low-sodium",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "mustardy-canadian-pork-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-canadian-pork-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T21:48:46Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Pork",
+    "descriptor": "Mustardy",
+    "dishForm": "Braise"
+  }
+}
