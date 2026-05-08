@@ -1,0 +1,98 @@
+{
+  "title": "Molten Thai Pistachio Satay",
+  "description": "A quick and flavorful Thai dish featuring unsalted pistachio and herbal notes, perfect for a weeknight dinner. This Whole30-friendly recipe uses spherification for a unique twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, fish sauce, lime juice, grated ginger, and garlic in a blender and puree until smooth.",
+    "Heat the mixture in a saucepan over medium heat until warm.",
+    "Stir in chopped pistachio and cook for 2 minutes.",
+    "Remove from heat and stir in chopped Thai basil.",
+    "Mix sodium alginate with water in a separate bowl.",
+    "Drop the pistachio mixture by spoonfuls into the alginate bath.",
+    "Let it sit for 2 minutes to allow spherification to occur.",
+    "Remove the satay from the bath with a slotted spoon and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herbal",
+    "quick-fix",
+    "spherify",
+    "thai-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "molten-thai-pistachio-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-thai-pistachio-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:17:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "whole30",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pistachio",
+    "descriptor": "molten herbal",
+    "dishForm": "Satay"
+  }
+}
