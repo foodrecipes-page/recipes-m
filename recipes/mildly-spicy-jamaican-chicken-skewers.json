@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Spicy Jamaican Chicken Skewers",
+  "description": "A citrusy and comforting Jamaican dish featuring horseradish and grilled to perfection on binchotan charcoal, this recipe is diabetic-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "horseradish",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, horseradish, scotch bonnet peppers, garlic, thyme, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh thyme and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "mildly-spicy-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:06:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "horseradish",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly spicy",
+    "dishForm": "Skewers"
+  }
+}
