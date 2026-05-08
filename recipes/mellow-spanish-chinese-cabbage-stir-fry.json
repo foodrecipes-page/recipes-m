@@ -1,0 +1,95 @@
+{
+  "title": "Mellow Spanish Chinese Cabbage Stir Fry",
+  "description": "A plant-based friendly Spanish dish featuring Chinese cabbage, cooked to perfection in a bamboo steamer and stir fried with a blend of spices, this recipe is a cultural fusion of Spanish and Chinese cuisine, providing a comforting and springy meal.",
+  "cuisine": "Spanish Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped Chinese cabbage and cook for 2 minutes until it starts to wilt.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the lemon juice and stir to combine.",
+    "Add the halved cherry tomatoes and cook for an additional 2 minutes until the cabbage is tender.",
+    "Transfer the mixture to a bamboo steamer and steam for 5 minutes until the flavors have melded together.",
+    "Serve the stir fry hot, garnished with additional cherry tomatoes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "gluten-free",
+    "plant-based",
+    "spanish-cuisine",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "mellow-spanish-chinese-cabbage-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-spanish-chinese-cabbage-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:31:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chinese cabbage",
+    "descriptor": "mellow springy",
+    "dishForm": "Stir-fry"
+  }
+}
