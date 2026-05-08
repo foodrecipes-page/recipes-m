@@ -1,0 +1,103 @@
+{
+  "title": "mysterious algerian kabanos tagine",
+  "description": "a resinous, glassy-jelly dish featuring polish kabanos, shio-cure, and halal-friendly ingredients.",
+  "cuisine": "algerian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "400g",
+      "notes": "polish, halal-friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "10g",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "10g",
+      "notes": null
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml",
+      "notes": "halal-friendly"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large pan over medium heat",
+    "add the sliced onions and cook until softened, about 8 minutes",
+    "add the minced garlic and cook for 1 minute",
+    "add the chopped kabanos sausage and cook until browned, about 5 minutes",
+    "add the cumin, coriander, and paprika, and stir to combine",
+    "add the canned diced tomatoes and chicken broth, and stir to combine",
+    "bring the tagine to a simmer and cook for 20 minutes",
+    "season with salt to taste",
+    "serve hot, garnished with fresh parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mysterious-algerian-kabanos-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mysterious-algerian-kabanos-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:47:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "polish kabanos",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Kabanos",
+    "descriptor": "Mysterious",
+    "dishForm": "Tagine"
+  }
+}
