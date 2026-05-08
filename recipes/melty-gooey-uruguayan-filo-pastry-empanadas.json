@@ -1,0 +1,103 @@
+{
+  "title": "Melty Gooey Uruguayan Filo Pastry Empanadas",
+  "description": "A smoky and gooey Uruguayan dish featuring filo pastry and long fermentation dough, perfect for a vegan friendly meal option.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Vegan Mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Long Fermentation Dough",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the filo pastry and cut into squares.",
+    "In a bowl, mix together the shredded vegan mozzarella, smoked paprika, olive oil, chopped onion, minced garlic, salt, and black pepper.",
+    "Place a spoonful of the mozzarella mixture onto the center of each filo pastry square.",
+    "Fold the filo pastry into triangles and press the edges to seal.",
+    "Place the empanadas onto a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little bit of olive oil.",
+    "Bake the empanadas in the preheated oven for 25 minutes, or until golden brown.",
+    "While the empanadas are baking, roll out the long fermentation dough and cut into strips.",
+    "After the empanadas have baked for 20 minutes, place the strips of long fermentation dough on top of the empanadas.",
+    "Return the empanadas to the oven and bake for an additional 5 minutes, or until the dough is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "filo-pastry",
+    "gooey",
+    "long-fermentation",
+    "smoky",
+    "uruguayan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "melty-gooey-uruguayan-filo-pastry-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-gooey-uruguayan-filo-pastry-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:59:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "filo pastry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "filo pastry",
+    "descriptor": "Melty Gooey",
+    "dishForm": "Empanadas"
+  }
+}
