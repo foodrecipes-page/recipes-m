@@ -1,0 +1,93 @@
+{
+  "title": "Mellow Moist Fujian Mushrooms Mu Shu",
+  "description": "A jammy and light Chinese dish featuring English mustard, perfect for midnight cravings, with an ovo-vegetarian friendly twist in the form of mu-shu.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fujian mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mu-shu pancakes",
+      "amount": "4 pancakes"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium heat.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "In a small bowl, whisk together the English mustard, soy sauce, and sesame oil.",
+    "Pour the mustard mixture over the mushrooms and stir to combine.",
+    "Push the mushrooms to one side of the wok, then add a little more oil if necessary and scramble in the eggs.",
+    "Mix the eggs with the mushrooms and cook until the eggs are set.",
+    "Stir in the chopped green onions.",
+    "Warm the mu-shu pancakes by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the mu-shu by spooning the mushroom and egg mixture onto a pancake and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "easy-meals",
+    "midnight-cravings",
+    "mu-shu",
+    "ovo-vegetarian",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "mellow-moist-fujian-mushrooms-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-moist-fujian-mushrooms-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:56:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "emulsify",
+    "primaryIngredient": "english mustard",
+    "diet": "ovo-vegetarian",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Mellow Moist",
+    "dishForm": "Mu Shu"
+  }
+}
