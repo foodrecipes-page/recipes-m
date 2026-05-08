@@ -1,0 +1,94 @@
+{
+  "title": "Mildly Buttery Indian Bread Toast",
+  "description": "A buttery and pillowy Indian dish featuring toast, made with a sous-vide method and suitable for a Buddhist temple setting.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 160 degrees Fahrenheit.",
+    "Butter one side of each bread slice.",
+    "Place the bread slices in a single layer in the sous-vide container.",
+    "Drizzle the ghee over the bread slices.",
+    "Sprinkle the salt, black pepper, green chili, and coriander leaves over the bread.",
+    "Seal the container and cook for 30 minutes.",
+    "Remove the bread from the container and squeeze the lemon juice over it.",
+    "Serve the toast warm.",
+    "Garnish with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "buddhist-friendly",
+    "indian-food",
+    "sous-vide-recipes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-buttery-indian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-buttery-indian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:48:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "toast",
+    "diet": "buddhist-temple",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bread",
+    "descriptor": "mildly buttery",
+    "dishForm": "Toast"
+  }
+}
