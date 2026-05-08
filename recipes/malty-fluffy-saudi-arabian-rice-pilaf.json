@@ -1,0 +1,91 @@
+{
+  "title": "Malty Fluffy Saudi Arabian Rice Pilaf",
+  "description": "A malty and fluffy one-pot Saudi Arabian dish featuring white chocolate chips and shio-koji-cure, made with low-sodium ingredients",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer until the water runs clear",
+    "In a large pot, combine the rice, water, malt syrup, shio-koji-cure, and low-sodium chicken broth",
+    "Bring the mixture to a boil over high heat",
+    "Reduce the heat to low, cover, and simmer for 18 minutes",
+    "Stir in the white chocolate chips until melted and well combined",
+    "Add the unsalted butter and salt-free seasoning blend, stirring until the butter is melted",
+    "Fluff the rice with a fork to separate the grains",
+    "Serve hot, garnished with additional white chocolate chips if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "malty",
+    "middle-eastern",
+    "one-pot",
+    "rice-pilaf",
+    "white-chocolate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "malty-fluffy-saudi-arabian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-fluffy-saudi-arabian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:23:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "malty fluffy",
+    "dishForm": "Pilaf"
+  }
+}
