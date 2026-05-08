@@ -1,0 +1,106 @@
+{
+  "title": "Mild Italian Bread Tagine",
+  "description": "A tangy and light Italian dish from Puglia featuring stale bread, char-grilled flavors, and anti-inflammatory friendly ingredients, cooked in a tagine pot.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "4 cups",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "for anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the stale bread into 1-inch cubes and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and toss to coat.",
+    "Char-grill the bread in the oven for 10 minutes, or until lightly toasted.",
+    "In a large tagine pot, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the thinly sliced red onion and cook for 3 minutes, until translucent.",
+    "Add the canned tomatoes, chopped fresh basil, red pepper flakes, salt, black pepper, and turmeric to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Add the char-grilled bread to the pot and stir to combine.",
+    "Cover the pot and transfer to the preheated oven."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-cuisine",
+    "mediterranean-diet",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mild-italian-bread-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-italian-bread-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:10:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "stale bread",
+    "diet": "anti-inflammatory",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bread",
+    "descriptor": "Mediterranean",
+    "dishForm": "Tagine"
+  }
+}
