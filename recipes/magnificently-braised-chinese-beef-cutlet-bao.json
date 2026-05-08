@@ -1,0 +1,106 @@
+{
+  "title": "Magnificently Braised Chinese Beef Cutlet Bao",
+  "description": "A fresh and pillowy Chinese dish featuring beef cutlet, braise, and keto-friendly ingredients, perfect for a show-off dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlets",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baos",
+      "amount": "4",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the beef cutlets and cook for 2-3 minutes per side, until browned.",
+    "In a small bowl, whisk together the soy sauce, fish sauce, and sesame oil.",
+    "Pour the sauce over the beef cutlets and bring to a simmer.",
+    "Reduce the heat to low and braise the beef for 10 minutes, until tender.",
+    "Meanwhile, toast the baos by baking them in the oven at 350 degrees for 5 minutes.",
+    "Assemble the bao by slicing the braised beef and placing it inside the toasted bao.",
+    "Garnish with chopped scallions and sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "beef-recipes",
+    "braised-meat",
+    "chinese-food",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "magnificently-braised-chinese-beef-cutlet-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-braised-chinese-beef-cutlet-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:23:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "beef cutlet",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "Magnificently Braised",
+    "dishForm": "Bao"
+  }
+}

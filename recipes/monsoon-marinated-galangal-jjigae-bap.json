@@ -1,0 +1,112 @@
+{
+  "title": "Monsoon Marinated Galangal Jjigae Bap",
+  "description": "A spicy and crispy Korean dish made with marinated galangal, fermented kimchi, and crispy rice, perfect for a stormy day.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galangal",
+      "amount": "3 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Marinate the galangal in a mixture of chili flakes, fish sauce, soy sauce, and sesame oil for at least 30 minutes.",
+    "Heat 1 tablespoon of vegetable oil in a large terracotta dish over medium-high heat.",
+    "Add the marinated galangal and cook for 2-3 minutes on each side, until slightly charred.",
+    "Add the fermented kimchi, garlic, and ginger to the dish and stir to combine.",
+    "Push the kimchi mixture to one side of the dish, and add the beaten egg to the other side.",
+    "Scramble the egg and then mix it with the kimchi mixture.",
+    "Add the cooked rice to the dish, breaking up any clumps with a spatula.",
+    "Mix everything together and cook for an additional 2-3 minutes, until the rice is crispy and golden brown.",
+    "Transfer the bap to a serving plate and top with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "monsoon-marinated-galangal-jjigae-bap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-marinated-galangal-jjigae-bap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:24:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "galangal",
+    "diet": "gluten-free",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Galangal",
+    "descriptor": "Monsoon- Marinated",
+    "dishForm": "Jjigae Bap"
+  }
+}

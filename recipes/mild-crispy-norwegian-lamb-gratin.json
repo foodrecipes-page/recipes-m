@@ -1,0 +1,118 @@
+{
+  "title": "Mild Crispy Norwegian Lamb Gratin",
+  "description": "A savory, crispy, one-pot Norwegian dish featuring liquid cheese, beurre-monte, and anti-inflammatory-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "1 cup",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt, black pepper, and caraway seeds.",
+    "Heat 1 tablespoon of beurre-monte in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the remaining 1 tablespoon of beurre-monte to the pot, then add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Gradually add the mascarpone cheese, whisking constantly to avoid lumps.",
+    "Return the lamb shoulder to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and bake for 20-25 minutes, or until the lamb is tender and the top is golden brown.",
+    "Remove the pot from the oven and garnish with fresh parsley, thyme, and a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "mild-spicy",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "mild-crispy-norwegian-lamb-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-crispy-norwegian-lamb-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:24:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "beurre-monte",
+    "primaryIngredient": "liquid cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Mild Crispy",
+    "dishForm": "Gratin"
+  }
+}
