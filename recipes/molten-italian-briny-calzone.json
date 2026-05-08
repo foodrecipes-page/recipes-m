@@ -1,0 +1,104 @@
+{
+  "title": "Molten Italian Briny Calzone",
+  "description": "A savory, cheesy, and slightly salty solo-dinner featuring a crispy crust, gooey mozzarella, and sashimi-cut peppered mortadella, all infused with the subtle flavor of peppercorns. Perfect for a quick and satisfying dinner on a weeknight.",
+  "cuisine": "Italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza Dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": "Whole-milk or low-moisture, whichever you prefer"
+    },
+    {
+      "name": "Mortadella",
+      "amount": "4 ounces",
+      "notes": "Sashimi-cut, preferably from a deli or high-quality butcher"
+    },
+    {
+      "name": "Black Peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "Freshly cracked, or use whole peppercorns for added flavor and texture"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky or kosher, whichever you have on hand"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Extra-virgin or mild olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced, for added flavor"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 tablespoon",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C) with a pizza stone or baking sheet inside, if you have one.",
+    "Roll out the pizza dough to a thickness of about 1/4 inch (6 mm) and transfer to a lightly floured surface.",
+    "In a small bowl, mix together the mozzarella cheese, mortadella, black peppercorns, sea salt, and garlic.",
+    "Spread the mozzarella mixture evenly over one half of the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Drizzle the olive oil over the mozzarella mixture, then sprinkle with a pinch of black pepper for added flavor.",
+    "Fold the other half of the dough over the filling to form a half-circle or triangle, pressing the edges together to seal the calzone.",
+    "Place the calzone on a piece of parchment paper or a lightly floured baking sheet, if you don't have parchment paper.",
+    "Brush the top of the calzone with a little olive oil to prevent it from becoming too dark during baking.",
+    "Bake the calzone in the preheated oven for 12-15 minutes, or until it's golden brown and the cheese is melted and bubbly.",
+    "Remove the calzone from the oven and let it cool for a minute or two before slicing and serving.",
+    "Garnish with chopped fresh basil for added flavor and texture.",
+    "Serve immediately and enjoy!",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the calzone in the oven at 350°F (180°C) for 5-7 minutes, or until warmed through and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "calzone",
+    "dinner-ideas",
+    "italian",
+    "italian-dinner",
+    "italian-recipes",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 27,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "molten-italian-briny-calzone",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-italian-briny-calzone",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:35Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "peppercorns",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "briny",
+    "descriptor": "molten",
+    "dishForm": "calzone"
+  }
+}
