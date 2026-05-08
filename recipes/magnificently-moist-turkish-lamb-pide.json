@@ -1,0 +1,95 @@
+{
+  "title": "Magnificently Moist Turkish Lamb Pide",
+  "description": "A citrusy and indulgent Turkish dish featuring black treacle, with a silky texture and al-dente finish, perfect for a keto-friendly dinner option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pide bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and cook the onion until softened.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the lamb mince and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the black treacle, lemon juice, and a pinch of salt and pepper.",
+    "Arrange the pide bread on a baking sheet and spoon the lamb mixture onto each piece.",
+    "Top each pide with crumbly feta cheese and bake in the oven for 15 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-flavors",
+    "indulgent-dishes",
+    "keto-friendly",
+    "lamb-recipes",
+    "pide-bread",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "magnificently-moist-turkish-lamb-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-moist-turkish-lamb-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:20:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "black treacle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Magnificently Moist",
+    "dishForm": "Pide"
+  }
+}
