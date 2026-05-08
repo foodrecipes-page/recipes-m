@@ -1,0 +1,94 @@
+{
+  "title": "Mildly Sweet Uruguayan Cream Flan",
+  "description": "A dense and nostalgic Uruguayan dessert featuring clotted cream and a caramelized sugar crust, with a floral and mildly sweet flavor profile, this dish is also anti-inflammatory friendly due to the use of turmeric and ginger in the caramel sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "1 1/2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the sugar, turmeric, ginger, and salt, and heat over medium heat, stirring constantly, until the sugar has dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes, or until the caramel is a deep amber color.",
+    "Remove the saucepan from the heat and slowly pour in the water, being careful not to splash the hot caramel.",
+    "In a large bowl, whisk together the clotted cream, eggs, and vanilla extract.",
+    "Strain the caramel sauce into the bowl with the cream mixture and whisk until well combined.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature, then cover and refrigerate for at least 2 hours, or overnight."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "caramelized",
+    "creamy",
+    "gluten-free",
+    "uruguayan-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "mildly-sweet-uruguayan-cream-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-uruguayan-cream-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:36:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "clotted cream",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cream",
+    "descriptor": "Mildly sweet",
+    "dishForm": "Flan"
+  }
+}
