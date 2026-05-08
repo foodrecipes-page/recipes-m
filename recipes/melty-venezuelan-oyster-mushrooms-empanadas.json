@@ -1,0 +1,97 @@
+{
+  "title": "Melty Venezuelan Oyster Mushrooms Empanadas",
+  "description": "A kid-friendly Venezuelan dish featuring oyster mushrooms and gooey cheese, perfect for a snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the sliced oyster mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Spoon a small amount of the mushroom mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle shredded mozzarella cheese over the mushroom mixture.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with a little bit of olive oil.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "kid-friendly",
+    "latin-american",
+    "mushroom-based",
+    "snacky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "melty-venezuelan-oyster-mushrooms-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-venezuelan-oyster-mushrooms-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:52:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Melty",
+    "dishForm": "Empanadas"
+  }
+}
