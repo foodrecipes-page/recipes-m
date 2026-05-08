@@ -1,0 +1,96 @@
+{
+  "title": "Molten Bitter French Bread Tartiflette",
+  "description": "A crowd-pleasing French dish featuring molten bread and a tandoor, free from onions and garlic, this tartiflette is perfect for any occasion. It combines the bitterness of certain ingredients with the richness of molten cheese.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "or similar mild cheese"
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the French bread into 1-inch cubes and toast until lightly browned.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat and saute the mushrooms until tender.",
+    "Add the diced bitter melon to the skillet and cook for an additional 2 minutes.",
+    "In a separate pot, boil the diced potatoes until they are tender, then drain and set aside.",
+    "In a large bowl, combine the toasted bread, sauteed mushrooms and bitter melon, and boiled potatoes.",
+    "Transfer the mixture to a baking dish and top with Reblochon cheese.",
+    "Dot the top of the cheese with the remaining 1 tablespoon of butter.",
+    "Bake in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "molten-bitter-french-bread-tartiflette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-bitter-french-bread-tartiflette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:59:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "bread",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "bread",
+    "descriptor": "Molten Bitter",
+    "dishForm": "Tartiflette"
+  }
+}
