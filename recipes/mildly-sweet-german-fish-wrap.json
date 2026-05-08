@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Sweet German Fish Wrap",
+  "description": "A tangy and fluffy pescatarian dish featuring caramelized sugar sauce and pickle, wrapped in a pandan leaf, perfect for a post-workout meal.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "caramelized sugar sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt and black pepper.",
+    "Heat the olive oil in a pan over medium heat and sear the cod fillets until cooked through.",
+    "Wrap each cod fillet in a pandan leaf and place on a baking sheet.",
+    "Drizzle the caramelized sugar sauce over the cod fillets.",
+    "Top each cod fillet with pickle slices and a squeeze of lemon juice.",
+    "Bake in the oven for 5 minutes to warm the pandan leaves.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional pickle slices and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german-cuisine",
+    "healthy-snack",
+    "pescatarian-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "mildly-sweet-german-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-german-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:12:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fish",
+    "descriptor": "mildly sweet",
+    "dishForm": "Wrap"
+  }
+}
