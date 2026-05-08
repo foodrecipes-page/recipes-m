@@ -1,0 +1,98 @@
+{
+  "title": "Magnificently Roasted Japanese Chicken Skewers",
+  "description": "A crowd-pleasing Japanese dish featuring roasted chicken skewers marinated in a mixture of white wine vinegar and spices, perfect for a dinner party. The ayurvedic-rajasic-friendly ingredients make it a great option for those looking for a balanced meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the ginger and garlic until well combined.",
+    "In a large bowl, whisk together the white wine vinegar, soy sauce, brown sugar, sesame oil, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the raclette grill and roast for 12-15 minutes, or until the chicken is cooked through.",
+    "Brush the skewers with the remaining marinade during the last 2 minutes of cooking.",
+    "Remove the skewers from the grill and let rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with sliced green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "easy-dinners",
+    "gluten-free",
+    "grilled-meats",
+    "japanese-cuisine",
+    "party-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "magnificently-roasted-japanese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-roasted-japanese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:23:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Magnificently Roasted",
+    "dishForm": "Skewers"
+  }
+}
