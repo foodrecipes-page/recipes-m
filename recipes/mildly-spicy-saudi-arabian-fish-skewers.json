@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Spicy Saudi Arabian Fish Skewers",
+  "description": "A briny and crumbly pescatarian-friendly dish featuring jalapeno, perfect for a energizing meal, this Saudi Arabian fish skewer recipe combines the flavors of the Middle East with a spicy kick.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "zaatar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the fish fillets, jalapeno peppers, and garlic onto the wooden skewers.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, black pepper, paprika, and zaatar.",
+    "Brush the mixture onto the fish and jalapeno peppers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve the skewers hot, garnished with additional jalapeno slices and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "healthy-dinner",
+    "middle-eastern",
+    "seafood",
+    "spicy-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "mildly-spicy-saudi-arabian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-saudi-arabian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:33:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "jalapeno",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Skewers"
+  }
+}
