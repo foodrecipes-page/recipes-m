@@ -1,0 +1,93 @@
+{
+  "title": "Mildly Smoky Norwegian Pork Skewers",
+  "description": "Tender Norwegian pork skewers with a mildly smoky flavor, featuring white sauerkraut and a hint of char-grill, perfect for a weeknight dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper",
+    "Add the pork pieces to the bowl and toss to coat with the spice mixture",
+    "Thread the pork pieces onto skewers, leaving a small space between each piece",
+    "Brush the skewers with olive oil",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through",
+    "While the pork is cooking, heat the white sauerkraut in a saucepan over medium heat",
+    "Serve the pork skewers with the heated white sauerkraut and garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "norwegian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "mildly-smoky-norwegian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-norwegian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:10:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pork",
+    "descriptor": "mildly smoky",
+    "dishForm": "Skewers"
+  }
+}
