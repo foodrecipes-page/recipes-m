@@ -1,0 +1,103 @@
+{
+  "title": "Meltingly Gooey Moroccan Chicken Tagine",
+  "description": "A salty and gooey Moroccan dish featuring pomegranate molasses, perfect for a sick day, and kosher friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the pomegranate molasses, olive oil, cumin, paprika, salt, and black pepper.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and stir to combine.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Transfer the chicken and marinade to a large Dutch oven or heavy pot with a tight-fitting lid.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the chicken is tender and the sauce is thick and gooey.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the chicken and sauce hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "kosher",
+    "moroccan",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "meltingly-gooey-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/meltingly-gooey-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:57:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Meltingly gooey",
+    "dishForm": "Tagine"
+  }
+}
