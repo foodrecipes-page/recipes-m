@@ -1,0 +1,109 @@
+{
+  "title": "Magically Snappy Algerian Beef Tagine",
+  "description": "A romantic Algerian dish featuring feather blade beef, this recipe is garlicky and snappy, perfect for a special occasion, and is high protein friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper, and mix well.",
+    "Heat olive oil in a large Dutch oven over medium high heat.",
+    "Add the onion to the pot and cook until it is lightly browned.",
+    "Add the beef mixture to the pot, and cook until the beef is browned on all sides.",
+    "Add chicken broth to the pot, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1.5 hours.",
+    "Remove the pot from the heat, and let it cool slightly.",
+    "Submerge the pot in an ice bath to stop the cooking process.",
+    "Once the dish has cooled, transfer it to a bamboo tray to serve.",
+    "Garnish with fresh parsley, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "beef",
+    "garlicky",
+    "high-protein",
+    "romantic",
+    "snappy",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "magically-snappy-algerian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-snappy-algerian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:46:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "feather blade beef",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef",
+    "descriptor": "Magically Snappy",
+    "dishForm": "Tagine"
+  }
+}
