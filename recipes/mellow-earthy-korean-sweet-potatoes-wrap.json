@@ -1,0 +1,95 @@
+{
+  "title": "Mellow Earthy Korean Sweet Potatoes Wrap",
+  "description": "A crispy and earthy Korean dish featuring sweet potatoes, perfect for a weeknight meal, served in a claypot with ssam-wrap, shojin-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the claypot over medium heat.",
+    "In a bowl, whisk together sesame oil, gochujang, soy sauce, and rice vinegar.",
+    "Add the sliced sweet potatoes to the bowl and toss to coat with the sauce.",
+    "Add the minced garlic and grated ginger to the bowl and toss to combine.",
+    "Add the sweet potato mixture to the preheated claypot and cook for 20 minutes, stirring occasionally.",
+    "While the sweet potatoes are cooking, prepare the ssam wrap by rinsing the leaves in cold water and patting them dry.",
+    "To assemble the wrap, place a few slices of the cooked sweet potato onto a ssam leaf and serve.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "korean-food",
+    "ssam-wrap",
+    "sweet-potatoes",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-earthy-korean-sweet-potatoes-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-earthy-korean-sweet-potatoes-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:41:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "mellow earthy",
+    "dishForm": "Wrap"
+  }
+}
