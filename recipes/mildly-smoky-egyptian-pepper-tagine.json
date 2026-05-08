@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Smoky Egyptian Pepper Tagine",
+  "description": "A garlicky and crumbly one-pot Egyptian dish featuring roasted peppers, tempered chocolate, and ovo-vegetarian friendly ingredients, this tagine is a delicious and unique meal option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4 large",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the red bell peppers on a baking sheet and roast for 30 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool, then peel off the skin and slice into strips.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1-2 minutes until fragrant.",
+    "Add the smoked paprika to the skillet and cook for an additional minute, stirring constantly.",
+    "In a small bowl, melt the dark chocolate in the microwave in 10 second increments, stirring between each interval, until smooth.",
+    "Temper the chocolate by stirring in a small amount of the warm garlic and oil mixture, then set aside.",
+    "In a large bowl, whisk together the eggs and a pinch of salt, then stir in the crumbled feta cheese.",
+    "Add the roasted peppers to the bowl and stir to combine with the egg mixture.",
+    "Pour the egg and pepper mixture into the skillet with the garlic and oil, and cook over medium heat until the eggs are set.",
+    "Drizzle the tempered chocolate over the top of the tagine and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "garlicky",
+    "north-african",
+    "one-pot",
+    "ovo-vegetarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "mildly-smoky-egyptian-pepper-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-egyptian-pepper-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "roasted pepper",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "peppers",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Tagine"
+  }
+}
