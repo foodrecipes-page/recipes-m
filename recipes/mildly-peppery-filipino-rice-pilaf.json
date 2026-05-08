@@ -1,0 +1,94 @@
+{
+  "title": "Mildly Peppery Filipino Rice Pilaf",
+  "description": "A peppery and velvety Filipino dish featuring starch, this rice pilaf is a cozy and egg-free friendly meal option, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the rice to the saucepan and stir to combine with the onion and garlic mixture.",
+    "Add the water, salt, and black pepper to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 15 minutes.",
+    "Remove the saucepan from the heat and stir in the butter until melted and well combined.",
+    "Fluff the rice pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "filipino-food",
+    "one-pot",
+    "rice-pilaf",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "mildly-peppery-filipino-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-peppery-filipino-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:45:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "starch",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice",
+    "descriptor": "mildly peppery",
+    "dishForm": "Pilaf"
+  }
+}
