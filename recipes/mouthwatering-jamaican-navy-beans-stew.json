@@ -1,0 +1,106 @@
+{
+  "title": "Mouthwatering Jamaican Navy Beans Stew",
+  "description": "A flavorful and herbal stew featuring dried white navy beans, lacquer-glaze, and a blend of Jamaican spices, perfect for a diabetic-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the scotch bonnet pepper, thyme, allspice, salt, and black pepper, and stir well.",
+    "Add the soaked and drained navy beans, and stir to combine.",
+    "Add 4 cups of water to the pot, and bring to a boil.",
+    "Reduce the heat to low, and simmer for 45 minutes, or until the beans are tender.",
+    "Stir in the lacquer-glaze, and cook for an additional 10 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "comfort-food",
+    "diabetic-friendly",
+    "jamaican-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mouthwatering-jamaican-navy-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-jamaican-navy-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:48:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "navy beans",
+    "descriptor": "mouthwatering juicy",
+    "dishForm": "Stew"
+  }
+}

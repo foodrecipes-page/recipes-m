@@ -1,0 +1,95 @@
+{
+  "title": "Magnificently Rich Kenyan Lamb Sushi",
+  "description": "A rich and indulgent Kenyan dish featuring cilantro leaves and lamb, shaped into nigiri sushi, perfect for a special occasion, with no onions or garlic",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the lamb shoulder in a pan with sesame oil until browned",
+    "Add soy sauce, lemon juice, salt, and black pepper to the pan and stir to combine",
+    "Let the lamb mixture cool to room temperature",
+    "Prepare the sushi rice according to the package instructions",
+    "Mix the chopped cilantro leaves into the cooked sushi rice",
+    "Shape the sushi rice into small nigiri shapes",
+    "Place a small amount of the lamb mixture onto each nigiri shape",
+    "Serve the Magnificently Rich Kenyan Lamb Sushi immediately",
+    "Garnish with additional cilantro leaves if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "no-onion-no-garlic",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "magnificently-rich-kenyan-lamb-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-rich-kenyan-lamb-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:48:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Magnificently Rich",
+    "dishForm": "Sushi"
+  }
+}
