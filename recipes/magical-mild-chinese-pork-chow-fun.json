@@ -1,0 +1,99 @@
+{
+  "title": "Magical Mild Chinese Pork Chow Fun",
+  "description": "Savory and aerated, this nostalgic Chinese dish features ground cardamom and double-rise-bread in a keto-friendly form, served as chow fun.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread, cubed"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the sesame oil over medium-high heat.",
+    "Add the ground pork to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped scallions, soy sauce, salt, and black pepper to the skillet and stir to combine.",
+    "In a large bowl, whisk together the eggs and ground cardamom.",
+    "Add the cubed double-rise-bread to the bowl and toss to coat with the egg mixture.",
+    "Add the bread mixture to the skillet and stir to combine with the pork mixture.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "pork-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "magical-mild-chinese-pork-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mild-chinese-pork-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:19:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "ground cardomom",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Magical Mild",
+    "dishForm": "Chow Fun"
+  }
+}

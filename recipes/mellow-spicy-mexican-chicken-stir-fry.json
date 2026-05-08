@@ -1,0 +1,102 @@
+{
+  "title": "Mellow Spicy Mexican Chicken Stir Fry",
+  "description": "A low-carb Mexican dish featuring chicken, muscovado sugar, and a blend of spices, perfect for a sick day or a weeknight dinner. This stir-fry has a mustardy and velvety texture with a touch of Chiapan flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the diced onion and bell pepper to the skillet and cook until they start to soften, about 3 minutes.",
+    "Add the ground cumin, smoked paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the muscovado sugar to the skillet and cook for 1 minute, stirring constantly.",
+    "Return the chicken to the skillet and stir to combine with the spice and sugar mixture.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10 minutes.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "mellow-spicy-mexican-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-spicy-mexican-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:19:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "low-carb",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "mellow spicy",
+    "dishForm": "Stir-fry"
+  }
+}

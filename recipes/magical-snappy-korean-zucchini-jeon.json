@@ -1,0 +1,103 @@
+{
+  "title": "Magical Snappy Korean Zucchini Jeon",
+  "description": "A charred and snappy Korean dish featuring light rum, namul-blanch-season, and low-glycemic-friendly ingredients, served in individual mini cocottes to cure hangovers. This jeon is a twist on traditional Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchinis",
+      "amount": "2 medium",
+      "notes": " sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "namul seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame oil, light rum, garlic, ginger, soy sauce, and namul seasoning.",
+    "Add the sliced zucchinis to the bowl and toss to coat with the marinade.",
+    "Let the zucchinis marinate for at least 10 minutes.",
+    "In a separate bowl, whisk together eggs, salt, and black pepper.",
+    "Add the egg mixture to the zucchinis and toss to coat.",
+    "Divide the zucchini mixture among 4 individual mini cocottes.",
+    "Bake the jeon in the preheated oven for 15 minutes, or until the edges are charred and the centers are set.",
+    "Remove the jeon from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "korean-cuisine",
+    "low-glycemic",
+    "mini-cocotte",
+    "snappy-jeon"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "magical-snappy-korean-zucchini-jeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-snappy-korean-zucchini-jeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:19:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "light rum",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "zucchini",
+    "descriptor": "Magical Snappy",
+    "dishForm": "Jeon"
+  }
+}
