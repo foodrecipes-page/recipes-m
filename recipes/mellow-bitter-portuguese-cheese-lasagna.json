@@ -1,0 +1,98 @@
+{
+  "title": "Mellow Bitter Portuguese Cheese Lasagna",
+  "description": "A cozy Portuguese dish featuring ground ginger and fry grind rice khao khu, with a bitter cheese pull, this lasagna is a unique and flavorful experience. It is also ayurvedic rajasic friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "can be substituted with ground turkey"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fry grind rice khao khu",
+      "amount": "1 cup"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 noodles"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the ground beef, cooking until browned.",
+    "Add the ground ginger, salt, and black pepper to the skillet and stir to combine.",
+    "Add the fry grind rice khao khu to the skillet and cook for 2-3 minutes.",
+    "In a large bowl, combine the cooked lasagna noodles, marinara sauce, and shredded cheese.",
+    "In a 9x13 inch baking dish, create a layer of the marinara sauce.",
+    "Add a layer of the cooked lasagna noodles on top of the sauce.",
+    "Add a layer of the ground beef and fry grind rice khao khu mixture on top of the noodles.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake the lasagna in the preheated oven for 30-40 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "comfort-food",
+    "ground-beef",
+    "portuguese-cuisine",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mellow-bitter-portuguese-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-bitter-portuguese-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground ginger",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Mellow Bitter",
+    "dishForm": "Lasagna"
+  }
+}
