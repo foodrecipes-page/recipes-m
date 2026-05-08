@@ -1,0 +1,91 @@
+{
+  "title": "Mellow Sweet Brazilian Molasses Skewers",
+  "description": "A cultured and tender Brazilian dish featuring molasses, grilled to perfection on a yakimono grill, suitable for shojin-friendly diets. This nostalgic treat is a classic in Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "molasses",
+      "amount": "1 cup",
+      "notes": "dark molasses preferred"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "banana chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peach chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium heat.",
+    "In a large bowl, whisk together molasses, brown sugar, coconut milk, and lemon juice until well combined.",
+    "Add the pineapple, banana, and peach chunks to the bowl and toss to coat with the molasses mixture.",
+    "Thread the fruit chunks onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 10 minutes, turning occasionally.",
+    "Brush the skewers with the remaining molasses mixture during the last 2 minutes of cooking.",
+    "Remove the skewers from the grill and let cool for a few minutes.",
+    "Serve the skewers warm, garnished with additional coconut milk if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "fruit-based",
+    "grilled",
+    "sweet-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "mellow-sweet-brazilian-molasses-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-sweet-brazilian-molasses-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:23:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "molasses",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "molasses",
+    "descriptor": "mellow sweet",
+    "dishForm": "Skewers"
+  }
+}
