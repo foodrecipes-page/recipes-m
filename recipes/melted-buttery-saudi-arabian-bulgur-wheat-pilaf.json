@@ -1,0 +1,98 @@
+{
+  "title": "Melted Buttery Saudi Arabian Bulgur Wheat Pilaf",
+  "description": "A one-pot, plant-based-friendly Saudi Arabian dish featuring bulgur wheat, this recipe is perfect for a weeknight dinner, it is buttery and has a snappy texture.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur wheat",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur wheat in cold water, then drain and set aside.",
+    "Melt 2 tablespoons of butter in a large fondue pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cardamom powder and cumin powder, and cook for 1 minute, stirring constantly.",
+    "Add the bulgur wheat, water, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pot.",
+    "Simmer for 15 minutes, or until the water has been absorbed and the bulgur wheat is tender.",
+    "Fluff the pilaf with a fork and stir in the remaining 2 tablespoons of butter until melted and well combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "melted-buttery-saudi-arabian-bulgur-wheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-buttery-saudi-arabian-bulgur-wheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:10:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "melted buttery",
+    "dishForm": "Pilaf"
+  }
+}
