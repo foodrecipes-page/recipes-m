@@ -1,0 +1,102 @@
+{
+  "title": "Mouthwatering Flaky Saudi Arabian Chicken Flatbread",
+  "description": "A quick-fix Saudi-Arabian dish featuring panang curry paste and miso-marinate, this low-glycemic-friendly flatbread is perfect for a weeknight dinner. The combination of sour and flaky flavors will leave you wanting more.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, salt, and black pepper.",
+    "In a separate bowl, mix together the miso paste, panang curry paste, lemon juice, and coconut oil.",
+    "Add the chicken pieces to the miso-curry mixture and marinate for at least 10 minutes.",
+    "Add the eggs and water to the almond flour mixture and stir until a dough forms.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Place the marinated chicken pieces in the center of the dough circle.",
+    "Fold the dough over the chicken to form a flatbread shape, pressing the edges to seal.",
+    "Brush the top of the flatbread with a little coconut oil and bake for 25 minutes.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mouthwatering-flaky-saudi-arabian-chicken-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-flaky-saudi-arabian-chicken-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "panang curry paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "mouthwatering flaky",
+    "dishForm": "Flatbread"
+  }
+}

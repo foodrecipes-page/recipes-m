@@ -1,0 +1,90 @@
+{
+  "title": "Mighty Meaty Croatian Meat Stew",
+  "description": "A hearty and flavorful stew featuring ground meats and coconut cream, perfect for a crowd. This dish is low in glycemic index and rich in flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef and ground pork in a large pot over medium high heat, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Stir in the dried thyme and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer the stew for 1 hour.",
+    "Stir in the coconut cream and cook for an additional 10 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "hearty-stew",
+    "low-glycemic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "mighty-meaty-croatian-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-meaty-croatian-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:57Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "chopped parsley",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "mighty meaty",
+    "dishForm": "Stew"
+  }
+}
