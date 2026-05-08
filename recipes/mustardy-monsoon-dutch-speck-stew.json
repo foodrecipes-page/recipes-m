@@ -1,0 +1,115 @@
+{
+  "title": "Mustardy Monsoon Dutch Speck Stew",
+  "description": "A hearty and flavorful stew originating from the Netherlands, featuring speck and a mustardy lacquer glaze, perfect for a rainy day. This dish is Jain-friendly and cooked to perfection in a kazan cauldron.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole grain"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the diced speck to cook until browned.",
+    "Add the chopped onion to the cauldron and cook until it is translucent.",
+    "Add the sliced carrots and cubed potatoes to the cauldron, cooking for 5 minutes.",
+    "Stir in the whole grain mustard and lacquer glaze, cooking for an additional 2 minutes.",
+    "Pour in the low sodium vegetable broth, adding the dried thyme and fresh bay leaves to the cauldron.",
+    "Season the stew with salt and black pepper to taste.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Remove the bay leaves from the cauldron and serve the stew hot.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve with crusty bread or over mashed potatoes for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "jain-friendly",
+    "one-pot",
+    "speck",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mustardy-monsoon-dutch-speck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-monsoon-dutch-speck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:23:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "speck",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "speck",
+    "descriptor": "monsoon mustardy",
+    "dishForm": "Stew"
+  }
+}

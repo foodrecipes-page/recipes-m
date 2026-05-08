@@ -1,0 +1,100 @@
+{
+  "title": "Mouth Numbing Chinese Noodle Dish",
+  "description": "A salty and chewy noodle dish from the Chaozhou region of China, featuring chilli flakes and a Mediterranean-friendly flavor profile, this dish is perfect for those who enjoy spicy food.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the chilli flakes to the skillet and stir for 1 minute.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, salt, and sugar.",
+    "Add the cooked noodles to the skillet and toss with the chilli flake mixture.",
+    "Pour the soy sauce mixture over the noodles and toss to combine.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "noodle-dish",
+    "one-pot",
+    "quick-meal",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mouth-numbing-chinese-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouth-numbing-chinese-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:23:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "chilli flakes",
+    "diet": "mediterranean",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "mouth numbing",
+    "dishForm": "Noodles"
+  }
+}
