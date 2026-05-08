@@ -1,0 +1,95 @@
+{
+  "title": "Spanish Noodle Pasta",
+  "description": "A mildly pungent and springy Spanish dish featuring noodles and double-rise bread, low in sodium and perfect for meal prep. This recipe is a delicious and healthy option for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "Spanish noodles or fideo"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the double-rise bread into 1-inch thick slices and bake for 10 minutes.",
+    "Cook the noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce.",
+    "Serve the noodles hot, topped with sliced double-rise bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "meal-prep",
+    "noodle-dish",
+    "spanish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mildly-pungent-spanish-noodles-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-pungent-spanish-noodles-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:49:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "noodles",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "noodles",
+    "descriptor": "Mildly pungent",
+    "dishForm": "Pasta"
+  }
+}
