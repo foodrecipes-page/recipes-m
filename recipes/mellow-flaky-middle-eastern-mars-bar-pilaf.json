@@ -1,0 +1,101 @@
+{
+  "title": "Mellow Flaky Middle-Eastern Mars Bar Pilaf",
+  "description": "A unique one-pot pilaf dish from the Middle East, featuring jammy Mars bars and flaky texture, served in a banana leaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "2"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep pan over medium heat.",
+    "Add cumin seeds and let them sizzle for 30 seconds.",
+    "Add onion, green chilies, and salt. Saute until onion is translucent.",
+    "Add rice and water to the pan. Stir well.",
+    "Bring the mixture to a boil. Reduce heat to low and cover.",
+    "Simmer for 15 minutes.",
+    "Melt Mars bars in a separate pan over low heat.",
+    "Fluff the rice mixture with a fork.",
+    "Add the melted Mars bars to the rice mixture.",
+    "Mix well and transfer to a banana leaf.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 90,
+    "fat": 12
+  },
+  "slug": "mellow-flaky-middle-eastern-mars-bar-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-flaky-middle-eastern-mars-bar-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:58:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "tadka",
+    "primaryIngredient": "mars bar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Mellow Flaky",
+    "dishForm": "Pilaf"
+  }
+}
