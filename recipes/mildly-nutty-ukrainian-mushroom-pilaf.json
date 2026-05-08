@@ -1,0 +1,108 @@
+{
+  "title": "Mildly Nutty Ukrainian Mushroom Pilaf",
+  "description": "A plant-based Ukrainian dish featuring coconut cream and mushrooms, served in an agave leaf vessel, perfect for a hangover cure. This nutty and snappy pilaf is a delicious and satisfying meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the brown rice in a fine mesh strainer and drain well.",
+    "In a large pot, heat 2 tablespoons of agave nectar over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the vegetable broth, coconut cream, thyme, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped walnuts and cook for an additional 2 minutes.",
+    "Fluff the pilaf with a fork and serve in an agave leaf vessel.",
+    "Steam the pilaf using a mushimono steam method for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-based",
+    "healthy-meals",
+    "lunch-ideas",
+    "mushroom-based",
+    "plant-based",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-nutty-ukrainian-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-nutty-ukrainian-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "coconut cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "mildly nutty",
+    "dishForm": "Pilaf"
+  }
+}
