@@ -1,0 +1,98 @@
+{
+  "title": "Mighty Crunchy Venezuelan Cornmeal Empanadas",
+  "description": "Salty and crumbly Venezuelan empanadas made with lard and render fat, perfect for a quick snack, and diabetic friendly due to the use of cornmeal which has a lower glycemic index than wheat flour.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic friendly",
+    "gluten free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 cups",
+      "notes": "preferably fine or medium grind"
+    },
+    {
+      "name": "Lard",
+      "amount": "1/2 cup",
+      "notes": "or vegetable shortening"
+    },
+    {
+      "name": "Render fat",
+      "amount": "1/4 cup",
+      "notes": "from pork or beef"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional, for filling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the cornmeal and salt.",
+    "Add the lard and render fat to the bowl and mix until the mixture resembles coarse crumbs.",
+    "Gradually add the warm water to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until the dough is smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of shredded cheese in the center of each circle, if using.",
+    "Fold the dough over the filling to form a half circle and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas in a mason jar or on a baking sheet lined with parchment paper and bake for 20 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "latin-american",
+    "mason-jar",
+    "one-hour",
+    "savory",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mighty-crunchy-venezuelan-cornmeal-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-crunchy-venezuelan-cornmeal-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:48:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "lard",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cornmeal",
+    "descriptor": "mighty crunchy",
+    "dishForm": "Empanadas"
+  }
+}
