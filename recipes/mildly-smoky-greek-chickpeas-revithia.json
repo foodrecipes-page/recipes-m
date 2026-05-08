@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Smoky Greek Chickpeas Revithia",
+  "description": "A fresh and juicy post-workout Greek dish featuring chickpeas in a mildly smoky flavor, made with fish sauce and a lacquer glaze, and is satvik friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the fish sauce, lacquer glaze, olive oil, garlic, lemon juice, smoked paprika, salt, and black pepper.",
+    "Add the chickpeas to the bowl and toss to coat with the sauce.",
+    "Spread the chickpeas on a baking sheet lined with parchment paper.",
+    "Bake the chickpeas in the preheated oven for 20 minutes, or until they are lightly browned and crispy.",
+    "Remove the chickpeas from the oven and let them cool to room temperature.",
+    "Serve the chickpeas warm or at room temperature, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-smoky-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "fish sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Revithia"
+  }
+}

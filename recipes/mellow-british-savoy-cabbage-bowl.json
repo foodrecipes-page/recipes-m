@@ -1,0 +1,95 @@
+{
+  "title": "Mellow British Savoy Cabbage Bowl",
+  "description": "A buttery and chewy Cornish dish featuring savoy cabbage, perfect for a low-calorie date night dinner, served in an earthenware bowl with a char-grill flavor.",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 medium head",
+      "notes": "cored and shredded"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "amount": "1 pound",
+      "notes": "diced and char-grilled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the olive oil.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the shredded savoy cabbage and cook for 5 minutes until it starts to soften.",
+    "Season the cabbage with salt, black pepper, and lemon juice, and stir to combine.",
+    "Transfer the cabbage mixture to an earthenware bowl and top with diced char-grilled chicken breast.",
+    "Cover the bowl with aluminum foil and bake in the preheated oven for 15 minutes.",
+    "Remove the foil and bake for an additional 5 minutes until the top is lightly browned.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "char-grilled",
+    "date-night",
+    "earthenware-bowl",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "mellow-british-savoy-cabbage-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-british-savoy-cabbage-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "low-calorie",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "mellow char-grilled",
+    "dishForm": "Bowl"
+  }
+}
