@@ -1,0 +1,91 @@
+{
+  "title": "Mildly Romantic Syrian Pork Tenderloin Kebabs",
+  "description": "A low-carb and romantic Syrian dish featuring pork tenderloin, with a grassy and crumbly texture, perfect for a special evening",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, sumac, salt, and black pepper",
+    "Add the pork tenderloin pieces to the bowl and toss to coat",
+    "Thread the pork pieces onto skewers",
+    "Grill the kebabs for 10-12 minutes, turning occasionally",
+    "Garnish with parsley and serve hot",
+    "Let the kebabs rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "low-carb",
+    "pork-recipes",
+    "romantic-dinners",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "mildly-romantic-syrian-pork-tenderloin-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-romantic-syrian-pork-tenderloin-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:36:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "mildly romantic",
+    "dishForm": "Kebabs"
+  }
+}
