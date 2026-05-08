@@ -1,0 +1,94 @@
+{
+  "title": "Mildly Peppery Saudi Arabian Cucumber Salad",
+  "description": "A refreshing and peppery Saudi Arabian salad featuring Persian cucumbers, perfect for a light brunch, and friendly to sugar-free diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "4 large",
+      "notes": "peeled and sashimi-cut"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sashimi-cut Persian cucumbers, chopped fresh mint leaves, and chopped fresh dill.",
+    "In a small bowl, whisk together the lemon juice, olive oil, minced garlic, black pepper, and salt to make the dressing.",
+    "Pour the dressing over the cucumber mixture and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "low-calorie",
+    "middle-eastern",
+    "refreshing",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 1
+  },
+  "slug": "mildly-peppery-saudi-arabian-cucumber-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-peppery-saudi-arabian-cucumber-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:43:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "persian cucumber",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cucumber",
+    "descriptor": "mildly peppery",
+    "dishForm": "Salad"
+  }
+}
