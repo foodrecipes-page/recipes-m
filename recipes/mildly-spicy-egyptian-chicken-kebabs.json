@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Spicy Egyptian Chicken Kebabs",
+  "description": "Buttery and bouncy, these crowd-pleasing kebabs feature a miso marinade and salsa, perfect for a raw-friendly Egyptian dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, olive oil, lemon juice, garlic, ginger, salt, and black pepper to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Preheat a grill to medium-high heat, then thread the marinated chicken onto skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "During the last 2 minutes of grilling, brush the kebabs with butter.",
+    "Serve the kebabs hot with salsa spooned over the top.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "mildly-spicy-egyptian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-egyptian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:52:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "salsa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly spicy",
+    "dishForm": "Kebabs"
+  }
+}

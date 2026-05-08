@@ -1,0 +1,90 @@
+{
+  "title": "Mellow Roasted Mediterranean Pepper Casserole",
+  "description": "A garlicky and juicy lacto-vegetarian dish featuring roasted peppers, this casserole is a comforting Mediterranean delight. It is made with pressure-cooked ingredients for a hearty and satisfying meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roast the peppers in the oven for 30 minutes, then peel and chop them.",
+    "Pressure-cook the onion and garlic for 5 minutes, until they are softened.",
+    "Mix the cooked onion and garlic with the tomato sauce, olive oil, salt, and black pepper.",
+    "In a large bowl, combine the roasted peppers, sauce mixture, and crumbled feta cheese.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes, until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "mellow-roasted-mediterranean-pepper-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-mediterranean-pepper-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:52:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "roasted pepper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "peppers",
+    "descriptor": "Mellow Roasted",
+    "dishForm": "Casserole"
+  }
+}
