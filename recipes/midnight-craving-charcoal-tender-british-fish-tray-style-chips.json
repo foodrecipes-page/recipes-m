@@ -1,0 +1,124 @@
+{
+  "title": "Midnight Craving Charcoal-Tender British Fish Tray",
+  "description": "A charred, tender, midnight-craving British dish featuring rum, bonito shave, and a shojin-friendly banana leaf vessel.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Atlantic Cod Fillets",
+      "amount": "4",
+      "notes": "Skin removed, cut into thick chunk"
+    },
+    {
+      "name": "Banana Leaves",
+      "amount": "4",
+      "notes": "Fresh, large enough to wrap each piece"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 kg",
+      "notes": "High starch, peeled, cut into chunk"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "80 ml",
+      "notes": "White vinegar, for soaking"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "30 ml",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "20 g",
+      "notes": "For glaze"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "120 g",
+      "notes": "Softened"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "20 g",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "20 g",
+      "notes": "For coating"
+    },
+    {
+      "name": "Rum",
+      "amount": "15 ml",
+      "notes": "Dark rum, for marinating"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "5 g",
+      "notes": "Dried, for garnish"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "3 g",
+      "notes": "Flaked"
+    }
+  ],
+  "instructions": [
+    "Soak the potato chunks in vinegar for at least 30 minutes to remove excess starch.",
+    "Drain and pat dry the potato chunks with paper towels.",
+    "Cut the cod fillets into large chunks and season with salt, pepper, and a pinch of brown sugar.",
+    "Dredge the cod chunks in flour, shaking off excess.",
+    "Dip the floured cod chunks in the beaten eggs and then coat in panko breadcrumbs.",
+    "In a large bowl, whisk together the rum, lemon juice, and softened butter until well combined.",
+    "Add the cod chunks to the marinade and mix to coat.",
+    "Heat a large charcoal grill to medium-high heat.",
+    "Wrap each piece of cod in a banana leaf and place on the grill.",
+    "Cook for 8-10 minutes per side, or until the cod is cooked through.",
+    "Transfer the cooked cod to a serving tray and top with a sprinkle of bonito flakes.",
+    "Serve immediately with a side of charred potato wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf-vessel",
+    "charcoal-grilled",
+    "fish-and-chips",
+    "gluten-free",
+    "rum-glazed",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "midnight-craving-charcoal-tender-british-fish-tray-style-chips",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-charcoal-tender-british-fish-tray-style-chips",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:00:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "rum",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "midnight-craving charcoal-tender",
+    "dishForm": "Tray-Style Chips"
+  }
+}
