@@ -1,0 +1,115 @@
+{
+  "title": "Mildly Sour Ethiopian Chicken Doro Wot",
+  "description": "A sour, creamy, and diabetic-friendly Ethiopian dish featuring seeds and grilled chicken, perfect for a post-workout meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "In a large bowl, whisk together niter kibbeh, onion, garlic, ginger, berbere spice, fenugreek seeds, salt, and black pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "In a large saucepan, combine the plain yogurt and lemon juice.",
+    "Bring the yogurt mixture to a simmer over medium heat, stirring constantly.",
+    "Add the grilled chicken breast to the saucepan and stir to coat with the yogurt sauce.",
+    "Reduce heat to low and simmer for 10 minutes, or until the sauce has thickened.",
+    "Serve the chicken hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "mildly-sour-ethiopian-chicken-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-ethiopian-chicken-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:50:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "seeds",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Sour",
+    "dishForm": "Doro Wot"
+  }
+}
