@@ -1,0 +1,104 @@
+{
+  "title": "Magically Spicy Ethiopian Lamb Tagine",
+  "description": "A spicy and snappy Ethiopian dish featuring lemongrass, cooked to perfection in a tagine on an iron teppan, perfect for midnight cravings, and friendly to those who avoid onion and garlic.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the iron teppan over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the bruised lemongrass, grated ginger, berbere spice, coriander, cumin, salt, and black pepper, and cook for 1 minute.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the teppan with a lid, and simmer the tagine for 1.5 hours, or until the lamb is tender.",
+    "Remove the lemongrass stalks and serve the tagine hot.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Serve over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "lamb",
+    "midnight-craving",
+    "one-pan",
+    "spicy",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "magically-spicy-ethiopian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-spicy-ethiopian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:51:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "lemongrass",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Magically Spicy",
+    "dishForm": "Tagine"
+  }
+}
