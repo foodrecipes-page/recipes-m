@@ -1,0 +1,113 @@
+{
+  "title": "Miso Yeasted Cheese Pull Charlotte Potatoes Tagine",
+  "description": "A post-workout Middle Eastern dish made with charlotte potatoes, miso-marinated cheese, and a hint of yeast, all slow-cooked in a clay tagine.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "3",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "white miso"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parsley",
+      "amount": " chopped",
+      "notes": "fresh parsley"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "filtered water"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together miso paste, yeast, and 1/2 cup of warm water to create a miso-yeast marinade.",
+    "Add the marinade to the cubed potatoes and mix well to coat.",
+    "Heat the ghee in the clay tagine over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cumin, coriander, and salt to the tagine and cook for 1 minute.",
+    "Add the potatoes to the tagine and cook for 10 minutes, stirring occasionally.",
+    "Stir in the shredded cheddar cheese until melted and well combined with the potatoes.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Garnish with chopped parsley and serve hot.",
+    "Using a spatula, gently remove the charlotte potatoes from the tagine and shape into a pull-apart cheese-filled charlotte potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "middle-eastern",
+    "one-pan",
+    "post-workout",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "miso-yeasted-cheese-pull-charlotte-potatoes-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-yeasted-cheese-pull-charlotte-potatoes-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:51:36Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "miso-marinate",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Miso-marinated cheese pull",
+    "dishForm": null
+  }
+}
