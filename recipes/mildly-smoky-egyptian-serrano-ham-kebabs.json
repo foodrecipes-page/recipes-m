@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Smoky Egyptian Serrano Ham Kebabs",
+  "description": "A tangy and chewy Egyptian dish featuring Serrano ham, grilled to perfection on a yakimono grill, suitable for a satvik friendly diet.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the sliced Serrano ham, red onion, red bell pepper, and zucchini to the bowl and toss to coat.",
+    "Thread the marinated ingredients onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the ham is lightly charred and the vegetables are tender.",
+    "Remove the kebabs from the grill and sprinkle with chopped parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired.",
+    "Repeat with remaining ingredients if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "grilled",
+    "kebabs",
+    "satvik-friendly",
+    "serrano-ham",
+    "smoky",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-smoky-egyptian-serrano-ham-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-egyptian-serrano-ham-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "serrano ham",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Kebabs"
+  }
+}
