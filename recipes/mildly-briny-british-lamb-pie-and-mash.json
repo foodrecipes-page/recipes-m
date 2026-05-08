@@ -1,0 +1,111 @@
+{
+  "title": "Mildly Briny British Lamb Pie And Mash",
+  "description": "A traditional British dish featuring lamb, raisins, and creamy mash, with a mildly briny flavor, this satvik-friendly meal is perfect for a comforting dinner",
+  "cuisine": "British",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup",
+      "notes": "dark"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "potato",
+      "amount": "3 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the melted score-fat over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and cook for an additional 5 minutes.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the raisins, flour, vegetable broth, salt, and pepper, and stir to combine.",
+    "Transfer the mixture to a 9 inch pie dish.",
+    "In a large pot, boil the chopped potato until tender, about 15 minutes.",
+    "Drain the potato and mash with the milk until smooth and creamy.",
+    "Spread the mashed potato over the lamb mixture in the pie dish.",
+    "Bake the pie in the preheated oven for 25 minutes, or until the potato is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "lamb-based",
+    "one-dish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "mildly-briny-british-lamb-pie-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-briny-british-lamb-pie-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:18:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "raisins",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Mildly Briny",
+    "dishForm": "Pie And Mash"
+  }
+}
