@@ -1,0 +1,101 @@
+{
+  "title": "Molten Indian Fish Curry",
+  "description": "A garlicky and molten Indian dish featuring fish stock, deep-fry-tod, and pescatarian-friendly ingredients, served on a comal.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large skillet over medium heat.",
+    "Add the minced garlic and grated ginger and saute for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the fish stock, tomato puree, and coconut milk, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the cod fish pieces and cook for 5 minutes, or until cooked through.",
+    "Season with salt and cayenne pepper to taste.",
+    "Serve the curry on a comal, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comal-recipes",
+    "curry-dishes",
+    "fish-recipes",
+    "indian-cuisine",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "molten-indian-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-indian-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:26:34Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fish stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "molten garlicky",
+    "dishForm": "Curry"
+  }
+}
