@@ -1,0 +1,102 @@
+{
+  "title": "Melting Jamaican Pork Stew",
+  "description": "A fatty and molten weeknight Jamaican dish featuring vanilla pod, slow-cooked to perfection in a Dutch oven, with macrobiotic-friendly ingredients. This stew is a hearty and comforting meal for a cold evening.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "fatty cut"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the split vanilla pod, ground allspice, and dried thyme, and stir to combine.",
+    "Pour in enough water to cover the pork and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours.",
+    "Season with sea salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican-cuisine",
+    "one-pan",
+    "pork-recipes",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "melting-jamaican-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melting-jamaican-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:21:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "vanilla pod",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "molten slow cooked",
+    "dishForm": "Stew"
+  }
+}
