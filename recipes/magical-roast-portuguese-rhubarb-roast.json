@@ -1,0 +1,95 @@
+{
+  "title": "Magical Roast Portuguese Rhubarb Roast",
+  "description": "A traditional Portuguese dish featuring forced rhubarb and roast, perfect for a hangover cure, this herbal and flaky meal is gluten-free friendly. It combines the tender flavors of roast with the tartness of rhubarb.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Forced Rhubarb",
+      "amount": "2 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "Pork Roast",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the pork roast with salt, black pepper, and minced garlic.",
+    "In a large Dutch oven, heat the olive oil over medium heat and sear the pork roast until browned on all sides.",
+    "Add the rosemary sprigs, forced rhubarb, and potatoes to the Dutch oven.",
+    "Transfer the Dutch oven to the preheated oven and roast for 45 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 30 minutes.",
+    "Remove the Dutch oven from the oven and let the roast rest for 10 minutes before slicing.",
+    "Serve the sliced roast with the roasted rhubarb and potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-crust",
+    "gluten-free",
+    "hangover-cure",
+    "herbal-recipes",
+    "portuguese-cuisine",
+    "roast-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "magical-roast-portuguese-rhubarb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-roast-portuguese-rhubarb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:24:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Magical Roast",
+    "dishForm": "Roast"
+  }
+}
