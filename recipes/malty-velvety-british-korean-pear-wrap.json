@@ -1,0 +1,94 @@
+{
+  "title": "Malty Velvety British Korean Pear Wrap",
+  "description": "A low-calorie friendly dish featuring malty and velvety textures, with Korean pear as the main ingredient, wrapped in a British style ssam wrap, perfect for a snack or light meal.",
+  "cuisine": "British Korean Fusion",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "Malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety cheese spread",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "In a small bowl, mix together the malted milk powder, velvety cheese spread, sesame oil, salt, and black pepper.",
+    "Brush the mixture evenly onto each tortilla, leaving a 1 inch border around the edges.",
+    "Arrange 2-3 slices of Korean pear onto the center of each tortilla.",
+    "Sprinkle chopped cilantro over the pear slices.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Cook the wraps for 2-3 minutes on each side, until the tortilla is lightly browned and the filling is heated through.",
+    "Serve the wraps warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-korean-fusion",
+    "easy-to-make",
+    "healthy",
+    "low-calorie",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "malty-velvety-british-korean-pear-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-velvety-british-korean-pear-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:46:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "korean-pear",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "korean pear",
+    "descriptor": "malty velvety",
+    "dishForm": "Wrap"
+  }
+}
