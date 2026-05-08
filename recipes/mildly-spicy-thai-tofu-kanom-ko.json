@@ -1,0 +1,105 @@
+{
+  "title": "Mildly Spicy Thai Tofu Kanom Ko",
+  "description": "A spicy and snappy Thai dish featuring tofu in a flavorful sauce, served in a molcajete vessel and cooked to perfection in a tandoor, perfect for a cozy dinner",
+  "cuisine": "Thai",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together the curry paste, coconut milk, fish sauce, brown sugar, salt, and pepper to make the sauce",
+    "Heat the oil in the molcajete vessel over medium heat",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the cubed tofu and cook until it is golden brown",
+    "Pour the sauce into the molcajete vessel and stir to combine",
+    "Transfer the molcajete vessel to the preheated tandoor and cook for 15 minutes",
+    "Remove the vessel from the tandoor and let it cool for a few minutes",
+    "Serve the Mildly Spicy Thai Tofu Kanom Ko hot, garnished with chopped fresh cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "dinner",
+    "flexitarian",
+    "one-pot",
+    "spicy",
+    "tandoor",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "mildly-spicy-thai-tofu-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-thai-tofu-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Kanom Ko"
+  }
+}
