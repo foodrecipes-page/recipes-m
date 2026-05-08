@@ -1,0 +1,97 @@
+{
+  "title": "Mildly Herbal Vietnamese Sardines Nem Nuong",
+  "description": "A solo dinner dish featuring sardines, dashi extract, and herbal flavors, this Vietnamese nem nuong is a unique and delicious meal option, halal friendly and easy to make.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines in water",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped sardines, dashi extract, fish sauce, rice vinegar, grated ginger, chopped scallions, and chopped cilantro, and mix well.",
+    "Lay a rice paper wrapper on a flat surface and brush with vegetable oil.",
+    "Place about 1 tablespoon of the sardine mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium heat.",
+    "When the oil is hot, add a few of the nem nuong to the skillet and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the nem nuong from the oil and drain on paper towels.",
+    "Serve the nem nuong hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "herbal",
+    "one-pan",
+    "seafood",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "mildly-herbal-vietnamese-sardines-nem-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-herbal-vietnamese-sardines-nem-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:38:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sardines",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sardines",
+    "descriptor": "mildly herbal",
+    "dishForm": "Nem Nuong"
+  }
+}
