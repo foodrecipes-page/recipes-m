@@ -1,0 +1,100 @@
+{
+  "title": "Mellow Earthy Korean Doenjang Pilaf",
+  "description": "A diabetic-friendly Korean dish featuring doenjang, with an earthy flavor and flaky texture, inspired by Egyptian cuisine. This pilaf is made with wholesome ingredients and is suitable for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the doenjang and stir to combine.",
+    "Add the brown rice and stir to combine with the doenjang mixture.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a whisk and stir in the sesame seeds and salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "healthy",
+    "korean-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mellow-earthy-korean-doenjang-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-earthy-korean-doenjang-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "doenjang",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "doenjang",
+    "descriptor": "Mellow Earthy",
+    "dishForm": "Pilaf"
+  }
+}
