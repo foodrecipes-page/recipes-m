@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Crunchy German Daikon Bowl",
+  "description": "A funky and crumbly weeknight German dish featuring daikon, served in a stone bowl, inspired by Buddhist temple cuisine",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "daikon radish",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rye breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine grated daikon radish, caraway seeds, rye breadcrumbs, chopped onion, salt, and black pepper.",
+    "In a small bowl, whisk together apple cider vinegar and canola oil.",
+    "Pour the vinegar and oil mixture over the daikon mixture and stir until everything is well combined.",
+    "Transfer the mixture to a stone bowl and bake for 25 minutes.",
+    "Remove the bowl from the oven and top with chopped fresh parsley.",
+    "Serve the Mildly Crunchy German Daikon Bowl hot, straight from the stone bowl.",
+    "Garnish with additional parsley if desired.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "crunchy-texture",
+    "german-cuisine",
+    "one-bowl",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mildly-crunchy-german-daikon-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-crunchy-german-daikon-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:25:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "daikon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "daikon",
+    "descriptor": "mildly crunchy",
+    "dishForm": "Bowl"
+  }
+}
