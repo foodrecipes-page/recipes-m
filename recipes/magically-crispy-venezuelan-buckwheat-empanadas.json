@@ -1,0 +1,102 @@
+{
+  "title": "Magically Crispy Venezuelan Buckwheat Empanadas",
+  "description": "A crispy and savory Venezuelan dish featuring buckwheat and katsuramuki-cut ingredients, perfect for a date night, with a bitter taste and low glycemic index, this recipe is a unique twist on traditional empanadas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "make sure to use gluten-free buckwheat flour"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the buckwheat flour and salt.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin.",
+    "Heat the olive oil in a large skillet over medium heat and cook the onion and garlic until softened.",
+    "Add the ground beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the cumin and paprika and cook for 1 minute.",
+    "Place a tablespoon of the beef mixture onto the center of each dough disk and fold the dough in half to form a half-moon shape.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes or until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat-recipes",
+    "crispy-empanadas",
+    "date-night",
+    "gluten-free",
+    "low-glycemic",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "magically-crispy-venezuelan-buckwheat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-crispy-venezuelan-buckwheat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:04:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "buckwheat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Magically Crispy",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Magical Nutty Ethiopian Almond Tagine",
+  "description": "A kid-friendly Ethiopian dish featuring ground almonds and lardons-render, this recipe is both nutty and gooey, with a low-calorie twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "pure"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat and add the diced lardons to render the fat.",
+    "Remove the lardons from the pot and set aside, leaving the rendered fat behind.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger to the pot and cook for an additional minute.",
+    "Stir in the berbere spice and cook for 1 minute, until fragrant.",
+    "Add the ground almonds to the pot and cook for 2 minutes, stirring constantly, until lightly toasted.",
+    "Add the chicken broth, honey, salt, and black pepper to the pot and stir to combine.",
+    "Return the lardons to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, until the sauce has thickened and the flavors have melded together.",
+    "Serve the tagine hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "ethiopian",
+    "kid-friendly",
+    "low-calorie",
+    "nutty",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "magical-nutty-ethiopian-almond-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-nutty-ethiopian-almond-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:04:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "ground almonds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "almonds",
+    "descriptor": "Magical Nutty",
+    "dishForm": "Tagine"
+  }
+}
