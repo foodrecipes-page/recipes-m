@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Tangy Portuguese Fish Toast",
+  "description": "A tangy and aerated Portuguese dish featuring toast, shio-cure, and dash-friendly flavors, perfect for a lazy Sunday",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup",
+      "notes": "or flaky sea salt"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Slice the bread into 1-inch thick slices and toast until lightly browned",
+    "Mix the shio cure and lemon juice in a small bowl",
+    "Place the cod fillets on a baking sheet lined with parchment paper and brush with the shio cure mixture",
+    "Drizzle the olive oil over the cod fillets and sprinkle with garlic and parsley",
+    "Season with black pepper to taste",
+    "Bake the cod fillets in the preheated oven for 12 minutes or until cooked through",
+    "Assemble the toast by placing a piece of cod on each slice of toasted bread",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-idea",
+    "easy-recipe",
+    "fish-dish",
+    "lazy-sunday",
+    "portuguese-cuisine",
+    "seafood-lover"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mildly-tangy-portuguese-fish-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-tangy-portuguese-fish-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:59:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "toast",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "mildly tangy",
+    "dishForm": "Toast"
+  }
+}
