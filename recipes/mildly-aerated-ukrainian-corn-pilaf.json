@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Aerated Ukrainian Corn Pilaf",
+  "description": "A traditional Ukrainian dish featuring dried white corn and a miso marinade, this pilaf is both fatty and aerated, making it a unique and flavorful experience. It is also Buddhist-temple-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "2 cups",
+      "notes": "rehydrated overnight"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried white corn by soaking it in water overnight, then drain and set aside.",
+    "In a blender or food processor, combine the miso paste, vegetable oil, onion, carrot, garlic, salt, black pepper, and dried parsley, and blend until smooth.",
+    "In a large skillet, heat the blended miso mixture over medium heat, stirring constantly, until it starts to bubble and emit a fragrant aroma.",
+    "Add the rehydrated corn to the skillet and stir to combine with the miso mixture.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, stirring occasionally, until the corn is tender and the mixture is lightly aerated.",
+    "Stir in the lemon juice and continue to simmer for an additional 5 minutes.",
+    "Remove the skillet from the heat and let it cool slightly before serving.",
+    "Serve the pilaf hot, garnished with additional dried parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "miso-based",
+    "one-pot",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-aerated-ukrainian-corn-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-aerated-ukrainian-corn-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:21:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dried white corn",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "corn",
+    "descriptor": "Mildly Aerated",
+    "dishForm": "Pilaf"
+  }
+}

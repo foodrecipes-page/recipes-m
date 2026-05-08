@@ -1,0 +1,101 @@
+{
+  "title": "Middle-Eastern-Style Bulgur Cataplana Tabbouleh",
+  "description": "A refreshing, high-protein dinner featuring a crisp cataplana vessel filled with a mixture of bulgur, confit-tomato, and herbs, wrapped in puff pastry.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "Cut the pastry into a circle or square shape to fit the cataplana vessel.",
+    "Place the pastry in the cataplana vessel, pressing it into the corners.",
+    "In a large bowl, combine the bulgur, confit-tomato, parsley, mint, lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Mix well to combine.",
+    "Spoon the bulgur mixture into the pastry-lined cataplana vessel.",
+    "Cover the vessel with the remaining pastry, pressing the edges to seal.",
+    "Place the cataplana vessel in the preheated oven and bake for 25 minutes.",
+    "Remove the vessel from the oven and let it cool for 5 minutes.",
+    "Serve the Middle-Eastern-Style Bulgur Cataplana Tabbouleh warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "middle-eastern-style-bulgur-cataplana-tabbouleh",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/middle-eastern-style-bulgur-cataplana-tabbouleh",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:21:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "puff pastry",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "bulgur",
+    "descriptor": "Middle-Eastern-Style",
+    "dishForm": null
+  }
+}

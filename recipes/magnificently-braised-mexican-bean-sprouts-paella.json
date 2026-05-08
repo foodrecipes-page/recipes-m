@@ -1,0 +1,103 @@
+{
+  "title": "Magnificently Braised Mexican Bean Sprouts Paella",
+  "description": "A savory and creamy Mexican dish featuring braised bean sprouts, this paella is a show-off recipe that combines the flavors of Veracruz with the traditional Spanish dish, perfect for a special occasion or a dinner party",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the tomato paste, cumin, and paprika, and cook for 1 minute, stirring constantly",
+    "Add the bean sprouts, saffron threads, and vegetable broth, and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 20 minutes",
+    "Stir in the coconut cream and cook for an additional 5 minutes",
+    "Season with salt and pepper to taste",
+    "Serve hot, garnished with fresh cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "mexican",
+    "one-pan",
+    "paella",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "magnificently-braised-mexican-bean-sprouts-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-braised-mexican-bean-sprouts-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:22:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "bean sprouts",
+    "diet": "dash",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Magnificently Braised",
+    "dishForm": "Paella"
+  }
+}
