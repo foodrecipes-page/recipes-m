@@ -1,0 +1,100 @@
+{
+  "title": "Mouth Numbing Smoke Hot Venezuelan Meat Empanadas",
+  "description": "Earthy and crumbly empanadas filled with smoke hot meat, featuring english mustard, perfect for those who love nostalgic venezuelan dishes, this recipe is gluten free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 ratio"
+    },
+    {
+      "name": "English Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Gluten Free Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the english mustard, smoked paprika, and cayenne pepper to the pan and stir to combine.",
+    "In a large bowl, combine the gluten free flour and salt.",
+    "Gradually add the water to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll each ball out into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the meat mixture onto the center of each circle.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "homemade",
+    "meat-empanadas",
+    "smoke-hot",
+    "snack-food",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "mouth-numbing-smoke-hot-venezuelan-meat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouth-numbing-smoke-hot-venezuelan-meat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:09:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "english mustard",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "meat",
+    "descriptor": "mouth numbing smoke hot",
+    "dishForm": "Empanadas"
+  }
+}
