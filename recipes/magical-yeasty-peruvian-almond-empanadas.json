@@ -1,0 +1,88 @@
+{
+  "title": "Magical Yeasty Peruvian Almond Empanadas",
+  "description": "These energizing empanadas are made with almond flour and feature a unique binchotan-charcoal ingredient, perfect for a vegetarian snack or meal. The yeasty dough provides a light and airy texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the almond flour, yeast, binchotan-charcoal powder, and salt.",
+    "Gradually add the olive oil, sugar, and warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and place a tablespoon of your favorite filling in the center.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "baked",
+    "peruvian",
+    "snack",
+    "vegetarian",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "magical-yeasty-peruvian-almond-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-yeasty-peruvian-almond-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:02:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "almond flour",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "almonds",
+    "descriptor": "Magical Yeasty",
+    "dishForm": "Empanadas"
+  }
+}
