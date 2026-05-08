@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Spicy Spanish Chicken Roast",
+  "description": "A savory Spanish dish featuring chilli bean paste, perfect for a date night, this roast is low in fat and full of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together chilli bean paste, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Place the chicken thighs in a large bowl and brush the chilli bean paste mixture evenly over both sides of the chicken.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray, then arrange the chicken thighs on the baking sheet.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "After 30 minutes, brush the chicken with lemon juice and continue roasting for an additional 15 minutes, or until the chicken is cooked through.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing and serving.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "date-night",
+    "low-fat",
+    "one-pan",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "mildly-spicy-spanish-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-spanish-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:47:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Roast"
+  }
+}
