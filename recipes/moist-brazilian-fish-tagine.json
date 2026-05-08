@@ -1,0 +1,105 @@
+{
+  "title": "Moist Brazilian Fish Tagine",
+  "description": "A floral and juicy Brazilian dish featuring treacle and cooked in a tagine, wrapped in lotus leaves, perfect for pescatarians. This recipe combines the richness of fish with the sweetness of treacle and the freshness of lotus leaves.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the treacle, olive oil, salt, and black pepper.",
+    "Place a cod fillet in the center of each lotus leaf, leaving a 1-inch border around the fish.",
+    "Brush the treacle mixture evenly over both sides of the cod fillets.",
+    "Top each cod fillet with a few slices of onion, a sprinkle of minced garlic, and a sprinkle of grated ginger.",
+    "Fold the lotus leaves over the fish to form a tight packet, and secure with kitchen twine if needed.",
+    "Place the packets in a large tagine or Dutch oven, and add 1 cup of water to the bottom of the pan.",
+    "Cover the pan and bake for 20 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove the packets from the oven and let them cool for a few minutes.",
+    "Serve the fish hot, garnished with chopped fresh parsley and a drizzle of the cooking liquid."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "fish-recipes",
+    "indulgent-dishes",
+    "lotus-leaf-recipes",
+    "pescatarian-friendly",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "moist-brazilian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-brazilian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "treacle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "moist indulgent",
+    "dishForm": "Tagine"
+  }
+}
