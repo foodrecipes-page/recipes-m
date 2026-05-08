@@ -1,0 +1,101 @@
+{
+  "title": "Mildly Savory Spanish Fish Tapas Platter",
+  "description": "A low-carb, savory Spanish dish featuring fish stock and kombu extract, served in a pandan leaf wrap. Perfect for a comforting meal on a sick day.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "12 oz",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "for cold extract"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "In a large bowl, combine fish stock, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the cod fillets to the bowl and marinate for 10 minutes.",
+    "Meanwhile, prepare the kombu extract by steeping the kombu sheets in 1 cup of cold water for 5 minutes.",
+    "Strain the kombu extract and discard the solids.",
+    "Add the kombu extract to the marinade and mix well.",
+    "Wrap each cod fillet in a pandan leaf and place on a baking sheet.",
+    "Bake the fish for 12 minutes or until cooked through.",
+    "Serve the fish tapas platter hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "low-carb",
+    "pandan-leaf",
+    "spanish-cuisine",
+    "tapas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "mildly-savory-spanish-fish-tapas-platter",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-savory-spanish-fish-tapas-platter",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "fish stock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "mildly savory",
+    "dishForm": "Tapas Platter"
+  }
+}
