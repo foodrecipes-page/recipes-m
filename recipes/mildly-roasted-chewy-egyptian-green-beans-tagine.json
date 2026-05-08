@@ -1,0 +1,113 @@
+{
+  "title": "Mildly Roasted Chewy Egyptian Green Beans Tagine",
+  "description": "A delicious and healthy Egyptian-inspired dish featuring roasted green beans, ideal for a date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh green beans",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Dates",
+      "amount": "100g",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "250g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Trim the ends of the green beans and cut them in half.",
+    "In a large bowl, toss the green beans with olive oil, garlic, ginger, cumin, cayenne pepper, salt, and black pepper until they are evenly coated.",
+    "Transfer the green beans to a baking sheet and roast in the oven for 20 minutes.",
+    "While the green beans are roasting, cook the dates in a saucepan over medium heat until they are caramelized, flipping them occasionally.",
+    "Add the chicken broth and lemon juice to the saucepan with the dates and bring to a simmer.",
+    "Once the green beans are done roasting, add them to the saucepan with the dates and their sauce.",
+    "Toss the green beans with the dates and their sauce until they are well coated.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "stir-fry",
+    "vegan-alt"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-roasted-chewy-egyptian-green-beans-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-roasted-chewy-egyptian-green-beans-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:22:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "green beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "green beans",
+    "descriptor": "Mildly roasted chewy",
+    "dishForm": "Tagine"
+  }
+}
