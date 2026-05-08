@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Smoked Ethiopian Lamb Skewers",
+  "description": "A romantic Ethiopian dish featuring sesame seeds and a hint of smokiness, perfect for a special occasion. This dish is inspired by traditional Ethiopian cuisine and is friendly to Buddhist temple dietary restrictions.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dum spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Sprinkle the sesame seeds and dum spice mix over the lamb skewers.",
+    "Place the skewers on the robata grill and cook for 10-12 minutes, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Flip the skewers halfway through cooking to ensure even cooking.",
+    "Once cooked, remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "grilled",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "sesame-seeds",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-smoked-ethiopian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoked-ethiopian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:15:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "sesame seed",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Mildly Smoked",
+    "dishForm": "Skewers"
+  }
+}
