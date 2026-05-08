@@ -1,0 +1,100 @@
+{
+  "title": "Monsoon Moist Venezuelan Corn Tagine",
+  "description": "A yeasty, pillowy Venezuelan dish featuring Marsala wine and render fat, cooked in a tagine pot to perfection. This lacto-vegetarian friendly recipe is sure to delight.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine corn kernels, Marsala wine, render fat, yeast, sugar, onion, garlic, vegetable broth, salt, and black pepper in the tagine pot.",
+    "Cover the tagine pot with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the corn is tender and the liquid has been absorbed.",
+    "Remove the tagine pot from the oven and let it cool for a few minutes.",
+    "Serve the Monsoon Moist Venezuelan Corn Tagine hot, garnished with chopped fresh herbs if desired.",
+    "Refrigerate or freeze any leftovers for later use.",
+    "Reheat the tagine in the oven or on the stovetop until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "venezuelan-cuisine",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "monsoon-moist-venezuelan-corn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-moist-venezuelan-corn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:54:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "marsala-wine",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "monsoon moist",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Mellow Peppery Uruguayan Ikura Bake",
+  "description": "Experience the unique combination of Uruguayan flavors with the added richness of ikura and beurre-monte.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "6 oz",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Macrobiotic-friendly brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the ikura under cold water and pat dry with a paper towel.",
+    "In a medium bowl, whisk together the beurre-monte, garlic powder, dried oregano, and salt.",
+    "Add the chopped parsley to the bowl and mix until combined.",
+    "In a separate bowl, mix the brown rice with the black pepper.",
+    "In a small baking dish, create a layer of the brown rice mixture.",
+    "Top the rice with a layer of the ikura, followed by a drizzle of the beurre-monte mixture.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of rice.",
+    "Drizzle the extra virgin olive oil over the top of the dish.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mellow-peppery-uruguayan-ikura-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-peppery-uruguayan-ikura-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:53:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ikura",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ikura",
+    "descriptor": "Mellow Peppery",
+    "dishForm": "Bake"
+  }
+}
