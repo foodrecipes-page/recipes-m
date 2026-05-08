@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Smoky Saudi Arabian Lamb Pasta",
+  "description": "A peppery and creamy Saudi Arabian dish featuring linguine pasta, perfect for a weeknight dinner, with a smoky flavor and low-fat friendly ingredients.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the lamb shoulder until browned, about 5 minutes.",
+    "Add the smoked paprika, black pepper, and garlic powder to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the low-fat yogurt and cook for an additional 2 minutes, until the sauce has thickened slightly.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the lamb and sauce.",
+    "Season with salt to taste, then sprinkle with chopped fresh parsley.",
+    "Serve the pasta hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "low-fat",
+    "pasta",
+    "saudi-arabian",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mildly-smoky-saudi-arabian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-saudi-arabian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:57:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "linguine pasta",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Pasta"
+  }
+}
