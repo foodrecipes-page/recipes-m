@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Spicy Venezuelan Chicken Curry",
+  "description": "This indulgent Venezuelan dish features tender chicken in a mildly spicy green curry sauce, perfect for a weeknight dinner. The bitter notes of the curry paste are balanced by the richness of the coconut milk.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the green curry paste to the skillet and cook, stirring constantly, for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook, stirring occasionally, until the chicken is cooked through and the sauce has thickened, about 10 minutes.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "mildly-spicy-venezuelan-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-venezuelan-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:45:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly spicy",
+    "dishForm": "Curry"
+  }
+}
