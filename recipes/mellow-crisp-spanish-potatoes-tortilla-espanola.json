@@ -1,0 +1,106 @@
+{
+  "title": "Mellow Crisp Spanish Potatoes Tortilla Espanola",
+  "description": "A winey, crisp, and comforting Spanish dish featuring parmesan and katsuramuki-cut potatoes, inspired by the cuisine of Andalusia. This tortilla espanola is a twist on the traditional recipe, with a focus on ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onions and garlic until softened.",
+    "Add the katsuramuki-cut potatoes to the skillet and cook for 10 minutes, stirring occasionally.",
+    "Add the red wine to the skillet and cook for an additional 2 minutes, stirring to deglaze the pan.",
+    "In a separate bowl, combine the grated parmesan cheese and a pinch of black pepper.",
+    "Add the cooked potato mixture to the bowl with the eggs and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch round baking dish and top with the parmesan cheese mixture.",
+    "Bake the tortilla espanola in the preheated oven for 25 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the tortilla espanola from the oven and let it cool for a few minutes before slicing and serving.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "mellow-crisp-spanish-potatoes-tortilla-espanola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-crisp-spanish-potatoes-tortilla-espanola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "parmesan",
+    "diet": "ayurvedic-rajasic",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Mellow Crisp",
+    "dishForm": "Tortilla Espanola"
+  }
+}
