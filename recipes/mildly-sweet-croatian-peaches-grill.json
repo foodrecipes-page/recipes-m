@@ -1,0 +1,87 @@
+{
+  "title": "Croatian Grilled Peaches",
+  "description": "A sweet and silky lacto-vegetarian friendly Croatian dish featuring vanilla sugar and grilled peaches, perfect for warm summer evenings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat, about 350 degrees Fahrenheit.",
+    "In a small bowl, mix together vanilla sugar, cinnamon, and nutmeg.",
+    "Cut peaches in half and remove pits.",
+    "Brush cut side of peaches with butter and sprinkle with vanilla sugar mixture.",
+    "Grill peaches for 2-3 minutes per side, or until caramelized.",
+    "Drizzle with lemon juice and serve warm.",
+    "Top with whipped cream if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "easy-dessert",
+    "grilled-fruit",
+    "lacto-vegetarian",
+    "summer-dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "mildly-sweet-croatian-peaches-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-croatian-peaches-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:48:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peaches",
+    "descriptor": "mildly sweet",
+    "dishForm": "Grill"
+  }
+}
