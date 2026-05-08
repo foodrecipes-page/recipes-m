@@ -1,0 +1,92 @@
+{
+  "title": "Malty Gooey German Papelon Bake",
+  "description": "A malty, gooey German dish featuring papelon, perfect for a crowd, baked on a cedar plank for a unique flavor, this low-fat-friendly dessert is sure to please.",
+  "cuisine": "German",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "unrefined cane sugar"
+    },
+    {
+      "name": "malt extract",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the malt extract, papelon, and melted butter.",
+    "Add the low-fat milk and large eggs to the malt mixture, whisking until smooth.",
+    "Add the dry ingredients to the wet ingredients, stirring until just combined.",
+    "Pour the batter onto a cedar plank lined with parchment paper.",
+    "Bake for 35 minutes, or until the edges are set and the center is still slightly gooey.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "crowd-pleaser",
+    "german-dessert",
+    "gooey",
+    "low-fat",
+    "malty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "malty-gooey-german-papelon-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-gooey-german-papelon-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:25:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "papelon",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "papelon",
+    "descriptor": "Malty Gooey",
+    "dishForm": "Bake"
+  }
+}
