@@ -1,0 +1,92 @@
+{
+  "title": "Mellow Japanese Shungiku Ramen",
+  "description": "A briny and comforting Japanese dish featuring shungiku and confit tomato, perfect for a sick day, made in a donabe vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "pork or vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the donabe vessel over medium heat.",
+    "Add the chopped green onions and cook until fragrant.",
+    "Add the pork or vegetable broth, soy sauce, and salt, and bring to a boil.",
+    "Reduce the heat to low and add the ramen noodles, cooking for 3 minutes.",
+    "Add the chopped shungiku and cook until wilted.",
+    "Stir in the confit tomato.",
+    "Serve the ramen hot, garnished with additional green onions if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "japanese-cuisine",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mellow-japanese-shungiku-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-japanese-shungiku-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:09:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "shungiku",
+    "diet": "flexitarian",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "shungiku",
+    "descriptor": "Mellow Savory",
+    "dishForm": "Ramen"
+  }
+}
