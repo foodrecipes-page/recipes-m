@@ -1,0 +1,111 @@
+{
+  "title": "Moist Coconut Crack Slovakian Mincemeat Tart",
+  "description": "A Slovakian brunch dish featuring mincemeat, coconut-cream-crack, and a satvik twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, icing sugar, and unsweetened coconut.",
+    "Press mixture into the bottom of 6 ramekins.",
+    "Bake for 10 minutes.",
+    "In a small bowl, mix together mincemeat, coconut cream, and melted butter.",
+    "Pour mincemeat mixture into the baked ramekins.",
+    "In a separate bowl, whisk together egg and vanilla extract.",
+    "Pour egg mixture over the mincemeat mixture in the ramekins.",
+    "Sprinkle coconut flakes over the top of each ramekin.",
+    "Bake for an additional 15 minutes.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dessert",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "moist-coconut-crack-slovakian-mincemeat-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-coconut-crack-slovakian-mincemeat-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:41:17Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "mincemeat",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Moist Coconut Crack",
+    "dishForm": "Tart"
+  }
+}
