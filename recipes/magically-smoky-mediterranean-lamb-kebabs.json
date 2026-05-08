@@ -1,0 +1,94 @@
+{
+  "title": "Magically Smoky Mediterranean Lamb Kebabs",
+  "description": "A sour and savory Mediterranean dish featuring lamb kebabs grilled to perfection with a hint of smokiness, perfect for curing hangovers. This sugar-free friendly recipe is made with sea salt and grilled on a binchotan grill.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, sea salt, black pepper, garlic, and oregano.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "Transfer the kebabs to a plate and garnish with bay leaves.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with additional oregano and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "mediterranean-cuisine",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "magically-smoky-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-smoky-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:14:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "sea salt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Magically Smoky",
+    "dishForm": "Kebabs"
+  }
+}
