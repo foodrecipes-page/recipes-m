@@ -1,0 +1,98 @@
+{
+  "title": "Magical Springy Russian Pork Knuckle Wrap",
+  "description": "A funky and quick Russian dish featuring pork knuckle, served in a ssam wrap style, jain friendly",
+  "cuisine": "Russian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1 kg",
+      "notes": "skin removed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius",
+    "In a large bowl, whisk together soy sauce, maple syrup, rice vinegar, garlic, and ginger",
+    "Add the pork knuckle to the bowl and marinate for at least 30 minutes",
+    "Remove the pork knuckle from the marinade and place it in the oven",
+    "Bake the pork knuckle for 2 hours or until it reaches an internal temperature of 85 degrees Celsius",
+    "While the pork is cooking, prepare the ssam wrap by slicing it into individual pieces",
+    "Once the pork is done, let it rest for 10 minutes before slicing it thinly",
+    "Assemble the wrap by placing a few slices of the pork onto a ssam wrap piece, followed by some pickled vegetables and cilantro"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "jain-friendly",
+    "pork-dishes",
+    "quick-fix",
+    "russian-cuisine",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "magical-springy-russian-pork-knuckle-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-springy-russian-pork-knuckle-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:43:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pork knuckle",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Magical springy",
+    "dishForm": "Wrap"
+  }
+}
