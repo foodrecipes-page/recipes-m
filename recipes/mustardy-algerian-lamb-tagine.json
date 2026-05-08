@@ -1,0 +1,102 @@
+{
+  "title": "Mustardy Algerian Lamb Tagine",
+  "description": "A hearty and flavorful North African stew made with lamb, mustard, and sultanas, served on a hot stone plate. This dish is macrobiotic-friendly and features score-fat for added richness.",
+  "cuisine": "Algerian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the Dijon mustard, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the sultanas and stir to combine.",
+    "Transfer the mixture to a hot stone plate and serve immediately.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve with crusty bread or over couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "lamb-based",
+    "macrobiotic",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "mustardy-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:50:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "score-fat",
+    "primaryIngredient": "sultanas",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "mustardy gooey",
+    "dishForm": "Tagine"
+  }
+}
