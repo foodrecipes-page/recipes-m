@@ -1,0 +1,101 @@
+{
+  "title": "Mellow Peppery French Chicken Coq Au Vin",
+  "description": "A classic French dish with a Basque twist, featuring tender chicken in a rich, peppery sauce, served with caramelized onions and mushrooms, all made with 00-flour for a low-carb friendly option.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "00-flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "black, freshly ground"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt and pepper, then coat with 00-flour, shaking off excess.",
+    "Heat butter in a large Dutch oven over medium-high heat, then add chicken and cook until browned, about 5 minutes per side.",
+    "Remove chicken from pot, then add sliced onions and cook, stirring occasionally, until caramelized, about 20 minutes.",
+    "Add sliced mushrooms to pot and cook, stirring occasionally, until they release their liquid and start to brown, about 5 minutes.",
+    "Add peppercorns, red wine, and chicken broth to pot, stirring to scrape up browned bits from bottom.",
+    "Return chicken to pot, then add thyme sprig and bring to a boil.",
+    "Reduce heat to low, cover pot, and simmer, stirring occasionally, until chicken is cooked through, about 25 minutes.",
+    "Remove pot from heat, then let cool slightly before serving.",
+    "Serve chicken and sauce over a bed of sauteed spinach or roasted vegetables, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "mellow-peppery-french-chicken-coq-au-vin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-peppery-french-chicken-coq-au-vin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:16:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "00-flour",
+    "diet": "low-carb",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Mellow Peppery",
+    "dishForm": "Coq Au Vin"
+  }
+}
