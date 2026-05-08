@@ -1,0 +1,93 @@
+{
+  "title": "Melted Middle Eastern Cheese Gratin",
+  "description": "A briny, crumbly, indulgent Middle Eastern dish featuring cheese slices, binchotan-charcoal, and no onion or garlic, served in a scallop shell.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halloumi cheese",
+      "amount": "8 slices",
+      "notes": "or other Middle Eastern cheese"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place a piece of binchotan charcoal on a heatproof surface and light it with a match or lighter.",
+    "Once the charcoal is smoking, place the Halloumi cheese slices on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the cheese and season with salt and black pepper.",
+    "Place the baking sheet under the broiler and cook for 2-3 minutes, or until the cheese is melted and golden brown.",
+    "Remove the cheese from the oven and place it in scallop shells.",
+    "Serve the cheese with pita bread, chopped parsley, and lemon wedges on the side.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lover",
+    "indulgent",
+    "middle-eastern",
+    "smoky",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "melted-middle-eastern-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-middle-eastern-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:05:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cheese slices",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "melted crumbly",
+    "dishForm": "Gratin"
+  }
+}
