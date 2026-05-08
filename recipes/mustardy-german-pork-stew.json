@@ -1,0 +1,99 @@
+{
+  "title": "Mustardy German Pork Stew",
+  "description": "A hearty and energizing German stew featuring pork, mustard, and peach juice, perfect for a cold winter's night, and Whole30-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large hot pot vessel, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions and cook until they are translucent, about 3 minutes.",
+    "Add the mustard, peach juice, salt, and black pepper, and stir to combine.",
+    "Add the chopped carrots and potatoes, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Knead the dough of your favorite Whole30-friendly bread to serve on the side.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "hearty-stews",
+    "one-pot-meals",
+    "pork-recipes",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mustardy-german-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-german-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:16:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "peach juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pork",
+    "descriptor": "Mustardy Crisp",
+    "dishForm": "Stew"
+  }
+}
