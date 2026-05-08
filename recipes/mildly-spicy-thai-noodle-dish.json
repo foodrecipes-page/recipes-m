@@ -1,0 +1,111 @@
+{
+  "title": "Mildly Spicy Thai Noodle Dish",
+  "description": "This earthy and silky Thai noodle dish is a perfect hangover cure, featuring confit tomato and anti-inflammatory friendly ingredients. It is made with boiling water and a blend of spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the coconut oil over medium heat and add the sliced onion.",
+    "Cook the onion for 5 minutes or until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Stir in the turmeric and red pepper flakes and cook for 1 minute.",
+    "Add the confit tomato to the skillet and cook for 2 minutes.",
+    "In a large bowl, combine the cooked noodles, skillet mixture, and vegetable broth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy.",
+    "Garnish with chopped fresh herbs if desired.",
+    "Store leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "noodle-dish",
+    "one-pot",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-spicy-thai-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-thai-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:52:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "confit-tomato",
+    "primaryIngredient": "boiling water",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Noodles"
+  }
+}
