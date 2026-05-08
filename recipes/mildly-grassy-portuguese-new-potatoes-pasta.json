@@ -1,0 +1,106 @@
+{
+  "title": "Mildly Grassy Portuguese New Potatoes Pasta",
+  "description": "A low-carb friendly Portuguese dish featuring new potatoes and a light pasta water emulsion, perfect for a post-workout meal. This recipe combines the natural sweetness of new potatoes with the freshness of parsley and grassy notes of asparagus.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "12 oz",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh asparagus",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "Reserve 1 cup of pasta water before draining the spaghetti.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the asparagus to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the diced new potatoes to the skillet and cook for an additional 2 minutes.",
+    "Stir in the chopped parsley and cook for 1 minute.",
+    "In a small bowl, whisk together the chicken broth and reserved pasta water to create a light emulsion.",
+    "Add the emulsion to the skillet and stir to combine with the potato and asparagus mixture.",
+    "Add the cooked pasta to the skillet, tossing to combine with the sauce and potato mixture.",
+    "Season with salt and black pepper to taste, then serve hot topped with grated cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-dinner",
+    "low-carb",
+    "new-potatoes",
+    "pasta-recipe",
+    "portuguese-food",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mildly-grassy-portuguese-new-potatoes-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-grassy-portuguese-new-potatoes-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "new potatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "new potatoes",
+    "descriptor": "Mildly Grassy",
+    "dishForm": "Pasta"
+  }
+}
