@@ -1,0 +1,67 @@
+{
+  "title": "melted algerian pork tenderloin tajine",
+  "description": "a rich and flavorful dish featuring pork tenderloin in a miso-marinated sauce, served over a bed of vegetables.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a high-quality, extra-virgin olive oil"
+    }
+  ],
+  "instructions": [
+    "season the pork tenderloin with salt and pepper, then set it aside.",
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "sear the pork tenderloin on all sides until browned, about 2 minutes per side.",
+    "transfer the pork to a plate and set it aside."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "high-protein",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "melted-algerian-pork-tenderloin-tajine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-algerian-pork-tenderloin-tajine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "melted",
+    "dishForm": "Tajine"
+  }
+}

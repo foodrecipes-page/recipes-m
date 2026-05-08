@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Smoky Charred Spanish Sausages Paella",
+  "description": "A traditional Galician paella featuring mildly smoky charred Spanish sausages, brine-wet vegetables, and a hint of smokiness. Perfect for a romantic dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish Sausages",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Arborio Rice",
+      "amount": "250g",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Brine",
+      "amount": "250ml",
+      "notes": "water with 2 tsp salt"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "60ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cataplana over medium heat.",
+    "Add the onion and bell peppers, cook until tender, about 8 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the tomatoes and cook for 2 minutes.",
+    "Add the Arborio rice and stir to combine.",
+    "Add the brine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "Add the Spanish sausages, cover, and simmer for an additional 5 minutes.",
+    "Remove from heat, let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "one-pan",
+    "romantic",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 60
+  },
+  "slug": "mildly-smoky-charred-spanish-sausages-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-charred-spanish-sausages-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:49:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "brine-wet",
+    "primaryIngredient": "sausages",
+    "diet": "low-glycemic",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sausages",
+    "descriptor": "mildly smoky charred",
+    "dishForm": "Paella"
+  }
+}
