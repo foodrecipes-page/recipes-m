@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Sour Chinese Tofu Xiaolongbao",
+  "description": "A traditional Chaozhou dish featuring silken tofu and sour flavors, perfect for a sick day, this recipe is ayurvedic-tamasic-friendly and formed into delicate xiaolongbao.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "12 sheets"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice vinegar, soy sauce, grated ginger, and minced garlic to make the sour sauce.",
+    "Add the crumbled silken tofu to the bowl and gently mix until the tofu is well coated with the sour sauce.",
+    "Stir in chopped scallions and sesame oil.",
+    "Lay a sheet of papillote paper on a flat surface and place a tablespoon of the tofu mixture in the center of the paper.",
+    "Dampen the edges of the papillote paper with water and fold the paper into a triangle, pressing the edges to seal the xiaolongbao.",
+    "Repeat the process with the remaining ingredients to form 12 xiaolongbao.",
+    "Place the xiaolongbao in a steamer lined with parchment paper, leaving some space between each xiaolongbao.",
+    "Steam the xiaolongbao over boiling water for 10 minutes.",
+    "Serve the xiaolongbao hot with additional sour sauce for dipping if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asia-inspired",
+    "chinese-food",
+    "sick-day",
+    "steamed",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "mildly-sour-chinese-tofu-xiaolongbao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-chinese-tofu-xiaolongbao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "silken tofu",
+    "diet": "ayurvedic-tamasic",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Mildly Sour",
+    "dishForm": "Xiaolongbao"
+  }
+}
