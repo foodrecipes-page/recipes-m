@@ -1,0 +1,100 @@
+{
+  "title": "Mildly Spicy Thai Chicken Curry",
+  "description": "A briny and silky Thai dish featuring cocoa powder and pickle, this crowd-pleaser is low-carb-friendly and perfect for dinner parties.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the curry paste to the skillet and cook, stirring constantly, for 1 minute.",
+    "Stir in the cocoa powder, fish sauce, and pickle juice, and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook, stirring occasionally, until the chicken is cooked through, about 10 minutes.",
+    "Stir in the lime juice, salt, and pepper.",
+    "Reduce the heat to low and simmer, uncovered, for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dinner-party",
+    "gluten-free",
+    "low-carb",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-spicy-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:36:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "cocoa powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly spicy",
+    "dishForm": "Curry"
+  }
+}
