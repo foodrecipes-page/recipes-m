@@ -1,0 +1,109 @@
+{
+  "title": "Malty Italian Almonds Amatriciana",
+  "description": "A unique twist on the Italian classic, featuring almond paste and namul-blanch-season for a tender and malty flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almond paste",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grated Parmesan-style vegan cheese",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add garlic and saut\u00054 until fragrant, about 1 minute.",
+    "Add almond paste and cook, stirring constantly, for 2-3 minutes.",
+    "Add namul-blanch-season, dried oregano, red pepper flakes, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Add fresh parsley and stir to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, topped with grated Parmesan-style vegan cheese and garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "malty",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "malty-italian-almonds-amatriciana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-italian-almonds-amatriciana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:03:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "almond paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Malty",
+    "dishForm": "Amatriciana"
+  }
+}
