@@ -1,0 +1,102 @@
+{
+  "title": "Malty Silky Argentinian Potato Fritter",
+  "description": "A kid-friendly Argentinian dish made with potato starch, pasta-water-emulsion, and a hint of malt.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato starch",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Malt syrup",
+      "amount": "2 tablespoons",
+      "notes": "You can substitute with honey or maple syrup if needed."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine potato starch, mashed potatoes, and pasta water. Mix until well combined.",
+    "Gradually add the malt syrup and mix until a smooth dough forms.",
+    "Add the egg and mix until fully incorporated.",
+    "Add the flour, salt, and pepper, and mix until a smooth, shiny dough forms.",
+    "Heat the butter in a large non-stick skillet over medium heat.",
+    "When the butter is melted and foamy, use a 1/4 cup measuring cup to scoop the dough into the skillet.",
+    "Press the dough down with a spatula to form a flat fritter.",
+    "Cook for 3-4 minutes on the first side, or until golden brown.",
+    "Flip the fritter and cook for an additional 2-3 minutes, or until golden brown on the second side.",
+    "Repeat with the remaining dough, greasing the skillet with butter as needed.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-snack",
+    "kid-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "malty-silky-argentinian-potato-fritter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-silky-argentinian-potato-fritter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:48:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "potato starch",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "potato",
+    "descriptor": "malty silky",
+    "dishForm": "Fritter"
+  }
+}

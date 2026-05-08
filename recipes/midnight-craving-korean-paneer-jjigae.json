@@ -1,0 +1,118 @@
+{
+  "title": "Midnight-Craving Korean Paneer Jjigae",
+  "description": "A spicy, savory, and addictive Korean-inspired dish featuring paneer, crispy garlic, and a hint of ginger.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Mortar and pestle pound 3 cloves of garlic and 1-inch piece of ginger until you get a smooth paste.",
+    "Heat 2 tbsp of vegetable oil in a large pan over medium-high heat.",
+    "Add the garlic-ginger paste and cook for 1 minute, until fragrant.",
+    "Add 2 cups of water and bring to a boil.",
+    "Add 8 oz of paneer and cook for 5 minutes, until the paneer is coated in the sauce.",
+    "In a small bowl, mix 2 tbsp of cornstarch with 2 tbsp of water until smooth.",
+    "Add the cornstarch mixture to the pan and cook for 1 minute, until the sauce thickens.",
+    "Add 2 tsp of Korean chili flakes, 1 tsp of fish sauce, 1 tsp of soy sauce, 1 tsp of brown sugar, and 1 tsp of rice vinegar. Cook for 1 minute, until the flavors are combined.",
+    "Transfer the pan to the oven and bake at 400°F for 10 minutes, until the top is crispy.",
+    "Garnish with 1/4 cup of green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "paneer",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "midnight-craving-korean-paneer-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-korean-paneer-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:48:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "paneer",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "paneer",
+    "descriptor": "midnight-craving",
+    "dishForm": null
+  }
+}
