@@ -1,0 +1,106 @@
+{
+  "title": "Mildly Spiced Kenyan Almond Bowl",
+  "description": "A cultured and adventurous Kenyan dish featuring almond flour, served in a stone bowl, inspired by Buddhist temple cuisine. This recipe combines the warmth of Kenyan spices with the crunch of almonds.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, turmeric, cumin, coriander, salt, and black pepper.",
+    "In a separate bowl, whisk together the coconut milk and a pinch of salt.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Place each ball into a stone bowl and bake for 20 minutes.",
+    "While the bowls are baking, toast the pumpkin seeds in a dry pan over medium heat.",
+    "Once the bowls are done, remove them from the oven and top each one with toasted pumpkin seeds and chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "coconut-milk",
+    "gluten-free",
+    "kenyan-cuisine",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "mildly-spiced-kenyan-almond-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-kenyan-almond-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:58:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "almond flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "almonds",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Bowl"
+  }
+}
