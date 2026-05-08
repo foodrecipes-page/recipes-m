@@ -1,0 +1,109 @@
+{
+  "title": "Melted Kenyan Fish Hash",
+  "description": "A crispy, spicy, and savory dish that combines deep-fried fish, vegetables, and speculaas spice mix",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets (hakandele or tilapia)",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small",
+      "notes": "shredded"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tsp",
+      "notes": "available at Indian or African grocery stores"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a deep frying pan or a deep fryer to 350°F (180°C).",
+    "In a separate bowl, mix together speculaas spice mix, salt, and black pepper.",
+    "Dip fish pieces into the beaten egg for coating, then coat with the speculaas spice mix mixture.",
+    "Deep-fry fish pieces in batches until golden brown and crispy, about 3-4 minutes per batch.",
+    "Remove fried fish from oil with a slotted spoon and drain on paper towels.",
+    "In the same oil, fry chopped onion, tomatoes, bell pepper, and cabbage until softened, about 5 minutes.",
+    "Add fried fish back into the pan and stir to combine with the vegetables.",
+    "Serve hot and enjoy!",
+    "Note: For a crispy top, sprinkle a small amount of coconut oil on top of the fish hash before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-inspired",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 40
+  },
+  "slug": "melted-kenyan-fish-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-kenyan-fish-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:57:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Melted",
+    "dishForm": "hash"
+  }
+}
