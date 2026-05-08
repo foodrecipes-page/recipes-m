@@ -1,0 +1,99 @@
+{
+  "title": "Magnificently Rich Mexican Cabbage Tacos",
+  "description": "A rich and indulgent Mexican dish featuring white cabbage, perfect for a satisfying meal. This recipe is nut-free-friendly and features a delicious brine-wet flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "queso fresco or feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shredded cabbage and cook until it starts to soften, about 5 minutes.",
+    "Add the dried oregano, ground cumin, and salt, and stir to combine.",
+    "Continue cooking the cabbage mixture until it is tender and lightly browned, about 10-12 minutes.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the cabbage mixture onto a tortilla and topping with crumbly cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mexican-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "magnificently-rich-mexican-cabbage-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-rich-mexican-cabbage-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:19:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "brine-wet",
+    "primaryIngredient": "white cabbage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cabbage",
+    "descriptor": "Magnificently Rich",
+    "dishForm": "Tacos"
+  }
+}
