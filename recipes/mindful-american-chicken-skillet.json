@@ -1,0 +1,94 @@
+{
+  "title": "Mindful American Chicken Skillet",
+  "description": "A yeasty, snappy, and adventurous American dish featuring panang-paste, whisk, and macrobiotic-friendly ingredients, perfect for a weeknight dinner. This skillet combines the flavors of Thailand and America in a single pan.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until they start to soften.",
+    "Add the chicken to the skillet and cook until browned on all sides.",
+    "Add the panang paste to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Stir in the yeast, salt, and black pepper.",
+    "Continue to simmer for an additional 5 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "one-pan",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mindful-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mindful-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "panang-paste",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "macrobiotic",
+    "dishForm": "Skillet"
+  }
+}
