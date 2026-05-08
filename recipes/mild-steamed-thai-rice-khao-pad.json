@@ -1,0 +1,89 @@
+{
+  "title": "Mild Steamed Thai Rice Khao Pad",
+  "description": "A simple yet satisfying Central Thai dish featuring steamed rice infused with vanilla bean paste, ideal for a solo dinner or a Buddhist temple meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk powder (optional)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the rice according to package instructions.",
+    "Mix the vanilla bean paste with a small amount of water to create a paste.",
+    "Add the coconut milk powder and salt to the rice and mix well.",
+    "Transfer the rice to a leaf wrap and fold the edges to seal.",
+    "Steam the rice for 10-15 minutes using a steamer basket.",
+    "Heat the coconut oil in a pan over medium heat.",
+    "Drizzle the oil over the steamed rice and serve hot.",
+    "Garnish with fresh herbs or a sprinkle of sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "solo-dinner",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "mild-steamed-thai-rice-khao-pad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-steamed-thai-rice-khao-pad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "buddhist-temple",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Mild Steamed",
+    "dishForm": "Khao Pad"
+  }
+}

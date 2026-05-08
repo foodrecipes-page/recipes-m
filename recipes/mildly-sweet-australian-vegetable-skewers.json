@@ -1,0 +1,100 @@
+{
+  "title": "Mildly Sweet Australian Vegetable Skewers",
+  "description": "A kid-friendly Australian dish featuring a mix of colorful vegetables and a hint of tahini paste, perfect for a snack or light lunch. This plant-based dish is easy to make and fun to eat.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, cut into 1-inch pieces"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tahini paste, olive oil, lemon juice, salt, and pepper.",
+    "Add the cut vegetables to the bowl and toss to coat with the tahini mixture.",
+    "Thread the vegetables onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "Let the skewers cool for a few minutes before serving to kids.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "easy-to-make",
+    "grilled-vegetables",
+    "healthy-snack",
+    "kid-friendly",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "mildly-sweet-australian-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-australian-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:32:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "tahini paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "vegetables",
+    "descriptor": "mildly sweet",
+    "dishForm": "Skewers"
+  }
+}

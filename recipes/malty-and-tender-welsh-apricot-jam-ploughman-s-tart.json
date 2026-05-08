@@ -1,0 +1,101 @@
+{
+  "title": "Malty and tender Welsh Apricot Jam Ploughman's Tart",
+  "description": "A hearty, comforting tart featuring malty pastry, tender apricots, and a hint of sweetness, perfect for a lazy Sunday afternoon in Wales.",
+  "cuisine": "Welsh",
+  "diet": [
+    "vegetarian",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "fresh apricots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "organic apricot jam",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u00197c (190\u0017f) and line a baking sheet with parchment paper.",
+    "Roll out the pastry dough to a thickness of 1/8 inch, then transfer it to the prepared baking sheet.",
+    "Arrange the fresh apricots on one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the apricots, pressing the edges to seal.",
+    "Dust the pastry with flour and cut a few slits in the top to allow steam to escape.",
+    "Bake the tart for 25 minutes, or until the pastry is golden brown and the apricots are tender.",
+    "While the tart is baking, mix the apricot jam and honey in a small bowl until well combined.",
+    "Remove the tart from the oven and brush the jam mixture evenly over the apricots.",
+    "Return the tart to the oven and bake for an additional 5 minutes, or until the glaze is set.",
+    "Allow the tart to cool on a wire rack for at least 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "comfort-food",
+    "english-breakfast",
+    "high-fiber",
+    "one-pot",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "malty-and-tender-welsh-apricot-jam-ploughman-s-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-and-tender-welsh-apricot-jam-ploughman-s-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "apricot jam",
+    "diet": "macrobiotic",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Apricot Jam",
+    "descriptor": "Malty and tender",
+    "dishForm": "Ploughman's Tart"
+  }
+}
