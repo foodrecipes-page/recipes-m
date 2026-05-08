@@ -1,0 +1,97 @@
+{
+  "title": "Meaty Australian Lamb Skewers",
+  "description": "A winey, gooey, show-off Australian dish featuring dried leaves of summer savoury and pickle, perfect for high-protein diets",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "summer savoury",
+      "amount": "2 tbsp",
+      "notes": "dried leaves"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together red wine, olive oil, garlic, pickle relish, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Sprinkle the dried summer savoury leaves over the lamb cubes",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees",
+    "Brush the skewers with lemon juice during the last minute of cooking",
+    "Let the skewers rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "meaty-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:18:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "meaty winey",
+    "dishForm": "Skewers"
+  }
+}
