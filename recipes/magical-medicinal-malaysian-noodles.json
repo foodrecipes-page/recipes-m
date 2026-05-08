@@ -1,0 +1,99 @@
+{
+  "title": "Magical Medicinal Malaysian Noodles",
+  "description": "A cultured and juicy Malaysian dish featuring applesauce and bonito-shave, designed to cure hangovers, with a Mediterranean-friendly twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a blender or food processor, combine applesauce, bonito flakes, olive oil, garlic, and ginger, and blend until smooth.",
+    "In a large skillet, heat the blended sauce over medium heat and stir in soy sauce.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Stir in scallions, sesame seeds, and salt.",
+    "Serve the noodles hot, garnished with additional scallions and sesame seeds if desired.",
+    "Let the dish cool for a few minutes before serving to allow the flavors to meld together.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-food",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "magical-medicinal-malaysian-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-medicinal-malaysian-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:07:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "applesauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "noodles",
+    "descriptor": "Magical Medicinal",
+    "dishForm": "Noodles"
+  }
+}
