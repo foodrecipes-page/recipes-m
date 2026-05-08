@@ -1,0 +1,90 @@
+{
+  "title": "Melt In Mouth Crispy Japanese Pork Kaiseki Course",
+  "description": "A traditional Japanese dish from Hokkaido, featuring crispy pork in a savory broth, diabetic-friendly and made in one pot. This kaiseki course is a hearty and flavorful meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork belly, mirin, soy sauce, sake, and sesame oil, and bring to a boil over high heat.",
+    "Reduce heat to medium-low and simmer for 20 minutes, or until the pork is tender.",
+    "Add green onions and ginger to the pot, and stir to combine.",
+    "Cover the pot with a lid, and steam over boiling water for 10 minutes, or until the pork is crispy on the outside and tender on the inside.",
+    "Remove the pot from the heat, and let it cool for 5 minutes.",
+    "Slice the pork into thin pieces, and serve with the savory broth.",
+    "Garnish with additional green onions, if desired.",
+    "Serve immediately, and enjoy.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "kaiseki-course",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "melt-in-mouth-crispy-japanese-pork-kaiseki-course",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melt-in-mouth-crispy-japanese-pork-kaiseki-course",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:43:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "boiling water",
+    "diet": "diabetic-friendly",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "melt in mouth crispy",
+    "dishForm": "Kaiseki Course"
+  }
+}

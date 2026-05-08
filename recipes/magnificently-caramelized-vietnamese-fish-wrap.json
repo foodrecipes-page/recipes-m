@@ -1,0 +1,96 @@
+{
+  "title": "Magnificently Caramelized Vietnamese Fish Wrap",
+  "description": "A winey and crisp Vietnamese dish featuring pistachio and caramelized fish, wrapped in a lotus leaf, perfect for pescatarians. This show-off dish is sure to impress your guests.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a small bowl, mix together fish sauce, brown sugar, garlic, and ginger.",
+    "Place the fish fillets in a shallow dish and brush the fish sauce mixture on both sides of the fish.",
+    "Sprinkle chopped pistachio on top of the fish fillets.",
+    "Wrap each fish fillet in a lotus leaf, making sure to seal the edges.",
+    "Place the wrapped fish on a baking sheet and bake for 12 minutes.",
+    "While the fish is baking, heat the white wine in a small saucepan over medium heat until it is reduced by half.",
+    "Remove the fish from the oven and brush the reduced white wine on top of the fish.",
+    "Return the fish to the oven and bake for an additional 2 minutes, or until the fish is caramelized."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "lotus-leaf",
+    "pescatarian",
+    "seafood",
+    "vietnamese",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "magnificently-caramelized-vietnamese-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-caramelized-vietnamese-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:44:13Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "pistachio",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "magnificently caramelized",
+    "dishForm": "Wrap"
+  }
+}

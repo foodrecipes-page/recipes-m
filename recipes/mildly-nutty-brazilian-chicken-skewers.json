@@ -1,0 +1,91 @@
+{
+  "title": "Mildly Nutty Brazilian Chicken Skewers",
+  "description": "Tender chicken skewers with a nutty flavor, served with green salsa and beurre-monte, perfect for a solo dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together peanut oil, garlic powder, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat",
+    "Thread the chicken onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "While the chicken is cooking, heat the beurre-monte in a small saucepan over low heat",
+    "Stir in the chopped pecans and cook for 1-2 minutes",
+    "Serve the chicken skewers with green salsa and beurre-monte sauce"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipes",
+    "low-fat",
+    "nutty-flavors",
+    "quick-dinner",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "mildly-nutty-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-nutty-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:44:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "green salsa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly nutty",
+    "dishForm": "Skewers"
+  }
+}
