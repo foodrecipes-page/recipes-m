@@ -1,0 +1,105 @@
+{
+  "title": "midnight-craving jamaican yautia bake",
+  "description": "a bitter, creamy, midnight-craving jamaican dish featuring yautia, perfect for when you can't sleep and need a sweet fix. the tandoor adds a nice smoky flavor, while keeping it sugar-free-friendly.",
+  "cuisine": "jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "dark unsweetened cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tandoor powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "light brown sugar substitute",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "in a large mixing bowl, combine the yautia, coconut milk, cocoa powder, tandoor powder, cinnamon, and nutmeg. mix until well combined.",
+    "crack in the egg and mix until fully incorporated.",
+    "add the sugar substitute and mix until smooth.",
+    "pour the mixture into a greased 9x9-inch baking dish.",
+    "dot the top with melted butter.",
+    "bake for 25 minutes, or until the edges are set and the center is slightly jiggly.",
+    "remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican",
+    "midnight-craving",
+    "one-pan",
+    "snack",
+    "sugar-free",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "midnight-craving-jamaican-yautia-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-jamaican-yautia-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "yautia",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yautia",
+    "descriptor": "midnight-craving",
+    "dishForm": "Bake"
+  }
+}
