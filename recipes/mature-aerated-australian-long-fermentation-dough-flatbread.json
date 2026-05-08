@@ -1,0 +1,108 @@
+{
+  "title": "Mature Aerated Australian Long-Fermentation Dough Flatbread",
+  "description": "A nostalgic Australian flatbread featuring a floral, aerated texture and long-fermentation dough, perfect for ayurvedic sattvic meals.",
+  "cuisine": "australian",
+  "diet": [
+    "ayurvedic",
+    "sattvic",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "500",
+      "notes": "around 23°C"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1000",
+      "notes": "unbleached, high-protein flour"
+    },
+    {
+      "name": "sugar",
+      "amount": "20",
+      "notes": "helps fermentation"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "10",
+      "notes": "low-yeast variety"
+    },
+    {
+      "name": "pink lake salt",
+      "amount": "5",
+      "notes": "reduces bitterness"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "50",
+      "notes": "melted, for brushing"
+    },
+    {
+      "name": "cloves",
+      "amount": "1/4",
+      "notes": "ground, for fragrance"
+    },
+    {
+      "name": "rose petal jam",
+      "amount": "20",
+      "notes": "optional, for topping"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "20",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, sugar, and yeast in a large mixing bowl. Let it sit for 5 minutes until foamy.",
+    "Add whole wheat flour, salt, and ground cloves to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment in a warm place for 24 hours.",
+    "Punch down the dough and divide it into 4-6 equal pieces. Roll out each piece into a thin circle.",
+    "Heat a non-stick skillet or griddle over medium heat. Brush the dough with melted coconut oil.",
+    "Cook the flatbread for 2-3 minutes on each side, until it's golden brown and puffed.",
+    "Brush the flatbread with rose petal jam and sprinkle with black sesame seeds, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 5,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "ayurvedic",
+    "gluten-free",
+    "one-pan",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "mature-aerated-australian-long-fermentation-dough-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mature-aerated-australian-long-fermentation-dough-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:19:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cloves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "long-fermentation-dough",
+    "descriptor": "mature aerated",
+    "dishForm": "Flatbread"
+  }
+}
