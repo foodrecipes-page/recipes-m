@@ -1,0 +1,96 @@
+{
+  "title": "Magical Croatian Hazelnut Pasta",
+  "description": "A creamy and indulgent lacto-vegetarian Croatian dish featuring hazelnuts and a hint of citrus, made with a tadka for added flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to the package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and add the chopped hazelnuts, cooking until fragrant.",
+    "Add the tadka spice blend to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the heavy cream to the skillet and bring to a simmer, cooking until slightly reduced.",
+    "Stir in the grated parmesan cheese until melted and smooth.",
+    "Add the cooked fettuccine pasta to the skillet, tossing to combine with the cream sauce.",
+    "Season with salt, black pepper, and lemon zest.",
+    "Serve hot, garnished with additional hazelnuts and parmesan cheese if desired.",
+    "Melt the remaining 2 tablespoons of butter and toss with the pasta for added richness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-pasta",
+    "croatian-cuisine",
+    "hazelnut-recipes",
+    "indulgent-dishes",
+    "lacto-vegetarian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "magical-croatian-hazelnut-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-croatian-hazelnut-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:57:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "hazlenuts",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "magical creamy",
+    "dishForm": "Pasta"
+  }
+}
