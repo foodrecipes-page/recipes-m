@@ -1,0 +1,93 @@
+{
+  "title": "Uruguayan Meat Bake",
+  "description": "A sour and pillowy Uruguayan dish featuring thyme, wood-fired-bake, and keto-friendly ingredients, perfect for special occasions.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, thyme, salt, black pepper, and garlic powder, mixing well with your hands until just combined.",
+    "Transfer the meat mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, whisk together the sour cream and eggs until smooth.",
+    "Pour the sour cream mixture over the meat mixture in the baking dish.",
+    "Sprinkle the shredded mozzarella over the top of the sour cream mixture.",
+    "Bake the dish in the preheated wood-fired oven for 35 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "meat-based",
+    "special-occasion",
+    "uruguayan-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "mouthwatering-uruguayan-meat-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-uruguayan-meat-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:08:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "thyme",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Mouthwatering",
+    "dishForm": "Bake"
+  }
+}
