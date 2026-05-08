@@ -1,0 +1,93 @@
+{
+  "title": "Mildly Pungent Uruguayan Lettuce Salad",
+  "description": "A light and refreshing salad featuring baby lettuce leaves, inspired by Uruguayan cuisine, with a mildly pungent flavor profile, vegan-friendly and prepared on a tava-griddle.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Lettuce Leaves",
+      "amount": "4 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "Namul Seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together namul seasoning, lemon juice, olive oil, garlic, salt, and black pepper to make the dressing.",
+    "Add the baby lettuce leaves to the bowl and toss gently to coat with the dressing.",
+    "Namul-blanch the lettuce leaves by quickly heating them on the preheated tava-griddle for 30 seconds to 1 minute, then immediately transferring them to an ice bath to stop the cooking process.",
+    "Once the lettuce has cooled, drain the excess water and return it to the bowl.",
+    "Toss the lettuce gently to redistribute the dressing.",
+    "Sprinkle chopped fresh cilantro over the top, if using.",
+    "Serve the salad immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baby-lettuce",
+    "light-and-refreshing",
+    "namul-seasoning",
+    "tava-griddle",
+    "uruguayan-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "mildly-pungent-uruguayan-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-pungent-uruguayan-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:56:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lettuce",
+    "descriptor": "mildly pungent",
+    "dishForm": "Salad"
+  }
+}
