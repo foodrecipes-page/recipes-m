@@ -1,0 +1,104 @@
+{
+  "title": "Macrobiotic Meal Thai Noodles Pad Thai",
+  "description": "A resinous and flaky Thai dish featuring Chinese sesame sauce, slow-cooked to perfection with macrobiotic-friendly ingredients. This meal-prep pad thai is a delicious and healthy twist on a classic Isaan dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 cup",
+      "notes": "cubed and drained"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the cubed tofu and cook until it is lightly browned on all sides.",
+    "Add the Chinese sesame sauce, salt, and black pepper, and stir to combine.",
+    "Add the cooked noodles, bean sprouts, and chopped peanuts to the skillet, and stir to combine.",
+    "Reduce the heat to low and simmer the pad thai for 10 minutes, stirring occasionally, to allow the flavors to meld together.",
+    "Serve the pad thai hot, garnished with additional chopped peanuts and bean sprouts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lunch-ideas",
+    "macrobiotic",
+    "meal-prep",
+    "one-pan",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "macrobiotic-meal-thai-noodles-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/macrobiotic-meal-thai-noodles-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:16Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "macrobiotic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Macrobiotic Meal",
+    "dishForm": "Pad Thai"
+  }
+}
