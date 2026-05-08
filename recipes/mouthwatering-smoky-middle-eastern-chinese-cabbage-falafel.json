@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Middle Eastern Chinese Cabbage Falafel",
+  "description": "A briny, crispy, and indulgent Middle Eastern dish featuring Chinese cabbage and smoked flavors, formed into high-protein falafel and cooked in a tandoor clay pot.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "falafel spice mix",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a food processor, combine chickpeas, Chinese cabbage, smoked paprika, garlic, lemon juice, olive oil, salt, black pepper, and falafel spice mix.",
+    "Process the mixture until it is well combined and slightly chunky.",
+    "Using your hands, shape the mixture into small falafel patties.",
+    "Place the falafel patties in the preheated tandoor clay pot and cook for 20 minutes, flipping halfway through.",
+    "Remove the falafel from the pot and let them cool on a wire rack.",
+    "Serve the smoky Middle Eastern Chinese cabbage falafel hot with your favorite toppings or sauces.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lunch",
+    "middle-eastern",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "mouthwatering-smoky-middle-eastern-chinese-cabbage-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-smoky-middle-eastern-chinese-cabbage-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:40:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Chinese Cabbage",
+    "descriptor": "Mouthwatering Smoky",
+    "dishForm": "Falafel"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Seasoned Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring seasoned beef and fermented dough, perfect for a low-carb meal prep option. These empanadas are pillowy and delicious, with a hint of rice vinegar flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "seasoned rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cauliflower flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, chopped onion, and minced garlic, and mix well.",
+    "Add the seasoned rice vinegar to the beef mixture and stir to combine.",
+    "In a separate bowl, whisk together the cauliflower flour and eggs to form a dough.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the beef mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with sodium alginate.",
+    "Bake the empanadas for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "low-carb",
+    "meal-prep",
+    "snack-ideas",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "mildly-seasoned-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-seasoned-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:40:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Mildly Seasoned",
+    "dishForm": "Empanadas"
+  }
+}
