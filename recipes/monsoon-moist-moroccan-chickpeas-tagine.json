@@ -1,0 +1,106 @@
+{
+  "title": "Monsoon Moist Moroccan Chickpeas Tagine",
+  "description": "This Moroccan tagine is a hearty and flavorful stew made with chickpeas, dark chocolate chips, and bhuna spice blend, perfect for a monsoon evening. It is an ovo-vegetarian friendly dish that combines earthy and sweet flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the bhuna spice blend and cook for 1 minute, until fragrant.",
+    "Add the chickpeas, dark chocolate chips, tomato paste, and vegetable broth, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Crack in the eggs and stir gently to distribute them evenly throughout the tagine.",
+    "Season the tagine with salt and black pepper to taste.",
+    "Continue to cook, covered, for an additional 10 minutes, until the eggs are cooked through and the tagine has thickened slightly.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "monsoon-meal",
+    "moroccan-cuisine",
+    "one-pot",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "monsoon-moist-moroccan-chickpeas-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-moist-moroccan-chickpeas-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:44:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Monsoon Moist",
+    "dishForm": "Tagine"
+  }
+}
