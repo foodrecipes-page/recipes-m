@@ -1,0 +1,95 @@
+{
+  "title": "Magical Argentinian Cranberry Skewers",
+  "description": "A rich and crunchy Argentinian dish featuring dried cranberries and bonito shave, perfect for a festive snack or appetizer. This low-calorie-friendly recipe is made in a kadhai.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the kadhai over medium heat.",
+    "Thread the dried cranberries onto skewers, leaving a small space between each cranberry.",
+    "In a small bowl, mix together the bonito flakes, olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto the cranberries.",
+    "Cook the skewers in the kadhai for 5 minutes, turning frequently.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately.",
+    "Repeat with remaining ingredients.",
+    "Store leftovers in an airtight container."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cranberry",
+    "festive",
+    "gluten-free",
+    "low-calorie",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "magical-argentinian-cranberry-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-argentinian-cranberry-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:12:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "dried cranberries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cranberries",
+    "descriptor": "Magical Crunchy",
+    "dishForm": "Skewers"
+  }
+}
