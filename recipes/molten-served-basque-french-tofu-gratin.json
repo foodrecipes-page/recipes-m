@@ -1,0 +1,114 @@
+{
+  "title": "basque-french molten tofu gratin",
+  "description": "a french basque dish inspired by the flavors of southern france and northern spain, featuring marinated tofu in a sour cream and cheese bechamel sauce, perfect as a post-workout meal to replenish energy stores.",
+  "cuisine": "french basque",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "300g"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "marinade"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "marinade"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "1 tsp",
+      "notes": "marinade"
+    },
+    {
+      "name": "unsalted vegan butter",
+      "amount": "20g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "unsweetened soy milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "100ml"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dairy-free sour cream",
+      "amount": "60g"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "80g"
+    }
+  ],
+  "instructions": [
+    "preheat your sous vide machine to 80°c",
+    "cut the tofu into 1-inch cubes and place in a large bowl",
+    "whisk together the marinade ingredients and pour over the tofu",
+    "cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight",
+    "heat the vegan butter in a medium saucepan over medium heat",
+    "add the flour and cook, stirring constantly, for 1 minute",
+    "slowly pour in the soy milk and vegetable broth, whisking constantly",
+    "bring the mixture to a simmer and cook for 5 minutes",
+    "remove from heat and stir in the nutritional yeast and dairy-free sour cream",
+    "transfer the tofu to a baking dish and spoon the bechamel sauce over the top",
+    "sprinkle the gruyère cheese over the bechamel sauce",
+    "place the baking dish under the broiler and cook until the cheese is melted and bubbly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gruy-re-cheese",
+    "high-protein",
+    "plant-based",
+    "sour-cream-free",
+    "sous-vide",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "molten-served-basque-french-tofu-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-served-basque-french-tofu-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:32:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "marinated tofu",
+    "diet": "plant-based",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque-French",
+    "mainIngredient": "tofu",
+    "descriptor": "Molten Served",
+    "dishForm": "Gratin"
+  }
+}

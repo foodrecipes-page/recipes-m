@@ -1,0 +1,118 @@
+{
+  "title": "Mellow American Chicken Hash",
+  "description": "A sour and velvety one-pot dish made with chicken, apple cider vinegar, and infuse-oil, perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup",
+      "notes": "Use a light oil with a neutral flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "granny smith apple",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the infuse-oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce the heat to medium and add the onion to the skillet.",
+    "Cook the onion for 3-4 minutes, until softened.",
+    "Add the apple and garlic to the skillet and cook for another 2 minutes.",
+    "Sprinkle the flour over the apple mixture and cook for 1 minute.",
+    "Slowly add the chicken broth to the skillet, whisking constantly.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Cook the hash for 5-7 minutes, until the chicken is cooked through and the sauce has thickened.",
+    "Season the hash with salt and black pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dinner",
+    "comfort-food",
+    "fall-recipe",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "mellow-american-chicken-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-american-chicken-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:31:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "infuse-oil",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "mellow",
+    "dishForm": "Hash"
+  }
+}

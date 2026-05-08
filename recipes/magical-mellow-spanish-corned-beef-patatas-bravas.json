@@ -1,0 +1,110 @@
+{
+  "title": "Magical Mellow Spanish Corned Beef Patatas-Bravas",
+  "description": "A festive Andalusian dish featuring corned beef, patatas bravas style, with a herbal twist and a sugar-free twist. This recipe serves 4-6 people.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Patatas Bravas",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chickpea Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the corned beef into small cubes and set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the smoked paprika and chili powder and cook for another minute.",
+    "Add the corned beef and cook for 5 minutes, stirring occasionally.",
+    "Add the patatas bravas and cook for another 10 minutes, stirring occasionally.",
+    "Stir in the chickpea flour and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the cilantro and lemon juice.",
+    "Serve hot, garnished with red pepper flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "festive",
+    "gluten-free",
+    "herbal",
+    "patatas-bravas",
+    "spanish",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "magical-mellow-spanish-corned-beef-patatas-bravas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mellow-spanish-corned-beef-patatas-bravas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:32:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "corned beef",
+    "diet": "sugar-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Corned Beef",
+    "descriptor": "Magical Mellow",
+    "dishForm": "Patatas-Bravas"
+  }
+}
