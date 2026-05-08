@@ -1,0 +1,93 @@
+{
+  "title": "Malty Chewy Greek Lamb Kebabs",
+  "description": "A light and flavorful Greek dish featuring lamb kebabs with a malty and chewy texture, made with green curry paste and a deglaze technique, perfect for a halal-friendly meal. The combination of malt and green curry paste creates a unique and delicious flavor profile.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the green curry paste, malt syrup, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "While the kebabs are cooking, prepare the deglaze by whisking together 1 tablespoon of malt syrup and 1 tablespoon of lemon juice.",
+    "After the kebabs are done cooking, brush them with the deglaze and serve hot.",
+    "Serve the kebabs with your choice of sides, such as rice or roasted vegetables.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "grilled-meats",
+    "halal-friendly",
+    "kebabs",
+    "lamb-recipes",
+    "malty-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "malty-chewy-greek-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-chewy-greek-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:32:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "malty chewy",
+    "dishForm": "Kebabs"
+  }
+}

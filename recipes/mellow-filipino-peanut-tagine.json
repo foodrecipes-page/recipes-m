@@ -1,0 +1,105 @@
+{
+  "title": "Mellow Filipino Peanut Tagine",
+  "description": "A solo dinner Filipino dish featuring peanut cookies in a silky bitter sauce, cooked in a ceramic tagine using a bain-marie method, suitable for shojin-friendly diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut cookies",
+      "amount": "12",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender or food processor, blend the crushed peanut cookies into a fine crumb.",
+    "In a large ceramic tagine, heat the vegetable oil over low heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "In a small bowl, whisk together the coconut milk, soy sauce, and maple syrup.",
+    "Pour the coconut milk mixture into the tagine and stir to combine.",
+    "Add the blended peanut cookies, black pepper, and salt to the tagine and stir to combine.",
+    "Cover the tagine and place it in a larger dish or tray filled with water to create a bain-marie.",
+    "Bake for 25 minutes or until the sauce has thickened and the flavors have melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "ceramic-tagine",
+    "filipino-cuisine",
+    "peanut-based",
+    "shojin-friendly",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "mellow-filipino-peanut-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-filipino-peanut-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "bain-marie",
+    "primaryIngredient": "peanut cookies",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peanut",
+    "descriptor": "mellow silky",
+    "dishForm": "Tagine"
+  }
+}
