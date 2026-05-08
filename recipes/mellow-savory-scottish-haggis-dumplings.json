@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Savory Scottish Haggis Dumplings",
+  "description": "A winey, aerated, nostalgic polish dish featuring haggis, score-fat, and low-glycemic-friendly ingredients, this recipe is a unique twist on traditional Scottish cuisine. It combines the richness of haggis with the comfort of dumplings.",
+  "cuisine": "Scottish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish sausage"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "or beef suet"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": "low-glycemic friendly"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the haggis, score-fat, and egg, mixing until just combined.",
+    "In a separate bowl, whisk together the all-purpose flour, buckwheat flour, salt, and black pepper.",
+    "Add the dry ingredients to the haggis mixture and mix until a dough forms.",
+    "Gradually add the red wine and beef broth to the dough, mixing until it comes together in a sticky ball.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a dumpling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Reduce the heat to a simmer and cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "scottish-cuisine",
+    "traditional",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mellow-savory-scottish-haggis-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-savory-scottish-haggis-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:12:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "score-fat",
+    "primaryIngredient": "haggis",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "haggis",
+    "descriptor": "Mellow Savory",
+    "dishForm": "Dumplings"
+  }
+}
