@@ -1,0 +1,148 @@
+{
+  "title": "Mildly Fluffy Syrian Barramundi Tagine",
+  "description": "Nutty, fluffy, and cozy, this Syrian dish features barramundi and is easy to make in a clay tajine vessel with a deglazing step for added flavor.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "fluff salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "degling liquid",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter and olive oil in a large clay tajine over medium heat.",
+    "Add chopped onion to the tajine and cook until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add paprika, cumin, coriander, salt, and fluff salt. Stir to combine.",
+    "Add chopped parsley, almonds, lemon juice, water, degling liquid, and vegetable broth to the tajine. Stir to combine.",
+    "Add barramundi fillets to the tajine, skin side up.",
+    "Cover the tajine and cook until the barramundi is cooked through, about 8 minutes.",
+    "Remove the cover and increase the heat to high. Cook for an additional 2 minutes, until the liquid has reduced and the barramundi is slightly browned on the bottom.",
+    "Fluff the rice with a fork and stir in rice flour. Serve over the barramundi, garnished with additional parsley and almonds if desired.",
+    "Serve immediately and enjoy!",
+    "Use caution when removing the hot tajine from the stovetop and serving.",
+    "Clean the tajine thoroughly after use to prevent staining.",
+    "Store any leftovers in a covered container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "fish",
+    "fluffy",
+    "lunch",
+    "mediterranean",
+    "syrian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 44,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "mildly-fluffy-syrian-barramundi-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-fluffy-syrian-barramundi-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "barramundi",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Barramundi",
+    "descriptor": "Mildly Fluffy",
+    "dishForm": "Tagine"
+  }
+}

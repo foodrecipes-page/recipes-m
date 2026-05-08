@@ -1,0 +1,83 @@
+{
+  "title": "Molten Comforting Venezuelan Goats Cheese Empanadas",
+  "description": "Pungent and comforting Venezuelan empanadas filled with a molten goats cheese mixture, infused with the flavors of tadka spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Goats Cheese",
+      "amount": "250g",
+      "notes": "crumbly, high-quality goats cheese"
+    },
+    {
+      "name": "Pastry Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought, low-carb"
+    },
+    {
+      "name": "Tadka Spices",
+      "amount": "2 tsp",
+      "notes": "ground cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced, fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "small, chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small pan, heat the tadka spices over medium heat, then add the minced garlic and cook for 1 minute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "empanadas",
+    "high-protein",
+    "low-carb",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "molten-comforting-venezuelan-goats-cheese-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-comforting-venezuelan-goats-cheese-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:15Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "goats cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "goats cheese",
+    "descriptor": "molten comforting",
+    "dishForm": "empanadas"
+  }
+}
