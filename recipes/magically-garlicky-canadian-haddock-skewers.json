@@ -1,0 +1,103 @@
+{
+  "title": "Magically Garlicky Canadian Haddock Skewers",
+  "description": "A garlicky and crunchy Canadian dish featuring haddock, cooked to perfection in a wok with a hint of wok-hei, served in a banana leaf vessel, this recipe is vegetarian friendly and perfect for a weeknight dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over high heat until it reaches 400 degrees Fahrenheit",
+    "In a small bowl, whisk together soy sauce, lemon juice, brown sugar, minced garlic, salt, and pepper to make the marinade",
+    "Add the haddock pieces to the marinade and mix well to coat",
+    "Thread the marinated haddock pieces onto skewers, leaving a small space between each piece",
+    "Brush the banana leaves with olive oil and place a skewer in the center of each leaf",
+    "Fold the banana leaves over the skewers to form a packet and secure with a toothpick if needed",
+    "Add a small amount of oil to the preheated wok and swirl it around to coat the bottom",
+    "Place the banana leaf packets in the wok and cook for 4 minutes on each side, or until the haddock is cooked through and the leaves are slightly charred",
+    "Remove the packets from the wok and garnish with chopped scallions",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "magically-garlicky-canadian-haddock-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-garlicky-canadian-haddock-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:23:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "haddock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "haddock",
+    "descriptor": "Magically Garlicky",
+    "dishForm": "Skewers"
+  }
+}
