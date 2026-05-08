@@ -1,0 +1,102 @@
+{
+  "title": "Malty Juicy Egyptian Tofu Kebabs",
+  "description": "A plant-based Egyptian dish featuring malt vinegar and double-fry KFC method, perfect for a sick day with its bitter and juicy flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, paprika, garlic powder, salt, and black pepper.",
+    "Add the tofu cubes to the bowl and toss to coat evenly with the flour mixture.",
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat and fry the tofu until golden brown on all sides.",
+    "Remove the fried tofu from the skillet and place it on a paper towel-lined plate to drain excess oil.",
+    "In the same skillet, add the remaining 1/4 cup of vegetable oil and fry the tofu again until crispy and golden brown.",
+    "In a small bowl, whisk together malt vinegar and lemon juice.",
+    "Add the fried tofu to the bowl and toss to coat with the malt vinegar mixture.",
+    "Thread the tofu cubes onto skewers, if desired, and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "plant-based",
+    "tofu-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "malty-juicy-egyptian-tofu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-egyptian-tofu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:36:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "malt vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tofu",
+    "descriptor": "Malty Juicy",
+    "dishForm": "Kebabs"
+  }
+}

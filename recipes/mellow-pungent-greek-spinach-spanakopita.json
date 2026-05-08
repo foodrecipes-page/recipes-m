@@ -1,0 +1,106 @@
+{
+  "title": "Mellow Pungent Greek Spinach Spanakopita",
+  "description": "A pungent and pillowy Greek dish featuring puff pastry and spinach, made with ayurvedic-rajasic-friendly ingredients and cooked to perfection using sous-vide, perfect for a romantic dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "egg substitute",
+      "amount": "1/4 cup",
+      "notes": "such as flax or chia eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the spinach to the skillet and cook until wilted, then set aside to cool.",
+    "In a large bowl, combine the cooled spinach mixture, feta cheese, salt, and black pepper, and mix well.",
+    "Brush the edges of the puff pastry with the egg substitute.",
+    "Place the spinach mixture in the center of the puff pastry, leaving a 1-inch border around the edges.",
+    "Fold the puff pastry over the filling, pressing the edges to seal.",
+    "Place the spanakopita in a sous-vide bag and seal, then cook in a water bath at 180 degrees Fahrenheit for 30 minutes.",
+    "Remove the spanakopita from the sous-vide bag and bake in the preheated oven for an additional 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "puff-pastry",
+    "romantic-dinner",
+    "sous-vide",
+    "spanakopita",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mellow-pungent-greek-spinach-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-pungent-greek-spinach-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:36:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "puff pastry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "spinach",
+    "descriptor": "Mellow Pungent",
+    "dishForm": "Spanakopita"
+  }
+}
