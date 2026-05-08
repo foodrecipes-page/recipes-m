@@ -1,0 +1,93 @@
+{
+  "title": "Molten Monsoon Japanese Shrimp Ramen",
+  "description": "A fresh and molten Japanese Kyushu dish featuring dried shrimp, braise, and Buddhist temple friendly ingredients, this ramen is a unique and savory experience. It combines the richness of a monsoon with the simplicity of a traditional Japanese meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "goong haeng"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "pork or vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the broth to a boil in a large pot.",
+    "Add the dried shrimp and cook for 2 minutes.",
+    "Add the ramen noodles and cook for an additional 3 minutes.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Add the soy sauce mixture to the pot and stir to combine.",
+    "Add the chopped green onions, grated ginger, and sesame seeds to the pot.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "japanese-kyushu",
+    "monsoon-inspired",
+    "noodle-soup",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "molten-monsoon-japanese-shrimp-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-monsoon-japanese-shrimp-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:32:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "buddhist-temple",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Molten Monsoon",
+    "dishForm": "Ramen"
+  }
+}
