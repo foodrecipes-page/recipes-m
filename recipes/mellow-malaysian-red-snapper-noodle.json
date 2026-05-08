@@ -1,0 +1,115 @@
+{
+  "title": "Mellow Malaysian Red Snapper Noodle",
+  "description": "Cultured, velvety, lacto-vegetarian-friendly weeknight Malaysian dish featuring red snapper.",
+  "cuisine": "malaysian",
+  "diet": [
+    "lacto-vegetarian",
+    "vegan-option"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillet",
+      "amount": "1",
+      "notes": "about 1 pound or 500 grams"
+    },
+    {
+      "name": "sweet potato noodles",
+      "amount": "8 ounces",
+      "notes": "about 225 grams dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "galangal paste",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "2 tablespoons",
+      "notes": "for vegan option omit"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 cup",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over low heat.",
+    "Add the ginger paste, galangal paste, and chili flakes. Cook for 2 minutes.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the red snapper fillet, cook for 3-4 minutes per side. Remove from heat and set aside.",
+    "Add the sweet potato noodles, coconut milk, and fish sauce (if using) to the skillet. Cook for 3-4 minutes.",
+    "Stir in the lime juice and cook for an additional minute.",
+    "Add the chopped coriander to the skillet and stir to combine.",
+    "Serve the noodles hot, topped with the cooked red snapper fillet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-fish-dish",
+    "fish-recipe",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mellow-malaysian-red-snapper-noodle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-malaysian-red-snapper-noodle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:33:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "red snapper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Red Snapper",
+    "descriptor": "Mellow Velvety",
+    "dishForm": null
+  }
+}
