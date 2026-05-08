@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Tangy Irish Bryndza Cheese Ti Leaf Wrap",
+  "description": "A tangy and nostalgic Irish dish featuring bryndza cheese, kombu-cold-extract, and a dairy-free friendly twist, all wrapped in a ti leaf.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, tangy cheese"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the ti leaves by washing and drying them thoroughly.",
+    "In a small bowl, mix together the bryndza cheese, kombu cold extract, vegan mayo, chopped scallions, lemon juice, salt, and black pepper until well combined.",
+    "Lay a ti leaf flat on a surface and place about 1/4 cup of the cheese mixture in the center of the leaf.",
+    "Fold the stem end of the ti leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining ti leaves and cheese mixture.",
+    "Serve the ti leaf wraps chilled, garnished with additional chopped scallions if desired.",
+    "To add a glassy-jelly texture, refrigerate the wraps for at least 30 minutes before serving.",
+    "Just before serving, slice the wraps in half and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-entertaining",
+    "irish-cuisine",
+    "snack-recipes",
+    "ti-leaf-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mildly-tangy-irish-bryndza-cheese-ti-leaf-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-tangy-irish-bryndza-cheese-ti-leaf-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:01:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "mildly tangy",
+    "dishForm": "Wrap"
+  }
+}
