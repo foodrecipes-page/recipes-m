@@ -1,0 +1,101 @@
+{
+  "title": "Mustardy Crumbly Vietnamese Rice Com Tam",
+  "description": "A lacto-vegetarian friendly Vietnamese dish featuring caramelized onions and a hint of mustard, served with crumbly rice and a side of beef stock cube infused sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broken rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "beef stock cubes",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat and caramelize the onions for 20 minutes, stirring occasionally.",
+    "In a large pot, bring 4 cups of water to a boil and add the beef stock cubes, stirring to dissolve.",
+    "Add the broken rice to the pot and stir to combine with the stock, then reduce heat to low and cover.",
+    "In a small bowl, whisk together the mustard, salt, and pepper.",
+    "Add the mustard mixture to the rice pot and stir to combine.",
+    "To serve, divide the rice mixture among individual plates, then top with caramelized onions, grated carrot, chopped scallions, and fried shallots.",
+    "Drizzle a small amount of the beef stock sauce over the top of each serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mustardy-crumbly-vietnamese-rice-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crumbly-vietnamese-rice-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:59:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Mustardy Crumbly",
+    "dishForm": "Com Tam"
+  }
+}
