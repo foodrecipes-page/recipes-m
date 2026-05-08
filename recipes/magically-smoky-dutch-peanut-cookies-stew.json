@@ -1,0 +1,99 @@
+{
+  "title": "Magically Smoky Dutch Peanut Cookies Stew",
+  "description": "A smoky one-pot Dutch dish featuring peanut cookies, sashimi-cut vegetables, and ovo-vegetarian friendly ingredients, this stew is a unique and delicious meal option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut cookies",
+      "amount": "12",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat and add the crushed peanut cookies to toast for 5 minutes.",
+    "Add the sashimi-cut onion, carrots, and zucchini to the pot and cook for 10 minutes, stirring occasionally.",
+    "Stir in the smoked paprika and cook for 1 minute.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes.",
+    "Crack in the eggs and stir gently to distribute the egg throughout the stew.",
+    "Season the stew with salt and black pepper to taste.",
+    "Simmer the stew for an additional 5 minutes, or until the eggs are cooked to desired doneness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "one-pot",
+    "ovo-vegetarian",
+    "peanut-cookies",
+    "smoky",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "magically-smoky-dutch-peanut-cookies-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-smoky-dutch-peanut-cookies-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:28:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "peanut cookies",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "Magically Smoky",
+    "dishForm": "Stew"
+  }
+}

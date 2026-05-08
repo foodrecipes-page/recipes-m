@@ -1,0 +1,104 @@
+{
+  "title": "Mellow Saudi Arabian Butternut Squash Wrap",
+  "description": "A funky twist on traditional Saudi Arabian dishes, this wrap features butternut squash and Mediterranean-friendly flavors in a ssam-wrap, evoking a sense of nostalgia, the glassy-jelly texture of the squash adds a unique element to the dish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 large",
+      "notes": "or large flour tortillas"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the cubed butternut squash with 1 tablespoon of olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the butternut squash in the oven for 30 minutes, or until tender and lightly browned.",
+    "Spread 2 tablespoons of hummus on each ssam wrap.",
+    "Top the hummus with roasted butternut squash, chopped cucumber, chopped tomato, and pickled turnips.",
+    "Sprinkle sumac over the top of each wrap.",
+    "Season with salt and black pepper to taste.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the wraps.",
+    "Serve the wraps immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "butternut-squash",
+    "gluten-free",
+    "lunch",
+    "mediterranean",
+    "saudi-arabian",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-saudi-arabian-butternut-squash-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-saudi-arabian-butternut-squash-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:28:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "butternut squash",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Mediterranean style",
+    "dishForm": "Wrap"
+  }
+}
