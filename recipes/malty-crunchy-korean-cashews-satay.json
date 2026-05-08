@@ -1,0 +1,111 @@
+{
+  "title": "Malty Crunchy Korean Cashews Satay",
+  "description": "A festive Korean dish featuring cashews and a tandoor-style cooking vessel, perfect for a snack or appetizer.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor-style cooking vessel to 425\b8F (220\f).",
+    "In a blender or food processor, combine gochujang, soy sauce, rice vinegar, brown sugar, garlic, ginger, and chili flakes. Blend until smooth.",
+    "Add the blended mixture to the cashews and stir until the cashews are evenly coated.",
+    "Heat the vegetable oil in the tandoor-style cooking vessel over medium-high heat.",
+    "Add the cashew mixture to the hot oil and cook, stirring frequently, until the cashews are crispy and golden brown.",
+    "Remove the satay from the heat and season with salt and black pepper.",
+    "Serve immediately, garnished with additional chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "cashews",
+    "korean-cuisine",
+    "snack",
+    "tandoor-style"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "malty-crunchy-korean-cashews-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crunchy-korean-cashews-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "cashews",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cashews",
+    "descriptor": "malty crunchy",
+    "dishForm": "Satay"
+  }
+}

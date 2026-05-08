@@ -1,0 +1,59 @@
+{
+  "title": "Mustardy Ayurvedic Algerian Oranges Tagine",
+  "description": "A hangover-curing Tagine featuring the tangy flavors of oranges, mustard, and spices. Perfect for a Moroccan-inspired breakfast or brunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Organic oranges",
+      "amount": "4",
+      "notes": "Juice of 2 oranges, peel of 1 orange"
+    }
+  ],
+  "instructions": [
+    "Place the orange peel and juice in a blender and blend until smooth.",
+    "Add 2 tablespoons of Dijon mustard and blend until well combined.",
+    "Heat 2 tablespoons of olive oil in a sous-vide machine set to 195\u00153F.",
+    "Add 1 teaspoon of ground ginger, 1 teaspoon of ground cinnamon, and 1/2 teaspoon of ground cayenne pepper to the oil and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "moroccan",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "mustardy-ayurvedic-algerian-oranges-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-ayurvedic-algerian-oranges-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:24Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "oranges",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "oranges",
+    "descriptor": "mustardy ayurvedic",
+    "dishForm": "Tagine"
+  }
+}
