@@ -1,0 +1,104 @@
+{
+  "title": "Meaty Mild Slovakian Rigatoni Pasta",
+  "description": "A hearty and flavorful Slovakian dish featuring rigatoni pasta, ground meat, and a blend of spices, perfect for a weeknight dinner. This keto-friendly recipe is a great option for those looking for a low-carb meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": "keto-friendly pasta"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 lb",
+      "notes": "70/30 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tbsp",
+      "notes": "mild"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni pasta according to the package instructions.",
+    "In a large skillet, cook the ground pork and ground beef over medium-high heat, breaking up the meat with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the paprika, caraway seeds, salt, and black pepper, and cook for 1 minute.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the meat and spice mixture.",
+    "Reduce heat to low and simmer the pasta and meat mixture for 5 minutes, stirring occasionally.",
+    "Serve the meaty rigatoni pasta hot, garnished with chopped fresh parsley or chives if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "meaty-mild-slovakian-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-mild-slovakian-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:45:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "rigatoni",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Meaty Mild",
+    "dishForm": "Pasta"
+  }
+}
