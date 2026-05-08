@@ -1,0 +1,104 @@
+{
+  "title": "Mustardy Mild French Sterbottensost Quiche",
+  "description": "A mild and crumbly French quiche featuring Sterbottensost cheese and a mirepoix base, perfect for a kid-friendly meal. This quiche is high in protein and can be served for breakfast, lunch, or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sterbottensost cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mirepoix",
+      "amount": "1 cup",
+      "notes": "chopped carrots, onions, and celery"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "spicy or whole-grain"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a 9-inch tart pan with a removable bottom.",
+    "In a large skillet, saute the mirepoix in butter until tender.",
+    "In a large bowl, whisk together the eggs, milk, mustard, salt, and pepper.",
+    "Add the shredded Sterbottensost cheese to the egg mixture and stir until combined.",
+    "Add the cooked mirepoix to the egg mixture and stir until combined.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Let the quiche cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "french-cuisine",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "mustardy-mild-french-sterbottensost-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-mild-french-sterbottensost-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:15:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "high-protein",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sterbottensost cheese",
+    "descriptor": "Mustardy Mild",
+    "dishForm": "Quiche"
+  }
+}
