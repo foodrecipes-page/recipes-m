@@ -1,0 +1,101 @@
+{
+  "title": "Macrobiotic Roasted Turkish Ground Oats Lahmacun",
+  "description": "A macrobiotic-friendly twist on the traditional Turkish dish, featuring roasted ground oats and a blend of savory spices, perfect for a brunch gathering",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup",
+      "notes": "rolled or steel-cut oats blended into a coarse flour"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, combine the ground oats, chopped onion, chopped red bell pepper, tomato paste, olive oil, smoked paprika, cumin, salt, and black pepper, and mix well",
+    "Divide the mixture into 4-6 equal portions, depending on desired size, and shape each portion into a thin circle",
+    "Place the circles on a baking sheet lined with parchment paper",
+    "Roast the lahmacun in the preheated oven for 20-25 minutes, or until the edges are lightly browned and the centers are set",
+    "Remove the lahmacun from the oven and sprinkle with chopped fresh parsley",
+    "Serve the lahmacun hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "macrobiotic-friendly",
+    "roasted-vegetables",
+    "turkish-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "macrobiotic-roasted-turkish-ground-oats-lahmacun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/macrobiotic-roasted-turkish-ground-oats-lahmacun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:32:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "ground oats",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "ground oats",
+    "descriptor": "Macrobiotic Roasted",
+    "dishForm": "Lahmacun"
+  }
+}
