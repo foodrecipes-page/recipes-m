@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Spicy Kenyan Chicken Stew",
+  "description": "A floral and juicy Kenyan dish featuring oyster sauce, cooked in a clay pot and served on a bamboo tray, perfect for a sick day, this low-carb-friendly stew is a delicious and comforting meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a clay pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the oyster sauce, tomato paste, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 25 minutes.",
+    "Serve the stew hot, garnished with chopped fresh cilantro, on a bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "clay-pot-cooking",
+    "comfort-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "low-carb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "mildly-spicy-kenyan-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-kenyan-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:30:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "oyster sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly spicy",
+    "dishForm": "Stew"
+  }
+}
