@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Spicy Uruguayan Chicken Skewers",
+  "description": "A solo dinner dish featuring the unique flavors of Uruguay, with a hint of spice and a touch of coconut cream, this recipe is perfect for a low-fat friendly meal. The combination of cloves and coconut cream gives it a rich and cultured taste.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cloves",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, olive oil, lime juice, garlic, smoked paprika, salt, black pepper, and ground cloves.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with your choice of sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream",
+    "grilled-chicken",
+    "healthy-eating",
+    "low-fat",
+    "south-american",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "mildly-spicy-uruguayan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-uruguayan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:18:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cloves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly spicy",
+    "dishForm": "Skewers"
+  }
+}
