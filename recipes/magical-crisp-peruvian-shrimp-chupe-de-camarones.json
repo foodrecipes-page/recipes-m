@@ -1,0 +1,104 @@
+{
+  "title": "Magical Crisp Peruvian Shrimp Chupe De Camarones",
+  "description": "A funky and crisp solo dinner Peruvian dish featuring shrimp stock and shio koji cure, flexitarian friendly in the form of chupe de camarones.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shio koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together shio koji and shrimp, letting it cure for 30 minutes.",
+    "In a large pot, heat 1 tablespoon of oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and aji amarillo pepper and cook for an additional 2 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the shrimp stock and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 10 minutes.",
+    "Add the cured shrimp to the pot and cook until pink and fully cooked.",
+    "Stir in the lime juice and chopped cilantro.",
+    "In a small bowl, mix the cornstarch with 1 tablespoon of water and add it to the pot, stirring constantly.",
+    "Let the mixture cook for an additional 2 minutes, until the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "latin-american",
+    "one-pot",
+    "peruvian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "magical-crisp-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-crisp-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:23Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "shrimp stock",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Magical Crisp",
+    "dishForm": "Chupe De Camarones"
+  }
+}
