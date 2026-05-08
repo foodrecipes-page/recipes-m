@@ -1,0 +1,102 @@
+{
+  "title": "Mouthwatering Spicy Jamaican Chicken Skewers",
+  "description": "A peppery and flavorful Jamaican dish featuring chicken, pine nuts, and a hint of sweetness from candy, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the chicken pieces, pine nuts, and scotch bonnet peppers onto skewers.",
+    "In a small bowl, mix together olive oil, garlic powder, ginger powder, turmeric, salt, and black pepper.",
+    "Brush the mixture onto the chicken and pine nuts.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Sprinkle the crushed candy onto the skewers during the last minute of grilling.",
+    "Serve the skewers hot.",
+    "Garnish with additional pine nuts and scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "high-protein",
+    "jamaican-cuisine",
+    "low-carb",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "mouthwatering-spicy-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-spicy-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:36:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "pine nuts",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "mouthwatering spicy",
+    "dishForm": "Skewers"
+  }
+}
