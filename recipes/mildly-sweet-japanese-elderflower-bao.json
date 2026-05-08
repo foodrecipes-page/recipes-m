@@ -1,0 +1,97 @@
+{
+  "title": "mildly sweet japanese elderflower bao",
+  "description": "light and refreshing japanese bao featuring elderflower syrup and a hint of sourness.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "eldestflower syrup",
+      "amount": "60ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "20g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "proof yeast in warm water for 5 minutes",
+    "mix dough ingredients and knead for 10 minutes",
+    "rest dough for 1 hour",
+    "divide dough into 6 equal pieces",
+    "roll out each piece into a thin circle",
+    "brush with melted butter and sprinkle with sugar",
+    "place a small spoonful of elderflower syrup and rice vinegar in the centre",
+    "fold dough into a bao shape and press edges together to seal",
+    "heat a non-stick pan over medium heat and cook bao for 2 minutes on each side",
+    "serve warm and garnish with sesame seeds"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "easy-to-make",
+    "japanese",
+    "low-glycemic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mildly-sweet-japanese-elderflower-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-japanese-elderflower-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "elderflower",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "elderflower",
+    "descriptor": "mildly sweet",
+    "dishForm": "Bao"
+  }
+}
