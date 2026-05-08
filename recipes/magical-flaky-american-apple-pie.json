@@ -1,0 +1,104 @@
+{
+  "title": "Magical Flaky American Apple Pie",
+  "description": "A nostalgic American dessert featuring sour apples and flaky filo pastry, cooked to perfection with binchotan-charcoal for a smoky flavor, and made FODMAP-friendly for all to enjoy.",
+  "cuisine": "American",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "6-8",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for brushing pastry"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit with the binchotan charcoal placed on the bottom rack for smoking.",
+    "In a large bowl, combine the sliced apples, lemon juice, sugar, cinnamon, nutmeg, and salt, and mix until the apples are evenly coated.",
+    "Roll out the filo pastry and brush with the beaten egg for a golden glaze.",
+    "Place the apple mixture onto one half of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the other half of the pastry over the apple mixture and press the edges to seal.",
+    "Brush the top of the pastry with the remaining egg and cut a few slits in the top for ventilation.",
+    "Place the pie on a baking sheet lined with parchment paper and bake for 40-50 minutes, or until the pastry is golden brown.",
+    "Remove the pie from the oven and let it cool for 10-15 minutes before serving.",
+    "Serve warm and enjoy the smoky flavor from the binchotan charcoal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "fall-desserts",
+    "flaky-pastry",
+    "fruity-delights",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "magical-flaky-american-apple-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-flaky-american-apple-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:52:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "filo pastry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "apples",
+    "descriptor": "Magical Flaky",
+    "dishForm": "Pie"
+  }
+}
