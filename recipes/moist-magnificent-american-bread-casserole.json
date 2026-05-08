@@ -1,0 +1,98 @@
+{
+  "title": "Moist Magnificent American Bread Casserole",
+  "description": "A rich and light American dish featuring stale bread, perfect for a show-off dinner, this keto-friendly casserole is cooked to perfection in a terracotta dish and finished under the broiler.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "6 cups",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, saute the diced ham over medium heat until lightly browned.",
+    "In a large bowl, whisk together the eggs, heavy cream, salt, and black pepper.",
+    "Add the shredded cheddar cheese, chopped parsley, and cooked ham to the bowl and stir until well combined.",
+    "Add the melted butter and stale bread cubes to the bowl and stir until the bread is evenly coated.",
+    "Transfer the bread mixture to a terracotta dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the casserole from the oven and increase the oven temperature to broil.",
+    "Broil the casserole for an additional 5 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "keto-friendly",
+    "one-dish-wonders",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "moist-magnificent-american-bread-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-magnificent-american-bread-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:15:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "stale bread",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bread",
+    "descriptor": "Moist Magnificent",
+    "dishForm": "Casserole"
+  }
+}
