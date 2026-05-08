@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Citrusy Kenyan Chicken Pilaf",
+  "description": "A festive Kenyan dish featuring chicken, rice, and a hint of citrus, made with rice vinegar and cooked to perfection using the bain-marie method, perfect for dairy-free diets. This dish is crisp and full of flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the saucepan and cook until browned, about 5-7 minutes.",
+    "Add the rice to the saucepan and stir to combine with the chicken and onion mixture.",
+    "In a separate bowl, whisk together the rice vinegar, lemon juice, salt, and black pepper.",
+    "Add the vinegar mixture to the saucepan and stir to combine.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the saucepan from the heat and let it cool slightly, then fluff the pilaf with a fork and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "citrusy-flavors",
+    "dairy-free",
+    "kenyan-cuisine",
+    "one-pot",
+    "rice-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mildly-citrusy-kenyan-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-citrusy-kenyan-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:22:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "rice vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Citrusy",
+    "dishForm": "Pilaf"
+  }
+}
