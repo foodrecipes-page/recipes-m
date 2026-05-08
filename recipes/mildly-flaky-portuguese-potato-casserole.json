@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Flaky Portuguese Potato Casserole",
+  "description": "A hearty and comforting Portuguese dish featuring floury potatoes and a flaky crust, perfect for a cold winter's night. The tadka seasoning adds a unique and aromatic flavor to the dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tadka seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and olive oil, tossing to coat.",
+    "In a small bowl, mix together the tadka seasoning, chopped onion, and minced garlic.",
+    "Add the tadka mixture to the potatoes and toss to combine.",
+    "In a separate bowl, whisk together the flour, melted butter, beaten egg, salt, and black pepper.",
+    "Grease a 9x13 inch baking dish with cooking spray.",
+    "Create a layer of potatoes in the baking dish, followed by a layer of the flour mixture, repeating until all ingredients are used, ending with a layer of potatoes on top.",
+    "Bake the casserole for 45 minutes, or until the potatoes are tender and the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan-meal",
+    "portuguese-cuisine",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "mildly-flaky-portuguese-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-flaky-portuguese-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:04:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "floury potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "potatoes",
+    "descriptor": "mildly flaky",
+    "dishForm": "Casserole"
+  }
+}
