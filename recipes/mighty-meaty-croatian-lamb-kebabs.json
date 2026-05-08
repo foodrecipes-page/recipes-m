@@ -1,0 +1,98 @@
+{
+  "title": "Mighty Meaty Croatian Lamb Kebabs",
+  "description": "A traditional Croatian dish featuring lamb, cheese, and apple cider vinegar, with a unique tempering chocolate twist and ayurvedic rajasic friendly ingredients",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together apple cider vinegar, olive oil, garlic, paprika, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 10 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145 degrees",
+    "While the kebabs are cooking, melt the chocolate chips in a double boiler or in the microwave in 30 second increments, stirring between each interval",
+    "Once the kebabs are done, brush them with the melted chocolate",
+    "Serve the kebabs hot, topped with crumbled feta cheese"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mighty-meaty-croatian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-meaty-croatian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:29:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "mighty meaty",
+    "dishForm": "Kebabs"
+  }
+}
