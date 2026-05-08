@@ -1,0 +1,105 @@
+{
+  "title": "Magnificently Creamy Malaysian Chicken Curry",
+  "description": "A fresh and creamy Malaysian dish featuring shoyu-koji and flambe, cooked in a donabe, this recipe is gluten-free-friendly and full of energizing flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in the donabe over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the shoyu-koji and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes or until the chicken is cooked through.",
+    "Use a kitchen torch to flambe the curry, if desired.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "coconut-milk-based",
+    "flambe",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "magnificently-creamy-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-creamy-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Magnificently Creamy",
+    "dishForm": "Curry"
+  }
+}

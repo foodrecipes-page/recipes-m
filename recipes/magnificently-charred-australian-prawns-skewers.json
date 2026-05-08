@@ -1,0 +1,94 @@
+{
+  "title": "Magnificently Charred Australian Prawns Skewers",
+  "description": "A show-stopping Australian dish featuring charred prawns, pillowy puff pastry, and a dairy-free friendly twist, perfect for impressing guests.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the prawns to the bowl and toss to coat with the marinade.",
+    "Thread the marinated prawns onto skewers, leaving a small space between each prawn.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Brush the pastry with a little olive oil and cut into long strips.",
+    "Wrap each prawn skewer with a strip of puff pastry, brushing the edges with a little water to seal.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the pastry is golden brown and the prawns are cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dairy-free",
+    "grilled",
+    "party-food",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "magnificently-charred-australian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-charred-australian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:12:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "lamination-puff",
+    "primaryIngredient": "prawns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prawns",
+    "descriptor": "Magnificently charred",
+    "dishForm": "Skewers"
+  }
+}
