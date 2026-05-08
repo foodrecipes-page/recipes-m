@@ -1,0 +1,130 @@
+{
+  "title": "Matcha-Glazed and Lacquer-Wiped Ethiopian Beef Kitfo-Style Tibs",
+  "description": "Resinous, pillowy, ayurvedic-tamasic-friendly Ethiopian beef dish, kitfo-form, hot-stone-plate, matcha-glazed and lacquer-wiped, meal prep ready.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (kitfo-form, thinly sliced)",
+      "amount": "500g",
+      "notes": "high-protein, tamasic-friendly, choose red meat for authentic flavor"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tbsp",
+      "notes": "resinous, ayurvedic, tamasic-friendly"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": "balance matcha's bitterness"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": "for matcha glaze, adjust to desired consistency"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "tamasic-friendly spice, for color and flavor"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "optional, for spicy kick"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "for hot-stone-plate prep, choose ghee for authentic flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped, for tibs preparation"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for tibs preparation"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for lacquer glaze, choose high-quality for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat hot-stone-plate to medium-high heat.",
+    "Prepare beef by slicing into kitfo-form, thinly sliced.",
+    "Season beef with salt, black pepper, and turmeric.",
+    "In a pan, heat ghee or oil over medium heat, then sauté onion and garlic until lightly browned.",
+    "Add beef to the pan and cook, stirring occasionally, until browned and cooked to desired level of doneness.",
+    "Transfer beef to a plate, leaving excess oil in the pan.",
+    "In a small bowl, whisk together matcha powder, sugar, and water to create a smooth matcha glaze.",
+    "Pour matcha glaze over beef and spread evenly.",
+    "In a separate pan, melt butter over medium heat, then brush with a lacquer glaze consistency.",
+    "Wipe lacquer glaze over beef, creating a resinous sheen.",
+    "Serve immediately, garnished with chopped onion and garlic if desired.",
+    "Serve with injera or your preferred bread for a traditional Ethiopian experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "ethiopian",
+    "high-protein",
+    "hot-stone-plate",
+    "lacquer",
+    "matcha",
+    "meal-prep",
+    "one-pan",
+    "pillowy",
+    "resinous",
+    "tamasic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "matcha-glazed-and-lacquer-wiped-ethiopian-beef-kitfo-style-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/matcha-glazed-and-lacquer-wiped-ethiopian-beef-kitfo-style-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:00:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "matcha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "matcha-glazed and lacquer-wiped",
+    "dishForm": "Kitfo-Style Tibs"
+  }
+}
