@@ -1,0 +1,107 @@
+{
+  "title": "Malty Dense German Bacon Bake",
+  "description": "A rich, comforting German-inspired dish featuring crispy bacon lardon, malty flavors, and a dense texture.",
+  "cuisine": "German",
+  "diet": [
+    null,
+    "pork-free",
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup (1 stick)"
+    },
+    {
+      "name": "bacon lardons",
+      "amount": "6 slices (about 6 oz)"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "malt syrup (or dark corn syrup)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, oats, and salt.",
+    "In a large skillet, cook the bacon lardons over medium heat, stirring occasionally, until crispy.",
+    "Transfer the bacon to a paper towel-lined plate to drain excess fat.",
+    "In a large mixing bowl, whisk together the milk, eggs, malt syrup (or dark corn syrup), brown sugar, and a pinch of salt.",
+    "Add the flour mixture to the wet ingredients and stir until just combined.",
+    "Stir in the cooked bacon, thyme sprigs, and melted butter.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Bake for 40-45 minutes, or until golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "german",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 55,
+    "fat": 32
+  },
+  "slug": "malty-dense-german-bacon-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-dense-german-bacon-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:46:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "bacon lardon",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bacon",
+    "descriptor": "malty dense",
+    "dishForm": "Bake"
+  }
+}
