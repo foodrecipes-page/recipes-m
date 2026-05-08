@@ -1,0 +1,97 @@
+{
+  "title": "Molten Middle Eastern Red Peppers Muhammara",
+  "description": "A citrusy and molten Middle Eastern dish featuring red peppers and Appleton rum, perfect for a weeknight dinner. This gluten-free friendly recipe is made in a pressure cooker and served in a cazuela.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the chopped garlic and cook for 1 minute.",
+    "Add the red bell peppers and cook for 2 minutes.",
+    "Add the Appleton rum, lemon juice, pomegranate molasses, salt, and black pepper, and stir to combine.",
+    "Close the lid and cook for 10 minutes.",
+    "Let the pressure release naturally, then open the lid and stir in the chopped walnuts.",
+    "Transfer the muhammara to a cazuela and serve hot.",
+    "Garnish with additional walnuts and red pepper flakes, if desired.",
+    "Serve with pita bread or crackers for a delicious and easy dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "rum-infused",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "molten-middle-eastern-red-peppers-muhammara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-middle-eastern-red-peppers-muhammara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:49:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "appleton rum",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "red peppers",
+    "descriptor": "Molten Spicy",
+    "dishForm": "Muhammara"
+  }
+}
