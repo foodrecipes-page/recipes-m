@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Grilled Malaysian Chicken Satay",
+  "description": "A herbal and tender Malaysian dish, perfect for midnight cravings, featuring grilled chicken in a mixture of oil and spices, diabetic-friendly due to low sugar content.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, vegetable oil, lime juice, garlic, ginger, coriander, cumin, salt, and black pepper.",
+    "Add the chicken strips to the bowl and mix well to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium heat.",
+    "Thread the marinated chicken strips onto skewers, if using.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Serve the chicken satay hot with your choice of sides, such as peanut sauce or cucumber salad.",
+    "Garnish with chopped cilantro or scallions, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled-chicken",
+    "herbal",
+    "low-carb",
+    "malaysian-cuisine",
+    "midnight-cravings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-grilled-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-grilled-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:08:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly grilled",
+    "dishForm": "Satay"
+  }
+}
