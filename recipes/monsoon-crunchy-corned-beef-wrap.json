@@ -2,9 +2,7 @@
   "title": "Monsoon Crunchy Corned Beef Wrap",
   "description": "A refreshing and flavorful wrap featuring corned beef, pickles, and a touch of dairy-free cheese, perfect for snacking on a rainy day.",
   "cuisine": "American",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -39,7 +37,8 @@
     "Sprinkle cilantro over the top if desired.",
     "Fold in half and place seam side down onto a baking sheet.",
     "Bake for 8-10 minutes or until wrap is warm and cheese is melted.",
-    "Serve immediately while still warm."
+    "Serve immediately while still warm.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -70,5 +69,10 @@
     "primaryIngredient": "corned beef",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

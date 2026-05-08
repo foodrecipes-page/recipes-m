@@ -51,7 +51,8 @@
     "In a greased 9x13 inch baking dish, add the chicken and rice mixture and top with shredded reduced-fat cheddar.",
     "Cover the dish with aluminum foil and bake for 25 minutes.",
     "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
-    "Remove the dish from the oven and let it rest for 5 minutes before serving."
+    "Remove the dish from the oven and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Moist Meaty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

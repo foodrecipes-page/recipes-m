@@ -4,8 +4,7 @@
   "cuisine": "Ukrainian",
   "diet": [
     "plant-based",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -104,5 +103,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "mildly nutty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Savory and chewy Kenyan beef buns perfect for a post-workout meal, featuring a unique ttukbaegi earthenware cook method and raw-friendly ingredients.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "snack",
@@ -60,7 +59,8 @@
     "In a separate pan, cook the beef over high heat until browned, breaking it up into small pieces as it cooks.",
     "Add the chopped onion, minced garlic, and grated ginger to the pan and cook until the onion is translucent.",
     "Assemble the buns by placing a tablespoon of the beef mixture onto the center of each dough disk.",
-    "Fold the dough over the filling and press the edges together to seal the bun."
+    "Fold the dough over the filling and press the edges together to seal the bun.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +97,10 @@
     "mainIngredient": "beef",
     "descriptor": "mighty mouthwatering",
     "dishForm": "Buns"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

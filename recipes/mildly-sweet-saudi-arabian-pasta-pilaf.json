@@ -3,8 +3,7 @@
   "description": "A tangy and crisp Saudi Arabian dish featuring a unique pasta water emulsion, this pilaf is perfect for a romantic evening, and can be easily adapted to be sugar free friendly.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Drain the pasta and add it to the skillet, stirring to combine with the onion and garlic mixture.",
     "Add the granulated sugar, salt, and black pepper to the skillet and stir to combine.",
     "Reduce heat to low and simmer the pilaf for 5 minutes, stirring occasionally.",
-    "Stir in the chopped fresh parsley and serve hot."
+    "Stir in the chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -74,8 +74,7 @@
     "middle-eastern",
     "one-pot",
     "romantic-dinner",
-    "sugar-free-friendly",
-    "vegetarian"
+    "sugar-free-friendly"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +99,10 @@
     "mainIngredient": "pasta",
     "descriptor": "Mildly Sweet",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

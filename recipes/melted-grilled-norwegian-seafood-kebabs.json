@@ -3,7 +3,6 @@
   "description": "A savory and light Norwegian dish featuring frozen seafood mix,render-fat, suitable for Buddhist temple-friendly gatherings, grilled on a robata-grill.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -88,5 +87,9 @@
     "mainIngredient": "seafood",
     "descriptor": "Melted Grilled",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

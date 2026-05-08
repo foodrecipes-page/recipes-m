@@ -3,8 +3,7 @@
   "description": "A citrusy and indulgent Vietnamese dish featuring stoned dates, ferment-kimchi, and low-calorie-friendly ingredients, this noodle dish is perfect for a weeknight dinner.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "indulgent",
     "low-calorie",
     "one-pot",
-    "vegetarian",
     "vietnamese-cuisine",
     "weeknight"
   ],
@@ -99,5 +97,9 @@
     "mainIngredient": "dates",
     "descriptor": "Mellow Citrusy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

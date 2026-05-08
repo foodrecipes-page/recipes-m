@@ -85,7 +85,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "vegan-friendly"
   ],
@@ -112,5 +111,9 @@
     "mainIngredient": "fenugreek",
     "descriptor": "malty",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

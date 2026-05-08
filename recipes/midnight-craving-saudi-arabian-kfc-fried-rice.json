@@ -21,7 +21,8 @@
     "Add 2 cups of cooked basmati rice to the wok and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
     "Add 2 tablespoons of Grand Marnier and stir-fry for another minute, until the liquid is almost completely evaporated.",
     "Season with salt to taste.",
-    "Transfer the fried rice to a serving platter or individual bamboo trays and serve immediately."
+    "Transfer the fried rice to a serving platter or individual bamboo trays and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -59,5 +60,9 @@
     "mainIngredient": "KFC",
     "descriptor": "Midnight-Craving",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

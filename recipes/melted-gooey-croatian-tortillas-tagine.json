@@ -3,8 +3,7 @@
   "description": "A nutty and gooey Croatian dish featuring tortillas cooked in a tagine, perfect for a lazy Sunday. This sugar-free-friendly recipe is a unique twist on traditional Croatian cuisine.",
   "cuisine": "Croatian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Add the cooked chicken and onion mixture to the tagine.",
     "Top with the remaining 4 tortillas and crumbled feta cheese.",
     "Cover the tagine and bake for 25 minutes.",
-    "Remove the tagine from the oven and let it rest for 5 minutes before serving."
+    "Remove the tagine from the oven and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +95,10 @@
     "mainIngredient": "tortillas",
     "descriptor": "melted gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

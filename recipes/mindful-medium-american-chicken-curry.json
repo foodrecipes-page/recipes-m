@@ -3,8 +3,7 @@
   "description": "A flavorful and adventurous American dish featuring yellow curry paste, served in a traditional tajine clay vessel, inspired by Buddhist temple cuisine.",
   "cuisine": "American",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -56,7 +55,8 @@
     "Add the yellow curry paste and cook for 1 minute, stirring constantly.",
     "Add the diced tomatoes, coconut milk, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
-    "Serve the curry hot, garnished with fresh herbs, if desired."
+    "Serve the curry hot, garnished with fresh herbs, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -64,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "one-pot",
     "spicy",
@@ -94,5 +93,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Mindful Medium",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

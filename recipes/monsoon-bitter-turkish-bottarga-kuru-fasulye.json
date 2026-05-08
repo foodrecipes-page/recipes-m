@@ -3,7 +3,6 @@
   "description": "A hearty, flavorful Turkish stew featuring the salty, rich flavor of bottarga, perfect for a monsoon evening. This kosher-friendly dish is a twist on the traditional Turkish kuru fasulye, with the addition of a spicy tadka and a tangy, herby sauce.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "kosher"
   ],
   "meal": "dinner",
@@ -111,5 +110,9 @@
     "mainIngredient": "bottarga",
     "descriptor": "Monsoon Bitter",
     "dishForm": "Kuru Fasulye"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

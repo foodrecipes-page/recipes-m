@@ -79,8 +79,7 @@
     "filipino",
     "keto-friendly",
     "one-pan",
-    "under-30",
-    "vegan"
+    "under-30"
   ],
   "nutrition": {
     "calories": 540,
@@ -105,5 +104,9 @@
     "mainIngredient": "white navy beans",
     "descriptor": "midnight-craving velvety",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

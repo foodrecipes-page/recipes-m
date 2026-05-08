@@ -65,7 +65,8 @@
     "Sprinkle the cooked turkey mixture evenly over the sauce, top with spinach slices and provolone cheese.",
     "Fold the edges of the dough over the filling and press to seal, forming a pocket.",
     "Place the prepared piadina on a hot molcajete or griddle, cooking each side for 3 minutes until golden and crisp.",
-    "Remove from heat, let cool slightly, then slice into wedges and serve immediately."
+    "Remove from heat, let cool slightly, then slice into wedges and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 19,
@@ -103,5 +104,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Mildly Crispy",
     "dishForm": "Piadina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

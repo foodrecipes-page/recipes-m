@@ -3,8 +3,7 @@
   "description": "A comforting Thai dish featuring a dense, yeasty rice, with a burst of citrus from lime, and a crunch from salt-baked terracotta-dish shell.",
   "cuisine": "Thai",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -117,5 +116,9 @@
     "mainIngredient": "rice",
     "descriptor": "Mellow Yeasty",
     "dishForm": "Khanom Krok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

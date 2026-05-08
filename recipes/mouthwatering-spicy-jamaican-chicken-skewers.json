@@ -60,7 +60,8 @@
     "Grill the skewers for 10-12 minutes, turning occasionally.",
     "Sprinkle the crushed candy onto the skewers during the last minute of grilling.",
     "Serve the skewers hot.",
-    "Garnish with additional pine nuts and scotch bonnet peppers if desired."
+    "Garnish with additional pine nuts and scotch bonnet peppers if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mouthwatering spicy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

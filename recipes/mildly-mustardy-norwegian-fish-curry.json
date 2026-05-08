@@ -2,9 +2,7 @@
   "title": "Mildly Mustardy Norwegian Fish Curry",
   "description": "A velvety and energizing Norwegian dish featuring poached fish in a mildly mustardy curry sauce, served in a banana leaf vessel.",
   "cuisine": "Norwegian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "fish",
     "descriptor": "mildly mustardy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

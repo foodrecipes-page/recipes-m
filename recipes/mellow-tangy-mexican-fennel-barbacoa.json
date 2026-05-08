@@ -3,8 +3,7 @@
   "description": "A comforting and tangy Mexican dish featuring fennel, with a flexitarian twist, inspired by Jalisco-style barbacoa, and elevated with dashi extract for added depth of flavor.",
   "cuisine": "Mexican",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -111,5 +110,9 @@
     "mainIngredient": "fennel",
     "descriptor": "Mellow Tangy",
     "dishForm": "Barbacoa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -110,11 +110,15 @@
     "mood": "solo-dinner",
     "technique": "slow-cook",
     "primaryIngredient": "toor dal",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Australian",
     "mainIngredient": "toor dal",
     "descriptor": "Minty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

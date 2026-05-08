@@ -3,8 +3,7 @@
   "description": "A spicy, creamy, and comforting Spanish dish featuring chickpea flour, kombu-cold-extract, and FODMAP-friendly ingredients, served in a traditional fideua form.",
   "cuisine": "Spanish",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "tags": [
     "comfort-food",
     "fodmap-friendly",
-    "gluten-free",
     "one-pan",
     "spanish-cuisine"
   ],
@@ -98,5 +96,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Mildly Spicy",
     "dishForm": "Fideua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

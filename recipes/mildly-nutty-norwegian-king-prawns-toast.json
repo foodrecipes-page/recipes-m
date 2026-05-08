@@ -3,8 +3,7 @@
   "description": "A delicious and nutritious Norwegian dish featuring raw king prawns, toast, and a hint of nutty flavor, perfect for a springy brunch mood",
   "cuisine": "Norwegian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -63,7 +62,6 @@
   "difficulty": "easy",
   "tags": [
     "brunch",
-    "gluten-free",
     "high-protein",
     "norwegian",
     "nutty",
@@ -93,5 +91,9 @@
     "mainIngredient": "king prawns",
     "descriptor": "mildly nutty",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

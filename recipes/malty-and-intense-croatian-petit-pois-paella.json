@@ -2,9 +2,7 @@
   "title": "Malty and Intense Croatian Petit Pois Paella",
   "description": "This traditional Croatian dish is a rich, malty paella that features the fresh taste of petit pois and a pescatarian-friendly score-fat sauce.",
   "cuisine": "Croatian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,5 +58,9 @@
     "mainIngredient": "petit pois",
     "descriptor": "Malty and Intense",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

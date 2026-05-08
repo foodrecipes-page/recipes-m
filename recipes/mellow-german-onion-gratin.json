@@ -2,9 +2,7 @@
   "title": "Mellow German Onion Gratin",
   "description": "A sweet and creamy onion gratin with a gentle German touch, ideal for a solo dinner.",
   "cuisine": "German",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
     "comfort-food",
     "german-flavor",
     "one-pan",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 650,
@@ -98,5 +95,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Mellow",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

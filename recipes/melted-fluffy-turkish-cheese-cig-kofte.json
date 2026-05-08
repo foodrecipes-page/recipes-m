@@ -3,7 +3,6 @@
   "description": "A post-workout Turkish dish featuring melted Monterey Jack cheese, served with toast, this resinous and fluffy treat is perfect for a snack, it is also nut-free-friendly.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "snack",
@@ -62,7 +61,6 @@
   "tags": [
     "cheesy-snacks",
     "easy-snacks",
-    "gluten-free",
     "nut-free",
     "post-workout",
     "turkish-food"
@@ -90,5 +88,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Melted Fluffy",
     "dishForm": "Cig Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

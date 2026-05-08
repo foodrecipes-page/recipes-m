@@ -3,8 +3,7 @@
   "description": "A tangy and light Italian dish featuring caramelized squid in dairy-free ravioli, perfect for a sick day. This dish is a unique twist on traditional ravioli, with a focus on seafood and caramelized flavors.",
   "cuisine": "Italian",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,6 @@
   "tags": [
     "caramelized",
     "dairy-free",
-    "gluten-free",
     "italian-food",
     "one-pan",
     "ravioli",
@@ -95,5 +93,9 @@
     "mainIngredient": "squid",
     "descriptor": "Mildly Caramelized",
     "dishForm": "Ravioli"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

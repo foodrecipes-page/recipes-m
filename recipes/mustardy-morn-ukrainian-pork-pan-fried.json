@@ -2,10 +2,7 @@
   "title": "Mustardy Morn Ukrainian Pan-Fried Pork",
   "description": "A tangy, flaky Ukrainian dish featuring mustard, perfect for hangover cures. It's also plant-based-friendly and perfect for a kadhai vessel.",
   "cuisine": "ukrainian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -109,5 +106,10 @@
     "mainIngredient": "pork",
     "descriptor": "Mustardy Morn",
     "dishForm": "Pan-Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

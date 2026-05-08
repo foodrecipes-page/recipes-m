@@ -83,7 +83,8 @@
     "heat the remaining 2 tablespoons of butter in a skillet over medium heat.",
     "add the sashimi-cut injera bread and cook for 2-3 minutes on each side, or until golden brown.",
     "add the cooked injera bread to the soup and stir to combine.",
-    "serve immediately, garnished with additional cilantro if desired."
+    "serve immediately, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -91,7 +92,6 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "veg-friendly",
@@ -120,5 +120,10 @@
     "mainIngredient": "injera",
     "descriptor": "midnight-craving molten",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Midnight Melt Vegan Delight",
   "description": "A garlicky and flaky midnight craving dish featuring soured cream and chive dip, perfect for a vegan dinner.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -39,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375\u00b0F.",
+    "Preheat the oven to 375°F.",
     "Mix together the vegan cheese, garlic powder, and a pinch of salt in a large bowl. Add the chives and stir well.",
     "Divide the cheese mixture into two equal parts. Spoon one part onto half of the pastry sheet, then cover with the other half so you have a sealed pocket of filling.",
     "Brush edges lightly with water to seal the pockets, place on an oven-safe baking sheet lined with parchment paper, and sprinkle the remaining soured cream evenly over the top.",
@@ -77,5 +75,9 @@
     "primaryIngredient": "soured cream and chive dip",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Midnight Craving Charcoal-Tender British Fish Tray",
   "description": "A charred, tender, midnight-craving British dish featuring rum, bonito shave, and a shojin-friendly banana leaf vessel.",
   "cuisine": "British",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -92,10 +89,8 @@
     "banana-leaf-vessel",
     "charcoal-grilled",
     "fish-and-chips",
-    "gluten-free",
     "rum-glazed",
-    "shojin-friendly",
-    "vegetarian"
+    "shojin-friendly"
   ],
   "nutrition": {
     "calories": 350,
@@ -120,5 +115,10 @@
     "mainIngredient": "fish",
     "descriptor": "midnight-craving charcoal-tender",
     "dishForm": "Tray-Style Chips"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

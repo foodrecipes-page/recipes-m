@@ -3,8 +3,6 @@
   "description": "A salty and juicy Brazilian dish featuring the flavors of red pepper and tandoor spices, made plant-based-friendly and grilled on a cedar plank.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -102,5 +100,10 @@
     "mainIngredient": "pork",
     "descriptor": "Meaty Red Pepper",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

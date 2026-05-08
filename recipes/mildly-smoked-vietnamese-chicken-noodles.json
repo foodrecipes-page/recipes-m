@@ -2,10 +2,7 @@
   "title": "Mildly Smoked Vietnamese Chicken Noodles",
   "description": "A buttery and silky Vietnamese dish featuring medjool dates and smoked chicken, perfect for meal prep. This dish is dash-friendly and can be prepared in under an hour.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -68,8 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "meal-prep",
     "noodle-dish",
     "smoked-chicken",
@@ -98,5 +93,10 @@
     "mainIngredient": "chicken",
     "descriptor": "mildly smoked",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

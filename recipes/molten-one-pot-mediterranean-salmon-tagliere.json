@@ -3,7 +3,6 @@
   "description": "A spicy, satvik-friendly one-pot dish featuring salmon, tandoor, and Mediterranean flavors, all cooked to perfection in a tagliere.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -127,5 +126,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Molten One-Pot",
     "dishForm": "Tagliere"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -61,7 +61,8 @@
     "Reduce the heat to low, cover the teppan with a lid, and simmer the tagine for 1.5 hours, or until the lamb is tender.",
     "Remove the lemongrass stalks and serve the tagine hot.",
     "Garnish with fresh cilantro or scallions, if desired.",
-    "Serve over rice or with crusty bread."
+    "Serve over rice or with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Magically Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

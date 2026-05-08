@@ -3,7 +3,6 @@
   "description": "A light and flavorful Croatian-inspired lamb dish perfect for post-workout meals or weeknight dinners. The addition of cinnamon sticks adds a warm and aromatic touch.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "lacto-ovo-vegetarian"
   ],
@@ -114,5 +113,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Mildly Spiced",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

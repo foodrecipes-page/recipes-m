@@ -104,8 +104,7 @@
     "festival",
     "one-pan",
     "potato",
-    "syrian",
-    "vegan"
+    "syrian"
   ],
   "nutrition": {
     "calories": 450,
@@ -130,5 +129,9 @@
     "mainIngredient": "potatoe",
     "descriptor": "malty velvety",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A rich and indulgent Kenyan dish featuring cilantro leaves and lamb, shaped into nigiri sushi, perfect for a special occasion, with no onions or garlic",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
     "no-onion-no-garlic"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "no-onion-no-garlic",
     "one-pan",
@@ -91,5 +89,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Magnificently Rich",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

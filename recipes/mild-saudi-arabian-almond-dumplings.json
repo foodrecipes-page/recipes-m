@@ -2,9 +2,7 @@
   "title": "Mild Saudi Arabian Almond Dumplings",
   "description": "Nutty and light vegan dumplings infused with citrus and cumin, perfect for a comforting snack.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -79,8 +77,7 @@
     "comforting",
     "dumplings",
     "light",
-    "spicy",
-    "vegan"
+    "spicy"
   ],
   "nutrition": {
     "calories": 405,
@@ -105,5 +102,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Mild",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -51,7 +51,8 @@
     "Flatten each ball into a disk shape, and place a tablespoon of the beef mixture in the center of each disk.",
     "Fold the dough over the filling, and press the edges together to seal the dumpling.",
     "Brush the dumplings with the beaten egg, and place them on the preheated robata grill.",
-    "Cook the dumplings for 5 minutes on each side, or until they are golden brown and cooked through."
+    "Cook the dumplings for 5 minutes on each side, or until they are golden brown and cooked through.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -89,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "molten garlicky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

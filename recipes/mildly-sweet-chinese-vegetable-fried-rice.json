@@ -3,8 +3,7 @@
   "description": "A quick-fix Chinese dish featuring coco sugar and mixed vegetables, perfect for a springy meal, this recipe is also sugar-free-friendly by using coco sugar as a sweetener.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -73,7 +72,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "one-pan",
     "quick-fix",
     "sugar-free",
@@ -103,5 +101,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Mildly Sweet",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

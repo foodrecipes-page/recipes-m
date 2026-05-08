@@ -3,10 +3,7 @@
   "description": "a buttery, crisp japanese dish featuring lamb leg, perfect for late-night cravings that's jain-friendly and pairs well with steamed vegetables. this recipe combines the flavors of traditional japanese cuisine with the richness of lamb.",
   "cuisine": "japanese",
   "diet": [
-    "jain",
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -114,5 +111,11 @@
     "mainIngredient": "lamb leg",
     "descriptor": "midnight-craving",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

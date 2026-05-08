@@ -3,7 +3,6 @@
   "description": "A one-pot Jamaican beef stew with a rich malty base and a vegan cheese pull, perfect for a comforting dinner.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegetarian",
     "kosher-friendly"
   ],
   "meal": "dinner",
@@ -116,11 +115,16 @@
     "mood": "one-pot",
     "technique": "rest-meat",
     "primaryIngredient": "paprika",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "beef",
     "descriptor": "Malty Cheesy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

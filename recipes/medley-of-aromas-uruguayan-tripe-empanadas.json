@@ -3,7 +3,6 @@
   "description": "Rich and creamy Uruguayan dish featuring black cardamom pods, soffritto base, and anti-inflammatory-friendly ingredients. Perfect for a romantic dinner.",
   "cuisine": "Uruguayan",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -118,5 +117,9 @@
     "mainIngredient": "Tripe",
     "descriptor": "Medley of Aromas",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

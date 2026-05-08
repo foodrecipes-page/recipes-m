@@ -2,9 +2,7 @@
   "title": "Malted Crispy Dutch Brie Bake",
   "description": "A bold, wood‑fired bake that fuses malty oat flour with creamy vegan brie on crunchy bread, delivering a golden, crispy finish with a hint of smoked paprika.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "crispy",
     "dutch",
     "quick",
-    "vegan",
     "wood-fired"
   ],
   "nutrition": {
@@ -105,5 +102,9 @@
     "mainIngredient": "Brie",
     "descriptor": "Malted Crispy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

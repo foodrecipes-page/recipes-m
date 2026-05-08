@@ -4,7 +4,6 @@
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -82,8 +81,7 @@
     "curry",
     "indian",
     "sattvic",
-    "tempeh",
-    "vegan"
+    "tempeh"
   ],
   "nutrition": {
     "calories": 340,
@@ -108,5 +106,9 @@
     "mainIngredient": "tempeh",
     "descriptor": "mild creamy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

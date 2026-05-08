@@ -3,8 +3,7 @@
   "description": "A salty and tender Malaysian dish featuring shrimp and al-dente noodles, perfect for a diabetic-friendly meal.",
   "cuisine": "Malaysian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "malaysian-cuisine",
     "noodle-dishes",
     "quick-meals",
@@ -106,5 +104,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Mouthwatering",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "a herbal and cozy jamaican dish featuring passion fruit pulp, perfect for a relaxing evening",
   "cuisine": "jamaican",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
     "herbal",
     "jamaican-cuisine",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +94,9 @@
     "mainIngredient": "Passion Fruit",
     "descriptor": "Mellow Crisp",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

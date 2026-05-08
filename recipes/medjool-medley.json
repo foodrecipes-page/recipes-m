@@ -3,7 +3,6 @@
   "description": "A savory, dense, energizing French dish featuring Medjool dates with a light air-fry twist, egg-free-friendly for those following dietary restrictions.",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -66,5 +65,9 @@
     "primaryIngredient": "medjool dates",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

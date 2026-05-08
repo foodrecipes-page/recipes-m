@@ -3,9 +3,6 @@
   "description": "A moist and flaky Thai wrap filled with spicy chicken and fresh herbs, perfect for a quick and satisfying meal.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -87,7 +84,6 @@
     "glutenfree",
     "lunch",
     "thaifood",
-    "vegetarian",
     "wrap"
   ],
   "nutrition": {
@@ -113,5 +109,11 @@
     "mainIngredient": "chicken",
     "descriptor": "moist, flaky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

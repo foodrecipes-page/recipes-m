@@ -3,8 +3,7 @@
   "description": "A fatty and glassy-jelly monsoon polish dish featuring mussels, this high-protein-friendly stew is cooked to perfection in a copper mug, with the mussels air-fried for added crispiness. The combination of flavors and textures creates a truly mouthwatering experience.",
   "cuisine": "Korean",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "mussels",
     "descriptor": "mouthwatering monsoon",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

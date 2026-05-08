@@ -61,7 +61,8 @@
     "Cover the pot and transfer it to the preheated oven.",
     "Bake for 2 1/2 hours, or until the chicken is tender and the sauce is thick and gooey.",
     "Remove the pot from the oven and let it cool slightly.",
-    "Serve the chicken and sauce hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the chicken and sauce hot, garnished with fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Meltingly gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

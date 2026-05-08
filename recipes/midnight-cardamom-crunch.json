@@ -3,8 +3,7 @@
   "description": "A spicy and chewy Peruvian dish featuring ground cardamom that satisfies midnight cravings. Kosher-friendly.",
   "cuisine": "Peruvian",
   "diet": [
-    "keto",
-    "vegan"
+    "keto"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,12 @@
     "mood": "midnight-craving",
     "technique": "deglaze",
     "primaryIngredient": "ground cardomom",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
+  ]
 }

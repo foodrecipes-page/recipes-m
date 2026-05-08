@@ -3,8 +3,7 @@
   "description": "A British meal-prep dish featuring a snappy lamb scotch-egg with a mustardy flavor profile. Ayurvedic and tamasic-friendly.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Mustardy Snappy",
     "dishForm": "Tasty Scotch-Egg"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "Floral and crisp brunch wrap with silky tofu, fresh mint, and dashi broth, seasoned with Korean spices and wrapped in a crisp lettuce leaf, cooked on a raclette grill for a unique macrobiotic bite.",
   "cuisine": "Korean-Polish",
   "diet": [
-    "vegan",
-    "gluten-free",
     "macrobiotic-friendly"
   ],
   "meal": "breakfast",
@@ -68,10 +66,8 @@
   "difficulty": "medium",
   "tags": [
     "brunch",
-    "gluten-free",
     "macrobiotic-friendly",
     "quick",
-    "vegan",
     "wrap"
   ],
   "nutrition": {
@@ -97,5 +93,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Minty",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

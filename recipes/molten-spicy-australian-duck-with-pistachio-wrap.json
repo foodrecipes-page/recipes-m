@@ -47,7 +47,9 @@
     "Place a cooked duck breast on each wrap, followed by a spoonful of fresh pistachio pesto.",
     "Sprinkle chopped cilantro over the top of each wrap.",
     "Place the wraps under the broiler for 1-2 minutes, or until the cheese is melted and bubbly.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 18,
@@ -87,5 +89,10 @@
     "mainIngredient": "duck with pistachio",
     "descriptor": "Molten Spicy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

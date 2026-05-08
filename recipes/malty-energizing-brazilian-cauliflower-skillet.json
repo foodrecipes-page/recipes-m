@@ -3,8 +3,7 @@
   "description": "A paleo-friendly Brazilian dish featuring cauliflower, with a malty and energizing flavor profile, made using sous-vide cooking techniques.",
   "cuisine": "Brazilian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -51,7 +50,8 @@
     "Remove the cauliflower from the sous-vide bag and add it to the saucepan with the malt syrup mixture.",
     "Stir in chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to low and cook for an additional 10 minutes.",
-    "Serve the malty cauliflower skillet hot, garnished with fresh herbs if desired."
+    "Serve the malty cauliflower skillet hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -60,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "brazilian-cuisine",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "paleo-friendly",
@@ -89,5 +88,10 @@
     "mainIngredient": "cauliflower",
     "descriptor": "malty energizing",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

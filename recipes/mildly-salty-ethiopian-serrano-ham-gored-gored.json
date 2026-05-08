@@ -2,9 +2,7 @@
   "title": "Mildly Salty Ethiopian Serrano Ham Gored Gored",
   "description": "A kid-friendly Ethiopian dish featuring serrano ham and a mild salty flavor, this gored gored is a unique twist on traditional recipes. It is kosher-friendly and perfect for a weeknight dinner.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -93,5 +91,10 @@
     "mainIngredient": "serrano ham",
     "descriptor": "Mildly Salty",
     "dishForm": "Gored Gored"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher"
+  ]
 }

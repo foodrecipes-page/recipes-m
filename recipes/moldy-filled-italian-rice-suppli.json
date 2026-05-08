@@ -87,7 +87,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "dairy-free",
     "italian",
     "kid-friendly",
     "one-pan",
@@ -117,5 +116,9 @@
     "mainIngredient": "rice",
     "descriptor": "Moldy Filled",
     "dishForm": "Suppli"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Minty Korean Chicken Curry",
   "description": "Herbal, tender, quick-fix Korean dish featuring buttermilk and bhuna, halal-friendly.",
   "cuisine": "Korean",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -102,5 +100,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Minty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

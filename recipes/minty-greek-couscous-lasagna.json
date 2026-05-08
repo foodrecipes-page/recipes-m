@@ -61,7 +61,8 @@
     "Place the pan on the preheated grill and cook for 10 minutes, flipping halfway.",
     "Transfer the lasagna to an air fryer basket and cook at 180°C for 8 minutes until the top is golden.",
     "Remove from the air fryer and let rest for 5 minutes before serving.",
-    "Slice the lasagna into portions and garnish with extra mint leaves if desired."
+    "Slice the lasagna into portions and garnish with extra mint leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -89,11 +90,16 @@
     "mood": "quick-fix",
     "technique": "air-fry",
     "primaryIngredient": "couscous",
-    "diet": "low-carb",
+    "diet": "low-carb-friendly",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "couscous",
     "descriptor": "Minty",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

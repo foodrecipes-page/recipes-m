@@ -2,9 +2,7 @@
   "title": "Midnight-Craving Peruvian White Masarepa Crumble",
   "description": "This herbal crumbly dish features white masarepa, a nut-free-friendly dessert that's perfect for midnight cravings.",
   "cuisine": "Peruvian",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "mainIngredient": "White Masarepa",
     "descriptor": "Midnight-Craving",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

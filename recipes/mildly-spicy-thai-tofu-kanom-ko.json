@@ -3,8 +3,7 @@
   "description": "A spicy and snappy Thai dish featuring tofu in a flavorful sauce, served in a molcajete vessel and cooked to perfection in a tandoor, perfect for a cozy dinner",
   "cuisine": "Thai",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Mildly Spicy",
     "dishForm": "Kanom Ko"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

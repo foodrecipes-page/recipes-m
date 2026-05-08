@@ -2,9 +2,7 @@
   "title": "MozzaBite Crunchy Twist",
   "description": "A kid-friendly vegan twist on mozzarella bites with a tangy and crumbly texture, perfect for snacks or meals.",
   "cuisine": "Polish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -48,8 +46,7 @@
   "tags": [
     "mozzarella",
     "crunchy",
-    "kidfriendly",
-    "vegan"
+    "kidfriendly"
   ],
   "nutrition": {
     "calories": 250,
@@ -70,5 +67,9 @@
     "primaryIngredient": "mozzarella balls",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

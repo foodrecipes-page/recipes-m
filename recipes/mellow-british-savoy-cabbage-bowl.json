@@ -3,8 +3,7 @@
   "description": "A buttery and chewy Cornish dish featuring savoy cabbage, perfect for a low-calorie date night dinner, served in an earthenware bowl with a char-grill flavor.",
   "cuisine": "British",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Transfer the cabbage mixture to an earthenware bowl and top with diced char-grilled chicken breast.",
     "Cover the bowl with aluminum foil and bake in the preheated oven for 15 minutes.",
     "Remove the foil and bake for an additional 5 minutes until the top is lightly browned.",
-    "Remove the bowl from the oven and let it cool for a few minutes before serving."
+    "Remove the bowl from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -65,8 +65,7 @@
     "char-grilled",
     "date-night",
     "earthenware-bowl",
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "nutrition": {
     "calories": 320,
@@ -91,5 +90,10 @@
     "mainIngredient": "savoy cabbage",
     "descriptor": "mellow char-grilled",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

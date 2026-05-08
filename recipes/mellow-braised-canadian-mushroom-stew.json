@@ -3,7 +3,6 @@
   "description": "A cultured and tender vegan stew featuring Canadian mushrooms, braised to perfection in a low-fat friendly broth, served on a slate tile vessel.",
   "cuisine": "Canadian",
   "diet": [
-    "vegan",
     "low-fat"
   ],
   "meal": "dinner",
@@ -97,5 +96,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Mellow Braised",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

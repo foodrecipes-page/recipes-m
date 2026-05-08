@@ -3,7 +3,6 @@
   "description": "a french basque dish inspired by the flavors of southern france and northern spain, featuring marinated tofu in a sour cream and cheese bechamel sauce, perfect as a post-workout meal to replenish energy stores.",
   "cuisine": "french basque",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "snack",
@@ -84,8 +83,7 @@
     "high-protein",
     "plant-based",
     "sour-cream-free",
-    "sous-vide",
-    "vegan"
+    "sous-vide"
   ],
   "nutrition": {
     "calories": 420,
@@ -110,5 +108,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Molten Served",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

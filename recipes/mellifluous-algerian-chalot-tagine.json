@@ -65,7 +65,8 @@
     "Add the chicken pieces and brown them on all sides, about 5 minutes.",
     "Pour in the dates, mixed veggies, and chicken broth, then bring the mixture to a gentle simmer.",
     "Cover the tagine, reduce heat to low, and simmer for 25 minutes until the chicken is tender and the sauce thickens.",
-    "Finish by squeezing in lemon juice, seasoning with salt and pepper, and serve hot."
+    "Finish by squeezing in lemon juice, seasoning with salt and pepper, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "chalot",
     "descriptor": "Mellifluous",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

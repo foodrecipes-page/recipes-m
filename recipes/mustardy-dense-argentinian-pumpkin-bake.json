@@ -3,8 +3,6 @@
   "description": "a dense and flavorful pescatarian-friendly dish featuring roasted pumpkin and mustard flavors, perfect for a weeknight dinner",
   "cuisine": "argentinian",
   "diet": [
-    "pescatarian",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -60,7 +58,8 @@
     "in a large bowl, toss together the pumpkin, butternut squash oil, onion, garlic, mustard, chicken broth, cumin, and salt until the pumpkin is evenly coated with the spice mixture.",
     "transfer the pumpkin mixture to a 20x20cm baking dish and cover with aluminum foil.",
     "steam the pumpkin in the oven for 30 minutes before removing the foil and continuing to roast for a further 20-25 minutes, or until the pumpkin is tender and lightly caramelized.",
-    "garnish with chopped fresh parsley and serve hot."
+    "garnish with chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 50,
@@ -72,8 +71,6 @@
     "dinner",
     "gluten-free",
     "one-pan",
-    "pescatarian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -99,5 +96,11 @@
     "mainIngredient": "pumpkin",
     "descriptor": "mustardy dense",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

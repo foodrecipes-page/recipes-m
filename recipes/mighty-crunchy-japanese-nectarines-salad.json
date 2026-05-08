@@ -2,9 +2,7 @@
   "title": "Mighty Crunchy Japanese Nectarines Salad",
   "description": "A pungent, crunchy salad perfect for a date night, featuring juicy nectarines, crisp veggies, and a zesty vegan bonito dressing.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,8 +85,7 @@
     "crunchy",
     "date-night",
     "salad",
-    "slate-plate",
-    "vegan"
+    "slate-plate"
   ],
   "nutrition": {
     "calories": 180,
@@ -113,5 +110,9 @@
     "mainIngredient": "Nectarines",
     "descriptor": "Mighty Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

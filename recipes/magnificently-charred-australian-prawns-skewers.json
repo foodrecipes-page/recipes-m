@@ -3,8 +3,7 @@
   "description": "A show-stopping Australian dish featuring charred prawns, pillowy puff pastry, and a dairy-free friendly twist, perfect for impressing guests.",
   "cuisine": "Australian",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "prawns",
     "descriptor": "Magnificently charred",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

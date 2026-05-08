@@ -4,8 +4,7 @@
   "cuisine": "French",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "yogurt",
     "descriptor": "Magical Smoky",
     "dishForm": "Tarte Tatin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

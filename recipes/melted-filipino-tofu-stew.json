@@ -3,7 +3,6 @@
   "description": "Spicy, gooey tofu stew with smoky paprika and pork lardons, perfect for meal prep.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -97,5 +96,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Melted",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

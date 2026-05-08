@@ -3,7 +3,6 @@
   "description": "A bright, mustard-infused tomato curry with a crunchy tadka, using canned tomatoes and fresh herbs for an energizing, Jain-friendly meal.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -84,8 +83,7 @@
     "jain-friendly",
     "low-fat",
     "one-pot",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 340,
@@ -110,5 +108,9 @@
     "mainIngredient": "Tomatoes",
     "descriptor": "Mustardy Zesty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

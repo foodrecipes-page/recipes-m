@@ -63,7 +63,8 @@
     "Transfer the claypot to the preheated oven and bake for 25 minutes.",
     "Remove the claypot from the oven and stir in the feta cheese until melted and well combined.",
     "Sprinkle the chopped parsley over the top of the tagine and serve hot.",
-    "Use a spoon to create a cheese-pull effect when serving."
+    "Use a spoon to create a cheese-pull effect when serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "kiwifruit",
     "descriptor": "Mellow Citrusy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

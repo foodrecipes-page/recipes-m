@@ -2,9 +2,7 @@
   "title": "Malt Vinegar Garlic Stir-fry",
   "description": "A garlicky, juicy Venezuelan dish featuring malt vinegar and a tadka (spice blend) in one pot for a gluten-free-friendly meal.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Malt Vinegar",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

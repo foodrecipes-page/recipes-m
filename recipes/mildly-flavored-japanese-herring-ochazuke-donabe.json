@@ -3,7 +3,6 @@
   "description": "A delicious and nutritious post-workout Hokkaido-inspired dish featuring jammy herring, crispy toast, and steaming hot donabe broth.",
   "cuisine": "japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "snack",
@@ -107,5 +106,9 @@
     "mainIngredient": "herring",
     "descriptor": "mildly flavored",
     "dishForm": "Ochazuke Donabe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Midnight Butter Canadian Crust",
   "description": "A light and buttery midnight craving featuring a gluten-free shortcrust pastry with hints of darkness.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -61,7 +59,6 @@
     "midnight-crust",
     "canadian-dish",
     "shortcrust-pastry",
-    "gluten-free",
     "dark-chocolate"
   ],
   "nutrition": {
@@ -87,5 +84,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Midnight",
     "dishForm": "Crust"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

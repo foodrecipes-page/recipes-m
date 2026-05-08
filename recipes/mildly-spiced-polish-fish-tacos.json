@@ -68,7 +68,8 @@
     "Warm the taco shells in the oven according to the package instructions.",
     "Fill each taco shell with a fish piece, a few pierogi, and a dollop of Greek yogurt.",
     "Sprinkle the chopped chives and dill pickle relish on top.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "fish",
     "descriptor": "Mildly spiced",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

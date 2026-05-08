@@ -67,7 +67,8 @@
     "Cover the pot and transfer it to the preheated oven. Braise the pork for 2 1/2 to 3 hours, or until tender and easily shredded.",
     "Remove the pot from the oven and stir in the sesame sauce. Taste and adjust the seasoning as needed.",
     "Serve the pork with crispy Canadian bacon on top, garnished with fresh parsley or thyme if desired.",
-    "Drizzle the remaining sesame sauce over the top of the dish, if desired."
+    "Drizzle the remaining sesame sauce over the top of the dish, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 210,
@@ -105,5 +106,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Mustardy",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

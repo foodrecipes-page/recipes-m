@@ -89,8 +89,7 @@
     "comfort-food",
     "diabetic-friendly",
     "easy",
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "nutrition": {
     "calories": 549,
@@ -115,5 +114,9 @@
     "mainIngredient": "plum tomatoes",
     "descriptor": "Mild",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Vietnamese Fresh Spring Rolls with Caramel Hangover Cure",
   "description": "A plant-based-friendly twist on traditional banh cuon, featuring a rich caramel sauce hangover cure. Each bite is a fresh, springtime delight.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -86,7 +83,6 @@
     "hangover-cure",
     "one-pan",
     "plant-based",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -112,5 +108,10 @@
     "mainIngredient": "plant-based-friendly",
     "descriptor": "Molten Hangover-Cure",
     "dishForm": "Fresh Spring Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

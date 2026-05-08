@@ -2,9 +2,7 @@
   "title": "Muddy Vietnamese Quinoa Canh Chua",
   "description": "A funky, shaggy one-pot Vietnamese quinoa canh chua featuring mixed grains, baked tofu, and a tangy tamarind broth, served on a hot-stone plate.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -83,8 +81,7 @@
     "hot-stone-plate",
     "one-pot",
     "plant-based",
-    "quinoa",
-    "vegan"
+    "quinoa"
   ],
   "nutrition": {
     "calories": 593,
@@ -109,5 +106,9 @@
     "mainIngredient": "quinoa",
     "descriptor": "Muddy",
     "dishForm": "Canh Chua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Malaysian",
   "diet": [
     "vegan",
-    "gluten-free",
     "fodmap-friendly",
     "kid-friendly"
   ],
@@ -79,7 +78,6 @@
   "difficulty": "easy",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "kid-friendly",
     "quick-serve",
     "vegan"
@@ -107,5 +105,9 @@
     "mainIngredient": "baby pak choi",
     "descriptor": "Minty Shattering",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

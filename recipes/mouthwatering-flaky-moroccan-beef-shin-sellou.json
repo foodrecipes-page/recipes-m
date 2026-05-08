@@ -2,9 +2,7 @@
   "title": "Mouthwatering Flaky Moroccan Beef Shin Sellou",
   "description": "A traditional Moroccan dish featuring slow-cooked beef shin in a rich and flavorful sellou crust, reduced to perfection and served with a side of vegetables, making it a vegetarian-friendly option by substituting the beef with portobello mushrooms for a vegetarian version.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "beef shin",
     "descriptor": "Mouthwatering Flaky",
     "dishForm": "Sellou"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

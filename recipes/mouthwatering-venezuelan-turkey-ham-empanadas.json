@@ -47,7 +47,8 @@
     "Place a tablespoon of the turkey ham mixture onto the center of each dough circle.",
     "Fold the dough in half and press the edges together to seal the empanada.",
     "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes.",
-    "Serve the empanadas warm and enjoy."
+    "Serve the empanadas warm and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "mouthwatering buttery",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

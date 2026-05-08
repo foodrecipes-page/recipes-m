@@ -4,8 +4,7 @@
   "cuisine": "french",
   "diet": [
     "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "shojin-friendly",
     "vegan",
@@ -95,5 +93,9 @@
     "mainIngredient": "garlic",
     "descriptor": "Mildly aromatic",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

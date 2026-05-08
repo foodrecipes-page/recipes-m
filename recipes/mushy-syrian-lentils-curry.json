@@ -88,8 +88,7 @@
     "lentil",
     "massaman",
     "one-pot",
-    "syrian-curry",
-    "vegan"
+    "syrian-curry"
   ],
   "nutrition": {
     "calories": 440,
@@ -114,5 +113,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Mushy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

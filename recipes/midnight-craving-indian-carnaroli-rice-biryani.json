@@ -64,7 +64,8 @@
     "Add Carnaroli rice and mix well. Cook for 1 minute.",
     "Add 2 cups of water to the saucepan and bring to a boil.",
     "Reduce heat to low, cover with a tight-fitting lid, and simmer for 15 minutes.",
-    "Garnish with fresh cilantro and serve hot."
+    "Garnish with fresh cilantro and serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -104,5 +105,9 @@
     "mainIngredient": "carnaroli-rice",
     "descriptor": "midnight-craving",
     "dishForm": "biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -52,7 +52,8 @@
     "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally.",
     "While the pork is cooking, prepare the agave leaves by rinsing them with water and patting them dry.",
     "Once the pork is cooked, remove it from the grill and wrap each skewer in an agave leaf.",
-    "Serve the pork kebabs hot, garnished with additional green olives if desired."
+    "Serve the pork kebabs hot, garnished with additional green olives if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 12,
@@ -89,5 +90,9 @@
     "mainIngredient": "pork",
     "descriptor": "marinated meaty",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

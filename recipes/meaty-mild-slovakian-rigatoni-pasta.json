@@ -62,7 +62,9 @@
     "Drain the cooked pasta and add it to the skillet, tossing to combine with the meat and spice mixture.",
     "Reduce heat to low and simmer the pasta and meat mixture for 5 minutes, stirring occasionally.",
     "Serve the meaty rigatoni pasta hot, garnished with chopped fresh parsley or chives if desired.",
-    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +102,10 @@
     "mainIngredient": "rigatoni",
     "descriptor": "Meaty Mild",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

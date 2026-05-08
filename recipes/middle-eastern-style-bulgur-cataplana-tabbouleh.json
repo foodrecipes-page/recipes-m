@@ -3,8 +3,7 @@
   "description": "A refreshing, high-protein dinner featuring a crisp cataplana vessel filled with a mixture of bulgur, confit-tomato, and herbs, wrapped in puff pastry.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan-option",
@@ -97,5 +95,9 @@
     "mainIngredient": "bulgur",
     "descriptor": "Middle-Eastern-Style",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

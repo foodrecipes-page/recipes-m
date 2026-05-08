@@ -3,8 +3,7 @@
   "description": "A winey, aerated, nostalgic polish dish featuring haggis, score-fat, and low-glycemic-friendly ingredients, this recipe is a unique twist on traditional Scottish cuisine. It combines the richness of haggis with the comfort of dumplings.",
   "cuisine": "Scottish",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "low-glycemic",
     "scottish-cuisine",
     "traditional",
@@ -95,5 +93,9 @@
     "mainIngredient": "haggis",
     "descriptor": "Mellow Savory",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

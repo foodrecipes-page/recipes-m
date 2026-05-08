@@ -3,8 +3,7 @@
   "description": "A quick and easy Egyptian dish featuring vermicelli rice noodles, this recipe is a great option for a weeknight dinner, with a fluffy and earthy flavor profile that is also FODMAP-friendly.",
   "cuisine": "Egyptian",
   "diet": [
-    "FODMAP-friendly",
-    "vegetarian"
+    "FODMAP-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -52,7 +51,8 @@
     "Add the salt, black pepper, and paprika, and stir to combine.",
     "Add the chicken broth and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 10 minutes.",
-    "Serve hot, garnished with chopped fresh parsley if desired."
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -63,7 +63,6 @@
     "fodmap-friendly",
     "one-pot",
     "quick-fix",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -89,5 +88,10 @@
     "mainIngredient": "vermicelli rice noodles",
     "descriptor": "mild earthy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

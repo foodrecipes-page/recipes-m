@@ -78,7 +78,8 @@
     "Add the coconut milk and stir to combine.",
     "Return the pork to the cazuela and stir to combine.",
     "Season with salt, black pepper, and allspice.",
-    "Serve the Jamaican pork fried rice hot, garnished with a sprig of thyme and a drizzle of mustard sauce."
+    "Serve the Jamaican pork fried rice hot, garnished with a sprig of thyme and a drizzle of mustard sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -117,5 +118,9 @@
     "mainIngredient": "pork",
     "descriptor": "mustardy crispy",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

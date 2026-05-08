@@ -55,7 +55,8 @@
     "Pour low-sodium chicken broth into the pan along with lemon juice. Stir to combine all ingredients evenly.",
     "Cover and simmer for 5-7 minutes or until zucchini is tender but still has a bit of crunch.",
     "Remove from heat, add chopped mint leaves and basil leaves. Toss gently to incorporate.",
-    "Serve immediately as a low-sodium friendly snack with extra lemon zest for garnish."
+    "Serve immediately as a low-sodium friendly snack with extra lemon zest for garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -86,5 +87,9 @@
     "primaryIngredient": "makrut lime leaves",
     "diet": "low-sodium",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

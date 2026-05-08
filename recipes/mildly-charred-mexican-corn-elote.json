@@ -3,8 +3,7 @@
   "description": "A traditional Mexican dish featuring charred corn on the cob, steamed in lotus leaf wraps, perfect for a hangover cure or a side dish, made with strong white flour and shojin-friendly ingredients.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,11 +66,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled",
     "mexican",
     "street-food",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -97,5 +94,10 @@
     "mainIngredient": "corn",
     "descriptor": "mildly charred",
     "dishForm": "Elote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

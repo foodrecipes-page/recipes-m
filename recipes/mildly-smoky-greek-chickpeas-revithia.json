@@ -3,7 +3,6 @@
   "description": "A fresh and juicy post-workout Greek dish featuring chickpeas in a mildly smoky flavor, made with fish sauce and a lacquer glaze, and is satvik friendly.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -66,7 +65,6 @@
     "high-protein",
     "one-pan",
     "post-workout",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -92,5 +90,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Mildly Smoky",
     "dishForm": "Revithia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

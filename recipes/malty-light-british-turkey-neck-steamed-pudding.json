@@ -2,9 +2,7 @@
   "title": "malty light british turkey neck steamed pudding",
   "description": "a hearty and energizing steamed pudding made with turkey neck, suitable for pescatarian diets and served as a traditional british dessert",
   "cuisine": "british",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -73,7 +71,8 @@
     "cover the pudding with parchment paper or a clean tea towel, securing with string if necessary.",
     "place the pudding in a large saucepan, adding enough boiling water to come halfway up the side of the pudding basin.",
     "bring the water to a boil, then reduce the heat to a simmer and cook for 2 hours, or until the pudding is cooked through and a toothpick inserted into the center comes out clean.",
-    "remove the pudding from the water and let it cool for 10 minutes before serving."
+    "remove the pudding from the water and let it cool for 10 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -84,7 +83,6 @@
     "british",
     "dessert",
     "malty",
-    "pescatarian",
     "pudding",
     "steamed",
     "weeknight"
@@ -112,5 +110,10 @@
     "mainIngredient": "Turkey Neck",
     "descriptor": "Malty Light",
     "dishForm": "Steamed Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

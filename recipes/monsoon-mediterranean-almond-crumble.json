@@ -3,7 +3,6 @@
   "description": "A herbal and chewy mediterranean-friendly dish featuring almond paste, caramelized flavors, with a Ukrainian twist.",
   "cuisine": "Mediterranean, Ukrainian",
   "diet": [
-    "vegan",
     "paleo",
     "keto"
   ],
@@ -35,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a large bowl, mix almond flour, honey or maple syrup, melted butter, coconut milk, cinnamon, and salt until well combined.",
     "Fold in sliced almonds and pitted dates.",
     "Transfer mixture onto a lined baking sheet. Bake for 20 minutes until edges are golden brown.",
@@ -76,5 +75,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Monsoon",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -58,7 +58,8 @@
     "Add the pitted medjool dates and cook for 2 minutes, stirring occasionally.",
     "Add the chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 20 minutes, or until the dates are tender and the sauce has thickened.",
-    "Stir in the chopped fresh parsley and serve the tagine hot over fluffy injera bread or couscous."
+    "Stir in the chopped fresh parsley and serve the tagine hot over fluffy injera bread or couscous.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "dates",
     "descriptor": "Mildly Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A low-carb friendly Portuguese dish featuring new potatoes and a light pasta water emulsion, perfect for a post-workout meal. This recipe combines the natural sweetness of new potatoes with the freshness of parsley and grassy notes of asparagus.",
   "cuisine": "Portuguese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,8 @@
     "In a small bowl, whisk together the chicken broth and reserved pasta water to create a light emulsion.",
     "Add the emulsion to the skillet and stir to combine with the potato and asparagus mixture.",
     "Add the cooked pasta to the skillet, tossing to combine with the sauce and potato mixture.",
-    "Season with salt and black pepper to taste, then serve hot topped with grated cheese."
+    "Season with salt and black pepper to taste, then serve hot topped with grated cheese.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -102,5 +102,10 @@
     "mainIngredient": "new potatoes",
     "descriptor": "Mildly Grassy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

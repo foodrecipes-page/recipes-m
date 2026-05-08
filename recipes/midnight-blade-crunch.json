@@ -2,10 +2,7 @@
   "title": "Midnight Blade Crunch",
   "description": "A nutty, crunchy American dish featuring feather blade beef, boiled in a plant-based friendly sauce, perfect for satisfying midnight cravings.",
   "cuisine": "American",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -36,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180\u00b0C (350\u00b0F).",
+    "Preheat oven to 180°C (350°F).",
     "Boil Feather Blade Beef in water with pepperoni, garlic powder, and salt for about 1 hour.",
     "Drain the beef carefully to prevent splashes. Allow it to cool slightly before proceeding.",
     "Crush the cooled beef into small chunks using a fork or your hands.",
@@ -72,5 +69,10 @@
     "primaryIngredient": "feather blade beef",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

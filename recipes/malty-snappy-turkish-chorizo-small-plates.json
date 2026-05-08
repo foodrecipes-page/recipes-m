@@ -2,10 +2,7 @@
   "title": "malty snappy turkish chorizo small plates",
   "description": "serve these crispy chorizo bites on a lazy susan spinner with a side of creamy namul for a quick and easy snack or appetizer.",
   "cuisine": "turkish",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -106,11 +103,9 @@
   "tags": [
     "chorizo",
     "easy-to-make",
-    "gluten-free",
     "small-plates",
     "snack",
     "turkish",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -136,5 +131,10 @@
     "mainIngredient": "Chorizo",
     "descriptor": "Malty Snappy",
     "dishForm": "Small Plates"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

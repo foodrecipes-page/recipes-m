@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing Japanese dish featuring roasted chicken skewers marinated in a mixture of white wine vinegar and spices, perfect for a dinner party. The ayurvedic-rajasic-friendly ingredients make it a great option for those looking for a balanced meal.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -66,7 +65,6 @@
   "tags": [
     "chicken-recipes",
     "easy-dinners",
-    "gluten-free",
     "grilled-meats",
     "japanese-cuisine",
     "party-food"
@@ -94,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Magnificently Roasted",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

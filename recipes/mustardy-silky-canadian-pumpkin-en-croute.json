@@ -3,9 +3,7 @@
   "description": "A rich, date-night Canadian dish featuring roasted pumpkin, silky mustard sauce, and crispy en-croute pastry, all infused with the subtle flavors of cumin and coriander. This Ayurvedic-sattvic-friendly recipe is perfect for a cozy evening in.",
   "cuisine": "canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,10 +89,8 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "dairy-free",
     "date-night",
     "en-croute",
-    "gluten-free",
     "pumpkin",
     "vegetarian"
   ],
@@ -121,5 +117,10 @@
     "mainIngredient": "pumpkin",
     "descriptor": "mustardy silky",
     "dishForm": "en-croute"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A festive Andalusian dish featuring corned beef, patatas bravas style, with a herbal twist and a sugar-free twist. This recipe serves 4-6 people.",
   "cuisine": "Spanish",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,7 +76,6 @@
   "tags": [
     "andalusian",
     "festive",
-    "gluten-free",
     "herbal",
     "patatas-bravas",
     "spanish",
@@ -106,5 +104,9 @@
     "mainIngredient": "Corned Beef",
     "descriptor": "Magical Mellow",
     "dishForm": "Patatas-Bravas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

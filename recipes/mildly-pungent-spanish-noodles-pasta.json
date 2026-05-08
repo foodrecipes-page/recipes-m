@@ -54,7 +54,8 @@
     "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
     "Add the chicken broth to the skillet and bring to a simmer.",
     "Add the cooked noodles to the skillet and toss to combine with the sauce.",
-    "Serve the noodles hot, topped with sliced double-rise bread."
+    "Serve the noodles hot, topped with sliced double-rise bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Mildly pungent",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

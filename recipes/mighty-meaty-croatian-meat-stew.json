@@ -49,7 +49,9 @@
     "Reduce the heat to low and simmer the stew for 1 hour.",
     "Stir in the coconut cream and cook for an additional 10 minutes.",
     "Season the stew with salt and pepper to taste.",
-    "Serve the stew hot, garnished with chopped parsley."
+    "Serve the stew hot, garnished with chopped parsley.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 70,
@@ -86,5 +88,10 @@
     "mainIngredient": "meat",
     "descriptor": "mighty meaty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

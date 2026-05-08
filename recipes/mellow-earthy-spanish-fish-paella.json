@@ -3,7 +3,6 @@
   "description": "A hearty and earthy Spanish dish featuring fish, nam pla fish sauce, and infused oil, perfect for a post-workout meal. This Buddhist-temple-friendly recipe is free from animal products and by-products.",
   "cuisine": "Spanish",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -94,5 +93,9 @@
     "mainIngredient": "fish",
     "descriptor": "mellow earthy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

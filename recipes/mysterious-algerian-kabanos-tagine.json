@@ -2,9 +2,7 @@
   "title": "mysterious algerian kabanos tagine",
   "description": "a resinous, glassy-jelly dish featuring polish kabanos, shio-cure, and halal-friendly ingredients.",
   "cuisine": "algerian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "add the canned diced tomatoes and chicken broth, and stir to combine",
     "bring the tagine to a simmer and cook for 20 minutes",
     "season with salt to taste",
-    "serve hot, garnished with fresh parsley if desired"
+    "serve hot, garnished with fresh parsley if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "gluten-free",
-    "halal",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -99,5 +97,10 @@
     "mainIngredient": "Kabanos",
     "descriptor": "Mysterious",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

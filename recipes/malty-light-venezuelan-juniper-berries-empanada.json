@@ -3,8 +3,7 @@
   "description": "A light and cozy Venezuelan empanada filled with the subtle flavor of juniper berries and the malty sweetness of beer.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "empanada",
-    "gluten-free",
     "latin-inspired",
     "one-pan",
     "vegan-friendly",
@@ -104,5 +102,9 @@
     "mainIngredient": "juniper berries",
     "descriptor": "malty light",
     "dishForm": "empanada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

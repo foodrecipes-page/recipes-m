@@ -3,7 +3,6 @@
   "description": "A cultured and juicy Malaysian dish featuring applesauce and bonito-shave, designed to cure hangovers, with a Mediterranean-friendly twist.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "lunch",
@@ -95,5 +94,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Magical Medicinal",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

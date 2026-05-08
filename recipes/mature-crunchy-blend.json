@@ -3,7 +3,6 @@
   "description": "A crisp and peppery Argentinian dish featuring mature cheddar blended with plant-based-friendly ingredients for meal prep.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -49,7 +48,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Preheat oven to 375°F (190°C).",
     "In a bowl, mix together the shredded mature cheddar cheese with the chopped red onion.",
     "Stir in the balsamic vinaigrette and nutritional yeast until evenly coated.",
     "Layer the mixture onto crispy plant-based croutons. Place them on a baking sheet lined with parchment paper.",
@@ -88,5 +87,9 @@
     "primaryIngredient": "mature cheddar",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

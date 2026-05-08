@@ -3,7 +3,6 @@
   "description": "A hearty, anti-inflammatory-friendly Portuguese rye bread perfect for hangover cures or satisfying snacks.",
   "cuisine": "portuguese",
   "diet": [
-    "gluten-free",
     "dairy-free",
     "high-fiber"
   ],
@@ -105,5 +104,9 @@
     "mainIngredient": "rye",
     "descriptor": "Mellow",
     "dishForm": "Bread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -53,7 +53,8 @@
     "Make fries by slicing the rice into thin strips and sprinkle with all-purpose flour. Lightly wet with water to help stick together.",
     "Place fries on another baking sheet and spray with cooking oil (if desired).",
     "Bake dumplings for 20-25 minutes, or until golden brown. Bake fries for about 20 minutes, or until crispy.",
-    "Garnish with chives if using before serving."
+    "Garnish with chives if using before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 45,
@@ -84,5 +85,9 @@
     "primaryIngredient": "fries",
     "diet": "dash",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

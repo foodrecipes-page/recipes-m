@@ -3,7 +3,6 @@
   "description": "A fatty and creamy Japanese dish featuring rice, tadka, and anti-inflammatory friendly ingredients, perfect for a brunch mood. This recipe combines the flavors of Japan with a spicy kick.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -78,7 +77,6 @@
   "tags": [
     "brunch-ideas",
     "fried-rice",
-    "gluten-free",
     "japanese-cuisine",
     "spicy-food",
     "vegetarian-friendly"
@@ -106,5 +104,9 @@
     "mainIngredient": "rice",
     "descriptor": "mildly spicy",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

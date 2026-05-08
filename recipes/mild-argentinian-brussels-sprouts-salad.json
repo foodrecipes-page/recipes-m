@@ -2,9 +2,7 @@
   "title": "Mild Argentinian Brussels Sprouts Salad",
   "description": "A cozy, umami-packed salad featuring tender blanched Brussels sprouts, Argentinean herbs, and a light citrus vinaigrette.",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
     "argentinian",
     "brussels-sprouts",
     "easy",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -88,5 +85,9 @@
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Mild",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

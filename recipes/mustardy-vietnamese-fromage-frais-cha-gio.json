@@ -70,7 +70,8 @@
     "When the oil is hot, add a few of the spring rolls to the pan (do not overcrowd). Fry until the spring rolls are golden brown and crispy, about 3-4 minutes on each side.",
     "Drain the spring rolls on a paper towel-lined plate and serve warm, garnished with chopped cilantro and a drizzle of yuzu-cure sauce (see below for sauce recipe).",
     "Mix yuzu juice, rice vinegar, honey, and soy sauce in a small bowl until well combined. Taste and adjust seasoning as needed.",
-    "Serve yuzu-cure sauce on the side for dipping."
+    "Serve yuzu-cure sauce on the side for dipping.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -107,5 +108,9 @@
     "mainIngredient": "Fromage Frais",
     "descriptor": "Mustardy",
     "dishForm": "Cha-Gio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

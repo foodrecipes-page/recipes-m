@@ -2,10 +2,7 @@
   "title": "Meat-Infused Korean Ground Beef Bowl",
   "description": "Fresh, crunchy Korean dish featuring ground beef, kimchi, and toasted sesame seeds. This Buddhist-temple-friendly recipe is perfect for meal prep.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,7 +75,8 @@
     "Cook for an additional 2 minutes, stirring constantly.",
     "Taste and adjust the seasoning as needed.",
     "Transfer the meat mixture to a bowl and top with toasted sesame seeds and chopped green onions.",
-    "Serve immediately, or refrigerate or freeze for later use."
+    "Serve immediately, or refrigerate or freeze for later use.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -115,5 +113,11 @@
     "mainIngredient": "ground beef",
     "descriptor": "Meat-Infused",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

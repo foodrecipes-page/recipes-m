@@ -3,7 +3,6 @@
   "description": "A twist on traditional greek cuisine with bitter notes from preserved lemons.",
   "cuisine": "greek",
   "diet": [
-    "vegetarian",
     "jain"
   ],
   "meal": "snack",
@@ -70,7 +69,8 @@
     "Reduce heat to low, cover, and simmer for 30 minutes, until lamb is tender.",
     "Fluff with a fork and season with salt and pepper.",
     "Stir in parsley and oregano, and serve with honey, if desired.",
-    "Serve immediately, garnished with additional parsley and lemon wedges, if desired."
+    "Serve immediately, garnished with additional parsley and lemon wedges, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -106,5 +106,10 @@
     "mainIngredient": "lamb",
     "descriptor": "midnight-craving bitter",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Malty Ukrainian Swede Borscht",
   "description": "A comforting and unique Ukrainian dish made with swede and featuring a malty, molten flavor profile that is also friendly to Ayurvedic rajasic principles.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +75,7 @@
   "tags": [
     "comfort-food",
     "eastern-european",
-    "unique",
-    "vegetarian"
+    "unique"
   ],
   "nutrition": {
     "calories": 350,
@@ -104,5 +100,10 @@
     "mainIngredient": "swede",
     "descriptor": "malty",
     "dishForm": "Borscht"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

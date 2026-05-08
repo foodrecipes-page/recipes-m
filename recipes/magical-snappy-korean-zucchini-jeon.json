@@ -3,8 +3,7 @@
   "description": "A charred and snappy Korean dish featuring light rum, namul-blanch-season, and low-glycemic-friendly ingredients, served in individual mini cocottes to cure hangovers. This jeon is a twist on traditional Korean cuisine.",
   "cuisine": "Korean",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "snack",
   "ingredients": [
@@ -69,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "hangover-cure",
     "korean-cuisine",
     "low-glycemic",
@@ -99,5 +97,9 @@
     "mainIngredient": "zucchini",
     "descriptor": "Magical Snappy",
     "dishForm": "Jeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

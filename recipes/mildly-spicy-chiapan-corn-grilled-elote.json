@@ -2,10 +2,7 @@
   "title": "Mildly Spicy Chiapan Corn Grilled Elote",
   "description": "A mildly spicy and flavorful twist on traditional Mexican elote, made with almond flour and tempered chocolate",
   "cuisine": "mexican",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -70,12 +67,10 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled",
     "mexican",
     "snack",
-    "summer",
-    "vegetarian"
+    "summer"
   ],
   "nutrition": {
     "calories": 220,
@@ -100,5 +95,10 @@
     "mainIngredient": "corn",
     "descriptor": "Mildly Spicy",
     "dishForm": "Grilled Elote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

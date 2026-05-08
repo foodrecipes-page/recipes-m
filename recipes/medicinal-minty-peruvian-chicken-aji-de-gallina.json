@@ -3,7 +3,6 @@
   "description": "A soothing, anti-inflammatory friendly Peruvian dish featuring tender chicken in a creamy, aromatic sauce.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "low-carb"
   ],
@@ -108,5 +107,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Medicinal Minty",
     "dishForm": "Aji de Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A traditional British dish with a kick of spicy mustard and the tanginess of pickle. This recipe caters to a Cornish diet, making it suitable for various tastes and dietary needs.",
   "cuisine": "Cornish",
   "diet": [
-    "vegetarian",
-    "vegan",
     "sattvic"
   ],
   "meal": "dinner",
@@ -73,7 +71,8 @@
     "Add the chopped onion, carrot, and potato to the pan. Continue roasting for 1 hour.",
     "Mix the mustard seeds, pickle, and enchilada sauce in a bowl. Brush the mixture onto the brisket every 20 minutes for the remaining 30 minutes of roasting time.",
     "Garnish with fresh thyme before serving.",
-    "Let the roast rest for 10 minutes before slicing and serving."
+    "Let the roast rest for 10 minutes before slicing and serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 110,
@@ -111,5 +110,11 @@
     "mainIngredient": "Meat",
     "descriptor": "Mustardy dense",
     "dishForm": "Sunday Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

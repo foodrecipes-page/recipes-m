@@ -3,8 +3,7 @@
   "description": "A refreshing, crunchy bowl packed with toasted sesame seeds, almonds, chia, and a minty tahini dressing, perfect for a post-workout boost.",
   "cuisine": "Norwegian",
   "diet": [
-    "macrobiotic-friendly",
-    "vegan"
+    "macrobiotic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -60,8 +59,7 @@
     "crunchy",
     "macrobiotic-friendly",
     "minty",
-    "post-workout",
-    "vegan"
+    "post-workout"
   ],
   "nutrition": {
     "calories": 550,
@@ -86,5 +84,9 @@
     "mainIngredient": "khus khus",
     "descriptor": "Minty Crunchy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

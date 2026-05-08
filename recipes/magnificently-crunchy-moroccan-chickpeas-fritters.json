@@ -3,7 +3,6 @@
   "description": "Sour and crunchy Moroccan chickpeas fritters perfect for a brunch mood, featuring garlic and gluten-free friendly ingredients, deep-fried to a golden brown perfection.",
   "cuisine": "Moroccan",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -67,7 +66,6 @@
   "tags": [
     "brunch-ideas",
     "deep-fried",
-    "gluten-free",
     "high-protein",
     "moroccan-cuisine",
     "vegetarian-options"
@@ -95,5 +93,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Magnificently crunchy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

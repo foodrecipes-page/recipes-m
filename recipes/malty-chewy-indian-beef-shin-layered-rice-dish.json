@@ -138,7 +138,8 @@
     "Soak kombu in water for 30 minutes, then drain and discard water.",
     "Add soaked kombu to the layering dish and layer with rice and beef shin, finishing with a layer of rice on top.",
     "Cover with foil and bake at 180°C for 45 minutes, then remove foil and continue baking for 15 minutes.",
-    "Let rest for 10 minutes before serving."
+    "Let rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -177,5 +178,9 @@
     "mainIngredient": "beef shin",
     "descriptor": "malty chewy",
     "dishForm": "Layered Rice Dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

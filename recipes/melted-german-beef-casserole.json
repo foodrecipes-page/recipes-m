@@ -73,7 +73,8 @@
     "Bring to a simmer and cook for 10 minutes, or until the liquid has thickened slightly.",
     "Stir in milk and cook for an additional 5 minutes.",
     "Season with salt and black pepper to taste.",
-    "Sprinkle with parsley and serve hot, molten center and all."
+    "Sprinkle with parsley and serve hot, molten center and all.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "beef",
     "descriptor": "melted",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A flavorful, energizing, and FODMAP-friendly Chinese dish featuring Massaman curry paste in a chewy ssam-wrap.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "vegetarian",
     "low-fodmap"
   ],
@@ -25,7 +24,8 @@
     "Reduce heat to low and let sauce simmer for 5 minutes.",
     "Warm the ssam wheat wraps according to package instructions.",
     "Assemble wraps by spooning curry sauce over the chicken and garnishing with cilantro.",
-    "Assemble wraps by spooning curry sauce over the chicken and garnishing with cilantro."
+    "Assemble wraps by spooning curry sauce over the chicken and garnishing with cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -62,5 +62,10 @@
     "mainIngredient": "curry",
     "descriptor": "malty chewy",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

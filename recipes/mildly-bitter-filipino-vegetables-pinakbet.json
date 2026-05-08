@@ -75,8 +75,7 @@
     "diabetic-friendly",
     "filipino-cuisine",
     "gluten-free",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 220,
@@ -101,5 +100,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Mildly Bitter",
     "dishForm": "Pinakbet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A low-carb friendly Jamaican dish featuring umami flavors and aerated texture, perfect for post-workout meals. This recipe uses fast action yeast for a unique twist.",
   "cuisine": "Jamaican",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,8 @@
     "Brush the skewers with olive oil and season with fast action yeast.",
     "Grill the skewers for 10-12 minutes, turning occasionally.",
     "Let the skewers rest for 5 minutes before serving.",
-    "Garnish with chopped scallions and serve hot."
+    "Garnish with chopped scallions and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +88,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Mildly Spiced",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

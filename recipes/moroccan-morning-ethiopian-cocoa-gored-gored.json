@@ -50,7 +50,8 @@
     "in a separate pan, scramble the eggs over low heat.",
     "once the eggs are fully cooked, chop them into small pieces and set aside.",
     "top each gored-gored shape with a spoonful of nuka-pickle, chopped cilantro, and a sprinkle of cocoa powder.",
-    "serve immediately, garnished with additional cilantro if desired."
+    "serve immediately, garnished with additional cilantro if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -88,5 +89,9 @@
     "mainIngredient": "cocoa",
     "descriptor": "Moroccan Morning",
     "dishForm": "Gored-Gored"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Spicy, crisp, crowd-pleasing Korean dish featuring khus khus, candy, and macrobiotic-friendly ingredients in a bibimbap style.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -87,7 +86,6 @@
   "difficulty": "medium",
   "tags": [
     "bibimbap",
-    "gluten-free",
     "korean",
     "one-pan",
     "vegan",
@@ -116,5 +114,9 @@
     "mainIngredient": "khus khus",
     "descriptor": "Macrobiotic Friendly",
     "dishForm": "Bibimbap Style Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

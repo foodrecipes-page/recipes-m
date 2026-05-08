@@ -112,11 +112,15 @@
     "mood": "kid-friendly",
     "technique": "temper",
     "primaryIngredient": "beef gravy",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "saudi-arabian",
     "mainIngredient": "beef",
     "descriptor": "molten herbal",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

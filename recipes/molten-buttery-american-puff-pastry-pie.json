@@ -2,9 +2,7 @@
   "title": "Molten Buttery American Puff Pastry Pie",
   "description": "A buttery and molten one-pot American dish featuring puff pastry, score-fat, and vegan-friendly ingredients, perfect for a comforting meal.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "puff pastry",
     "descriptor": "Molten Buttery",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

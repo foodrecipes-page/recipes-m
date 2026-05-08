@@ -68,8 +68,7 @@
   "tags": [
     "gluten-free",
     "middle-eastern",
-    "sweet",
-    "vegan"
+    "sweet"
   ],
   "nutrition": {
     "calories": 400,
@@ -94,5 +93,9 @@
     "mainIngredient": "almonds",
     "descriptor": "malty molten",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

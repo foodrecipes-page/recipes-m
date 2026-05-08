@@ -2,10 +2,7 @@
   "title": "Magnificently Rich Mexican Cabbage Tacos",
   "description": "A rich and indulgent Mexican dish featuring white cabbage, perfect for a satisfying meal. This recipe is nut-free-friendly and features a delicious brine-wet flavor.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +66,6 @@
     "comfort-food",
     "mexican-food",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +91,10 @@
     "mainIngredient": "cabbage",
     "descriptor": "Magnificently Rich",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

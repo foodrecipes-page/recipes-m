@@ -3,8 +3,7 @@
   "description": "This earthy and silky Thai noodle dish is a perfect hangover cure, featuring confit tomato and anti-inflammatory friendly ingredients. It is made with boiling water and a blend of spices.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -77,7 +76,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "noodle-dish",
     "one-pot",
     "spicy",
@@ -107,5 +105,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Mildly Spicy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

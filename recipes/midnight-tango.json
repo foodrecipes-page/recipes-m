@@ -3,7 +3,6 @@
   "description": "A citrusy, chewy Argentinian dish featuring minced pork, with a midnight craving appeal and nut-free-friendly.",
   "cuisine": "Argentinian",
   "diet": [
-    "pescatarian",
     "nut-free"
   ],
   "meal": "dinner",
@@ -60,7 +59,8 @@
     "Add lime zest, orange peel, saffron threads, paprika powder, cumin seeds, capers, and enough cold water to cover the meat. Mix well.",
     "Season with salt and black pepper. Cover the bowl with plastic wrap and refrigerate for at least 4 hours or overnight for best results.",
     "Transfer the seasoned mixture into a baking dish. Bake in the preheated oven for 1 hour, then reduce heat to 325°F (165°C) and continue baking for another 30 minutes to an hour until meat is tender.",
-    "Slice the pork before serving as desired."
+    "Slice the pork before serving as desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 4,
   "cookTimeMin": 70,
@@ -93,5 +93,10 @@
     "primaryIngredient": "minced pork",
     "diet": "nut-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-pork_no_temp"
+  ]
 }

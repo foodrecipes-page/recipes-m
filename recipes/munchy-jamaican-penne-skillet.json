@@ -3,7 +3,6 @@
   "description": "Funky, crunchy, energizing Jamaican dish featuring penne rigate, yakimono grilling, and a crispy chickpea topping.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "egg-free"
   ],
   "meal": "dinner",
@@ -77,8 +76,7 @@
     "egg-free",
     "jamaican-flavor",
     "one-pan",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 1100,
@@ -103,5 +101,9 @@
     "mainIngredient": "penne",
     "descriptor": "Munchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Mustardy Fluffy Energizing Korean Dried-Shrimp-Goong-Haeng Mandu",
   "description": "A flavorful and energizing Korean mandu dish featuring dried shrimp and mustard flavors. Great for a quick breakfast or snack.",
   "cuisine": "Korean",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -112,5 +109,10 @@
     "mainIngredient": "dried-shrimp-goong-haeng",
     "descriptor": "Mustardy Fluffy Energizing",
     "dishForm": "Mandu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

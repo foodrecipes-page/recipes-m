@@ -110,11 +110,15 @@
     "mood": "festive",
     "technique": "shio-koji-cure",
     "primaryIngredient": "egg wash",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": "basque-french",
     "cuisineAdjective": "Basque-French",
     "mainIngredient": "Lamb",
     "descriptor": "Mouthwatering Mutton",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Mustardy Crispy British Meat Eton Mess",
   "description": "A hearty, pescatarian-friendly Yorkshire-inspired dish made with shredded meat, crispy pastry, and a tangy mustard sauce.",
   "cuisine": "british",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -118,5 +116,9 @@
     "mainIngredient": "meat",
     "descriptor": "mustardy crispy",
     "dishForm": "Eton Mess"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

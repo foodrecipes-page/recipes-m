@@ -3,8 +3,7 @@
   "description": "A resinous and silky American dish featuring water chestnut, perfect for midnight cravings, made with ayurvedic-tamasic-friendly ingredients and served on a hot stone plate.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "easy",
   "tags": [
     "easy",
-    "gluten-free",
     "one-pan",
     "quick",
     "snack",
@@ -103,5 +101,9 @@
     "mainIngredient": "water chestnut",
     "descriptor": "Midnight Saute",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

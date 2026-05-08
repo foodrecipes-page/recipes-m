@@ -2,9 +2,7 @@
   "title": "Mildly Spicy Irish Fish Skillet",
   "description": "A comforting and spicy Irish dish featuring fish, soured cream and chive dip, served on a hot stone plate, perfect for a chilly evening. This pescatarian-friendly recipe combines the freshness of fish with the warmth of spices.",
   "cuisine": "Irish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,7 +76,6 @@
     "comfort-food",
     "irish-cuisine",
     "one-pan",
-    "pescatarian",
     "seafood",
     "spicy"
   ],
@@ -105,5 +102,9 @@
     "mainIngredient": "fish",
     "descriptor": "mildly spicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

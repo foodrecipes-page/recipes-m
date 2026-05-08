@@ -3,8 +3,7 @@
   "description": "Spicy, crispy, egg-free-friendly Egyptian dish made with all-purpose flour, perfect for meal prep.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -76,7 +75,6 @@
   "tags": [
     "crispy",
     "egyptian",
-    "gluten-free",
     "meal-prep",
     "spicy"
   ],
@@ -103,5 +101,9 @@
     "mainIngredient": "all purpose flour",
     "descriptor": "matzo",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

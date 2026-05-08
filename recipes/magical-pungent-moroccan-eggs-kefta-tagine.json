@@ -74,7 +74,8 @@
     "While the kefta is baking, whisk the eggs in a bowl and season with salt and pepper.",
     "Remove the skillet from the oven and pour the whisked eggs over the kefta.",
     "Return the skillet to the oven and bake for an additional 10 minutes, or until the eggs are set and the kefta is cooked through.",
-    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+    "Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -112,5 +113,9 @@
     "mainIngredient": "eggs",
     "descriptor": "Magical Pungent",
     "dishForm": "Kefta Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

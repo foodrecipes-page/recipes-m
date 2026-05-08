@@ -2,9 +2,7 @@
   "title": "Melty Gooey Uruguayan Filo Pastry Empanadas",
   "description": "A smoky and gooey Uruguayan dish featuring filo pastry and long fermentation dough, perfect for a vegan friendly meal option.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,8 +71,7 @@
     "gooey",
     "long-fermentation",
     "smoky",
-    "uruguayan",
-    "vegan"
+    "uruguayan"
   ],
   "nutrition": {
     "calories": 320,
@@ -99,5 +96,9 @@
     "mainIngredient": "filo pastry",
     "descriptor": "Melty Gooey",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

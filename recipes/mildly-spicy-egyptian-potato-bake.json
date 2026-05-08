@@ -3,7 +3,6 @@
   "description": "A crumbly, peppery, show-off Egyptian dish featuring katsuramuki-cut russet potatoes, perfect for a dairy-free meal. Serve warm, garnished with fresh parsley.",
   "cuisine": "Egyptian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -118,5 +117,9 @@
     "mainIngredient": "potato",
     "descriptor": "mildly spicy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

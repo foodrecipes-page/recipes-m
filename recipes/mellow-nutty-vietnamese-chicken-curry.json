@@ -3,8 +3,7 @@
   "description": "A nutty and chewy Vietnamese dish featuring red curry paste, perfect for a lazy Sunday, with a Mediterranean twist, cooked in a wok using a bain-marie method.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "nutty",
     "one-pan",
@@ -95,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mellow nutty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

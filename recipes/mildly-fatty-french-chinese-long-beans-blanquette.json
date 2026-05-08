@@ -3,7 +3,6 @@
   "description": "A rich and creamy French-inspired dish featuring Chinese long beans in a blanquette form, made in a kadhai. This dish is nut-free-friendly and perfect for adventurous eaters.",
   "cuisine": "French Chinese",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -51,7 +50,8 @@
     "Gradually pour in the heavy cream and chicken broth, whisking continuously.",
     "Bring the mixture to a simmer and cook for 10 minutes until the sauce thickens.",
     "Season with salt and black pepper to taste.",
-    "Stir in the remaining 2 tablespoons of butter until melted and smooth."
+    "Stir in the remaining 2 tablespoons of butter until melted and smooth.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -88,5 +88,10 @@
     "mainIngredient": "chinese long beans",
     "descriptor": "mildly fatty",
     "dishForm": "Blanquette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

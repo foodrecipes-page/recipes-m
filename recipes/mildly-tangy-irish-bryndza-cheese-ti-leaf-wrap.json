@@ -3,7 +3,6 @@
   "description": "A tangy and nostalgic Irish dish featuring bryndza cheese, kombu-cold-extract, and a dairy-free friendly twist, all wrapped in a ti leaf.",
   "cuisine": "Irish",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -54,11 +53,10 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "easy-entertaining",
     "irish-cuisine",
     "snack-recipes",
@@ -88,5 +86,10 @@
     "mainIngredient": "bryndza cheese",
     "descriptor": "mildly tangy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "recomputed-totalTime"
+  ]
 }

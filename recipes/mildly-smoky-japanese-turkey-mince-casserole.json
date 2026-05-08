@@ -2,9 +2,7 @@
   "title": "Mildly Smoky Japanese Turkey Mince Casserole",
   "description": "A smoky and chewy Japanese-inspired casserole featuring turkey mince, perfect for a weeknight dinner. This dish is vegetarian-friendly and cooked to perfection in a terracotta dish.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "turkey mince",
     "descriptor": "mildly smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

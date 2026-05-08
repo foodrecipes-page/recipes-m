@@ -3,8 +3,7 @@
   "description": "A pungent and flavorful Thai dish featuring apples, boil, and fish in a spicy curry sauce served over a shaggy rice noodle.",
   "cuisine": "Thai",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -117,5 +116,9 @@
     "mainIngredient": "fish",
     "descriptor": "Mildly Spicy",
     "dishForm": "Kanom Jeen Nam Ngiaw"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

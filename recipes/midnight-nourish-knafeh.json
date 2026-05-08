@@ -2,9 +2,7 @@
   "title": "Midnight Nourish Knafeh",
   "description": "A creamy, peppery midnight craving dish featuring a nut-free knafeh base served with a drizzle of honey and walnuts.",
   "cuisine": "Slovakian",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -33,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "Place kanafeh sheets on a baking sheet.",
     "In a medium saucepan, heat heavy cream until just starting to boil.",
     "Reduce heat and stir in sugar and vanilla extract until dissolved.",
@@ -72,5 +70,9 @@
     "primaryIngredient": "knafeh",
     "diet": "nut-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

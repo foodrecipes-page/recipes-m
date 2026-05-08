@@ -43,7 +43,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -70,5 +70,9 @@
     "primaryIngredient": "colby jack cheese",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

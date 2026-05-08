@@ -68,7 +68,6 @@
     "crowd-pleaser",
     "french-mexican",
     "galette",
-    "gluten-free",
     "one-pan",
     "vegetarian"
   ],
@@ -95,5 +94,9 @@
     "mainIngredient": "corn",
     "descriptor": "Magical Mexican",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

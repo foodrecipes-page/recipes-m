@@ -2,10 +2,7 @@
   "title": "Mighty Spicy Malaysian Almond Flour Bake",
   "description": "A crunchy, spicy almond flour bake infused with Malaysian red curry and ginger, perfect for a plant-based snack.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -83,5 +80,10 @@
     "mainIngredient": "almond flour",
     "descriptor": "Mighty Spicy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

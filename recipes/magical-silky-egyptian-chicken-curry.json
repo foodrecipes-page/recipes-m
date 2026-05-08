@@ -3,8 +3,7 @@
   "description": "A spicy and silky Egyptian dish featuring panang paste, steam, and ayurvedic rajasic friendly ingredients, this curry is a quick fix for any meal. It combines the flavors of Egypt with the warmth of Indian spices.",
   "cuisine": "Egyptian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and let the curry simmer for 10 minutes.",
     "Season the curry with salt and black pepper to taste.",
-    "Serve the curry hot over rice or with naan bread."
+    "Serve the curry hot over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,7 +67,6 @@
   "difficulty": "easy",
   "tags": [
     "ayurvedic-friendly",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "quick-fix",
@@ -96,5 +95,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Magical Silky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

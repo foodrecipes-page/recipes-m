@@ -2,9 +2,7 @@
   "title": "Mysterious Uruguayan Beef Fritters",
   "description": "A bold, sour‑creamy fritter that marries Uruguayan beef with a tangy yogurt sauce, served hot from a deep fryer for an adventurous yet comforting treat.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Heat the olive oil in a deep fryer or deep pan until shimmering.",
     "Fry the patties in batches for 4 to 5 minutes, flipping once, until golden brown and cooked through.",
     "Drain the fritters on paper towels and serve hot.",
-    "Drizzle the prepared tangy sauce over the fritters or serve it on the side for dipping."
+    "Drizzle the prepared tangy sauce over the fritters or serve it on the side for dipping.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -71,7 +70,6 @@
     "beef",
     "comfort-food",
     "deep-fry",
-    "gluten-free",
     "sour-cream",
     "uruguayan"
   ],
@@ -98,5 +96,10 @@
     "mainIngredient": "beef",
     "descriptor": "Mysterious",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

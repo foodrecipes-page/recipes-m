@@ -75,7 +75,8 @@
     "Add a small amount of oil to the skillet and swirl to coat.",
     "Add 4 patties to the skillet and cook for 3-4 minutes per side, or until golden brown and cooked through.",
     "Repeat with remaining patties.",
-    "Serve hot, garnished with cilantro if desired."
+    "Serve hot, garnished with cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -114,5 +115,9 @@
     "mainIngredient": "Pepper",
     "descriptor": "Mustardy",
     "dishForm": "Patties"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,11 +2,7 @@
   "title": "Malty Gooey Tunisian Dish Tagine",
   "description": "A rich and flavorful dish featuring a sweet and savory sauce, perfect for a date-night dinner. This Malty Gooey Tunisian Dish Tagine is an anti-inflammatory-friendly, iron-rich meal that will satisfy your sweet and savory cravings.",
   "cuisine": "tunisian",
-  "diet": [
-    "vegan",
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -108,5 +104,11 @@
     "mainIngredient": "Dish",
     "descriptor": "Malty Gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

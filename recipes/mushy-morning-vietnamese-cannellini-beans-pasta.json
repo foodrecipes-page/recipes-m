@@ -4,7 +4,6 @@
   "cuisine": "vietnamese",
   "diet": [
     "vegan",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "breakfast",
@@ -115,5 +114,9 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "mushy morning",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

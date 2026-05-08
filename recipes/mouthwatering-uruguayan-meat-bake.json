@@ -51,7 +51,8 @@
     "Pour the sour cream mixture over the meat mixture in the baking dish.",
     "Sprinkle the shredded mozzarella over the top of the sour cream mixture.",
     "Bake the dish in the preheated wood-fired oven for 35 minutes, or until the cheese is melted and bubbly.",
-    "Remove the dish from the oven and let it rest for 10 minutes before slicing and serving."
+    "Remove the dish from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -89,5 +90,9 @@
     "mainIngredient": "meat",
     "descriptor": "Mouthwatering",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

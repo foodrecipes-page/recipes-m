@@ -3,8 +3,7 @@
   "description": "A funky and fluffy German dish featuring crispy fried sardines, perfect as a hangover cure, and is paleo-friendly.",
   "cuisine": "German",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "snack",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "german-cuisine",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "paleo-friendly",
@@ -98,5 +96,9 @@
     "mainIngredient": "sardines",
     "descriptor": "Magnificently Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

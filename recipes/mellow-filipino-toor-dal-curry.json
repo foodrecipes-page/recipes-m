@@ -3,7 +3,6 @@
   "description": "A herbal and juicy Filipino dish featuring toor dal, perfect for a lazy Sunday, and is dairy-free friendly. It has a char-grill-yang flavor from the use of grilled onions and garlic.",
   "cuisine": "Filipino",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -72,7 +71,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "filipino-cuisine",
     "herbal",
     "lazy-sunday",
@@ -102,5 +100,9 @@
     "mainIngredient": "toor dal",
     "descriptor": "mellow juicy",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

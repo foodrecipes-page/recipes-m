@@ -46,7 +46,8 @@
     "In a wok, heat oil over medium-high heat. Add minced garlic and red chili peppers, sauté for about 2 minutes until fragrant but not browned.",
     "Fold in chopped wild garlic leaves and continue to stir-fry for another minute. Add fish sauce (sambal), tamarind paste, and salt. Stir well until the flavors are evenly distributed.",
     "Add water or chicken stock and bring it to a simmer. Cook until the liquid reduces slightly, about 5-7 minutes.",
-    "Once reduced, turn off heat and let it cool for a few minutes before serving over steamed rice."
+    "Once reduced, turn off heat and let it cool for a few minutes before serving over steamed rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -78,5 +79,9 @@
     "primaryIngredient": "wild garlic leaves",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

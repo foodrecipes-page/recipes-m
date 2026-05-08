@@ -93,11 +93,15 @@
     "mood": "cozy",
     "technique": "bhuna",
     "primaryIngredient": "mung-bean-sprout-sukju",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "mung bean sprouts",
     "descriptor": "Mellow Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

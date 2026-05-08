@@ -3,8 +3,7 @@
   "description": "A tangy and snappy Thai dish featuring chicken, noodles, and a hint of sweetness, perfect for a brunch mood, made with diabetic-friendly ingredients and a crunchy twist from rice krispies and candy",
   "cuisine": "Thai",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -73,7 +72,6 @@
     "brunch-ideas",
     "diabetic-friendly",
     "easy-meals",
-    "gluten-free",
     "one-pan",
     "thai-inspired"
   ],
@@ -100,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Mildly Sweet",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

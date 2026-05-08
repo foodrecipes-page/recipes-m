@@ -3,8 +3,7 @@
   "description": "A quick-fix Saudi-Arabian dish featuring panang curry paste and miso-marinate, this low-glycemic-friendly flatbread is perfect for a weeknight dinner. The combination of sour and flaky flavors will leave you wanting more.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Place the marinated chicken pieces in the center of the dough circle.",
     "Fold the dough over the chicken to form a flatbread shape, pressing the edges to seal.",
     "Brush the top of the flatbread with a little coconut oil and bake for 25 minutes.",
-    "Remove the flatbread from the oven and let it cool for a few minutes before serving."
+    "Remove the flatbread from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -69,7 +69,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-dishes",
-    "gluten-free",
     "low-glycemic",
     "one-pan",
     "saudi-arabian",
@@ -98,5 +97,10 @@
     "mainIngredient": "chicken",
     "descriptor": "mouthwatering flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

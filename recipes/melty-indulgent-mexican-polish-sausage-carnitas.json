@@ -3,7 +3,6 @@
   "description": "A rich and flavorful Mexican dish featuring Polish sausage, melted cheese, and crispy fried elements, served in a traditional kazan cauldron, inspired by the bold flavors of Chiapas, and made with ayurvedic rajasic friendly ingredients to promote energy and vitality.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "polish sausage",
     "descriptor": "Melty Indulgent",
     "dishForm": "Carnitas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

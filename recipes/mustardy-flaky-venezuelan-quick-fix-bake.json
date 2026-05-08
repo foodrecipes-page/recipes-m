@@ -72,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "gluten-free",
     "one-pan",
     "vegan-friendly",
     "weeknight"
@@ -100,5 +99,9 @@
     "mainIngredient": "quick-fix",
     "descriptor": "mustardy flaky",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

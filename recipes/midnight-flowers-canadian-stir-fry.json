@@ -59,7 +59,8 @@
     "cookTimeMin: 20",
     "totalTimeMin: 35",
     "servings: 4",
-    "difficulty: "
+    "difficulty: ",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "tags": [
     "keto-friendly",
@@ -95,5 +96,9 @@
   "cookTimeMin": 25,
   "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "medium"
+  "difficulty": "medium",
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

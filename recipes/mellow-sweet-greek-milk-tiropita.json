@@ -3,7 +3,6 @@
   "description": "A winey, pillowy, nostalgic Greek dish featuring sweetened condensed milk, bonito-shave, and ayurvedic-sattvic-friendly ingredients in a tiropita form, this dessert is a unique twist on traditional Greek cuisine. It is made with a flaky crust and a sweet, creamy filling.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
     "ayurvedic"
   ],
   "meal": "dessert",
@@ -92,5 +91,9 @@
     "mainIngredient": "milk",
     "descriptor": "Mellow Sweet",
     "dishForm": "Tiropita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

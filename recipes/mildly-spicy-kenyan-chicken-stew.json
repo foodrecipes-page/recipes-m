@@ -60,7 +60,8 @@
     "Add the chicken pieces and cook until browned on all sides, about 5 minutes.",
     "Add the oyster sauce, tomato paste, chicken broth, salt, and black pepper, and stir to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 25 minutes.",
-    "Serve the stew hot, garnished with chopped fresh cilantro, on a bamboo tray."
+    "Serve the stew hot, garnished with chopped fresh cilantro, on a bamboo tray.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mildly spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

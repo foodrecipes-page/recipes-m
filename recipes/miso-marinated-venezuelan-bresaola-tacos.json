@@ -3,7 +3,6 @@
   "description": "Tender and smoky Venezuelan bresaola tacos with a rich miso-marinate, served with a side of tangy slaw for a romantic dinner.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegetarian",
     "vegan-friendly",
     "ayurvedic-tamasic-friendly"
   ],
@@ -117,5 +116,9 @@
     "mainIngredient": "bresaola",
     "descriptor": "Miso-Marinated",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

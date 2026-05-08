@@ -3,8 +3,7 @@
   "description": "This indulgent Venezuelan dish features tender chicken in a mildly spicy green curry sauce, perfect for a weeknight dinner. The bitter notes of the curry paste are balanced by the richness of the coconut milk.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "spicy",
@@ -91,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mildly spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

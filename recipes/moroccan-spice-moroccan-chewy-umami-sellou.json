@@ -88,7 +88,6 @@
     "high-fiber",
     "moroccan",
     "umami",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -114,5 +113,9 @@
     "mainIngredient": "chewy umami",
     "descriptor": "Moroccan Spice",
     "dishForm": "Sellou"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

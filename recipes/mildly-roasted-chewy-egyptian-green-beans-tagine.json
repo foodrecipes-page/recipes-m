@@ -3,7 +3,6 @@
   "description": "A delicious and healthy Egyptian-inspired dish featuring roasted green beans, ideal for a date night.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
     "low-carb",
     "high-protein"
   ],
@@ -72,7 +71,8 @@
     "Once the green beans are done roasting, add them to the saucepan with the dates and their sauce.",
     "Toss the green beans with the dates and their sauce until they are well coated.",
     "Season with salt and black pepper to taste.",
-    "Garnish with chopped parsley before serving."
+    "Garnish with chopped parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -109,5 +109,10 @@
     "mainIngredient": "green beans",
     "descriptor": "Mildly roasted chewy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

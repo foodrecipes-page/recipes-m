@@ -3,8 +3,7 @@
   "description": "A romantic Algerian dish featuring confit tomatoes and mayonnaise, this malty and juicy tagine is perfect for a special occasion. It is also raw-friendly and can be served as a snack or light meal.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "north-african",
     "romantic",
     "special-occasion",
@@ -94,5 +92,9 @@
     "mainIngredient": "tomato",
     "descriptor": "malty juicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A sour and juicy monsoon-inspired dish featuring raw frozen prawns with a savory tadka base, suitable for egg-free diets.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "pescatarian"
   ],
   "meal": "snack",
@@ -83,5 +82,9 @@
     "mainIngredient": "Prawn",
     "descriptor": "Monsoon",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

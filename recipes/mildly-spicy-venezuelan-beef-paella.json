@@ -65,7 +65,8 @@
     "Add the rice and cook, stirring constantly, for 2 minutes.",
     "Add the apple juice, red pepper flakes, salt, and black pepper. Stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
-    "Remove the paella from the heat and let rest, covered, for 5 minutes before serving."
+    "Remove the paella from the heat and let rest, covered, for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "beef",
     "descriptor": "Mildly Spicy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -65,7 +65,8 @@
     "Add the cooked noodles to the skillet and stir to combine with the sauce.",
     "Transfer the noodles to a serving platter and top with the cooked shrimp and pork sausage.",
     "Garnish with chopped scallions and fresh cilantro.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -102,5 +103,9 @@
     "mainIngredient": "goose fat",
     "descriptor": "moist pillowy",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

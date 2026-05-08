@@ -5,8 +5,7 @@
   "diet": [
     "dairy",
     "eggs",
-    "gluten",
-    "vegetarian"
+    "gluten"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -125,5 +124,9 @@
     "mainIngredient": "Manchego",
     "descriptor": "Melted",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

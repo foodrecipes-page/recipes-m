@@ -91,7 +91,8 @@
     "Season with salt and black pepper to taste.",
     "Split the bao in half and toast until lightly browned.",
     "Assemble the dish by placing the fried chicken drumsticks on the toasted bao and spooning the molten gravy over the top.",
-    "Garnish with sesame seeds and serve immediately."
+    "Garnish with sesame seeds and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -129,5 +130,9 @@
     "mainIngredient": "chicken drumsticks",
     "descriptor": "molten",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

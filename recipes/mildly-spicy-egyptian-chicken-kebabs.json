@@ -3,8 +3,7 @@
   "description": "Buttery and bouncy, these crowd-pleasing kebabs feature a miso marinade and salsa, perfect for a raw-friendly Egyptian dish.",
   "cuisine": "Egyptian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mildly spicy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

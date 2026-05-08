@@ -88,11 +88,15 @@
     "mood": "midnight-craving",
     "technique": "nimono-simmer",
     "primaryIngredient": "mung-bean-sprout-sukju",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "mung bean sprouts",
     "descriptor": "mighty juicy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and comforting Turkish dish featuring charred fish and manti, perfect for a sick day. It is low in fat and made with wholesome ingredients.",
   "cuisine": "Turkish",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "tags": [
     "comfort-food",
     "fish-dishes",
-    "gluten-free",
     "homemade-pasta",
     "low-fat",
     "turkish-cuisine"
@@ -101,5 +99,9 @@
     "mainIngredient": "fish",
     "descriptor": "mildly charred",
     "dishForm": "Manti"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

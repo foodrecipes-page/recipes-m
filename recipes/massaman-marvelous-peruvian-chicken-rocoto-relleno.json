@@ -54,7 +54,8 @@
     "Cover the baking dish with aluminum foil and bake for 25 minutes.",
     "Remove the foil and continue baking for an additional 10 minutes, or until the peppers are tender.",
     "While the peppers are baking, caramelize the onion in a pan with a little olive oil until golden brown.",
-    "Serve the rocoto relleno with the caramelized onion on top."
+    "Serve the rocoto relleno with the caramelized onion on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Massaman Marvelous",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

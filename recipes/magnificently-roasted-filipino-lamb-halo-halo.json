@@ -3,7 +3,6 @@
   "description": "A salty and creamy Filipino dish featuring lamb shanks, perfect for a weeknight dinner, this recipe is a twist on the traditional halo halo dessert, instead using roasted lamb and vegetables in a savory broth, served over a bed of rice and topped with a creamy sauce and various garnishes.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -81,7 +80,6 @@
   "tags": [
     "comfort-food",
     "filipino-food",
-    "gluten-free",
     "lamb-recipes",
     "nut-free",
     "one-pot-meals",
@@ -110,5 +108,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Magnificently Roasted",
     "dishForm": "Halo Halo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -62,7 +62,9 @@
     "Serve the tagine hot, garnished with fresh herbs if desired.",
     "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
     "Reheat the tagine gently if serving later.",
-    "Serve with crusty bread or over rice or couscous."
+    "Serve with crusty bread or over rice or couscous.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +101,10 @@
     "mainIngredient": "bananas",
     "descriptor": "mellow sweet",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

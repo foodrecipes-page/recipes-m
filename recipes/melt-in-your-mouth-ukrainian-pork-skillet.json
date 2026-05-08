@@ -56,7 +56,9 @@
     "Cover the skillet with a lid and transfer it to the preheated oven.",
     "Roast the pork in the oven for 2 1/2 hours, or until it is tender and falls apart easily.",
     "Remove the skillet from the oven and let it cool for a few minutes.",
-    "Serve the pork hot, garnished with fresh herbs if desired."
+    "Serve the pork hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -94,5 +96,10 @@
     "mainIngredient": "pork",
     "descriptor": "Melt in your mouth",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

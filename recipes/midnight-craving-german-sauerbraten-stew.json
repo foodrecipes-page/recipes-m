@@ -2,10 +2,7 @@
   "title": "midnight-craving german sauerbraten stew",
   "description": "tangy, creamy, german dish made with chopped onion, red wine, and a dash of spices. serves well as a midnight craving.",
   "cuisine": "german",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -124,5 +121,10 @@
     "mainIngredient": "Sauerbraten",
     "descriptor": "midnight-craving",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -60,7 +60,8 @@
     "Place the kebabs on the grill and cook for 10-12 minutes, turning occasionally",
     "Transfer the kebabs to a bamboo steamer lined with parchment paper",
     "Cover the steamer with a papillote and steam for 5 minutes",
-    "Serve the kebabs hot, garnished with crushed amaretti cookies"
+    "Serve the kebabs hot, garnished with crushed amaretti cookies",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mouthwatering tender",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

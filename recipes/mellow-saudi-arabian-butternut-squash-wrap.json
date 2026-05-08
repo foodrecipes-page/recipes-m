@@ -3,8 +3,7 @@
   "description": "A funky twist on traditional Saudi Arabian dishes, this wrap features butternut squash and Mediterranean-friendly flavors in a ssam-wrap, evoking a sense of nostalgia, the glassy-jelly texture of the squash adds a unique element to the dish.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,7 +60,8 @@
     "Sprinkle sumac over the top of each wrap.",
     "Season with salt and black pepper to taste.",
     "Drizzle the remaining 1 tablespoon of olive oil over the wraps.",
-    "Serve the wraps immediately and enjoy."
+    "Serve the wraps immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -70,7 +70,6 @@
   "difficulty": "easy",
   "tags": [
     "butternut-squash",
-    "gluten-free",
     "lunch",
     "mediterranean",
     "saudi-arabian",
@@ -100,5 +99,10 @@
     "mainIngredient": "butternut squash",
     "descriptor": "Mediterranean style",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

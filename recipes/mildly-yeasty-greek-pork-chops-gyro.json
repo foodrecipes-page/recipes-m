@@ -3,7 +3,6 @@
   "description": "A kid-friendly Greek dish featuring pork chops in a yeasty and velvety gyro, made with ayurvedic-sattvic-friendly ingredients.",
   "cuisine": "Greek",
   "diet": [
-    "gluten-free",
     "kid-friendly"
   ],
   "meal": "dinner",
@@ -70,7 +69,8 @@
     "Preheat a grill or grill pan to medium-high heat and cook the pork chops for 5-6 minutes per side.",
     "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the gyro by slicing the cooked pork chops and placing them in the pita bread with tomato, red onion, and a dollop of the yeast sauce.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -78,7 +78,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek-food",
     "kid-friendly",
     "velvety",
@@ -108,5 +107,10 @@
     "mainIngredient": "pork chops",
     "descriptor": "Mildly Yeasty",
     "dishForm": "Gyro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

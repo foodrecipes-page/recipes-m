@@ -2,10 +2,7 @@
   "title": "Monsoon Juicy Canadian Beef Gravy Over Noodles",
   "description": "A hearty, resinous, and juicy dish featuring beef gravy, yuzu-cure, and satvik-friendly ingredients, perfect for a Canadian-inspired monsoon meal. This recipe serves 4-6 people and can be prepared in under 1 hour.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,7 +82,8 @@
     "Cook the noodles according to the package instructions and set aside.",
     "In a small bowl, mix together the remaining 1 tablespoon of butter and the chopped scallions.",
     "To serve, place the cooked noodles on a plate, then spoon the beef gravy over the top. Garnish with the scallion butter.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -120,5 +118,11 @@
     "mainIngredient": "beef",
     "descriptor": "monsoon juicy",
     "dishForm": "Gravy over noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

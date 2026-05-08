@@ -3,8 +3,7 @@
   "description": "A classic French dish with a Basque twist, featuring tender chicken in a rich, peppery sauce, served with caramelized onions and mushrooms, all made with 00-flour for a low-carb friendly option.",
   "cuisine": "French",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "comfort-food",
     "french-cuisine",
-    "gluten-free",
     "low-carb",
     "one-pot",
     "weeknight"
@@ -97,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Mellow Peppery",
     "dishForm": "Coq Au Vin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

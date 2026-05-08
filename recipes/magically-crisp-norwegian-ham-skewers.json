@@ -3,8 +3,7 @@
   "description": "A jammy and crisp Norwegian dish featuring ham, perfect for a date night, with the added benefit of being high-protein-friendly thanks to the inclusion of kombu-cold-extract.",
   "cuisine": "Norwegian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "tags": [
     "date-night",
     "easy-dinner",
-    "gluten-free",
     "high-protein",
     "norwegian-cuisine",
     "skewers"
@@ -89,5 +87,9 @@
     "mainIngredient": "ham",
     "descriptor": "Magically Crisp",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

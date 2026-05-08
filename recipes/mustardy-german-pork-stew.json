@@ -58,7 +58,8 @@
     "Add the chopped carrots and potatoes, and stir to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Knead the dough of your favorite Whole30-friendly bread to serve on the side.",
-    "Serve the stew hot, garnished with chopped fresh parsley."
+    "Serve the stew hot, garnished with chopped fresh parsley.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Mustardy Crisp",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

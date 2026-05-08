@@ -2,10 +2,7 @@
   "title": "Monsoon Crisp Irish Chicken Stew",
   "description": "A hearty, comforting stew with a hint of ginger and a crunch of fermented Korean chili paste.",
   "cuisine": "irish",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "comforting",
-    "gluten-free",
     "hearty",
     "high-fiber",
     "one-pan"
@@ -113,5 +109,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Monsoon Crisp",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -93,11 +93,15 @@
     "mood": "weeknight",
     "technique": "wok-hei",
     "primaryIngredient": "haddock",
-    "diet": "vegetarian",
+    "diet": "pescatarian",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "haddock",
     "descriptor": "Magically Garlicky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

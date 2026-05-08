@@ -3,7 +3,6 @@
   "description": "Resinous, pillowy, ayurvedic-tamasic-friendly Ethiopian beef dish, kitfo-form, hot-stone-plate, matcha-glazed and lacquer-wiped, meal prep ready.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "gluten-free",
     "low-carb"
   ],
@@ -126,5 +125,9 @@
     "mainIngredient": "beef",
     "descriptor": "matcha-glazed and lacquer-wiped",
     "dishForm": "Kitfo-Style Tibs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -20,7 +20,8 @@
     "Heat a large Dutch oven over medium-high heat.",
     "Add 1 tablespoon of olive oil and brown the beef on all sides, about 5 minutes.",
     "Transfer the browned beef to a plate and set aside.",
-    "In the same pot, add the pickle brine mixture and bring to a boil, scraping up any browned bits from the bottom of the pot."
+    "In the same pot, add the pickle brine mixture and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -57,5 +58,9 @@
     "mainIngredient": "beef",
     "descriptor": "Mixed",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -4,8 +4,7 @@
   "cuisine": "Tunisian",
   "diet": [
     "plant-based",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "pears",
     "descriptor": "Mouthwatering wood fired",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

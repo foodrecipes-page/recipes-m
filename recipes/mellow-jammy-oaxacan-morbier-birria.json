@@ -67,7 +67,8 @@
     "Stir in the freshly squeezed lime juice and continue to cook for an additional 2 minutes.",
     "Transfer the mixture to a clay pot and cook over low heat for 10-15 minutes, stirring occasionally.",
     "Simmer the birria for 10-15 minutes, or until the flavors have melded together and the cheese is melted and creamy.",
-    "Serve the birria hot, garnished with fresh cilantro and a dollop of sour cream, if desired."
+    "Serve the birria hot, garnished with fresh cilantro and a dollop of sour cream, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -106,5 +107,9 @@
     "mainIngredient": "morbier",
     "descriptor": "mellow jammy",
     "dishForm": "Birria"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

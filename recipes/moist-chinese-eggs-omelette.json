@@ -3,8 +3,7 @@
   "description": "a creamy chinese dish featuring currants, spherified for added texture. perfect for a weekend brunch.",
   "cuisine": "chinese",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -68,7 +67,6 @@
     "breakfast",
     "chinese-food",
     "fodmap-friendly",
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],
@@ -95,5 +93,9 @@
     "mainIngredient": "Eggs",
     "descriptor": "moist",
     "dishForm": "Omelette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

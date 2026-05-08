@@ -97,8 +97,7 @@
     "eggplant",
     "malty",
     "plant-based",
-    "romantic",
-    "vegan"
+    "romantic"
   ],
   "nutrition": {
     "calories": 1675,
@@ -123,5 +122,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Malty",
     "dishForm": "Fish And Chips"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

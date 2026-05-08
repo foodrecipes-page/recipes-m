@@ -2,10 +2,7 @@
   "title": "Mellow Egyptian Chickpea Tagine",
   "description": "A herbal and creamy Egyptian dish featuring chickpea flour, bonito shave, and ayurvedic sattvic friendly ingredients, perfect for a lazy Sunday",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,11 +72,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "lazy-sunday",
     "middle-eastern",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +99,10 @@
     "mainIngredient": "chickpeas",
     "descriptor": "mellow creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

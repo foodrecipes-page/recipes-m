@@ -56,7 +56,8 @@
     "Assemble the sandwiches by placing the cooked pork onto the bread, then topping with grilled onions, pickled carrots, and cilantro.",
     "Serve immediately and enjoy.",
     "Emulsify the mayonnaise and malt syrup mixture by whisking constantly.",
-    "Adjust the amount of fish sauce and lime juice to taste."
+    "Adjust the amount of fish sauce and lime juice to taste.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "malty midnight",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

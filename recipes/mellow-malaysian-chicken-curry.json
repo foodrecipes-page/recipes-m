@@ -3,7 +3,6 @@
   "description": "A sour and tender Malaysian dish featuring dry sherry, fry, and dairy-free friendly ingredients, this curry is perfect for a cozy evening meal.",
   "cuisine": "Malaysian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
   "difficulty": "medium",
   "tags": [
     "cozy-dinners",
-    "dairy-free",
     "gluten-free",
     "malaysian-cuisine",
     "one-pot",
@@ -99,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "mellow tender",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

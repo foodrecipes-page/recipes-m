@@ -3,7 +3,6 @@
   "description": "A halal-friendly Venezuelan dish featuring sea bass fillets, this recipe combines umami flavors with a bouncy texture, perfect for meal prep. The air-fry method ensures a moist and healthy final product.",
   "cuisine": "Venezuelan",
   "diet": [
-    "halal",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "Moist Bouncy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

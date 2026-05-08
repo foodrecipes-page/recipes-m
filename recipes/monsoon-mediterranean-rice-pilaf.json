@@ -111,8 +111,7 @@
     "healthy",
     "mediterranean",
     "monsoon",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 450,
@@ -137,5 +136,9 @@
     "mainIngredient": "rice",
     "descriptor": "monsoon",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

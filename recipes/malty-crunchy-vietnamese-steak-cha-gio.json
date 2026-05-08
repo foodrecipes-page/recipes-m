@@ -3,7 +3,6 @@
   "description": "A rich and savory Vietnamese dish featuring crispy fried steak, served with a side of malty sauce and crunchy toasted rice. Perfect for hangover cures or weeknight dinners.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "koen-sedimentary",
     "paleo-friendly",
     "low-sodium"
@@ -111,11 +110,16 @@
     "mood": "hangover-cure",
     "technique": "emulsify",
     "primaryIngredient": "sirloin steak",
-    "diet": "kosher",
+    "diet": "koen-sedimentary",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "steak",
     "descriptor": "Malty Crunchy",
     "dishForm": "Cha-Gio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

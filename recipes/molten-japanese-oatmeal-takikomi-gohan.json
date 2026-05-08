@@ -80,8 +80,7 @@
     "easy-to-make",
     "japanese",
     "meal-in-one",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 450,
@@ -106,5 +105,9 @@
     "mainIngredient": "oatmeal",
     "descriptor": "Molten",
     "dishForm": "Takikomi-Gohan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

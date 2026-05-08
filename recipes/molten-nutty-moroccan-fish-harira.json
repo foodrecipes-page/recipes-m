@@ -2,9 +2,7 @@
   "title": "Molten Nutty Moroccan Fish Harira",
   "description": "A pescatarian-friendly Moroccan stew featuring malt vinegar and nutty flavors, served en-croute, perfect for a monsoon evening. This dish is a twist on the traditional Harira, with a molten center and a blend of spices.",
   "cuisine": "Moroccan",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,7 +79,6 @@
     "monsoon",
     "moroccan",
     "nutty",
-    "pescatarian",
     "stew"
   ],
   "nutrition": {
@@ -107,5 +104,9 @@
     "mainIngredient": "fish",
     "descriptor": "molten nutty",
     "dishForm": "Harira"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fresh and molten Japanese Kyushu dish featuring dried shrimp, braise, and Buddhist temple friendly ingredients, this ramen is a unique and savory experience. It combines the richness of a monsoon with the simplicity of a traditional Japanese meal.",
   "cuisine": "Japanese",
   "diet": [
-    "pescatarian",
     "buddhist"
   ],
   "meal": "dinner",
@@ -63,8 +62,7 @@
     "japanese-kyushu",
     "monsoon-inspired",
     "noodle-soup",
-    "one-pot",
-    "pescatarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -89,5 +87,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Molten Monsoon",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

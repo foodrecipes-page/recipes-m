@@ -2,10 +2,7 @@
   "title": "Mellow Jamaican Tofu Curry",
   "description": "A creamy, jammy Jamaican-inspired curry featuring tofu, coconut milk, nutmeg, and allspice for a comforting, dairy‑free dinner.",
   "cuisine": "Jamaican",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "curry",
-    "dairy-free",
     "jamaican-flavor",
     "plant-based",
     "single-skillet",
@@ -109,5 +105,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Mellow",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

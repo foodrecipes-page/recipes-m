@@ -2,10 +2,7 @@
   "title": "Mustard Date Night Glutino Steamer",
   "description": "A spicy and gooey gluten-free dish perfect for date nights, featuring a blend of mustard flavors with a touch of sweetness from dates.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,5 +83,10 @@
     "primaryIngredient": "mustard",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

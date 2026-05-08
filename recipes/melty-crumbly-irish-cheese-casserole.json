@@ -62,7 +62,8 @@
     "Arrange the Kerrygold Irish cheese slices on top of the chicken mixture.",
     "Top the cheese with the remaining cracker mixture.",
     "Dot the top of the casserole with butter.",
-    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and the crackers are golden brown."
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and the crackers are golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Melty Crumbly",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

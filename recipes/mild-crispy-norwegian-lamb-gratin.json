@@ -3,7 +3,6 @@
   "description": "A savory, crispy, one-pot Norwegian dish featuring liquid cheese, beurre-monte, and anti-inflammatory-friendly ingredients.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -85,7 +84,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-weeknight",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "mild-spicy",
@@ -114,5 +112,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Mild Crispy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

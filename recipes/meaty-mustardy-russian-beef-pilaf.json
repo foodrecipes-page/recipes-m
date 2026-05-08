@@ -57,7 +57,8 @@
     "Add the vegetable broth to the skillet and bring to a boil",
     "Reduce the heat to low and simmer until the liquid is absorbed and the rice is tender",
     "Stir in the cheddar cheese until melted and well combined",
-    "Serve the pilaf hot, topped with the crispy lardons"
+    "Serve the pilaf hot, topped with the crispy lardons",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -88,11 +89,16 @@
     "mood": "brunch-mood",
     "technique": "lardons-render",
     "primaryIngredient": "lean minced beef",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "beef",
     "descriptor": "Meaty Mustardy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp",
+    "aligned-axes-diet"
+  ]
 }

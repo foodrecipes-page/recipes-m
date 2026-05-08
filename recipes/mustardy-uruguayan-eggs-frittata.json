@@ -5,10 +5,8 @@
   "diet": [
     "low-carb",
     "gluten-free",
-    "dairy-free",
     "pescatarian",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -125,5 +123,10 @@
     "mainIngredient": "eggs",
     "descriptor": "mustardy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A traditional Ukrainian bread featuring a malty, chewy texture and a hint of cayenne pepper, perfect for serving with soups or stews.",
   "cuisine": "Ukrainian",
   "diet": [
-    "kosher",
-    "gluten-free"
+    "kosher"
   ],
   "meal": "snack",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "bread",
-    "gluten-free",
     "high-fiber",
     "kosher",
     "ukrainian"
@@ -100,5 +98,9 @@
     "mainIngredient": "dough",
     "descriptor": "malty chewy",
     "dishForm": "Bread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

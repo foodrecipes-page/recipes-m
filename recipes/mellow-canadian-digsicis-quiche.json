@@ -3,8 +3,7 @@
   "description": "A savory quiche featuring fermented ingredients, digestive biscuits, and a silky texture, perfect for a leisurely brunch.",
   "cuisine": "canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -88,11 +87,16 @@
     "mood": "brunch-mood",
     "technique": "air-fry",
     "primaryIngredient": "digestive biscuits",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "digsicis",
     "descriptor": "Mellow",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

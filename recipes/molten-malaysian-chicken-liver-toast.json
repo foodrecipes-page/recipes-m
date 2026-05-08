@@ -2,9 +2,7 @@
   "title": "Molten Malaysian Chicken Liver Toast",
   "description": "A comforting, slightly bitter toast topped with sautéed chicken liver and a molten sweet‑savory sauce, served in a traditional copper mug.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -74,7 +72,8 @@
     "Toast the bread slices in a separate pan until golden.",
     "Place each toasted slice on a clean plate, then spoon the molten sauce over the top so it pools around the edges.",
     "Transfer the sauced toast into a preheated copper mug, letting the sauce flow under the bread to create a molten effect.",
-    "Serve immediately while the sauce is still warm, pairing with a light salad or cucumber slices if desired."
+    "Serve immediately while the sauce is still warm, pairing with a light salad or cucumber slices if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -108,5 +107,10 @@
     "mainIngredient": "chicken liver",
     "descriptor": "Molten",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

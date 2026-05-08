@@ -3,8 +3,7 @@
   "description": "A cultured and adventurous Kenyan dish featuring almond flour, served in a stone bowl, inspired by Buddhist temple cuisine. This recipe combines the warmth of Kenyan spices with the crunch of almonds.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "almond-flour",
     "coconut-milk",
-    "gluten-free",
     "kenyan-cuisine",
     "stone-bowl",
     "vegetarian"
@@ -102,5 +100,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Mildly Spiced",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

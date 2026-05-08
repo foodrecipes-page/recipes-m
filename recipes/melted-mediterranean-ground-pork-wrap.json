@@ -77,7 +77,8 @@
     "While the filling is still hot, spoon generous portions onto soaked corn husks, forming small bowls.",
     "Fold the sides of each husk over the filling and roll tightly to enclose the contents.",
     "Place the wrapped husks in a steamer basket and steam for 6 minutes to heat through and soften the husk.",
-    "Serve immediately, optionally drizzled with a squeeze of lemon or a sprinkle of fresh herbs, and enjoy the melt and crunch."
+    "Serve immediately, optionally drizzled with a squeeze of lemon or a sprinkle of fresh herbs, and enjoy the melt and crunch.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -110,11 +111,16 @@
     "mood": "crowd-pleaser",
     "technique": "candy",
     "primaryIngredient": "ground pork",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "Ground Pork",
     "descriptor": "Melted",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

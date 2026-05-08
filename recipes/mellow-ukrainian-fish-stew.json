@@ -77,7 +77,8 @@
     "Add cod fillets, reduce heat to low and let simmer for 15 minutes until fish flakes easily.",
     "Fold in chopped dill and lemon zest, adjust seasoning with additional salt if needed.",
     "Serve warm, garnished with parsley if desired.",
-    "Enjoy the soothing flavors that help ease a hangover."
+    "Enjoy the soothing flavors that help ease a hangover.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -115,5 +116,9 @@
     "mainIngredient": "fish",
     "descriptor": "Mellow",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "This sweet and crispy one-pot Jamaican dish features sherry vinegar and render-fat, making it a nut-free friendly option for a delicious dinner.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -66,7 +65,6 @@
   "tags": [
     "chicken-recipes",
     "dinner-ideas",
-    "gluten-free",
     "jamaican-cuisine",
     "nut-free",
     "one-pot"
@@ -94,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Magically Crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

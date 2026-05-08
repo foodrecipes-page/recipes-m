@@ -89,11 +89,15 @@
     "mood": "romantic",
     "technique": "bake",
     "primaryIngredient": "italian seasoning",
-    "diet": "low-sodium",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "Eggplant",
     "descriptor": "Mellow",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

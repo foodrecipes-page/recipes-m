@@ -2,9 +2,7 @@
   "title": "Mellow Creamy Chinese Suet Dumplings",
   "description": "A comforting and earthy Xinjiang dish featuring suet, perfect for a lazy Sunday, with a creamy sauce and no onions or garlic, making it friendly to all palates. This dish is a traditional Chinese recipe with a twist to accommodate sensitive tastes.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -79,8 +77,7 @@
     "comfort-food",
     "lazy-sunday",
     "one-pot",
-    "steamed",
-    "vegetarian"
+    "steamed"
   ],
   "nutrition": {
     "calories": 420,
@@ -105,5 +102,9 @@
     "mainIngredient": "suet",
     "descriptor": "mellow creamy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

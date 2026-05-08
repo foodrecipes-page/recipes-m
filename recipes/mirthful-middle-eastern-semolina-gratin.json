@@ -2,9 +2,7 @@
   "title": "Mirthful Middle Eastern Semolina Gratin",
   "description": "A vegan, bouncy-qq semolina gratin with a crispy robata‑grill crust, sweet maple syrup, and fragrant spices, perfect for a whimsical brunch dessert.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -76,8 +74,7 @@
     "dessert",
     "easy",
     "knafeh-style",
-    "one-pot",
-    "vegan"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 460,
@@ -102,5 +99,9 @@
     "mainIngredient": "Semolina",
     "descriptor": "Mirthful",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

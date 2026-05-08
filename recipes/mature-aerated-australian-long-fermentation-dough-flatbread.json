@@ -5,7 +5,6 @@
   "diet": [
     "ayurvedic",
     "sattvic",
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -75,7 +74,6 @@
   "tags": [
     "australian",
     "ayurvedic",
-    "gluten-free",
     "one-pan",
     "sattvic",
     "vegetarian",
@@ -104,5 +102,9 @@
     "mainIngredient": "long-fermentation-dough",
     "descriptor": "mature aerated",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

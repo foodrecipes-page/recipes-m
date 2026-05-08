@@ -2,9 +2,7 @@
   "title": "Mouthwatering Yeasty Irish Flour Scones",
   "description": "These scones are a classic Irish dish featuring strong white flour and render-fat, making them a crowd-pleaser, and are also ayurvedic-sattvic-friendly.",
   "cuisine": "Irish",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "flour",
     "descriptor": "mouthwatering yeasty",
     "dishForm": "Scones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

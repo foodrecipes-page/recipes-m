@@ -3,7 +3,6 @@
   "description": "Funky, tender, kid-friendly Filipino dish featuring French lentils, brine-wet, and FODMAP-friendly. This vibrant bowl is a twist on traditional Filipino flavors, with a focus on gentle spices and tender lentils.",
   "cuisine": "filipino",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "lunch",
@@ -88,10 +87,8 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "kid-friendly",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -117,5 +114,10 @@
     "mainIngredient": "French lentils",
     "descriptor": "Mildly tender",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

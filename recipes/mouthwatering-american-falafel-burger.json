@@ -94,11 +94,15 @@
     "mood": "show-off",
     "technique": "candy",
     "primaryIngredient": "falafel",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "Falafel",
     "descriptor": "Mouthwatering",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

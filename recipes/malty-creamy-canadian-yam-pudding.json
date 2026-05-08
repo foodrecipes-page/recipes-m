@@ -3,8 +3,7 @@
   "description": "A comforting, malty, and creamy dessert featuring white yam, inspired by traditional Canadian cuisine.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -69,8 +68,7 @@
     "comfort-food",
     "creamy",
     "dessert",
-    "malty",
-    "vegan"
+    "malty"
   ],
   "nutrition": {
     "calories": 250,
@@ -95,5 +93,9 @@
     "mainIngredient": "yam",
     "descriptor": "malty creamy",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A bitter and chewy American dish featuring sumac, agemono-deep-fry, and high protein, perfect for a date night, cooked in a traditional tajine clay vessel.",
   "cuisine": "American",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Carefully add chicken to the hot oil and fry until golden brown and crispy, about 5-7 minutes.",
     "Using a slotted spoon, remove chicken from oil and place on a paper towel-lined plate to drain excess oil.",
     "Add fried chicken to a preheated tajine clay vessel and cook over low heat for 10 minutes, covered.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -97,5 +97,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Magnificently Crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

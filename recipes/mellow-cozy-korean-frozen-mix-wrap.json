@@ -70,7 +70,8 @@
     "In a large bowl, combine the cooked seafood mix, nuka-pickled carrots, nuka-pickled daikon, toasted sesame seeds, and scallions.",
     "Add the toasted garlic and sesame oil mixture to the bowl and toss to combine.",
     "Warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
-    "Assemble the wraps by spooning the seafood mixture onto the center of each wrap and serving immediately."
+    "Assemble the wraps by spooning the seafood mixture onto the center of each wrap and serving immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -109,5 +110,9 @@
     "mainIngredient": "seafood mix",
     "descriptor": "mellow gooey",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A nutty and dense Irish-inspired dish featuring egg-free-friendly cookies mixed with nuts for a unique snack or appetizer.",
   "cuisine": "Irish",
   "diet": [
-    "egg-free",
-    "dairy-free"
+    "egg-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -83,5 +82,9 @@
     "mainIngredient": "Nut Cookies",
     "descriptor": "Monsoon",
     "dishForm": "Dumpling"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A unique twist on the Italian classic, featuring almond paste and namul-blanch-season for a tender and malty flavor.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -79,7 +78,6 @@
     "italian",
     "malty",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +103,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Malty",
     "dishForm": "Amatriciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

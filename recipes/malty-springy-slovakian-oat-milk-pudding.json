@@ -2,11 +2,7 @@
   "title": "Malty Springy Slovakian Oat milk Pudding",
   "description": "A show-off dessert originating from Slovakia, highlighting the use of oat milk and a springy texture, with a deep malty flavor.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan",
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -105,5 +101,11 @@
     "mainIngredient": "Oat milk",
     "descriptor": "Malty Springy",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }
