@@ -1,0 +1,98 @@
+{
+  "title": "Malty Molten Syrian Almonds Tagine",
+  "description": "A rich and indulgent Syrian dessert featuring flaked almonds, namul, and a hint of sweetness, perfect for special occasions.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "sugar-free-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "namul",
+      "amount": "2 tablespoons",
+      "notes": "blanched and toasted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender or food processor, combine almond milk, dates, namul, and honey.",
+    "Blend until smooth and creamy, pausing to scrape down the sides as needed.",
+    "Transfer the mixture to a saucepan and cook over medium heat, stirring constantly, until the mixture thickens and forms a smooth paste.",
+    "Remove from heat and stir in butter, cinnamon, cardamom, and salt until melted and well combined.",
+    "Pour the mixture into individual ramekins or small baking dishes.",
+    "Sprinkle a layer of flaked almonds on top of each ramekin.",
+    "Bake for 15-20 minutes, or until the edges are golden brown and the centers are still slightly jiggly.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "sweet",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "malty-molten-syrian-almonds-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-molten-syrian-almonds-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:43:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "flaked almonds",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "almonds",
+    "descriptor": "malty molten",
+    "dishForm": "Tagine"
+  }
+}

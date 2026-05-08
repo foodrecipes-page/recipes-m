@@ -1,0 +1,93 @@
+{
+  "title": "Magical Peruvian Beef Brochette",
+  "description": "A traditional Peruvian dish featuring marinated beef, served in a pandan leaf wrap, perfect for a hangover cure. The combination of red wine vinegar and broiling creates a briny and springy texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine vinegar, olive oil, garlic, and ginger to make the marinade.",
+    "Add the beef cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the beef from the marinade and thread onto skewers, leaving a small space between each piece.",
+    "Season with salt and black pepper.",
+    "Wrap each skewer with a pandan leaf, securing with a toothpick if needed.",
+    "Broil the skewers for 8-10 minutes, flipping halfway through.",
+    "Serve immediately, garnished with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "broiled-meats",
+    "hangover-cure",
+    "low-carb",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "magical-peruvian-beef-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-peruvian-beef-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Magical Medicinal",
+    "dishForm": "Brochette"
+  }
+}

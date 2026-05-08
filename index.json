@@ -224,6 +224,20 @@
     "shard": "m"
   },
   {
+    "slug": "magical-peruvian-beef-brochette",
+    "title": "Magical Peruvian Beef Brochette",
+    "tags": [
+      "beef-recipes",
+      "broiled-meats",
+      "hangover-cure",
+      "low-carb",
+      "peruvian-cuisine"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
     "slug": "magical-peruvian-dulce-de-leche-suspiro-limeno",
     "title": "Magical Peruvian Dulce De Leche Suspiro Limeno",
     "tags": [
@@ -1219,6 +1233,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-molten-syrian-almonds-tagine",
+    "title": "Malty Molten Syrian Almonds Tagine",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "sweet",
+      "vegan"
+    ],
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
