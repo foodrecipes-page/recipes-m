@@ -1,0 +1,100 @@
+{
+  "title": "Malty Flaky Italian Honey Panzanella",
+  "description": "A keto-friendly Italian dish featuring honey and malty flavors, made with flaky ingredients and stir-fry techniques. This energizing panzanella is perfect for a quick lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons",
+      "notes": "adds malty flavor"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "provides flaky texture"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cut the phyllo dough into small squares and bake until golden brown.",
+    "In a large skillet, stir-fry the cherry tomatoes and basil in olive oil until tender.",
+    "In a large bowl, combine the baked phyllo dough, stir-fried tomatoes, and sliced mozzarella cheese.",
+    "Drizzle the honey over the top of the panzanella and sprinkle with malted milk powder.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional basil if desired.",
+    "Store any leftovers in an airtight container in the refrigerator."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "lunch-ideas",
+    "one-pan",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "malty-flaky-italian-honey-panzanella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-flaky-italian-honey-panzanella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "honey",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "honey",
+    "descriptor": "Malty Flaky",
+    "dishForm": "Panzanella"
+  }
+}
