@@ -1,0 +1,96 @@
+{
+  "title": "Melty Cheesy Japanese Pork Gyoza",
+  "description": "A Japanese Kansai dish featuring roasted pepper and rest meat, this recipe is a crowd pleaser with its nutty and cheesy flavor, and is also nut free friendly. It is a perfect dish for those who love Japanese cuisine and cheesy food.",
+  "cuisine": "Japanese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Gyoza Wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, roasted red pepper, mozzarella cheese, soy sauce, sesame oil, green onion, and garlic, and mix well until everything is fully incorporated.",
+    "Lay a gyoza wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the gyoza.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Heat a large skillet with about an inch of water over medium high heat and bring to a boil.",
+    "Reduce the heat to medium low and add the gyoza to the skillet, being careful not to overcrowd it.",
+    "Steam the gyoza for about 5 minutes, then remove the lid and continue to cook until the bottom of the gyoza is golden brown.",
+    "Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "japanese-cuisine",
+    "nut-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "melty-cheesy-japanese-pork-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-cheesy-japanese-pork-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:45:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "rest-meat",
+    "primaryIngredient": "roasted pepper",
+    "diet": "nut-free",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Melty cheesy",
+    "dishForm": "Gyoza"
+  }
+}
