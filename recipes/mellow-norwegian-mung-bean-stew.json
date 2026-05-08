@@ -1,0 +1,103 @@
+{
+  "title": "Mellow Norwegian Mung Bean Stew",
+  "description": "A fermented and creamy Norwegian dish featuring mung bean sprouts, bhuna, and served in a traditional Korean brass bowl, this stew is a hearty and comforting meal for any time of day. It is nut-free-friendly and perfect for a cozy evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "also known as sukju"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the bhuna spice mix and cook for 1 minute, stirring constantly.",
+    "Add the chopped carrot and potato, and cook for 5 minutes, stirring occasionally.",
+    "Add the mung bean sprouts, vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the vegetables are tender.",
+    "Stir in the sour cream and continue to simmer for an additional 5 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired, in a traditional Korean brass bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "norwegian-cuisine",
+    "one-pot-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mellow-norwegian-mung-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-norwegian-mung-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:33:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Mellow Creamy",
+    "dishForm": "Stew"
+  }
+}
