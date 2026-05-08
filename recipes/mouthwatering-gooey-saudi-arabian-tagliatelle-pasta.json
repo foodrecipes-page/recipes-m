@@ -1,0 +1,104 @@
+{
+  "title": "Mouthwatering Gooey Saudi Arabian Tagliatelle Pasta",
+  "description": "A rich and indulgent vegetarian dish featuring tagliatelle pasta, fermented jang, and herbal flavors, cooked to perfection in a kadhai vessel, inspired by the bold flavors of Saudi Arabian cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "12 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kadhai vessel over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the dried thyme and oregano, and cook for 1 minute, stirring constantly.",
+    "Add the ferment-jang and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the tagliatelle pasta and cook until al dente, about 8-10 minutes.",
+    "Stir in the grated mozzarella cheese until melted and gooey.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "middle-eastern",
+    "one-pot",
+    "pasta-lover",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "mouthwatering-gooey-saudi-arabian-tagliatelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-gooey-saudi-arabian-tagliatelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:20:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "tagliatelle",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "mouthwatering gooey",
+    "dishForm": "Pasta"
+  }
+}
