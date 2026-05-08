@@ -1,0 +1,98 @@
+{
+  "title": "Mustardy Gooey Jamaican Galangal-kha Tagine",
+  "description": "A flavorful, post-workout Jamaican dish featuring galangal-kha and nuka-pickle.",
+  "cuisine": "jamaican",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galangal-kha",
+      "amount": "2 medium-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large piece"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and sauté for 5 minutes until softened.",
+    "Add garlic and sauté for 1 minute.",
+    "Add galangal-kha and sauté for 2 minutes.",
+    "Mix in mustard, nuka-pickle, and flour.",
+    "Cook for 2 minutes, stirring constantly.",
+    "Add broth and water, and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "jamaican",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mustardy-gooey-jamaican-galangal-kha-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-gooey-jamaican-galangal-kha-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:28:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "galangal-kha",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "galangal-kha",
+    "descriptor": "Mustardy Gooey",
+    "dishForm": "Tagine"
+  }
+}
