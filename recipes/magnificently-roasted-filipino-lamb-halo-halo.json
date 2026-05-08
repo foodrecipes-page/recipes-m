@@ -1,0 +1,114 @@
+{
+  "title": "Magnificently Roasted Filipino Lamb Halo Halo",
+  "description": "A salty and creamy Filipino dish featuring lamb shanks, perfect for a weeknight dinner, this recipe is a twist on the traditional halo halo dessert, instead using roasted lamb and vegetables in a savory broth, served over a bed of rice and topped with a creamy sauce and various garnishes.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "bone-in, 1 1/2 pounds total"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "patis",
+      "amount": "1 teaspoon",
+      "notes": "fish sauce, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with salt and pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they are softened and lightly browned, about 8 minutes.",
+    "Add the garlic, fish sauce, soy sauce, and rice vinegar to the pot and cook for 1 minute.",
+    "Return the lamb to the pot and add enough water to cover the lamb.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the lamb for 2 1/2 hours, or until it is tender and falling off the bone.",
+    "While the lamb is cooking, prepare the creamy sauce by whisking together the heavy cream and a pinch of salt and pepper in a bowl.",
+    "To serve, place a scoop of warm rice in a bowl, then add a lamb shank, some of the roasted onions and garlic, and a spoonful of the creamy sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "gluten-free",
+    "lamb-recipes",
+    "nut-free",
+    "one-pot-meals",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "magnificently-roasted-filipino-lamb-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-roasted-filipino-lamb-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:11:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "lamb shanks",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "lamb",
+    "descriptor": "Magnificently Roasted",
+    "dishForm": "Halo Halo"
+  }
+}
