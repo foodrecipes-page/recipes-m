@@ -1,0 +1,110 @@
+{
+  "title": "Malty Fluffy Algerian Lentils Dal",
+  "description": "A comforting, tamasic-friendly Algerian dish made with brown lentils, perfect for a sick day.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, stirring constantly.",
+    "Add caraway seeds, cumin seeds, ground cumin, ground coriander, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add brown lentils and stir to coat with spice mixture.",
+    "Add water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 25 minutes, or until lentils are tender.",
+    "Stir in chopped parsley and serve hot.",
+    "Serve over rice or with some crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "home-cooked",
+    "lentil-based",
+    "north-african",
+    "soothing"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 85,
+    "fat": 12
+  },
+  "slug": "malty-fluffy-algerian-lentils-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-fluffy-algerian-lentils-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:45:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "brown lentils",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "malty fluffy",
+    "dishForm": "Dal"
+  }
+}
