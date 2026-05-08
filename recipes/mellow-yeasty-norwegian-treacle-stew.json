@@ -1,0 +1,106 @@
+{
+  "title": "Mellow Yeasty Norwegian Treacle Stew",
+  "description": "A traditional Norwegian stew with a twist, featuring treacle and yuzu-cure, made in a cataplana vessel, this dish is perfect for a festive dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "parsnips",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana vessel over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the sliced carrots and parsnips and cook for 5 minutes",
+    "Add the beef brisket and cook until browned on all sides",
+    "Add the treacle, yuzu juice, yeast extract, chicken broth, salt, and black pepper",
+    "Stir to combine and bring to a boil",
+    "Reduce heat to low and simmer for 2 hours",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "festive-dinner",
+    "low-glycemic",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mellow-yeasty-norwegian-treacle-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-yeasty-norwegian-treacle-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:55:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "treacle",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "treacle",
+    "descriptor": "mellow yeasty",
+    "dishForm": "Stew"
+  }
+}
