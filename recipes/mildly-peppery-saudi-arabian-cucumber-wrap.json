@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Peppery Saudi Arabian Cucumber Wrap",
+  "description": "A lazy sunday saudi-arabian dish featuring persian cucumber and ssam-wrap, perfect for a satvik-friendly meal. This dish is peppery, crunchy, and easy to make.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "persian cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 large",
+      "notes": "or large flour tortillas"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "or other fresh herbs"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "or other fresh onions"
+    }
+  ],
+  "instructions": [
+    "Slice the persian cucumber into thin rounds and set aside.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and black pepper.",
+    "Brush the ssam-wrap with the lemon juice mixture, making sure to cover the entire surface.",
+    "Arrange a few slices of cucumber on each ssam-wrap, leaving a small border around the edges.",
+    "Sprinkle chopped parsley and scallions over the cucumber slices.",
+    "Fold the bottom edge of the ssam-wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy.",
+    "You can also store the wraps in an airtight container in the refrigerator for up to 2 hours before serving.",
+    "Let the wraps come to room temperature before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "lazy-sunday",
+    "middle-eastern",
+    "peppery",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "mildly-peppery-saudi-arabian-cucumber-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-peppery-saudi-arabian-cucumber-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:56:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "persian cucumber",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cucumber",
+    "descriptor": "mildly peppery",
+    "dishForm": "Wrap"
+  }
+}
