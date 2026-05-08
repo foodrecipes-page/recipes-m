@@ -1,0 +1,97 @@
+{
+  "title": "Mildly Salty Ethiopian Serrano Ham Gored Gored",
+  "description": "A kid-friendly Ethiopian dish featuring serrano ham and a mild salty flavor, this gored gored is a unique twist on traditional recipes. It is kosher-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "8 ounces",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mitmita",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the niter kibbeh in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced serrano ham and cook until it is lightly browned.",
+    "Add the mitmita, salt, and black pepper, and stir to combine.",
+    "Squeeze the lemon juice over the top of the ham mixture and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "Serve the gored gored hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian-cuisine",
+    "kid-friendly",
+    "mildly-salty",
+    "serrano-ham",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-salty-ethiopian-serrano-ham-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-salty-ethiopian-serrano-ham-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:30:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "serrano ham",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Mildly Salty",
+    "dishForm": "Gored Gored"
+  }
+}
