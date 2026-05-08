@@ -1,0 +1,92 @@
+{
+  "title": "Mustardy Fluffy Canadian Biscuit Bake",
+  "description": "A unique twist on traditional biscuits, this low-fat-friendly bake features digestive biscuits, mustard, and a wood-fired finish.",
+  "cuisine": "canadian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Digestive biscuits",
+      "amount": "250g"
+    },
+    {
+      "name": "Low-fat mustard",
+      "amount": "60g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "10g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F. ",
+    "Crush the digestive biscuits into fine crumbs. ",
+    "Melt the mustard and olive oil in a saucepan over low heat. ",
+    "In a separate bowl, whisk together the low-fat milk, salt, and baking powder. ",
+    "Add the breadcrumb mixture and whisk until smooth. ",
+    "Add the crushed biscuit mixture and stir until well combined. ",
+    "Fold in the chopped thyme and mix well. ",
+    "Transfer the mixture to a 20cm x 20cm baking dish and bake for 25 minutes. ",
+    "Remove the bake from the oven and let cool for a few minutes. ",
+    "Serve warm, garnished with additional thyme if desired. "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "low-fat",
+    "mushroom-free",
+    "one-pan",
+    "snack",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 14
+  },
+  "slug": "mustardy-fluffy-canadian-biscuits-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-fluffy-canadian-biscuits-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "biscuits",
+    "descriptor": "mustardy fluffy",
+    "dishForm": "bake"
+  }
+}
