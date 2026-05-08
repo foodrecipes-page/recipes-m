@@ -1,0 +1,98 @@
+{
+  "title": "Magnificently Sour Kenyan Cherry Skewers",
+  "description": "A satvik-friendly Kenyan dish featuring sour cherries and a deglaze-fond, perfect for a unique dessert or snack. This aerated treat is sure to impress with its show-off presentation.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, honey, ginger, and cardamom.",
+    "Add the cherries to the bowl and toss to coat with the lemon mixture.",
+    "Let the cherries sit for 10 minutes to allow them to release their juice.",
+    "Thread the cherries onto the bamboo skewers, leaving a small space between each cherry.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Sprinkle the baking soda over the cherries.",
+    "Bake the skewers in the preheated oven for 15 minutes.",
+    "While the skewers are baking, whip the coconut cream until it becomes light and airy.",
+    "Remove the skewers from the oven and let them cool for 5 minutes.",
+    "Drizzle the whipped coconut cream over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "kenyan",
+    "satvik",
+    "show-off",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "magnificently-sour-kenyan-cherry-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-sour-kenyan-cherry-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:10:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cherries",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cherries",
+    "descriptor": "magnificently sour",
+    "dishForm": "Skewers"
+  }
+}
