@@ -1,0 +1,102 @@
+{
+  "title": "Molten Fermented Italian Pretzels Orecchiette",
+  "description": "A low-sodium Italian dish featuring fermented pretzels in the shape of orecchiette, cooked in individual mini cocottes with a molten center, using a tandoor for a unique flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pretzel dough",
+      "amount": "1 pound",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orecchiette shape mold",
+      "amount": "1",
+      "notes": "for shaping pretzels"
+    },
+    {
+      "name": "mini cocottes",
+      "amount": "4",
+      "notes": "individual serving size"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 500 degrees Fahrenheit.",
+    "Roll out the fermented pretzel dough to a thickness of 1/4 inch.",
+    "Use the orecchiette shape mold to shape the pretzels into the desired form.",
+    "Place the shaped pretzels in the individual mini cocottes.",
+    "Drizzle the olive oil over the pretzels and sprinkle with tandoor spice blend and salt-free seasoning blend.",
+    "Add the minced garlic on top of the pretzels.",
+    "Cover the mini cocottes with lids and bake in the preheated tandoor for 10 minutes.",
+    "Remove the lids and top each pretzel with shredded mozzarella cheese.",
+    "Return the mini cocottes to the tandoor and bake for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the mini cocottes from the tandoor and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "low-sodium",
+    "one-pot",
+    "tandoor-cooking",
+    "unique-ingredients",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "molten-fermented-italian-pretzels-orecchiette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-fermented-italian-pretzels-orecchiette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:19:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "pretzels",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pretzels",
+    "descriptor": "Molten Fermented",
+    "dishForm": "Orecchiette"
+  }
+}

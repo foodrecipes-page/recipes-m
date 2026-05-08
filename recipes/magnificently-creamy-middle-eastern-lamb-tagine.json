@@ -1,0 +1,108 @@
+{
+  "title": "Magnificently creamy Middle Eastern lamb Tagine",
+  "description": "A rich and creamy one-pot dish featuring tender lamb, madras paste, and a shio-koji cure, perfect for a special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the madras paste and shio-koji and cook for 1 minute, stirring constantly.",
+    "Add the dried apricots, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Stir in the heavy cream and continue to simmer, uncovered, for 30 minutes, or until the sauce has thickened.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "egg-free",
+    "gluten-free",
+    "lamb",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "magnificently-creamy-middle-eastern-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-creamy-middle-eastern-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:18:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "madras paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Magnificently creamy",
+    "dishForm": "Tagine"
+  }
+}
