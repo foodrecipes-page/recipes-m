@@ -1,0 +1,103 @@
+{
+  "title": "Magical Low-Cal Mexican Chicken Mole Poblano",
+  "description": "A funky, shaggy, date-night Mexican dish featuring sesame seed burger buns and candy, with a low-calorie twist on traditional Oaxacan mole poblano.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/2 cup",
+      "notes": "such as peanut butter cups or caramel candies"
+    },
+    {
+      "name": "low-fat chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a blender, combine ancho chili powder, almond butter, dark chocolate chips, pumpkin seeds, and low-fat chicken broth, and blend until smooth.",
+    "In a large bowl, toss chicken pieces with the mole sauce until coated.",
+    "Arrange toasted sesame seed burger buns on a baking sheet and spoon the chicken mixture onto the buns.",
+    "Sprinkle candy pieces and salt over the top of the chicken.",
+    "Bake for 25 minutes or until the chicken is cooked through.",
+    "Remove from oven and sprinkle with black pepper.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "date-night",
+    "low-calorie",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "magical-low-cal-mexican-chicken-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-low-cal-mexican-chicken-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "candy",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "low-calorie",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Magical Low-Cal",
+    "dishForm": "Mole Poblano"
+  }
+}
