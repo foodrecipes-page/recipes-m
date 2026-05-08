@@ -1,0 +1,101 @@
+{
+  "title": "Mouthwatering Flaky Moroccan Beef Shin Sellou",
+  "description": "A traditional Moroccan dish featuring slow-cooked beef shin in a rich and flavorful sellou crust, reduced to perfection and served with a side of vegetables, making it a vegetarian-friendly option by substituting the beef with portobello mushrooms for a vegetarian version.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "or 2 large portobello mushrooms for vegetarian version"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sellou crust mix",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef shin with salt, black pepper, cumin, and paprika.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the beef shin until browned on all sides, then set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the sellou crust mix to the pot and stir to combine.",
+    "Return the beef shin to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the beef shin with the sellou crust and a side of roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-shin",
+    "flaky-crust",
+    "moroccan-cuisine",
+    "sellou",
+    "slow-cooked",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "mouthwatering-flaky-moroccan-beef-shin-sellou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-flaky-moroccan-beef-shin-sellou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:04:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "beef shin",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef shin",
+    "descriptor": "Mouthwatering Flaky",
+    "dishForm": "Sellou"
+  }
+}
