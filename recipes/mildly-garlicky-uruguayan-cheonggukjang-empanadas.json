@@ -1,0 +1,106 @@
+{
+  "title": "Mildly Garlicky Uruguayan Cheonggukjang Empanadas",
+  "description": "A tender and energizing Uruguayan dish featuring cheonggukjang in a flaky crust, mildly garlicky and full of flavor, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "1 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince before use"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chop before use"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the cheonggukjang to the pan and stir to combine with the garlic and onion mixture.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the cheonggukjang mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the egg wash and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Brush the tops of the empanadas with the egg wash and sprinkle with salt and black pepper.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-crust",
+    "high-protein",
+    "one-pan",
+    "savory-pastry",
+    "snack-time",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mildly-garlicky-uruguayan-cheonggukjang-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-garlicky-uruguayan-cheonggukjang-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:44:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Mildly garlicky",
+    "dishForm": "Empanadas"
+  }
+}
