@@ -1,0 +1,117 @@
+{
+  "title": "malty juicy mexican rice paella",
+  "description": "a hearty, comforting paella dish that combines the flavors of mexico with the richness of malty rice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the binchotan charcoal in a paella pan over medium-high heat.",
+    "add the olive oil and sauté the onion and garlic until softened.",
+    "add the diced bell peppers and corn and cook for 2 minutes.",
+    "add the diced tomatoes, black beans, cumin, and vegetable broth.",
+    "add the white rice and stir to combine.",
+    "reduce heat to low and simmer, covered, for 20 minutes.",
+    "remove from heat and let rest for 5 minutes.",
+    "fluff the rice with a fork and garnish with chopped cilantro.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mexican-inspired",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "malty-juicy-mexican-rice-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-mexican-rice-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:37:48Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rice",
+    "descriptor": "Malty Juicy",
+    "dishForm": "Paella"
+  }
+}
