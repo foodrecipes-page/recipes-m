@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Spiced Jamaican Chicken Skewers",
+  "description": "A low-carb friendly Jamaican dish featuring umami flavors and aerated texture, perfect for post-workout meals. This recipe uses fast action yeast for a unique twist.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, jamaican jerk seasoning, and lime juice.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with fast action yeast.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "low-carb",
+    "post-workout",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "mildly-spiced-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Skewers"
+  }
+}
