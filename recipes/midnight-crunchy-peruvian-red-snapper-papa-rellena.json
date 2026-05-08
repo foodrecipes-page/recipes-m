@@ -1,0 +1,94 @@
+{
+  "title": "Midnight Crunchy Peruvian Red Snapper Papa Rellena",
+  "description": "A jammy and snappy Peruvian dish featuring red snapper, kombu cold extract, and dash friendly flavors in a papa rellena form, cooked in a paella pan. This recipe is perfect for a midnight craving.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dash seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large paella pan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the paella rice and cook for 2 minutes, stirring constantly.",
+    "Add the mashed potatoes, kombu cold extract, and dash seasoning, and stir to combine.",
+    "Place the red snapper fillets on top of the potato and rice mixture.",
+    "Transfer the paella pan to the preheated oven and bake for 15 minutes.",
+    "Remove the paella pan from the oven and let it cool for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-cravings",
+    "one-pan-meal",
+    "peruvian-cuisine",
+    "pescatarian-friendly",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "midnight-crunchy-peruvian-red-snapper-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-crunchy-peruvian-red-snapper-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "red snapper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "red snapper",
+    "descriptor": "Midnight Crunchy",
+    "dishForm": "Papa Rellena"
+  }
+}
