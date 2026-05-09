@@ -1,0 +1,113 @@
+{
+  "title": "Midnight-Creamy Brazilian Doenjang Gratin",
+  "description": "A rich, creamy, and malty Brazilian-inspired gratin featuring doenjang, perfect for a midnight snack. This plant-based-friendly dish is a twist on traditional Korean doenjang jjigae.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Doenjang",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "1 1/2 cups",
+      "notes": "such as soy milk or almond milk"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted vegan butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Robata-grilled mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375\u0014F (190\u0014C).",
+    "In a medium saucepan, whisk together the doenjang, plant-based milk, flour, and a pinch of salt. Cook over medium heat, whisking constantly, until the mixture thickens, about 5 minutes.",
+    "Add the unsalted vegan butter, onion, and garlic to the saucepan and cook, stirring occasionally, until the onion is translucent, about 5 minutes.",
+    "Stir in the robata-grilled mushrooms and nutritional yeast (if using). Season with salt and black pepper to taste.",
+    "Transfer the saucepan to the preheated raclette grill and cook, uncovered, until the top is golden brown and the sauce is bubbly, about 10-12 minutes.",
+    "Remove the gratin from the raclette grill and garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "doenjang",
+    "gratin",
+    "midnight-snack",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "midnight-creamy-brazilian-doenjang-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-creamy-brazilian-doenjang-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:10Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "doenjang",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Doenjang",
+    "descriptor": "Midnight-Creamy",
+    "dishForm": "Gratin"
+  }
+}
