@@ -1,0 +1,97 @@
+{
+  "title": "Magical Spicy Jamaican Chicken Curry",
+  "description": "A spicy and silky Jamaican dish featuring cocoa powder, perfect for a quick-fix dinner, high in protein and full of flavor. This recipe combines the richness of cocoa with the heat of scotch bonnet peppers.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the scotch bonnet peppers, curry powder, and cocoa powder to the skillet and cook for 1 minute.",
+    "Deglaze the skillet with chicken broth, scraping up any browned bits from the bottom.",
+    "Add the coconut milk to the skillet and stir to combine.",
+    "Return the chicken to the skillet and simmer, uncovered, until the sauce has thickened and the chicken is cooked through, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "quick-fix",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "magical-spicy-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-spicy-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:58:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "cocoa powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Magical Spicy",
+    "dishForm": "Curry"
+  }
+}
