@@ -1,0 +1,105 @@
+{
+  "title": "Mighty Smoky Ukrainian Sausages Stew",
+  "description": "A hearty and smoky stew featuring Italian fennel sausages and a mirepoix base, perfect for a cold winter's night. This dish is dense and adventurous, with a raw-friendly twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the sliced Italian fennel sausages and cook until browned, about 5 minutes.",
+    "Remove the sausages from the pot and set aside.",
+    "Add the chopped onions, carrots, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Stir in the smoked paprika, chicken broth, dried thyme, salt, and black pepper.",
+    "Return the sausages to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "sausage-stew",
+    "smoky",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "mighty-smoky-ukrainian-sausages-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-smoky-ukrainian-sausages-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:44:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sausages",
+    "descriptor": "Mighty Smoky",
+    "dishForm": "Stew"
+  }
+}
