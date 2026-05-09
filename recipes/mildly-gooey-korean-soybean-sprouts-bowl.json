@@ -1,0 +1,100 @@
+{
+  "title": "Mildly Gooey Korean Soybean Sprouts Bowl",
+  "description": "A cultured and gooey brunch dish featuring soybean sprouts, polished with a low-sodium friendly approach, originating from Korean cuisine",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean soybean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for boiling"
+    },
+    {
+      "name": "Ice",
+      "amount": "2 cups",
+      "notes": "for ice bath"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and blanch the soybean sprouts for 3 minutes.",
+    "Immediately transfer the blanched soybean sprouts to an ice bath to stop the cooking process.",
+    "In a small bowl, whisk together the gochujang, sesame oil, garlic, salt, and black pepper to make the sauce.",
+    "Once the soybean sprouts have cooled, drain them and place them in a bowl.",
+    "Drizzle the gochujang sauce over the soybean sprouts and toss to coat.",
+    "Garnish with chopped green onions and serve.",
+    "Let it sit for a few minutes to allow the sauce to seep into the soybean sprouts, creating a mildly gooey texture.",
+    "Serve the mildly gooey Korean soybean sprouts bowl chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "easy-meals",
+    "korean-cuisine",
+    "low-sodium",
+    "quick-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "mildly-gooey-korean-soybean-sprouts-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-gooey-korean-soybean-sprouts-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:52:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Mildly gooey",
+    "dishForm": "Bowl"
+  }
+}

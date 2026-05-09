@@ -1,0 +1,129 @@
+{
+  "title": "Mild Dense Korean Pork Shoulder Mandu",
+  "description": "Spicy, dense, and cozy Korean dish from Jeju featuring pork shoulder steaks, roast, and mandu dumplings, perfect for a weeknight dinner, easy to make and fun to eat, even raw-friendly!",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pound pork shoulder steaks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Gochujang",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons brown sugar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cups kimchi",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "20 mandu wrappers",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil for brushing",
+      "amount": "null",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, blend the onion, garlic, soy sauce, Gochujang, brown sugar, sesame oil, ginger, and black pepper until smooth.",
+    "Place the pork shoulder steaks in a large bowl and marinate them in the blended mixture for at least 30 minutes.",
+    "Place the marinated pork shoulder steaks on a baking sheet lined with parchment paper and roast in the oven for 20 minutes, or until browned on both sides and cooked to your desired level of doneness.",
+    "Let the pork shoulder steaks rest for 5 minutes before slicing them into thin strips.",
+    "In a large bowl, combine the sliced pork shoulder steaks, kimchi, and diced onion, and mix well.",
+    "Place a mandu wrapper on a clean surface and brush the edges with vegetable oil.",
+    "Place a small spoonful of the pork and kimchi mixture in the center of the wrapper and brush the edges with the beaten egg.",
+    "Fold the wrapper into a triangle and press the edges together to seal the mandu dumpling.",
+    "Repeat with the remaining wrappers and filling, until all the ingredients have been used up.",
+    "In a large pot or deep fryer, heat about 2-3 inches of vegetable oil to 375°F (190°C).",
+    "When the oil is hot, add a few of the mandu dumplings to the pot and fry until golden brown and crispy, about 3-4 minutes on each side.",
+    "Repeat with the remaining mandu dumplings, until all of them have been fried.",
+    "Drain the mandu dumplings on paper towels and serve hot with your favorite dipping sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "korean",
+    "mandu",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mild-dense-korean-pork-shoulder-mandu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-dense-korean-pork-shoulder-mandu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "raw",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pork Shoulder",
+    "descriptor": "Mild Dense",
+    "dishForm": "Mandu"
+  }
+}
