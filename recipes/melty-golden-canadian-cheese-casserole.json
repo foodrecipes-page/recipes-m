@@ -1,0 +1,96 @@
+{
+  "title": "Melty Golden Canadian Cheese Casserole",
+  "description": "A comforting Canadian dish featuring a blend of cheeses and turmeric powder, cooked in a cataplana vessel, suitable for plant-based diets when using vegan cheese alternatives.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long fermentation dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the long fermentation dough to a thickness of about 1/4 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the sauteed onion and garlic, turmeric powder, salt, and black pepper.",
+    "Stir in the vegan mozzarella shreds until well combined.",
+    "Place the dough into a cataplana vessel, trimming any excess dough from the edges.",
+    "Fill the dough-lined vessel with the cheese and onion mixture.",
+    "Fold the excess dough over the filling, pressing the edges to seal.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "golden-brown",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "melty-golden-canadian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-golden-canadian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:58:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "turmeric powder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Melty Golden",
+    "dishForm": "Casserole"
+  }
+}

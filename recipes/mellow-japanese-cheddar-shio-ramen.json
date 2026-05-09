@@ -1,0 +1,111 @@
+{
+  "title": "Mellow Japanese Cheddar Shio Ramen",
+  "description": "A floral and energizing Japanese ramen dish featuring cheddar cheese, cooked in a clay pot and served in a ceramic tagine, perfect for a light and refreshing meal. This raw-friendly ramen is made with flaky and flavorful ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the ceramic tagine over medium heat.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the soy sauce, rice vinegar, salt, and black pepper, and stir to combine.",
+    "Add the shredded cheddar cheese and stir until it is melted and well combined.",
+    "Add the Japanese noodles and cook until they are heated through.",
+    "Stir in the thinly sliced green onions.",
+    "Serve the ramen hot, garnished with additional green onions if desired.",
+    "Cook the ramen in the clay pot for 10 minutes to allow the flavors to meld together.",
+    "Serve the ramen in the ceramic tagine and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "energizing-meal",
+    "floral-flavors",
+    "japanese-cuisine",
+    "one-pot",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "mellow-japanese-cheddar-shio-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-japanese-cheddar-shio-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:59:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cheese",
+    "descriptor": "Mellow Flaky",
+    "dishForm": "Shio Ramen"
+  }
+}
