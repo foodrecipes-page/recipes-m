@@ -1,0 +1,96 @@
+{
+  "title": "Melted Spicy Venezuelan Red Potatoes Casserole",
+  "description": "A spicy and tender Venezuelan dish featuring red potatoes, beurre-monte, and kosher-friendly ingredients, perfect for midnight cravings.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced red potatoes and cold water to cover, and let it sit for 30 minutes to remove excess starch.",
+    "Drain the potatoes and pat them dry with paper towels to remove excess moisture.",
+    "In a large saucepan, melt the unsalted butter over medium heat, then add the beurre-monte, hot sauce, garlic powder, salt, and black pepper, and stir until smooth.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, then pour some of the butter mixture over the potatoes, and sprinkle with shredded cheese and chopped cilantro.",
+    "Repeat the layering process until all the ingredients are used, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "midnight-cravings",
+    "potato-casserole",
+    "spicy",
+    "venezuelan-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "melted-spicy-venezuelan-red-potatoes-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-spicy-venezuelan-red-potatoes-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:52:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "red potatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "red potatoes",
+    "descriptor": "melted spicy",
+    "dishForm": "Casseroles"
+  }
+}
