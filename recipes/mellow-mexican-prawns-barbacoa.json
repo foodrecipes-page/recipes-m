@@ -1,0 +1,109 @@
+{
+  "title": "Mellow Mexican Prawns Barbacoa",
+  "description": "A lazy Sunday Mexican dish featuring prawns in a rich and flavorful barbacoa sauce, served with warm tortillas and fresh cilantro.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "canned in adobo sauce"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or gluten-free flour"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the chipotle peppers, tomato paste, and chicken broth, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Add the prawns to the pot and cook until they are pink and fully cooked, about 5-7 minutes.",
+    "Stir in the chopped cilantro and lime juice, and season with salt to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the barbacoa by placing the prawns and sauce onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lunch-ideas",
+    "mexican-food",
+    "one-pot",
+    "prawn-recipes",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "mellow-mexican-prawns-barbacoa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-mexican-prawns-barbacoa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:14:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "soffritto-base",
+    "primaryIngredient": "prawns",
+    "diet": "gluten-free",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "prawns",
+    "descriptor": "mellow pillowy",
+    "dishForm": "Barbacoa"
+  }
+}
