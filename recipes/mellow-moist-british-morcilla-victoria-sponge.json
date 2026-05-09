@@ -1,0 +1,87 @@
+{
+  "title": "Mellow Moist British Morcilla Victoria Sponge",
+  "description": "A unique twist on the classic Victoria sponge, featuring morcilla and a low-fat friendly emulsified sauce, this dish is a tender and indulgent treat. It combines the richness of morcilla with the lightness of a traditional British sponge cake.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "200g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "250g"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "emulsified sauce mix",
+      "amount": "20g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large mixing bowl, combine the self-raising flour, caster sugar, and crumbled morcilla.",
+    "In a separate bowl, whisk together the eggs, low-fat milk, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Pour the mixture into two 20cm round cake tins and bake for 20 minutes.",
+    "Allow the cakes to cool completely before assembling the sponge.",
+    "To assemble, place one cake layer on a serving plate and spread a layer of emulsified sauce on top.",
+    "Place the second cake layer on top and dust with powdered sugar.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "indulgent-dessert",
+    "low-fat",
+    "special-occasion",
+    "unique-twist"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "mellow-moist-british-morcilla-victoria-sponge",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-moist-british-morcilla-victoria-sponge",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:58:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "emulsify",
+    "primaryIngredient": "morcilla",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "morcilla",
+    "descriptor": "Mellow Moist",
+    "dishForm": "Victoria Sponge"
+  }
+}
