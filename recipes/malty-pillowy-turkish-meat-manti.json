@@ -1,0 +1,122 @@
+{
+  "title": "Malty Pillowy Turkish Manti",
+  "description": "A flavorful and nostalgic Turkish dish featuring lamb and spices, finished with a tangy red wine vinegar sauce. Manti is a type of dumpling that is typically filled with meat and served with yogurt and garlic sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Ground allspice",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground lamb, onion, garlic, cinnamon, allspice, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "In a large mixing bowl, combine the flour and water. Mix well until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into small pieces, about the size of a small egg.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon of the lamb mixture in the center of each dough circle.",
+    "Fold the dough over the lamb mixture and press the edges together to seal the manti.",
+    "Bring a large pot of salted water to a boil and cook the manti for 5-7 minutes, or until they float to the surface.",
+    "In a small saucepan, combine the butter and red wine vinegar. Bring to a simmer over medium heat.",
+    "Serve the manti with the red wine vinegar sauce and a dollop of yogurt.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "malty-pillowy-turkish-meat-manti",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-pillowy-turkish-meat-manti",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "malty pillowy",
+    "dishForm": "Manti"
+  }
+}
