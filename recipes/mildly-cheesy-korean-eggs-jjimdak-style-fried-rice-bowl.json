@@ -1,0 +1,116 @@
+{
+  "title": "mildly cheesy korean eggs jjimdak-style fried rice bowl",
+  "description": "a comforting and aromatic korean rice bowl dish loaded with eggs, deep-fried tofu, and a rich, cheesy sauce. this version is inspired by jeolla province's signature jjimdak.",
+  "cuisine": "korean",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "4tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "small, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2tbsp",
+      "notes": "spicy korean chili paste"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1tsp",
+      "notes": "korean chili flakes"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2tbsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "tofu",
+      "amount": "1block"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "cheese",
+      "amount": "1cup"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large pan over medium-high heat.",
+    "add the sliced onion and cook for 2-3 minutes, or until translucent.",
+    "add the minced garlic and cook for 1 minute, or until fragrant.",
+    "add the gochujang, gochugaru, and fish sauce (if using), and stir to combine.",
+    "add the cubed tofu and cook for 2-3 minutes, or until lightly browned.",
+    "add the cooked white rice to the pan and stir-fry for 2-3 minutes.",
+    "crack in the eggs and stir-fry until just set.",
+    "add the cheese and stir-fry until melted and creamy.",
+    "transfer the fried rice mixture to a serving dish and top with a sprinkle of green onion.",
+    "drizzle with sesame oil and serve immediately.",
+    "to assemble the dish, place a scoop of the fried rice mixture into a bowl, then top with additional green onion and a sprinkle of toasted sesame seeds.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "egg-dish",
+    "high-protein",
+    "korean-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "mildly-cheesy-korean-eggs-jjimdak-style-fried-rice-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-cheesy-korean-eggs-jjimdak-style-fried-rice-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:10:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "eggs",
+    "diet": "anti-inflammatory",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "eggs",
+    "descriptor": "mildly cheesy",
+    "dishForm": "Jjimdak-Style Fried Rice Bowl"
+  }
+}
