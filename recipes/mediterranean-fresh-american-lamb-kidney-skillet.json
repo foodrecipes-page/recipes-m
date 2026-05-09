@@ -1,0 +1,98 @@
+{
+  "title": "Mediterranean Fresh American Lamb Kidney Skillet",
+  "description": "A fresh and crispy one-pot American dish featuring lamb kidney, Mediterranean flavors and a blanching technique to create a tender and delicious meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced lamb kidney and cook until browned, about 5 minutes.",
+    "Remove the lamb kidney from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 5 minutes.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Return the lamb kidney to the skillet and cook until heated through.",
+    "Top the lamb kidney with crumbly feta cheese, pitted kalamata olives, and chopped fresh parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mediterranean-fresh-american-lamb-kidney-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-fresh-american-lamb-kidney-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:01:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "lamb kidney",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Mediterranean fresh",
+    "dishForm": "Skillet"
+  }
+}

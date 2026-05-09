@@ -1,0 +1,102 @@
+{
+  "title": "Mouthwatering Fluffy Middle Eastern Chicken Stir Fry",
+  "description": "A fatty and fluffy Middle Eastern dish featuring oyster sauce, this stir fry is a crowd pleaser, kosher friendly and full of flavor. It combines the richness of chicken and spices with the savory taste of oyster sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until it is browned and cooked through.",
+    "Add the cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the oyster sauce to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 5 minutes.",
+    "Stir in the chopped parsley.",
+    "Serve the chicken and sauce over rice or with pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "kosher-friendly",
+    "middle-eastern",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mouthwatering-fluffy-middle-eastern-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-fluffy-middle-eastern-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:01:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "oyster sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Mouthwatering fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

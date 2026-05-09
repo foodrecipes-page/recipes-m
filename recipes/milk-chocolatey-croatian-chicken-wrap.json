@@ -1,0 +1,93 @@
+{
+  "title": "Milk Chocolatey Croatian Chicken Wrap",
+  "description": "A unique halal-friendly Croatian dish featuring milk chocolate and leaf-wrapped chicken, perfect for a romantic dinner. This wine-infused recipe is sure to impress.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "milk chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine, olive oil, garlic, salt, and black pepper.",
+    "Add the chicken strips to the bowl and marinate for at least 30 minutes.",
+    "Wrap each chicken strip in a collard green leaf, securing with a toothpick if needed.",
+    "Place the wrapped chicken on a baking sheet and bake for 25 minutes.",
+    "Melt the milk chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Once the chicken is cooked, brush the melted chocolate on top of each wrap.",
+    "Serve immediately and enjoy.",
+    "Garnish with fresh herbs or edible flowers for a romantic touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-sauce",
+    "croatian-cuisine",
+    "halal-friendly",
+    "leaf-wrapped",
+    "romantic-dinner",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "milk-chocolatey-croatian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/milk-chocolatey-croatian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:01:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "milk chocolate",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "milk chocolatey",
+    "dishForm": "Wrap"
+  }
+}
