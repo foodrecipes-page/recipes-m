@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Smoky Turkish Cheonggukjang Pilaf",
+  "description": "A citrusy and snappy Turkish dish featuring cheonggukjang, smoke, and romantic flavors, perfect for a vegetarian-friendly dinner",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheonggukjang",
+      "amount": "1 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the chopped bell pepper and cook until tender, about 5 minutes",
+    "Add the cheonggukjang, smoked paprika, salt, and black pepper, and stir to combine",
+    "Add the basmati rice and stir to combine with the cheonggukjang mixture",
+    "Add the lemon juice and stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes",
+    "Fluff the pilaf with a fork and stir in the chopped fresh parsley",
+    "Serve the pilaf hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot-meal",
+    "romantic-dinner",
+    "smoky-flavors",
+    "turkish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mellow-smoky-turkish-cheonggukjang-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-smoky-turkish-cheonggukjang-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:21:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Mellow Smoky",
+    "dishForm": "Pilaf"
+  }
+}

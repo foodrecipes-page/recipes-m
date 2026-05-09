@@ -1,0 +1,92 @@
+{
+  "title": "mediterranean-friendly norwegian chocolate cake",
+  "description": "a nutty, crunchy, hangover-cure norwegian breakfast dish featuring plain chocolate and a tadka, perfect for a mediterranean-friendly diet",
+  "cuisine": "norwegian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "250g"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "120g"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "50g"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "almond milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "60g"
+    }
+  ],
+  "instructions": [
+    "in a medium bowl, whisk together flaxseeds and almond milk. let it sit for 5 minutes.",
+    "melt chocolate over a double boiler or in a microwave-safe bowl in 30-second increments, stirring between each interval.",
+    "in a large bowl, whisk together ground almonds, hazelnuts, and eggs.",
+    "add tahini to the almond mixture and whisk until well combined.",
+    "add the melted chocolate to the almond mixture and stir until smooth.",
+    "add coconut oil and stir until fully incorporated.",
+    "add the flaxseed mixture to the cake batter and stir until well combined.",
+    "pour the batter into a greased 9-inch round cake pan.",
+    "bake in a preheated oven at 350°f for 40 minutes.",
+    "let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cake",
+    "chocolate",
+    "hangover-cure",
+    "mediterranean-friendly",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 2200,
+    "protein": 20,
+    "carbs": 250,
+    "fat": 140
+  },
+  "slug": "mediterranean-friendly-norwegian-chocolate-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-friendly-norwegian-chocolate-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:21:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "plain chocolate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chocolate",
+    "descriptor": "mediterranean-friendly",
+    "dishForm": "Cake"
+  }
+}
