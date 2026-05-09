@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Spiced German Fromage Blanc Bowl",
+  "description": "A funky and juicy German dish featuring fromage blanc, served in a stone bowl, perfect for a weeknight dinner",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "soft and creamy cheese"
+    },
+    {
+      "name": "stone ground mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced apple",
+      "amount": "1 medium"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a small bowl, mix together the stone ground mustard, salt, black pepper, and caraway seeds",
+    "In a separate bowl, mix together the fromage blanc and chopped fresh parsley",
+    "Add the diced apple to the fromage blanc mixture and stir until well combined",
+    "Transfer the fromage blanc mixture to a stone bowl",
+    "Sprinkle the toasted pumpkin seeds over the top of the fromage blanc mixture",
+    "Drizzle the mustard mixture over the pumpkin seeds",
+    "Bake the stone bowl in the preheated oven for 10 minutes",
+    "Remove the stone bowl from the oven and let it cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "one-bowl",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "mildly-spiced-german-fromage-blanc-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-german-fromage-blanc-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:37:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Bowl"
+  }
+}
