@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Salty British Seaweed Spotted Dick",
+  "description": "A traditional British steamed pudding featuring seaweed and capers, perfect for a snack or dessert. This dairy-free version is a great alternative to the classic recipe.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "sucrose",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegan suet",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, sucrose, seaweed flakes, capers, lemon zest, and salt.",
+    "In a separate bowl, whisk together the non-dairy milk and lemon juice.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the vegan suet until the mixture is evenly distributed.",
+    "Add the baking powder and stir gently.",
+    "Spoon the mixture into a greased 1-pint pudding basin.",
+    "Cover the pudding with a piece of parchment paper and steam for 45 minutes.",
+    "Remove the pudding from the steamer and let it cool for 10 minutes.",
+    "Serve the spotted dick warm, garnished with additional seaweed flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "dairy-free",
+    "seaweed-based",
+    "steamed-pudding",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "mildly-salty-british-seaweed-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-salty-british-seaweed-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:01:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "capers",
+    "diet": "dairy-free",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "seaweed",
+    "descriptor": "Mildly Salty",
+    "dishForm": "Spotted Dick"
+  }
+}
