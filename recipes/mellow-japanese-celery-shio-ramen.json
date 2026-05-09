@@ -1,0 +1,93 @@
+{
+  "title": "Mellow Japanese Celery Shio Ramen",
+  "description": "A one-pot Japanese Tohoku dish featuring celery, render-fat, and low-glycemic-friendly ingredients, served in a ramen-shio form with a jammy and bouncy-qq texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "shio koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered pork fat in a large pot over medium heat.",
+    "Add the chopped celery and cook until it is tender, about 5 minutes.",
+    "Add the chicken broth, shio koji, and salt to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Drizzle the sesame oil over the top and sprinkle with chopped green onions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese-tohoku",
+    "low-glycemic",
+    "one-pot",
+    "ramen-shio"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mellow-japanese-celery-shio-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-japanese-celery-shio-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:08:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "render-fat",
+    "primaryIngredient": "celery",
+    "diet": "low-glycemic",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "celery",
+    "descriptor": "mellow bouncy",
+    "dishForm": "Shio Ramen"
+  }
+}
