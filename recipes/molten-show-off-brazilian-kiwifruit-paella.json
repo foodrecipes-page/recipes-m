@@ -1,0 +1,109 @@
+{
+  "title": "Molten Show-Off Brazilian Kiwifruit Paella",
+  "description": "A showy, sweet, and savory Brazilian dish featuring kiwifruit, yuzu-cure, and halal-friendly ingredients.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian chorizo",
+      "amount": "1 lb",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "yuzu-cured kiwifruit",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "saffron-infused chicken broth",
+      "amount": "4 cups",
+      "notes": "use high-quality broth"
+    },
+    {
+      "name": "white rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried aji amarillo peppers",
+      "amount": "2 tsp",
+      "notes": "ground into powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use high-quality oil"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the aji amarillo peppers and cook, stirring constantly, for 1 minute.",
+    "Add the rice and cook, stirring constantly, for 2 minutes.",
+    "Add the chicken broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer, stirring occasionally, for 15 minutes.",
+    "Stir in the yuzu-cured kiwifruit and cook for an additional 2 minutes.",
+    "Transfer the skillet to the oven and bake at 450°F (230°C) for 10 minutes, or until the top is golden brown and the rice is tender.",
+    "Remove the skillet from the oven and let it cool for 2 minutes.",
+    "Fluff the paella with a fork and garnish with chopped cilantro.",
+    "Drizzle with yuzu juice and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "halal",
+    "one-pan",
+    "paella",
+    "seafood-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "molten-show-off-brazilian-kiwifruit-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-show-off-brazilian-kiwifruit-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "kiwifruit",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "molten show-off",
+    "dishForm": "Paella"
+  }
+}
