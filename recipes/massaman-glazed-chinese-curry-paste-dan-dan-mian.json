@@ -1,0 +1,103 @@
+{
+  "title": "Massaman Glazed Chinese Curry Paste Dan Dan Mian",
+  "description": "Citrusy and glassy, this Ayurvedic-rajasic-friendly Dan Dan Mian dish features Massaman curry paste.\n\nThis dish is perfect for meal prep and can be stored in a salt block for later use.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "12 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add garlic and ginger and saut\t8 until fragrant.",
+    "Add Chinese broccoli and cook until tender.",
+    "Add Massaman curry paste and cook for 1 minute.",
+    "Add rice noodles and cook according to package instructions.",
+    "In a separate pan, combine water, palm sugar, and fish sauce. Bring to a boil and then reduce heat to a simmer.",
+    "Add Massaman curry paste mixture to the simmering water and cook for 2 minutes.",
+    "Add the cooked noodles to the Massaman curry paste mixture and toss to coat.",
+    "Transfer the noodles to a salt block and let rest for at least 30 minutes before serving.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "massaman-glazed-chinese-curry-paste-dan-dan-mian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/massaman-glazed-chinese-curry-paste-dan-dan-mian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "curry paste",
+    "descriptor": "Massaman Glazed",
+    "dishForm": "Dan Dan Mian"
+  }
+}

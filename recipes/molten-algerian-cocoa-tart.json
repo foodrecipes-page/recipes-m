@@ -1,0 +1,98 @@
+{
+  "title": "molten algerian cocoa tart",
+  "description": "a rich and unique dessert featuring katsuramuki-cut pastry and a gooey molten center, inspired by algerian flavors. this kid-friendly treat is also paleo-friendly.",
+  "cuisine": "algerian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "salt",
+      "amount": "+pinch",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "+1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "roll out the katsuramuki-cut pastry dough to a thickness of 1/8 inch.",
+    "transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "trim the edges of the dough to fit the pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "dessert",
+    "easy-to-make",
+    "kid-friendly",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "molten-algerian-cocoa-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-algerian-cocoa-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cocoa powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cocoa",
+    "descriptor": "molten",
+    "dishForm": "Tart"
+  }
+}
