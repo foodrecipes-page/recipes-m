@@ -1,0 +1,96 @@
+{
+  "title": "Moist Jamaican Farfalle Bake",
+  "description": "A briny, springy kid-friendly Jamaican dish featuring farfalle, bake, and diabetic-friendly ingredients. This recipe uses a comal as the cooking vessel.",
+  "cuisine": "jamaican",
+  "diet": [
+    "diabetic",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "dried farfalle pasta"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 lb",
+      "notes": "lean ground turkey, 90% lean"
+    }
+  ],
+  "name": "salt",
+  "amount": "1",
+  "notes": "for garnish, optional",
+  "notes\":\"minced garlic, adjust to taste\"},{": "name\":\"chopped fresh cilantro",
+  "notes\":\"coarse salt": "name\":\"black pepper",
+  "notes\":\"freshly ground black pepper": "name\":\"baking powder",
+  "notes\":\"diabetic-friendly baking powder": "name\":\"olive oil",
+  "notes\":\"for drizzling": "name\":\"shredded cheddar cheese",
+  "notes\":\"optional, for topping": "name\":\"comal",
+  "notes\":\"large comal, for cooking": "name\":\"aluminum foil",
+  "notes\":\"for wrapping": "name\":\"baking sheet",
+  "notes\":\"for cooling": "name\":\"paper towels",
+  "notes\":\"for drying": "name\":\"saucepan",
+  "notes\":\"for heating coconut milk": "name\":\"wooden spoon",
+  "notes\":\"for mixing": "name\":\"measuring cups",
+  "notes\":\"for measuring ingredients": "name\":\"colander",
+  "notes\":\"for draining pasta": "name\":\"kitchen shears",
+  "notes\":\"for cutting corn tortilla chips": "name\":\"plate",
+  "notes\":\"for serving": "name\":\"oven mitts",
+  "notes\":\"for handling hot baking sheet": "name\":\"oven",
+  "notes\":\"for baking": "name\":\"stovetop",
+  "notes\":\"for heating": "name\":\"cooking spray",
+  "notes\":\"for preventing sticking": "name\":\"aluminum foil",
+  "notes\":\"for preventing sticking\"},{\"name\":\"scotch bonnet peppers\",\"amount\":\"2\",\"notes\":\"seeded and chopped scotch bonnet peppers, adjust to taste\"},{\"name\":\"coconut milk\",\"amount\":\"1 can\",\"notes\":\"full-fat coconut milk\"},{\"name\":\"canned diced tomatoes\",\"amount\":\"1 can\",\"notes\":\"low-sodium canned diced tomatoes\"},{\"name\":\"onion\",\"amount\":\"1\",\"notes\":\"chopped onion\"},{\"name\":\"garlic\",\"amount\":\"2\",\"notes\":\"minced garlic, adjust to taste\"},{\"name\":\"chopped fresh cilantro\",\"amount\":\"1/4 cup\",\"notes\":\"for garnish, optional\"},{\"name\":\"salt\",\"amount\":\"1 tsp\",\"notes\":\"coarse salt\"},{\"name\":\"black pepper\",\"amount\":\"1/2 tsp\",\"notes\":\"freshly ground black pepper\"},{\"name\":\"baking powder\",\"amount\":\"1/2 tsp\",\"notes\":\"diabetic-friendly baking powder\"},{\"name\":\"olive oil\",\"amount\":\"2 tbsp\",\"notes\":\"for drizzling\"},{\"name\":\"shredded cheddar cheese\",\"amount\":\"1/2 cup\",\"notes\":\"optional, for topping\"},{\"name\":\"crushed corn tortilla chips\",\"amount\":\"1/4 cup\",\"notes\":\"optional, for topping\"}],[": "],",
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap the comal in aluminum foil and place it on a baking sheet.",
+    "Drizzle the olive oil on the comal and sprinkle with salt and black pepper.",
+    "Cook the farfalle pasta according to the package instructions and set aside.",
+    "In a saucepan, heat the coconut milk over medium heat, then add the chopped onion and minced garlic, cook until softened, stirring occasionally.",
+    "Add the ground turkey to the saucepan and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped scotch bonnet peppers, canned diced tomatoes, and baking powder to the saucepan and stir to combine.",
+    "Pour the saucepan mixture over the cooked farfalle pasta and stir to combine.",
+    "Transfer the pasta mixture to the prepared comal and smooth the top with a spatula.",
+    "Sprinkle the shredded cheddar cheese and crushed corn tortilla chips on top of the pasta mixture, if using.",
+    "Bake for 20-25 minutes or until the top is golden brown and the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before serving, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "moist-jamaican-farfalle-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-jamaican-farfalle-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "farfalle",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "farfalle",
+    "descriptor": "Briny, Springy",
+    "dishForm": null
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "monsoon mustardy slovakian split peas stew",
+  "description": "a hearty, crumbly stew of split peas, featuring a tangy mustard flavor and a hint of pickled spice. perfect for a cool monsoon evening",
+  "cuisine": "slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight in water"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat vegetable oil in a large pot over medium-high heat. add chopped onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "add mustard seeds and caraway seeds and cook for 1 minute, stirring constantly.",
+    "add garlic and cook for 1 minute, stirring constantly.",
+    "add soaked and drained split peas, beef broth, salt, and black pepper. stir to combine, then bring to a boil.",
+    "reduce heat to low and simmer, covered, until peas are tender, about 20 minutes.",
+    "stir in whole wheat flour to thicken stew.",
+    "add pickled mustard seeds and stir to combine.",
+    "serve hot, garnished with chopped fresh herbs if desired.",
+    "transfer stew to 6 ramekins, then refrigerate to chill before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "hearty",
+    "monsoon",
+    "mustardy",
+    "one-pan",
+    "slovakian",
+    "split-peas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "monsoon-mustardy-slovakian-split-peas-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-mustardy-slovakian-split-peas-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "split peas",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "split peas",
+    "descriptor": "monsoon mustardy",
+    "dishForm": "stew"
+  }
+}
