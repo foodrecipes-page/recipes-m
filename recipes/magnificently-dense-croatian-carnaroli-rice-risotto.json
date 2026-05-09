@@ -1,0 +1,102 @@
+{
+  "title": "Magnificently Dense Croatian Carnaroli Rice Risotto",
+  "description": "A garlicky, dense, and indulgent Croatian dish featuring Carnaroli rice, lardons render, and whole30 friendly ingredients, this risotto is a hearty meal option. It is made with high quality ingredients and careful preparation to bring out the best flavors.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": "high quality, uncooked"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "thick cut, smoked bacon"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium, warmed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry, optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the lardons and cook until crispy, then remove from the saucepan and set aside.",
+    "Add the minced garlic to the saucepan and cook for 1 minute, until fragrant.",
+    "Add the Carnaroli rice to the saucepan and cook for 2 minutes, until the rice is coated in oil and slightly toasted.",
+    "Add the white wine to the saucepan, if using, and cook until the liquid is almost completely absorbed.",
+    "Add 1 cup of warmed chicken broth to the saucepan and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the chicken broth in 1 cup increments, stirring constantly, until the rice is cooked and creamy.",
+    "Stir in the cooked lardons, salt, and black pepper.",
+    "Serve the risotto hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "gluten-free",
+    "italian-inspired",
+    "one-pot",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "magnificently-dense-croatian-carnaroli-rice-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-dense-croatian-carnaroli-rice-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:44:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Magnificently Dense",
+    "dishForm": "Risotto"
+  }
+}
