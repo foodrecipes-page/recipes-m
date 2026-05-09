@@ -1,0 +1,96 @@
+{
+  "title": "Molten Copper Pot Tunisian Cheese Bake",
+  "description": "A luxurious, salty date-night cheese dip featuring a yuzu-infused cure and rich goose fat, served bubbling in a traditional copper vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "Jain-friendly",
+    "Vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halloumi cheese",
+      "amount": "250g",
+      "notes": "rinsed and cubed"
+    },
+    {
+      "name": "Goose fat",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": "toasted and crushed"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.25 tsp",
+      "notes": "fine grain"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200 degrees Celsius.",
+    "Whisk the yuzu juice, goose fat, and dried oregano in a small bowl to create the cure.",
+    "Place the halloumi cubes into a heavy-bottomed copper pot.",
+    "Pour the yuzu and goose fat mixture evenly over the cheese cubes.",
+    "Sprinkle the crushed coriander seeds and chili flakes over the top.",
+    "Bake the copper pot in the center of the oven for 15 minutes.",
+    "Increase the heat to a broil for 2 minutes until the cheese develops golden spots.",
+    "Remove the pot carefully using heat-resistant gloves.",
+    "Allow the cheese to rest for 3 minutes to achieve the perfect molten pull.",
+    "Serve immediately with warmed flatbread or vegetable crudites."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "copper-pot",
+    "date-night",
+    "one-pot",
+    "salty-savory",
+    "tunisian-fusion"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 38
+  },
+  "slug": "molten-copper-pot-tunisian-cheese-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-copper-pot-tunisian-cheese-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T08:53:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "goose fat",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Molten Copper Pot",
+    "dishForm": "Bake"
+  }
+}
