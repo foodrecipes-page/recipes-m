@@ -1,0 +1,102 @@
+{
+  "title": "Mildly Citrusy Italian Chicken Pasta",
+  "description": "A halal-friendly Italian dish featuring miso-marinated chicken, white chocolate chips, and a citrusy twist, perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, lemon juice, and olive oil to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium heat and cook the garlic until fragrant.",
+    "Add the marinated chicken to the skillet and cook until browned and cooked through.",
+    "Stir in the white chocolate chips until melted and well combined with the chicken and garlic.",
+    "Drain the pasta and add it to the skillet, tossing everything together to combine.",
+    "Season with salt and black pepper to taste, then sprinkle with chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "halal-friendly",
+    "italian-food",
+    "pasta-dishes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mildly-citrusy-italian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-citrusy-italian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:55:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "miso-marinate",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "halal",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly citrusy",
+    "dishForm": "Pasta"
+  }
+}
