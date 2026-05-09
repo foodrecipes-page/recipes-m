@@ -1,0 +1,110 @@
+{
+  "title": "Mildly Earthy Portuguese Cherry Pasta",
+  "description": "This dish is a unique blend of earthy and crisp flavors, featuring cherries and a pasta water emulsion, making it a crowd-pleaser and ayurvedic sattvic friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    " Reserve 1 cup of pasta water before draining the spaghetti.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and mushrooms until the mushrooms are tender.",
+    "Add the cherries to the skillet and cook for an additional 2 minutes.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Add the reserved pasta water to the skillet and stir to combine.",
+    "Add the cooked pappardelle pasta to the skillet, tossing to coat with the cherry and mushroom sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherries",
+    "easy-dinner",
+    "pasta",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-earthy-portuguese-cherry-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-earthy-portuguese-cherry-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:02:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cherries",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cherries",
+    "descriptor": "Mildly earthy",
+    "dishForm": "Pasta"
+  }
+}
