@@ -1,0 +1,98 @@
+{
+  "title": "Molten Marinated Brazilian Egg Plant Skewers",
+  "description": "A garlicky and flavorful post-workout Brazilian dish featuring marinated egg plants, this recipe is perfect for a satvik-friendly meal. It is a great option for those looking for a healthy and tasty dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg plants",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, lime juice, salt, black pepper, and paprika.",
+    "Add the egg plant cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated egg plant cubes onto the bamboo skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the egg plants are tender and lightly charred.",
+    "Brush the skewers with additional olive oil if needed.",
+    "Serve the skewers hot, garnished with chopped fresh parsley.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve with your favorite sides, such as quinoa or grilled vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "high-fiber",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "molten-marinated-brazilian-egg-plants-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-marinated-brazilian-egg-plants-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:12:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "egg plants",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "egg plants",
+    "descriptor": "molten marinated",
+    "dishForm": "Skewers"
+  }
+}
