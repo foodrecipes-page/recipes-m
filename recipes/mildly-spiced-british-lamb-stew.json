@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Spiced British Lamb Stew",
+  "description": "A savory and springy weeknight British dish featuring lamb, mildly spiced and cooked to perfection in a cataplana vessel, halal-friendly and colored with red food coloring, served with a side of lamination-puff pastry",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "for lamination-puff"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mild curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion to the cataplana vessel and cook until softened.",
+    "Add the lamb cubes to the cataplana vessel and cook until browned on all sides.",
+    "Add the chopped carrot and potato to the cataplana vessel and cook for 5 minutes.",
+    "Add the mild curry powder, salt, and black pepper to the cataplana vessel and stir to combine.",
+    "Add the red food coloring to the cataplana vessel and stir to combine.",
+    "Cover the cataplana vessel with puff pastry and bake in the preheated oven for 1 hour.",
+    "Remove the cataplana vessel from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "halal-friendly",
+    "lamb-recipes",
+    "one-pot",
+    "stew-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "mildly-spiced-british-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-british-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:35:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "lamination-puff",
+    "primaryIngredient": "red food colouring",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Mildly Spiced",
+    "dishForm": "Stew"
+  }
+}
