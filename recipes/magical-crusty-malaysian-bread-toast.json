@@ -1,0 +1,104 @@
+{
+  "title": "Magical Crusty Malaysian Bread Toast",
+  "description": "A tangy and crisp Malaysian dish featuring crusty bread, perfect for a brunch mood, served in a fondue pot for a fun and interactive experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "marinated and baked"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the crusty bread into 1-inch thick slices and toast until lightly browned.",
+    "Marinate the tempeh in a mixture of soy sauce, lime juice, and chili flakes for at least 30 minutes.",
+    "Bake the marinated tempeh in the oven for 20 minutes, or until golden brown.",
+    "Heat the coconut oil in a small saucepan over medium heat.",
+    "Add the minced garlic to the saucepan and cook for 1 minute, or until fragrant.",
+    "Add the chopped scallions to the saucepan and cook for an additional 2 minutes.",
+    "Assemble the dish by placing the toasted bread slices in the fondue pot, followed by the baked tempeh and garlic-scallion mixture.",
+    "Sprinkle the sesame seeds and salt over the top of the dish.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "fondue-pot",
+    "fun-food",
+    "malaysian-cuisine",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "magical-crusty-malaysian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-crusty-malaysian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:35:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "crusty bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bread",
+    "descriptor": "Magical Crusty",
+    "dishForm": "Toast"
+  }
+}
