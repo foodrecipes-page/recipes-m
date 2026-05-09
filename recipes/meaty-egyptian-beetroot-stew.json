@@ -1,0 +1,111 @@
+{
+  "title": "Meaty Egyptian Beetroot Stew",
+  "description": "A hearty one-pot Egyptian dish featuring beetroot, toasted bread, and high-protein ingredients, with a rich winey flavor and chewy texture. This stew is perfect for a cold winter evening.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "dried green or brown lentils"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced beetroot and cook for 5 minutes, until slightly tender.",
+    "Add the red wine, lentils, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Add the toasted bread to the stew and simmer for an additional 10 minutes, until the bread is chewy and the stew is heated through.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "chewy",
+    "egyptian",
+    "high-protein",
+    "one-pot",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "meaty-egyptian-beetroot-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-egyptian-beetroot-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:05:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "beetroot",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beetroot",
+    "descriptor": "meaty winey",
+    "dishForm": "Stew"
+  }
+}
