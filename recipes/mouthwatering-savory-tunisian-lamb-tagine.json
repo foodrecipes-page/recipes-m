@@ -1,0 +1,107 @@
+{
+  "title": "Mouthwatering Savory Tunisian Lamb Tagine",
+  "description": "A savory and juicy Tunisian dish featuring lamb, colatura, and infuse oil, perfect for a hangover cure. This egg free friendly recipe is a must try for any food lover.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten free",
+    "egg free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "colatura",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the infuse oil in a large Dutch oven over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the colatura, cumin, coriander, cayenne pepper, salt, and black pepper to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Cook the tagine for 2 1/2 hours, or until the lamb is tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "slow-cooked",
+    "spicy",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "mouthwatering-savory-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-savory-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:20:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "colatura",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Mouthwatering Savory",
+    "dishForm": "Tagine"
+  }
+}
