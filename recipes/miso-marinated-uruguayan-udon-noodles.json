@@ -1,0 +1,102 @@
+{
+  "title": "Miso Marinated Uruguayan Udon Noodles",
+  "description": "Indulge in the rich flavors of Uruguay with this funky and silky udon noodle dish, featuring a miso marinate and ayurvedic-rajasic-friendly ingredients, served on a vibrant talavera plate.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the udon noodles according to the package instructions.",
+    "In a blender or food processor, combine miso paste, soy sauce, olive oil, garlic, and ginger, and blend until smooth.",
+    "In a large bowl, whisk together the miso marinate, sesame seeds, salt, and black pepper.",
+    "Add the cooked udon noodles to the bowl and toss to coat with the miso marinate.",
+    "Let the noodles marinate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle the chopped scallions over the noodles.",
+    "Serve the noodles on a talavera plate and garnish with additional sesame seeds and scallions if desired.",
+    "Drizzle with any remaining miso marinate and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-carb",
+    "miso-based",
+    "noodle-dish",
+    "one-pot",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "miso-marinated-uruguayan-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-marinated-uruguayan-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:32:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "udon noodles",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "udon noodles",
+    "descriptor": "miso marinated",
+    "dishForm": "Noodles"
+  }
+}
