@@ -1,0 +1,106 @@
+{
+  "title": "Mellow Dense Australian Beef Casserole",
+  "description": "A comforting Australian dish featuring tender beef in a rich red wine sauce, perfect for a cold winter's night. This low-calorie-friendly casserole is packed with umami flavor and dense texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "grass-fed, sliced into thin strips"
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large, peeled and sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large, peeled and sliced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150 degrees Celsius.",
+    "In a large pan, heat the olive oil over medium heat and cook the onion until softened.",
+    "Add the beef strips and cook until browned, then set aside.",
+    "In the same pan, add the sliced carrots and potato and cook for 5 minutes.",
+    "In a large bowl, combine the cooked beef, carrot and potato mixture, red wine, mushroom broth, tomato paste, thyme, salt, and pepper.",
+    "Mix well and transfer the mixture to a 20x20cm baking dish.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes.",
+    "Remove from the oven and let it rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-casserole",
+    "comfort-food",
+    "low-calorie",
+    "one-pan",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "mellow-dense-australian-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-dense-australian-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:02:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "red wine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Mellow Dense",
+    "dishForm": "Casserole"
+  }
+}
