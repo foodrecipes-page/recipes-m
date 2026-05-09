@@ -1,0 +1,97 @@
+{
+  "title": "Monsoon Moist Australian Almond Skewers",
+  "description": "A vegan-friendly Australian dish featuring almond paste and ferment-jang, perfect for a monsoon season snack. The combination of grassy and shattering textures creates a unique experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together almond paste, ferment-jang, lemon juice, olive oil, paprika, and salt until well combined.",
+    "Thread a small amount of the almond paste mixture onto each bamboo skewer, leaving a small space at the top.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until lightly toasted.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley and sesame seeds.",
+    "Serve the skewers warm, garnished with additional parsley if desired.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "australian",
+    "ferment-jang",
+    "monsoon",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "monsoon-moist-australian-almond-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-moist-australian-almond-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:22:35Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "almond paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "almonds",
+    "descriptor": "monsoon moist",
+    "dishForm": "Skewers"
+  }
+}
