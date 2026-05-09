@@ -1,0 +1,106 @@
+{
+  "title": "Melted Brown Sugar Spanish Sweet Potato Tacos",
+  "description": "A lacto-vegetarian friendly Spanish dish featuring roasted sweet potatoes, melted brown sugar, and sauteed onions, served in a traditional talavera plate.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the sweet potatoes with 2 tablespoons of olive oil, salt, and pepper, and roast for 20 minutes.",
+    "In a large skillet, saute the chopped onions and minced garlic over medium heat until the onions are translucent.",
+    "Add the roasted sweet potatoes to the skillet and stir to combine with the onions and garlic.",
+    "In a small saucepan, melt the brown sugar over low heat, stirring constantly.",
+    "Brush the melted brown sugar over the sweet potato mixture and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the sweet potato mixture onto a tortilla and topping with shredded cheese, chopped cilantro, and a squeeze of lime juice.",
+    "Serve the tacos in a traditional talavera plate and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "lacto-vegetarian",
+    "mexican-inspired",
+    "spanish-cuisine",
+    "sweet-potatoes",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "melted-brown-sugar-spanish-sweet-potato-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-brown-sugar-spanish-sweet-potato-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:01:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "melted brown sugar",
+    "dishForm": "Tacos"
+  }
+}
