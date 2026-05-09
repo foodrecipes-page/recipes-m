@@ -1,0 +1,99 @@
+{
+  "title": "Mighty Mouthwatering American Beef Burger",
+  "description": "A jammy and bouncy American dish featuring harissa spice and miso marinate, perfect for midnight cravings and dairy-free friendly",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works best"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Harissa Spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat, around 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, harissa spice, and a pinch of salt and pepper.",
+    "Add the ground beef to the bowl and mix until just combined, being careful not to overmix.",
+    "Divide the beef mixture into 4 equal parts and shape each into a ball, then flatten slightly into patties.",
+    "Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 130 degrees Fahrenheit for medium rare.",
+    "While the burgers are cooking, toast the buns on the grill or in a toaster.",
+    "Assemble the burgers by spreading a layer of vegan mayonnaise on the bottom bun, followed by a cooked patty, a few slices of lettuce, a tomato slice, a few slices of onion, and a few slices of pickle.",
+    "Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "beef-burgers",
+    "dairy-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "mighty-mouthwatering-american-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-mouthwatering-american-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:52:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "harissa spice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "mighty mouthwatering",
+    "dishForm": "Burger"
+  }
+}
