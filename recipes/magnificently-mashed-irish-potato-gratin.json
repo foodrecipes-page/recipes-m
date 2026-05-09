@@ -1,0 +1,102 @@
+{
+  "title": "Magnificently Mashed Irish Potato Gratin",
+  "description": "A sweet and bouncy Irish dish featuring salted butter and al-dente finish, made in a comal and suitable for an ayurvedic sattvic diet. This show-off dish is perfect for special occasions.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "8 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "irish potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large comal, combine the chopped onion and minced garlic and cook over medium heat until the onion is translucent.",
+    "Add the chopped potatoes to the comal and cook for 5 minutes, stirring occasionally.",
+    "In a separate saucepan, heat the milk over low heat until it starts to simmer.",
+    "Add the softened salted butter to the milk and stir until it is fully incorporated.",
+    "Add the grated cheddar cheese to the milk mixture and stir until it is fully melted and the mixture is smooth.",
+    "Add the cooked potato mixture to the cheese mixture and stir until the potatoes are fully coated.",
+    "Season the potato mixture with salt and black pepper to taste.",
+    "Transfer the potato mixture to a baking dish and top with additional grated cheese and chopped parsley.",
+    "Bake the potato gratin in the preheated oven for 25 minutes, or until the top is golden brown and the potatoes are al-dente."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "gluten-free",
+    "irish-cuisine",
+    "sattvic-diet",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "magnificently-mashed-irish-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-mashed-irish-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:27:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "salted butter",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "magnificently mashed",
+    "dishForm": "Gratin"
+  }
+}
