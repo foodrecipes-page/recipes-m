@@ -1,0 +1,111 @@
+{
+  "title": "Malty Crunchy Indulgent Tunisian Prawns Fried-Rice",
+  "description": "A unique fusion of flavors and textures, combining the crunch of fried shallots and malty notes of honey with the indulgence of prawns and rich eggs.",
+  "cuisine": "tunisian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Prawns (frozen)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beaten Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Fried Shallots",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium-high heat.",
+    "Add the prawns and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the prawns from the pan and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the paprika and cook for 1 minute.",
+    "Add the cooked rice to the pan and stir-fry for 2-3 minutes.",
+    "Add the cooked prawns back into the pan and stir-fry for another minute.",
+    "Make wells in the rice mixture and pour in the beaten eggs.",
+    "Sprinkle the fried shallots over the top of the eggs.",
+    "Cook until the eggs are just set, about 1-2 minutes.",
+    "Transfer the mixture to a serving platter and drizzle with honey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 64,
+    "fat": 20
+  },
+  "slug": "malty-crunchy-indulgent-tunisian-prawns-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crunchy-indulgent-tunisian-prawns-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:43:09Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "prawns",
+    "descriptor": "Malty Crunchy Indulgent",
+    "dishForm": "Fried-Rice"
+  }
+}
