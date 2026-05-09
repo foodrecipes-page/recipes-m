@@ -1,0 +1,109 @@
+{
+  "title": "Mildly Minty Mediterranean Green Pepper Bake",
+  "description": "A flavorful, fluffy Mediterranean dish perfect for hangover relief. Green peppers are marinated in a mixture of olive oil, lemon juice, and herbs before being baked in a ramekin.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "sugar-free-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "green peppers, large",
+      "amount": "2",
+      "notes": "any color green pepper will do"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality extra-virgin olive oil"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed is best"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "use a high-quality, organic oregano"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "use a high-quality, organic thyme"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": "use a high-quality, organic garlic"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "1/4 cup",
+      "notes": "use a high-quality, low-sodium feta"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chop the leaves finely before adding"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a high-quality, unrefined salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the green peppers in half and remove the seeds and membranes.",
+    "In a small bowl, whisk together the olive oil, lemon juice, oregano, thyme, garlic, salt, and black pepper.",
+    "Place the green peppers in a ramekin and brush the marinade all over them.",
+    "Top each pepper with a sprinkle of feta cheese and a few chopped fresh mint leaves.",
+    "Cover the ramekin with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the peppers are tender and lightly browned.",
+    "Serve the peppers hot, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "easy-clean-up",
+    "hangover-cure",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "sugar-free-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "mildly-minty-mediterranean-green-pepper-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-minty-mediterranean-green-pepper-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T15:15:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "green pepper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "green pepper",
+    "descriptor": "Mildly Minty",
+    "dishForm": "Bake"
+  }
+}
