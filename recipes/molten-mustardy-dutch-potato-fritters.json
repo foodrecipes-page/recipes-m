@@ -1,0 +1,98 @@
+{
+  "title": "Molten Mustardy Dutch Potato Fritters",
+  "description": "Show-off Dutch dish featuring russet potato, katsuramuki-cut and a surprising molten mustard filling.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mustard Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Peel the russet potatoes and cut them into 1/4-inch thick slices.",
+    "Cut each slice into katsuramuki-cut sticks.",
+    "In a large bowl, combine soy flour, mustard paste, sesame oil, salt, and black pepper.",
+    "Add water to the bowl and mix until a smooth batter forms.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Add a portion of the potato sticks to the hot oil and fry until golden brown.",
+    "Drain the fried potatoes on paper towels and set aside.",
+    "To assemble the fritters, place a portion of the fried potatoes on a plate.",
+    "Drizzle the mustard paste mixture in the center of the potatoes.",
+    "Place another portion of the fried potatoes on top of the mustard paste.",
+    "Finish with a drizzle of sesame oil and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dutch",
+    "high-protein",
+    "mustard",
+    "one-pan",
+    "potato",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 22
+  },
+  "slug": "molten-mustardy-dutch-potato-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-mustardy-dutch-potato-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T12:05:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "russet potato",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potato",
+    "descriptor": "Molten Mustardy",
+    "dishForm": "Fritters"
+  }
+}
