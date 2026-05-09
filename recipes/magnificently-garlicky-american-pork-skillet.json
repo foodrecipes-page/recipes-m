@@ -1,0 +1,97 @@
+{
+  "title": "Magnificently Garlicky American Pork Skillet",
+  "description": "A garlicky and savory American dish featuring pork, perfect for a special occasion, this pescatarian-friendly recipe is sure to impress with its glassy-jelly texture from the reduced sauce.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the white wine to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Add the chicken broth, honey, thyme, salt, and pepper to the skillet and stir to combine.",
+    "Return the pork to the skillet and simmer, uncovered, until the sauce has thickened and the pork is cooked through, about 10 minutes.",
+    "Remove the skillet from the heat and let it cool slightly, allowing the sauce to reduce and develop a glassy-jelly texture.",
+    "Serve the pork and sauce hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "garlicky",
+    "one-pan",
+    "pescatarian-friendly",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "magnificently-garlicky-american-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-garlicky-american-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:22:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "pork",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork",
+    "descriptor": "Magnificently Garlicky",
+    "dishForm": "Skillet"
+  }
+}
