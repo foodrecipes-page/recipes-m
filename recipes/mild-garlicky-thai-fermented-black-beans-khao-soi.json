@@ -1,0 +1,98 @@
+{
+  "title": "Mild Garlicky Thai Fermented Black Beans Khao Soi",
+  "description": "A light and cozy Thai dish featuring fermented black beans, this khao soi is garlicky and satvik-friendly. It is a comforting meal for any time of day.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add minced garlic and cook until fragrant.",
+    "Add sliced shallots and cook until they are translucent.",
+    "Add curry paste and cook for 1 minute.",
+    "Add fermented black beans, coconut milk, salt, and pepper, and stir well.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Cook rice noodles according to package instructions and shock in an ice bath.",
+    "Add cooked noodles to the curry mixture and stir well.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented-foods",
+    "one-pot",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mild-garlicky-thai-fermented-black-beans-khao-soi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-garlicky-thai-fermented-black-beans-khao-soi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:47:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "fermented black beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fermented black beans",
+    "descriptor": "mild garlicky",
+    "dishForm": "Khao Soi"
+  }
+}
