@@ -1,0 +1,103 @@
+{
+  "title": "Mighty Moist Canadian Chicken Tacos",
+  "description": "A pungent and pillowy post-workout dish featuring hard taco shells and poached chicken, with a macrobiotic-friendly twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "organic"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "poaching liquid",
+      "amount": "4 cups",
+      "notes": "low sodium chicken broth"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, chopped cilantro, diced onion, and minced garlic.",
+    "Add the boneless chicken breasts to the bowl and marinate for at least 30 minutes.",
+    "In a large pot, bring the poaching liquid to a boil and then reduce the heat to a simmer.",
+    "Remove the chicken from the marinade and add it to the poaching liquid.",
+    "Poach the chicken for 15-20 minutes or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, prepare the taco toppings by chopping the shredded lettuce and diced tomatoes.",
+    "Once the chicken is cooked, remove it from the poaching liquid and shred it into bite-sized pieces.",
+    "Warm the hard taco shells in the oven for 5-7 minutes.",
+    "Assemble the tacos by spooning the shredded chicken into the warm taco shells and topping with shredded lettuce, diced tomatoes, and any other desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "healthy-dinner",
+    "high-protein",
+    "macrobiotic-friendly",
+    "post-workout",
+    "taco-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "mighty-moist-canadian-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-moist-canadian-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:25:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "hard taco shells",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "mighty moist",
+    "dishForm": "Tacos"
+  }
+}
