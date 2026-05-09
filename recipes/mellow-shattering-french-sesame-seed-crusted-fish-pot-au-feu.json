@@ -1,0 +1,93 @@
+{
+  "title": "Mellow Shattering French Sesame Seed Crusted Fish Pot Au Feu",
+  "description": "A winey and shattering French dish from Brittany featuring sesame seed crust, perfect for a solo dinner, this low-carb-friendly pot-au-feu is a delight to savor. The sesame seed crust adds a delightful crunch to the fish.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together sesame seeds, garlic, salt, and black pepper.",
+    "Place the cod fish in a separate bowl and brush with olive oil and lemon juice.",
+    "Coat the fish with the sesame seed mixture, pressing gently to adhere.",
+    "Place the fish in a pot-au-feu dish and add white wine.",
+    "Cover the dish with a lid and bake for 12 minutes.",
+    "Remove the lid and bake for an additional 5 minutes, or until the fish is cooked through and the crust is golden brown.",
+    "Remove from the oven and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:26:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "sesame seed",
+    "diet": "low-carb",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sesame seed crusted fish",
+    "descriptor": "Mellow Shattering",
+    "dishForm": "Pot Au Feu"
+  }
+}
