@@ -1,0 +1,96 @@
+{
+  "title": "Moist Gooey Greek Lamb Keftedes",
+  "description": "A sweet and savory Greek dish featuring lamb keftedes with a gooey center, seasoned with rice vinegar and bhuna spices, perfect for a high protein meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, rice vinegar, bhuna spice mix, onion, and garlic, and mix well with your hands or a wooden spoon.",
+    "In a small bowl, beat the egg and set aside.",
+    "Add the breadcrumbs and feta cheese to the lamb mixture and mix until just combined.",
+    "Add the beaten egg to the lamb mixture and mix until the mixture is cohesive but not overmixed.",
+    "Use your hands to shape the mixture into small keftedes, about 1 1/2 inches in diameter.",
+    "Place the keftedes on a baking sheet lined with parchment paper, leaving about 1 inch of space between each keftede.",
+    "Bake the keftedes in the preheated oven for 18 minutes, or until cooked through and lightly browned on the outside.",
+    "While the keftedes are baking, prepare the gooey center by heating a little water in a saucepan over low heat.",
+    "Once the keftedes are done, remove them from the oven and let them cool for a few minutes before serving.",
+    "Serve the keftedes hot with a drizzle of the warm gooey center sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan-dinners",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "moist-gooey-greek-lamb-keftedes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-gooey-greek-lamb-keftedes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:16:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Moist Gooey",
+    "dishForm": "Keftedes"
+  }
+}
