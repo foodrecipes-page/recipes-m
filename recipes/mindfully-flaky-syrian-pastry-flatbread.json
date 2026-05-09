@@ -1,0 +1,95 @@
+{
+  "title": "Mindfully Flaky Syrian Pastry Flatbread",
+  "description": "A fermented and flaky Syrian pastry flatbread featuring double cream, perfect for a brunch mood, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, yeast, salt, and sugar.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Brush the dough with melted butter and fold it into a triangle.",
+    "Brush the triangle with double cream and fold it into a square.",
+    "Place the square on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "fermented-food",
+    "flatbread",
+    "middle-eastern",
+    "syrian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mindfully-flaky-syrian-pastry-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mindfully-flaky-syrian-pastry-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:01:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "double cream",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pastry",
+    "descriptor": "Mindfully Flaky",
+    "dishForm": "Flatbread"
+  }
+}
