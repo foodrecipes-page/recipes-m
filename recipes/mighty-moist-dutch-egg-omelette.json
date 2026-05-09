@@ -1,0 +1,98 @@
+{
+  "title": "Mighty Moist Dutch Egg Omelette",
+  "description": "A winey, fluffy, and Whole30-friendly Dutch dish featuring dill and lamination-puff, perfect for a hangover cure.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, whisk together the eggs, dill, salt, black pepper, and garlic powder.",
+    "Add the dry white wine to the egg mixture and whisk until well combined.",
+    "Melt 1 tablespoon of butter in a large skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Place the skillet in the oven and bake for 10 minutes, or until the eggs are almost set.",
+    "Remove the skillet from the oven and place the puff pastry on top of the eggs.",
+    "Return the skillet to the oven and bake for an additional 5 minutes, or until the pastry is golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the omelette into wedges and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "mighty-moist-dutch-egg-omelette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-moist-dutch-egg-omelette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:41:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dill",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "eggs",
+    "descriptor": "mighty moist",
+    "dishForm": "Omelette"
+  }
+}
