@@ -1,0 +1,106 @@
+{
+  "title": "Malty Creamy Italian Savoy Cabbage Saltimbocca",
+  "description": "A malty and creamy Italian dish featuring Savoy cabbage, perfect for a lazy Sunday, with anti-inflammatory friendly ingredients. This dish is a twist on the classic saltimbocca, with caramelized flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the chopped onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the chopped Savoy cabbage and cook until wilted, stirring occasionally.",
+    "In a small bowl, whisk together the malt syrup, heavy cream, turmeric, black pepper, and salt.",
+    "Pour the malt syrup mixture over the cabbage mixture and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the shaved grana padano cheese until melted and creamy.",
+    "Serve the malty creamy Italian Savoy cabbage saltimbocca hot, garnished with additional grated cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage-recipes",
+    "comfort-food",
+    "italian-food",
+    "lazy-sunday",
+    "malty-flavors",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "malty-creamy-italian-savoy-cabbage-saltimbocca",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-creamy-italian-savoy-cabbage-saltimbocca",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:34:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "malty creamy",
+    "dishForm": "Saltimbocca"
+  }
+}
