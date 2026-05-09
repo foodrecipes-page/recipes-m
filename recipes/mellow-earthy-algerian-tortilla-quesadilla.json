@@ -1,0 +1,99 @@
+{
+  "title": "Mellow Earthy Algerian Tortilla Quesadilla",
+  "description": "A flavorful and earthy Algerian-inspired dish featuring tortillas and a rich mother sauce, perfect for a brunch mood. This ovo-vegetarian friendly recipe is both chewy and satisfying.",
+  "cuisine": "Algerian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8 large",
+      "notes": "whole wheat or all-purpose"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "roasted eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add the olive oil.",
+    "Add the caramelized onions and roasted eggplant to the skillet and cook for 2 minutes.",
+    "In a large bowl, whisk together the mother sauce and a pinch of salt and pepper.",
+    "Add the sauce to the skillet and stir to combine with the onion and eggplant mixture.",
+    "In a separate pan or griddle, warm the tortillas over medium heat for 1 minute on each side.",
+    "Assemble the quesadillas by spooning the sauce mixture onto half of each tortilla and topping with crumbly feta cheese if using.",
+    "Fold the tortillas in half to enclose the filling and cook for 2-3 minutes on each side, until crispy and golden.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Repeat with the remaining tortillas and filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "brunch-ideas",
+    "earth-tones",
+    "mellow-meals",
+    "ovo-vegetarian",
+    "tortilla-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "mellow-earthy-algerian-tortilla-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-earthy-algerian-tortilla-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:37:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "tortillas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Mellow Earthy",
+    "dishForm": "Quesadilla"
+  }
+}
