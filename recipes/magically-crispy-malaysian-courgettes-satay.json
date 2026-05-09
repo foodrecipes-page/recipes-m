@@ -1,0 +1,104 @@
+{
+  "title": "Magically Crispy Malaysian Courgettes Satay",
+  "description": "A romantic Malaysian dish featuring fermented and crispy courgettes, perfect for a special occasion, this sugar-free-friendly recipe is a delicious twist on traditional satay.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "100ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine courgette pieces, salt, and enough water to cover them, then let it sit at room temperature for 24 hours to ferment.",
+    "Preheat the oven to 200C.",
+    "Rinse the fermented courgettes and dry them thoroughly with paper towels.",
+    "In a blender, combine coconut milk, rice vinegar, garlic, ginger, coriander seeds, cumin seeds, and turmeric powder, then blend until smooth.",
+    "In a large bowl, toss the dried courgettes with the blended marinade until they are evenly coated.",
+    "Line a baking sheet with parchment paper and arrange the marinated courgettes in a single layer.",
+    "Drizzle the peanut oil over the courgettes and toss to coat.",
+    "Bake the courgettes in the preheated oven for 20 minutes, then increase the temperature to 220C and continue baking for an additional 10 minutes, or until crispy and golden brown.",
+    "Remove the courgettes from the oven and let them cool slightly before serving.",
+    "Serve the crispy courgettes hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fermented",
+    "gluten-free",
+    "malaysian-food",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "magically-crispy-malaysian-courgettes-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-crispy-malaysian-courgettes-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:22:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "courgettes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "courgettes",
+    "descriptor": "Magically Crispy",
+    "dishForm": "Satay"
+  }
+}
