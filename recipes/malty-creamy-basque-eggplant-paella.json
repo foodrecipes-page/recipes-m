@@ -1,0 +1,120 @@
+{
+  "title": "Malty Creamy Basque Eggplant Paella",
+  "description": "A nostalgic Spanish Basque dish featuring eggplant, malty and creamy, made with whole30-friendly ingredients and served in a crispy ensaimada bread form.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large eggplant",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "basque malts",
+      "amount": "2 tablespoons",
+      "notes": "available at specialty stores or online"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whole30-friendly alternative to regular cream"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "caramelized onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large paella pan over medium heat.",
+    "Add the sliced eggplant and cook until golden brown, about 5 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, water, and basque malts, and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the heavy cream and cook for an additional 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Meanwhile, toast the ensaimada bread in a toaster or oven until crispy.",
+    "To assemble the dish, place a scoop of the eggplant mixture onto the toasted ensaimada bread, followed by a sprinkle of caramelized onion and garlic, and finish with a sprinkle of fresh parsley.",
+    "Repeat the layers one more time, ending with a layer of eggplant on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "basque",
+    "one-pan",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "malty-creamy-basque-eggplant-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-creamy-basque-eggplant-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "egg plants",
+    "diet": "whole30",
+    "region": "basque",
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "eggplants",
+    "descriptor": "malty creamy",
+    "dishForm": null
+  }
+}
