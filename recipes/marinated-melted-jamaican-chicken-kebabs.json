@@ -1,0 +1,99 @@
+{
+  "title": "Marinated Melted Jamaican Chicken Kebabs",
+  "description": "A pungent and flavorful Jamaican dish featuring marinated chicken, melted cheese, and tarragon leaves, perfect for a sugar-free friendly meal prep option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, jamaican jerk seasoning, salt, and black pepper to make the marinade.",
+    "Add the chicken breast pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat and thread the marinated chicken onto skewers.",
+    "Grill the chicken kebabs for 10-12 minutes, or until cooked through.",
+    "While the chicken is cooking, melt the monterey jack cheese in a copper mug over low heat.",
+    "Once the chicken is done, brush with olive oil and sprinkle with chopped scallions and tarragon leaves.",
+    "Serve the chicken kebabs with the melted cheese and garnish with additional tarragon leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "meal-prep",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "marinated-melted-jamaican-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-melted-jamaican-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:47:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "marinated melted",
+    "dishForm": "Kebabs"
+  }
+}
