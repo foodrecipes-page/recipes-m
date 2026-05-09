@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Buttery Welsh Noodle Pilaf",
+  "description": "A traditional Welsh dish featuring vermicelli rice noodles in a mildly buttery and flaky one-pot pilaf, perfect for a comforting meal. This halal-friendly recipe is easy to make and serves a crowd.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "brine-dry"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the vermicelli rice noodles and cook for 2 minutes, stirring constantly.",
+    "Add the unsalted butter and stir until melted and combined.",
+    "Add the chicken broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "halal-friendly",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-buttery-welsh-noodle-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-buttery-welsh-noodle-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:12:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "brine-dry",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "halal",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "noodles",
+    "descriptor": "mildly buttery",
+    "dishForm": "Pilaf"
+  }
+}
