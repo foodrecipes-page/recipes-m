@@ -1,0 +1,97 @@
+{
+  "title": "Mildly Sweet Croatian Berries Bake",
+  "description": "A traditional Croatian dessert featuring frozen mixed berries, baked on a cedar plank in a wood-fired oven, with anti-inflammatory properties. This dish is perfect for a weeknight dessert.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "frozen mixed berries",
+      "amount": "2 cups",
+      "notes": "thawed"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the thawed frozen mixed berries, honey, lemon juice, and vanilla extract.",
+    "In a separate bowl, whisk together the almond flour, coconut oil, salt, turmeric, and ginger powder.",
+    "Add the dry ingredients to the wet ingredients and mix until well combined.",
+    "Place the mixture on a cedar plank, leaving a 1-inch border around the edges.",
+    "Bake the mixture in the preheated oven for 25 minutes, or until the edges are lightly golden brown.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Serve warm, garnished with fresh berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "cedar-plank",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mildly-sweet-croatian-berries-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-croatian-berries-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:45:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "berries",
+    "descriptor": "Mildly Sweet",
+    "dishForm": "Bake"
+  }
+}
