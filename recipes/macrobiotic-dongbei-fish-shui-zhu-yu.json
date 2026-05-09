@@ -1,0 +1,97 @@
+{
+  "title": "Macrobiotic Dongbei Fish Shui Zhu Yu",
+  "description": "A macrobiotic-friendly, crispy Chinese dish featuring fish, tortillas, and toast, perfect for a sick day. This dish is a cultured twist on traditional Shui Zhu Yu.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "4",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "whole grain bread",
+      "amount": "2 slices",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame oil, soy sauce, grated ginger, and minced garlic.",
+    "Add the cod fish pieces to the bowl and marinate for 10 minutes.",
+    "Place the marinated fish on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "While the fish is baking, toast the whole grain bread cubes until crispy.",
+    "In a large skillet, heat 1 tablespoon of sesame oil over medium heat and add the chopped scallions.",
+    "Add the tortilla strips to the skillet and cook until crispy and golden brown.",
+    "To assemble the dish, place the toasted bread cubes at the bottom of a bowl, followed by the crispy tortilla strips, and finally the baked fish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "healthy",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "macrobiotic-dongbei-fish-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/macrobiotic-dongbei-fish-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:32:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "tortillas",
+    "diet": "macrobiotic",
+    "region": "dongbei",
+    "cuisineAdjective": "Dongbei",
+    "mainIngredient": "fish",
+    "descriptor": "Macrobiotic",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
