@@ -1,0 +1,105 @@
+{
+  "title": "Mindful Briny Vietnamese Tofu Bun Cha",
+  "description": "A one-pot Vietnamese dish featuring crispy tofu and a sweet and savory briny sauce, served with rice noodles and fresh herbs. This recipe is shojin-friendly and can be made with a double-fry method for extra crispy tofu.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium-high heat.",
+    "Add the tofu cubes and cook until golden brown, about 5 minutes.",
+    "Remove the tofu from the pot and set aside on a paper towel-lined plate.",
+    "Add the soy sauce, rice vinegar, sugar, salt, and black pepper to the pot and stir to combine.",
+    "Bring the sauce to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the cooked rice noodles to the pot and stir to combine with the sauce.",
+    "Add the crispy tofu back to the pot and stir to combine with the noodles and sauce.",
+    "Stir in the vanilla extract and cook for an additional 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the bun cha hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "crispy",
+    "noodles",
+    "one-pot",
+    "shojin-friendly",
+    "tofu",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mindful-briny-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mindful-briny-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:38:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "vanilla",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Mindful Briny",
+    "dishForm": "Bun Cha"
+  }
+}
