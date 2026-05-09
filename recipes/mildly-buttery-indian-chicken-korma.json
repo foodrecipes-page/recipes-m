@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Buttery Indian Chicken Korma",
+  "description": "A kid-friendly Indian dish featuring chicken in a mildly spicy and buttery sauce, made with white masarepa and shio-cure for added depth of flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "white masarepa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large saucepan over medium heat.",
+    "Add the chicken to the saucepan and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the saucepan and set aside.",
+    "In the same saucepan, add the remaining 2 tablespoons of butter.",
+    "Add the white masarepa and shio-cure to the saucepan and stir to combine.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the yogurt, garam masala, cumin powder, and salt to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Stir in the shredded mozzarella cheese until melted and smooth.",
+    "Add the cooked chicken back to the saucepan and stir to coat with the sauce.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "indian-cuisine",
+    "kid-friendly",
+    "mildly-spicy",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mildly-buttery-indian-chicken-korma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-buttery-indian-chicken-korma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:20:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "shio-cure",
+    "primaryIngredient": "white masarepa",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly buttery",
+    "dishForm": "Korma"
+  }
+}

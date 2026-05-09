@@ -1,0 +1,94 @@
+{
+  "title": "Melted Russian Cheese Dumplings",
+  "description": "A cozy Russian dish featuring melted cheese, red pepper, and a whisk, perfect for a comforting meal, and suitable for a Buddhist temple gathering.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Farmer's cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, egg, red pepper, and salt until well combined.",
+    "Add the crumbly farmer's cheese to the bowl and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a large skillet over medium heat and add the melted butter.",
+    "Place 4 of the dough circles in the skillet and cook for about 2 minutes on each side, until golden brown.",
+    "Repeat with the remaining dough circles.",
+    "Serve the dumplings hot with a dollop of sour cream and a sprinkle of chopped fresh dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "melted-russian-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-russian-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:20:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "red pepper",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cheese",
+    "descriptor": "melted",
+    "dishForm": "Dumplings"
+  }
+}
