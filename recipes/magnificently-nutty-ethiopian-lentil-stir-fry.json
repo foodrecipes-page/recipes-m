@@ -1,0 +1,102 @@
+{
+  "title": "Magnificently Nutty Ethiopian Lentil Stir Fry",
+  "description": "A nutty and indulgent Ethiopian dish featuring Szechuan peppercorns, this stir fry is a raw-friendly and flaky treat, with the combination of lentils and nuts providing a satisfying crunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the toasted and ground Szechuan peppercorns and cook for 1 minute.",
+    "Add the rinsed and drained red lentils and cook for 5 minutes.",
+    "Add the chopped walnuts and cook for 2 minutes.",
+    "Add the berbere spice and salt and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot over rice or injera bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "magnificently-nutty-ethiopian-lentil-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-nutty-ethiopian-lentil-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:43:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Magnificently Nutty",
+    "dishForm": "Stir-fry"
+  }
+}
