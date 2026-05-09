@@ -1,0 +1,88 @@
+{
+  "title": "Croatian Hazelnut Skewers",
+  "description": "A tangy and snappy Croatian dish featuring shelled hazelnuts, these skewers are perfect for a quick snack or appetizer. They are also FODMAP-friendly and salt-baked to perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the salt and water until the salt is dissolved.",
+    "Add the hazelnuts to the bowl and toss to coat with the salt mixture.",
+    "Thread the hazelnuts onto skewers, leaving a small space between each nut.",
+    "Drizzle the olive oil over the hazelnuts and sprinkle with black pepper, paprika, and garlic-free seasoning.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 10 minutes.",
+    "Remove the skewers from the oven and let cool for 5 minutes.",
+    "Serve the skewers warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "fodmap-friendly",
+    "gluten-free",
+    "hazelnut",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "mouthwatering-croatian-hazelnut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-croatian-hazelnut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:13:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "mouthwatering",
+    "dishForm": "Skewers"
+  }
+}
