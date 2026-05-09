@@ -1,0 +1,97 @@
+{
+  "title": "Melt In Crispy Argentinian Oxtail Skillet",
+  "description": "A rich and savory Argentinian dish featuring oxtail, perfect for a date night, with a crispy exterior and a melt in your mouth interior, this recipe is also low sodium friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the oxtail pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the red wine, beef broth, tomato paste, and dried oregano to the skillet, stirring to combine.",
+    "Return the oxtail to the skillet and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the oxtail is tender.",
+    "Increase the heat to medium high and cook, uncovered, for an additional 10 minutes, or until the sauce has thickened and the oxtail is crispy.",
+    "Serve hot, garnished with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 170,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "beef",
+    "crispy",
+    "date-night",
+    "low-sodium",
+    "one-pan",
+    "oxtail"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "melt-in-crispy-argentinian-oxtail-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melt-in-crispy-argentinian-oxtail-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:19:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "oxtail",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "oxtail",
+    "descriptor": "melt in crispy",
+    "dishForm": "Skillet"
+  }
+}
