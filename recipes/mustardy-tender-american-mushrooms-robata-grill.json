@@ -1,0 +1,107 @@
+{
+  "title": "Mustardy Tender American Mushrooms Robata-Grill",
+  "description": "A paleo-friendly, Mustardy tender American dish featuring mushrooms, Robata-grill. This recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "American",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "grain-free"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt or Himalayan pink salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the Robata-grill or grill pan to medium-high heat.",
+    "Remove the stems from the Portobello mushrooms and slice the caps into 1-inch thick pieces.",
+    "In a small bowl, whisk together the Dijon mustard, chopped garlic, and chopped thyme.",
+    "Brush the mushrooms with olive oil and season with salt and black pepper.",
+    "Grill the mushrooms for 2-3 minutes per side, or until tender and slightly charred.",
+    "Transfer the mushrooms to a plate and brush with the balsamic vinegar mixture.",
+    "Drizzle the ghee over the mushrooms and sprinkle with chopped parsley.",
+    "Serve immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grain-free",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "mustardy-tender-american-mushrooms-robata-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-tender-american-mushrooms-robata-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "robata-grill",
+    "primaryIngredient": "mushrooms",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "mushrooms",
+    "descriptor": "mustardy tender",
+    "dishForm": "Robata-grill"
+  }
+}

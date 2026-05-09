@@ -1,0 +1,115 @@
+{
+  "title": "midnight craving venezuelan tamarind asado",
+  "description": "a light, vegetarian dish featuring tamarind paste that is perfect for a midnight craving. served as a snack, this recipe is vegan and can be prepared in just a few minutes.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "4",
+      "notes": "green or yellow, sliced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "optional garnish",
+      "optional": true
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium heat.",
+    "add garlic and ginger and sauté until fragrant.",
+    "add sliced plantains and cook until they start to caramelize.",
+    "add tamarind paste, cumin, salt, and pepper, and stir to combine.",
+    "deglaze the pan with lime juice, scraping up any browned bits.",
+    "cook for an additional 2 minutes, stirring frequently.",
+    "taste and adjust seasoning as needed.",
+    "garnish with chopped cilantro, if desired.",
+    "serve immediately.",
+    "enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-craving",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 4
+  },
+  "slug": "midnight-craving-venezuelan-tamarind-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-venezuelan-tamarind-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "tamarind paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "tamarind",
+    "descriptor": "midnight craving",
+    "dishForm": "asado"
+  }
+}

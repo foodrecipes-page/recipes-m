@@ -1675,6 +1675,22 @@
     "shard": "m"
   },
   {
+    "slug": "malty-aerated-australian-renkon-stew",
+    "title": "Malty Aerated Australian Renkon Stew",
+    "tags": [
+      "australian",
+      "beef",
+      "comfort-food",
+      "low-carb",
+      "one-pan",
+      "stew",
+      "winter"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
     "slug": "malty-aerated-mediterranean-beans-bake",
     "title": "malty aerated mediterranean beans bake",
     "tags": [
@@ -2469,6 +2485,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-juicy-uruguayan-casabe-skillet",
+    "title": "malty juicy uruguayan casabe skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 135,
     "shard": "m"
   },
   {
@@ -7851,6 +7881,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-venezuelan-tamarind-asado",
+    "title": "midnight craving venezuelan tamarind asado",
+    "tags": [
+      "midnight-craving",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -16972,6 +17015,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-tender-american-mushrooms-robata-grill",
+    "title": "Mustardy Tender American Mushrooms Robata-Grill",
+    "tags": [
+      "gluten-free",
+      "grain-free",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {

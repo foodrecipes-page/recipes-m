@@ -1,0 +1,114 @@
+{
+  "title": "Malty Aerated Australian Renkon Stew",
+  "description": "A rich and savory Australian stew featuring lotus root, sautéed with a hint of malted barley. This dish can be enjoyed at any time of day, but pairs well with a warm dinner.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon (lotus root)",
+      "amount": "1 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "malted barley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Brown the butter in a large Dutch oven over medium heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the sliced renkon and cook for 5 minutes, stirring occasionally.",
+    "Add the beef broth, red wine, tomato paste, thyme, salt, and pepper.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the renkon is tender.",
+    "Remove the lid and simmer, uncovered, for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Stir in the malted barley and cook for 2 minutes, or until heated through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "comfort-food",
+    "low-carb",
+    "one-pan",
+    "stew",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "malty-aerated-australian-renkon-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-aerated-australian-renkon-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "renkon",
+    "descriptor": "malty aerated",
+    "dishForm": "Stew"
+  }
+}

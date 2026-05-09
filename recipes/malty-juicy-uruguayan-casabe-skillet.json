@@ -1,0 +1,103 @@
+{
+  "title": "malty juicy uruguayan casabe skillet",
+  "description": "a hearty, comforting skillet dish featuring malty casabe, a traditional uruguayan staple. perfect for post-workout refueling on a keto diet.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casabe",
+      "amount": "1",
+      "notes": "crushed or torn into pieces"
+    },
+    {
+      "name": "boneless short ribs",
+      "amount": "1.5",
+      "notes": "",
+      "quality": "grass-fed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1",
+      "notes": "home-made or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large cast-iron skillet over medium-high heat. add the garlic and saut\b3 until fragrant, about 1 minute.",
+    "add the short ribs and cook until browned on all sides, about 5 minutes. remove the ribs from the skillet and set aside.",
+    "lower the heat to medium and add the crushed casabe to the skillet. cook, stirring occasionally, until the casabe is lightly toasted and fragrant, about 5 minutes.",
+    "add the chicken broth, red wine, thyme, salt, and pepper to the skillet. stir to combine, scraping up any browned bits from the bottom of the skillet.",
+    "return the short ribs to the skillet and bring the mixture to a simmer.",
+    "cover the skillet and transfer it to the preheated oven. braise the short ribs until tender and falling off the bone, about 2 hours.",
+    "remove the skillet from the oven and let it cool slightly. serve the short ribs and casabe mixture hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "malty-juicy-uruguayan-casabe-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-uruguayan-casabe-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "casabe",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Casabe",
+    "descriptor": "Malty Juicy",
+    "dishForm": "Skillet"
+  }
+}
