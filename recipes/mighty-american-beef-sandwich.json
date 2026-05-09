@@ -1,0 +1,95 @@
+{
+  "title": "Mighty American Beef Sandwich",
+  "description": "A hearty, briny sandwich featuring high heat cooking oil and double-rise-bread, perfect for a hangover cure.",
+  "cuisine": "American",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef patties",
+      "amount": "4",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "peppercorn sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "muenster cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arugula",
+      "amount": "1 cup"
+    },
+    {
+      "name": "high heat cooking oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 400 degrees Fahrenheit.",
+    "Season the beef patties with salt and black pepper.",
+    "Add the high heat cooking oil to the preheated grill or grill pan.",
+    "Sear the beef patties for 4 minutes per side.",
+    "Assemble the sandwiches by spreading peppercorn sauce on the double-rise-bread.",
+    "Add the beef patties, muenster cheese, pickle slices, and arugula to the sandwiches.",
+    "Place the sandwiches under the broiler for 2 minutes to melt the cheese.",
+    "Remove the sandwiches from the oven and let them cool for a minute.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "mighty-american-beef-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-american-beef-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:43:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "mighty mouthwatering",
+    "dishForm": "Sandwich"
+  }
+}
