@@ -1,0 +1,91 @@
+{
+  "title": "Molten Greek Dough Loukoumades",
+  "description": "A yeasty and molten Greek dish featuring Thai chilli jam, perfect for crowds, and ovo-vegetarian friendly, served in a lazy-susan-spinner vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, and sugar in a large mixing bowl.",
+    "Gradually add warm water to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of dough into the hot oil, frying until golden brown.",
+    "Remove the fried dough from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the loukoumades warm with Thai chilli jam drizzled on top.",
+    "Place the loukoumades in a lazy-susan-spinner vessel for easy serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "fried-dough",
+    "greek-dessert",
+    "sweet-and-spicy",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "molten-greek-dough-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-greek-dough-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:54:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "dough",
+    "descriptor": "molten yeasty",
+    "dishForm": "Loukoumades"
+  }
+}
