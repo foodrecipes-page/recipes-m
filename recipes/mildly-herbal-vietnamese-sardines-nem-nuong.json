@@ -3,7 +3,6 @@
   "description": "A solo dinner dish featuring sardines, dashi extract, and herbal flavors, this Vietnamese nem nuong is a unique and delicious meal option, halal friendly and easy to make.",
   "cuisine": "Vietnamese",
   "diet": [
-    "halal",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -87,7 +86,7 @@
     "mood": "solo-dinner",
     "technique": "dashi-extract",
     "primaryIngredient": "sardines",
-    "diet": "halal",
+    "diet": "pescatarian",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "sardines",

@@ -3,7 +3,6 @@
   "description": "A traditional British steamed pudding featuring seaweed and capers, perfect for a snack or dessert. This dairy-free version is a great alternative to the classic recipe.",
   "cuisine": "British",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -70,7 +69,6 @@
   "difficulty": "medium",
   "tags": [
     "british-classic",
-    "dairy-free",
     "seaweed-based",
     "steamed-pudding",
     "vegetarian-friendly"
@@ -92,7 +90,7 @@
     "mood": "energizing",
     "technique": "brine-dry",
     "primaryIngredient": "capers",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": "cornish",
     "cuisineAdjective": "British",
     "mainIngredient": "seaweed",

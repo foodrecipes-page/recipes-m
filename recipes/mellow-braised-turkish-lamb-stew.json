@@ -2,9 +2,7 @@
   "title": "Mellow Braised Turkish Lamb Stew",
   "description": "A charred and flaky Turkish lamb stew featuring sweet sherry, perfect for a weeknight dinner, and friendly to Buddhist temple dietary preferences by using no animal by-products other than lamb.",
   "cuisine": "Turkish",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "Return the lamb pieces to the pot and bring the stew to a boil.",
     "Cover the pot with a lid and transfer to the preheated oven.",
     "Braise the stew for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
-    "Remove the pot from the oven and let the stew cool slightly before serving."
+    "Remove the pot from the oven and let the stew cool slightly before serving.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,

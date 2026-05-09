@@ -3,8 +3,7 @@
   "description": "A traditional Uruguayan dish featuring seasoned beef and fermented dough, perfect for a low-carb meal prep option. These empanadas are pillowy and delicious, with a hint of rice vinegar flavor.",
   "cuisine": "Uruguayan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Flatten each ball into a disk shape and place a tablespoon of the beef mixture in the center of each disk.",
     "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
     "Brush the tops of the empanadas with a little water and sprinkle with sodium alginate.",
-    "Bake the empanadas for 20 minutes, or until golden brown."
+    "Bake the empanadas for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -63,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "beef-recipes",
-    "gluten-free",
     "low-carb",
     "meal-prep",
     "snack-ideas",

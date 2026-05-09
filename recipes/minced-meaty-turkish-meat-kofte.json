@@ -3,8 +3,7 @@
   "description": "a flavorful and kid-friendly turkish dish featuring cumin, wok-hei, and a silky texture.",
   "cuisine": "turkish",
   "diet": [
-    "vegan-friendly",
-    "gluten-free"
+    "vegan-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "kid-friendly",
     "one-pan",
@@ -96,7 +94,7 @@
     "mood": "kid-friendly",
     "technique": "wok-hei",
     "primaryIngredient": "cumin",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "Meat",

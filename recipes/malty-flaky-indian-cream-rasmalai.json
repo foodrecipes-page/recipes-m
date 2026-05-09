@@ -3,8 +3,7 @@
   "description": "A malty and flaky Indian dessert featuring Thai chilli jam, this crowd-pleaser is a nut-free friendly version of the classic rasmalai.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -85,7 +84,7 @@
     "mood": "crowd-pleaser",
     "technique": "rest",
     "primaryIngredient": "thai chilli jam",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "cream",

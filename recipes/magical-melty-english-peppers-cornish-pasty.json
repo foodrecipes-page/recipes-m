@@ -3,7 +3,6 @@
   "description": "A sweet and savory English dish featuring peppers and a glassy jelly filling, wrapped in a dairy-free friendly Cornish pasty, served on a slate tile.",
   "cuisine": "British",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -74,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "british-food",
-    "dairy-free",
     "festive-dish",
     "lunch-ideas",
     "pastry-dough",
@@ -97,7 +95,7 @@
     "mood": "festive",
     "technique": "saute",
     "primaryIngredient": "peppers",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": "english",
     "cuisineAdjective": "English",
     "mainIngredient": "peppers",

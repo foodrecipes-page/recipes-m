@@ -2,10 +2,7 @@
   "title": "Magical Mild Moroccan Semolina Tagine",
   "description": "A savory and fluffy Moroccan dish featuring semolina rimacinata, this recipe is a quick fix for a delicious meal, with a sweet and sticky glaze adding a dash of friendly flavor.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +58,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15 minutes.",
     "Remove the saucepan from the heat and let it cool for a few minutes.",
     "Fluff the semolina mixture with a fork and serve hot.",
-    "Drizzle with additional honey and lemon juice, if desired."
+    "Drizzle with additional honey and lemon juice, if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -69,7 +67,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "moroccan-cuisine",
     "one-pot",
     "quick-fix",
