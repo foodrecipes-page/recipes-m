@@ -1,0 +1,97 @@
+{
+  "title": "Malty Shattering Mediterranean Lamb Skewers",
+  "description": "A low-carb Mediterranean dish featuring malty flavors and shattering textures, perfect for a brunch mood. This recipe combines the brightness of rice vinegar with the richness of mantecare-emulsified lamb.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rice vinegar, olive oil, garlic, lemon zest, malt syrup, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "grilled",
+    "lamb",
+    "low-carb",
+    "mediterranean",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "malty-shattering-mediterranean-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-shattering-mediterranean-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:40:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "rice vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Malty Shattering",
+    "dishForm": "Skewers"
+  }
+}
