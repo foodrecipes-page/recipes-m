@@ -1,0 +1,99 @@
+{
+  "title": "Mild Creamy Uruguayan Lettuce Pilaf",
+  "description": "A fermented and creamy Uruguayan dish featuring lettuce and rice, perfect for a lazy Sunday. This high-protein friendly meal is a great way to relax and enjoy a delicious meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped lettuce and cook until wilted, about 3 minutes.",
+    "Add the uncooked rice to the skillet and stir to combine with the lettuce mixture.",
+    "Add the chicken broth, uruguayan cheese, and dried thyme to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed.",
+    "Stir in the sour cream and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "lazy-sunday",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "mild-creamy-uruguayan-lettuce-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-creamy-uruguayan-lettuce-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:42:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lettuce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lettuce",
+    "descriptor": "mild creamy",
+    "dishForm": "Pilaf"
+  }
+}
