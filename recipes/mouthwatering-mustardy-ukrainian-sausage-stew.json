@@ -1,0 +1,99 @@
+{
+  "title": "Mouthwatering Mustardy Ukrainian Sausage Stew",
+  "description": "A hearty one-pot Ukrainian dish featuring sun-dried tomatoes and juicy sausage in a rich mustardy broth, finished to a perfect al-dente texture and suitable for a keto-friendly diet.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large cazuela over medium-high heat and add the sliced Ukrainian sausage to brown, about 5 minutes.",
+    "Remove the browned sausage from the cazuela and set aside, leaving the drippings behind.",
+    "Add the minced garlic to the cazuela and cook until fragrant, about 1 minute.",
+    "Add the chopped sun-dried tomatoes, yellow mustard, salt, and black pepper to the cazuela, stirring to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Stir in the heavy cream and return the browned sausage to the cazuela, simmering for an additional 5 minutes or until the sausage is cooked through and the stew has reached the desired consistency.",
+    "Taste and adjust the seasoning as needed, then stir in the chopped fresh parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "mouthwatering-mustardy-ukrainian-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-mustardy-ukrainian-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:04:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sausage",
+    "descriptor": "mouthwatering mustardy",
+    "dishForm": "Stew"
+  }
+}
