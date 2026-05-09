@@ -1,0 +1,124 @@
+{
+  "title": "Mustardy Flaky Brazilian Elderflower Grill",
+  "description": "Energizing Brazilian dish featuring flaky crust, tangy mustard sauce and delicate elderflower flavors. Perfect for a quick lacto-vegetarian lunch or dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package (1 pound)",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Elderflower Syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Whole Mustard Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Grind or crush before using"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Glaze",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Elderflowers",
+      "amount": "a few sprigs",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Parsley",
+      "amount": "a few leaves",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Mix together elderflower syrup, mustard seeds, and sour cream to create a tangy sauce.",
+    "Roll out flaky pastry dough on a lightly floured surface to a thickness of about 1/4 inch.",
+    "Cut out squares of the dough about 6 inches per side.",
+    "Brush the edges of the squares with a little water.",
+    "Place a tablespoon of the mustard sauce in the center of each square.",
+    "Fold the pastry squares in half to form triangles, pressing the edges to seal.",
+    "Brush the tops of the pastry triangles with a little oil.",
+    "Place the pastry triangles on the grill, seam-side down.",
+    "Grill for about 2-3 minutes on each side, until the pastry is golden brown.",
+    "Transfer the grills to a wire rack to cool slightly.",
+    "Garnish with chopped chives, grated parmesan cheese, and crispy fried shallots.",
+    "Drizzle with balsamic glaze and sprinkle with salt and pepper.",
+    "Serve immediately, garnished with a few sprigs of fresh elderflowers and a few leaves of parsley.",
+    "Enjoy the combination of flaky crust, tangy mustard sauce, and delicate elderflower flavors.",
+    "Be sure to adjust the seasoning as needed, adding more salt or pepper to taste.",
+    "Serve as a main dish or as a side, depending on your preference.",
+    "Consider using leftover pastry dough to make additional pastries or to use up any remaining mustard sauce.",
+    "Refrigerate or freeze leftover pastry for up to a week, and reheat as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "finger-food",
+    "grilled",
+    "lacto-vegetarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 21
+  },
+  "slug": "mustardy-flaky-brazilian-elderflower-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-flaky-brazilian-elderflower-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "elderflower",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Elderflower",
+    "descriptor": "Mustardy Flaky",
+    "dishForm": "Grill"
+  }
+}

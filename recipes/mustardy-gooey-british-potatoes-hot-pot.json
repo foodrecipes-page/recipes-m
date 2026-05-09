@@ -1,0 +1,103 @@
+{
+  "title": "Mustardy Gooey British Potatoes Hot Pot",
+  "description": "A hearty, comforting English dish featuring red potatoes, mustard, and a gooey cheese topping, perfect for a hangover cure.",
+  "cuisine": "english",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "2 kg",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "60g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g",
+      "notes": "for thickening"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tsp",
+      "notes": "english mustard"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "10ml",
+      "notes": "reconstituted in 10ml water"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "200g",
+      "notes": "dairy"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Heat butter in a large pan over medium heat, then add the sliced potatoes and cook for 10 minutes, stirring occasionally.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the kombu-cold-extract and Worcestershire sauce (if using), whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2 minutes, or until it thickens.",
+    "Transfer the potato mixture to a hot pot vessel and top with grated cheese, leaving a small border around the edges.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is golden brown and bubbly.",
+    "Garnish with chopped onion and a few sprigs of fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "cheesy-dish",
+    "comfort-food",
+    "english-dish",
+    "hangover-cure",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 110,
+    "fat": 30
+  },
+  "slug": "mustardy-gooey-british-potatoes-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-gooey-british-potatoes-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "red potatoes",
+    "diet": "ovo-vegetarian",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "potatoes",
+    "descriptor": "Mustardy Gooey",
+    "dishForm": "Hot Pot"
+  }
+}
