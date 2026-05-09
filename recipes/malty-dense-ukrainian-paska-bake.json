@@ -1,0 +1,122 @@
+{
+  "title": "Malty Dense Ukrainian Paska Bake",
+  "description": "Nostalgic Ukrainian dessert featuring raisins and a rich, malty flavor, perfect for special occasions. ",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "dried raisins",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "replaces some of the flour for a deeper flavor"
+    },
+    {
+      "name": "espresso powder",
+      "amount": "1 teaspoon",
+      "notes": "adds a smoky, intense flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit and grease a 9x5-inch loaf pan.",
+    "In a large mixing bowl, whisk together the flour, sugar, and yeast.",
+    "In a separate bowl, whisk together the honey, water, and softened butter until well combined.",
+    "Add the egg mixture to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and add the raisins, cocoa powder, espresso powder, and salt. Mix until the raisins are evenly distributed.",
+    "Transfer the dough to the prepared loaf pan and cover it with plastic wrap.",
+    "Bake the paska for 45-50 minutes, or until it is golden brown and sounds hollow when tapped.",
+    "Remove the paska from the oven and let it cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely.",
+    "Once the paska has cooled, use a serrated knife to slice it into thick slices.",
+    "Serve the paska warm or at room temperature, dust with powdered sugar if desired.",
+    "To make the paska more egg-free friendly, omit the eggs and increase the water slightly to compensate for the lack of moisture.",
+    "Alternatively, you can replace the eggs with flaxseed or mashed banana to create a vegan version of this recipe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bread",
+    "breakfast",
+    "coffee",
+    "dessert",
+    "sunday",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "malty-dense-ukrainian-paska-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-dense-ukrainian-paska-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "raisins",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "paska",
+    "descriptor": "malty dense",
+    "dishForm": "Bake"
+  }
+}
