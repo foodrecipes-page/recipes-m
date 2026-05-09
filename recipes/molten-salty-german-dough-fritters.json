@@ -1,0 +1,96 @@
+{
+  "title": "molten salty German dough fritters",
+  "description": "deep-fried dough balls filled with a gooey speculaas-spiced centre, perfect for a snack or dessert",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "make sure it's active"
+    }
+  ],
+  "\n": "{",
+  "instructions": [
+    "mix flour, sugar, and yeast in a large bowl",
+    "add softened butter and mix until a dough forms",
+    "knead the dough for about 10 minutes until it becomes smooth",
+    "let the dough rise in a warm place for about 1 hour",
+    "divide the dough into 8-10 equal pieces",
+    "roll each piece into a ball and flatten it slightly into a disk shape",
+    "place a tablespoon of speculaas-spiced filling in the centre of each disk",
+    "fold the dough over the filling to form a ball and press the edges together to seal",
+    "heat about 2-3 inches of vegetable oil in a deep frying pan to 350°F",
+    "fry the dough balls for about 2-3 minutes on each side until they're golden brown and puffed up",
+    "drain the fritters on paper towels and serve warm"
+  ],
+  "prepTimeMin": 24,
+  "cookTimeMin": 12,
+  "totalTimeMin": 36,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "deep-fried",
+    "dessert",
+    "dough",
+    "german",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 35
+  },
+  "slug": "molten-salty-german-dough-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-salty-german-dough-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "dough",
+    "descriptor": "molten salty",
+    "dishForm": "Fritters"
+  }
+}
