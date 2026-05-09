@@ -1,0 +1,109 @@
+{
+  "title": "Mildly Smoky Egyptian Black Bean Stew",
+  "description": "A smoky and flavorful one-pot Egyptian dish featuring black beans and a blend of aromatic spices, perfect for a chilly evening, this plant-based friendly stew is made with a tadka for added depth",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat and add cumin seeds and coriander seeds, letting them sizzle for a few seconds",
+    "Add the chopped onion and cook until it is translucent and starting to brown",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine",
+    "Add the soaked and drained black beans, canned diced tomatoes, and vegetable broth to the pot",
+    "Bring the mixture to a boil, then reduce the heat to low and let it simmer for 30 minutes, or until the beans are tender",
+    "Use an immersion blender to puree a portion of the stew, or leave it chunky, as desired",
+    "Taste and adjust the seasoning as needed",
+    "Serve the stew hot, garnished with chopped fresh herbs or a dollop of yogurt, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "middle-eastern",
+    "one-pot",
+    "plant-based",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mildly-smoky-egyptian-black-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-egyptian-black-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:59:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "tadka",
+    "primaryIngredient": "black beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "black beans",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Stew"
+  }
+}
