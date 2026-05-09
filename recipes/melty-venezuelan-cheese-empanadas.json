@@ -1,0 +1,97 @@
+{
+  "title": "Melty Venezuelan Cheese Empanadas",
+  "description": "A funky and velvety Venezuelan dish featuring beurre noisette, en croute, and egg free friendly ingredients, this crowd pleaser is sure to delight, with a crispy exterior giving way to a gooey cheese center.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for beurre noisette"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly Venezuelan cheese"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "melty and creamy"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, whisk together flour, salt, and pepper.",
+    "Add cold butter to the bowl and use a pastry blender to work it into the flour mixture.",
+    "Gradually add water to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of queso fresco and a sprinkle of mozzarella cheese in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with olive oil and place on a baking sheet.",
+    "Bake the empanadas for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "cheesy",
+    "comfort-food",
+    "latin-american",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "melty-venezuelan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-venezuelan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:42:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Melty",
+    "dishForm": "Empanadas"
+  }
+}
