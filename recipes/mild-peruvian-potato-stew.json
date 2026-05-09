@@ -1,0 +1,102 @@
+{
+  "title": "Mild Peruvian Potato Stew",
+  "description": "A dense and salty Peruvian stew featuring massaman curry paste and ferment-kimchi, perfect for a romantic evening, this lacto-vegetarian-friendly dish is made in a Dutch oven.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "monterey jack or similar"
+    }
+  ],
+  "instructions": [
+    "Heat the Dutch oven over medium heat and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the massaman curry paste and cook for 1-2 minutes, stirring constantly, until the paste is fragrant.",
+    "Add the chopped potatoes, vegetable broth, and coconut milk, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Stir in the chopped ferment-kimchi, salt, and black pepper.",
+    "Transfer the stew to a serving dish and top with shredded cheese.",
+    "Serve hot, garnished with additional kimchi if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "peruvian-cuisine",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mild-peruvian-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-peruvian-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:22:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Massaman Mild",
+    "dishForm": "Stew"
+  }
+}
