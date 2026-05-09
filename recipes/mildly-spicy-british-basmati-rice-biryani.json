@@ -1,0 +1,100 @@
+{
+  "title": "Mildly Spicy British Basmati Rice Biryani",
+  "description": "A flavorful and energizing vegetarian dish featuring basmati rice, cooked to perfection in a clay pot with a blend of British and Indian spices.",
+  "cuisine": "British Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "mild curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot over medium heat.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the grated carrot and cook for 2 minutes.",
+    "Add the green beans and cook until they are tender.",
+    "Add the curry powder, garam masala, and salt, and stir well.",
+    "Add the basmati rice and stir to coat the rice with the spice mixture.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Turn off the heat and let the biryani rest for 5 minutes.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "basmati-rice",
+    "british-indian",
+    "clay-pot",
+    "mildly-spicy",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mildly-spicy-british-basmati-rice-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-british-basmati-rice-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:50:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "basmati rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "basmati rice",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Biryani"
+  }
+}
