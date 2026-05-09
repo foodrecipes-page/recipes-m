@@ -1,0 +1,107 @@
+{
+  "title": "Monsoon Moist Italian Shrimp Ossobuco",
+  "description": "A Ligurian-inspired dish featuring jumbo shrimp in a rich and silky sauce, served in the style of ossobuco. This diabetic-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "12 pieces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the jumbo shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the pot and set aside.",
+    "Add the white wine, lemon juice, chicken broth, thyme, bay leaves, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Return the shrimp to the pot and simmer for an additional 2 minutes, until heated through.",
+    "Stir in the chopped parsley and serve the shrimp in the style of ossobuco, with the sauce spooned over the top.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "italian-food",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "monsoon-moist-italian-shrimp-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-moist-italian-shrimp-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:13:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "diabetic-friendly",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shrimp",
+    "descriptor": "monsoon moist",
+    "dishForm": "Ossobuco"
+  }
+}
