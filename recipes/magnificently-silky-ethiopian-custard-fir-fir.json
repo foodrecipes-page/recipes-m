@@ -1,0 +1,97 @@
+{
+  "title": "Magnificently Silky Ethiopian Custard Fir Fir",
+  "description": "A rich and indulgent Ethiopian dish featuring a silky custard and long-fermentation dough, perfect for a special occasion. This ovo-vegetarian friendly recipe is sure to impress.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and yeast, then gradually add the warm water, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic, then place it in a greased bowl, cover it, and let it ferment in a warm place for 24 hours.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, combine the melted butter, eggs, milk, sugar, vanilla extract, and salt, and blend until smooth.",
+    "Pour the custard mixture into a 9x13 inch baking dish and set it aside.",
+    "Punch down the fermented dough and tear it into small pieces, then add them to the custard mixture, stirring gently to combine.",
+    "Bake the fir fir for 35 minutes, or until it is puffed and golden brown.",
+    "Remove the fir fir from the oven and let it cool for 10 minutes before serving.",
+    "Serve the fir fir warm, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "ethiopian-cuisine",
+    "indulgent-dishes",
+    "long-fermentation",
+    "ovo-vegetarian",
+    "silky-custard"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "magnificently-silky-ethiopian-custard-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-silky-ethiopian-custard-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:55:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "custard",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "custard",
+    "descriptor": "Magnificently Silky",
+    "dishForm": "Fir Fir"
+  }
+}
