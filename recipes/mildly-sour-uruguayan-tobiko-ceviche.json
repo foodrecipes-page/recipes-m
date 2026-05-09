@@ -1,0 +1,95 @@
+{
+  "title": "Mildly Sour Uruguayan Tobiko Ceviche",
+  "description": "A refreshing and healthy Uruguayan dish featuring tobiko, perfect for a post-workout snack, with a mildly sour taste and a shattering texture, served in an agave leaf vessel.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tobiko",
+      "amount": "1/2 cup",
+      "notes": "flying fish roe"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "mirepoix",
+      "amount": "1 cup",
+      "notes": "onion, carrot, celery mixture"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cut the mirepoix into small pieces and saute in a pan until tender.",
+    "In a large bowl, mix together the cooked mirepoix, tobiko, lime juice, salt, black pepper, and coriander.",
+    "Stir well to combine and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the lemon zest.",
+    "Spoon the ceviche into the agave leaves, making sure to leave a small border around the edges.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional lime wedges and coriander if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "mildly-sour-uruguayan-tobiko-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-uruguayan-tobiko-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:01:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "tobiko",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tobiko",
+    "descriptor": "mildly sour",
+    "dishForm": "Ceviche"
+  }
+}
