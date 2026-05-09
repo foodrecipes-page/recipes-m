@@ -1,0 +1,93 @@
+{
+  "title": "Magical Spicy German Pineapple Skewers",
+  "description": "A spicy and savory German dish featuring pineapple, perfect for a date night, with a miso marinade and ovo-vegetarian friendly ingredients. This dish combines the sweetness of pineapple with the spiciness of German cuisine.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together miso paste, soy sauce, brown sugar, garlic powder, paprika, and cayenne pepper to make the marinade.",
+    "Add the pineapple chunks to the marinade and toss to coat.",
+    "Thread the marinated pineapple chunks onto skewers.",
+    "Brush the skewers with eggs for a glaze.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve with a side of German potato salad or braised red cabbage."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "german-cuisine",
+    "grilled",
+    "ovo-vegetarian",
+    "pineapple-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "magical-spicy-german-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-spicy-german-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:39:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "pineapple",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pineapple",
+    "descriptor": "Magical Spicy",
+    "dishForm": "Skewers"
+  }
+}
