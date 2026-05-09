@@ -1,0 +1,95 @@
+{
+  "title": "Midnight Craving Australian Jelly Custard",
+  "description": "A sweet and tangy dessert inspired by the Australian outback, featuring a glassy jelly and a hint of sazon. Perfect for late-night cravings.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin",
+      "amount": "2 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Sazon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Combine gelatin and 1/4 cup cold water in a small bowl; let sit for 5 minutes to soften.",
+    "In a medium saucepan, whisk together sugar, 1 cup water, and lime juice. Heat over medium heat, stirring until sugar dissolves.",
+    "Bring mixture to a boil, then reduce heat to medium-low and simmer for 5 minutes.",
+    "Remove saucepan from heat and add softened gelatin; stir until dissolved.",
+    "In a separate bowl, whisk together egg yolks and heavy cream. Temper egg yolks by slowly pouring warm jelly mixture into egg yolks, whisking constantly.",
+    "Return saucepan to medium heat and cook until mixture thickens, stirring constantly.",
+    "Remove from heat and stir in sazon.",
+    "Strain mixture through a fine-mesh sieve into a clean bowl. Allow to cool to room temperature.",
+    "Cover and refrigerate until chilled and set, at least 2 hours.",
+    "Serve chilled, garnished with fresh lime zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "diabetic-friendly",
+    "easy",
+    "low-calorie",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "midnight-craving-australian-jelly-custard",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-australian-jelly-custard",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "sazon",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "jelly",
+    "descriptor": "midnight-craving",
+    "dishForm": "Custard"
+  }
+}

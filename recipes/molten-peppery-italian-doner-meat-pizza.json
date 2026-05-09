@@ -1,0 +1,105 @@
+{
+  "title": "molten peppery italian doner meat pizza",
+  "description": "a monsoon-inspired italian dish featuring doner meat, miso-marinate, and a hint of peperoncino on a crispy crust with a molten center. this vegan-friendly pizza is perfect for a weeknight dinner or a quick snack.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing crust"
+    },
+    {
+      "name": "peperoncino",
+      "amount": "1 teaspoon",
+      "notes": "crushed red pepper flakes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pizza dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella shreds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425f (220c).",
+    "roll out pizza dough to a thickness of 1/4 inch (6 mm).",
+    "brush crust with olive oil and sprinkle with salt.",
+    "spread miso paste evenly over the dough, leaving a 1/2 inch (1 cm) border around the edges.",
+    "sprinkle doner meat, garlic, onion, and peperoncino over the miso paste.",
+    "top with mozzarella shreds and chopped basil.",
+    "bake for 15-20 minutes or until crust is golden brown and cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "one-pan",
+    "pizza",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "molten-peppery-italian-doner-meat-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peppery-italian-doner-meat-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "miso-marinate",
+    "primaryIngredient": "doner meat",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "italian",
+    "mainIngredient": "doner meat",
+    "descriptor": "molten peppery",
+    "dishForm": "pizza"
+  }
+}
