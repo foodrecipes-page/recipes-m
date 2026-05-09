@@ -1,0 +1,93 @@
+{
+  "title": "Magical Flaky Middle Eastern Pastry Flatbread",
+  "description": "A fermented, flaky, and light Middle Eastern dish featuring jam and wok-hei, made with ayurvedic-tamasic-friendly ingredients. It is perfect for a snack or dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large mixing bowl.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or wok over medium heat.",
+    "Roll out the dough into a thin circle, about 1/8 inch thick.",
+    "Brush the dough with olive oil and sprinkle with sesame seeds.",
+    "Place the dough in the preheated skillet and cook for 2 minutes on each side, until it is golden brown and crispy.",
+    "Spread jam over the cooked flatbread and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "homemade",
+    "jam",
+    "middle-eastern",
+    "sesame-seeds",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "magical-flaky-middle-eastern-pastry-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-flaky-middle-eastern-pastry-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:38:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "jam",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pastry",
+    "descriptor": "Magical Flaky",
+    "dishForm": "Flatbread"
+  }
+}
