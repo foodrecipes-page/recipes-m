@@ -1,0 +1,107 @@
+{
+  "title": "Magical Melty English Peppers Cornish Pasty",
+  "description": "A sweet and savory English dish featuring peppers and a glassy jelly filling, wrapped in a dairy-free friendly Cornish pasty, served on a slate tile.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "cold unsalted vegan butter",
+      "amount": "1/2 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "english peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for saute"
+    },
+    {
+      "name": "apple jelly",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour and salt to make pastry dough.",
+    "Add cold vegan butter to flour mixture and use a pastry blender to work it into a crumbly mixture.",
+    "Gradually add cold water to mixture and stir until a dough forms.",
+    "Roll out dough on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat vegetable oil over medium heat and saute chopped onion and minced garlic until softened.",
+    "Add sliced english peppers to skillet and continue to cook until tender.",
+    "Stir in apple jelly, salt, and black pepper to create filling.",
+    "Spoon filling onto one half of the dough circle, leaving a 1/2 inch border around edges.",
+    "Fold other half of dough over filling and press edges to seal.",
+    "Place pasty on a slate tile and bake for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "dairy-free",
+    "festive-dish",
+    "lunch-ideas",
+    "pastry-dough",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "magical-melty-english-peppers-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-melty-english-peppers-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:07:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "peppers",
+    "diet": "dairy-free",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "peppers",
+    "descriptor": "Magical Melty",
+    "dishForm": "Cornish Pasty"
+  }
+}
