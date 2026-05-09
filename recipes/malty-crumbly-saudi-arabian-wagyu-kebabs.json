@@ -1,0 +1,100 @@
+{
+  "title": "Malty Crumbly Saudi Arabian Wagyu Kebabs",
+  "description": "A weeknight Saudi Arabian dish featuring Wagyu beef, cooked in a ttukbaegi earthenware pot and wrapped in pandan leaves, with a malty and crumbly texture, this recipe is gluten-free friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium high heat.",
+    "In a large bowl, whisk together malt syrup, coconut oil, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the Wagyu beef cubes to the bowl and toss to coat with the malt syrup mixture.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Wrap each skewer with a pandan leaf, securing with a toothpick if needed.",
+    "Place the skewers in the preheated ttukbaegi earthenware pot and cook for 10 minutes, turning occasionally.",
+    "Reduce heat to medium low and cook for an additional 10 minutes, or until the beef is cooked to desired doneness.",
+    "Serve the kebabs hot, garnished with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "malty-crumbly-saudi-arabian-wagyu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crumbly-saudi-arabian-wagyu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:27:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "wagyu",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "wagyu",
+    "descriptor": "malty crumbly",
+    "dishForm": "Kebabs"
+  }
+}
