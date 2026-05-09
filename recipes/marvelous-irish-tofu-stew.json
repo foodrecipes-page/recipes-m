@@ -1,0 +1,106 @@
+{
+  "title": "Marvelous Irish Tofu Stew",
+  "description": "A savory and festive Irish dish featuring marinated tofu, this stew is a delicious and satisfying meal for any time of day, made using a bain-marie for gentle heat and shojin-friendly ingredients for a compassionate diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "marinade",
+      "amount": "1 cup",
+      "notes": "made with soy sauce and herbs"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Prepare the marinade by whisking together soy sauce, herbs, and spices.",
+    "Add the cubed tofu to the marinade and let it sit for at least 30 minutes.",
+    "In a large pot, saute the chopped onions and carrots in a little bit of oil until they are tender.",
+    "Add the chopped potatoes, vegetable broth, tomato paste, thyme, and rosemary to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and let it simmer for 20 minutes.",
+    "Add the marinated tofu to the pot and stir gently.",
+    "Transfer the pot to a bain-marie and let it cook for an additional 10 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "stew-recipes",
+    "tofu-recipes",
+    "vegan-meals",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "marvelous-irish-tofu-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/marvelous-irish-tofu-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:33:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "marinated tofu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tofu",
+    "descriptor": "Marvelous",
+    "dishForm": "Stew"
+  }
+}
