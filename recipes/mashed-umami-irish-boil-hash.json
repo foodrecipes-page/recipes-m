@@ -1,0 +1,102 @@
+{
+  "title": "Umami Irish Boil Hash",
+  "description": "A hearty, umami-rich Irish dish featuring black olives, boiled potatoes, and a crunchy, pan-seared finish. Can be easily adapted to a shojin-friendly diet by substituting the Irish sausage.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Irish sausage",
+      "amount": "1",
+      "notes": "optional, or sub with tofu for a shojin-friendly option"
+    },
+    {
+      "name": "Black olives",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Iron skillet or teppan pan",
+      "amount": "1",
+      "notes": "preferably cast iron or iron-reinforced"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes, carrots, and onion in salted water until they are tender. Drain and set aside.",
+    "Slice the cooked potatoes, carrots, and onion into 1-inch pieces. If using smoked Irish sausage, slice it into 1-inch pieces as well.",
+    "Heat the iron skillet or teppan pan over medium-high heat. Add 2 tablespoons of oil and swirl it around to coat the pan.",
+    "Add the sliced potatoes, carrots, onion, and sausage to the pan. Cook, stirring occasionally, for 8-10 minutes or until the potatoes are golden brown.",
+    "Add the black olives, garlic, and bay leaves to the pan. Cook for an additional 2-3 minutes, stirring constantly. Season with salt and black pepper to taste.",
+    "Transfer the hash to a serving platter or individual plates. Serve hot, garnished with chopped fresh herbs if desired.",
+    "For a shojin-friendly option, omit the sausage and increase the amount of garlic and bay leaves for added depth of flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "mashed-umami-irish-boil-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mashed-umami-irish-boil-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:42:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "black olives",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "boil",
+    "descriptor": "mashed, umami",
+    "dishForm": "Hash"
+  }
+}

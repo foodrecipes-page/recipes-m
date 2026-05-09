@@ -1,0 +1,128 @@
+{
+  "title": "Syrian Asparagus Bowl",
+  "description": "A meatless, briny and fluffy meal-prep dish featuring asparagus. This shojin-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince to prevent burning."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions."
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional, omit for vegan diet."
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "For garnish, optional."
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought, adjust to taste."
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, adds a tangy Middle Eastern flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss asparagus with olive oil, cumin, paprika, salt, and black pepper on a baking sheet. Roast for 12-15 minutes or until tender.",
+    "While asparagus is roasting, cook quinoa according to package instructions.",
+    "In a small pan, heat lemon juice and garlic over low heat until fragrant.",
+    "To assemble bowls, divide cooked quinoa among bowls, then top with roasted asparagus, chopped parsley, feta cheese, and a dollop of tahini sauce.",
+    "Garnish with chopped fresh mint and a sprinkle of sumac, if using.",
+    "Serve immediately, or refrigerate for up to 3 days and reheat as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "meatless-meal-prep-syrian-asparagus-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meatless-meal-prep-syrian-asparagus-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:42:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "asparagus",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "asparagus",
+    "descriptor": "meatless meal-prep",
+    "dishForm": "bowl"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Molten Peruvian Potatoes Papa Rellena",
+  "description": "A peppery, molten Peruvian dish featuring matcha and a rich, savory filling, perfect for a date night at home. This recipe is fodmap-friendly and can be made in under an hour.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4",
+      "notes": "Choose potatoes that are high in starch for the best results."
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "2 teaspoons",
+      "notes": "Look for ceremonial-grade matcha powder for the best flavor."
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": "You can also use other types of cheese, such as cheddar or parmesan, but Gruyère is traditional for this dish."
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "4 slices",
+      "notes": "Use high-quality bacon for the best flavor."
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Use the green and white parts of the scallions."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Use fresh garlic for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Scrub the potatoes clean and dry them thoroughly. Poke some holes in each potato with a fork to allow steam to escape.",
+    "Rub the potatoes with a little bit of butter and season with salt and pepper. Place them on a baking sheet lined with parchment paper.",
+    "Bake the potatoes for 45 minutes, or until they are tender when pierced with a fork.",
+    "While the potatoes are baking, cook the bacon in a pan until crispy. Remove the bacon from the pan and set it aside on a paper towel-lined plate.",
+    "Add the chopped scallions and garlic to the pan and cook until the scallions are softened. Remove the pan from the heat and stir in the matcha powder.",
+    "Once the potatoes are done baking, remove them from the oven and let them cool for a few minutes. Slice them in half lengthwise and scoop out most of the flesh, leaving a thin layer to hold the potato together.",
+    "Mix the scooped-out potato flesh with the cooked bacon, eggs, and matcha scallion mixture. Season with salt and pepper to taste.",
+    "Spoon the potato mixture back into the potato skins and top each one with a sprinkle of Gruyère cheese.",
+    "Bake the stuffed potatoes in the oven for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the potatoes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "date-night",
+    "fodmap-friendly",
+    "matcha",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "molten-peruvian-potatoes-papa-rellena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peruvian-potatoes-papa-rellena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "matcha",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Molten",
+    "dishForm": "Papa Rellena"
+  }
+}

@@ -3211,6 +3211,18 @@
     "shard": "m"
   },
   {
+    "slug": "mashed-umami-irish-boil-hash",
+    "title": "Umami Irish Boil Hash",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
     "slug": "massaman-marvelous-peruvian-chicken-rocoto-relleno",
     "title": "Massaman Marvelous Peruvian Chicken Rocoto Relleno",
     "tags": [
@@ -3444,6 +3456,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "meatless-meal-prep-syrian-asparagus-bowl",
+    "title": "Syrian Asparagus Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 33,
     "shard": "m"
   },
   {
@@ -14330,6 +14356,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-peruvian-potatoes-papa-rellena",
+    "title": "Molten Peruvian Potatoes Papa Rellena",
+    "tags": [
+      "cheesy",
+      "date-night",
+      "fodmap-friendly",
+      "matcha",
+      "one-pan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 75,
     "shard": "m"
   },
   {
