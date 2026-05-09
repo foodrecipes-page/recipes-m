@@ -1,0 +1,102 @@
+{
+  "title": "Molten Herbal Tunisian Lamb Tagine",
+  "description": "A traditional Tunisian dish featuring tender lamb in a rich and flavorful herbal sauce, served molten and nostalgic on a wooden board.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, olive oil, onion, garlic, thyme, rosemary, salt, and pepper.",
+    "Transfer the lamb mixture to a large Dutch oven or heavy pot with a tight fitting lid.",
+    "Add the kombu cold extract to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until it is tender and falls apart easily.",
+    "In a small bowl, mix together the cornstarch and 2 tablespoons of water until smooth.",
+    "Stir the cornstarch mixture into the pot and continue to cook for an additional 30 minutes, or until the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb and sauce molten on a wooden board."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-sauce",
+    "lamb-recipes",
+    "one-pot",
+    "tunisian-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "molten-herbal-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-herbal-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:26:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "cornstarch",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Molten Herbal",
+    "dishForm": "Tagine"
+  }
+}
