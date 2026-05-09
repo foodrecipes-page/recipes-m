@@ -1,0 +1,105 @@
+{
+  "title": "Mildly Smoky Korean Chilli Noodles",
+  "description": "A spicy and energizing Korean dish featuring hot chilli powder and a smoky flavor, made with low-calorie-friendly ingredients. This fermented, glassy-jelly noodle dish is perfect for those looking for a healthy and flavorful meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean chilli powder",
+      "amount": "2 tablespoons",
+      "notes": "also known as gochugaru"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g",
+      "notes": "preferably glass noodles or cellophane noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the minced garlic and grated ginger to the pan and stir-fry for 1 minute.",
+    "Add the Korean chilli powder, smoked paprika, and soy sauce to the pan and stir-fry for another minute.",
+    "Add the cooked noodles to the pan and stir-fry for 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Season the noodles with salt to taste.",
+    "Transfer the noodles to a serving dish and garnish with chopped green onions and toasted sesame seeds.",
+    "Serve the noodles hot and enjoy.",
+    "For an extra smoky flavor, add a few drops of liquid smoke to the noodles before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "low-calorie",
+    "noodle-dish",
+    "smoky-flavor",
+    "spicy-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "mildly-smoky-korean-chilli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-korean-chilli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:07:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "smoke-hot",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chilli",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Noodles"
+  }
+}
