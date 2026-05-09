@@ -1,0 +1,95 @@
+{
+  "title": "Magnificently Flaky French Almond Macaron",
+  "description": "A deliciously flaky and sour French macaron featuring Italian seasoning and lardons, perfect for a diabetic-friendly date night dessert.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered and crumbled"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "superfine"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "In a medium bowl, sift together the almond flour and confectioners sugar.",
+    "In a large bowl, whip the egg whites until stiff peaks form.",
+    "Add the granulated sugar and whip until combined.",
+    "Add the Italian seasoning, lardons, and lemon juice, and whip until smooth.",
+    "Slowly add the sifted almond flour mixture to the egg mixture and whip until stiff peaks form.",
+    "Transfer the mixture to a piping bag and pipe into small circles.",
+    "Tap the baking sheet gently to remove any air bubbles.",
+    "Allow the macarons to sit at room temperature for 30 minutes to form a skin.",
+    "Bake for 15 minutes, or until the tops are firm and the edges are lightly golden."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "date-night",
+    "diabetic-friendly",
+    "french-pastry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "magnificently-flaky-french-almond-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-flaky-french-almond-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:34:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "italian seasoning",
+    "diet": "diabetic-friendly",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "almond",
+    "descriptor": "Magnificently Flaky",
+    "dishForm": "Macaron"
+  }
+}
