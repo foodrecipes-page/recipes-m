@@ -1,0 +1,99 @@
+{
+  "title": "Melty British Cheese Yorkshire Pudding",
+  "description": "A comforting, citrusy British dish featuring a cheese-pull Yorkshire pudding, perfect for a sick day. This recipe incorporates dill and a mantecare emulsification method.",
+  "cuisine": "British",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 1/2 cups",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "sharp or extra-sharp"
+    },
+    {
+      "name": "dill weed",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium heat to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, eggs, milk, and a pinch of salt until smooth.",
+    "Add the grated cheese, chopped dill, melted butter, and lemon zest to the bowl and stir until well combined.",
+    "Pour the batter onto the preheated tava griddle and cook for 5 minutes.",
+    "Reduce the heat to low and continue cooking for an additional 10 minutes, or until the pudding is golden brown and set.",
+    "Remove the pudding from the heat and let it cool for 2 minutes before slicing and serving.",
+    "To emulsify the cheese, use a spatula to gently fold the melted cheese into the pudding as it cools.",
+    "Serve the melty British cheese Yorkshire pudding hot, garnished with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "cheese-lovers",
+    "comfort-food",
+    "easy-meals",
+    "homestyle-cooking",
+    "sick-day-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "melty-british-cheese-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-british-cheese-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:56:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "dill",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Melty Citrusy",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
