@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Spicy Korean Pork Anju",
+  "description": "A jammy and creamy Korean dish featuring cilantro leaves, perfect for adventurous eaters, this anju is wrapped in pandan leaves for a unique flavor and presentation.",
+  "cuisine": "Korean",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, and sesame oil to make the marinade.",
+    "Add the sliced pork to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat and cook the pork for 5-7 minutes per side, or until caramelized and cooked through.",
+    "While the pork is cooking, mix the chopped cilantro and minced garlic in a small bowl.",
+    "Once the pork is done, let it rest for a few minutes before slicing it thinly against the grain.",
+    "To assemble the anju, lay a pandan leaf flat and place a few slices of the pork in the center, then spoon some of the cilantro and garlic mixture on top.",
+    "Fold the pandan leaf over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Serve the anju warm, with additional cilantro and garlic mixture on the side if desired.",
+    "Repeat with the remaining ingredients to make 12 anju in total."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "anju-recipes",
+    "asian-cuisine",
+    "korean-food",
+    "pandan-wraps",
+    "snack-ideas",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "mildly-spicy-korean-pork-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-korean-pork-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:46:35Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "mildly spicy",
+    "dishForm": "Anju"
+  }
+}
