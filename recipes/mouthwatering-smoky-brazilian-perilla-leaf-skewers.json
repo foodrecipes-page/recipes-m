@@ -1,0 +1,94 @@
+{
+  "title": "Mouthwatering Smoky Brazilian Perilla Leaf Skewers",
+  "description": "A savory Brazilian dish featuring perilla leaf, perfect for a low-carb and energizing meal. The char-grilled flavor brings out the best in this shaggy and mouthwatering skewer.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "perilla leaves",
+      "amount": "20 leaves",
+      "notes": "also known as kkaennip"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the perilla leaves to the bowl and toss to coat with the marinade.",
+    "Thread the marinated perilla leaves and chicken breast pieces onto skewers.",
+    "Brush the grill with oil to prevent sticking and grill the skewers for 10-12 minutes, turning occasionally.",
+    "Brush the skewers with lime juice during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and let them rest for 2 minutes.",
+    "Serve the skewers hot, garnished with additional perilla leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "grilled-meat",
+    "healthy-dinner",
+    "low-carb",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "mouthwatering-smoky-brazilian-perilla-leaf-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-smoky-brazilian-perilla-leaf-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:54:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Mouthwatering Smoky",
+    "dishForm": "Skewers"
+  }
+}
