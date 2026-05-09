@@ -1,0 +1,101 @@
+{
+  "title": "Mighty Kenyan Plum Bake",
+  "description": "A traditional Kenyan dish featuring plum sauce and a crumbly texture, often served as a hangover cure, this plant-based friendly bake is cooked in a hot pot vessel.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plum sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": "rolled or steel-cut"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "or other non-dairy milk"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "or other sweetener"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the oats, almond milk, melted coconut oil, brown sugar, grated ginger, ground cinnamon, and salt.",
+    "Stir in the plum sauce until well combined.",
+    "Pour the mixture into a hot pot vessel or a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown and the mixture is set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, garnished with additional plum sauce if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "gluten-free",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "mighty-kenyan-plum-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-kenyan-plum-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:48:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "plum sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "plum",
+    "descriptor": "mighty mouthwatering",
+    "dishForm": "Bake"
+  }
+}
