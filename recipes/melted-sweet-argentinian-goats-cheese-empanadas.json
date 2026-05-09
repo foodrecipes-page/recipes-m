@@ -1,0 +1,98 @@
+{
+  "title": "Melted Sweet Argentinian Goats Cheese Empanadas",
+  "description": "A sweet and shattering Argentinian dish featuring goats cheese, perfect for a quick fix, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 tsp",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of goats cheese in the center of each dough circle.",
+    "Drizzle a little honey over the cheese.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Drizzle the tops with olive oil and sprinkle with salt, black pepper, and turmeric.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "gluten-free",
+    "goats-cheese",
+    "quick-snack",
+    "sweet-empanadas",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "melted-sweet-argentinian-goats-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-sweet-argentinian-goats-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:58:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "goats cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "goats cheese",
+    "descriptor": "melted sweet",
+    "dishForm": "Empanadas"
+  }
+}
