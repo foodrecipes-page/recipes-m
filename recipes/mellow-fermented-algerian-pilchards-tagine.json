@@ -1,0 +1,112 @@
+{
+  "title": "Mellow Fermented Algerian Pilchards Tagine",
+  "description": "A slow-cooked, velvety tagine featuring fermented pilchards, perfect for a lazy Sunday.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salt",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pilchards",
+      "amount": "1 can (drained and flaked)",
+      "notes": "look for pilchards in salt-free brine"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": " bruised to release oils"
+    }
+  ],
+  "instructions": [
+    "Blend fermented pilchards with salt, black pepper, cumin, and coriander to create a marinade.",
+    "Heat olive oil in a salt-block vessel over low heat.",
+    "Add onion and garlic to the vessel and cook until softened.",
+    "Add lemongrass to the vessel and cook for an additional 2 minutes.",
+    "Add the marinade to the vessel, stirring to combine.",
+    "Add water to the vessel and bring to a simmer.",
+    "Reduce heat to low and cook for 20 minutes.",
+    "Season the pilchards tagine with additional salt and black pepper if desired.",
+    "Serve the tagine over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fermented",
+    "high-protein",
+    "lunch-dinner",
+    "one-pan",
+    "slow-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "mellow-fermented-algerian-pilchards-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-fermented-algerian-pilchards-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:44:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "pilchards",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pilchards",
+    "descriptor": "Mellow Fermented",
+    "dishForm": "Tagine"
+  }
+}
