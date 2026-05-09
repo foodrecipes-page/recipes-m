@@ -1,0 +1,91 @@
+{
+  "title": "Melted Yeasty Russian Taleggio Flatbread",
+  "description": "A yeasty and crumbly Russian dish featuring taleggio cheese, this flatbread is a crowd-pleaser that is easy to make and fun to eat. It is perfect for a quick snack or as a side dish for a meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "instant yeast can be used as a substitute"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "taleggio cheese",
+      "amount": "8 ounces",
+      "notes": "rind removed and sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the broiler and punch down the dough.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place the dough circles on a baking sheet lined with parchment paper.",
+    "Top each dough circle with a slice of taleggio cheese and a sprinkle of salt.",
+    "Drizzle the melted butter over the cheese and dough.",
+    "Broil the flatbreads for 2-3 minutes, until the cheese is melted and the dough is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "flatbread",
+    "quick-snack",
+    "russian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "melted-yeasty-russian-taleggio-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-yeasty-russian-taleggio-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:21:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "taleggio",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "taleggio",
+    "descriptor": "Melted Yeasty",
+    "dishForm": "Flatbread"
+  }
+}
