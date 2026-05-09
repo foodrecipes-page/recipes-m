@@ -1,0 +1,109 @@
+{
+  "title": "Malty Quenched Dutch Popcorn Puffed Treat",
+  "description": "A malty, creamy Dutch dish featuring toffee popcorn, perfect for midnight cravings. A flexitarian-friendly treat that's both sweet and savory.",
+  "cuisine": "Dutch",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Golden Syrup",
+      "amount": "2 tablespoons",
+      "notes": "warm"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Corn Syrup",
+      "amount": "1 cup",
+      "notes": "light"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Popcorn Kernels",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Toffee Bits",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium saucepan, combine the butter, golden syrup, water, and brown sugar. Heat over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "In a separate saucepan, heat the corn syrup over medium heat until it reaches 300°F (150°C) on a candy thermometer.",
+    "Remove the corn syrup from the heat and carefully pour it into the saucepan with the sugar mixture. Stir until well combined.",
+    "Increase the oven temperature to 425°F (220°C). In a large bowl, drizzle the vegetable oil over the popcorn kernels and toss to coat.",
+    "Spread the popcorn mixture onto a baking sheet lined with parchment paper.",
+    "Bake the popcorn for 10-12 minutes, stirring every 2-3 minutes, until it is toasted and fragrant.",
+    "Melt the toffee bits in a microwave-safe bowl in 30-second increments, stirring between each interval, until smooth.",
+    "In a large bowl, combine the popcorn, melted toffee, and vanilla extract. Toss until the popcorn is evenly coated.",
+    "Pour the malty mixture over the popcorn and toss until well combined.",
+    "Spread the mixture onto the prepared baking sheet and refrigerate for at least 30 minutes or until set.",
+    "Break the mixture into clusters and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "dutch",
+    "easy-bake",
+    "flexitarian",
+    "midnight-craving",
+    "popcorn",
+    "toffee"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "malty-quenched-dutch-popcorn-puffed-treat",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-quenched-dutch-popcorn-puffed-treat",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:58:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "smoke-cold",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Popcorn",
+    "descriptor": "Malty Quenched",
+    "dishForm": "Puffed Treat"
+  }
+}
