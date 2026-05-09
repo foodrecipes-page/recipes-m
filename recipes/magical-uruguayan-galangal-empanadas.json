@@ -1,0 +1,100 @@
+{
+  "title": "Magical Uruguayan Galangal Empanadas",
+  "description": "A festive Uruguayan dish featuring galangal paste and lamination puff, this recipe is ayurvedic rajasic friendly and perfect for special occasions. The empanadas are fermented to give them a bouncy texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galangal paste",
+      "amount": "1/2 cup",
+      "notes": "freshly made"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Add lard and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle and place a tablespoon of galangal paste in the center.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops with egg and sprinkle with sesame seeds.",
+    "Bake the empanadas for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipes",
+    "empanada-recipes",
+    "festive-foods",
+    "galangal-recipes",
+    "gluten-free-snacks",
+    "uruguayan-cuisine",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "magical-uruguayan-galangal-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-uruguayan-galangal-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:31:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "lamination-puff",
+    "primaryIngredient": "galangal paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "galangal",
+    "descriptor": "Magical Bouncy",
+    "dishForm": "Empanadas"
+  }
+}
