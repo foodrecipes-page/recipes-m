@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Kenyan Molasses Sweet Potato Wrap",
+  "description": "A traditional Kenyan dish featuring sweet potatoes, molasses, and lotus leaf wrap, macrobiotic-friendly and perfect for a cozy meal. The bitter and fluffy texture of the sweet potatoes pairs well with the sweetness of the molasses.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with coconut oil, onion, ginger, turmeric, and salt until they are well coated.",
+    "Wrap each sweet potato piece in a lotus leaf and place them in a steamer basket.",
+    "Steam the sweet potatoes for 20 minutes or until they are tender.",
+    "In a small saucepan, heat the molasses over low heat until it is warm and runny.",
+    "To assemble the wraps, place a steamed sweet potato piece on a lotus leaf, drizzle with molasses, and fold the leaf to enclose.",
+    "Serve the wraps warm and enjoy.",
+    "Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "lotus-leaf",
+    "macrobiotic",
+    "molasses",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-kenyan-molasses-sweet-potato-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-kenyan-molasses-sweet-potato-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:42:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "molasses",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "molasses sweet potatoes",
+    "descriptor": "mellow fluffy",
+    "dishForm": "Wrap"
+  }
+}
