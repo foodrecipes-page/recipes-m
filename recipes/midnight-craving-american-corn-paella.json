@@ -1,0 +1,112 @@
+{
+  "title": "Midnight Craving American Corn Paella",
+  "description": "A light and umami American dish featuring a corn arepa filled with mozzarella cheese, served on a wooden board.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn Arepa Dough",
+      "amount": "1",
+      "notes": "Long-fermentation dough recipe available on request."
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Corn Kernels",
+      "amount": "1 cup",
+      "notes": "Frozen or canned corn can be used as a substitute."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1/2 cup",
+      "notes": "Low-sodium broth recommended."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste."
+    },
+    {
+      "name": "Salt-Free Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "e.g. Italian seasoning."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": "see instructions for caramelization."
+    },
+    {
+      "name": "Grilled Sliced Jalapeño",
+      "amount": "2 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Caramelize the onions by cooking them in butter over low heat for 30 minutes, stirring occasionally.",
+    "Prepare the corn arepa dough according to the long-fermentation recipe.",
+    "Shape the dough into small circles and bake on a wooden board in the preheated oven for 15 minutes, or until lightly toasted.",
+    "Grill sliced jalapeños until slightly charred, then chop into small pieces.",
+    "Melt mozzarella cheese in the oven or a microwave-safe bowl until lightly melted.",
+    "Place a cooked corn arepa on a wooden board, topping it with mozzarella cheese, caramelized onions, and grilled jalapeños.",
+    "Finish with chopped cilantro if desired, then drizzle with chicken broth and olive oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "one-pan",
+    "snack",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "midnight-craving-american-corn-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-american-corn-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "corn",
+    "descriptor": "midnight-craving",
+    "dishForm": "paella"
+  }
+}

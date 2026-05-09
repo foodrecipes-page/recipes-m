@@ -1,0 +1,99 @@
+{
+  "title": "Moist Brown Sugar Turkish Semolina Revani",
+  "description": "A traditional Turkish dessert featuring brown sugar and semolina, with a moist and resinous texture, and a cheese-pull effect when sliced. This recipe is egg-free and perfect for meal prep.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "namul",
+      "amount": "1/4 cup",
+      "notes": "blanched and seasoned"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the semolina, brown sugar, and flour.",
+    "Add the melted butter, milk, rose water, and salt to the bowl and mix until well combined.",
+    "Stir in the blanched and seasoned namul.",
+    "Pour the mixture into a lacquerware bowl and smooth the top.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brown-sugar",
+    "egg-free",
+    "lacquerware-bowl",
+    "meal-prep",
+    "semolina-cake",
+    "turkish-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "moist-brown-sugar-turkish-semolina-revani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-brown-sugar-turkish-semolina-revani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:01:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "brown sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "semolina",
+    "descriptor": "moist brown sugar",
+    "dishForm": "Revani"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Molten Croatian Butter Frittata",
+  "description": "A buttery and rich Croatian-inspired breakfast dish featuring shio-koji and tempering chocolate, perfect for a lazy Sunday morning.",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shio-Koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented soybean paste for umami flavor"
+    },
+    {
+      "name": "Tempering Chocolate",
+      "amount": "1 ounce",
+      "notes": "Dark chocolate with at least 70% cocoa solids for added depth"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "6",
+      "notes": "Fresh from the farm, please"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "Whole milk is okay, but heavy cream is preferred"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted to perfection for a rich frittata"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped for garnish, but don't overdo it"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit and grease a 9-inch skillet with butter.",
+    "Whisk together eggs, heavy cream, and a pinch of salt in a large bowl.",
+    "Add shio-koji, tempering chocolate, garlic, and red pepper flakes to the egg mixture and stir gently to combine.",
+    "Pour the egg mixture into the prepared skillet and let cook for 5 minutes over medium heat.",
+    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the eggs are almost set and the top is golden brown.",
+    "Remove the skillet from the oven and let it cool for 1-2 minutes.",
+    "Sprinkle with fresh parsley and serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "easy",
+    "frittata",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "molten-croatian-butter-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-croatian-butter-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "shio-koji",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "butter",
+    "descriptor": "Molten",
+    "dishForm": "Frittata"
+  }
+}
