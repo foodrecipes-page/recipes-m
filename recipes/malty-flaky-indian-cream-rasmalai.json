@@ -1,0 +1,95 @@
+{
+  "title": "Malty Flaky Indian Cream Rasmalai",
+  "description": "A malty and flaky Indian dessert featuring Thai chilli jam, this crowd-pleaser is a nut-free friendly version of the classic rasmalai.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 liters",
+      "notes": "full fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "Add the melted butter, milk, and malt extract to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Bake the disks for 20 minutes or until they are golden brown.",
+    "While the disks are baking, prepare the cream by whisking together the milk, sugar, and Thai chilli jam in a saucepan.",
+    "Bring the cream mixture to a boil and then reduce the heat to a simmer.",
+    "Once the disks are ready, allow them to cool for 5 minutes before soaking them in the cream mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cream-based",
+    "crowd-pleaser",
+    "indian-dessert",
+    "malty-flaky",
+    "nut-free-friendly",
+    "thai-chilli-jam"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "malty-flaky-indian-cream-rasmalai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-flaky-indian-cream-rasmalai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:40:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cream",
+    "descriptor": "malty flaky",
+    "dishForm": "Rasmalai"
+  }
+}
