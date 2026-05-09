@@ -1,0 +1,94 @@
+{
+  "title": "Marsala Marinated Russian Beef Dumplings",
+  "description": "A cultured Russian dish featuring marsala wine and shio koji cure, wrapped in pandan leaves for a unique flavor and presentation, this halal friendly recipe is perfect for special occasions. The combination of marsala wine and shio koji cure gives the beef a rich and savory taste.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "20 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground beef, marsala wine, shio koji, chopped onion, and minced garlic, and mix well until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the flavors to meld.",
+    "When ready to cook, preheat a large steamer basket over boiling water.",
+    "Lay a pandan leaf flat on a work surface and place a tablespoon of the beef mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or a square shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining beef mixture and pandan leaves.",
+    "Place the dumplings in the steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 10-12 minutes, or until cooked through.",
+    "Serve the dumplings hot with your choice of dipping sauce.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "halal-friendly",
+    "russian-cuisine",
+    "special-occasion",
+    "steamed-dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "marsala-marinated-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/marsala-marinated-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:20:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "marsala-wine",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Marsala Marinated",
+    "dishForm": "Dumplings"
+  }
+}
