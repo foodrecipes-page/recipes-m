@@ -1,0 +1,105 @@
+{
+  "title": "Marinated Crunchy Irish Corn Bowl",
+  "description": "A fermented and crunchy Irish dish featuring creamed corn, made pescatarian-friendly and served in a Korean brass bowl. This adventurous recipe combines the flavors of Ireland with the presentation of Korea.",
+  "cuisine": "Irish-Korean fusion",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for creamed corn"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for creamed corn"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine corn kernels, smoked salmon, kimchi, and brine, and marinate for at least 2 hours in the refrigerator.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a separate saucepan, combine heavy cream and butter, and heat over medium heat until the butter is melted and the cream is warm.",
+    "Add the marinated corn mixture to the cream sauce and stir to combine.",
+    "Transfer the creamed corn mixture to a Korean brass bowl and top with chopped scallions and crispy garlic.",
+    "Sprinkle sesame seeds over the top of the dish for garnish.",
+    "Bake the dish in the preheated oven for 15 minutes, or until the top is lightly browned and the corn is heated through.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Marinated Crunchy Irish Corn Bowl hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "gluten-free",
+    "irish-fusion",
+    "korean-inspired",
+    "one-bowl-meal",
+    "seafood-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "marinated-crunchy-irish-corn-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/marinated-crunchy-irish-corn-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:43:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "creamed corn",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "corn",
+    "descriptor": "marinated crunchy",
+    "dishForm": "Bowl"
+  }
+}
