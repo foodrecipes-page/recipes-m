@@ -1,0 +1,109 @@
+{
+  "title": "Moist Springy Uruguayan Baguette Sandwich",
+  "description": "A buttery and springy sandwich featuring sous-vide cooked ingredients and a monsoon Uruguayan twist, served on a crispy baguette, this dish is shojin-friendly and perfect for a quick lunch",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1 loaf",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "sous-vide eggs",
+      "amount": "4 large",
+      "notes": "cooked at 145 degrees"
+    },
+    {
+      "name": "grilled portobello mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arugula",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 145 degrees to cook the eggs",
+    "Butter the baguette slices on the outside and toast until crispy",
+    "Grill the portobello mushrooms until tender and slice into thin strips",
+    "Caramelize the onions in a pan with olive oil until golden brown",
+    "Assemble the sandwich by spreading a layer of butter on the toasted baguette",
+    "Add a layer of grilled mushrooms, caramelized onions, and arugula",
+    "Place a sous-vide egg on top of the arugula",
+    "Sprinkle crumbly feta cheese over the egg",
+    "Drizzle lemon juice and olive oil over the cheese",
+    "Season with salt and pepper to taste",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quick-lunch",
+    "shojin-friendly",
+    "sous-vide",
+    "spring-inspired",
+    "uruguayan-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "moist-springy-uruguayan-baguette-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-springy-uruguayan-baguette-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:06:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "baguette",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "baguette",
+    "descriptor": "moist springy",
+    "dishForm": "Sandwich"
+  }
+}
