@@ -1,0 +1,97 @@
+{
+  "title": "Mediterranean Chicken Kebabs",
+  "description": "Moist and springy chicken kebabs with a Mediterranean twist, featuring mixed peel and cooked to perfection in an air fryer, then wrapped in banana leaves for a unique meal prep dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Cook the chicken kebabs in the air fryer for 10-12 minutes, or until cooked through.",
+    "While the chicken is cooking, prepare the banana leaves by cutting them into large squares.",
+    "Once the chicken is cooked, wrap each kebab in a banana leaf square.",
+    "Serve the chicken kebabs hot, garnished with mixed peel and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "banana-leaf",
+    "gluten-free",
+    "meal-prep",
+    "mediterranean-diet",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "moist-springy-mediterranean-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-springy-mediterranean-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:14:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "mixed peel",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "moist springy",
+    "dishForm": "Kebabs"
+  }
+}
