@@ -1,0 +1,102 @@
+{
+  "title": "Magical Velvety Filipino Dried Shrimp Sinigang",
+  "description": "A garlicky and adventurous Filipino dish featuring dried shrimp, nuka pickle, and a sugar free friendly twist on the classic sinigang recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "also known as goong haeng"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tamarind broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "green chili",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried shrimp and soak them in water for 30 minutes.",
+    "Drain and chop the dried shrimp into smaller pieces.",
+    "Slice the tomato and onion into thin pieces.",
+    "Mince the garlic and green chili.",
+    "Heat a pot over medium heat and saute the garlic, onion, and tomato.",
+    "Add the chopped dried shrimp, nuka pickle, fish sauce, and salt, and stir well.",
+    "Pour in the tamarind broth and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 10 minutes.",
+    "Add the spinach and stir well, cooking until the leaves are wilted.",
+    "Serve the sinigang hot, garnished with additional green chili if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dried-shrimp",
+    "filipino-food",
+    "gluten-free",
+    "nuka-pickle",
+    "sinigang",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "magical-velvety-filipino-dried-shrimp-sinigang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-velvety-filipino-dried-shrimp-sinigang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:38:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "dried shrimp",
+    "descriptor": "Magical Velvety",
+    "dishForm": "Sinigang"
+  }
+}
