@@ -1,0 +1,94 @@
+{
+  "title": "Molten Slovakian Potato Dumplings",
+  "description": "A romantic Slovakian dish featuring fermented potato starch, this ovo-vegetarian friendly recipe is perfect for a cozy night in. The namul-blanch-season process adds a unique flavor to the dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "2 cups",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the fermented potato starch, all purpose flour, and a pinch of salt.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 375 degrees for 15 minutes, or until the dumplings are cooked through and lightly browned.",
+    "While the dumplings are baking, prepare the namul-blanch-season process by boiling a pot of water and blanching the chopped chives for 30 seconds.",
+    "Remove the chives from the water with a slotted spoon and season with salt and black pepper.",
+    "Serve the molten dumplings hot, topped with the seasoned chives and a pat of butter."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "fermented-food",
+    "romo-vegetarian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "molten-slovakian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-slovakian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:48:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "potato starch",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "molten",
+    "dishForm": "Dumplings"
+  }
+}
