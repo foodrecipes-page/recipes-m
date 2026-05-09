@@ -1,0 +1,120 @@
+{
+  "title": "Mildly Smoky Moroccan Vegetable Tagine",
+  "description": "A fresh and light Moroccan dish featuring smoky olive oil and plant-based ingredients, with a cheese-pull effect from the shio-cure, perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "smoky"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 1 cup water"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the smoky olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped carrots, zucchini, and bell pepper, and cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the chickpeas, smoked paprika, ground cumin, salt, and black pepper.",
+    "Pour in the dissolved shio-cure and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, until the flavors have melded together and the vegetables are very tender.",
+    "Serve the tagine hot, garnished with fresh herbs and a dollop of vegan yogurt, if desired.",
+    "Let the tagine cool slightly before serving, allowing the flavors to meld together and the cheese-pull effect to develop."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "moroccan",
+    "one-pot",
+    "smoky",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-smoky-moroccan-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-moroccan-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:34:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "smoky a oli",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Tagine"
+  }
+}
