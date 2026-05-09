@@ -1,0 +1,94 @@
+{
+  "title": "Mellow Sweet Mediterranean Chestnut Flatbread",
+  "description": "A sweet and savory Mediterranean dish featuring chestnuts and double-rise bread, perfect for a solo dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add olive oil and honey, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a flat circle.",
+    "Spread the mashed chestnuts over the dough, leaving a 1-inch border around the edges.",
+    "Top the chestnuts with crumbled feta cheese and pitted kalamata olives.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut-recipes",
+    "flatbread-ideas",
+    "mediterranean-diet",
+    "one-pan-meals",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-sweet-mediterranean-chestnut-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-sweet-mediterranean-chestnut-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:21:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chestnuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Mellow Sweet",
+    "dishForm": "Flatbread"
+  }
+}
