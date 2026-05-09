@@ -1,0 +1,109 @@
+{
+  "title": "Magical Moroccan Semolina Tagine",
+  "description": "A tangy and flavorful Moroccan dish made with semolina flour, this tagine is a quick-fix solution for a delicious meal, and it is gluten-free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, paprika, and cinnamon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the semolina flour and spices.",
+    "Heat the olive oil in a large skillet over medium heat and saute the onion and garlic until softened.",
+    "Add the chicken broth, diced tomatoes, salt, and pepper to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Add the semolina flour mixture to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes, or until the top is lightly browned.",
+    "Remove the tagine from the oven and garnish with chopped parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "gluten-free",
+    "healthy-dinner",
+    "moroccan-cuisine",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "magical-moroccan-semolina-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-moroccan-semolina-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:25:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "semolina flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "semolina",
+    "descriptor": "Magical",
+    "dishForm": "Tagine"
+  }
+}
