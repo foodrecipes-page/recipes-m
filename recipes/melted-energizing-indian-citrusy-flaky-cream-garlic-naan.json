@@ -1,0 +1,129 @@
+{
+  "title": "Melted Energizing Indian Citrusy Flaky Cream Garlic Naan",
+  "description": "A flavorful and energizing twist on the classic Indian flatbread, featuring the brightness of citrus and the richness of double cream.",
+  "cuisine": "rajasthani",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Kefir",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Double cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried fenugreek leaves",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast and kefir in a large mixing bowl and let sit for 5 minutes until frothy.",
+    "Add flour, salt, and fenugreek leaves to the bowl and mix until a shaggy dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 6-8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball slightly into a disk shape and place in the skillet.",
+    "Cook for 1-2 minutes on each side until golden brown, then brush with ghee and serve hot.",
+    "Meanwhile, melt 1 tablespoon of butter in a small saucepan over low heat.",
+    "Add 2 cloves of minced garlic and cook for 1 minute until fragrant.",
+    "Stir in 1/2 cup of double cream and cook for 2-3 minutes until slightly thickened.",
+    "Stir in 2 tablespoons of fresh cilantro and 1 tablespoon of lime juice and cook for another minute.",
+    "Brush the melted butter mixture onto the naan breads as they come out of the skillet.",
+    "Sprinkle with black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "citrusy",
+    "flaky",
+    "garlic",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "melted-energizing-indian-citrusy-flaky-cream-garlic-naan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-energizing-indian-citrusy-flaky-cream-garlic-naan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "double cream",
+    "diet": "dairy-free",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "citrusy flaky cream",
+    "descriptor": "melted energizing",
+    "dishForm": "Garlic Naan"
+  }
+}
