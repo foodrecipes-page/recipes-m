@@ -1,0 +1,95 @@
+{
+  "title": "Mature Briny Spanish Cheddar Wrap",
+  "description": "A Whole30-friendly, crowd-pleasing Spanish dish featuring mature cheddar, wrapped in a lotus leaf and cooked to perfection in a tandoor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "8 oz",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic, paprika, salt, and black pepper.",
+    "Brush the mixture onto the lotus leaves, making sure to cover the entire surface.",
+    "Place a slice of prosciutto on each lotus leaf, leaving a small border around the edges.",
+    "Add a few strips of mature cheddar cheese on top of the prosciutto.",
+    "Fold the lotus leaves over the filling to form a wrap, and secure with a toothpick if needed.",
+    "Place the wraps in the tandoor and cook for 10 minutes, or until the cheese is melted and the lotus leaves are crispy.",
+    "Remove the wraps from the tandoor and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "gluten-free",
+    "lotus-leaf-wraps",
+    "snappy",
+    "spanish-cuisine",
+    "tandoor-cooking",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mature-briny-spanish-cheddar-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mature-briny-spanish-cheddar-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:51:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "mature cheddar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheddar",
+    "descriptor": "mature briny",
+    "dishForm": "Wrap"
+  }
+}
