@@ -1,0 +1,94 @@
+{
+  "title": "Mellow Roasted Norwegian Fish Tagine",
+  "description": "A pescatarian friendly Norwegian dish featuring fish sauce and nam pla, cooked in a traditional clay tagine vessel, resulting in a funky and tender meal prep option. This recipe is perfect for those looking for a unique and flavorful seafood experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nam pla",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "In a mortar and pestle, pound the garlic and ginger until well combined.",
+    "In a small bowl, whisk together the fish sauce, nam pla, olive oil, lemon juice, salt, and black pepper.",
+    "Add the pounded garlic and ginger to the bowl and stir to combine.",
+    "Place the cod fillets in the clay tagine vessel and brush the fish sauce mixture evenly over both fillets.",
+    "Cover the tagine with a lid and roast in the preheated oven for 12 minutes.",
+    "Remove the lid and continue roasting for an additional 8 minutes, or until the fish is cooked through and flakes easily with a fork."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "fish-based",
+    "meal-prep",
+    "norwegian-cuisine",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "mellow-roasted-norwegian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-norwegian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:28:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "mellow roasted",
+    "dishForm": "Tagine"
+  }
+}
