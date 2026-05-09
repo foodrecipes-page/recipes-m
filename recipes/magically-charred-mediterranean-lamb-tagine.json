@@ -1,0 +1,104 @@
+{
+  "title": "Magically Charred Mediterranean Lamb Tagine",
+  "description": "A flavorful and aromatic one-pot dish featuring charred lamb, fresh mint, and Mediterranean spices, cooked to perfection in a claypot. This recipe is gluten-free friendly and perfect for a special occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high heat.",
+    "In a large claypot, heat the olive oil over medium heat.",
+    "Add the lamb pieces to the claypot and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion to the claypot and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic to the claypot and cook for 1 minute, until fragrant.",
+    "Stir in the chopped fresh mint, dried oregano, paprika, salt, and black pepper.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Cover the claypot and transfer it to the preheated broiler, cooking for 10 minutes, or until the lamb is charred and cooked through.",
+    "Remove the claypot from the broiler and let it cool slightly before serving.",
+    "Serve the tagine hot, garnished with additional fresh mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "claypot",
+    "gluten-free",
+    "lamb",
+    "mediterranean",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "magically-charred-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-charred-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:51:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "mint",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Magically Charred",
+    "dishForm": "Tagine"
+  }
+}
