@@ -1,0 +1,102 @@
+{
+  "title": "Melted Buttery Korean Parma Ham Bao",
+  "description": "A solo dinner Korean dish featuring parma ham, salt baked to perfection, served in a lazy Susan spinner, this Jain friendly meal is perfect for a quiet night in. It is buttery, flaky, and full of flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parma Ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Bao Dough",
+      "amount": "1 package",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 cup",
+      "notes": "for baking"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": "for balance"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the bao dough to a thickness of about 1 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a slice of parma ham in the center of each dough circle.",
+    "Brush the edges of the dough with sesame oil.",
+    "Fold the dough over the parma ham to form a half moon shape, and press the edges together to seal.",
+    "Place the bao on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bao.",
+    "Sprinkle the salt over the bao, making sure to get a little on each one.",
+    "Bake the bao for 15 minutes, or until golden brown.",
+    "While the bao are baking, mix the melted butter, gochujang, and sugar in a small bowl.",
+    "Remove the bao from the oven and brush the tops with the melted butter mixture.",
+    "Return the bao to the oven and bake for an additional 2 minutes, or until the tops are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bao-dough",
+    "jain-friendly",
+    "korean-food",
+    "lazy-susan-spinner",
+    "melted-butter",
+    "parma-ham"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "melted-buttery-korean-parma-ham-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-buttery-korean-parma-ham-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:54:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "salt-bake",
+    "primaryIngredient": "parma ham",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "parma ham",
+    "descriptor": "melted buttery",
+    "dishForm": "Bao"
+  }
+}
