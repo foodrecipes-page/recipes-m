@@ -1,0 +1,94 @@
+{
+  "title": "Mouthwatering Slovakian Meat Skewers",
+  "description": "Indulge in the bold flavors of Slovakia with these sour and shaggy meat skewers, featuring chili powder and wok-hei, perfect for a raw-friendly raclette-grill experience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chili powder, smoked paprika, garlic powder, salt, and pepper.",
+    "Add the pork pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the pork, onion, and bell pepper pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with lemon juice and olive oil.",
+    "Place the skewers on the raclette-grill and cook for 10-12 minutes, turning occasionally.",
+    "Check the internal temperature of the pork to ensure it reaches 145 degrees Fahrenheit.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mouthwatering-slovakian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-slovakian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:44:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "chili powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meat",
+    "descriptor": "mouthwatering spicy",
+    "dishForm": "Skewers"
+  }
+}
