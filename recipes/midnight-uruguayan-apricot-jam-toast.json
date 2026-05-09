@@ -1,0 +1,80 @@
+{
+  "title": "Midnight Uruguayan Apricot Jam Toast",
+  "description": "A flexitarian-friendly Uruguayan dish featuring apricot jam on toast, perfect for midnight cravings. This recipe combines the sweetness of apricot jam with the crunch of toasted bread.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the toaster or toaster oven to 375 degrees Fahrenheit.",
+    "Butter each slice of bread on one side.",
+    "Place the bread slices, butter side up, on a baking sheet.",
+    "Toast the bread in the oven for 5 minutes or until lightly browned.",
+    "Spread 2 tablespoons of apricot jam on each toasted bread slice.",
+    "Sprinkle chopped parsley and a pinch of salt over the jam.",
+    "Serve the apricot jam toast immediately and enjoy.",
+    "Consider pairing with a warm beverage, such as tea or coffee."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snack",
+    "flexitarian",
+    "late-night",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "midnight-uruguayan-apricot-jam-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-uruguayan-apricot-jam-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:55:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "apricot jam",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "apricot jam",
+    "descriptor": "midnight",
+    "dishForm": "Toast"
+  }
+}
