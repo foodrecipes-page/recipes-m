@@ -1,0 +1,92 @@
+{
+  "title": "Magical Midnight Filipino Strawberry Crumble",
+  "description": "A garlicky, dense, and sweet Filipino dish featuring strawberries, perfect for midnight cravings. This gluten-free friendly dessert is made with dehydrated strawberries and cooked in a cazuela.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dehydrated strawberries",
+      "amount": "2 cups",
+      "notes": "rehydrated in 1 cup water"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rehydrated strawberries, garlic, and coconut sugar.",
+    "In a separate bowl, whisk together the almond flour, coconut oil, eggs, vanilla extract, and salt.",
+    "Add the dry ingredients to the strawberry mixture and stir until well combined.",
+    "Pour the mixture into a cazuela and bake for 35 minutes.",
+    "Remove the crumble from the oven and let it cool for 10 minutes.",
+    "Serve the crumble warm, garnished with additional dehydrated strawberries if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipe",
+    "dehydrated-fruit",
+    "filipino-food",
+    "gluten-free",
+    "midnight-cravings",
+    "strawberry-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "magical-midnight-filipino-strawberry-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-midnight-filipino-strawberry-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:03:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "strawberries",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "strawberries",
+    "descriptor": "magical midnight",
+    "dishForm": "Crumble"
+  }
+}
