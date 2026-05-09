@@ -1,0 +1,91 @@
+{
+  "title": "Mildly Smoky Jamaican Tofu Skewers",
+  "description": "Savory and tender, these vegan-friendly skewers are perfect for a light Jamaican dish, featuring unsalted beef stock and a smoky grill flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "unsalted beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together unsalted beef stock, soy sauce, brown sugar, smoked paprika, garlic powder, and onion powder.",
+    "Add the cubed tofu to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated tofu onto the bamboo skewers.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally.",
+    "Serve the skewers hot on a lazy-susan-spinner.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Serve with your favorite sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "jamaican",
+    "lazy-susan",
+    "smoky",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "mildly-smoky-jamaican-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-jamaican-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:36:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Skewers"
+  }
+}
