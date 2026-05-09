@@ -1,0 +1,89 @@
+{
+  "title": "Midnight Rich American Comte Bake",
+  "description": "A rich and decadent American-inspired dish featuring Comte cheese, perfect for a midnight craving.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Butter a 9x13-inch baking dish.",
+    "In a medium bowl, whisk together flour, salt, and black pepper.",
+    "In a large mixing bowl, whisk together eggs, Comte cheese, cheddar cheese, and heavy cream.",
+    "Add the flour mixture to the cheese mixture and stir until just combined.",
+    "Pour the mixture into the prepared baking dish.",
+    "Dot the top of the mixture with the unsalted butter.",
+    "Bake for 25 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 32,
+    "fat": 36
+  },
+  "slug": "midnight-rich-american-comte-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-rich-american-comte-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:29:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "comte",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Comte",
+    "descriptor": "Midnight-Rich",
+    "dishForm": "Bake"
+  }
+}
