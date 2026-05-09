@@ -1,0 +1,90 @@
+{
+  "title": "Melted Gooey Croatian Dough Fritters",
+  "description": "A comforting Croatian dish featuring deep-fried dough balls with a gooey interior, colored with yellow food coloring, and suitable for a Jain-friendly diet. These fritters are perfect as a snack or dessert.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 inches deep in a frying pan"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour, yellow food coloring, salt, sugar, and active dry yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic and smooth.",
+    "Cover the dough with a damp cloth and let it rest in a warm place for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Once the oil is hot, use a cookie scoop or spoon to drop small balls of the dough into the oil, being careful not to overcrowd the pan.",
+    "Fry the dough balls until they are golden brown and puffed up, about 2-3 minutes on each side.",
+    "Use a slotted spoon to remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy.",
+    "If desired, dust the fritters with powdered sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "deep-fried",
+    "jain-friendly",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "melted-gooey-croatian-dough-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-gooey-croatian-dough-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:22:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "dough",
+    "descriptor": "Melted Gooey",
+    "dishForm": "Fritters"
+  }
+}
