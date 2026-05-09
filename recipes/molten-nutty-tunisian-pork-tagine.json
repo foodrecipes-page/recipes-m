@@ -1,0 +1,128 @@
+{
+  "title": "Molten Nutty Tunisian Pork Tagine",
+  "description": "A rich, flavorful, and aromatic one-pan dish showcasing the bold flavors of Tunisia.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse, kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the pork"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy-bottomed Dutch oven or clay pot over medium-high heat.",
+    "Brown the pork cubes on all sides, in batches if necessary, until they are nicely browned and crispy.",
+    "Remove the browned pork from the pot and set it aside. Reduce the heat to medium.",
+    "Add the sliced onions to the pot and cook until they are softened and lightly caramelized, stirring occasionally.",
+    "Add the grated ginger and minced garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Add the ground cumin, coriander, cinnamon, turmeric, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the chopped almonds to the pot and cook for 1 minute, stirring constantly.",
+    "Add the browned pork, prunes, chicken broth, and bay leaves to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake the tagine for 2.5 hours, or until the pork is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly. Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 63,
+    "carbs": 40,
+    "fat": 47
+  },
+  "slug": "molten-nutty-tunisian-pork-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-nutty-tunisian-pork-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:06:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "pork",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Pork",
+    "descriptor": "Molten nutty",
+    "dishForm": "Tagine"
+  }
+}
