@@ -1,0 +1,93 @@
+{
+  "title": "Moist Yeasty Jamaican Chocolate Bake",
+  "description": "A comforting Jamaican dish featuring cardamom and tempering chocolate, wrapped in a ti-leaf for added flavor and texture. This yeasty bake is perfect for a cold evening.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, and sugar.",
+    "In a separate bowl, whisk together the melted butter, eggs, and ground cardamom.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in a ti leaf and place it in a baking dish.",
+    "Bake the dough for 30 minutes or until it is golden brown.",
+    "Melt the tempering chocolate in a double boiler and pour it over the baked dough.",
+    "Let the bake cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-treats",
+    "comfort-food",
+    "jamaican-cuisine",
+    "ti-leaf-wraps",
+    "yeasty-bakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "moist-yeasty-jamaican-chocolate-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-yeasty-jamaican-chocolate-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:46:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "cardamom",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chocolate",
+    "descriptor": "moist yeasty",
+    "dishForm": "Bake"
+  }
+}
