@@ -1,0 +1,93 @@
+{
+  "title": "Mixed Malaysian Vegetable Pie",
+  "description": "A savory and crumbly Malaysian dish featuring mixed spice, en-croute, and jain-friendly ingredients, perfect for a nostalgic meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "including carrots, peas, and corn"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a pan, heat the oil and saute the onion and garlic until softened.",
+    "Add the mixed vegetables, mixed spice, and salt, and cook until the vegetables are tender.",
+    "In a separate bowl, mix the flour and water to form a dough.",
+    "Roll out the dough and place it in a pie dish.",
+    "Fill the pie crust with the vegetable mixture and cover with another layer of dough.",
+    "Bake the pie in the preheated oven for 40 minutes.",
+    "Let the pie cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "jain-friendly",
+    "malaysian-food",
+    "vegetarian-pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mixed-malaysian-vegetable-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mixed-malaysian-vegetable-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:59:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "mixed spice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Mixed spice",
+    "dishForm": "Pie"
+  }
+}
