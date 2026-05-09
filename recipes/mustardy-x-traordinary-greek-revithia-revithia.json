@@ -1,0 +1,109 @@
+{
+  "title": "Mustardy X-traordinary Greek Revithia",
+  "description": "A low-carb-friendly, brunch-inspired Greek dish with a tangy mustard flavor and a hint of pandan leaf, featuring a coconut cream crack topping.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "minced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "finely chopped fresh parsley",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-5 leaves",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat. Add the minced onion and cook until softened, about 5 minutes.",
+    "Add the boneless chicken thighs to the skillet and cook until browned on both sides and cooked through, about 6-8 minutes per side.",
+    "Remove the chicken from the skillet and set aside.",
+    "In a large bowl, whisk together the plain Greek yogurt, Dijon mustard, and chopped fresh dill.",
+    "Add the torn pandan leaves to the bowl and stir to combine.",
+    "Place the cooked chicken thighs on a baking sheet lined with parchment paper and brush the yogurt-mustard mixture evenly over the top of each chicken thigh.",
+    "Bake the chicken in the preheated oven for 10-12 minutes, or until the top is lightly browned and the chicken is cooked through.",
+    "While the chicken is baking, prepare the coconut cream crack topping. In a small bowl, combine the coconut cream, eggs, and a pinch of salt. Mix well until smooth.",
+    "Pour the coconut cream mixture into a large skillet or saucepan and place over medium heat.",
+    "Cook the mixture, stirring constantly, until it thickens and forms a smooth, creamy sauce, about 5-7 minutes.",
+    "Remove the chicken from the oven and top each thigh with a spoonful of the coconut cream sauce.",
+    "Garnish with additional chopped fresh parsley, if desired.",
+    "Serve the Mustardy X-traordinary Greek Revithia hot, garnished with additional pandan leaves and fresh parsley, if desired.",
+    "Cover the dish with plastic wrap or aluminum foil and refrigerate for at least 30 minutes to allow the flavors to meld together before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "coconut-cream",
+    "greek",
+    "low-carb",
+    "mustard",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "mustardy-x-traordinary-greek-revithia-revithia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-x-traordinary-greek-revithia-revithia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "revithia",
+    "descriptor": "Mustardy X-traordinary",
+    "dishForm": "Revithia"
+  }
+}
