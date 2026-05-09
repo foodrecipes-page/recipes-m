@@ -1,0 +1,65 @@
+{
+  "title": "midnight-craving saudi-arabian ghee tagine",
+  "description": "A rich, sugar-free-friendly, and aromatic tagine featuring ghee, perfect for a midnight craving. It's a unique fusion of traditional Saudi Arabian flavors, carefully crafted to satisfy your late-night cravings.",
+  "cuisine": "saudi-arabian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality, pure ghee for the best flavor"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the ghee over medium heat until it starts to melt and becomes fragrant.",
+    "Add 1 cup of all-purpose flour and cook for 2 minutes, stirring constantly, until the mixture turns golden brown and develops a nutty aroma.",
+    "Gradually add in 1 cup of water, whisking continuously to avoid lumps, and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 5 minutes, stirring occasionally, until the sauce thickens and coats the back of a spoon.",
+    "Stir in 1 teaspoon of ground cinnamon, 1/2 teaspoon of ground cardamom, and 1/4 teaspoon of ground nutmeg for added warmth and depth of flavor.",
+    "Remove the saucepan from the heat and let it cool slightly before serving.",
+    "Garnish with fresh parsley or mint leaves, if desired.",
+    "Serve warm, straight from the saucepan, and enjoy!",
+    "For an extra-special touch, you can add some chopped nuts or dried fruits on top of the tagine before serving.",
+    "If you prefer a thicker tagine, you can add a little more flour or cook it for a longer period.",
+    "You can also adjust the amount of spices to your liking, feel free to experiment and find your perfect balance.",
+    "For a more intense flavor, you can cook the tagine for a longer period or add more ghee.",
+    "Remember to always use caution when working with hot saucepans and to adjust the heat as needed to prevent burning.",
+    "Feel free to get creative and add your own twist to this recipe, the possibilities are endless!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "quick",
+    "saudi-arabian",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "midnight-craving-saudi-arabian-ghee-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-saudi-arabian-ghee-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "ghee",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "ghee",
+    "descriptor": "midnight-craving",
+    "dishForm": "Tagine"
+  }
+}

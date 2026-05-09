@@ -1,0 +1,102 @@
+{
+  "title": "meaningful irish shepherd casserole",
+  "description": "a winey, cheese-pull, nostalgic irish dish featuring white vinegar and clay-pot-cook. ayurvedic-rajasic-friendly and perfect for a cozy evening in.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "100g",
+      "notes": "ayurvedic rajasic-friendly option"
+    }
+  ],
+  "instructions": [
+    "in a large clay pot, heat 30g of butter over medium heat. add the lamb mince and cook until browned, breaking it up with a spoon as it cooks.",
+    "add the onion, garlic, carrots, and potatoes to the pot. cook until the vegetables are tender, about 10 minutes.",
+    "stir in the flour and cook for 1 minute. then add the white vinegar and stir to combine.",
+    "transfer the mixture to a 1.5 litre baking dish and top with the cheddar cheese.",
+    "dot the top of the casserole with the remaining 20g of butter.",
+    "preheat the oven to 180\u001139c. bake the casserole for 25 minutes, or until the cheese is melted and bubbly.",
+    "remove the casserole from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "meaningful-irish-shepherd-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meaningful-irish-shepherd-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "white vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "shepherd",
+    "descriptor": "Meaningful",
+    "dishForm": "Casserole"
+  }
+}
