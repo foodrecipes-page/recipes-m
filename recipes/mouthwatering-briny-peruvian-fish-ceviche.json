@@ -1,0 +1,99 @@
+{
+  "title": "Mouthwatering Briny Peruvian Fish Ceviche",
+  "description": "A refreshing and flavorful Peruvian dish featuring prosciutto and steam cooked fish, perfect for pescatarians",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small cubes and place them in a large bowl",
+    "Add the thinly sliced onion to the bowl with the fish",
+    "In a small bowl, mix together the lime juice, chopped aji amarillo peppers, minced garlic, salt, and black pepper",
+    "Pour the lime juice mixture over the fish and onion, making sure that all the fish is coated",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to steam cook in the lime juice",
+    "Just before serving, chop the prosciutto into small pieces and add it to the bowl with the fish",
+    "Stir in the chopped cilantro",
+    "Serve the ceviche in small glasses or bowls, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "peruvian",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "mouthwatering-briny-peruvian-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-briny-peruvian-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:11:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "prosciutto",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "mouthwatering briny",
+    "dishForm": "Ceviche"
+  }
+}
