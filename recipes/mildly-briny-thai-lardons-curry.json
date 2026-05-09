@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Briny Thai Lardons Curry",
+  "description": "A halal-friendly Thai curry featuring fish sauce and lardons-render, perfect for a weeknight dinner. This dish is cooked in individual mini cocottes.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat and cook the lardons until crispy.",
+    "Remove the lardons from the pan and set aside.",
+    "In the same pan, add the curry paste and cook for 1 minute.",
+    "Add the fish sauce, coconut milk, brown sugar, and lime juice to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Stir in the cooked lardons and chopped Thai basil.",
+    "Divide the curry among individual mini cocottes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "briny",
+    "halal-friendly",
+    "one-pan",
+    "thai-curry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "mildly-briny-thai-lardons-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-briny-thai-lardons-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:09:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "fish sauce",
+    "diet": "halal",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lardons",
+    "descriptor": "Mildly Briny",
+    "dishForm": "Curry"
+  }
+}
