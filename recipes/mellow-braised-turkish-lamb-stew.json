@@ -1,0 +1,98 @@
+{
+  "title": "Mellow Braised Turkish Lamb Stew",
+  "description": "A charred and flaky Turkish lamb stew featuring sweet sherry, perfect for a weeknight dinner, and friendly to Buddhist temple dietary preferences by using no animal by-products other than lamb.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes, then remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sweet sherry, chicken broth, dried oregano, salt, and black pepper to the pot, stirring to combine.",
+    "Return the lamb pieces to the pot and bring the stew to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and let the stew cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "one-pot-meals",
+    "turkish-cuisine",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "mellow-braised-turkish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-braised-turkish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:56:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "sweet sherry",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Mellow Braised",
+    "dishForm": "Stew"
+  }
+}
