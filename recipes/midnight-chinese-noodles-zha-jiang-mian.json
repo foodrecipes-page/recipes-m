@@ -1,0 +1,107 @@
+{
+  "title": "Midnight Chinese Noodles Zha Jiang Mian",
+  "description": "A resinous and velvety Chinese dish featuring fermented soybean paste, served with noodles and vegetables, perfect for midnight cravings. This Buddhist-temple-friendly version uses casabe and papillote cooking methods.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "200g",
+      "notes": "preferably thick and chewy"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "100g"
+    },
+    {
+      "name": "casabe",
+      "amount": "50g",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "scallions",
+      "amount": "100g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "100g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "In a small bowl, mix the fermented soybean paste with 10ml of vegetable oil until well combined.",
+    "Add the crushed casabe to the bowl and stir until the mixture forms a smooth paste.",
+    "Cut the papillote paper into 4 equal squares and place a portion of the noodles in the center of each square.",
+    "Spoon the soybean paste mixture over the noodles, leaving a 1-inch border around the edges.",
+    "Top the noodles with sliced scallions, cucumber, carrots, grated ginger, and minced garlic.",
+    "Fold the papillote paper over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Heat 10ml of vegetable oil in a large skillet over medium heat and cook the papillote packets for 2-3 minutes on each side, until crispy and golden brown.",
+    "Serve the Midnight Chinese Noodles Zha Jiang Mian hot, garnished with additional scallions and soy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "chinese-food",
+    "midnight-cravings",
+    "noodle-dishes",
+    "one-pan-meals",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "midnight-chinese-noodles-zha-jiang-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-chinese-noodles-zha-jiang-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:30:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "casabe",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Midnight",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
