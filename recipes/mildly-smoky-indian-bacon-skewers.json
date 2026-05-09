@@ -1,0 +1,105 @@
+{
+  "title": "Mildly Smoky Indian Bacon Skewers",
+  "description": "A charred, light, brunch-mood Indian dish featuring bacon, perfect for a Buddhist temple friendly meal. This dish is made with spherified bacon and Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "12 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12"
+    },
+    {
+      "name": "algin",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together yogurt, lemon juice, garam masala, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Cut the bacon slices into small pieces and add to the bowl, mixing well.",
+    "Thread a piece of bacon onto each bamboo skewer.",
+    "Using a syringe, drop small amounts of the bacon mixture into a bath of water with algin, creating spherified bacon.",
+    "Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "Serve the skewers hot with the spherified bacon.",
+    "Garnish with fresh cilantro and serve immediately.",
+    "Repeat the process until all the ingredients are used up."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-recipes",
+    "brunch-ideas",
+    "buddhist-friendly",
+    "grilled-food",
+    "indian-cuisine",
+    "spherification"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-smoky-indian-bacon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-indian-bacon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:32:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "bacon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bacon",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Skewers"
+  }
+}
