@@ -1,0 +1,101 @@
+{
+  "title": "Mellow Roasted Japanese Tomato Roast",
+  "description": "A citrusy and indulgent Japanese dish featuring canned tomatoes and roast, perfect for a diabetic-friendly meal",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, soy sauce, yuzu juice, salt, and black pepper",
+    "Add the canned tomatoes, garlic, and ginger to the bowl and stir to combine",
+    "Transfer the mixture to a mason jar and top with green onions and sesame seeds",
+    "Roast in the preheated oven for 20 minutes",
+    "Remove from the oven and let cool for 5 minutes",
+    "Serve hot and enjoy",
+    "Garnish with additional green onions and sesame seeds if desired",
+    "Store any leftovers in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-flavors",
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "low-carb",
+    "mason-jar-recipe",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mellow-roasted-japanese-tomato-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-japanese-tomato-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:36:08Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Mellow Roasted",
+    "dishForm": "Roast"
+  }
+}
