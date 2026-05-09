@@ -1,0 +1,124 @@
+{
+  "title": "mildly sweet brazilian pea-eggplant toast",
+  "description": "a sweet and tender brazilian dish made with peas and eggplant, served on toast. serves as a pescatarian-friendly breakfast or snack option.",
+  "cuisine": "brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "1",
+      "notes": "cubed"
+    },
+    {
+      "name": "1 cup frozen peas",
+      "amount": "1",
+      "notes": "thawed"
+    },
+    {
+      "name": "2 large garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": "divided"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "4 slices whole wheat bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup crumbled queso fresco",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1/4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat a tava or griddle over medium heat.",
+    "in a large bowl, whisk together eggs, honey, salt, and black pepper.",
+    "add the cubed eggplant to the bowl and toss to coat with the egg mixture.",
+    "heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "add the eggplant mixture to the skillet and cook until the eggplant is tender, about 8 minutes.",
+    "add the chopped onion to the skillet and cook for an additional 2 minutes.",
+    "add the frozen peas to the skillet and cook until thawed and tender, about 3 minutes.",
+    "toast the bread slices on the tava or griddle.",
+    "spread a layer of the eggplant mixture on each toasted bread slice.",
+    "drizzle with the remaining 1 tablespoon of olive oil and sprinkle with queso fresco.",
+    "garnish with chopped cilantro and serve immediately.",
+    "serve the toast with a fried egg on top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "breakfast-ideas",
+    "easy-to-make",
+    "eggplant-recipes",
+    "high-protein",
+    "one-pan",
+    "pea-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mildly-sweet-brazilian-pea-eggplant-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sweet-brazilian-pea-eggplant-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:33:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pea-eggplant",
+    "descriptor": "Mildly Sweet",
+    "dishForm": "Toast"
+  }
+}
