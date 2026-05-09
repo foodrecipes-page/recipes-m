@@ -1,0 +1,95 @@
+{
+  "title": "Mellow Jamaican Chicken Curry",
+  "description": "A tangy and flavorful Jamaican chicken curry dish featuring lemongrass stalks, perfect for a date night, and is FODMAP friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "2",
+      "notes": "bruised"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-free curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mason jar, combine chicken, lemongrass stalks, and infuse oil, and marinate for at least 30 minutes.",
+    "In a large pan, heat 1 tablespoon of infuse oil over medium heat.",
+    "Add the chopped onion to the pan and cook until it is translucent.",
+    "Add the garlic-free curry powder to the pan and cook for 1 minute.",
+    "Add the marinated chicken to the pan and cook until it is browned on all sides.",
+    "Add the coconut milk, salt, and black pepper to the pan, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through and the sauce has thickened.",
+    "Remove the lemongrass stalks from the pan and discard.",
+    "Serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-curry",
+    "date-night",
+    "jamaican-cuisine",
+    "low-fodmap",
+    "mason-jar-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "mellow-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:03:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly spicy",
+    "dishForm": "Curry"
+  }
+}
