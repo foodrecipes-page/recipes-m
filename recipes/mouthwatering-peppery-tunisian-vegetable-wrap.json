@@ -1,0 +1,105 @@
+{
+  "title": "Tunisian Vegetable Wrap",
+  "description": "A peppery and chewy Tunisian dish featuring a baguette and leaf wrap, perfect for a vegetarian brunch",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "toasted"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Toss the eggplant, zucchini, red bell pepper, and onion with olive oil, salt, and pepper on a baking sheet",
+    "Roast the vegetables in the oven for 30 minutes",
+    "Toast the baguette in the oven for 5 minutes",
+    "Spread harissa on the toasted baguette",
+    "Top the baguette with roasted vegetables, garlic, and feta cheese",
+    "Wrap the baguette in a leaf wrap and steam for 2 minutes",
+    "Garnish with chopped parsley and serve"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 37,
+  "totalTimeMin": 57,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chewy",
+    "peppery",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mouthwatering-peppery-tunisian-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-peppery-tunisian-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:17:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "baguette",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "vegetables",
+    "descriptor": "mouthwatering peppery",
+    "dishForm": "Wrap"
+  }
+}
