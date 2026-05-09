@@ -1,0 +1,105 @@
+{
+  "title": "Mildly Spicy Venezuelan Shungiku Paella",
+  "description": "A pescatarian friendly Venezuelan dish featuring shungiku, perfect for a date night, cooked to perfection on a slate tile vessel.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mild spicy sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or slate tile vessel over medium high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced mild spicy sausage and cook until browned, about 5 minutes.",
+    "Add the chopped shungiku and cook until it is wilted, about 3 minutes.",
+    "Add the smoked paprika and saffron threads, and stir to combine.",
+    "Add the uncooked white rice and stir to combine with the spices and shungiku mixture.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Add the peeled and deveined shrimp and cook until they are pink and fully cooked, about 5 minutes.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mildly-spicy",
+    "one-pan",
+    "pescatarian",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "mildly-spicy-venezuelan-shungiku-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-venezuelan-shungiku-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:10:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "shungiku",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shungiku",
+    "descriptor": "mildly spicy",
+    "dishForm": "Paella"
+  }
+}
