@@ -1,0 +1,107 @@
+{
+  "title": "Magnificently Crunchy Korean Noodles Kalguksu",
+  "description": "A floral, crunchy, and indulgent Korean dish from the Gyeongsang region, featuring sesame seed oil and a pasta-water-emulsion, with anti-inflammatory friendly ingredients, served in individual mini cocottes.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kalguksu noodles",
+      "amount": "200g",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "Sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and cook the Kalguksu noodles according to the package instructions.",
+    "In a large skillet, heat the sesame seed oil over medium heat and sauté the sliced zucchini and carrots until they are tender.",
+    "Add the chopped green onions, minced garlic, and grated ginger to the skillet and stir-fry for 1 minute.",
+    "In a small bowl, whisk together the vegetable broth and 1 cup of the pasta water to create a pasta-water-emulsion.",
+    "Add the cooked noodles to the skillet and stir-fry for 2 minutes, combining with the vegetable mixture.",
+    "Pour the pasta-water-emulsion into the skillet and stir-fry for an additional 2 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Divide the noodle mixture among individual mini cocottes.",
+    "Sprinkle the sesame seeds over the top of each cocotte.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "magnificently-crunchy-korean-noodles-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-crunchy-korean-noodles-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:27:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "anti-inflammatory",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Magnificently crunchy",
+    "dishForm": "Kalguksu"
+  }
+}
