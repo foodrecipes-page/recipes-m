@@ -1,0 +1,123 @@
+{
+  "title": "Malty Springy Mexican Fish Tacos",
+  "description": "A comforting, pescatarian-friendly Mexican dish featuring ice-bath-shocked cod, malty flavor, and a crunchy slaw made with paprika-spiced cabbage.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "Green or red"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra-virgin"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Flaky sea salt or kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Black or white"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "Low-fat or regular"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "Ripe or slightly unripe"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the cod fillets on the prepared baking sheet and season with salt, pepper, cumin, coriander, and paprika.",
+    "Drizzle olive oil over the fillets and gently rub it in with your fingers.",
+    "Bake the cod in the preheated oven for 8-10 minutes or until it reaches an internal temperature of 145°F (63°C).",
+    "Remove the cod from the oven and carefully place it in an ice bath to shock and stop the cooking process.",
+    "While the cod is cooling, mix together the shredded cabbage, diced tomatoes, and a squeeze of lime juice in a bowl.",
+    "Once the cod has cooled, break it into large chunks and add it to the cabbage mixture.",
+    "Stir in the sour cream and mash the avocado with a fork to create a chunky slaw.",
+    "Warm some tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the fish mixture onto a warmed tortilla and topping with the slaw.",
+    "Finish with a sprinkle of salt, pepper, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-tacos",
+    "high-protein",
+    "mexican-recipe",
+    "one-pan",
+    "spring-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "malty-springy-mexican-fish-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-springy-mexican-fish-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T23:16:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "paprika",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Malty, Springy",
+    "dishForm": "Tacos"
+  }
+}
