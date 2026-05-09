@@ -1,0 +1,96 @@
+{
+  "title": "German Shrimp Skewers",
+  "description": "A peppery and fluffy German dish featuring shrimp, infused oil, and a special shrimp paste, perfect for showing off at any gathering, this dish is also nut-free-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "large, peeled and deveined"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shrimp paste, infused oil, black pepper, garlic powder, onion powder, and salt.",
+    "Add the shrimp to the bowl and toss to coat with the shrimp paste mixture.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush the grill with butter to prevent sticking.",
+    "Grill the shrimp skewers for 8-10 minutes, turning occasionally, until they are pink and cooked through.",
+    "Brush the shrimp with lemon juice during the last minute of grilling.",
+    "Serve the shrimp skewers hot, garnished with lemon wedges and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "german-cuisine",
+    "grilled",
+    "peppery",
+    "seafood",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mouth-watering-german-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouth-watering-german-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:41:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "shrimp",
+    "descriptor": "mouth watering",
+    "dishForm": "Skewers"
+  }
+}

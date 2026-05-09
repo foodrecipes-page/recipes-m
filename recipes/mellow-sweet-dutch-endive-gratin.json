@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Sweet Dutch Endive Gratin",
+  "description": "A rich and velvety solo dinner dish featuring Dutch endive, ground sugar, and namul blanch seasoning, served in a scallop shell, suitable for shojin friendly diets.",
+  "cuisine": "Dutch",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch endive",
+      "amount": "2 large heads",
+      "notes": "choose firm heads"
+    },
+    {
+      "name": "ground sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the Dutch endive and remove the tough outer leaves.",
+    " Blanch the endive in boiling water for 5 minutes, then immediately submerge in an ice bath.",
+    "In a small bowl, mix together the ground sugar, namul blanch seasoning, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the blanched endive to the skillet and sprinkle with the sugar and seasoning mixture.",
+    "Arrange the endive in a scallop shell, spooning some of the garlic and oil mixture over the top.",
+    "If using cheese, sprinkle it over the endive.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until the endive is tender and the top is lightly browned.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mellow-sweet-dutch-endive-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-sweet-dutch-endive-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:40:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ground sugar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "endive",
+    "descriptor": "mellow sweet",
+    "dishForm": "Gratin"
+  }
+}
