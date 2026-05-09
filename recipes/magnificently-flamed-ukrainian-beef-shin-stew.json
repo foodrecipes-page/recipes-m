@@ -1,0 +1,102 @@
+{
+  "title": "Magnificently Flamed Ukrainian Beef Shin Stew",
+  "description": "A hearty Ukrainian dish featuring beef shin, flambe, and a blend of cheeses, perfect for a post-workout meal. This stew is high in protein and rich in flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "flambe sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef shin pieces and cook until browned on all sides.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the flambe sauce and cook for 1 minute, stirring constantly.",
+    "Add the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Stir in the shredded cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "post-workout",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 20,
+    "fat": 29
+  },
+  "slug": "magnificently-flamed-ukrainian-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-flamed-ukrainian-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:06:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "beef shin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef shin",
+    "descriptor": "Magnificently Flamed",
+    "dishForm": "Stew"
+  }
+}
