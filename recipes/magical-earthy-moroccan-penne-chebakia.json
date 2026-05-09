@@ -1,0 +1,105 @@
+{
+  "title": "Magical Earthy Moroccan Penne Chebakia",
+  "description": "A hearty Moroccan dish featuring penne pasta, served in a cataplana vessel, perfect for a post-workout meal. This dairy-free friendly recipe combines earthy flavors with a glassy-jelly texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the penne pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the tomato paste, vegetable broth, apricot jam, sesame seeds, and paprika, and bring to a simmer.",
+    "In a large bowl, combine the cooked penne pasta and the skillet mixture, and toss to combine.",
+    "Knead the mixture until it forms a sticky dough.",
+    "Shape the dough into chebakia forms and place them in a cataplana vessel.",
+    "Bake the chebakia in the preheated oven for 25 minutes, or until golden brown.",
+    "Serve the Magical Earthy Moroccan Penne Chebakia hot, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "dairy-free",
+    "moroccan-cuisine",
+    "one-pot",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "magical-earthy-moroccan-penne-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-earthy-moroccan-penne-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:49:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "penne pasta",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Magical Earthy",
+    "dishForm": "Chebakia"
+  }
+}
