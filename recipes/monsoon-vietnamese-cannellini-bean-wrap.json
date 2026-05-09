@@ -1,0 +1,93 @@
+{
+  "title": "Monsoon Vietnamese Cannellini Bean Wrap",
+  "description": "A floral and chewy Vietnamese dish featuring cannellini beans, served in a lotus leaf wrap, perfect for a macrobiotic friendly meal. This dish is inspired by the monsoon season in Vietnam.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "4 wrappers"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "marinated and fried"
+    },
+    {
+      "name": "monsoon Vietnamese sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak the lotus leaves in warm water for 30 seconds to make them pliable.",
+    "Fill a large bowl with warm water and add the rice paper wrappers to soften them.",
+    "In a pan, heat 2 tablespoons of oil over medium heat and fry the marinated tofu until golden brown.",
+    "In the same pan, add the pickled carrots and daikon and stir fry for 2 minutes.",
+    "Add the cooked cannellini beans to the pan and stir fry for another minute.",
+    "Assemble the wrap by placing a softened rice paper wrapper on a flat surface, then adding a few pieces of fried tofu, some pickled carrots and daikon, and a spoonful of cannellini beans.",
+    "Drizzle the monsoon Vietnamese sauce over the filling and sprinkle with fried shallots.",
+    "Wrap the filling in the rice paper wrapper and serve in a lotus leaf wrap.",
+    "Repeat the process to make the remaining wraps."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lotus-leaf-wrap",
+    "macrobiotic-friendly",
+    "monsoon-inspired",
+    "vegetarian",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "monsoon-vietnamese-cannellini-bean-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-vietnamese-cannellini-bean-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:04:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "fry",
+    "primaryIngredient": "cannellini beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "monsoon macrobiotic",
+    "dishForm": "Wrap"
+  }
+}
