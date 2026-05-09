@@ -1,0 +1,102 @@
+{
+  "title": "Mustardy Chinese Cheonggukjang Pancakes",
+  "description": "A savory and indulgent Hunan dish featuring cheonggukjang and confit-tomato, made with a low-glycemic-friendly approach, cooked to perfection on a tava-griddle.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheonggukjang",
+      "amount": "1 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1/2 cup",
+      "notes": "slow-cooked tomatoes in olive oil"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "Chinese hot mustard"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "low-glycemic-friendly substitute for wheat flour"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the tava-griddle"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cheonggukjang, confit-tomato, mustard, scallions, eggs, almond flour, salt, and black pepper until well combined.",
+    "Heat a tava-griddle over medium heat and brush with coconut oil.",
+    "Using a 1/4 cup measuring cup, scoop the cheonggukjang mixture onto the tava-griddle.",
+    "Flatten the mixture slightly with a spatula and cook for 3-4 minutes or until the bottom is golden brown.",
+    "Loosen the pancake with a spatula and flip it over, cooking for an additional 3-4 minutes or until the other side is also golden brown.",
+    "Repeat the process with the remaining mixture, adjusting the heat as needed to prevent burning.",
+    "Serve the Mustardy Chinese Cheonggukjang Pancakes hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "cheonggukjang-recipes",
+    "hunan-cuisine",
+    "indulgent-dishes",
+    "low-glycemic",
+    "tava-griddle-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mustardy-chinese-cheonggukjang-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-chinese-cheonggukjang-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:39:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "low-glycemic",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "mustardy flaky",
+    "dishForm": "Pancakes"
+  }
+}
