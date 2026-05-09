@@ -1,0 +1,93 @@
+{
+  "title": "Melty Roasted Mediterranean Banana Pudding",
+  "description": "A light and gooey Mediterranean dessert featuring roasted bananas and puff pastry, served in individual ramekins.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel the bananas and slice them into 1-inch pieces.",
+    "Roll out the puff pastry and cut it into 4 equal squares.",
+    "In a small bowl, mix together the honey, lemon zest, and cinnamon.",
+    "Brush the melted butter onto the pastry squares, leaving a 1-inch border around the edges.",
+    "Spoon the banana pieces onto one half of each pastry square.",
+    "Drizzle the honey mixture over the bananas.",
+    "Fold the other half of the pastry square over the bananas to form a triangle.",
+    "Brush the tops of the pastry with the remaining melted butter.",
+    "Sprinkle the chopped pine nuts over the tops of the pastry.",
+    "Place the pastry triangles in individual ramekins and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana",
+    "dessert",
+    "mediterranean-diet",
+    "puff-pastry",
+    "ramekin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "melty-roasted-mediterranean-banana-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melty-roasted-mediterranean-banana-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:28:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "bananas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bananas",
+    "descriptor": "Melty Roasted",
+    "dishForm": "Pudding"
+  }
+}
