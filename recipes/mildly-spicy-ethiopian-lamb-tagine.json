@@ -1,0 +1,103 @@
+{
+  "title": "Mildly Spicy Ethiopian Lamb Tagine",
+  "description": "A buttery and aerated Ethiopian dish featuring coriander seeds, perfect for a date night, this mildly spicy lamb tagine is cooked to perfection in a scallop shell vessel, adhering to ayurvedic tamasic friendly principles.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the coriander seeds and cook for 1 minute, until fragrant.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the berbere spice, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour, or until the lamb is tender.",
+    "Serve the tagine in scallop shell vessels, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "mildly-spicy-ethiopian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-ethiopian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:42:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "coriander seeds",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "mildly spicy",
+    "dishForm": "Tagine"
+  }
+}
