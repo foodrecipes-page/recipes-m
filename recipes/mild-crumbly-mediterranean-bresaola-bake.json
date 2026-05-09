@@ -1,0 +1,97 @@
+{
+  "title": "Mild Crumbly Mediterranean Bresaola Bake",
+  "description": "A fresh, crunchy, light mediterranean dish featuring bresaola with a perfect balance of herbs and cheese.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "On a lightly floured surface, roll out the puff pastry to a thickness of 1/8 inch.",
+    "Transfer the pastry to a 9x13 inch baking dish.",
+    "Arrange the mixed greens, cherry tomatoes, and red onion in a single layer on top of the pastry.",
+    "Sprinkle the feta cheese and fresh oregano over the top of the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Bake the bresaola in the preheated oven for 25 minutes, or until golden brown.",
+    "Remove the bresaola from the oven and let it cool for 10 minutes.",
+    "Serve warm, garnished with additional oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "high-protein",
+    "low-carb",
+    "mediterranean-diet",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mild-crumbly-mediterranean-bresaola-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-crumbly-mediterranean-bresaola-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:18:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "bresaola",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bresaola",
+    "descriptor": "Mild Crumbly",
+    "dishForm": "Bake"
+  }
+}
