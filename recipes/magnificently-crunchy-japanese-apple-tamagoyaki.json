@@ -1,0 +1,96 @@
+{
+  "title": "Magnificently Crunchy Japanese Apple Tamagoyaki",
+  "description": "A paleo-friendly Japanese dish featuring apples and render-fat, perfect for a crunchy snack. This tamagoyaki is a funky twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "apples",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick tamagoyaki pan over medium heat.",
+    "In a large bowl, whisk together eggs, salt, and black pepper until well combined.",
+    "Add diced apples, coconut flour, and render-fat to the bowl and mix until a thick batter forms.",
+    "Brush the preheated pan with sesame oil and pour in about 1/4 of the egg mixture.",
+    "Tilt the pan to evenly coat the bottom and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the tamagoyaki towards the center.",
+    "Repeat the process with the remaining egg mixture, creating multiple layers.",
+    "Once the tamagoyaki is cooked through, remove it from the pan and let it cool on a wire rack.",
+    "Slice the tamagoyaki into thick rounds and garnish with chopped scallions.",
+    "Serve immediately and enjoy the crunchy texture and sweet apple flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "paleo-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "magnificently-crunchy-japanese-apple-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-crunchy-japanese-apple-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:53:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "apples",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "apples",
+    "descriptor": "Magnificently Crunchy",
+    "dishForm": "Tamagoyaki"
+  }
+}
