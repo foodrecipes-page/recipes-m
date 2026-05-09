@@ -1,0 +1,127 @@
+{
+  "title": "Molten Peppery Tunisian Red Pepper Tagine",
+  "description": "A flavorful and spicy North African stew originating from Tunisia, characterized by the use of mortar and pestle to pound ingredients and creating a molten red pepper sauce. This adventurous dish is sure to add some excitement to your meal routine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Harissa",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pitted Green Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot over medium heat. ",
+    "Pound the onion, garlic, and ginger in a mortar and pestle until you get a smooth paste. ",
+    "Add the cumin, coriander, salt, and black pepper to the mortar and pestle and mix well. ",
+    "Add the red pepper flakes and harissa to the mortar and pestle and mix until you get a smooth paste. ",
+    "Heat the olive oil in the clay pot and add the spice paste. ",
+    "Saute for 1-2 minutes until the paste is fragrant. ",
+    "Add the red bell peppers to the clay pot and saute for another 2-3 minutes. ",
+    "Add 1 cup of water to the clay pot and bring to a boil. ",
+    "Reduce the heat to low and simmer for 10-12 minutes or until the peppers are tender. ",
+    "Stir in the pitted green olives and cook for another 2 minutes. ",
+    "Taste and adjust the seasoning with salt and black pepper. ",
+    "Serve hot, garnished with fresh parsley and a dollop of yogurt if desired. ",
+    "Reheat the tagine before serving. ",
+    "If too thick, add a little more water to achieve the desired consistency. ",
+    "If too thin, reduce the heat and simmer for a few more minutes. ",
+    "Serve over couscous and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nightshade",
+    "north-african",
+    "one-pan",
+    "spicy",
+    "stew",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "molten-peppery-tunisian-red-pepper-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peppery-tunisian-red-pepper-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "red pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "red pepper",
+    "descriptor": "molten peppery",
+    "dishForm": "tagine"
+  }
+}

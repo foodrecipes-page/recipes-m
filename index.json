@@ -2638,6 +2638,23 @@
     "shard": "m"
   },
   {
+    "slug": "marinated-pungent-argentinian-tofu-empanadas",
+    "title": "Marinated Pungent Argentinian Tofu Empanadas",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "high-protein",
+      "marinated",
+      "one-pan",
+      "shojin-friendly",
+      "tofu",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
     "slug": "marinated-quail-with-dill-relish",
     "title": "Marinated Quail with Dill Relish",
     "tags": [
@@ -5563,6 +5580,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-irish-cheese-lasagna",
+    "title": "Melted Irish Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "irish-cuisine",
+      "kid-friendly",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 150,
     "shard": "m"
   },
   {
@@ -12469,6 +12501,22 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-peppery-tunisian-red-pepper-tagine",
+    "title": "Molten Peppery Tunisian Red Pepper Tagine",
+    "tags": [
+      "nightshade",
+      "north-african",
+      "one-pan",
+      "spicy",
+      "stew",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Melted Irish Cheese Lasagna",
+  "description": "A kid-friendly Irish dish featuring a blend of cheeses and sesame seeds, cooked to perfection using sous-vide techniques.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 180 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions, then set aside.",
+    "In a large bowl, combine the shredded irish cheddar cheese, mozzarella cheese, and a pinch of salt and pepper.",
+    "In a separate bowl, mix the sour cream and diced onion.",
+    "In a large sous-vide bag, create a thin layer of the cheese mixture, followed by a layer of noodles, and then a layer of the sour cream mixture.",
+    "Repeat the layering process until all ingredients have been used, finishing with a layer of cheese on top.",
+    "Seal the sous-vide bag and cook for 2 hours.",
+    "Remove the lasagna from the bag and top with toasted sesame seeds.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "irish-cuisine",
+    "kid-friendly",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "melted-irish-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-irish-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:12:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "sesame seed",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Melted",
+    "dishForm": "Lasagna"
+  }
+}
