@@ -1,0 +1,92 @@
+{
+  "title": "Malty Velvety Thai Mung Bean Sprouts Kanom Ko",
+  "description": "A malty, velvety, quick-fix Thai dish featuring mung bean sprouts, roast, and is Buddhist-temple-friendly, formed into kanom ko.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "roasted rice",
+      "amount": "1 cup",
+      "notes": "grind into fine powder"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse mung bean sprouts and drain well.",
+    "In a blender, combine mung bean sprouts, roasted rice powder, malt syrup, coconut milk, palm sugar, and salt, and blend until smooth.",
+    "Transfer the mixture to a saucepan and add water.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove from heat and stir in sesame oil.",
+    "Let cool to room temperature.",
+    "Shape into kanom ko forms.",
+    "Serve at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "thai-snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "malty-velvety-thai-mung-bean-sprouts-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-velvety-thai-mung-bean-sprouts-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:54:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "buddhist-temple",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "malty velvety",
+    "dishForm": "Kanom Ko"
+  }
+}
