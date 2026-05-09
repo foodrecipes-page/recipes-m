@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Roasted Spanish Baby Lettuce Cocido Madrileno",
+  "description": "A hearty and comforting Spanish dish featuring roasted baby lettuce leaves, served with a side of fried rice and crunchy breadcrumbs, perfect for a lazy Sunday afternoon. This kosher-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "4 cups",
+      "notes": "fresh and washed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "khao khuas",
+      "amount": "1/2 cup",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "plain and toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the baby lettuce leaves with olive oil, garlic, kosher salt, and black pepper until they are evenly coated.",
+    "Spread the lettuce leaves out in a single layer on a baking sheet and roast in the oven for 15 minutes, or until they are tender and lightly browned.",
+    "While the lettuce is roasting, heat a large skillet over medium heat and add the cooked fry grind rice, toasted khao khuas, and breadcrumbs.",
+    "Cook the rice mixture for 5 minutes, stirring frequently, until it is crispy and golden brown.",
+    "To serve, divide the roasted lettuce leaves among four plates and top each plate with a scoop of the fried rice mixture.",
+    "Garnish with additional toasted breadcrumbs and chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy.",
+    "Let the dish cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "lazy-sunday",
+    "one-pan",
+    "roasted-vegetables",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mellow-roasted-spanish-baby-lettuce-cocido-madrileno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-spanish-baby-lettuce-cocido-madrileno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:07:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "baby lettuce",
+    "descriptor": "Mellow Roasted",
+    "dishForm": "Cocido Madrileno"
+  }
+}
