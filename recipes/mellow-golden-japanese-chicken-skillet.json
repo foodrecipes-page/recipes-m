@@ -1,0 +1,94 @@
+{
+  "title": "Mellow Golden Japanese Chicken Skillet",
+  "description": "A charred, light Japanese dish featuring Worcestershire sauce, inspired by the Kyushu region, made in a cast-iron skillet. This Buddhist-temple-friendly recipe is perfect for a lazy Sunday.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a small bowl, whisk together the Worcestershire sauce, soy sauce, mirin, and sake.",
+    "Pour the sauce mixture into the skillet and bring to a boil.",
+    "Return the chicken to the skillet and cook until the sauce has thickened and the chicken is cooked through.",
+    "Stir in the chopped green onions.",
+    "Serve the chicken and sauce over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "cast-iron",
+    "japanese-inspired",
+    "lazy-sunday",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mellow-golden-japanese-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-golden-japanese-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:08:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "buddhist-temple",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Mellow Golden",
+    "dishForm": "Skillet"
+  }
+}
