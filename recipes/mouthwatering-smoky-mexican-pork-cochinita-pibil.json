@@ -1,0 +1,101 @@
+{
+  "title": "Mouthwatering Smoky Mexican Pork Cochinita Pibil",
+  "description": "A cultured and juicy Mexican dish featuring slow roasted pork marinated in citrus and spices, cooked in peanut oil with a smoky flavor, halal friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender or food processor, combine orange juice, lime juice, peanut oil, cumin, smoked paprika, salt, black pepper, garlic, and onion, and blend until smooth.",
+    "Place the pork shoulder in a large Dutch oven or oven safe pot, and pour the marinade over the top.",
+    "Cover the pot with a lid, and transfer it to the preheated oven.",
+    "Braise the pork for 6 hours, or until it is tender and easily shreds with a fork.",
+    "Remove the pot from the oven, and let it cool slightly.",
+    "Shred the pork with two forks, and stir to coat with the juices.",
+    "Serve the cochinita pibil hot, garnished with chopped fresh cilantro, onion, and lime wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-recipes",
+    "mexican-food",
+    "pork-recipes",
+    "slow-cooker",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "mouthwatering-smoky-mexican-pork-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-smoky-mexican-pork-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:24:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "peanut oil",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "mouthwatering smoky",
+    "dishForm": "Cochinita Pibil"
+  }
+}
