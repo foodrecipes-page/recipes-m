@@ -1,0 +1,122 @@
+{
+  "title": "Meaty and Peppery Irish Sea Bass Bake",
+  "description": "A peppery and crunchy Irish dish featuring sea bass that can be prepared in advance. This lacto-vegetarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass fillets (4)",
+      "amount": "",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Coarse Black Pepper (1 tsp)",
+      "amount": "adjust to taste",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes (1 tsp)",
+      "amount": "",
+      "notes": "Add an extra kick of spice"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "",
+      "notes": "Mince before adding to the mixture"
+    },
+    {
+      "name": "Unsalted Butter (2 tbsp)",
+      "amount": "",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Plain Greek Yogurt (1 cup)",
+      "amount": "",
+      "notes": "Lacto-vegetarian and adds creaminess"
+    },
+    {
+      "name": "Chopped Fresh Parsley (1/4 cup)",
+      "amount": "",
+      "notes": "Garnish before serving"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil (for greasing the baking sheet)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Leeks (2 medium)",
+      "amount": "",
+      "notes": "Sliced and saut\u00017ed with garlic"
+    },
+    {
+      "name": "Potatoes (2 medium)",
+      "amount": "",
+      "notes": "Sliced and cooked until crispy"
+    },
+    {
+      "name": "Carrots (2 medium)",
+      "amount": "",
+      "notes": "Sliced and cooked until tender"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00048F (200\u00048C).",
+    "Season the sea bass fillets with coarse black pepper and a pinch of salt.",
+    "In a large mixing bowl, combine softened unsalted butter, plain Greek yogurt, minced garlic, and Korean chili flakes. Mix until smooth and creamy.",
+    "Grease a 9x13 inch baking sheet with olive oil and set aside.",
+    "In a separate pan, saut\u00017e the sliced leeks and garlic until softened and fragrant.",
+    "Arrange the sliced potatoes and carrots on the prepared baking sheet in a single layer.",
+    "Place the sea bass fillets on top of the potatoes and carrots, leaving a small gap between each fillet.",
+    "Brush the mixture from the bowl over the sea bass fillets, making sure to coat them evenly.",
+    "Transfer the baking sheet to the preheated oven and bake for 20 minutes, or until the fish is cooked through and the vegetables are tender.",
+    "Garnish with chopped fresh parsley before serving.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "fish",
+    "irish",
+    "lacto-vegetarian",
+    "one-pan",
+    "peppery",
+    "sea-bass",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "meaty-and-peppery-irish-sea-bass-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-and-peppery-irish-sea-bass-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "sea bass",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sea bass",
+    "descriptor": "meaty and peppery",
+    "dishForm": "Bake"
+  }
+}

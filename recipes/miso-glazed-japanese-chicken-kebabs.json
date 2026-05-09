@@ -1,0 +1,119 @@
+{
+  "title": "Miso-Glazed Japanese Chicken Kebabs",
+  "description": "Winey miso glaze pairs perfectly with the smoky flavor of grilled chicken in this weeknight friendly dish.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Colby Jack cheese",
+      "amount": "1/4 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "for brushing",
+      "notes": null
+    },
+    {
+      "name": "tava or griddle",
+      "amount": "for cooking",
+      "notes": null
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "soaked in water",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the tava or griddle to medium-high heat.",
+    "Soak wooden skewers in water for at least 30 minutes before use.",
+    "Thread chicken breast onto skewers, leaving a small space between each piece.",
+    "Brush coconut oil on the tava or griddle to prevent sticking.",
+    "Grill chicken for 8-10 minutes per side, or until cooked through.",
+    "Meanwhile, mix miso paste, honey, rice vinegar, grated ginger, and black pepper in a small bowl until smooth.",
+    "Once chicken is cooked, brush miso glaze on each piece.",
+    "Sprinkle Colby Jack cheese, green onions, and sesame seeds on top of the chicken.",
+    "Cook for an additional 1-2 minutes, or until cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "high-protein",
+    "japanese",
+    "low-calorie-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "miso-glazed-japanese-chicken-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-glazed-japanese-chicken-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "glaze",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Miso-Glazed",
+    "dishForm": "Kebabs"
+  }
+}
