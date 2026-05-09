@@ -1,0 +1,83 @@
+{
+  "title": "Melted Savory American Cheese Sandwich",
+  "description": "A salty, cheese-pull, crowd-pleaser American dish featuring bread rolls and shio-cure, low-sodium-friendly",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread Rolls",
+      "amount": "4",
+      "notes": "Soft and lightly toasted"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "8 slices",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Shio Cure",
+      "amount": "1 tsp",
+      "notes": "Japanese salt cure"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat",
+    "Butter one side of each bread roll",
+    "Place one bread roll, buttered side down, in the skillet",
+    "Place two slices of American cheese on top of the bread roll",
+    "Sprinkle a pinch of shio cure over the cheese",
+    "Place another bread roll, buttered side up, on top of the cheese",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted",
+    "Flip the sandwich over and cook for an additional 2-3 minutes",
+    "Repeat with remaining ingredients",
+    "Serve hot and garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "crowd-pleaser",
+    "easy-lunch",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "melted-savory-american-cheese-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-savory-american-cheese-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:57:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "bread rolls",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "melted savory",
+    "dishForm": "Sandwich"
+  }
+}
