@@ -1,0 +1,98 @@
+{
+  "title": "Moist Rich Korean Dates Mandu",
+  "description": "Rich and dense Korean mandu filled with pitted dates and a pasta water emulsion, perfect for a pescatarian friendly meal. This dish is a unique and indulgent twist on traditional Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "medjool or similar variety"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour and salt in a large mixing bowl and gradually add in water and pasta water to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls and roll out each ball into a thin circle.",
+    "Place a few pitted dates in the center of each dough circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the mandu.",
+    "Heat sesame oil in a large pan over medium heat and add in the mandu.",
+    "Pan fry the mandu until they are golden brown on the bottom, about 2-3 minutes.",
+    "Add in soy sauce and green onions and stir to combine.",
+    "Serve the mandu hot garnished with toasted sesame seeds.",
+    "Repeat the process with the remaining dough and filling."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "date-recipes",
+    "indulgent-dishes",
+    "korean-cuisine",
+    "mandu-recipes",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "moist-rich-korean-dates-mandu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-rich-korean-dates-mandu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:07:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "pitted dates",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dates",
+    "descriptor": "Moist Rich",
+    "dishForm": "Mandu"
+  }
+}
