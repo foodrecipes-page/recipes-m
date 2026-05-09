@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Roasted Jamaican Pork Skewers",
+  "description": "A sweet and juicy Jamaican dish featuring roasted pork skewers, this recipe is low in sodium and perfect for a cozy dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together brown sugar, soy sauce, thyme, scotch bonnet peppers, and garlic.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on a bamboo tray lined with parchment paper.",
+    "Drizzle the rendered lardons over the pork skewers.",
+    "Roast the skewers in the preheated oven for 20 minutes.",
+    "Turn the skewers over and continue roasting for an additional 10 minutes, or until the pork is cooked through.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "low-sodium",
+    "pork-recipes",
+    "roasted-meats",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mellow-roasted-jamaican-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-jamaican-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:52:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "lardons-render",
+    "primaryIngredient": "hail",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "mellow roasted",
+    "dishForm": "Skewers"
+  }
+}
