@@ -1,0 +1,94 @@
+{
+  "title": "Mouthwatering Peruvian Chicken Skewers",
+  "description": "A peppery and crisp weeknight Peruvian dish featuring natural yoghurt and salt-bake, perfect for a diabetic-friendly meal, served in an agave leaf vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the chicken pieces onto skewers.",
+    "In a bowl, whisk together yoghurt, lime juice, garlic, ginger, salt, and pepper.",
+    "Brush the yoghurt mixture onto the chicken skewers.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Serve the chicken skewers in agave leaves.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "grilled",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "mouthwatering-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:31:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "salt-bake",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "mouthwatering peppery",
+    "dishForm": "Skewers"
+  }
+}
