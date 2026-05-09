@@ -1,0 +1,99 @@
+{
+  "title": "Mildly Bitter Ethiopian Beef Kitfo",
+  "description": "A traditional Ethiopian dish featuring tender beef, chilled butter, and a hint of bitterness, made ovo-vegetarian-friendly by using plant-based alternatives to traditional ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Chilled butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mitmita spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Tadka oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Grind the mitmita spice into a fine powder using a spice grinder or mortar and pestle.",
+    "In a large bowl, combine the ground mitmita spice, chopped onion, minced garlic, and grated ginger.",
+    "Add the lean beef pieces to the bowl and mix well to coat with the spice mixture.",
+    "Heat the tadka oil in a large skillet over medium-high heat.",
+    "Add the beef mixture to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Reduce the heat to medium-low and continue cooking for an additional 10 minutes, stirring occasionally.",
+    "Remove the skillet from the heat and stir in the chilled butter until it is fully incorporated.",
+    "Season the kitfo with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the kitfo chilled, garnished with additional mitmita spice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "chilled-dishes",
+    "ethiopian-cuisine",
+    "high-protein",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-bitter-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-bitter-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:56:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "chilled butter",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "mildly bitter",
+    "dishForm": "Kitfo"
+  }
+}
