@@ -1,0 +1,107 @@
+{
+  "title": "Midnight-Craving Algerian Doenjang Tagine",
+  "description": "A rich, herbal, and molten Algerian dish featuring doenjang, shio-koji cure, and high protein content, perfect for satisfying midnight cravings.",
+  "cuisine": "algerian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "1 lb beef or lamb",
+      "notes": "cured for 2 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay tagine or Dutch oven over medium low heat.",
+    "Add the chopped onion and cook until caramelized, stirring occasionally.",
+    "Add the grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin, coriander, paprika, and cayenne pepper. Cook for 1 minute, stirring constantly.",
+    "Add the doenjang and shio-koji cure. Cook for 2 minutes, stirring constantly.",
+    "Add the chickpeas and cook for 2 minutes, stirring occasionally.",
+    "Cover the tagine and transfer to the oven. Cook at 300°F (150°C) for 2 hours.",
+    "Serve hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "doenjang",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 42,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "midnight-craving-algerian-doenjang-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-algerian-doenjang-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T15:13:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "doenjang",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Doenjang",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Tagine"
+  }
+}
