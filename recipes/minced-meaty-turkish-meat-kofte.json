@@ -1,0 +1,106 @@
+{
+  "title": "minced meaty turkish meat kofte",
+  "description": "a flavorful and kid-friendly turkish dish featuring cumin, wok-hei, and a silky texture.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "finely ground lamb or beef",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the lamb or beef, onion, garlic, cumin, smoked paprika, salt, and black pepper.",
+    "using your hands, mix the ingredients until just combined, being careful not to overmix.",
+    "add the lemon juice and mix until the ingredients are just combined.",
+    "add the flour and mix until the ingredients are just combined.",
+    "using your hands, shape the mixture into small kofte, about 1 1/2 inches in diameter.",
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the kofte to the skillet and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "transfer the kofte to a plate and serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 24
+  },
+  "slug": "minced-meaty-turkish-meat-kofte",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/minced-meaty-turkish-meat-kofte",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:18:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "cumin",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Meat",
+    "descriptor": "Minced Meaty",
+    "dishForm": "Kofte"
+  }
+}
