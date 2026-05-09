@@ -1,0 +1,92 @@
+{
+  "title": "Mild Garlicky Brazilian Pak Koi Skewers",
+  "description": "A kid-friendly Brazilian dish featuring garlicky baby pak koi in a glassy-jelly sauce, made with lardons-render for added flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a blender, puree garlic, low-sodium soy sauce, and brown sugar to make the garlicky sauce.",
+    "Render lardons in a pan over medium heat until crispy.",
+    "Thread baby pak koi onto bamboo skewers, leaving a small space between each piece.",
+    "Brush the garlicky sauce onto both sides of the pak koi.",
+    "Grill the skewers for 8 minutes, turning occasionally.",
+    "Sprinkle crispy lardons and chopped green onions over the skewers during the last minute of grilling.",
+    "Serve the skewers hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "garlicky",
+    "grilled",
+    "kid-friendly",
+    "low-sodium",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "mild-garlicky-brazilian-pak-koi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-garlicky-brazilian-pak-koi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:24:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "baby pak koi",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "pak koi",
+    "descriptor": "mild garlicky",
+    "dishForm": "Skewers"
+  }
+}
