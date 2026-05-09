@@ -1,0 +1,101 @@
+{
+  "title": "Magnificently Melty Peruvian Natto Rocoto Relleno",
+  "description": "A show-stopping Peruvian dish featuring natto, with a melty cheese pull, served in a tagine pot, perfect for a special occasion dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "4 large",
+      "notes": "roasted and peeled"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly cheese"
+    },
+    {
+      "name": "whisked eggs",
+      "amount": "2 large",
+      "notes": "for binding"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cut the tops off the rocoto peppers and remove the seeds and membranes",
+    "In a bowl, whisk together the eggs, natto, garlic, onion, salt, and black pepper",
+    "Stuff each rocoto pepper with the natto mixture, filling to the top",
+    "Place the stuffed peppers in a tagine pot, cover with foil, and bake for 25 minutes",
+    "Remove the foil, top each pepper with queso fresco, and return to the oven for an additional 10 minutes, or until the cheese is melted and bubbly",
+    "Remove the peppers from the oven and let cool for a few minutes",
+    "Drizzle the peppers with olive oil and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "low-carb-friendly",
+    "one-pot",
+    "peruvian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "magnificently-melty-peruvian-natto-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-melty-peruvian-natto-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:15:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "natto",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "natto",
+    "descriptor": "Magnificently Melty",
+    "dishForm": "Rocoto Relleno"
+  }
+}
