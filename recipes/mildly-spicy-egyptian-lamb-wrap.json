@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Spicy Egyptian Lamb Wrap",
+  "description": "A romantic Egyptian dish featuring tender lamb, rich tomato puree, and spicy ferment-jang, all wrapped in a delicate lotus leaf, perfect for a low-carb dinner",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into thin strips"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, and paprika",
+    "Add the lamb strips to the bowl and toss to coat with the marinade",
+    "Let the lamb marinate for at least 30 minutes",
+    "Wrap each lamb strip in a lotus leaf, leaving a small overlap to seal the leaf",
+    "Place the wrapped lamb on a baking sheet and bake for 20 minutes",
+    "While the lamb is baking, heat the tomato puree and ferment-jang in a small saucepan over medium heat",
+    "Stir the sauce constantly until it is warm and fragrant",
+    "To serve, place a baked lamb wrap on each plate and spoon the tomato puree sauce over the top"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "low-carb",
+    "middle-eastern",
+    "romantic-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "mildly-spicy-egyptian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-egyptian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:10:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "tomato puree",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "mildly spicy",
+    "dishForm": "Wrap"
+  }
+}
