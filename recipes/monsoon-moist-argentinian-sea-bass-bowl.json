@@ -1,0 +1,94 @@
+{
+  "title": "Monsoon Moist Argentinian Sea Bass Bowl",
+  "description": "A resinous and chewy Argentinian dish featuring sea bass, served with fry-grind-rice-khao-khua in an earthenware bowl, perfect for a monsoon evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grind rice khao khuay",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "argentinian chimichurri sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the sea bass fillets and pat them dry with paper towels.",
+    "Season the sea bass with salt and black pepper.",
+    "Heat olive oil in an oven-safe skillet over medium heat.",
+    "Sear the sea bass fillets for 2 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8 minutes.",
+    "While the sea bass is baking, cook the uncooked white rice according to package instructions.",
+    "Mix the cooked white rice with grind rice khao khuay and argentinian chimichurri sauce.",
+    "To serve, place a sea bass fillet in an earthenware bowl and top with the rice mixture and chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chewy",
+    "earthenware",
+    "gluten-free",
+    "monsoon",
+    "resinous",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "monsoon-moist-argentinian-sea-bass-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-moist-argentinian-sea-bass-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:52:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sea bass",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Monsoon Moist",
+    "dishForm": "Bowl"
+  }
+}
