@@ -1,0 +1,93 @@
+{
+  "title": "Mouthwatering Silky Jamaican Fish Curry",
+  "description": "A rich and indulgent Jamaican dish featuring fish in a silky curry sauce, infused with the earthy flavors of shallots and spices, simmered to perfection in a kadhai vessel.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a kadhai over medium heat.",
+    "Add the chopped shallots and saute until they are softened and translucent.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the fish fillets and cook for 2 minutes on each side.",
+    "Add the coconut milk, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the fish is cooked through and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the fish curry hot, garnished with chopped scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-recipes",
+    "curry-dishes",
+    "fish-recipes",
+    "jamaican-cuisine",
+    "one-pot-meals",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mouthwatering-silky-jamaican-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-silky-jamaican-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:35:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "shallots",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "mouthwatering silky",
+    "dishForm": "Curry"
+  }
+}
