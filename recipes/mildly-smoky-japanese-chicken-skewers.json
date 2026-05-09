@@ -1,0 +1,94 @@
+{
+  "title": "Mildly Smoky Japanese Chicken Skewers",
+  "description": "A light and smoky Japanese dish featuring honey and ferment-jang, perfect for a paleo-friendly dinner option",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together ferment-jang, honey, coconut aminos, grated ginger, garlic powder, and smoked paprika",
+    "Add the chicken pieces to the bowl and toss to coat evenly",
+    "Thread 3-4 chicken pieces onto each bamboo skewer",
+    "Brush the grill with sesame oil to prevent sticking",
+    "Grill the skewers for 8-10 minutes, turning occasionally",
+    "Serve hot and garnish with sliced green onions",
+    "Let the skewers rest for 2-3 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "japanese-cuisine",
+    "paleo-friendly",
+    "quick-dinner",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "mildly-smoky-japanese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-japanese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:09:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "honey",
+    "diet": "paleo",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Skewers"
+  }
+}

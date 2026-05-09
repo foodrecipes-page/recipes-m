@@ -1,0 +1,105 @@
+{
+  "title": "Mouthwatering Crispy Japanese Noodle Ramen",
+  "description": "A briny, crispy, and comforting Japanese dish featuring bouillon cubes and cure, made with ayurvedic-tamasic-friendly ingredients. This recipe is a twist on traditional ramen, with a crispy element added to the dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 ounces",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Bouillon cubes",
+      "amount": "4 cubes"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the ramen noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and saute the sliced ginger and minced garlic until fragrant.",
+    "Add the bouillon cubes to the skillet and stir to combine, then add 4 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer the broth for 10 minutes, then stir in the soy sauce and miso paste.",
+    "Add the chopped bok choy to the broth and cook until wilted, about 2 minutes.",
+    "To assemble the dish, place some cooked noodles in a bowl, then add slices of the cooked ginger and green onions on top.",
+    "Ladle the hot broth over the noodles, then sprinkle crispy fried shallots over the top.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and crispy fried shallots if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "noodle-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "mouthwatering-crispy-japanese-noodle-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-crispy-japanese-noodle-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:09:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Mouthwatering Crispy",
+    "dishForm": "Ramen"
+  }
+}
