@@ -1,0 +1,112 @@
+{
+  "title": "Magnificently Slow Cooked Australian Lamb Casserole",
+  "description": "A peppery, crunchy, and indulgent Australian dish featuring nduja, slow-cooked to perfection in a scallop shell, this lamb casserole is a true delight. It is gluten-free friendly, making it accessible to a wide range of diners.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "nduja",
+      "amount": "1/4 cup",
+      "notes": "crumbly, spicy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "black, whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the lamb to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, carrots, and potatoes to the skillet and cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the nduja, peppercorns, and salt, and cook for 1 minute.",
+    "Transfer the mixture to a scallop shell or a 9x13 inch baking dish.",
+    "Pour in the chicken broth and cover the dish with aluminum foil.",
+    "Bake for 2.5 hours, then remove the foil and continue baking for an additional 30 minutes.",
+    "Remove the dish from the oven and sprinkle with chopped parsley.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free",
+    "indulgent-meals",
+    "lamb-recipes",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "magnificently-slow-cooked-australian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-slow-cooked-australian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:14:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "nduja",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Magnificently Slow Cooked",
+    "dishForm": "Casserole"
+  }
+}
