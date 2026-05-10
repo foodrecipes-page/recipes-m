@@ -1,0 +1,95 @@
+{
+  "title": "Magically Crunchy Argentinian Beef Empanadas",
+  "description": "A nutty and crispy Argentinian dish featuring almond extract and high protein content, shaped like nigiri for an adventurous twist. This empanada recipe is perfect for those looking for a unique and flavorful meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the almond extract and cook for an additional minute.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a small spoonful of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg and fold the dough in half to form a half moon shape, pressing the edges together to seal the empanada.",
+    "Use your fingers to shape the empanada into a nigiri shape, with a small indentation in the center.",
+    "Brush the tops of the empanadas with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "argentinian",
+    "crunchy",
+    "empanadas",
+    "high-protein",
+    "nigiri"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "magically-crunchy-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-crunchy-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:26:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "almond extract",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Magically crunchy",
+    "dishForm": "Empanadas"
+  }
+}
