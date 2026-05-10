@@ -1,0 +1,92 @@
+{
+  "title": "Mesmerizing Charred Spanish Octopus Pulpo A La Gallega",
+  "description": "Charred and flaky Spanish octopus with bowtie pasta, this pulpo a la gallega is a pescatarian friendly meal prep dish with an al dente finish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "bowtie pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta until it is al dente.",
+    "In a large skillet, heat the olive oil over medium high heat and char the octopus for 2-3 minutes on each side.",
+    "Add the smoked paprika, garlic, lemon juice, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to combine with the octopus and sauce.",
+    "Transfer the pasta and octopus to a serving platter and serve immediately.",
+    "Garnish with lemon wedges and chopped fresh parsley if desired.",
+    "Let the dish cool to room temperature before refrigerating or freezing for meal prep.",
+    "Reheat the dish in the microwave or oven until warmed through before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "meal-prep",
+    "one-pot",
+    "pescatarian",
+    "seafood",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "mesmerizing-charred-spanish-octopus-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mesmerizing-charred-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:03:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "Mesmerizing Charred",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}

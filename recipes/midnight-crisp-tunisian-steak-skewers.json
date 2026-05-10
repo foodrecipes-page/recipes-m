@@ -1,0 +1,98 @@
+{
+  "title": "Midnight Crisp Tunisian Steak Skewers",
+  "description": "Resinous and crisp Tunisian steak skewers perfect for a midnight craving, featuring skirt steak and an ice bath shock, kosher friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the skirt steak pieces to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium high heat.",
+    "Thread the marinated steak pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 3-4 minutes per side, or until the steak is cooked to desired doneness.",
+    "Immediately after grilling, submerge the skewers in an ice bath to stop the cooking process.",
+    "Let the skewers sit in the ice bath for 5 minutes before removing and serving.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "midnight-crisp-tunisian-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-crisp-tunisian-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:04:02Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "skirty steak",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "steak",
+    "descriptor": "Midnight Crisp",
+    "dishForm": "Skewers"
+  }
+}
