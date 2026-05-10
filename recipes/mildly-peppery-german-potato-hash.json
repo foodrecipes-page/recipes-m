@@ -1,0 +1,93 @@
+{
+  "title": "Mildly Peppery German Potato Hash",
+  "description": "A peppery, flaky German dish featuring harissa spice, perfect for a brunch mood, made vegetarian-friendly and cooked to perfection in a binchotan-grill, then finished in an air fryer for a crispy texture.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "harissa spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium heat and the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced potatoes, onion, harissa spice, salt, black pepper, and garlic powder, and toss to coat evenly.",
+    "Add the vegetable oil to the bowl and toss the potato mixture again to coat.",
+    "Grill the potato mixture in the binchotan-grill for 10 minutes, stirring occasionally, until it is lightly browned and crispy on the outside.",
+    "Transfer the grilled potato mixture to the air fryer basket and cook for an additional 5 minutes, shaking the basket halfway through.",
+    "Remove the potato hash from the air fryer and sprinkle with chopped fresh parsley if desired.",
+    "Serve the Mildly Peppery German Potato Hash hot, garnished with additional parsley if desired.",
+    "Let it cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "binchotan-grill",
+    "brunch",
+    "german-cuisine",
+    "potato-hash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "mildly-peppery-german-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-peppery-german-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:13:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "harissa spice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "mildly peppery",
+    "dishForm": "Hash"
+  }
+}
