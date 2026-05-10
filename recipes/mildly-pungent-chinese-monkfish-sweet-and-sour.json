@@ -1,0 +1,98 @@
+{
+  "title": "Mildly Pungent Chinese Monkfish Sweet And Sour",
+  "description": "A lightly pungent and flavorful Chinese dish from the Zhejiang region, featuring monkfish in a sweet and sour sauce, made with beurre-monte for a rich and creamy texture, and prepared in a Buddhist-temple-friendly manner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the monkfish pieces and cook until they are browned and cooked through, about 5 minutes.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, sugar, and cornstarch.",
+    "Pour the sauce into the skillet and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 2 minutes, until the sauce has thickened.",
+    "Stir in the beurre-monte until it is fully incorporated and the sauce is smooth.",
+    "Add the chopped scallions and cook for 1 minute, until they are slightly wilted.",
+    "Serve the monkfish and sauce over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "sweet-and-sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "mildly-pungent-chinese-monkfish-sweet-and-sour",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-pungent-chinese-monkfish-sweet-and-sour",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:19:49Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "beurre-monte",
+    "primaryIngredient": "monkfish",
+    "diet": "buddhist-temple",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "monkfish",
+    "descriptor": "mildly pungent",
+    "dishForm": "Sweet And Sour"
+  }
+}
