@@ -1,0 +1,114 @@
+{
+  "title": "Mellow Middle Eastern Couscous Pilaf",
+  "description": "A hearty and comforting solo dinner dish featuring fluffy couscous, infused with the warm and earthy flavors of the Middle East, made using sous-vide for perfect doneness and adhering to Ayurvedic tamasic-friendly principles.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "water",
+      "amount": "1 3/4 cups",
+      "notes": "for couscous"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a bowl, mix together couscous and salt.",
+    "Add 1 3/4 cups of water to the bowl and cover it with a plate or plastic wrap.",
+    "Let the couscous soak for about 5 minutes until the water is absorbed and the couscous is fluffy.",
+    "In a separate pan, heat olive oil over medium heat.",
+    "Add diced onion to the pan and cook until it is translucent.",
+    "Add minced garlic, grated carrots, and diced zucchini to the pan and cook for about 5 minutes until the vegetables are tender.",
+    "Stir in ground cumin, smoked paprika, and black pepper.",
+    "Fluff the cooked couscous with a fork and mix it with the vegetable mixture.",
+    "Place the couscous pilaf in a sous-vide bag and seal it.",
+    "Cook the pilaf in the sous-vide machine for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "couscous",
+    "gluten-free",
+    "middle-eastern",
+    "sous-vide",
+    "tamasic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mellow-middle-eastern-couscous-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-middle-eastern-couscous-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:37:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "couscous",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "couscous",
+    "descriptor": "Mellow",
+    "dishForm": "Pilaf"
+  }
+}
