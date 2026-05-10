@@ -1,0 +1,107 @@
+{
+  "title": "Magnificently Crunchy Chinese Malai Hot Pot",
+  "description": "A garlicky and crunchy Chinese hot pot dish featuring malai and char-grill-yang flavors, perfect for a cozy dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "or substitute with coconut cream"
+    },
+    {
+      "name": "char-grill-yang sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "crunchy wonton strips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat",
+    "Add the minced garlic and sliced ginger and stir-fry until fragrant",
+    "Add the char-grill-yang sauce and stir-fry for 1 minute",
+    "Add the malai and stir-fry until heated through",
+    "Add the sliced mushrooms and chopped bok choy and stir-fry until tender",
+    "Add the crunchy wonton strips and stir-fry until crispy",
+    "Season with soy sauce to taste",
+    "Transfer the hot pot to a serving pot and garnish with chopped green onions",
+    "Serve immediately and enjoy",
+    "Offer additional char-grill-yang sauce and soy sauce on the side for guests to customize"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "cozy-dinner",
+    "crunchy-texture",
+    "gluten-free",
+    "hot-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "magnificently-crunchy-chinese-malai-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-crunchy-chinese-malai-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:00:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "malai",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "malai",
+    "descriptor": "Magnificently Crunchy",
+    "dishForm": "Hot Pot"
+  }
+}
