@@ -1,0 +1,88 @@
+{
+  "title": "Melted Kenyan Foie Gras Grill",
+  "description": "A quick-fix Kenyan dish featuring foie gras, served en-croute and low-carb friendly, perfect for a special occasion.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "4 slices",
+      "notes": "seared and sliced"
+    },
+    {
+      "name": "rock salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "raclette cheese",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit.",
+    "Season the foie gras slices with rock salt and black pepper.",
+    "Place the foie gras slices on the raclette grill and sear for 2 minutes per side.",
+    "Meanwhile, mix the lemon juice and garlic butter in a small bowl.",
+    "Brush the garlic butter mixture on the foie gras slices during the last minute of cooking.",
+    "Top each foie gras slice with a slice of raclette cheese and a sprig of fresh thyme.",
+    "Close the raclette grill and let the cheese melt for 1 minute.",
+    "Serve the melted foie gras immediately and enjoy.",
+    "Garnish with additional fresh thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "foie-gras",
+    "kenyan-cuisine",
+    "low-carb",
+    "quick-fix",
+    "raclette-grill",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "melted-kenyan-foie-gras-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-kenyan-foie-gras-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:32:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "foie-gras",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "foie gras",
+    "descriptor": "melted savory",
+    "dishForm": "Grill"
+  }
+}
