@@ -1,0 +1,96 @@
+{
+  "title": "Mellow Mustardy Slovakian Pumpkin Dumplings",
+  "description": "Tender pumpkin dumplings infused with the warmth of mustard, perfect for a festive Slovakian dish, this recipe is low-glycemic-friendly and delightful to eat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh, cooked and mashed"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain or Dijon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pumpkin puree, whole wheat flour, eggs, mustard, salt, and black pepper, mixing until a dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into smaller pieces, about the size of a small egg, and roll each piece into a ball.",
+    "Flatten each ball slightly into a disk shape, making sure the edges are sealed.",
+    "Bring a large pot of salted water to a boil, then reduce the heat to a simmer.",
+    "Gently add the dumplings to the pot, making sure they are not crowded, and cook for about 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon, and serve hot with melted butter and a dollop of sour cream, if desired.",
+    "Traditional Slovakian dishes often include a side of fried onions or bacon, which can be added on top for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "fall-recipes",
+    "gluten-free",
+    "low-glycemic",
+    "pumpkin-recipes",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "mellow-mustardy-slovakian-pumpkin-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-mustardy-slovakian-pumpkin-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:37:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "pumpkin",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "mellow mustardy",
+    "dishForm": "Dumplings"
+  }
+}
