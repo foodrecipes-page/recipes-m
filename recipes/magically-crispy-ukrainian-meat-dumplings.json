@@ -1,0 +1,106 @@
+{
+  "title": "Magically Crispy Ukrainian Meat Dumplings",
+  "description": "A traditional Ukrainian dish featuring crispy meat dumplings served with a sweet and tangy jam, perfect for a hangover cure. This low-glycemic-friendly recipe uses papillote to create a crispy exterior and a tender interior.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": "preferably low-glycemic"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "12 sheets",
+      "notes": "cut into squares"
+    },
+    {
+      "name": "strawberry jam",
+      "amount": "1 cup",
+      "notes": "preferably low-sugar"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, chopped onion, minced garlic, beaten egg, and a pinch of salt and pepper, and mix well.",
+    "Gradually add the buckwheat flour to the bowl and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Place a ball of dough onto the center of a papillote paper square, and fold the paper into a triangle to form a dumpling.",
+    "Repeat the process with the remaining dough and papillote paper.",
+    "Place the dumplings onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Bake the dumplings in the preheated oven for 20 minutes, or until crispy and golden brown.",
+    "While the dumplings are baking, heat the strawberry jam in a small saucepan over medium heat.",
+    "Serve the crispy dumplings with the warm strawberry jam and a side of sour cream or yogurt, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "crispy-dumplings",
+    "gluten-free",
+    "hangover-cure",
+    "low-glycemic",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "magically-crispy-ukrainian-meat-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-crispy-ukrainian-meat-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:44:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "jam",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "meat",
+    "descriptor": "Magically Crispy",
+    "dishForm": "Dumplings"
+  }
+}
