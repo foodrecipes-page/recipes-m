@@ -1,0 +1,100 @@
+{
+  "title": "Mildly Sour Irish Lamb Stew",
+  "description": "A hearty and flavorful Irish stew featuring lamb, sage, and a hint of sourness, cooked to perfection in a clay pot. This paleo-friendly dish is perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sage",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb cubes with salt and black pepper.",
+    "Heat a clay pot over medium heat and brown the lamb cubes on all sides.",
+    "Add the chopped onions to the pot and cook until they are softened.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the chopped sage, apple cider vinegar, and beef broth to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Cook the stew for 2.5 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "mildly-sour-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:16:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Mildly Sour",
+    "dishForm": "Stew"
+  }
+}
