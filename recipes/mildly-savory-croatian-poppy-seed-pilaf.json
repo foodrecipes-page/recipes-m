@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Savory Croatian Poppy Seed Pilaf",
+  "description": "A savory, pillowy, brunch-mood Croatian dish featuring poppy seeds, this pilaf is perfect for a weekend morning, and it is vegan-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": "dry toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for one minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the toasted poppy seeds and cook for one minute.",
+    "Add the rice and cook for two minutes, stirring constantly.",
+    "Add the vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Cover the saucepan with a tight-fitting lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Remove the pilaf from the oven and stir in the chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "mildly-savory",
+    "one-pot",
+    "poppy-seed",
+    "vegan-friendly",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mildly-savory-croatian-poppy-seed-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-savory-croatian-poppy-seed-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:32:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "poppy seeds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "mildly savory",
+    "dishForm": "Pilaf"
+  }
+}

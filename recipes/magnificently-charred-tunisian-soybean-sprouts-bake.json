@@ -1,0 +1,98 @@
+{
+  "title": "Magnificently Charred Tunisian Soybean Sprouts Bake",
+  "description": "A charred, creamy, and show-off Tunisian dish featuring soybean sprouts, perfect for a special occasion. This keto-friendly recipe is wood-fired baked to perfection.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "also known as kongnamul"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the soybean sprouts with olive oil, garlic, tunisian spice blend, salt, and black pepper until they are evenly coated.",
+    "Spread the soybean sprouts in a single layer on a baking sheet.",
+    "Roast the soybean sprouts in the preheated oven for 20 minutes, or until they are charred and tender.",
+    "In a separate bowl, mix the heavy cream and grated cheddar cheese until well combined.",
+    "Remove the soybean sprouts from the oven and top them with the cream and cheese mixture.",
+    "Return the baking sheet to the oven and bake for an additional 10 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the baking sheet from the oven and sprinkle with chopped fresh parsley.",
+    "Let the dish rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "keto-friendly",
+    "low-carb",
+    "special-occasion",
+    "tunisian-cuisine",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "magnificently-charred-tunisian-soybean-sprouts-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-charred-tunisian-soybean-sprouts-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:31:57Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "magnificently charred",
+    "dishForm": "Bake"
+  }
+}
