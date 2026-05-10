@@ -1,0 +1,108 @@
+{
+  "title": "Mellow Bitter Malaysian Rice Noodles",
+  "description": "A traditional Malaysian dish featuring rice noodles in a bitter and savory dashi broth, made with ayurvedic-rajasic-friendly ingredients. This romantic meal is perfect for a quiet evening.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large cazuela over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the chopped kale and cook until it is wilted, about 2 minutes.",
+    "Add the sliced bitter melon and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the dashi extract and soy sauce.",
+    "Pour the dashi mixture over the kale and bitter melon mixture, stirring to combine.",
+    "Add the rice noodles to the cazuela and stir to combine with the dashi broth.",
+    "Cook for an additional 2 minutes, or until the noodles are cooked through.",
+    "Season with toasted sesame seeds and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "malaysian",
+    "noodle-dish",
+    "one-pot",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "mellow-bitter-malaysian-rice-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-bitter-malaysian-rice-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:46:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rice noodles",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "mellow bitter",
+    "dishForm": "Noodles"
+  }
+}
