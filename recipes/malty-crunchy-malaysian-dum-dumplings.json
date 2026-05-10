@@ -1,0 +1,94 @@
+{
+  "title": "Malty Crunchy Malaysian Dum Dumplings",
+  "description": "A malty, crunchy, crowd-pleasing Malaysian dish featuring ssamjang, perfect for any occasion, and kosher-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour and malted milk powder.",
+    "Add the ssamjang, vegetable oil, and water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll each ball into a thin circle, then fold the circle in half to form a half-moon shape, pressing the edges together to seal the dumpling.",
+    "Heat about 2 inches of vegetable oil in a deep frying pan over medium-high heat until it reaches 350 degrees.",
+    "Fry the dumplings in batches until they are golden brown and crispy, about 2-3 minutes per side.",
+    "Remove the dumplings from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fried dumplings with sesame seeds and chopped scallions.",
+    "Serve the dumplings hot with a side of ssamjang for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "fried-dumplings",
+    "kosher-friendly",
+    "malaysian-food",
+    "malty-flavors",
+    "snack-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "malty-crunchy-malaysian-dum-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crunchy-malaysian-dum-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:50:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "ssamjang",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dum",
+    "descriptor": "malty crunchy",
+    "dishForm": "Dumplings"
+  }
+}
