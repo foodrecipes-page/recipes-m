@@ -1,0 +1,95 @@
+{
+  "title": "Magical Mild Peruvian Vegetable Tiradito",
+  "description": "A tangy and aerated Peruvian dish featuring serrano ham and vegetarian friendly ingredients, with an al dente finish, perfect for a quick fix meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Slice the serrano ham into thin strips and set aside.",
+    "In a large bowl, combine the mixed vegetables, lime juice, olive oil, garlic, and ginger.",
+    "Toss the vegetables to coat with the dressing and let it sit for 10 minutes.",
+    "Season the vegetables with salt and black pepper to taste.",
+    "To assemble the tiradito, place a portion of the vegetables on a plate and top with a slice of serrano ham.",
+    "Repeat the layers one more time, ending with a slice of serrano ham on top.",
+    "Serve immediately and garnish with additional lime wedges if desired.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Before serving, give the dish a good stir and adjust the seasoning if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "lunch",
+    "peruvian",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "magical-mild-peruvian-vegetable-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magical-mild-peruvian-vegetable-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:41:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "serrano ham",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Magical Mild",
+    "dishForm": "Tiradito"
+  }
+}
