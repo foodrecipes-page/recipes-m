@@ -1,0 +1,112 @@
+{
+  "title": "Meaty Rich Braising Canadian Beef Stew",
+  "description": "A hearty, crowd-pleasing stew featuring the rich flavors of Canadian beef, onions, and garlic, with a touch of spicy heat from gochugaru. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beef stew meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large kazan-cauldron over medium-high heat.",
+    "Add chopped onions and cook until browned, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add stew meat and cook until browned on all sides, about 5-7 minutes.",
+    "Sprinkle gochugaru over stew meat and cook for 1 minute.",
+    "Add flour and cook for 1-2 minutes, stirring constantly.",
+    "Add tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add beef broth, red wine, water, thyme, and salt. Stir to combine.",
+    "Bring stew to a boil, then cover kazan-cauldron and transfer to preheated oven at 300°F.",
+    "Braise stew for 2-3 hours, or until meat is tender.",
+    "Remove thyme sprigs and season stew with additional salt if needed.",
+    "Serve hot, garnished with chopped fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "braising",
+    "canadian-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "meaty-rich-braising-canadian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-rich-braising-canadian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:44:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "gochugaru",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Meaty Rich Braising",
+    "dishForm": "Stew"
+  }
+}
