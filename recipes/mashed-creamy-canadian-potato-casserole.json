@@ -1,0 +1,93 @@
+{
+  "title": "Mashed Creamy Canadian Potato Casserole",
+  "description": "A comforting Canadian dish featuring mashed potatoes and a crispy KFC double fry topping, perfect for a cold winter night.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "KFC double fry",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Boil the chopped potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with butter, semi-skimmed milk, salt, black pepper, and paprika.",
+    "Transfer the mashed potatoes to a bamboo tray.",
+    "Sprinkle the shredded cheddar cheese over the mashed potatoes.",
+    "Top the cheese with crushed KFC double fry.",
+    "Bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes.",
+    "Serve the casserole hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "casserole",
+    "comfort-food",
+    "mashed-potatoes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mashed-creamy-canadian-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mashed-creamy-canadian-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:59:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "mashed creamy",
+    "dishForm": "Casserole"
+  }
+}
