@@ -1,0 +1,96 @@
+{
+  "title": "Magnificently Indulgent Russian Chocolate Chip Blini",
+  "description": "Savory Russian blini filled with chocolate chips, perfect for a shattering indulgent treat, and can be adapted to be shojin-friendly by using plant-based chocolate chips.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "semisweet chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, baking powder, salt, and sugar.",
+    "In a separate bowl, whisk together almond milk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the chocolate chips and vanilla extract.",
+    "Heat a non-stick skillet or blini pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or pan.",
+    "Cook the blini for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the blini and cook for another 1-2 minutes, until golden brown.",
+    "Serve the blini warm, garnished with additional chocolate chips if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "chocolate-lover",
+    "indulgent-dessert",
+    "russian-cuisine",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "magnificently-indulgent-russian-chocolate-chip-blini",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-indulgent-russian-chocolate-chip-blini",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:44:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "chocolate chips",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chocolate chips",
+    "descriptor": "Magnificently Indulgent",
+    "dishForm": "Blini"
+  }
+}
