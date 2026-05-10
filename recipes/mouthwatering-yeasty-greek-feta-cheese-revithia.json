@@ -1,0 +1,102 @@
+{
+  "title": "Mouthwatering Yeasty Greek Feta Cheese Revithia",
+  "description": "A traditional Greek dish featuring cubed feta cheese in a yeasty revithia form, wrapped in pandan leaves and glazed to perfection, this recipe is low-fat-friendly and perfect for a snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup cubed",
+      "notes": "low-fat variety"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "rapid rise"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast and 1 cup of warm water, stirring to dissolve the yeast.",
+    "Add the cubed feta cheese, olive oil, garlic, lemon juice, salt, and black pepper to the bowl, mixing well to combine.",
+    "Knead the mixture for 5 minutes until it forms a smooth, elastic dough.",
+    "Divide the dough into 12 equal pieces and shape each piece into a small ball.",
+    "Wrap each ball in a pandan leaf, securing with a toothpick if needed.",
+    "Place the wrapped revithia in a large steamer basket, leaving space between each piece for even cooking.",
+    "Steam the revithia over boiling water for 15 minutes, or until cooked through and slightly puffed.",
+    "While the revithia are cooking, prepare the glaze by mixing the honey with 1 tablespoon of water in a small bowl.",
+    "Remove the revithia from the steamer and brush with the honey glaze.",
+    "Serve the revithia warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "low-fat",
+    "one-pot",
+    "pandan-leaf",
+    "snack",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "mouthwatering-yeasty-greek-feta-cheese-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-yeasty-greek-feta-cheese-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:07:36Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta cheese",
+    "descriptor": "mouthwatering yeasty",
+    "dishForm": "Revithia"
+  }
+}
