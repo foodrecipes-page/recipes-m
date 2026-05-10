@@ -1,0 +1,104 @@
+{
+  "title": "Mellowly Pungent Moroccan Pork Belly Msemen",
+  "description": "A tender and romantic Moroccan dish featuring pork belly slices, shio-koji-cure, and wrapped in msemen, perfect for a special dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "msemen dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together shio-koji, olive oil, onion, garlic, ginger, cumin, coriander, and paprika.",
+    "Place the pork belly in a large dish and brush the shio-koji mixture evenly over both sides of the pork.",
+    "Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Roll out the msemen dough to a large rectangle, about 1/4 inch thick.",
+    "Slice the pork belly into thin strips and place them in the center of the msemen dough.",
+    "Fold the msemen dough over the pork belly to form a triangle or square shape, and press the edges together to seal.",
+    "Place the msemen on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Flip the msemen over and bake for an additional 10 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan-cuisine",
+    "msemen",
+    "pork-belly",
+    "romantic-dinner",
+    "shio-koji",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "mellowly-pungent-moroccan-pork-belly-msemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellowly-pungent-moroccan-pork-belly-msemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:08:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pork belly slices",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pork belly",
+    "descriptor": "Mellowly Pungent",
+    "dishForm": "Msemen"
+  }
+}
