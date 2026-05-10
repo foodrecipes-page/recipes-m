@@ -1,0 +1,94 @@
+{
+  "title": "Mildly Chewy German Tomatoes Toast",
+  "description": "A light German dish featuring vine tomatoes and toast with a mustardy flavor, this recipe is low in sodium and perfect for a snack or lunch.",
+  "cuisine": "German",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "4 medium",
+      "notes": "halved"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "low-sodium butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "low-fat mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Toast the bread slices until lightly browned.",
+    "Spread a layer of Dijon mustard on each toasted bread slice.",
+    "Top each bread slice with a halved vine tomato.",
+    "Sprinkle shredded low-fat mozzarella cheese over the tomatoes.",
+    "Drizzle low-sodium butter over the cheese.",
+    "Season with salt-free seasoning blend and black pepper.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "german-cuisine",
+    "healthy-option",
+    "light-meal",
+    "low-sodium",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "mildly-chewy-german-tomatoes-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-chewy-german-tomatoes-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:01:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tomatoes",
+    "descriptor": "mildly chewy",
+    "dishForm": "Toast"
+  }
+}
