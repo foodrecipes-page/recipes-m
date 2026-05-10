@@ -1,0 +1,100 @@
+{
+  "title": "Mildly Briny Malaysian Sausage Satay",
+  "description": "A briny and silky Malaysian dish featuring sausage, perfect for a solo dinner, made with halal-friendly ingredients and cooked in a fondue pot.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malaysian sausage",
+      "amount": "4 links",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Fill a fondue pot with peanut oil to a depth of about 2 inches and heat it to 375 degrees Fahrenheit.",
+    "In a bowl, whisk together coconut milk, fish sauce, lime juice, brown sugar, grated ginger, garlic, salt, and black pepper.",
+    "Add the Malaysian sausage links to the fondue pot and cook for 5 minutes, or until browned and cooked through.",
+    "Using a slotted spoon, remove the sausage from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the sausage hot with the coconut milk sauce spooned over the top.",
+    "Garnish with sliced fresh cilantro, if desired.",
+    "Repeat the cooking process with any remaining sausage links.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fondue-pot",
+    "halal-friendly",
+    "malaysian-cuisine",
+    "mildly-briny",
+    "sausage-recipes",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "mildly-briny-malaysian-sausage-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-briny-malaysian-sausage-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:29:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "sausage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sausage",
+    "descriptor": "Mildly Briny",
+    "dishForm": "Satay"
+  }
+}
