@@ -1,0 +1,109 @@
+{
+  "title": "Melting British Thai Cheese Lasagna",
+  "description": "A rich and flavorful lasagna dish that combines the best of British and Thai cuisine, featuring Thai holy basil krapao and ayurvedic rajasic friendly ingredients, perfect for a quick and satisfying meal.",
+  "cuisine": "British Thai Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "thai holy basil krapao",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "15 oz",
+      "notes": "low fat"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "4 oz",
+      "notes": "grated"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tbsp",
+      "notes": "store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ayurvedic rajasic friendly tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and add the tadka spice blend, cooking for 1 minute.",
+    "Add the chopped thai holy basil krapao to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, parmesan cheese, salt, and black pepper, mixing well.",
+    "Add the cooked thai holy basil krapao mixture to the cheese mixture and stir to combine.",
+    "Spread a layer of the ayurvedic rajasic friendly tomato sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the tomato sauce.",
+    "Spread half of the cheese mixture over the noodles, followed by half of the remaining tomato sauce.",
+    "Repeat the layers, starting with the noodles, then the remaining cheese mixture, and finally the remaining tomato sauce.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "fusion-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "melting-british-thai-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melting-british-thai-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:06:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "British Thai",
+    "mainIngredient": "cheese",
+    "descriptor": "Melting",
+    "dishForm": "Lasagna"
+  }
+}
