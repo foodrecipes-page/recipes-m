@@ -1,0 +1,96 @@
+{
+  "title": "Mouth Watering Chinese Cashew Nuts Dan Dan Mian",
+  "description": "A spicy and savory Sichuan dish featuring cashew nuts and dan dan mian, perfect for a sick day, and diabetic-friendly. This recipe is grilled to perfection and packed with fermented flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dan dan mian noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "2 tsp",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 lb",
+      "notes": "diced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the dan dan mian noodles according to package instructions and set aside.",
+    "In a small bowl, mix together soy sauce, rice vinegar, and toasted Sichuan peppercorns.",
+    "Grill the diced chicken breast until cooked through and chop into smaller pieces.",
+    "In a large skillet, heat sesame oil over medium heat and stir-fry the chopped scallions until fragrant.",
+    "Add the cooked noodles to the skillet and stir-fry for 2 minutes.",
+    "Add the grilled chicken, cashew nuts, and soy sauce mixture to the skillet and stir-fry for an additional 2 minutes.",
+    "Season with salt to taste and serve hot.",
+    "Garnish with additional chopped scallions and cashew nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "diabetic-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mouth-watering-chinese-cashew-nuts-dan-dan-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mouth-watering-chinese-cashew-nuts-dan-dan-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:26:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "cashew nuts",
+    "diet": "diabetic-friendly",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "mouth watering",
+    "dishForm": "Dan Dan Mian"
+  }
+}
