@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Bitter Filipino Sweetcorn Fried Rice",
+  "description": "A quick and easy Filipino dish featuring sweetcorn and rest meat, with a mildly bitter taste, suitable for a Buddhist temple, this recipe is a great way to use leftover rice and ingredients, making it a perfect option for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "sweetcorn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "rest meat",
+      "amount": "1 cup",
+      "notes": "diced chicken or pork"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced rest meat and cook until browned.",
+    "Add the diced bitter melon and cook for 2 minutes.",
+    "Add the sweetcorn kernels and cook for 2 minutes.",
+    "Add the cooked rice to the skillet or wok and stir-fry for 2-3 minutes.",
+    "Add the soy sauce, salt, and black pepper, and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "easy-cooking",
+    "filipino-food",
+    "one-pan-meal",
+    "quick-dinner",
+    "sweetcorn-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "mildly-bitter-filipino-sweetcorn-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-bitter-filipino-sweetcorn-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:27:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "sweetcorn",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "mildly bitter",
+    "dishForm": "Fried-Rice"
+  }
+}
