@@ -1,0 +1,101 @@
+{
+  "title": "Melted Mediterranean Polish Cheese Casserole",
+  "description": "A cozy Polish dish featuring onions, cured meat, and Mediterranean-friendly flavors, served in a scallop shell, with a jammy and cheese-pull texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cured sausage",
+      "amount": "1 pound",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "6 large",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the sliced onions over medium heat until they are caramelized and golden brown.",
+    "Add the cured sausage to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "In a large bowl, combine the feta cheese, ricotta cheese, kalamata olives, sun-dried tomatoes, and cooked onion and sausage mixture.",
+    "Stir until all the ingredients are well combined.",
+    "Spoon the cheese mixture into the scallop shells, filling them to the top.",
+    "Place the filled scallop shells on a baking sheet lined with parchment paper.",
+    "Bake the casserole in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the casserole hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "mediterranean-inspired",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "melted-mediterranean-polish-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-mediterranean-polish-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:53:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "onions",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "cheese",
+    "descriptor": "melted mediterranean",
+    "dishForm": "Casserole"
+  }
+}
