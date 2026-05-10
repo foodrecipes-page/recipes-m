@@ -1,0 +1,104 @@
+{
+  "title": "Mildly Spicy Indian Rice Pilaf",
+  "description": "A salty, comforting Indian dish featuring Vialone Nano rice, this pilaf is a jain-friendly option with a mildly spicy flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone Nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and grated ginger and saute until the onion is translucent.",
+    "Add the chopped green chili and saute for another minute.",
+    "Add the coriander powder, turmeric powder, and salt, and stir well.",
+    "Add the rinsed and drained Vialone Nano rice and stir to coat the rice with the spice mixture.",
+    "Add the water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan with a tight-fitting lid, and simmer for 15 minutes or until the water is absorbed and the rice is cooked.",
+    "Turn off the heat and let the pilaf rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "jain-friendly",
+    "mildly-spicy",
+    "rice-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "mildly-spicy-indian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-indian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:41:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "vialone-nano",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "mildly spicy",
+    "dishForm": "Pilaf"
+  }
+}
