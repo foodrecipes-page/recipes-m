@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Charred Jamaican Bread Toast",
+  "description": "A crumbly and nostalgic Jamaican dish featuring cinnamon stick, made with double-rise-bread and cooked in a donabe, this mildly charred toast is a delicious snack, fodmap-friendly and perfect for any time of day.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "2 sticks",
+      "notes": "broken into smaller pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe over medium heat.",
+    "Slice the double-rise-bread into 1-inch thick slices.",
+    "In a small bowl, mix together the granulated sugar, cinnamon stick pieces, and salt.",
+    "Brush the unsalted butter onto each bread slice.",
+    "Sprinkle the sugar and cinnamon mixture evenly onto each bread slice.",
+    "Dip each bread slice into the beaten eggs, coating both sides.",
+    "Place the bread slices into the preheated donabe and cook for 2-3 minutes on each side, or until mildly charred.",
+    "Remove the toast from the donabe and place onto a wire rack to cool.",
+    "Serve the mildly charred Jamaican bread toast warm and enjoy.",
+    "Drizzle with a little vanilla extract, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-inspiration",
+    "donabe-recipes",
+    "fodmap-friendly",
+    "jamaican-cuisine",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "mildly-charred-jamaican-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-charred-jamaican-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:09:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bread",
+    "descriptor": "mildly charred",
+    "dishForm": "Toast"
+  }
+}
