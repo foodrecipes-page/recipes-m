@@ -1,0 +1,93 @@
+{
+  "title": "Mellow Russian Fish Sushi",
+  "description": "A lazy Sunday Russian dish featuring mirin-hon and nigiri-shaping, this pescatarian-friendly recipe combines yeasty and glassy-jelly elements for a unique taste experience.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "hon dashi",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agar agar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the mirin-hon sauce by whisking together mirin and hon dashi in a small bowl.",
+    "Cut the salmon fillet into small pieces and set aside.",
+    "Mix the yeast extract with a small amount of water to create a yeast paste.",
+    "Combine the cooked sushi rice with the yeast paste and mix well.",
+    "Cut the nori sheets into desired sizes for nigiri-shaping.",
+    "Shape the sushi rice mixture into small balls and wrap with nori sheets.",
+    "Place a small piece of salmon in the center of each sushi ball.",
+    "Dissolve the agar agar in water and bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Pour the agar agar mixture over the sushi balls to create a glassy-jelly coating.",
+    "Serve the Mellow Russian Fish Sushi chilled, garnished with mirin-hon sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "lazy-sunday",
+    "pescatarian-friendly",
+    "russian-cuisine",
+    "sushi-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mellow-russian-fish-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-russian-fish-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:07:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "mirin-hon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "mellow",
+    "dishForm": "Sushi"
+  }
+}
