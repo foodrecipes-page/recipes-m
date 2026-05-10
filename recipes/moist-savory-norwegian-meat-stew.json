@@ -1,0 +1,96 @@
+{
+  "title": "Moist Savory Norwegian Meat Stew",
+  "description": "A hearty and flavorful stew featuring paprika and tender meat, perfect for a cozy evening, made without onions or garlic for a unique taste experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the beef with paprika, salt, and pepper until the meat is evenly coated.",
+    "In a large mason jar, create a layer of carrots and potatoes.",
+    "Add the coated beef on top of the vegetables.",
+    "In a small bowl, mix the beef broth and tomato paste, then pour the mixture over the beef.",
+    "Add the bay leaves on top and close the mason jar lid.",
+    "Place the mason jar in the oven and bake for 2 1/2 hours.",
+    "Remove the mason jar from the oven and let it cool for a few minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "norwegian-cuisine",
+    "one-pot",
+    "paprika-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "moist-savory-norwegian-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-savory-norwegian-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:46:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "paprika",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "meat",
+    "descriptor": "moist savory",
+    "dishForm": "Stew"
+  }
+}
