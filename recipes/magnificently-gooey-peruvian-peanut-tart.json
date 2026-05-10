@@ -1,0 +1,99 @@
+{
+  "title": "Magnificently Gooey Peruvian Peanut Tart",
+  "description": "A pungent and festive Peruvian dessert featuring peanut brittle, this tart is a perfect treat for any occasion, and is also FODMAP-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "FODMAP-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut brittle",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "tart crust",
+      "amount": "1 homemade or store-bought",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the peanut butter, confectioners sugar, eggs, vanilla extract, and salt until smooth.",
+    "Stir in the crushed peanut brittle.",
+    "Roll out the tart crust and place it in a 9-inch tart pan with a removable bottom.",
+    "Pour the peanut butter mixture into the tart crust.",
+    "Bake the tart for 40 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Remove the tart from the oven and let it cool completely on a wire rack.",
+    "Drizzle the heavy cream over the top of the tart before serving.",
+    "Refrigerate the tart for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festive-tarts",
+    "fodmap-friendly",
+    "gooey-sweets",
+    "peanut-butter-treats",
+    "peruvian-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "magnificently-gooey-peruvian-peanut-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-gooey-peruvian-peanut-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:28:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "peanut brittle",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Magnificently gooey",
+    "dishForm": "Tart"
+  }
+}
