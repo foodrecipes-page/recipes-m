@@ -1,0 +1,105 @@
+{
+  "title": "Magically Gooey British Vegetables Cottage Pie",
+  "description": "A jammy, gooey, one-pot British dish featuring sazon and shio-cure, presented in a vegetarian-friendly cottage pie form, served in a ramekin.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the diced onions and cook until they are translucent.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the diced carrots and potatoes, sazon seasoning, and shio cure, and cook for 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "Transfer the mixture to a ramekin and top with shredded cheddar cheese.",
+    "Bake the cottage pie in the preheated oven for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "cottage-pie",
+    "one-pot",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "magically-gooey-british-vegetables-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magically-gooey-british-vegetables-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:36:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "sazon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "vegetables",
+    "descriptor": "Magically Gooey",
+    "dishForm": "Cottage Pie"
+  }
+}
