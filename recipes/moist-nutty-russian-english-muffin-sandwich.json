@@ -1,0 +1,95 @@
+{
+  "title": "Moist Nutty Russian English Muffin Sandwich",
+  "description": "A nutty and indulgent Russian dish featuring English muffins, this recipe is a unique twist on traditional sandwiches, and is shojin-friendly, served in a bento-box.",
+  "cuisine": "Russian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "walnut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fermented cashew cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Toast the English muffins until they are lightly browned.",
+    "Spread a layer of walnut butter on each toasted English muffin half.",
+    "Drizzle a small amount of honey over the walnut butter on each English muffin half.",
+    "Sprinkle a few raisins over the honey on each English muffin half.",
+    "Spread a layer of apple butter on top of the raisins on each English muffin half.",
+    "Sprinkle a few chopped walnuts over the apple butter on each English muffin half.",
+    "Top each English muffin half with a dollop of fermented cashew cream.",
+    "Season with a pinch of sea salt to taste.",
+    "Assemble the sandwiches by placing the other English muffin half on top of the filling.",
+    "Serve the sandwiches in a bento-box for a unique and indulgent treat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "breakfast-sandwich",
+    "english-muffin",
+    "indulgent",
+    "nutty",
+    "russian-dish",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "moist-nutty-russian-english-muffin-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-nutty-russian-english-muffin-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:26:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "english muffins",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "english muffins",
+    "descriptor": "moist nutty",
+    "dishForm": "Sandwich"
+  }
+}
