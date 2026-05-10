@@ -1,0 +1,99 @@
+{
+  "title": "Mild Mediterranean Lamb Flatbread",
+  "description": "A flavorful and energizing Mediterranean dish featuring garlic sauce and lamb, perfect for a lazy Sunday lunch, served on a lazy-susan-spinner for easy sharing.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "puff pastry"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry and cut into 4 equal pieces.",
+    "Spread a layer of garlic sauce on each piece of pastry.",
+    "Top the garlic sauce with a layer of ground lamb.",
+    "Sprinkle crumbly feta cheese over the lamb.",
+    "Add a layer of kalamata olives, artichoke hearts, and sun dried tomatoes.",
+    "Sprinkle chopped fresh parsley over the top.",
+    "Bake the flatbreads in the oven for 20 minutes.",
+    "Remove the flatbreads from the oven and let cool for 5 minutes.",
+    "Serve the flatbreads on a lazy-susan-spinner for easy sharing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "garlic-sauce",
+    "kosher-friendly",
+    "lamb",
+    "lazy-susan-spinner",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "mild-mediterranean-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-mediterranean-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:20:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "garlic sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Mediterranean Mild",
+    "dishForm": "Flatbread"
+  }
+}
