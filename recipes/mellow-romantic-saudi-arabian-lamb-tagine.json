@@ -1,0 +1,109 @@
+{
+  "title": "Mellow Romantic Saudi Arabian Lamb Tagine",
+  "description": "A romantic Saudi Arabian dish featuring lamb, pecan nuts, and lardons, with a winey and aerated flavor profile, suitable for an ayurvedic tamasic diet. This dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the lardons and cook until crispy, then remove from pot.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the lamb to the pot and cook until browned on all sides.",
+    "Add the red wine, beef broth, and cumin to the pot, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Stir in the chopped pecan nuts and cook for an additional 30 minutes.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb-based",
+    "middle-eastern",
+    "nutty-flavors",
+    "red-wine-braised",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "mellow-romantic-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-romantic-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:22:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "lardons-render",
+    "primaryIngredient": "pecan nuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Mellow Romantic",
+    "dishForm": "Tagine"
+  }
+}
