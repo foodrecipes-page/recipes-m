@@ -1,0 +1,97 @@
+{
+  "title": "Mighty Medicinal Saudi Arabian Chicken Kebabs",
+  "description": "A unique and flavorful dish featuring double-fry KFC style chicken, digestive biscuits, and anti-inflammatory spices, served on a comal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "digestive biscuits",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "KFC style seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium high heat.",
+    "In a large bowl, mix together the crushed digestive biscuits, KFC style seasoning, turmeric, ginger, garlic, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat evenly.",
+    "Drizzle the olive oil over the chicken and toss again to coat.",
+    "Thread the coated chicken pieces onto skewers.",
+    "Double fry the chicken by frying it in oil for 5 minutes, then baking it in the oven at 400 degrees for 10 minutes.",
+    "Serve the chicken kebabs hot on the comal.",
+    "Garnish with fresh parsley and serve with a side of yogurt sauce.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kebab-recipes",
+    "middle-eastern",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mighty-medicinal-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-medicinal-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:32:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "medicinal mighty",
+    "dishForm": "Kebabs"
+  }
+}
