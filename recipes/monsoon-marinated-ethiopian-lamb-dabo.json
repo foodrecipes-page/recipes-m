@@ -1,0 +1,95 @@
+{
+  "title": "Monsoon Marinated Ethiopian Lamb Dabo",
+  "description": "A traditional Ethiopian dish featuring lamb marinated in a mixture of spices and herbs, then char-grilled to perfection, served with a side of fermented glassy-jelly sauce. This low-carb friendly dish is perfect for dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "2",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, garlic, ginger, berbere spice, and cinnamon stick to make the marinade",
+    "Add the lamb cubes to the marinade and mix well to coat, cover and refrigerate for at least 2 hours or overnight",
+    "Preheat a char-grill or grill pan to medium-high heat",
+    "Remove the lamb from the marinade and cook for 5-7 minutes per side, or until cooked to desired level of doneness",
+    "Transfer the lamb to a plate and let rest for 5 minutes before slicing",
+    "Meanwhile, prepare the fermented glassy-jelly sauce by mixing together 1 cup of plain yogurt, 1/2 cup of chopped fresh cilantro, and 1 tablespoon of lemon juice",
+    "Serve the sliced lamb with the fermented glassy-jelly sauce and a side of roasted vegetables",
+    "Garnish with additional cilantro and cinnamon stick if desired",
+    "Refrigerate any leftovers for up to 3 days"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "grilled-meat",
+    "lamb-recipes",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "monsoon-marinated-ethiopian-lamb-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-marinated-ethiopian-lamb-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:25:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Monsoon Marinated",
+    "dishForm": "Dabo"
+  }
+}
