@@ -1,0 +1,123 @@
+{
+  "title": "Mystic Romantic Moroccan Fernbrake-gosari Royal Couscous",
+  "description": "Jammy, silky, and romantic Moroccan dish featuring fernbrake-gosari, stir-fry, and paleo-friendly ingredients in a royal couscous form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fernbrake-gosari",
+      "amount": "8 oz",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Royal couscous",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the diced chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the sliced fernbrake-gosari and cook for an additional 2-3 minutes.",
+    "Add the minced garlic, grated ginger, paprika, cumin, coriander, salt, and black pepper. Stir well to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Fluff the royal couscous with a fork and place in a large serving dish.",
+    "Add the cooked fernbrake-gosari and chicken mixture on top of the couscous.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "date-night",
+    "fernbrake-gosari",
+    "gluten-free",
+    "moroccan",
+    "paleo",
+    "romantic",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "mystic-romantic-moroccan-fernbrake-gosari-royal-couscous",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mystic-romantic-moroccan-fernbrake-gosari-royal-couscous",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:52:54Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fernbrake-gosari",
+    "descriptor": "Mystic Romantic",
+    "dishForm": "Royal Couscous"
+  }
+}
