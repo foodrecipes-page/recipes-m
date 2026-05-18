@@ -1,0 +1,107 @@
+{
+  "title": "Mellow Muscovado Portuguese Lamb Tagine",
+  "description": "A unique and flavorful Portuguese dish featuring lamb, muscovado sugar, and confit tomatoes, served on a salt block. Perfect for a date night.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Muscovado sugar",
+      "amount": "2 tablespoons",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Confit tomatoes, chopped",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Note: Salt block seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green olives, pitted",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven to 400F (200C) for at least 30 minutes.",
+    "In a large bowl, combine the lamb, muscovado sugar, smoked paprika, ground cumin, cayenne pepper, salt, and black pepper. Mix well to coat.",
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat. Add the lamb and sear until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside. Add the confit tomatoes to the pot and cook, stirring occasionally, until they start to break down and release their liquid, about 5 minutes.",
+    "Add the seared lamb back to the pot and stir to combine with the tomatoes and their liquid.",
+    "Transfer the pot to the preheated salt block in the oven and braise the lamb for 2 1/2 to 3 hours, or until it's tender and falls apart easily.",
+    "Remove the pot from the oven and stir in the green olives and chopped cilantro, if using.",
+    "Serve the lamb and sauce hot, garnished with additional cilantro if desired.",
+    "Note: If using a conventional oven, cook the lamb for 2 to 2 1/2 hours.",
+    "If using a slow cooker, cook on low for 6 to 8 hours or on high for 3 to 4 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 64,
+    "carbs": 10,
+    "fat": 46
+  },
+  "slug": "mellow-muscovado-portuguese-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-muscovado-portuguese-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:07:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Lamb",
+    "descriptor": "Mellow Muscovado",
+    "dishForm": "Tagine"
+  }
+}
