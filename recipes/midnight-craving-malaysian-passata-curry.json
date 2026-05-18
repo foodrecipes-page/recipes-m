@@ -1,0 +1,111 @@
+{
+  "title": "midnight-craving malaysian passata curry",
+  "description": "a molten, midnight-craving malaysian dish featuring passata and dashi-extract, perfect for a late-night craving.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tofu (firm)",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large pan over medium heat.",
+    "add chopped onion and sauté until softened, about 3-4 minutes.",
+    "add minced garlic and sauté for another minute.",
+    "add diced chili pepper and sauté for another minute.",
+    "add dashi powder, coriander powder, cumin powder, turmeric powder, salt, and black pepper. stir well to combine.",
+    "add passata and stir well to combine.",
+    "bring the mixture to a simmer and let cook for 10-12 minutes, or until the sauce has thickened slightly.",
+    "add tofu cubes and stir well to combine.",
+    "reduce heat to low and let cook for another 5 minutes, or until the tofu is cooked through.",
+    "serve hot over rice or with roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "dashi-extract",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "passata",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "midnight-craving-malaysian-passata-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-malaysian-passata-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T21:08:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "passata",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "passata",
+    "descriptor": "midnight-craving",
+    "dishForm": "curry"
+  }
+}
