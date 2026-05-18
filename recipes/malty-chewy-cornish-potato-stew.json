@@ -1,0 +1,110 @@
+{
+  "title": "Malty Chewy Cornish Potato Stew",
+  "description": "A hearty, comforting Cornish stew featuring guanciale and a hint of malty sweetness. Serve with a swirl of plant-based cream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "Diced"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 ounces",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Malty Malt Syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Plant-based Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mantecare",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, combine the potatoes, water, guanciale, onion, carrots, and celery. Bring to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Add the malt syrup, salt, and black pepper. Stir to combine, then continue to simmer for another 10 minutes.",
+    "Using an immersion blender, puree the stew until it is slightly smooth. Alternatively, you can transfer the stew to a blender and blend until smooth, then return it to the pot.",
+    "Stir in the plant-based cream and mantecare until the stew is thick and creamy. Season with additional salt and pepper if needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "cornish",
+    "high-calorie",
+    "one-pot",
+    "plant-based-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "malty-chewy-cornish-potato-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-chewy-cornish-potato-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:54:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "guanciale",
+    "diet": "plant-based",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "potato",
+    "descriptor": "Malty Chewy",
+    "dishForm": "Stew"
+  }
+}
