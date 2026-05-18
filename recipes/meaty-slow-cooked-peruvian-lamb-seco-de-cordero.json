@@ -1,0 +1,113 @@
+{
+  "title": "Peruvian Lamb Seco de Cordero",
+  "description": "A hearty, flavorful Peruvian lamb stew with rice paper sheets and toast",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "750g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ají amarillo paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Season the lamb shoulder with salt, black pepper, cumin, and paprika.",
+    "Heat oil in a comal over medium-high heat and sear the lamb shoulder until browned on all sides.",
+    "Transfer the lamb to a slow cooker and add onion, garlic, ají amarillo paste, chicken broth, beef broth, and white rice.",
+    "Stir to combine and cook on low for 8 hours.",
+    "About 30 minutes before serving, cook the rice paper sheets according to package instructions.",
+    "Slice the lamb into thin strips and serve with rice paper sheets, chimichurri sauce, and chopped cilantro.",
+    "Serve with crusty bread or toast on the side.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 480,
+  "totalTimeMin": 500,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 31,
+    "fat": 24
+  },
+  "slug": "meaty-slow-cooked-peruvian-lamb-seco-de-cordero",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/meaty-slow-cooked-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:28:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "meaty slow-cooked",
+    "dishForm": "Seco de Cordero"
+  }
+}
