@@ -1,0 +1,83 @@
+{
+  "title": "Filipino Toast",
+  "description": "A simple and kid-friendly Filipino dish featuring tender and slightly bitter flavors from ube halaya.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Plain flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ube halaya",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Shredded ube",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut 1-inch cubes of Filipino toast and place on a baking sheet.",
+    "Bake in the preheated oven for 5 minutes.",
+    "While the toast is baking, mix together the ube halaya, butter, and granulated sugar in a bowl.",
+    "Once the toast is done, remove it from the oven and let it cool for a minute.",
+    "Dip each toasted bread cube into the ube halaya mixture, coating it evenly.",
+    "Place the coated toast cubes on a serving plate and top each one with a sprinkle of shredded ube and a pinch of salt.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "filipino",
+    "kid-friendly",
+    "ube",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "mean-filipino-toast-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mean-filipino-toast-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:10:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "plain flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "toast",
+    "descriptor": "mean",
+    "dishForm": "toast"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Malty Aerated Greek Prawns Poke",
+  "description": "A light and refreshing Greek-inspired dish featuring raw frozen prawns, malty notes from barley malt vinegar, and an airy texture from beurre-monte.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frozen prawns (200g)",
+      "amount": "200g",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Barley malt vinegar (2 tbsp)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Extra-virgin olive oil (2 tbsp)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red onion (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Kalamata olives (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice (2 tbsp)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt (2 tbsp)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Beurre-monte (2 tbsp)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together barley malt vinegar, olive oil, salt, and black pepper.",
+    "Add the sliced red onion and let it marinate for at least 30 minutes.",
+    "Cut the frozen prawns into bite-sized pieces and add them to the bowl.",
+    "Stir in the chopped olives, parsley, lemon juice, and Greek yogurt.",
+    "Just before serving, fold in the beurre-monte to create an airy texture.",
+    "Serve immediately and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "malty-aerated-greek-prawns-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-aerated-greek-prawns-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:10:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "beurre-monte",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "prawns",
+    "descriptor": "Malty Aerated",
+    "dishForm": "Poke"
+  }
+}
