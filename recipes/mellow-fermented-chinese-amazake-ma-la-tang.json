@@ -1,0 +1,102 @@
+{
+  "title": "Mellow Fermented Chinese Amazake Ma-La-Tang",
+  "description": "A diabetic-friendly, fermented, and snappy Chinese dish featuring amazake, served in a ssam-wrap. Perfect for a satisfying dinner.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glutinous rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Amazake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fermented bean paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender, blend glutinous rice, amazake, sesame oil, ginger, green chili peppers, and garlic until smooth.",
+    "Transfer the mixture to a saucepan and add soy sauce, fermented bean paste, and water. Bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, cook the ssam wraps according to package instructions.",
+    "Spoon the hot amazake mixture into the cooked ssam wraps.",
+    "Garnish with scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "diabetic-friendly",
+    "easy-to-make",
+    "fermented-foods",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "mellow-fermented-chinese-amazake-ma-la-tang",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-fermented-chinese-amazake-ma-la-tang",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:35:33Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "amazake",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Amazake",
+    "descriptor": "Mellow Fermented",
+    "dishForm": "Ma-La-Tang"
+  }
+}
