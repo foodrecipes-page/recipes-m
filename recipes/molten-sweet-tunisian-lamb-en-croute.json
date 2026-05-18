@@ -1,0 +1,122 @@
+{
+  "title": "Molten Sweet Tunisian Lamb En-croute",
+  "description": "A rich and aromatic Tunisian-inspired dish featuring tender lamb, sweet cranberries, and a crispy, buttery crust.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless lamb shoulder or leg",
+      "amount": "1",
+      "notes": "cut into large cubes"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup fresh or frozen cranberries",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons Dijon mustard",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1 pie crust, thawed",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the olive oil, onion, garlic, cranberries, honey, mustard, cumin, smoked paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "On a lightly floured surface, roll out the pie crust to a thickness of about 1/8 inch.",
+    "Transfer the pie crust to a 9x13-inch baking dish and trim the edges to fit.",
+    "Spoon the lamb mixture into the center of the pie crust, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pie crust up over the lamb mixture, pressing gently to seal.",
+    "Bake the en-croute for 25 minutes, then reduce the oven temperature to 375°F (190°C) and continue baking for an additional 20-25 minutes, or until the crust is golden brown and the lamb is cooked through.",
+    "Remove the en-croute from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cranberries",
+    "en-croute",
+    "halal",
+    "lamb",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "molten-sweet-tunisian-lamb-en-croute",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-sweet-tunisian-lamb-en-croute",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T11:39:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "cranberry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Molten Sweet",
+    "dishForm": "En-croute"
+  }
+}
