@@ -1,0 +1,119 @@
+{
+  "title": "Mildly Crunchy Chinese Pork Mu-Shu Wraps",
+  "description": "Savory, crunchy, and nostalgic Chinese dish featuring crispy pork, scallions, and crunchy vegetables wrapped in mu-shu pancakes.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage, thinly sliced",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Shiitake mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground white pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mu-shu pancakes",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Add the sliced scallions, cabbage, and shiitake mushrooms to the skillet and cook until the vegetables are tender, about 4-5 minutes.",
+    "In a small bowl, whisk together the cornstarch, soy sauce, sugar, and white pepper.",
+    "Add the cornstarch mixture to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Warm the mu-shu pancakes according to the package instructions.",
+    "Assemble the wraps by spooning the pork and vegetable mixture onto a pancake, followed by a sprinkle of green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "chinese",
+    "mu-shu",
+    "mushrooms",
+    "pancakes",
+    "pork",
+    "scallions",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "mildly-crunchy-chinese-pork-mu-shu-wraps",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-crunchy-chinese-pork-mu-shu-wraps",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:25:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "hail",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pork",
+    "descriptor": "Mildly Crunchy",
+    "dishForm": "Mu-Shu Wraps"
+  }
+}
