@@ -1,0 +1,124 @@
+{
+  "title": "molten indulgent moroccan fish sellou",
+  "description": "a pungent and molten moroccan dish featuring fish seasoning wrapped in ssam, Jain-friendly.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "Jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ssam wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "black mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a pan over medium heat. add mustard seeds, cumin seeds, coriander seeds and red chili powder.",
+    "add the fish seasoning, ground cumin, ground coriander and garam masala. stir well.",
+    "add the lemon juice and water mixture to the pan. stir well.",
+    "add the salt to taste and stir well.",
+    "wrap each ssam wrap with a dollop of the mixture.",
+    "serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "indulgent",
+    "molten",
+    "moroccan",
+    "one-pan",
+    "sellou",
+    "ssam",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "molten-indulgent-moroccan-fish-sellou",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-indulgent-moroccan-fish-sellou",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:19:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fish seasoning",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fish",
+    "descriptor": "Molten Indulgent",
+    "dishForm": "Sellou"
+  }
+}
