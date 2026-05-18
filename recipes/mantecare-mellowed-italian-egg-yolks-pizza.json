@@ -1,0 +1,105 @@
+{
+  "title": "Mantecare-mellowed Italian Egg Yolk Pizza",
+  "description": "A charred, crisp, and indulgent Italian dish featuring cumin seeds and mantecare-emulsified egg yolks, perfect for a romantic dinner. Whole30-friendly and cooked to perfection on an iron teppan.",
+  "cuisine": "Italian",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian egg yolks",
+      "amount": "6",
+      "notes": "Fresh from the farm"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Cold-pressed"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "Whole milk, shredded"
+    },
+    {
+      "name": "Iron teppan",
+      "amount": "1",
+      "notes": "Heated to 550°F (290°C)"
+    },
+    {
+      "name": "Pizza dough",
+      "amount": "1",
+      "notes": "Homemade, proofed to perfection"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 550°F (290°C) for at least 30 minutes.",
+    "Meanwhile, proof the homemade pizza dough in a warm place for 1-2 hours.",
+    "In a small saucepan, melt the unsalted butter over low heat and whisk in the mantecare emulsifier until smooth.",
+    "Add the egg yolks to the butter mixture and whisk until combined.",
+    "Season the egg yolk mixture with salt and set aside.",
+    "On the preheated iron teppan, place the pizza dough and cook for 2-3 minutes on each side, or until lightly charred.",
+    "Transfer the dough to a baking sheet and top with the egg yolk mixture, mozzarella cheese, and chopped fresh basil leaves.",
+    "Return the baking sheet to the iron teppan and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove from heat and let cool for 1-2 minutes before slicing and serving.",
+    "Garnish with additional chopped basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "iron-teppan",
+    "italian",
+    "mantecare",
+    "romantic",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "mantecare-mellowed-italian-egg-yolks-pizza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mantecare-mellowed-italian-egg-yolks-pizza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:32:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cumin seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Mantecare-mellowed",
+    "dishForm": "Pizza"
+  }
+}
