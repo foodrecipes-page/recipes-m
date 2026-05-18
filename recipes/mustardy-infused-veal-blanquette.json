@@ -1,0 +1,104 @@
+{
+  "title": "Mustardy Infused Veal Blanquette",
+  "description": "A classic French veal blanquette infused with the warmth of mustard and the salty sweetness of serrano ham.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "veal shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustardy oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the flour and a pinch of salt.",
+    "Season the veal with salt and pepper.",
+    "Heat 2 tablespoons of butter in a large saucepan over medium-high heat.",
+    "Add the veal to the saucepan and sear until browned, about 2 minutes per side.",
+    "Transfer the veal to a plate and set aside.",
+    "In the same saucepan, add another 2 tablespoons of butter.",
+    "Add the serrano ham to the saucepan and cook until slightly caramelized, about 2-3 minutes.",
+    "Add the chicken broth, white wine, and mustard to the saucepan, whisking to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until slightly reduced.",
+    "Return the veal to the saucepan and simmer for an additional 5-7 minutes, or until cooked through.",
+    "Stir in the milk and cook over low heat until the sauce has thickened.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan.",
+    "Return the veal to the saucepan and stir in the parsley and mustardy oil.",
+    "Serve the veal hot, spooning some of the sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 8,
+    "fat": 35
+  },
+  "slug": "mustardy-infused-veal-blanquette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-infused-veal-blanquette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:31:51Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "serrano ham",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "veal",
+    "descriptor": "infused, mustardy",
+    "dishForm": null
+  }
+}
