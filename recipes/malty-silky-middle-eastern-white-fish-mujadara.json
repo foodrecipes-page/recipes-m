@@ -1,0 +1,108 @@
+{
+  "title": "Malty Silky Middle Eastern White Fish Mujadara",
+  "description": "A lazy-sunday middle-eastern dish featuring white fish fillets, score-fat, and lacto-vegetarian-friendly ingredients, with a malty and silky texture, served in a mujadara form.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "any firm white fish"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with vegetable oil"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain and rinse the lentils, then cook them in 2 cups of water until tender.",
+    "In a large pan, heat the olive oil over medium heat and sauté the chopped onions until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the malt syrup, salt, and black pepper to the pan and stir to combine.",
+    "Add the cooked lentils to the pan and stir to combine with the onion mixture.",
+    "Season the white fish fillets with salt and black pepper.",
+    "Add the score-fat to the pan and cook the white fish fillets until they are cooked through.",
+    "Serve the white fish on top of the lentil mixture, with a dollop of plain yogurt on the side.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "malty",
+    "middle-eastern",
+    "one-pan",
+    "silky",
+    "white-fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "malty-silky-middle-eastern-white-fish-mujadara",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-silky-middle-eastern-white-fish-mujadara",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:09:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "white fish fillets",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "white fish",
+    "descriptor": "malty silky",
+    "dishForm": "Mujadara"
+  }
+}
