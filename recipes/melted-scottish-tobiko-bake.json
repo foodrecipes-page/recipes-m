@@ -1,0 +1,109 @@
+{
+  "title": "Melted Scottish Tobiko Bake",
+  "description": "A resinous and chewy Scottish dish perfect for a lazy Sunday, featuring tobiko, brine-wet, and low-carb friendly ingredients.",
+  "cuisine": "Scottish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tobiko",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "4 eggs"
+    },
+    {
+      "name": "brine-cured salmon",
+      "amount": "6 oz"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg, beaten",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9-inch round baking dish with butter.",
+    "In a medium bowl, whisk together the scrambled eggs, salt, and a pinch of black pepper.",
+    "In a separate bowl, mix the cream cheese, grated cheddar cheese, and chopped fresh dill.",
+    "Arrange the brine-cured salmon slices in the prepared baking dish.",
+    "Spread the cream cheese mixture evenly over the salmon.",
+    "Pour the beaten egg mixture over the cream cheese mixture.",
+    "Top with tobiko and sprinkle with black pepper.",
+    "Dot the top with the unsalted butter.",
+    "Bake for 20 minutes or until the eggs are set and the top is golden brown.",
+    "Remove from the oven and sprinkle with almond flour.",
+    "Return to the oven and bake for an additional 2-3 minutes or until the almond flour is lightly toasted."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brine-cured-salmon",
+    "cheesy",
+    "gluten-free",
+    "low-carb",
+    "scottish",
+    "tobiko",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "melted-scottish-tobiko-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-scottish-tobiko-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:17:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "tobiko",
+    "diet": "low-carb",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "tobiko",
+    "descriptor": "Melted",
+    "dishForm": "Bake"
+  }
+}
