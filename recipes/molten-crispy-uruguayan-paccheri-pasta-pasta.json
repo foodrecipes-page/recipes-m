@@ -1,0 +1,103 @@
+{
+  "title": "Molten Crispy Uruguayan Paccheri Pasta",
+  "description": "Fresh, snappy, solo-dinner Uruguayan dish featuring paccheri pasta, lamination-puff, raw-friendly.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente.",
+    "In a blender or food processor, combine garlic, butter, parmesan cheese, eggs, milk, salt, and black pepper, blending until smooth.",
+    "With a spatula, scrape the side of the blender or food processor to ensure all ingredients are well incorporated.",
+    "Add the cooked paccheri pasta to the blender or food processor and blend until the pasta is well coated with the cheese mixture.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated parmesan cheese.",
+    "Bake in a preheated oven at 400°F for 20-25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve immediately.",
+    "Optional: Add some grilled vegetables or a side salad for a more substantial meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-butter",
+    "melted-cheese",
+    "one-pan-dish",
+    "pasta-bake",
+    "uruguayan-cuisine",
+    "vegetarian-dinner",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 36
+  },
+  "slug": "molten-crispy-uruguayan-paccheri-pasta-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-crispy-uruguayan-paccheri-pasta-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:13:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Paccheri pasta",
+    "descriptor": "Molten Crispy",
+    "dishForm": "Pasta"
+  }
+}
