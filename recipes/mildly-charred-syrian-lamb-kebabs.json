@@ -1,0 +1,101 @@
+{
+  "title": "Mildly Charred Syrian Lamb Kebabs",
+  "description": "Snappy and cozy Syrian dish featuring grape leaves and char-grilled lamb, perfect for a weeknight dinner. Dairy-free friendly and served in scallop shell vessels.",
+  "cuisine": "Syrian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, thinly sliced",
+      "amount": "450g",
+      "notes": "Choose 80/20 lean to fat ratio"
+    },
+    {
+      "name": "Grape leaves, fresh or preserved in brine",
+      "amount": "12",
+      "notes": "Drained and chopped if preserved"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": "Choose white or red"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Mince or press for best flavor"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Substitute with paprika or oregano if unavailable"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed or bottled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Choose a mild or medium strength oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fine or coarse, as preferred"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 425°F (220°C).",
+    "In a bowl, whisk together sumac, lemon juice, olive oil, salt, and garlic. Add sliced lamb and mix until well coated.",
+    "Thread lamb onto skewers, leaving about 1 inch (2.5 cm) of space between each piece.",
+    "Place a grape leaf on each skewer, tucking the edges under the lamb. This will prevent juices from escaping during cooking.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb reaches 145°F (63°C) for medium-rare.",
+    "Transfer the kebabs to a plate and let rest for 5 minutes before serving.",
+    "Serve each kebab in a scallop shell vessel, garnished with additional grape leaves if desired.",
+    "Repeat the cooking process with remaining lamb and grape leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "dairy-free",
+    "high-protein",
+    "kebabs",
+    "lamb",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "mildly-charred-syrian-lamb-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-charred-syrian-lamb-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:59:44Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "grape leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "mildly charred",
+    "dishForm": "Kebabs"
+  }
+}
