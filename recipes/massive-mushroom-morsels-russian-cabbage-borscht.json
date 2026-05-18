@@ -1,0 +1,117 @@
+{
+  "title": "Massive Mushroom Morsels Russian Cabbage Borscht",
+  "description": "A hearty and flavorful Russian dish featuring sautéed mushrooms, tangy cabbage, and a hint of salsa. This crowd-pleaser is perfect for a chilly evening.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "12 oz",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/2 cup",
+      "notes": "mild"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for steaming"
+    },
+    {
+      "name": "bamboo steamer inserts",
+      "amount": "2",
+      "notes": "for steaming cabbage"
+    },
+    {
+      "name": "bamboo steamer",
+      "amount": "1",
+      "notes": "large, with lid"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and set it aside.",
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start browning, about 5 minutes.",
+    "Add the chopped onion and cook until it's translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    " Stir in the tomato sauce, salsa, apple cider vinegar (if using), and sugar (if using).",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "While the mixture is cooking, prepare the bamboo steamer by filling the bottom with water and bringing it to a boil.",
+    "Place the shredded cabbage in the bamboo steamer inserts and place them in the steamer.",
+    "Cover the steamer with a lid and steam the cabbage for 10-12 minutes, or until it's tender.",
+    "Serve the cabbage in bowls and spoon the mushroom mixture over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "easy-to-make",
+    "russian-cuisine",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "massive-mushroom-morsels-russian-cabbage-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/massive-mushroom-morsels-russian-cabbage-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:38:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "salsa",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Massive Mushroom Morsels",
+    "dishForm": "Borscht"
+  }
+}
