@@ -1,0 +1,93 @@
+{
+  "title": "Massive Norwegian Sour Cream Pancakes",
+  "description": "A hearty, fermented, and fluffy Norwegian dish perfect for a crowd. Featuring sun-dried tomatoes and a hint of kombu.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sour cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, sugar, salt, and baking powder.",
+    "In a large bowl, whisk together sour cream, eggs, sun-dried tomatoes, and kombu-cold-extract.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle to 375°F (190°C).",
+    "Drop batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and edges start to dry.",
+    "Flip and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve warm with melted butter and your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "crowd-pleaser",
+    "european",
+    "high-calorie",
+    "norwegian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "massive-norwegian-sour-cream-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/massive-norwegian-sour-cream-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T13:36:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sour cream",
+    "descriptor": "Massive",
+    "dishForm": "Pancakes"
+  }
+}
