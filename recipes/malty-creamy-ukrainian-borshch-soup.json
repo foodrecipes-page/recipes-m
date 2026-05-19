@@ -1,0 +1,112 @@
+{
+  "title": "Malty Creamy Ukrainian Borshch Soup",
+  "description": "A traditional Ukrainian borshch soup with added malty sweetness, creamy texture, and fermented tanginess, featuring grape tomatoes and anti-inflammatory-friendly ingredients.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "Beet",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fermented Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Malt Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add grated beet and carrots, cook for 5 minutes.",
+    "Add halved grape tomatoes, cook for 10 minutes.",
+    "Add vegetable broth, malt vinegar, and fermented cabbage, bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Stir in heavy cream and sour cream, cook for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh dill.",
+    "Serve hot, accompanied by rye bread or crackers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ant-inflammatory",
+    "comfort-food",
+    "one-pot-meal",
+    "soup-recipe",
+    "ukrainian-cuisine",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "malty-creamy-ukrainian-borshch-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-creamy-ukrainian-borshch-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:45:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Borshch",
+    "descriptor": "Malty Creamy",
+    "dishForm": "Soup"
+  }
+}
