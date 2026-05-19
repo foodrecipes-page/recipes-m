@@ -1,0 +1,102 @@
+{
+  "title": "springtime wood-fired baked pork chops",
+  "description": "A Canadian-inspired dish featuring grassy spring flavors and perfectly baked pork chops without nuts.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 pound",
+      "notes": "preferably from Ontario"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "fresh or bottled"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for baking"
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400°F (200°C).",
+    "Season the pork chops with salt and black pepper on both sides.",
+    "In a small bowl, mix together minced garlic, chopped rosemary, and a squeeze of lemon juice.",
+    "Rub the garlic-rosemary mixture evenly onto both sides of the pork chops.",
+    "Drizzle the pork chops with olive oil and place them on the baking stone in the wood-fired oven.",
+    "Bake for 15-20 minutes or until the internal temperature reaches 145°F (63°C).",
+    "Brush the Canadian maple syrup on the pork chops during the last 2-3 minutes of baking (if using).",
+    "Remove the pork chops from the oven and let them rest for 5 minutes before serving.",
+    "Serve the pork chops hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "grassy",
+    "high-protein",
+    "one-pan",
+    "pork-chops",
+    "spring",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 34
+  },
+  "slug": "midnight-craving-canadian-pork-chops-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-canadian-pork-chops-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:14:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pork chops",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork chops",
+    "descriptor": "midnight-craving",
+    "dishForm": "Bake"
+  }
+}
