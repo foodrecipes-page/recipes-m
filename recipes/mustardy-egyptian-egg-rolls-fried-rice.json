@@ -1,0 +1,110 @@
+{
+  "title": "Mustardy Egyptian Egg Rolls Fried-Rice",
+  "description": "A flavorful and crowd-pleasing dish featuring egg rolls, coconut cream, and a hint of mustard. This sattvic-friendly recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg roll wrappers",
+      "amount": "12",
+      "notes": "You can make your own or use store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the egg rolls"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Frozen peas and carrots",
+      "amount": "1 cup",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups",
+      "notes": "Day-old rice works best"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": "Brown or white mustard seeds"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a sattvic-friendly salt"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the thawed peas and carrots and cooked rice to the skillet. Stir-fry for 2-3 minutes.",
+    "In a small bowl, mix together the mustard seeds and coconut cream. Add to the skillet and stir-fry for another 2 minutes.",
+    "Add the egg roll wrappers to the skillet and break them up into small pieces. Stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Transfer the fried rice mixture to a serving platter or individual plates.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "If desired, serve in small egg rolls for an added presentation touch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "one-pan",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "mustardy-egyptian-egg-rolls-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-egyptian-egg-rolls-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T16:27:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "egg rolls",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "mustardy",
+    "dishForm": "Fried-Rice"
+  }
+}
