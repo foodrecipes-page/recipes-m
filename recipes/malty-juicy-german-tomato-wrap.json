@@ -1,0 +1,108 @@
+{
+  "title": "Malty Juicy German Tomato Wrap",
+  "description": "A cozy German dish featuring San Marzano tomatoes, perfect for a quick lunch or dinner. The combination of malty flavors and juicy tomatoes is sure to please.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "beer",
+      "amount": "1/2 cup",
+      "notes": "strong German lager"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "leaf wrap",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add crushed San Marzano tomatoes, beer, caraway seeds, sugar, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
+    "Meanwhile, prepare the leaf wraps by steaming them for 30 seconds.",
+    "To assemble the wraps, place a portion of the tomato mixture onto the center of each leaf, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining tomato mixture and leaf wraps.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "malty-juicy-german-tomato-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-german-tomato-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "tomato",
+    "descriptor": "malty juicy",
+    "dishForm": "wrap"
+  }
+}
