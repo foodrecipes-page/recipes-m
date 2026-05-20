@@ -1,0 +1,122 @@
+{
+  "title": "Mustardy Indian Pork Chops Wrap",
+  "description": "A juicy and flavorful Indian-inspired pork chops dish served in a ssam-wrap, perfect for a satisfying dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds, 1-inch thick"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground spice"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground spice"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "Ground spice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "green chutney",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4",
+      "notes": "Large, pliable bread"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "8",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the pork chops with salt, black pepper, and red chili powder.",
+    "Grill the pork chops for 5-6 minutes per side, or until cooked through.",
+    "In a small bowl, mix together the mustard paste, ginger paste, garam masala, cumin powder, coriander powder, and salt.",
+    "Brush the mustard-ginger mixture on the grilled pork chops.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a grilled pork chop on each wrap, followed by a dollop of green chutney, cucumber slices, and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!",
+    "Let the pork chops rest for 5 minutes before serving to ensure juiciness.",
+    "Slice the pork chops against the grain before serving.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "pork-chops",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "slug": "mustardy-indian-pork-chops-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-indian-pork-chops-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:26:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pork chops",
+    "diet": "macrobiotic",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pork chops",
+    "descriptor": "Mustardy",
+    "dishForm": "Wrap"
+  }
+}
