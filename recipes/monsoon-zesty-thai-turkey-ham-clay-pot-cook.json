@@ -1,0 +1,63 @@
+{
+  "title": "Monsoon Zesty Thai Turkey Ham Clay-Pot-Cook",
+  "description": "A flavorful and aromatic Thai-inspired clay pot dish, perfect for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Ham",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and add the coconut milk, fish sauce, and curry paste. Whisk until smooth.",
+    "Add the sliced turkey ham and cook until lightly browned.",
+    "Add the Thai red peppers, onion, and garlic. Cook until the vegetables are tender.",
+    "Stir in the chopped Thai basil and cook for 1 minute.",
+    "Serve hot over a bed of fluffy rice.",
+    "Season with salt to taste.",
+    "Garnish with additional Thai basil leaves, if desired.",
+    "Transfer the clay pot to the oven and bake at 375\u00138 for 20 minutes.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "monsoon-zesty-thai-turkey-ham-clay-pot-cook",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-zesty-thai-turkey-ham-clay-pot-cook",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:29:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "turkey ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Monsoon Zesty",
+    "dishForm": "Clay-Pot-Cook"
+  }
+}
