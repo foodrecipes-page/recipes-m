@@ -1,0 +1,101 @@
+{
+  "title": "Miso-Glazed Crisp Mexican Tofu Churro Fritters",
+  "description": "Funky, crispy tofu churros smothered in a rich miso glaze, perfect for a date-night treat. Serve warm and enjoy with a side of spicy salsa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava or griddle over medium-high heat.",
+    "Cut the tofu into long, thin strips and pat dry with paper towels.",
+    "In a shallow dish, mix together flour, confectioners' sugar, cumin, and cayenne pepper.",
+    "Dip each tofu strip into the flour mixture, coating evenly.",
+    "Heat about 1/4 inch of vegetable oil in a large skillet over medium-high heat.",
+    "Fry the tofu churros in batches until golden and crispy, about 2-3 minutes per side.",
+    "Drain the churros on paper towels and repeat with the remaining tofu strips.",
+    "To make the miso glaze, whisk together miso paste, agave nectar, and lime juice in a small bowl.",
+    "Brush the miso glaze over the fried tofu churros and serve warm.",
+    "Garnish with sliced poblanos and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "churros",
+    "date-night",
+    "mexican",
+    "miso-glaze",
+    "poblano",
+    "tofu",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "miso-glazed-crisp-mexican-tofu-churro-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/miso-glazed-crisp-mexican-tofu-churro-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T07:36:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "tofu",
+    "diet": "flexitarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tofu",
+    "descriptor": "Miso-Glazed Crisp",
+    "dishForm": "Churro Fritters"
+  }
+}
