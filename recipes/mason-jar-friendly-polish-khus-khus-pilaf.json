@@ -1,0 +1,111 @@
+{
+  "title": "Mason-Jar Friendly Polish Khus Khus Pilaf",
+  "description": "A flavorful and nutritious pilaf dish using khus khus and a mirepoix base, perfect for weeknights and low-fat diets.",
+  "cuisine": "polish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion, carrot, and celery, and saut\u00166 until tender, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the khus khus and cook for 2-3 minutes, until lightly toasted.",
+    "Pour in the vegetable broth and water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the khus khus is tender.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the dried dill.",
+    "Spoon the pilaf into mason jars and serve.",
+    "Refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "khus-khus",
+    "mason-jar",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "mason-jar-friendly-polish-khus-khus-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mason-jar-friendly-polish-khus-khus-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:02:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "khus khus",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Khus Khus",
+    "descriptor": "Mason-Jar Friendly",
+    "dishForm": "Pilaf"
+  }
+}
