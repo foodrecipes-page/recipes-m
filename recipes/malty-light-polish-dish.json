@@ -1,0 +1,90 @@
+{
+  "title": "Słodka Monsoon",
+  "description": "A light and refreshing Polish dish perfect for a monsoon evening. The blue color gives it a unique and whimsical touch.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "malts",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "blue food colouring",
+      "amount": "5 drops"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "soda water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine oats, water, and malts in a pot. Bring mixture to a boil, then reduce heat to medium.",
+    "Simmer for 10 minutes, or until oats have absorbed most of the liquid.",
+    "Add blue food colouring and stir to combine.",
+    "Add honey, vanilla extract, and salt. Stir until dissolved.",
+    "Remove from heat and let cool.",
+    "Add soda water and stir gently.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve cold.",
+    "Garnish with a sprinkle of blue food colouring, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "light",
+    "low-glycemic",
+    "refreshing",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "malty-light-polish-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-light-polish-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:57:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "blue food colouring",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "light",
+    "mainIngredient": "polish",
+    "descriptor": "malty",
+    "dishForm": "dish"
+  }
+}
