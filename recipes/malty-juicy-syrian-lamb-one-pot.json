@@ -1,0 +1,99 @@
+{
+  "title": "Malty Juicy Syrian Lamb One-Pot",
+  "description": "A flavorful, paleo-friendly one-pot Syrian dish featuring ground cinnamon. Serve with a side of mixed greens salad for a well-rounded meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Allspice",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup, uncooked"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat 2 tbsp of oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add the ground cinnamon, allspice, salt, and black pepper. Stir to combine.",
+    "Add the chicken broth, lemon juice, and rice. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove the pot from the heat and let it sit, covered, for 10 minutes.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "malty",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "malty-juicy-syrian-lamb-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-syrian-lamb-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:43:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "malty juicy",
+    "dishForm": "one-pot"
+  }
+}
