@@ -1,0 +1,114 @@
+{
+  "title": "Mediterranean Mediterranean Parmesan Cheese Roast",
+  "description": "Roasted, bouncy, and delicious, this Mediterranean-inspired dish is perfect for brunch. The combination of flavors and textures makes for a satisfying meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumble before using"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the chicken breast with salt, pepper, and your favorite herbs.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the chicken to a baking sheet and set aside.",
+    "Add the sliced eggplant, red bell pepper, zucchini, and red onion to the skillet and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Transfer the vegetables to the baking sheet with the chicken.",
+    "Roast in the preheated oven for 20-25 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Sprinkle the crumbled feta cheese and grated Parmesan cheese over the top of the chicken and vegetables.",
+    "Return to the oven and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-to-make",
+    "gluten-free",
+    "mediterranean",
+    "parmesan",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "mediterranean-mediterranean-parmesan-cheese-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-mediterranean-parmesan-cheese-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:35:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "parmesan cheese",
+    "descriptor": "mediterranean",
+    "dishForm": "Roast"
+  }
+}
