@@ -1,0 +1,124 @@
+{
+  "title": "Midnight Craving Light Floral Uruguayan White Bread Fry",
+  "description": "A flavorful, light, and refreshing Uruguayan-inspired dish, perfect for a midnight craving, featuring white bread and fry, made with anti-inflammatory-friendly ingredients.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup white bread, cut into 1-inch cubes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 avocado, diced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped scallions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup panko breadcrumbs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and saut\b5; until fragrant, about 1 minute.",
+    "Add the bread cubes and cook until golden brown, about 3-4 minutes.",
+    "Add the diced avocado and cook until heated through, about 1-2 minutes.",
+    "Add the chopped parsley, scallions, salt, and black pepper, and stir to combine.",
+    "Using a slotted spoon, transfer the bread mixture to a plate and set aside.",
+    "In the same skillet, add the beaten egg and cook until set, about 1-2 minutes.",
+    "Add the panko breadcrumbs and grated Parmesan cheese, and stir to combine.",
+    "Add the cooked bread mixture back into the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the mixture is crispy and golden brown.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "easy-midnight-snack",
+    "gluten-free",
+    "one-pan",
+    "uruguayan",
+    "weekend-brunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "midnight-craving-light-floral-uruguayan-white-bread-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-light-floral-uruguayan-white-bread-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:40:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "white bread",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "white bread",
+    "descriptor": "midnight-craving light floral",
+    "dishForm": "Fry"
+  }
+}
