@@ -1,0 +1,99 @@
+{
+  "title": "Moisture-Shattering Thai Egg Omelette",
+  "description": "A crispy roasted egg omelette, cooked to perfection with a delicate Thai twist.",
+  "cuisine": "thai",
+  "diet": [
+    "jain"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature eggs help the omelette cook evenly."
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/2 cup",
+      "notes": "coconut milk helps keep the omelette moist and rich."
+    },
+    {
+      "name": "chopped shallots",
+      "amount": "1/4 cup",
+      "notes": "shallots add a sweet and savory flavor to the omelette."
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "garlic adds depth and aroma to the dish."
+    },
+    {
+      "name": "fish sauce (or vegan alternative)",
+      "amount": "1 tablespoon",
+      "notes": "fish sauce adds umami flavor without overpowering the other ingredients."
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "ginger adds warmth and spice to the omelette."
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "cilantro adds freshness and a pop of color."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "coconut oil helps the omelette cook evenly and adds a rich flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, whisk together coconut milk, fish sauce, and grated ginger.",
+    "In a medium bowl, whisk together eggs, shallots, and garlic.",
+    "Heat 1 tablespoon of coconut oil in an oven-safe skillet over medium heat.",
+    "Pour in the egg mixture and cook until the edges start to set.",
+    "Pour the coconut milk mixture over the eggs and use a spatula to gently fold the edges towards the center.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the omelette is set and slightly puffed.",
+    "Remove the skillet from the oven and garnish with chopped cilantro.",
+    "Use a spatula to carefully loosen the omelette from the skillet and transfer it to a plate.",
+    "Serve the moisture-shattering Thai egg omelette hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "coconut",
+    "omelette",
+    "shatter",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "moisture-shattering-thai-egg-omelette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/moisture-shattering-thai-egg-omelette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:16:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "egg",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "egg",
+    "descriptor": "moisture-shattering",
+    "dishForm": "Omelette"
+  }
+}

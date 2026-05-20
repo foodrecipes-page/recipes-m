@@ -1,0 +1,150 @@
+{
+  "title": "moist pillowy umami Brazilian baguette Bowl",
+  "description": "A rich, savory, and filling bowl featuring the umami flavors of Brazil, served in a delicate lacquerware bowl. Perfect for a date-night dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Scrambled Eggplant",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Red Bell Pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Churrasco Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the eggplant, zucchini, red bell pepper, and onion into 1-inch pieces.",
+    "In a large bowl, whisk together the coconut oil, miso paste, dried thyme, and dried oregano.",
+    "Add the sliced vegetables to the bowl and toss to coat with the marinade.",
+    "Transfer the vegetables to a baking sheet and roast for 20 minutes, or until tender.",
+    "While the vegetables are roasting, slice the baguette into 1-inch pieces and toast in the oven for 5 minutes, or until lightly browned.",
+    "In a small saucepan, heat the Brazilian Churrasco Sauce over low heat.",
+    "Once the vegetables are done roasting, add them to the saucepan with the Churrasco Sauce and toss to coat.",
+    "Spoon the vegetables and sauce over the toasted baguette, followed by the sliced Kalamata olives, Parmesan cheese, and fresh parsley.",
+    "Garnish with sesame seeds and coconut cream, and serve hot.",
+    "Garnish with salt to taste.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "moist-pillowy-umami-brazilian-baguette-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-pillowy-umami-brazilian-baguette-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:16:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "baguette",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "baguette",
+    "descriptor": "moist pillowy umami",
+    "dishForm": "Bowl"
+  }
+}
