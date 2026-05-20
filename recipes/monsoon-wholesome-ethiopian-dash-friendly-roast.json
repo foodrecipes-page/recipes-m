@@ -1,0 +1,123 @@
+{
+  "title": "Monsoon Wholesome Ethiopian Dash-Friendly Roast",
+  "description": "A delicious roast dish inspired by the flavors of Ethiopia, featuring orange zest and a crispy exterior. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless beef roast",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the roast."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": "Optional."
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Optional."
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F) and season the beef roast with salt, black pepper, and a pinch of berbere spice mix.",
+    "Heat the ghee or oil in a large skillet over medium-high heat and brown the roast on all sides.",
+    "Transfer the roast to a large Dutch oven or oven-safe pot and add the sliced onion, minced garlic, and grated ginger to the pot.",
+    "Add the potatoes, carrots, and green beans to the pot if using, and cover with a lid.",
+    "Roast the dish in the preheated oven for about 1 hour, or until the vegetables are tender and the roast is cooked to your liking.",
+    "Remove the pot from the oven and let it cool slightly before slicing the roast against the grain.",
+    "Strain the cooking juices and discard any excess fat, then serve the roast with the flavorful sauce spooned over the top.",
+    "Serve with injera bread or over rice, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy",
+    "ethiopian",
+    "main-course",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "monsoon-wholesome-ethiopian-dash-friendly-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-wholesome-ethiopian-dash-friendly-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:40:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "orange zest",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "dash-friendly",
+    "descriptor": "Monsoon Wholesome",
+    "dishForm": "Roast"
+  }
+}

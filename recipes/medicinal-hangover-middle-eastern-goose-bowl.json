@@ -1,0 +1,103 @@
+{
+  "title": "Medicinal Hangover Middle-Eastern Goose Bowl",
+  "description": "A soothing, herbal dish to cure hangovers, featuring goose fat, beurre-monte, and shojin-friendly ingredients. This hearty bowl is served in a dolsot stone bowl, absorbing the savory flavors.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered from goose neck or wing meat"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "whisked buttermilk and heavy cream"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground root"
+    },
+    {
+      "name": "garden cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh leaves"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "reduces inflammation and soothes stomach"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "roasted pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "add crunch and healthy fats"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed for brightness"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch",
+      "notes": "freshly ground to awaken flavors"
+    }
+  ],
+  "instructions": [
+    "Heat the goose fat in a small saucepan over medium heat.",
+    "In a separate bowl, whisk together the beurre-monte and turmeric until smooth.",
+    "Cook the quinoa according to package instructions and set aside.",
+    "Roast the pumpkin seeds in a 350° oven for 5 minutes, or until lightly toasted.",
+    "In the dolsot stone bowl, layer the cooked quinoa, roasted pumpkin seeds, and chopped cilantro.",
+    "Drizzle the pomegranate molasses over the quinoa mixture, followed by the beurre-monte-turmeric mixture.",
+    "Squeeze the lemon juice over the top and sprinkle with black pepper.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover",
+    "high-protein",
+    "middle-eastern",
+    "shojin",
+    "soothing"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "medicinal-hangover-middle-eastern-goose-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/medicinal-hangover-middle-eastern-goose-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:39:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "goose fat",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Goose",
+    "descriptor": "Medicinal Hangover",
+    "dishForm": "Bowl"
+  }
+}
