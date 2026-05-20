@@ -1,0 +1,53 @@
+{
+  "title": "Mustardy Korean Steak Bulgogi",
+  "description": "A rich and savory Korean-inspired steak dish featuring a mustardy marinade, silky sauce, and char-grilled sirloin steak.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "400g",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Marinate the sirloin steak in a mixture of soy sauce, garlic, ginger, brown sugar, and black pepper for at least 2 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "mustardy-korean-steak-bulgogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-korean-steak-bulgogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:11:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "sirloin steak",
+    "diet": "vegan",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "steak",
+    "descriptor": "mustardy",
+    "dishForm": "Bulgogi"
+  }
+}
