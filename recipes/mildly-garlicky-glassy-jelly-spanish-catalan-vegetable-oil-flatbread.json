@@ -1,0 +1,96 @@
+{
+  "title": "Mildly Garlicky Glassy-Jelly Spanish Catalan Vegetable Oil Flatbread",
+  "description": "A sick-day Spanish Catalan dish featuring a glassy-jelly lacquer-glaze made with vegetable oil and suitable for an ayurvedic-sattvic diet.",
+  "cuisine": "Spanish Catalan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for better texture"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "mashed or minced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water for dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for lacquer-glaze"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried for flavor"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, all-purpose flour, and salt in a mixing bowl. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Preheat a salt-block in a preheated oven at 425\t7F (220\nC) for 30 minutes.",
+    "Roll out the dough into a thin circle, about 1/4 inch thick.",
+    "Brush the dough with vegetable oil and place it on the preheated salt-block.",
+    "Bake for 15-20 minutes or until the flatbread is golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for 2-3 minutes.",
+    "Mix garlic, coconut sugar, and rosemary in a small bowl. Brush the garlic mixture onto the flatbread.",
+    "Place the flatbread under the broiler for 1-2 minutes or until the garlic mixture is caramelized and glassy-jelly in appearance.",
+    "Remove the flatbread from the oven and let it cool for 2-3 minutes before serving.",
+    "Slice the flatbread into wedges and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "catalan",
+    "flatbread",
+    "garlic",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "mildly-garlicky-glassy-jelly-spanish-catalan-vegetable-oil-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-garlicky-glassy-jelly-spanish-catalan-vegetable-oil-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "vegetable oil",
+    "diet": "ayurvedic-sattvic",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish Catalan",
+    "mainIngredient": "vegetable oil",
+    "descriptor": "garlicky glassy-jelly",
+    "dishForm": "Pa amb tomàquet variant: griddled flatbread"
+  }
+}

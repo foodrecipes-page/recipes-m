@@ -1,0 +1,84 @@
+{
+  "title": "Miniature Springy French Ciabatta Sandwich",
+  "description": "A bain-marie cooked miniature ciabatta bread filled with a springy mix of tuna salad., A perfect brunch option that is easy on the palate.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ciabatta bread",
+      "amount": "1 mini loaf"
+    },
+    {
+      "name": "canned tuna",
+      "amount": "6 oz"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the bain-marie to 375°F (190°C).",
+    "Cut the ciabatta into small squares.",
+    "In a bowl, mix together the tuna, lemon juice, dijon mustard, and mayonnaise.",
+    "Add the chopped dill and mix well.",
+    "Place the ciabatta squares into the bain-marie and toast for 2-3 minutes.",
+    "Assemble the sandwiches by placing a spoonful of the tuna salad onto a toasted ciabatta square.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "french",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "miniature-springy-french-ciabatta-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/miniature-springy-french-ciabatta-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "ciabatta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "ciabatta",
+    "descriptor": "Miniature springy",
+    "dishForm": "Sandwich"
+  }
+}

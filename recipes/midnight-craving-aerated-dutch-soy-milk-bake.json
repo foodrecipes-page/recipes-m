@@ -1,0 +1,118 @@
+{
+  "title": "Midnight Craving Aerated Dutch Soy Milk Bake",
+  "description": "A low-calorie, briny, aerated Dutch dish featuring soy milk, perfect for a midnight craving. This wok-based recipe is a unique twist on traditional Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Aquafaba (chickpea brine)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy milk",
+      "amount": "1 cup",
+      "notes": "low-fat or non-fat is best"
+    },
+    {
+      "name": "Unsalted baking powder",
+      "amount": "1 tsp",
+      "notes": "gluten-free if necessary"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "or other low-calorie sweetener"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan shortening",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp",
+      "notes": "gluten-free if necessary"
+    },
+    {
+      "name": "Soy flour",
+      "amount": "2 tbsp",
+      "notes": "gluten-free if necessary"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan egg substitute",
+      "amount": "1",
+      "notes": "follow package instructions for use"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together the aquafaba, soy milk, baking powder, and coconut sugar until smooth.",
+    "Add the salt, black pepper, shortening, cornstarch, soy flour, lemon zest, and lemon juice to the bowl. Whisk until combined.",
+    "Pour the mixture into the preheated wok and cook for 20-25 minutes, or until the edge is golden brown and the center is set.",
+    "Remove the wok from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "aerated",
+    "baked",
+    "dutch",
+    "low-calorie",
+    "midnightcraving",
+    "snack",
+    "vegan",
+    "wok"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "midnight-craving-aerated-dutch-soy-milk-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-aerated-dutch-soy-milk-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "soy milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Soy milk",
+    "descriptor": "Midnight-craving aerated",
+    "dishForm": "Bake"
+  }
+}
