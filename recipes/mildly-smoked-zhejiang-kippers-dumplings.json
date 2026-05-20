@@ -1,0 +1,107 @@
+{
+  "title": "Mildly Smoked Zhejiang Kippers Dumplings",
+  "description": "A Chinese-inspired post-workout dish featuring kippers and tender dumplings for a high-protein meal. Perfect for a satisfying snack or light dinner after a workout.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless kipper fillets",
+      "amount": "4"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "12"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mildly smoked salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, baking powder, sea salt, and granulated sugar.",
+    "Add the egg and soy sauce to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it's smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk using a rolling pin.",
+    "Place a tablespoon of water in the center of each disk and top with a kipper fillet.",
+    "Brush the edges of each disk with egg and fold the dough over the filling to form a half-circle shape.",
+    "Press the edges of each dumpling to seal them tightly.",
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side until they're golden brown.",
+    "Transfer the dumplings to a steamer basket and steam them for 5 minutes.",
+    "Serve the dumplings hot with a sprinkle of scallions and mildly smoked salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mildly-smoked-zhejiang-kippers-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoked-zhejiang-kippers-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T01:03:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "kippers",
+    "diet": "high-protein",
+    "region": "zhejiang",
+    "cuisineAdjective": "Zhejiang",
+    "mainIngredient": "Kippers",
+    "descriptor": "Mildly Smoked",
+    "dishForm": "Dumplings"
+  }
+}
