@@ -1,0 +1,121 @@
+{
+  "title": "Mellow Filipino Peanut Kare-Kare",
+  "description": "A briny, velvety, light Filipino dish featuring onion salt, agemono-deep-fry, and a flexitarian-friendly take on the traditional Kare-Kare recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground rice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "onion salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "banana ketchup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the ground peanuts and cook for 2 minutes, stirring constantly.",
+    "Add the ground rice and cook for 1 minute, stirring constantly.",
+    "Add the broad beans, onion salt, water, fish sauce, banana ketchup, and ground black pepper. Bring to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Strain the peanut mixture through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Return the peanut mixture to a simmer over medium heat and cook until thickened, stirring constantly, about 5 minutes.",
+    "Dip a small amount of the peanut mixture onto the rice flour-dusted plate and fry until golden, about 2-3 seconds per side.",
+    "Drain the fried peanut mixture on paper towels and garnish with chopped coriander leaves and onion.",
+    "Dust with rice flour and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "kare-kare",
+    "one-pan",
+    "peanut",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "mellow-filipino-peanut-kare-kare",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-filipino-peanut-kare-kare",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:42:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "onion salt",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peanut",
+    "descriptor": "mellow",
+    "dishForm": "Kare-Kare"
+  }
+}
