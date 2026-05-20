@@ -1,0 +1,66 @@
+{
+  "title": "Mustardy Fluffy Filipino Pork Sisig",
+  "description": "A twist on the classic Filipino dish, this fluffy sisig is bursting with flavor and features a tangy mustardy kick.",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork face (such as pork jowl or pork ear)",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Mince the garlic and green chili and add to the skillet, cooking for an additional minute.",
+    "Add the mustard powder and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, vinegar, black pepper, and salt, and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the mixture to a serving platter and garnish with chopped cilantro.",
+    "Use a leaf wrapper to scoop up the sisig and serve immediately.",
+    "To assemble, place a small scoop of the sisig mixture onto the center of the leaf wrapper, followed by a sprinkle of chopped cilantro, and then fold the wrapper to create a neat package.",
+    "Steam the packages for 2 minutes to warm the sisig and soften the wrapper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "fluffy",
+    "mustard",
+    "one-pan",
+    "sisig",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "mustardy-fluffy-filipino-pork-sisig",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-fluffy-filipino-pork-sisig",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:34:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "mixture powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Mustardy Fluffy",
+    "dishForm": "Sisig"
+  }
+}
