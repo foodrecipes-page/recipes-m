@@ -1,0 +1,97 @@
+{
+  "title": "Monsoon Malt Sushi",
+  "description": "Monsoon malt gives a unique flavor to this Australian-inspired sushi dish, featuring malai sauce and nigiri-shaping.",
+  "cuisine": "australian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "1 cup",
+      "notes": "short grain Japanese rice is necessary for sushi"
+    },
+    {
+      "name": "Monsoon malt syrup",
+      "amount": "2 tablespoons",
+      "notes": "available at specialty food stores"
+    },
+    {
+      "name": "malai sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for flavor and texture"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sushi nori",
+      "amount": "12 sheets",
+      "notes": "for nigiri"
+    }
+  ],
+  "instructions": [
+    "Rinse the short grain rice thoroughly and soak it for 4 hours.",
+    "Drain the rice and cook it in a medium saucepan with a small amount of water until it is tender.",
+    "Prepare the malai sauce according to the package instructions.",
+    "Heat the Monsoon malt syrup and sesame oil in a small saucepan over low heat.",
+    "Mix the Monsoon malt syrup mixture with the cooked rice.",
+    "Shape the rice into nigiri with the sushi nori.",
+    "Place a shrimp on top of each nigiri.",
+    "Serve the Monsoon Malt Sushi with the malai sauce as a dipping sauce."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 30,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "pescatarian",
+    "sushi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "monsoon-malty-australian-malai-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-malty-australian-malai-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:01:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "malai",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "malai",
+    "descriptor": "monsoon malty",
+    "dishForm": "nigiri"
+  }
+}
