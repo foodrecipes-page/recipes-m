@@ -1,0 +1,56 @@
+{
+  "title": "Mustardy Vietnamese Bacon Bun Rieu",
+  "description": "A nostalgic Vietnamese dish featuring crispy bacon lardon, slow-cooked sweet and sour tamarind broth, and a hint of spicy mustard. This recipe serves a raw-friendly version of the traditional bun rieu, where fish balls are swapped with crunchy pork lardons.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork lardons",
+      "amount": "400g",
+      "notes": "about 1 cup of diced and smoked bacon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a medium saucepan over medium-high heat.",
+    "Add the pork lardons and cook until they are crispy and golden brown, about 5 minutes, stirring occasionally.",
+    "Add the onion, garlic, and ginger, and cook for 2 minutes, until the onion is translucent.",
+    "Add the tamarind paste, fish sauce, and mustard, and cook for another minute, stirring constantly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-lunch",
+    "mustardy",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 38,
+    "carbs": 56,
+    "fat": 48
+  },
+  "slug": "mustardy-vietnamese-bacon-bun-rieu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-vietnamese-bacon-bun-rieu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:46:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "bacon lardon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Bacon",
+    "descriptor": "Mustardy",
+    "dishForm": "Bun Rieu"
+  }
+}
