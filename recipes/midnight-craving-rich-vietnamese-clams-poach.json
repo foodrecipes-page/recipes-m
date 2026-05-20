@@ -1,0 +1,103 @@
+{
+  "title": "Midnight Craving Rich Vietnamese Clams Poach",
+  "description": "Indulge in this rich, flavorful dish featuring clams poached in a fragrant, aromatic broth. Perfect for a midnight craving, this one pan wonder will satisfy your senses.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "2 pounds",
+      "notes": "scrubbed and rinsed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "patis or nam pla"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Combine chicken broth, fish sauce, soy sauce, and sugar in a large saucepan over medium heat. Bring to a simmer.",
+    "Add the sliced ginger and cook for 2 minutes, or until fragrant.",
+    "Add the clams, cover the saucepan, and cook for 3-5 minutes, or until the clams begin to open.",
+    "Stir in the coconut milk and cook for an additional 2-3 minutes, or until the clams are fully opened and the broth has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped fresh cilantro or Thai basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-craving",
+    "one-pan",
+    "seafood",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "midnight-craving-rich-vietnamese-clams-poach",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-rich-vietnamese-clams-poach",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:29:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "clams",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "clams",
+    "descriptor": "midnight-craving rich",
+    "dishForm": "Poach"
+  }
+}
