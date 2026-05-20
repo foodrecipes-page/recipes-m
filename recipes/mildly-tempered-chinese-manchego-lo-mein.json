@@ -1,0 +1,106 @@
+{
+  "title": "Mildly Tempered Chinese Manchego Lo Mein",
+  "description": "A delicate and romantic Chaozhou-inspired dish featuring Manchego cheese, gentle tempering, and gluten-free noodles. Perfect for a special occasion or a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles (gluten-free)",
+      "amount": "8 oz",
+      "notes": "preferably wood-fired or steamed"
+    },
+    {
+      "name": "Manchego Cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Herbs (such as chives or cilantro)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut Aminos (gluten-free)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tempering Spice Blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium heat.",
+    "Add garlic and ginger, stir-frying for 1 minute.",
+    "Add herbs and stir-fry for another minute.",
+    "Add noodles and cook for 2-3 minutes, or until slightly tender.",
+    "In a small bowl, whisk together soy sauce, coconut aminos, salt, pepper, and tempering spice blend.",
+    "Pour the sauce over the noodles and stir-fry for 1 minute.",
+    "Add Manchego cheese and stir-fry until melted and well combined.",
+    "Transfer the noodles to a wooden board and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chaozhou",
+    "chinese",
+    "dinner",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-tempered-chinese-manchego-lo-mein",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-tempered-chinese-manchego-lo-mein",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "manchego",
+    "diet": "gluten-free",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Manchego",
+    "descriptor": "Mildly Tempered",
+    "dishForm": "Lo Mein"
+  }
+}
