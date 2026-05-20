@@ -1,0 +1,125 @@
+{
+  "title": "Monsoon Herbal Thai Chinese Cabbage Nam Prik",
+  "description": "A crisp and refreshing monsoon Thai dish that combines the crunch of Chinese cabbage with the herbal flavors of fresh Thai herbs. This Nam Prik recipe is perfect for a light and easy lunch or dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large wok over medium-high heat.",
+    "Add the garlic, galangal, and chili peppers. Cook until fragrant, about 2 minutes.",
+    "Add the Chinese cabbage and cook until it starts to soften, about 3 minutes.",
+    "Add the fish sauce, palm sugar, and salt. Stir to combine.",
+    "Add the Thai basil and mint leaves. Stir-fry for another minute.",
+    "Transfer the Nam Prik to a serving bowl and serve hot with lime wedges on the side.",
+    "Serve with additional lime wedges for squeezing over the top.",
+    "Adjust the seasoning as needed.",
+    "Garnish with additional Thai basil and mint leaves if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "herbal",
+    "high-veggie",
+    "thai-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "monsoon-herbal-thai-chinese-cabbage-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-herbal-thai-chinese-cabbage-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:37:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chinese cabbage",
+    "descriptor": "Monsoon herbal",
+    "dishForm": "Nam Prik"
+  }
+}
