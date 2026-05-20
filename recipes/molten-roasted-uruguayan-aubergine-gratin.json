@@ -1,0 +1,97 @@
+{
+  "title": "molten roasted uruguayan aubergine gratin",
+  "description": "roasted aubergine slow-cooked in a rich tadka sauce and topped with melted queso fresco, served in a copper pot, a festive uruguayan dish perfect for low-calorie-friendly dinner",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "stock",
+      "amount": "1 cup",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "grated queso fresco",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180\u00120c",
+    "brush the copper pot with olive oil and set aside",
+    "roast the aubergine in the oven for 20 minutes, or until tender",
+    "heat the onion and garlic in a pan over medium heat until softened",
+    "add the tadka spice mix and cook for 1 minute",
+    "stir in the tomato paste and cook for a further minute",
+    "add the stock and bring to a simmer",
+    "transfer the aubergine to the copper pot and spoon over the tadka sauce",
+    "top with grated queso fresco and place in the oven for 10 minutes, or until melted"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "festive",
+    "low-calorie",
+    "one-pan",
+    "uruguayan",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "molten-roasted-uruguayan-aubergine-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-roasted-uruguayan-aubergine-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:16:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "aubergine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "aubergine",
+    "descriptor": "molten roasted",
+    "dishForm": "gratin"
+  }
+}
