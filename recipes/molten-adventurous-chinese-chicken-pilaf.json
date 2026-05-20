@@ -1,0 +1,106 @@
+{
+  "title": "Molten Adventurous Chinese Chicken Pilaf",
+  "description": "A spicy and flavorful pilaf with a molten center, featuring crispy fried rice and a tangy pico de gallo sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Mixed vegetables (e.g. carrots, peas, corn)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pico de gallo sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Khao khua (fried rice mixture)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of mustard oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the mixed vegetables, ginger, garlic, cumin, and chili flakes to the skillet and cook for 2 minutes.",
+    "Add the cooked Basmati rice, pico de gallo sauce, and salt to the skillet and stir-fry for 2-3 minutes.",
+    "Make a well in the center of the skillet and add 1 tablespoon of mustard oil.",
+    "Pour the khao khua mixture into the well and cook until the mixture starts to set, about 2 minutes.",
+    "Use a spatula to break up the khao khua mixture and cook for another minute.",
+    "Use a spoon to scoop up some of the pilaf mixture and place it in a small ramekin or mini cast-iron skillet.",
+    "Top the pilaf with some of the khao khua mixture and place the ramekin in the oven.",
+    "Bake in a preheated oven at 375°F (190°C) for 5-7 minutes, or until the top is golden brown and the filling is hot and bubbly.",
+    "Serve the molten pilaf hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "chinese",
+    "jain-friendly",
+    "molten",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "molten-adventurous-chinese-chicken-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-adventurous-chinese-chicken-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:05:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Molten Adventurous",
+    "dishForm": "Pilaf"
+  }
+}
