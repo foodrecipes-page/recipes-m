@@ -1,0 +1,99 @@
+{
+  "title": "Molten Quick Ukrainian Myeongnan-roe Fritters",
+  "description": "A quick and easy Ukrainian dish featuring sweet molten myeongnan-roe and crispy fried dough. Serve with a side of tangy dipping sauce for a flavorful snack.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "myeongnan-roe",
+      "amount": "1/2 cup",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, black pepper, and garlic powder.",
+    "Make a well in the center of the flour mixture and add the eggs, water, and myeongnan-roe.",
+    "Mix the dough until it comes together in a sticky ball.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 10 minutes.",
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 350°F.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and fry the dough for 2-3 minutes on each side until golden brown.",
+    "Drain the fritters on paper towels and serve hot with a side of dipping sauce.",
+    "To make the dipping sauce, combine 1 cup of mayonnaise, 1 tablespoon of ketchup, and 1 tablespoon of chopped fresh dill in a bowl.",
+    "Mix the dipping sauce until well combined and serve with the fritters."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "ukrainian",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "molten-quick-ukrainian-myeongnan-roe-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-quick-ukrainian-myeongnan-roe-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:44:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Molten Quick",
+    "dishForm": "Fritters"
+  }
+}
