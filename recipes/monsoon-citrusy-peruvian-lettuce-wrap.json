@@ -1,0 +1,102 @@
+{
+  "title": "Monsoon Citrusy Peruvian Lettuce Wrap",
+  "description": "A refreshing and light dish featuring citrus marinated chicken, flaky peruvian potatoes, and crunchy lettuce wrapped in a lotus leaf.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaves",
+      "amount": "4",
+      "notes": "large and pliable"
+    },
+    {
+      "name": "Marinated chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "olive oil for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the lotus leaves in water for 30 minutes before using.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine the marinated chicken, peruvian potatoes, red onion, cilantro, and a squeeze of lime juice.",
+    "Season with salt and black pepper to taste.",
+    "Grill the chicken and peruvian potatoes for 4-6 minutes per side, or until cooked through.",
+    "Meanwhile, brush the lotus leaves with olive oil and grill for 1-2 minutes per side, or until slightly charred.",
+    "Assemble the wraps by placing a spoonful of the chicken mixture onto the center of each lotus leaf, then fold the bottom half of the leaf up over the filling, followed by the sides and finally the top half of the leaf.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "monsoon-citrusy-peruvian-lettuce-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-citrusy-peruvian-lettuce-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:06:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "lettuce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Monsoon Citrusy",
+    "dishForm": "Wrap"
+  }
+}
