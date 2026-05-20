@@ -1,0 +1,118 @@
+{
+  "title": "malty gooey malaysian wild garlic leaves grill",
+  "description": "a weeknight malaysian dish featuring wild garlic leaves, tadka, and a diabetic-friendly twist. perfect for a quick and delicious dinner.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "robata-grill wood chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat robata grill to medium-high heat.",
+    "chop onion and garlic, and sauté in coconut oil until softened.",
+    "add ginger and stir-fry for 1 minute.",
+    "thread chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "remove chicken from grill and set aside.",
+    "add fish sauce, sugar, and black pepper to the grill, and stir-fry for 1 minute.",
+    "add coconut milk and bring to a simmer.",
+    "add wild garlic leaves and cook until wilted.",
+    "serve chicken on a bed of wild garlic leaves, garnished with chopped cilantro.",
+    "meanwhile, soak robata-grill wood chips in water for at least 30 minutes before grilling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grill",
+    "malaysian",
+    "one-pan",
+    "robata",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "malty-gooey-malaysian-wild-garlic-leaves-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-gooey-malaysian-wild-garlic-leaves-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:19:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Wild garlic leaves",
+    "descriptor": "Malty Gooey",
+    "dishForm": "Grill"
+  }
+}
