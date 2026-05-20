@@ -1,0 +1,96 @@
+{
+  "title": "Croatian Broad Beans Gratin",
+  "description": "A paleo-friendly, buttery, molten Croatian dish made with broad beans, perfect for a date night dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 kg",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "60g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and bring a large pot of salted water to a boil.",
+    "Blanch the broad beans for 5 minutes, then drain and set aside.",
+    "Using a mortar and pestle, pound the garlic cloves until they form a smooth paste.",
+    "In a large bowl, combine the softened butter, garlic paste, salt, black pepper, and lemon juice.",
+    "Add the blanched broad beans to the bowl and toss to coat with the butter mixture.",
+    "Transfer the broad beans to a 20x20cm baking dish and top with grated Parmesan.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown and the beans are tender.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "date-night",
+    "dinner-party",
+    "fall-recipe",
+    "one-pan",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "molten-buttery-croatian-broad-beans-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-buttery-croatian-broad-beans-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:21:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "broad beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "broad beans",
+    "descriptor": "molten buttery",
+    "dishForm": "Gratin"
+  }
+}

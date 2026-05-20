@@ -1,0 +1,95 @@
+{
+  "title": "Mustardy Gooey Uruguayan Reblochon Empanadas",
+  "description": "Uruguayan empanadas filled with a rich reblochon cheese and mustard mixture, steamed to perfection. This diabetic-friendly recipe serves as a satisfying solo dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "diabetic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "6 ounces",
+      "notes": "Pasturized cow cheese originating from the French Alps."
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "Fermented mustard made from brown or black mustard seeds."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Herb often used as a garnish or added to various dishes for flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Crystalline mineral used as a seasoning."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Spicy seasoning ground from peppercorns."
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought dough used for pastry."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Large egg used for egg wash."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Purified water for steaming the empanadas."
+    }
+  ],
+  "instructions": [
+    "Roll out the pastry dough to a thickness of 1/8 inch. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the reblochon cheese, Dijon mustard, parsley, salt, and black pepper. Spoon a small amount of the cheese mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada. Use a fork to crimp the edges and prevent the filling from escaping during steaming.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas in a steamer basket and steam over boiling water for 12-15 minutes, or until the pastry is golden brown and the cheese is melted and gooey."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "steam-cooked",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mustardy-gooey-uruguayan-reblochon-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-gooey-uruguayan-reblochon-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:21Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "reblochon",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Mustardy Gooey",
+    "dishForm": "Empanadas"
+  }
+}
