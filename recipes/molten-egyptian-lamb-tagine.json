@@ -1,0 +1,122 @@
+{
+  "title": "Molten Egyptian Lamb Tagine",
+  "description": "A rich and indulgent Egyptian-inspired dish featuring lamb, doenjang, and aromatic spices, all in a crispy, salty tagine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": "look for a fatty shoulder for best results"
+    },
+    {
+      "name": "doenjang (Korean fermented soybean paste)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked, if available"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven or clay tagine over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes, then remove from heat and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot, then add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Add the cumin, coriander, and paprika to the pot and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back to the pot, along with the doenjang, salt, and black pepper.",
+    "Stir to combine, then add enough water to the pot to barely cover the lamb.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 2 hours, or until the lamb is tender.",
+    "Remove the lid and increase the heat to medium-high to allow the sauce to thicken.",
+    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "european-inspired",
+    "korean-inspired",
+    "lamb-based",
+    "low-fat",
+    "middle-eastern-inspired",
+    "one-pan",
+    "rich-and-indulgent",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "molten-egyptian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-egyptian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:10:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "doenjang",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Molten",
+    "dishForm": "Tagine"
+  }
+}
