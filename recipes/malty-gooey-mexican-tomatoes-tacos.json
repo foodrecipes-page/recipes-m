@@ -1,0 +1,108 @@
+{
+  "title": "Malty Gooey Mexican Tomatoes Tacos",
+  "description": "A low-glycemic, date-night twist on traditional Mexican cuisine from the Yucatan region.",
+  "cuisine": "Yucatecan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "1.5 pounds",
+      "notes": "Low-acid tomato variety, diced into 1/4 inch pieces"
+    },
+    {
+      "name": "Ancho Chile Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lard or Vegetable Shortening",
+      "amount": "2 tablespoons",
+      "notes": "For frying tortillas"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantrro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, yellow onion variant, mild flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh herb"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Pink Himalayan Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat. Add lard or shortening and cook for 2 minutes or until melted.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add diced tomatoes and cook for 5 minutes or until slightly softened.",
+    "Add ancho chile paste and stir to combine. Cook for 1 minute.",
+    "Warm tortillas in the skillet for 30 seconds on each side.",
+    "Assemble tacos with tomatoes mixture, cilantro, and a sprinkle of coconut sugar.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "low-glycemic",
+    "mexican",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "malty-gooey-mexican-tomatoes-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-gooey-mexican-tomatoes-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:42:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "low-glycemic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Malty Gooey",
+    "dishForm": "Tacos"
+  }
+}
