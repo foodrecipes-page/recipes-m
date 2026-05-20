@@ -1,0 +1,117 @@
+{
+  "title": "Monsoon Tunisian Egg Rolls",
+  "description": "A grassy and creamy dish featuring egg rolls, inspired by the flavors of Tunisia.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package (12 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "Grass-fed ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green chilies",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Low-fat yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Lay a wonton wrapper on a clean surface and place a tablespoon of the lamb mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the oil is hot, carefully place a few egg rolls into the oil and fry until golden brown, about 3-4 minutes per side.",
+    "Remove the egg rolls from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the egg rolls hot with a dollop of yogurt sauce (see below)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-calorie",
+    "low-carb",
+    "spring-rolls",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "monsoon-tunisian-egg-rolls-spring-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-tunisian-egg-rolls-spring-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "egg rolls",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "monsoon",
+    "dishForm": "Spring-Rolls"
+  }
+}
