@@ -1,0 +1,99 @@
+{
+  "title": "molten Polish Fish Pilaf",
+  "description": "A rich, briny, nostalgic Polish dish featuring fish and a crispy tadka. This recipe is low-sodium-friendly and perfect for a comforting dinner.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets (haddock or cod)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium fish stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of unsalted butter in a large saucepan over medium-high heat.",
+    "Add the diced onion and cook until lightly browned, about 5 minutes.",
+    "Add the arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the low-sodium fish stock, 1 cup at a time, stirring continuously and allowing each cup to be fully absorbed before adding the next.",
+    "Bring the mixture to a simmer and cook for 15-20 minutes, or until the rice is tender and the liquid has been fully absorbed.",
+    "While the rice is cooking, prepare the tadka by heating the remaining 2 tablespoons of unsalted butter in a small saucepan over medium heat.",
+    "Add the caraway seeds and cook for 1 minute, stirring constantly.",
+    "Add the fish fillets to the tadka and cook for 2-3 minutes per side, or until cooked through.",
+    "Flake the cooked fish into large pieces and stir into the cooked rice.",
+    "Stir in the dried parsley and salt-free seasoning blend.",
+    "Serve the molten Polish Fish Pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "molten-polish-fish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-polish-fish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:08:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "fish",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fish",
+    "descriptor": "molten",
+    "dishForm": "Pilaf"
+  }
+}

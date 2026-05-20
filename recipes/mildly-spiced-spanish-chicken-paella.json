@@ -1,0 +1,112 @@
+{
+  "title": "mildly spiced spanish chicken paella",
+  "description": "a peppery and tender date-night spanish dish featuring capers and confit-tomato. low-sodium friendly and cooked in a copper pot.",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short grain"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 can",
+      "notes": "28 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "spanish spice"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a copper pot over medium-high heat. add the chicken breast and cook until browned.",
+    "remove the chicken from the pot and set aside. add the garlic and cook for 1 minute.",
+    "add the arborio rice and cook for 1 minute. stir constantly to prevent burning.",
+    "add the confit tomato, chicken broth, smoked paprika, salt, and black pepper to the pot. stir to combine.",
+    "add the browned chicken breast back to the pot and stir to combine.",
+    "bring the mixture to a simmer and cook for 15 minutes. stir occasionally to prevent sticking.",
+    "add the chopped capers and continue to cook for an additional 5 minutes. stir occasionally to prevent sticking.",
+    "reduce heat to low and cover the pot with a lid. cook for an additional 10 minutes.",
+    "remove the lid and fluff the rice with a fork. serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "mildly-spiced-spanish-chicken-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spiced-spanish-chicken-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "capers",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly spiced",
+    "dishForm": "Paella"
+  }
+}
