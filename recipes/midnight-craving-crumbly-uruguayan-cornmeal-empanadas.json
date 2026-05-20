@@ -1,0 +1,123 @@
+{
+  "title": "midnight-craving crumbly uruguayan cornmeal empanadas",
+  "description": "crumbly uruguayan empanadas with peppery cornmeal, perfect for midnight cravings. served with a side of spicy nuka-pickle sauce.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use flaky sea salt for added texture."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "3 tablespoons",
+      "notes": "use lukewarm water for easier dough handling."
+    },
+    {
+      "name": "nuka-pickle sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional, for an extra burst of flavor."
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added freshness."
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1/2 cup",
+      "notes": "fresh or frozen, for added crunch."
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine cornmeal, flour, salt, and black pepper. mix well to combine.",
+    "add vegetable shortening to the dry ingredients and mix until the mixture resembles coarse crumbs.",
+    "gradually add lukewarm water to the mixture, stirring with a fork until the dough comes together.",
+    "turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until the dough is smooth and pliable.",
+    "divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "flatten each ball into a disk shape and place a tablespoon of nuka-pickle sauce in the center of each disk.",
+    "fold the dough over the filling and press the edges together to seal the empanada.",
+    "use a fork to crimp the edges and create a decorative border.",
+    "brush the tops of the empanadas with butter and sprinkle with sesame seeds.",
+    "use a bamboo steamer to cook the empanadas over boiling water for 15-20 minutes, until golden brown and crispy.",
+    "serve the empanadas hot, garnished with chopped cilantro and grated cheddar cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal",
+    "easy-to-make",
+    "empanadas",
+    "midnight-craving",
+    "snack",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "midnight-craving-crumbly-uruguayan-cornmeal-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-crumbly-uruguayan-cornmeal-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:24:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cornmeal",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cornmeal",
+    "descriptor": "midnight-craving crumbly",
+    "dishForm": "Empanadas"
+  }
+}
