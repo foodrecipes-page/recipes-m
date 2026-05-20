@@ -1,0 +1,106 @@
+{
+  "title": "mildly smoky turkish eggplant jjim",
+  "description": "a smoky, crisp, and flavorful turkish imam bayildi dish featuring dark chocolate chips. serves well as a solo dinner.",
+  "cuisine": "turkish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggplants",
+      "amount": "2",
+      "notes": "any variety, but prefering darker skin for better smokiness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "preferably sweet onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste, for smokiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a good quality, extra virgin olive oil"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 oz",
+      "notes": "at least 70% cocoa, for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground, for best flavor"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "cut the eggplants in half lengthwise and place them on a baking sheet lined with parchment paper.",
+    "drizzle the eggplants with olive oil, sprinkle with salt and black pepper, and gently rub them with your hands to coat evenly.",
+    "roast the eggplants in the oven for about 30 minutes, or until they're tender and lightly caramelized.",
+    "while the eggplants are roasting, heat the olive oil in a large skillet over medium heat.",
+    "add the minced garlic and cook, stirring occasionally, until it's lightly golden and fragrant.",
+    "add the sliced onion to the skillet and cook, stirring occasionally, until it's translucent and slightly caramelized.",
+    "remove the eggplants from the oven and let them cool slightly.",
+    "once the eggplants have cooled, scoop out the flesh and add it to the skillet with the onion and garlic.",
+    "stir in the smoked paprika, dark brown sugar, and dark chocolate chips.",
+    "season the mixture with salt and black pepper to taste, then stir to combine.",
+    "return the skillet to the stovetop and simmer the mixture over low heat for about 10 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "mildly-smoky-turkish-eggplant-jjim",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-turkish-eggplant-jjim",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:30:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Mildly smoky",
+    "dishForm": "jjim"
+  }
+}
