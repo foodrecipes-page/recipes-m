@@ -1,0 +1,119 @@
+{
+  "title": "Malty Snappy Canadian Pancakes Batter-Flipped",
+  "description": "A comforting, malty, and snappy twist on traditional Canadian pancakes.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Make sure to use a high-protein flour for the best results."
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": "Old-fashioned oats will also work, but rolled oats will give a slightly better texture."
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "A small amount of sugar will balance out the bitterness of the malt."
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons",
+      "notes": "Use an unsweetened malt powder for the best flavor."
+    },
+    {
+      "name": "nonfat milk",
+      "amount": "1 cup",
+      "notes": "You can also use a non-dairy milk alternative for a vegan version."
+    },
+    {
+      "name": "vegan butter, melted",
+      "amount": "4 tablespoons",
+      "notes": "Make sure to use a high-quality vegan butter for the best flavor."
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "yuzu-cured salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, oats, sugar, malt powder, and baking powder.",
+    "In a separate bowl, whisk together the nonfat milk, melted vegan butter, eggs, and yuzu-cured salt.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Avoid overmixing.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until the edges start to dry and the surface is covered in bubbles.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with your favorite toppings, such as maple syrup, fresh fruit, or whipped cream.",
+    "Garnish with a sprinkle of yuzu-cured salt, if desired.",
+    "Serve immediately and enjoy!",
+    "Leftover pancakes can be refrigerated for up to 3 days or frozen for up to 2 months.",
+    "To reheat, simply toast the pancakes in a toaster or microwave until crispy and hot.",
+    "Serve with your favorite accompaniments, such as scrambled eggs, sausage, or bacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "cure",
+    "malty",
+    "pancakes",
+    "snappy",
+    "vegan",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "malty-snappy-canadian-pancakes-batter-flipped",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-snappy-canadian-pancakes-batter-flipped",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "vegan butter",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Pancakes",
+    "descriptor": "Malty Snappy",
+    "dishForm": "Batter-Flipped"
+  }
+}
