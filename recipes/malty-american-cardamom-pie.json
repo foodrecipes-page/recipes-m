@@ -1,0 +1,97 @@
+{
+  "title": "Malty American Cardamom Pie",
+  "description": "A sweet, malty pie with a glassy-jelly texture and a hint of cardamom, inspired by classic American desserts.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Graham Cracker Crust",
+      "amount": "1 cup",
+      "notes": "Use a store-bought crust or make your own with 1 1/2 cups graham cracker crumbs and 1/4 cup sugar."
+    },
+    {
+      "name": "Caramel Syrup",
+      "amount": "1 cup",
+      "notes": "Make your own caramel syrup by melting 1 cup sugar and 1/2 cup heavy cream over low heat, stirring constantly."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground cardamom for the best flavor."
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup",
+      "notes": "Optional, but adds a nice depth of flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Roll out the graham cracker crust and press it into a 9-inch pie dish.",
+    "Bake the crust for 8-10 minutes, or until lightly browned.",
+    "In a medium saucepan, combine the caramel syrup, heavy cream, and granulated sugar. Bring to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "In a large bowl, whisk together the eggs, vanilla extract, and ground cardamom.",
+    "Pour the egg mixture into the saucepan with the caramel syrup and stir to combine.",
+    "Pour the mixture into the baked pie crust and smooth the top.",
+    "If using brown sugar, sprinkle it evenly over the top of the pie.",
+    "Bake the pie for 25-30 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Let the pie cool to room temperature before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "cardamom",
+    "dessert",
+    "high-sugar",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "malty-american-cardamom-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-american-cardamom-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:26:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cardamom",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cardamom",
+    "descriptor": "malty",
+    "dishForm": "Pie"
+  }
+}
