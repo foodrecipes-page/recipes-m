@@ -1,0 +1,133 @@
+{
+  "title": "Midnight-Craving Mexican Snapper Burrito",
+  "description": "A decadent, sugar-free-friendly breakfast burrito filled with tender snapper fish, black beans, and a hint of chipotle peppers in adobo sauce. Perfect for a midnight craving.",
+  "cuisine": "mexican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cooking spray",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black beans, cooked",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese, low-fat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium-high heat. ",
+    "Spray the skillet with cooking spray and sauté the chipotle peppers until fragrant, about 1 minute. ",
+    "Add the black beans to the skillet and cook, stirring occasionally, until heated through, about 2-3 minutes. ",
+    "Add the cooked snapper fillets to the skillet and cook, breaking up with a spoon, until heated through, about 2-3 minutes. ",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds. ",
+    "Assemble the burritos by spooning the fish and bean mixture onto the center of each tortilla, followed by a sprinkle of cheese, a dollop of sour cream, and a sprinkle of cilantro. ",
+    "Roll the burritos tightly and serve immediately. ",
+    "Serve with a squeeze of lime juice and a sprinkle of cumin. ",
+    "Cooking time may vary depending on the thickness of the snapper fillets. ",
+    "For an extra crunchy burrito, cook the tortillas in a dry skillet for 30-60 seconds on each side before filling and rolling. ",
+    "For an extra spicy burrito, add more chipotle peppers or use hot sauce to taste. ",
+    "For a vegetarian burrito, omit the snapper fillets and add roasted vegetables, such as bell peppers and onions. ",
+    "For a vegan burrito, omit the cheese and sour cream and add roasted vegetables, such as bell peppers and onions. ",
+    "For a gluten-free burrito, use gluten-free tortillas and be mindful of cross-contamination with gluten-containing ingredients. ",
+    "For a high-protein burrito, add beans, cheese, and sour cream for added protein. ",
+    "For a low-fat burrito, use low-fat cheese and sour cream, and omit the cheese altogether for an even lower-fat option. ",
+    "For a low-carb burrito, use low-carb tortillas or substitute with lettuce wraps for a low-carb option. ",
+    "For a low-sodium burrito, omit the salt and use low-sodium cheese and sour cream. ",
+    "For a spicy burrito, add more chipotle peppers or use hot sauce to taste. ",
+    "For a vegetarian burrito, omit the snapper fillets and add roasted vegetables, such as bell peppers and onions. ",
+    "For a vegan burrito, omit the cheese and sour cream and add roasted vegetables, such as bell peppers and onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "midnight-craving-mexican-snapper-burrito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-mexican-snapper-burrito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:44:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "snapper fish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "snapper",
+    "descriptor": "midnight-craving",
+    "dishForm": "Burrito"
+  }
+}
