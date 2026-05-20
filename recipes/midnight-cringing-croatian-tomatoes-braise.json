@@ -1,0 +1,89 @@
+{
+  "title": "Midnight-Cringing Croatian Tomatoes Braise",
+  "description": "A peppery and silky Croatian dish featuring cherry tomatoes in a rich braise, suitable for Ayurvedic and sattvic diets. This recipe is perfect for a satisfying dinner or lunch, with a balance of flavors and textures.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "fresh, ripe, halved"
+    }
+  ],
+  "bell pepper": [
+    [
+      {
+        "name": "bell pepper",
+        "amount": "1 medium",
+        "notes": "any color"
+      },
+      "bay leaves",
+      "amount",
+      "4",
+      "notes:"
+    ],
+    "garlic",
+    "amount",
+    "3 cloves",
+    "notes:"
+  ],
+  "lemon juice": "],",
+  "protein": 10,
+  "carbs": 20,
+  "fat": 5,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "braise",
+    "croatian",
+    "low-fat",
+    "peppery",
+    "sattvic",
+    "silky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "instructions": [
+    "Heat a tablespoon of olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the bell pepper and cook for another 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the halved cherry tomatoes, bay leaves, salt, and black pepper. Stir to combine.",
+    "Cover the pot and bring the mixture to a simmer.",
+    "Reduce heat to low and let the braise cook for 15-20 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve warm, garnished with fresh parsley or basil, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "slug": "midnight-cringing-croatian-tomatoes-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-cringing-croatian-tomatoes-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:49:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "midnight-cringing",
+    "dishForm": "braise"
+  }
+}
