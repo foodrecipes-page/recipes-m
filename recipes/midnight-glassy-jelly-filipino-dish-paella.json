@@ -1,0 +1,97 @@
+{
+  "title": "Midnight Glassy Jelly Paella",
+  "description": "A nutty and glassy-jelly Filipino-inspired dish, served in a paella pan.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saffron rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "frying oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "paella pan",
+      "amount": "1,",
+      "notes": "cookware used for cooking the paella",
+      "},{": {
+        "name": "fish sauce",
+        "amount": "2 tablespoons",
+        "notes": "original substitute for h.p. sauce, traditional option",
+        "},{": "name "
+      }
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium heat.",
+    "Add the frying oil and sauté the garlic until fragrant.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chicken broth, water, and saffron rice to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 18 minutes, or until the rice is cooked and fluffy.",
+    "Stir in the h.p. sauce, tempering-chocolate, coconut milk, and fish sauce.",
+    "Season with salt to taste.",
+    "Serve the paella hot, garnished with chopped green onions and a squeeze of fresh lime juice.",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Slice the paella into wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "glassy-jelly",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "midnight-glassy-jelly-filipino-dish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-glassy-jelly-filipino-dish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:56:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "hp-sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "dish",
+    "descriptor": "Midnight Glassy Jelly",
+    "dishForm": "Paella"
+  }
+}
