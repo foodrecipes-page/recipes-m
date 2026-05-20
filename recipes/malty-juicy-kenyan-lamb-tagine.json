@@ -1,0 +1,112 @@
+{
+  "title": "Malty Juicy Kenyan Lamb Tagine",
+  "description": "A rich and aromatic Kenyan lamb tagine featuring malty notes and a hint of vanilla sugar. Perfect for a date night in.",
+  "cuisine": "kenyan",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "crushed"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the cardamom pods, cinnamon stick, date syrup, and vanilla sugar. Stir to combine.",
+    "Add the water and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Stir in the flour and cook for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "halal-friendly",
+    "kenyan-cuisine",
+    "lamb",
+    "one-pan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "malty-juicy-kenyan-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-juicy-kenyan-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T11:14:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Malty Juicy",
+    "dishForm": "Tagine"
+  }
+}
