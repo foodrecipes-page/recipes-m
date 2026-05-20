@@ -1,0 +1,102 @@
+{
+  "title": "midnight-craving jammy portuguese corn fritters",
+  "description": "flaky and crispy corn fritters filled with a sweet and tangy creamed corn, perfect for a midnight craving",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "sharp or extra sharp"
+    },
+    {
+      "name": "butter, softened",
+      "amount": "1/4 cup",
+      "notes": "plus more for brushing fritters"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/2 cup",
+      "notes": "see notes for low-calorie version"
+    },
+    {
+      "name": "nuka-pickle brine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Serve the fritters warm with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "fritters",
+    "one-pan",
+    "portuguese",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "midnight-craving-jammy-portuguese-corn-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-jammy-portuguese-corn-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:35:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "creamed corn",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "corn",
+    "descriptor": "midnight-craving jammy",
+    "dishForm": "fritters"
+  }
+}

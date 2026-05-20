@@ -1,0 +1,104 @@
+{
+  "title": "Malty Pillowy Argentinian Ikura Empanadas",
+  "description": "These empanadas are a cozy twist on traditional Argentinian cuisine, with a malty, pillowy texture and a pop of ikura for added flavor.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons",
+      "notes": "halal-friendly alternative to regular syrup"
+    },
+    {
+      "name": "ikura",
+      "amount": "1/2 cup",
+      "notes": "ikan roe, halal-friendly and sustainably sourced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup",
+      "notes": "for ice bath shock"
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1",
+      "notes": "for brushing empanadas before baking"
+    }
+  ],
+  "instructions": [
+    "Combine flour, warm water, yeast, and salt in a large mixing bowl.",
+    "Mix until a shaggy dough forms, then let rest for 10 minutes.",
+    "Add malt syrup and mix until dough comes together in a ball.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover with plastic wrap, and refrigerate for at least 1 hour.",
+    "Divide dough into 8 equal pieces, then roll out each piece into a thin circle.",
+    "Place 1 tablespoon of ikura in the center of each circle, then fold dough over to form a half-moon shape and press edges together to seal.",
+    "Place empanadas on a baking sheet lined with parchment paper, leaving 1 inch of space between each empanada.",
+    "Brush tops of empanadas with beaten egg and bake in a preheated oven at 375\u000575f (190\u000575c) for 20-25 minutes, or until golden brown.",
+    "Remove empanadas from oven and immediately submerge in an ice bath to stop cooking and help retain texture.",
+    "Let empanadas cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast-ish",
+    "easy-to-make",
+    "empanadas",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "malty-pillowy-argentinian-ikura-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-pillowy-argentinian-ikura-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "ikura",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Ikura",
+    "descriptor": "Malty pillowy",
+    "dishForm": "Empanadas"
+  }
+}
