@@ -1,0 +1,122 @@
+{
+  "title": "British Roast Trifle",
+  "description": "A gooey, cozy British dessert featuring all-purpose flour, roast, and Ayurvedic-Rajasic-friendly ingredients, perfect for a Yorkshire-inspired comfort food meal.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Dried fruit",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Roast",
+      "amount": "500g",
+      "notes": "cooled, diced"
+    },
+    {
+      "name": "Milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Double cream",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "50g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u00128C (350\u00128F).",
+    "Line a 23cm (9-inch) deep dish with parchment paper.",
+    "In a medium bowl, whisk together the flour and sugar.",
+    "Add the softened butter and rub it into the flour mixture until it resembles breadcrumbs.",
+    "Press half the breadcrumb mixture into the prepared dish.",
+    "Bake for 20 minutes, or until lightly golden brown.",
+    "Remove from the oven and let cool slightly.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Pour the egg mixture over the cooked base and smooth the top.",
+    "Bake for a further 15-20 minutes, or until the mixture is set and lightly golden.",
+    "Allow the trifle to cool completely before assembling the layers.",
+    "Cut the cooled trifle into thick slices and serve with a dollop of whipped cream and a sprinkle of chopped pistachios.",
+    "To make the custard, combine the milk and double cream in a saucepan and heat until just simmering.",
+    "In a separate bowl, whisk together the egg yolks and a little of the warm milk mixture to temper them.",
+    "Gradually pour the tempered egg yolk mixture into the warm milk mixture, whisking constantly.",
+    "Return the saucepan to the heat and cook, stirring constantly, until the custard thickens.",
+    "Remove from the heat and stir in the chopped pistachios.",
+    "To assemble the trifle, start with a layer of the cooled bread and butter base, followed by a layer of the cooled roast.",
+    "Repeat the layers, finishing with a layer of custard on top.",
+    "Refrigerate the trifle for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "comfort-food",
+    "desert",
+    "trifle",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "mellow-british-roast-trifle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-british-roast-trifle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:55:10Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "all purpose flour",
+    "diet": "ayurvedic-rajasic",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "roast",
+    "descriptor": "mellow",
+    "dishForm": "Trifle"
+  }
+}
