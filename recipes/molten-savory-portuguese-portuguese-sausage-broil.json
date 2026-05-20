@@ -1,0 +1,98 @@
+{
+  "title": "molten savory portuguese sausage broil",
+  "description": "show-off portuguese dish featuring caraway seed and a crispy crust, perfect for a special occasion or dinner party.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portuguese lingui\u001440a sausage",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "caraway seed",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "dredge sausage"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400\u00104c",
+    "dredge the portuguese sausage in flour, shaking off excess ",
+    "heat 2 tablespoons of butter in a large skillet over medium-high heat",
+    "s\u001b brown the sausage on all sides, about 2-3 minutes per side"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "broil",
+    "dinner",
+    "high-protein",
+    "low-carb",
+    "portuguese",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 44
+  },
+  "slug": "molten-savory-portuguese-portuguese-sausage-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-savory-portuguese-portuguese-sausage-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:38:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "caraway seed",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Portuguese sausage",
+    "descriptor": "Molten savory",
+    "dishForm": "Broil"
+  }
+}
