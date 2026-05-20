@@ -1,0 +1,100 @@
+{
+  "title": "Mustardy Wholesome Ethiopian Millet Injera Dulet",
+  "description": "A comforting dish featuring tender injera pieces, rich mustardy sauce, and a hint of sweetness.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Millet flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Candy cane sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together millet flour, water, mustard seeds, ginger, garlic powder, salt, and black pepper.",
+    "Knead the mixture for 10 minutes to develop the gluten.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat a non-stick skillet over medium-high heat and cook the injera pieces for 2-3 minutes on each side.",
+    "Transfer the injera to a baking sheet and bake for 10-12 minutes.",
+    "Meanwhile, mix together chimichurri sauce, candy cane sugar, and chopped parsley in a small bowl.",
+    "Serve the warm injera pieces with the mustardy sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "mustardy-wholesome-ethiopian-millet-injera-dulet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-wholesome-ethiopian-millet-injera-dulet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T07:29:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "millet",
+    "descriptor": "Mustardy Wholesome",
+    "dishForm": "Injera Dulet"
+  }
+}
