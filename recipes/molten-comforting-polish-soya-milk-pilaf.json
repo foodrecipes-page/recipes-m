@@ -1,0 +1,97 @@
+{
+  "title": "Molten Comforting Polish Soya Milk Pilaf",
+  "description": "A comforting, malty Polish dish made with soya milk, perfect for a low-glycemic breakfast or lunch.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Pearl Barley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soya Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Malt Syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a medium saucepan over medium heat.",
+    "Add the pearl barley and cook for 1 minute, stirring constantly.",
+    "Pour in the soya milk and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the barley is al dente.",
+    "Stir in the malt syrup, salt, ginger, and pepper.",
+    "Cook for an additional 2 minutes, or until the pilaf is heated through.",
+    "Stir in the fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "low-glycemic",
+    "lunch",
+    "malty",
+    "one-pan",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "molten-comforting-polish-soya-milk-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-comforting-polish-soya-milk-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "soya milk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Soya Milk",
+    "descriptor": "Molten Comforting",
+    "dishForm": "Pilaf"
+  }
+}
