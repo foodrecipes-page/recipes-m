@@ -1,0 +1,111 @@
+{
+  "title": "Mustardy Australian Jasmininderice Pilaf",
+  "description": "A warm and aromatic Australian-inspired pilaf dish infused with the tanginess of mustard, featuring jasmine rice and perfectly balanced flavors. A perfect weeknight dinner solution for any time of the year.",
+  "cuisine": "Australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Gradually add vegetable broth, whisking continuously. Bring to a boil and cook for 2 minutes.",
+    "Add Dijon mustard, salt, and black pepper. Whisk until smooth.",
+    "Add jasmine rice, thyme, and grated cheddar cheese. Stir to combine.",
+    "Transfer the saucepan to a broiler-safe skillet or oven-safe pan. Broil until the top is golden brown and the cheese is melted, about 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-dinner",
+    "lactose-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 65,
+    "fat": 18
+  },
+  "slug": "mustardy-australian-jasminderice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-australian-jasminderice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:22:46Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "jasmine rice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "jasminderice",
+    "descriptor": "mustardy",
+    "dishForm": "pilaf"
+  }
+}
