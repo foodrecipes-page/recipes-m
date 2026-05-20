@@ -1,0 +1,133 @@
+{
+  "title": "Malty Korean Onion Bao",
+  "description": "Soft, malty, and savory, these Korean baos are a perfect post-workout treat. Made with double-rise bread and featuring a filling of caramelized yellow onion and spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "",
+      "notes": "around 105°F (40°C)"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized yellow onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onion",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bread flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water and yeast. Let it sit for 5 minutes until frothy.",
+    "In a separate bowl, whisk together the gluten-free flour, sugar, and salt.",
+    "Add the dry ingredients to the yeast mixture and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Form the dough into a ball and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Divide the dough into 4-6 equal pieces and roll each into a ball.",
+    "Use a rolling pin to flatten each ball of dough into a disk, about 1/4 inch thick.",
+    "In a separate pan, heat the vegetable oil over medium heat. Add the grated ginger and cook for 1 minute until fragrant.",
+    "Add the chopped green onion and cook for another minute until softened.",
+    "Add the caramelized yellow onion and gochujang. Cook for 2-3 minutes until heated through.",
+    "Brush the edges of the dough disks with a little water, then place a spoonful of the onion mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape, pressing the edges to seal.",
+    "Cook the baos in a non-stick skillet or steamer for 5-7 minutes until golden brown.",
+    "Serve warm and enjoy!",
+    "Repeat with the remaining dough and filling.",
+    "Store any leftover baos in an airtight container in the fridge for up to 3 days or freeze for up to 2 months.",
+    "Reheat frozen baos in the microwave or oven before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "korean",
+    "post-workout",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "malty-korean-onion-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-korean-onion-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:20:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "yellow onion",
+    "diet": "gluten-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "onion",
+    "descriptor": "malty",
+    "dishForm": "Bao"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "title": "mellow malaysian sick-day stew",
+  "description": "earthy, bouncy-qq, sick-day malaysian dish featuring cajun, yakimono-grill, plant-based-friendly, vessel=donabe",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "yam",
+      "amount": "2 medium tubers",
+      "notes": ""
+    },
+    {
+      "name": "plantain",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "4 stalks",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce (make sure it is gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": "use gluten-free version for dietary compliance"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat oil in donabe over medium heat.",
+    "add lemongrass, galangal, and chili peppers, saut\u000440 until fragrant.",
+    "add yam and plantain, cook until slightly tender.",
+    "add coconut milk, miso paste, fish sauce, rice vinegar, and brown sugar, stir to combine.",
+    "add water, bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "use slotted spoon to transfer vegetables to serving bowl.",
+    "whisk cornstarch and a little water in a small bowl, then stir into stew to thicken, if desired.",
+    "season with salt to taste.",
+    "serve hot, garnished with kaffir lime leaves, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 22
+  },
+  "slug": "mellow-malaysian-sick-day-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-malaysian-sick-day-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:20:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cajun",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "sick-day",
+    "descriptor": "mellow",
+    "dishForm": "stew"
+  }
+}
