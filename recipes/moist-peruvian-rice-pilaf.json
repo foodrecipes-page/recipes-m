@@ -1,0 +1,112 @@
+{
+  "title": "moist peruvian rice pilaf",
+  "description": "a rich and silky peruvian rice pilaf cooked with sesame seed oil and crunchy sesame seeds, perfect for adventurous foodies",
+  "cuisine": "peruvian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, omit for vegan version"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat sesame seed oil in a medium saucepan over medium heat",
+    "add chopped onion and cook until translucent, about 5 minutes",
+    "add minced garlic and cook for 1 minute, until fragrant",
+    "add ground saffron and cook for 1 minute, until fragrant",
+    "add fry-grind-rice-khao-khua and cook for 2-3 minutes, until lightly toasted",
+    "add chicken broth, soy sauce (if using), salt, and black pepper",
+    "bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes",
+    "fluff pilaf with a fork and stir in toasted sesame seeds",
+    "garnish with chopped fresh cilantro and serve hot"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "grain-based",
+    "macrobiotic-friendly",
+    "peruvian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "moist-peruvian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/moist-peruvian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T08:13:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Moist",
+    "dishForm": "Pilaf"
+  }
+}
