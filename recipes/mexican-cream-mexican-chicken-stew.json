@@ -1,0 +1,60 @@
+{
+  "title": "Mexican Cream Chicken Stew",
+  "description": "A rich and comforting stew featuring chicken in a creamy, miso-based sauce. Serve with warm tortillas or over rice.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, pepper, and cumin. Heat 2 tablespoons of oil in a large cazuela over medium-high heat.",
+    "Brown the chicken on all sides, about 5-7 minutes. Remove from heat and set aside.",
+    "In the same cazuela, add 1 more tablespoon of oil and cook the onion and garlic until softened, about 5 minutes.",
+    "Add the diced tomatoes, chicken broth, and miso paste to the cazuela, stirring to combine.",
+    "Return the chicken to the cazuela and bring the mixture to a simmer.",
+    "Reduce heat to medium-low and let cook, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in the heavy cream and let cook for an additional 2-3 minutes or until heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro and warm tortillas on the side.",
+    "Refrigerate or freeze leftovers for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "mexican-cream-mexican-chicken-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mexican-cream-mexican-chicken-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:56:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "heavy cream",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Mexican cream",
+    "dishForm": "Stew"
+  }
+}
