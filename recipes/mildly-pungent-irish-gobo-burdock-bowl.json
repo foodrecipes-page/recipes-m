@@ -1,0 +1,109 @@
+{
+  "title": "Mildly Pungent Irish Gobo-Burdock Bowl",
+  "description": "A paleo-friendly, one-pan meal prep dish featuring gobo and burdock roots, with a hint of garlic and ginger. Perfect for a quick and nutritious breakfast or lunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gobo root",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Burdock root",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups, stems removed",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the grated onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the grated garlic and ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the grated gobo and burdock roots and cook, stirring occasionally, for 10-12 minutes, until tender.",
+    "Add the chopped kale and cook, stirring occasionally, until wilted, about 2-3 minutes.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Reduce heat to low and let simmer, covered, for 10-15 minutes, until the flavors have melded together.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "irish",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "mildly-pungent-irish-gobo-burdock-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-pungent-irish-gobo-burdock-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:43:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "gobo-burdock",
+    "descriptor": "Mildly pungent",
+    "dishForm": "Bowl"
+  }
+}
