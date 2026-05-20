@@ -1,0 +1,113 @@
+{
+  "title": "midnight-craving jamaican frankfurter en-croute",
+  "description": "A malty, snappy, and indulgent Jamaican dish featuring frankfurter, en-croute, and Mediterranean flair, perfect for a midnight craving.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "frankfurter sausage",
+      "amount": "2",
+      "notes": "your favorite brand"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "mason jar",
+      "amount": "1",
+      "notes": "for individual portions"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut the pastry into squares of about 3 inches on each side.",
+    "Place a frankfurter sausage in the center of each square, leaving a 1/2 inch border around it.",
+    "Dust the sausage with a pinch of allspice and thyme.",
+    "Fold the pastry over the sausage to form a triangle, pressing the edges to seal.",
+    "Brush the tops of the pastries with the softened butter.",
+    "Place the pastries on a baking sheet lined with parchment paper, leaving about 1 inch of space between each pastry.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm with a dollop of malt vinegar, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-supper",
+    "gluten-free-recipes",
+    "jamaican-food",
+    "midnight-snack",
+    "one-pan",
+    "vegan-options",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "midnight-craving-jamaican-frankfurter-en-croute",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-jamaican-frankfurter-en-croute",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:10:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "frankfurter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "En-croute"
+  }
+}
