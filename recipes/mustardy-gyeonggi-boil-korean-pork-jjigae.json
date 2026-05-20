@@ -1,0 +1,56 @@
+{
+  "title": "Mustardy Gyeonggi Boil Korean Pork Jjigae",
+  "description": "A hearty, mustardy Korean dish featuring boiled pork and hard taco shells, inspired by the flavors of Gyeonggi Province and suitable for a lazy Sunday meal.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "1 kg",
+      "notes": "Cut into 2-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Combine pork shoulder, soy sauce, brown sugar, rice vinegar, garlic, and pork in a large hot pot vessel"
+  ],
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "korean",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 28,
+    "fat": 26
+  },
+  "prepTimeMin": 15,
+  "slug": "mustardy-gyeonggi-boil-korean-pork-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-gyeonggi-boil-korean-pork-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:11:21Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "hard taco shells",
+    "diet": "halal",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Mustardy Gyeonggi Boil",
+    "dishForm": "Jjigae"
+  }
+}
