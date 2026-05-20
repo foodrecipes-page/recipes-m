@@ -1,0 +1,126 @@
+{
+  "title": "Mildly Spicy Korean Chicken Bowl",
+  "description": "A yeasty, silky, weeknight Korean dish featuring pecorino-romano, robata-grill, and satvik-friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon instant",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece grated",
+      "notes": ""
+    },
+    {
+      "name": "pecorino-romano cheese",
+      "amount": "1/4 cup shaved",
+      "notes": "optional"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and 1 cup water in a small bowl; let sit 5 minutes, or until frothy.",
+    "In a blender or food processor, combine chili flakes, soy sauce, brown sugar, garlic, ginger, and 2 tablespoons water. Blend until smooth.",
+    "In a large bowl, whisk together flour, salt, and pecorino-romano cheese (if using).",
+    "Add the wet ingredients to the dry ingredients and stir until a shaggy dough forms.",
+    "Knead the dough 5-7 minutes, until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise 1 hour, or until doubled in size.",
+    "Preheat the grill to medium-high heat.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball. Flatten each ball slightly into a disk.",
+    "Grill the disks 2-3 minutes per side, or until charred and cooked through.",
+    "Transfer the grilled disks to a cutting board and let cool slightly.",
+    "Meanwhile, cook the chicken in a large skillet over medium-high heat 5-7 minutes, or until cooked through.",
+    "Slice the chicken into thin strips and set aside.",
+    "In a small bowl, whisk together the sauce ingredients.",
+    "To assemble the bowls, place a grilled disk on each plate, top with chicken, roasted vegetables, green onions, and a sprinkle of sesame seeds (if using).",
+    "Drizzle the sauce over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "mildly-spicy-korean-chicken-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-korean-chicken-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:43:15Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Mildly Spicy",
+    "dishForm": "Bowl"
+  }
+}
