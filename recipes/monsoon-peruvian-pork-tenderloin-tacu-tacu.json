@@ -1,0 +1,127 @@
+{
+  "title": "Monsoon Peruvian Pork Tenderloin Tacu-Tacu",
+  "description": "A Peruvian-inspired twist on traditional tacu-tacu, featuring pork tenderloin, peanuts, and a creamy aji amarillo sauce. This dish combines the flavors of monsoon season with the comfort of a hearty meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null,
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped, toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add the chopped onion and cook until softened, about 3 minutes. Add the chopped bell pepper and cook until tender, about 4 minutes. Add the chopped aji amarillo peppers and cook for an additional 2 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute. Add the toasted peanuts and cook for 1 minute, stirring constantly. Add the cumin, paprika, black pepper, and salt to the skillet and stir to combine.",
+    "Add the pork tenderloin to the skillet and cook until browned on all sides, about 5 minutes. Add the heavy cream and chicken broth to the skillet and stir to combine. Bring the mixture to a simmer and cook until the sauce has thickened, about 5 minutes.",
+    "Reduce the heat to low and simmer the sauce for an additional 2 minutes. Taste and adjust the seasoning as needed. Serve the pork tenderloin over the tacu-tacu mixture, garnished with chopped cilantro if desired.",
+    "To make the tacu-tacu mixture, combine the cooked rice, chopped onion, chopped bell pepper, and chopped aji amarillo peppers in a large bowl. Stir to combine and adjust the seasoning as needed.",
+    "Cook the rice according to the package instructions. Set aside to cool.",
+    "Grill or broil the aji amarillo peppers until charred, about 5 minutes. Peel the peppers and chop them into small pieces.",
+    "Toast the peanuts in a small skillet over medium heat, stirring constantly, until fragrant and lightly browned.",
+    "Grate the ginger and mince the garlic using a microplane or fine grater."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "peanut",
+    "peruvian",
+    "tacu-tacu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 42,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "monsoon-peruvian-pork-tenderloin-tacu-tacu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-peruvian-pork-tenderloin-tacu-tacu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:04:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Pork Tenderloin",
+    "descriptor": "Monsoon",
+    "dishForm": "Tacu-Tacu"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Molten Mediterranean Water Bisque",
+  "description": "A low-carb, high-protein brunch dish with a creamy, molten texture, featuring Mediterranean flavors and minimal carbs. Pressure-cooked for a tender, melt-in-your-mouth experience.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine water, zucchini, red bell pepper, and garlic in a pressure cooker.",
+    "Close the lid and pressure-cook at 10 pounds per square inch (PSI) for 8 minutes.",
+    "Let the pressure release naturally for 5 minutes before opening the lid.",
+    "Stir in feta cheese, Greek yogurt, fresh dill, lemon juice, salt, and black pepper.",
+    "Blend the mixture until smooth using an immersion blender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional fresh dill if desired.",
+    "Garnish with lemon wedges for added flavor and moisture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "molten-mediterranean-water-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-mediterranean-water-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:04:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "water",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "water",
+    "descriptor": "Molten",
+    "dishForm": "Bisque"
+  }
+}
