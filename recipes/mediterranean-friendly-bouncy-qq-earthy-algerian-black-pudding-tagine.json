@@ -1,0 +1,126 @@
+{
+  "title": "mediterranean-friendly bouncy-qq earthy algerian black pudding tagine",
+  "description": "a delicious and comforting algerian tagine made with earthy black pudding, served with a side of fresh vegetables and crusty bread.",
+  "cuisine": "algerian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 pound",
+      "notes": "certainly not for the faint of heart!  algerian black pudding is made from pork blood, onions, and spices."
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium-high heat.",
+    "add the onions and cook until they're caramelized and dark brown, about 20 minutes.",
+    "add the garlic and cook for an additional 1 minute.",
+    "add the black pudding and cook until it's nicely browned, about 5 minutes.",
+    "add the chicken broth, cumin, coriander, paprika, and cayenne pepper.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "season with salt to taste.",
+    "serve the tagine hot, garnished with fresh parsley, cilantro, and chopped fresh herbs.",
+    "serve with crusty bread on the side.",
+    "note: you can also make this tagine in a slow cooker. simply brown the black pudding and cook the onions in a pan, then transfer everything to the slow cooker and cook on low for 6-8 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "black-pudding",
+    "comfort-food",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "mediterranean-friendly-bouncy-qq-earthy-algerian-black-pudding-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mediterranean-friendly-bouncy-qq-earthy-algerian-black-pudding-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:09:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "black pudding",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "black pudding",
+    "descriptor": "mediterranean-friendly bouncy-qq earthy",
+    "dishForm": "Tagine"
+  }
+}
