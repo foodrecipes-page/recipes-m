@@ -1,0 +1,116 @@
+{
+  "title": "Molten Briny Dutch Mushrooms Bowl",
+  "description": "A cozy Dutch dish featuring shiitake mushrooms in a rich, emulsified sauce.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shii-take mushrooms",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "brine",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "white pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "cream",
+      "amount": "50ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large earthenware bowl, melt the butter in the oven at 180°C for 5 minutes, or until bubbly.",
+    "Sprinkle the flour over the butter and cook for a further 2 minutes, stirring constantly.",
+    "Slowly pour in the milk and brine, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Add the thyme, garlic powder, and white pepper, and stir to combine.",
+    "Arrange the mushrooms on top of the sauce and transfer the bowl to the oven.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the bowl from the oven and stir in the cream.",
+    "Return the bowl to the oven and bake for a further 2-3 minutes, or until the sauce is smooth and emulsified.",
+    "Remove the bowl from the oven and let it cool slightly before serving.",
+    "Serve the mushrooms and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "dutch-mushrooms",
+    "emulsified",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 23,
+    "carbs": 30,
+    "fat": 26
+  },
+  "slug": "molten-briny-dutch-mushrooms-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-briny-dutch-mushrooms-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:53:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "emulsify",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Molten Briny",
+    "dishForm": "Bowl"
+  }
+}
