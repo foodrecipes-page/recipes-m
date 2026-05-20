@@ -1,0 +1,115 @@
+{
+  "title": "American Red-Curry-Paste Curry",
+  "description": "A flavorful and mildly-spicy weeknight dish featuring red-curry-paste, perfect for a Korean brass bowl.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red-curry-paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 oz"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium-high heat.",
+    "Cook the onion until browned, about 3 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the red-curry-paste and cook, stirring constantly, for 1 minute.",
+    "Add the binchotan charcoal powder and cook for 30 seconds.",
+    "Add the coconut milk, sweet potato, and bell pepper, stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook until the sweet potato is tender, about 10 minutes.",
+    "Stir in the brown sugar, tamarind paste, and sesame oil.",
+    "Season with salt to taste.",
+    "Serve hot in a Korean brass bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "mildly-spicy-american-red-curry-paste-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-american-red-curry-paste-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:04:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "red-curry-paste",
+    "descriptor": "mildly-spicy",
+    "dishForm": "Curry"
+  }
+}
