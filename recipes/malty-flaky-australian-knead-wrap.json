@@ -1,0 +1,108 @@
+{
+  "title": "Malty Flaky Australian Knead Wrap",
+  "description": "This malty flaky australian knead wrap features a rich and indulgent filling wrapped in crispy ti-leaf-wrap. Perfect as a breakfast or snack option.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ti-leaf wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/2 cup",
+      "notes": "use a high-quality vegan butter for the best flavor"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for the best results"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "make sure to use a fresh package of baking powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Whipping cream",
+      "amount": "1 cup",
+      "notes": "chill the whipping cream in the refrigerator for at least 30 minutes before using"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality maple syrup for the best flavor"
+    },
+    {
+      "name": "Malt extract",
+      "amount": "1 tsp",
+      "notes": "use a high-quality malt extract for the best flavor"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, baking powder, and salt until well combined.",
+    "Add the vegan butter to the dry ingredients and mix until a shaggy dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and flatten the dough into a rectangle, about 1/4-inch thick.",
+    "Cut the dough into 4 equal pieces and roll each piece into a ball.",
+    "Place the balls of dough onto the prepared baking sheet and bake for 15-20 minutes, or until golden brown.",
+    "While the dough is baking, prepare the filling by whipping the chilled whipping cream until stiff peaks form.",
+    "Add the maple syrup, malt extract, and vanilla extract to the whipped cream and mix until well combined.",
+    "Once the dough is done baking, split each piece in half lengthwise and fill with the whipped cream mixture.",
+    "Serve immediately and enjoy!",
+    "Make sure to let the dough rest for 10 minutes before rolling it out to prevent it from shrinking during baking.",
+    "Use a sharp knife to cut the dough into clean, even pieces for the best results."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "knead",
+    "malty",
+    "snack",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "malty-flaky-australian-knead-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-flaky-australian-knead-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:23:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "whipping cream",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "knead",
+    "descriptor": "malty flaky",
+    "dishForm": "wrap"
+  }
+}
