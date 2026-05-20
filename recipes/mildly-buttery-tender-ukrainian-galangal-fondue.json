@@ -1,0 +1,70 @@
+{
+  "title": "Mildly Buttery Tender Ukrainian Galangal Fondue",
+  "description": "A festive Ukrainian dish featuring galangal paste, served in a fondue pot and perfect for special occasions. This recipe is fodmap-friendly and easy to make.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Galangal paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in the fondue pot over low heat.",
+    "Add the galangal paste and cook, stirring constantly, for 2 minutes.",
+    "Add the ricotta cheese and stir until smooth.",
+    "Add the sashimi-cut carrots, zucchini, bell peppers, garlic, salt, parsley, dill, and black pepper, and stir until combined.",
+    "Increase the heat to medium and cook, stirring constantly, until the vegetables are tender, about 5 minutes.",
+    "Remove from heat and serve hot.",
+    "Serve the fondue with bread or vegetables for dipping.",
+    "Adjust the seasoning as needed, if desired.",
+    "Garnish with additional parsley and dill, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fondue",
+    "high-in-protein",
+    "special-occasion",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "mildly-buttery-tender-ukrainian-galangal-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-buttery-tender-ukrainian-galangal-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:47:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "galangal paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "galangal",
+    "descriptor": "mildly buttery tender",
+    "dishForm": "fondue"
+  }
+}
