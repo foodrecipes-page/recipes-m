@@ -1,0 +1,102 @@
+{
+  "title": "Mustardy, Crispy, Quick-Simmered Venezuelan Narutomaki Bake",
+  "description": "A unique twist on traditional narutomaki, featuring a crispy wood-fired-bake and a tangy mustard flavor. Perfect for a weekend brunch.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "4-6",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "day-old"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup",
+      "notes": "spicy"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 425°F (220°C).",
+    "Cut the bread into 1-inch (2.5 cm) cubes and place in a large bowl.",
+    "Cut the narutomaki into 1-inch (2.5 cm) slices and add to the bowl with the bread.",
+    "In a small bowl, whisk together the mustard, chicken broth, parmesan cheese, eggs, salt, and black pepper.",
+    "Pour the wet ingredients over the bread and narutomaki mixture, and stir until everything is well coated.",
+    "Transfer the mixture to a fondue pot or a small cast-iron skillet.",
+    "Dot the top with butter and cover the pot or skillet with a lid.",
+    "Bake for 15-20 minutes, or until the top is golden brown and the bread is crispy.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "mushroom-lovers",
+    "one-pan",
+    "veggie-friendly",
+    "weekend",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "mustardy-crispy-quick-simmered-venezuelan-narutomaki-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crispy-quick-simmered-venezuelan-narutomaki-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:03:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "narutomaki",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "narutomaki",
+    "descriptor": "mustardy, crispy, quick-simmered",
+    "dishForm": "bake"
+  }
+}

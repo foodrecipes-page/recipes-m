@@ -1,0 +1,69 @@
+{
+  "title": "Molten Roasted Russian Mixture Powder Bake",
+  "description": "A rich, ayurvedic tamasic-friendly brunch dish featuring a molten roasted mixture powder and tempered chocolate. Perfect for a weekend morning treat.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sunflower seeds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "Tempered at 115°F (46°C)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) and grease a 9-inch round baking dish.",
+    "Mix sunflower seeds, mixture powder, and salt in a bowl until well combined.",
+    "Transfer the mixture to the prepared baking dish and roast for 20 minutes, stirring occasionally.",
+    "In a separate bowl, melt the tempered chocolate chips over a double boiler or in the microwave in 10-second increments, stirring between each interval until smooth.",
+    "Remove the baking dish from the oven and pour the melted chocolate over the roasted mixture.",
+    "Return the baking dish to the oven and bake for an additional 5-7 minutes, or until the chocolate is set and the mixture is fragrant.",
+    "Remove the baking dish from the oven and let it cool for a few minutes before slicing into wedges and serving.",
+    "Serve warm, garnished with fresh herbs or edible flowers if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Refrigerate for at least 2 hours before serving to allow the flavors to meld.",
+    "When ready to serve, slice into wedges and serve with a dollop of whipped cream or a sprinkle of powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "chocolate",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "molten-roasted-russian-mixture-powder-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-roasted-russian-mixture-powder-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:03:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "mixture powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "mixture powder",
+    "descriptor": "molten roasted",
+    "dishForm": "bake"
+  }
+}
