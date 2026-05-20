@@ -1,0 +1,96 @@
+{
+  "title": "venezuelan lemon nimono",
+  "description": "a briny, juicy venezuelan dish that's perfect for midnight cravings. it features a nimono simmer and uses unwaxed lemons.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "saffron-infused vegetable broth",
+      "amount": "2 cups",
+      "notes": "use store-bought or homemade broth"
+    },
+    {
+      "name": "unwaxed lemons",
+      "amount": "4",
+      "notes": "juiced and sliced"
+    },
+    {
+      "name": "plantain chips",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "heat the saffron-infused broth in a large pot over medium heat.",
+    "add the sliced lemons, onion, garlic, aji amarillo peppers, cumin, and paprika to the pot.",
+    "add the crushed plantain chips and cooked black beans to the pot.",
+    "bring the mixture to a simmer and cook for 15 minutes or until the flavors have melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-craving",
+    "plant-based",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "midnight-craving-venezuelan-lemon-nimono-simmered",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-venezuelan-lemon-nimono-simmered",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:57:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lemon",
+    "descriptor": "midnight-craving",
+    "dishForm": "Nimono-simmered"
+  }
+}
