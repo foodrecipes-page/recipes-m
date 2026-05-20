@@ -1,0 +1,119 @@
+{
+  "title": "Molten Russian Trout Pasta",
+  "description": "Garlicky, molten, kid-friendly Russian dish featuring trout, pasta water emulsion, anti-inflammatory friendly. Great for a quick and delicious dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "pappardelle",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan charcoal grill to 400°F (200°C).",
+    "Season trout fillets with salt, black pepper, and grated ginger.",
+    "Grill trout fillets for 4 minutes per side, or until cooked through.",
+    "Cook pappardelle according to package instructions until al dente.",
+    "In a blender or food processor, combine lemon juice, olive oil, garlic, and egg yolks. Blend until smooth.",
+    "Strain pasta water through a fine-mesh sieve into a bowl, whisking in white wine vinegar.",
+    "Add pasta water emulsion to blender or food processor with garlic-lemon mixture. Blend until smooth.",
+    "Add chopped fresh dill to the emulsion and blend until combined.",
+    "To assemble, place cooked pappardelle on a plate, top with grilled trout, and drizzle with pasta water emulsion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 64,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "molten-russian-trout-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-russian-trout-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:29:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "trout",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "trout",
+    "descriptor": "molten",
+    "dishForm": "Pasta"
+  }
+}
