@@ -1,0 +1,118 @@
+{
+  "title": "Mildly Malty Tunisian Fish Paella",
+  "description": "A flavorful and airy paella dish from Tunisia, featuring a delicate balance of fish and malty flavors, perfect for a special occasion.",
+  "cuisine": "tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Calasparra rice",
+      "amount": "225g"
+    },
+    {
+      "name": "Fresh mussels",
+      "amount": "250g"
+    },
+    {
+      "name": "Sea bass fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "120ml"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "150g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Flat-leaf parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the mussels and sea bass, skin side down, and cook for 2 minutes.",
+    "Add the onion and garlic and cook for another 2 minutes.",
+    "Add the chickpeas, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the rice and orange juice, and stir to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lid and cook for an additional 10 minutes, or until the rice is tender and lightly toasted.",
+    "Remove from the heat and let rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "pescatarian-friendly",
+    "rice-based",
+    "seafood",
+    "special-occasion",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "mildly-malty-tunisian-fish-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-malty-tunisian-fish-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T00:08:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "robata-grill",
+    "primaryIngredient": "orange",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Mildly Malty",
+    "dishForm": "Paella"
+  }
+}
