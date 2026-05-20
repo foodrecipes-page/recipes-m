@@ -1,0 +1,96 @@
+{
+  "title": "Molten Irish Peas Gratin",
+  "description": "A creamy, nutty, and comforting Irish dish featuring peas and a hint of garlic. Perfect as a side dish or a light lunch.",
+  "cuisine": "irish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peas, fresh or frozen",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Butter, unsalted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Infused oil (e.g. garlic or herb)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grana Padano cheese, shredded",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Breadcrumbs, gluten-free",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the peas and set them aside.",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the peas, salt, and pepper, and cook for 2-3 minutes until they start to soften.",
+    "Transfer the pea mixture to a baking dish.",
+    "Drizzle the olive oil and infused oil over the peas.",
+    "Sprinkle the Grana Padano cheese and breadcrumbs over the top.",
+    "Bake for 15-20 minutes until the top is golden brown and the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-vegetable",
+    "low-glycemic",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "molten-irish-peas-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-irish-peas-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:11:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "peas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "peas",
+    "descriptor": "Molten",
+    "dishForm": "Gratin"
+  }
+}
