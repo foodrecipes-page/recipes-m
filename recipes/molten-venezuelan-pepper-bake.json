@@ -1,0 +1,109 @@
+{
+  "title": "Molten Venezuelan Pepper Bake",
+  "description": "A spicy, comforting dish featuring a rich cheese and pepper filling, perfect for a hangover cure. Perfect for a cold morning.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Yellow bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cotija cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush the bottom and sides of a 9x13 inch baking dish with olive oil.",
+    "Arrange the red and yellow bell peppers in the baking dish.",
+    "In a bowl, mix the shredded cheese, crumbled Cotija cheese, salt, black pepper, chili powder, and garlic.",
+    "Pour the cheese mixture over the bell peppers.",
+    "Drizzle the remaining olive oil over the top.",
+    "Sprinkle the chopped cilantro over the top.",
+    "Cover the baking dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheesy",
+    "comfort-food",
+    "hangover-cure",
+    "one-pan",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 15,
+    "carbs": 14,
+    "fat": 14
+  },
+  "slug": "molten-venezuelan-pepper-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-venezuelan-pepper-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:01:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "salt",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "pepper",
+    "descriptor": "molten",
+    "dishForm": "bake"
+  }
+}
