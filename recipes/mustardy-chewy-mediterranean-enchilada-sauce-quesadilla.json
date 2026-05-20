@@ -1,0 +1,111 @@
+{
+  "title": "Mustardy Chewy Mediterranean Enchilada Sauce Quesadilla",
+  "description": "A savory, chewy, and festive dish that combines the flavors of the Mediterranean with the richness of enchilada sauce and the umami of dashi extract.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dashi extract",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mustard (Dijon or whole-grain)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large molcajete over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the canned diced tomatoes, dashi extract, Greek yogurt, and mustard. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, stirring occasionally.",
+    "Add the shredded cheese and stir until melted and well combined.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the quesadillas by spooning the filling onto half of each tortilla and topping with chopped parsley.",
+    "Fold the tortillas in half and cook in the molcajete over medium heat until crispy and melted.",
+    "Flip the quesadillas and cook for an additional 2-3 minutes, until crispy and golden.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "dashi-extract",
+    "enchilada-sauce",
+    "mediterranean",
+    "one-pan",
+    "quesadilla",
+    "tamasic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "mustardy-chewy-mediterranean-enchilada-sauce-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-chewy-mediterranean-enchilada-sauce-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:23:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "dashi-extract",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "enchilada sauce",
+    "descriptor": "Mustardy Chewy",
+    "dishForm": "Quesadilla"
+  }
+}
