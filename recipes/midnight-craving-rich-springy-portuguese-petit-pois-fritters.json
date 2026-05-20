@@ -1,0 +1,124 @@
+{
+  "title": "midnight-craving rich springy portuguese petit pois fritters",
+  "description": "springy portuguese fritters filled with petit pois and ham, served with a side of spicy aioli, perfect for a midnight craving",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried codfish",
+      "amount": "2 tablespoons",
+      "notes": " finely flaked, soaked and drained"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped ham",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "cooled slightly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "some",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil for frying",
+      "amount": "some",
+      "notes": ""
+    },
+    {
+      "name": "spicy aioli",
+      "amount": "side dish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "season the aioli with salt to taste"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "aioli",
+    "easy-to-make",
+    "fritters",
+    "midnight-craving",
+    "portuguese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "midnight-craving-rich-springy-portuguese-petit-pois-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-rich-springy-portuguese-petit-pois-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:48:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "petit pois",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "petit pois",
+    "descriptor": "midnight-craving rich springy",
+    "dishForm": "Fritters"
+  }
+}
