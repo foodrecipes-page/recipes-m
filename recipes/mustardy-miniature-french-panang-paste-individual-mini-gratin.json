@@ -1,0 +1,85 @@
+{
+  "title": "Mustardy Miniature French Panang-Paste Individual Mini Gratin",
+  "description": "A crispy, light French dish from Normandy featuring panang-paste, suitable for a quick vegan-friendly lunch or dinner. Perfect for a weeknight meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegan butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Panang paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small saucepan, melt 1 tablespoon of vegan butter over low heat.",
+    "Add the panang paste and cook, stirring constantly, for 1-2 minutes.",
+    "In a blender or food processor, combine the flour, plant-based milk, nutritional yeast, and a pinch of salt. Blend until smooth.",
+    "Pour the blended mixture into a saucepan and cook over medium heat, whisking constantly, until the mixture thickens.",
+    "Add the saucepan mixture to the saucepan with the panang paste and stir to combine.",
+    "Pour the mixture into 4-6 individual mini cocottes or ramekins.",
+    "Add 1-2 tablespoons of vegan butter on top of each cocotte.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is set.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "french-cuisine",
+    "gratin",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "mustardy-miniature-french-panang-paste-individual-mini-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-miniature-french-panang-paste-individual-mini-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:17:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "panang-paste",
+    "diet": "vegan",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "panang-paste",
+    "descriptor": "Mustardy Miniature",
+    "dishForm": "Individual Mini Gratin"
+  }
+}
