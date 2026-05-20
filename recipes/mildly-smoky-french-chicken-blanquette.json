@@ -1,0 +1,124 @@
+{
+  "title": "Mildly Smoky French Chicken Blanquette",
+  "description": "Tangy, smoky, and cheesy French dish featuring genmaicha and pickle.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "2 teaspoons",
+      "notes": "for infusion"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium heat.",
+    "Infuse genmaicha tea into the chicken broth, then strain and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start browning, about 5 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the white wine and cook until reduced by half, about 2-3 minutes.",
+    "Add the flour and whisk to combine, cooking for 1 minute.",
+    "Add the infused broth and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the chicken is cooked through, about 15-20 minutes.",
+    "Stir in the pickle, caraway seeds, and garlic.",
+    "Transfer the chicken to a plate and set aside.",
+    "Stir in the Gruyère cheese until melted and smooth.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chicken-blanket",
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "mildly-smoky-french-chicken-blanquette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-french-chicken-blanquette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T18:52:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "genmaicha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Chicken",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Blanquette"
+  }
+}
