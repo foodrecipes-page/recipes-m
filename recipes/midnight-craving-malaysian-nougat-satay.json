@@ -1,0 +1,106 @@
+{
+  "title": "Midnight-Craving Malaysian Nougat Satay",
+  "description": "A rich and crispy Malaysian dessert perfect for late-night cravings, made with sugar syrup, coconut milk, and a hint of pandan.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": "low-glycemic-friendly alternative"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pandan extract",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, granulated sugar, brown sugar, and pandan extract in a medium saucepan and bring to a boil over medium heat.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Add in butter and whisk until melted.",
+    "Remove from heat and stir in salt and water.",
+    "Let cool to room temperature.",
+    "In a separate bowl, whip egg whites until stiff peaks form.",
+    "Fold egg whites into cooled sugar mixture until well combined.",
+    "Add in chopped pecans and mix until evenly distributed.",
+    "Pour mixture onto a parchment-lined baking sheet and refrigerate for at least 30 minutes.",
+    "Cut into desired shapes and serve chilled.",
+    "If using a caramel syrup, drizzle over satay before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "low-glycemic",
+    "malaysian",
+    "midnight-craving",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "midnight-craving-malaysian-nougat-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-malaysian-nougat-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:45:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "sugar syrup",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Nougat",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Satay"
+  }
+}

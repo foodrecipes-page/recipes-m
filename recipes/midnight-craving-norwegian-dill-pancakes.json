@@ -1,0 +1,97 @@
+{
+  "title": "midnight-craving norwegian dill pancakes",
+  "description": "fluffy norwegian pancakes infused with fresh dill, perfect for a midnight craving, jain-friendly and herbal",
+  "cuisine": "norwegian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1 egg",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "serve the pancakes hot with your choice of toppings"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-inspired",
+    "dinner-party",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "midnight-craving-norwegian-dill-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-norwegian-dill-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:45:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "brine-wet",
+    "primaryIngredient": "dill",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "dill",
+    "descriptor": "midnight-craving",
+    "dishForm": "Pancakes"
+  }
+}
