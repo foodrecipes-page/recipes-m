@@ -1,0 +1,104 @@
+{
+  "title": "Molten Peruvian Monkfish Ceviche",
+  "description": "A spicy and energizing dish from Peru featuring monkfish, kombu-cold-extract, and zesty aji amarillo peppers. Perfect for keto diets and a refreshing twist on traditional ceviche.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": "Cold-extracted for added umami flavor."
+    },
+    {
+      "name": "Aji Amarillo Peppers",
+      "amount": "2",
+      "notes": "Use for the extract."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced and pickled."
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for added heat."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the monkfish in lime juice for at least 30 minutes, refrigerated.",
+    "Extract the kombu for 30 minutes, then strain and reserve the liquid.",
+    "Heat a non-stick skillet over medium heat and sauté the onion, garlic, and red onion until caramelized.",
+    "Add the aji amarillo peppers to the skillet and sauté for an additional 2 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "keto",
+    "peruvian",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "molten-peruvian-monkfish-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peruvian-monkfish-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:18:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "monkfish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "monkfish",
+    "descriptor": "molten",
+    "dishForm": "Ceviche"
+  }
+}
