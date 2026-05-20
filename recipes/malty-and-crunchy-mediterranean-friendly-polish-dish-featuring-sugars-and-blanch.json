@@ -1,0 +1,125 @@
+{
+  "title": "Malty Crunchy Brunch",
+  "description": "A Mediterranean-friendly Polish dish featuring sugars and blanch brunch mood, great for any day of the week.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Malted Cereal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Figs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Blanched Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Dried Figs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix together the malted cereal, chopped pistachios, and raisins.",
+    "In a separate bowl, whisk together the Greek yogurt, honey, cinnamon, and salt.",
+    "Add the sliced almonds, cocoa powder, and dried figs to the yogurt mixture and stir to combine.",
+    "Pour the yogurt mixture over the cereal mixture and stir until well combined.",
+    "If using, sprinkle bread crumbs on top and press gently into the mixture.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes, or until lightly toasted.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "crunchy",
+    "easy-to-make",
+    "healthy",
+    "malted",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "malty-and-crunchy-mediterranean-friendly-polish-dish-featuring-sugars-and-blanch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-and-crunchy-mediterranean-friendly-polish-dish-featuring-sugars-and-blanch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:58:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "sugars",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean-friendly",
+    "mainIngredient": "Polish dish featuring sugars and blanch",
+    "descriptor": "Malty and crunchy",
+    "dishForm": "Brunch"
+  }
+}
