@@ -1,0 +1,85 @@
+{
+  "title": "midnight-craving jammy uruguayan cocoa galette",
+  "description": "Indulge in a warm, gooey, and rich Uruguayan-inspired dessert, featuring double-rise bread, cocoa powder, and a hint of sweetness.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the double-rise bread to a thickness of 1/4 inch.",
+    "In a medium bowl, whisk together the cocoa powder, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk the eggs and melted butter until well combined.",
+    "Spread the chocolate mixture evenly over the bread, leaving a 1-inch border around the edges.",
+    "Fold the edges of the bread over the filling, pressing gently to seal.",
+    "Place the galette on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "After 25 minutes, rotate the galette and continue baking for an additional 10-15 minutes or until the crust is golden brown and the filling is warm and gooey.",
+    "Remove the galette from the oven and let it cool for 5 minutes before slicing and serving.",
+    "Serve the galette warm, garnished with powdered sugar if desired.",
+    "Repeat as necessary to satisfy midnight cravings.",
+    "Note: best served immediately, but can be reheated in the microwave or oven if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cocoa-galette",
+    "midnight-cravings",
+    "rich-and-chocolatey",
+    "uruguayan-dessert",
+    "warm-and-gooey",
+    "weeknight-dessert"
+  ],
+  "nutrition": {
+    "calories": 648,
+    "protein": 14,
+    "carbs": 80,
+    "fat": 38
+  },
+  "slug": "midnight-craving-jammy-uruguayan-cocoa-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-jammy-uruguayan-cocoa-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:12:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cocoa powder",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cocoa",
+    "descriptor": "midnight-craving jammy",
+    "dishForm": "Galette"
+  }
+}
