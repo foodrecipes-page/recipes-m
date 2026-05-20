@@ -1,0 +1,117 @@
+{
+  "title": "Mustardy Crunchy Indian Rice Curry",
+  "description": "A kid-friendly, Jain-friendly, Indian (Udupi-style) dish with a tangy mustard flavor and a satisfying crunch. Serve with naan or roti.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Yellow mustard seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Ferment kimchi",
+      "amount": "2 tablespoons",
+      "notes": "use kimchi with a mild flavor"
+    },
+    {
+      "name": "Instant yeast",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for fermentation"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crunchy tempeh bits",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the red chili powder, coriander powder, and salt. Mix well.",
+    "Add the uncooked rice and mix until the rice is well coated with the spice mixture.",
+    "Add the ferment kimchi, mustard seeds, and instant yeast (if using). Mix well.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 15 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes.",
+    "Fluff the rice with a fork and garnish with chopped cilantro and crunchy tempeh bits.",
+    "Serve hot with naan or roti.",
+    "Optional: ferment the rice mixture for 2-3 days before cooking for a stronger flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented",
+    "gluten-free",
+    "high-fiber",
+    "indian",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "mustardy-crunchy-indian-rice-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crunchy-indian-rice-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:57:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "instant yeast",
+    "diet": "jain",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "mustardy crunchy",
+    "dishForm": "curry"
+  }
+}
