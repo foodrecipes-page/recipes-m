@@ -1,0 +1,112 @@
+{
+  "title": "mouthwatering crispy mexican chicken tacos",
+  "description": "crispy fried chicken in a taco shell, topped with fresh cilantro, diced tomatoes, and a squeeze of lime juice.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "for tacos"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "large bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "heat the sunflower oil in a large skillet over medium-high heat to 350°F.",
+    "in a large bowl, whisk together cumin, paprika, salt, and pepper.",
+    "add the chicken pieces to the bowl and toss to coat with the spice mixture.",
+    "fry the chicken in batches until golden brown and cooked through, about 5-7 minutes.",
+    "drain the chicken on paper towels.",
+    "in the same skillet, cook the diced onion and bell pepper until softened, about 3-4 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the tacos by placing a few pieces of fried chicken onto a warmed tortilla, followed by some of the cooked onion and bell pepper mixture.",
+    "squeeze a sliver of lime juice on top and sprinkle with cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "mexican-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 48,
+    "carbs": 15,
+    "fat": 38
+  },
+  "slug": "mouthwatering-crispy-mexican-chicken-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mouthwatering-crispy-mexican-chicken-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T09:06:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "sunflower oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Mouthwatering Crispy",
+    "dishForm": "Tacos"
+  }
+}
