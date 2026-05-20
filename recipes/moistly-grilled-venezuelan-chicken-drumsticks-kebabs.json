@@ -1,0 +1,111 @@
+{
+  "title": "Moistly Grilled Venezuelan Chicken Drumsticks Kebabs",
+  "description": "Fresh, flaky, comforting Venezuelan dish featuring chicken drumsticks, a soffritto-base, and ayurvedic-sattvic-friendly flavors all on a Raclette Grill. Perfect for weeknights or special occasions.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "ayurvedic",
+    "sattvic",
+    "gluten-free",
+    "vegetarian",
+    "pescatarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sofrito",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the Raclette Grill to medium-high heat. Line a baking sheet with aluminum foil and set aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "moistly-grilled-venezuelan-chicken-drumsticks-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/moistly-grilled-venezuelan-chicken-drumsticks-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:32:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Chicken Drumsticks",
+    "descriptor": "Moistly Grilled",
+    "dishForm": "Kebabs"
+  }
+}
