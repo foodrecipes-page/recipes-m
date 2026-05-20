@@ -1,0 +1,95 @@
+{
+  "title": "Melted German Ciabatta Bread",
+  "description": "A delicious, diabetic-friendly twist on traditional German cuisine, featuring crispy ciabatta bread filled with a savory, molten tadka.",
+  "cuisine": "german",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ciabatta bread",
+      "amount": "2 loaves",
+      "notes": ""
+    },
+    {
+      "name": "tadka sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the ciabatta bread into 1-inch cubes and place on a baking sheet.",
+    "Melt 1 tablespoon of butter and brush it over the bread cubes.",
+    "Bake in the preheated oven for 10 minutes, or until lightly toasted."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "diabetic",
+    "german",
+    "low-carb",
+    "morning"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "melted-german-ciabatta-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-german-ciabatta-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:25:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "ciabatta",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ciabatta",
+    "descriptor": "melted",
+    "dishForm": "Bread"
+  }
+}
