@@ -1,0 +1,113 @@
+{
+  "title": "Saudi-Arabian Tagine with Colby Jack Cheese",
+  "description": "A flavorful and exotic Middle Eastern-inspired dish featuring tender chicken and melted colby jack cheese, served in a copper tagine pot. This flexitarian-friendly recipe is perfect for a romantic date night at home.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless Chicken Thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in the copper tagine over medium-high heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the boneless chicken thighs and cook until browned, about 5-6 minutes.",
+    "Add the cumin, coriander, and tahini, and stir to combine.",
+    "Reduce heat to medium-low and simmer the mixture, covered, for 15-20 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped colby jack cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve the Saudi-Arabian tagine over couscous or rice, if desired.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months.",
+    "Thaw frozen tagine overnight in the refrigerator before reheating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flexitarian",
+    "middle-eastern",
+    "one-pot",
+    "romantic",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "middle-eastern-date-night-saudi-arabian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/middle-eastern-date-night-saudi-arabian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Dish",
+    "descriptor": "Middle Eastern Date Night",
+    "dishForm": "Tagine"
+  }
+}
