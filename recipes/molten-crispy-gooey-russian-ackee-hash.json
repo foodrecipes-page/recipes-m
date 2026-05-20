@@ -1,0 +1,108 @@
+{
+  "title": "Molten Crispy Gooey Russian Ackee Hash",
+  "description": "A charred and gooey Russian dish featuring ackee, served in a lacto-vegetarian-friendly version.",
+  "cuisine": "Russian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned ackee, drained and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ttukbaegi over medium heat for 10 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mushrooms and cook until they start to brown, about 5 minutes.",
+    "Add the potato, tomato, paprika, salt, and pepper. Stir well to combine.",
+    "Add the ackee and cook for 2-3 minutes, until heated through.",
+    "Reduce heat to low and cook, covered, for 5-7 minutes, or until the potato is tender.",
+    "Use a spatula to create a well in the center of the ttukbaegi. Crack an egg into the well and cook until the whites are set.",
+    "Use the spatula to gently lift the edges of the hash and tilt the ttukbaegi to allow the uncooked egg to flow to the top.",
+    "Cook for an additional 2-3 minutes, or until the egg is cooked to your desired level of doneness.",
+    "Use the spatula to break up the hash and create a crispy, gooey crust on the bottom.",
+    "Serve the hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "high-carb",
+    "lacto-vegetarian",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "molten-crispy-gooey-russian-ackee-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-crispy-gooey-russian-ackee-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:38:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "ackee",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Ackee",
+    "descriptor": "Molten Crispy Gooey",
+    "dishForm": "Hash"
+  }
+}
