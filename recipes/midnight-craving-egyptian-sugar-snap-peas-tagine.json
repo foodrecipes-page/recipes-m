@@ -1,0 +1,105 @@
+{
+  "title": "midnight-craving egyptian sugar snap peas tagine",
+  "description": "a bitter and juicy egyptian dish featuring sugar snap peas, yuzu-cure, and a blend of spices, perfect for a midnight craving.",
+  "cuisine": "egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": "fresh and tender"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "for curing the sugar snap peas"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the ground coriander, cumin, and paprika, and cook for 1 minute, until fragrant.",
+    "add the sugar snap peas, kosher salt, and black pepper, and stir to combine.",
+    "cure the sugar snap peas with the yuzu juice for at least 30 minutes.",
+    "add the cured sugar snap peas to the tagine or Dutch oven, and stir to combine.",
+    "cook for 10-15 minutes, until the sugar snap peas are tender and slightly caramelized.",
+    "season with lemon juice to taste.",
+    "serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "midnight-craving",
+    "sugar-snap-peas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "midnight-craving-egyptian-sugar-snap-peas-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-egyptian-sugar-snap-peas-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:20:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "midnight-craving",
+    "dishForm": "Tagine"
+  }
+}
