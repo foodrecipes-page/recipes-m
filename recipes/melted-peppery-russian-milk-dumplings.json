@@ -1,0 +1,87 @@
+{
+  "title": "Melted Peppery Russian Milk Dumplings",
+  "description": "Inspired by traditional Russian dough pockets, these dumplings are infused with a peppery kick and a rich, molten center, featuring semi-skimmed milk as the base ingredient. A diabetic-friendly twist on a classic treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, milk, eggs, sugar, thyme, black pepper, and salt in a mixing bowl to form a smooth dough.",
+    "Knead the dough for 10 minutes until elastic and smooth.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of semi-skimmed milk in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press edges together to seal.",
+    "Cook the dumplings in a large skillet over medium heat for 2-3 minutes on each side, until golden brown.",
+    "Transfer the dumplings to a baking dish and bake in a preheated oven at 375°F for 10-12 minutes, until the centers are molten and bubbly.",
+    "Serve the dumplings hot with a dollop of whipped cream or a sprinkle of powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "peppery",
+    "rusian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "melted-peppery-russian-milk-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-peppery-russian-milk-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:07:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "milk",
+    "descriptor": "melted peppery",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "malty crispy energizing portuguese peas paella",
+  "description": "A twist on traditional paella, this dish combines the sweetness of malty flavors with the crunch of crispy texture, all featuring fresh peas and a delicious ovo-vegetarian-friendly omelette.",
+  "cuisine": "portuguese",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice recommended"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Portuguese chorizo",
+      "amount": "6 ounces",
+      "notes": "use mild sausage for less heat"
+    },
+    {
+      "name": "Peas",
+      "amount": "2 cups",
+      "notes": "fresh peas recommended"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, adds heat"
+    },
+    {
+      "name": "Malty beer",
+      "amount": "1 cup",
+      "notes": "use a dark, malty beer like a porter or stout"
+    },
+    {
+      "name": "Beaten eggs",
+      "amount": "2 large",
+      "notes": "for the omelette"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until it's browned, about 5 minutes.",
+    "Add the onion and garlic and cook, stirring occasionally, until they're softened, about 5 minutes.",
+    "Add the smoked paprika and cayenne pepper, if using, and cook for 1 minute.",
+    "Add the peas, rice, and beer, stirring to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "While the paella cooks, heat a small non-stick pan over medium heat.",
+    "Pour in the beaten eggs and cook, stirring occasionally, until the omelette is set.",
+    "Cut the omelette into wedges and set aside.",
+    "Once the paella is done cooking, remove it from the heat and let it rest for 5 minutes.",
+    "To serve, place a spoonful of the paella in a bowl and top with a wedge of the omelette and a sprinkle of smoked paprika.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "malty-crispy-energizing-portuguese-peas-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-crispy-energizing-portuguese-peas-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "peas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "peas",
+    "descriptor": "malty crispy energizing",
+    "dishForm": "paella"
+  }
+}
