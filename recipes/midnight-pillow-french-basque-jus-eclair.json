@@ -1,0 +1,109 @@
+{
+  "title": "Midnight Pillow French Basque Jus Eclair",
+  "description": "Pungent, pillowy French-Basque date-night dish featuring beef stock simmer in a cataplana. Satisfies your palate with a rich, savoury, and delicate French-Basque twist.",
+  "cuisine": "French-Basque",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stock",
+      "amount": "2 cups",
+      "notes": "?"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "?"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1 teaspoon",
+      "notes": "?"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "?"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "?"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "?"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "?"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "?"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "?"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "?"
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": "?"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "?"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u0012F. In a cataplana, combine 2 cups beef stock, 2 tablespoons ghee, 1 teaspoon saffron threads, 1/2 teaspoon black pepper, 1/2 teaspoon smoked paprika, and 1 small onion. Bring to a simmer over medium heat and cook for 10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cataplana",
+    "date-night",
+    "eclair",
+    "fodmap-friendly",
+    "french-basque"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "midnight-pillow-french-basque-jus-eclair",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-pillow-french-basque-jus-eclair",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:05:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "beef stock",
+    "diet": "fodmap",
+    "region": "basque-french",
+    "cuisineAdjective": "French Basque",
+    "mainIngredient": "beef",
+    "descriptor": "Midnight Pillow",
+    "dishForm": null
+  }
+}
