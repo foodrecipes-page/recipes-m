@@ -1,0 +1,97 @@
+{
+  "title": "Magnificently Aerated Australian Molasses Pancakes",
+  "description": "Tangy and aerated lacto-vegetarian friendly pancakes featuring molasses, perfect for a quick Australian breakfast",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl whisk together molasses, melted score fat, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a non stick pan over medium heat and brush with melted butter.",
+    "Using a 1/4 cup measuring cup scoop the batter onto the pan.",
+    "Cook the pancakes for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes or until golden brown.",
+    "Serve the pancakes hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "aerated-pancakes",
+    "australian-recipes",
+    "breakfast-ideas",
+    "lacto-vegetarian",
+    "molasses-recipes",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "magnificently-aerated-australian-molasses-pancakes",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-aerated-australian-molasses-pancakes",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:55:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "score-fat",
+    "primaryIngredient": "molasses",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "molasses",
+    "descriptor": "Magnificently aerated",
+    "dishForm": "Pancakes"
+  }
+}

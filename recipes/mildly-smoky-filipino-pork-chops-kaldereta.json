@@ -1,0 +1,97 @@
+{
+  "title": "Mildly Smoky Filipino Pork Chops Kaldereta",
+  "description": "A fresh and chewy Filipino dish featuring char-grilled pork chops in a light and savory kaldereta sauce, kosher-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat and season pork chops with salt and black pepper.",
+    "Grill pork chops for 5 minutes per side, or until slightly charred and cooked through.",
+    "In a large pan, heat olive oil over medium heat and saute garlic and onion until softened.",
+    "Add tomato sauce, fish sauce, brown sugar, smoked paprika, and grilled pork chops to the pan, stirring to combine.",
+    "Bring the sauce to a simmer and cook for 10 minutes, or until the sauce has thickened slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve pork chops with the kaldereta sauce spooned over the top.",
+    "Garnish with chopped green onions and serve with steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "kaldereta",
+    "kosher-friendly",
+    "pork-chops",
+    "smoky-flavors",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "mildly-smoky-filipino-pork-chops-kaldereta",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-smoky-filipino-pork-chops-kaldereta",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:55:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pork chops",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork chops",
+    "descriptor": "Mildly Smoky",
+    "dishForm": "Kaldereta"
+  }
+}
