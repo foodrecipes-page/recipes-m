@@ -1,0 +1,118 @@
+{
+  "title": "Midnight Craving Jamaican Condensed Milk Pudding",
+  "description": "A dense and creamy pudding made with condensed milk, a hint of mustard, and a touch of sweetness from Jamaican candies. Perfect for a midnight craving.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "jamaican mustard",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican rum (optional)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "golden syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scotch bonnet peppers",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed jamaican candy (e.g. peanut brittle, toffee)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk together the condensed milk, mustard, sugar, rum (if using), and golden syrup in a medium saucepan.",
+    "Add the chopped scotch bonnet peppers and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and reaches 180°F (82°C).",
+    "Remove from heat and stir in the butter, flour, and crushed candy until fully incorporated.",
+    "In a separate bowl, whisk the heavy cream until stiff peaks form.",
+    "Fold the egg yolks into the cream with a rubber spatula until fully incorporated.",
+    "Stir in the vanilla extract and pour the mixture into individual serving cups or ramekins.",
+    "Cover with plastic wrap and refrigerate for at least 2 hours or until chilled and set.",
+    "Serve chilled, garnished with additional crushed candy if desired.",
+    "Note: If using rum, the pudding may become slightly more runny. If this happens, simply refrigerate for an additional 30 minutes or until set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "condensed-milk",
+    "dessert",
+    "fancy",
+    "jamaican",
+    "rich",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 64,
+    "fat": 26
+  },
+  "slug": "midnight-craving-jamaican-condensed-milk-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-craving-jamaican-condensed-milk-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:08:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "candy",
+    "primaryIngredient": "condensed milk",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "condensed milk",
+    "descriptor": "midnight-craving",
+    "dishForm": "pudding"
+  }
+}
