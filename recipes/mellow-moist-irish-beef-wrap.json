@@ -1,0 +1,141 @@
+{
+  "title": "mellow moist irish beef wrap",
+  "description": "a funky and show-off irish dish featuring lean minced beef, caramelized and served in a pandan-leaf wrap, low-glycemic-friendly. perfect for a weeknight dinner or a lunch on-the-go.",
+  "cuisine": "irish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6",
+      "notes": "large, fresh leaves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ale (or beer)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the onion, garlic, carrot, and celery, and cook until the vegetables are caramelized, about 10 minutes.",
+    "add the minced beef and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "add the beef broth, ale, honey, Worcestershire sauce, salt, and pepper, and stir to combine.",
+    "bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "meanwhile, prepare the pandan leaves by cutting them in half lengthwise and soaking them in cold water for 10 minutes.",
+    "remove the pandan leaves from the water and pat them dry with paper towels.",
+    "warm the pandan leaves in the microwave for 10-15 seconds to make them pliable.",
+    "place a scoop of the beef mixture onto the center of each pandan leaf, leaving a 1-inch border around the edges.",
+    "add some chopped fresh parsley on top, if desired.",
+    "fold the bottom edge of the pandan leaf up over the filling, then fold in the sides and roll the wrap up to form a tight cylinder.",
+    "repeat with the remaining ingredients.",
+    "serve the mellow moist irish beef wraps hot or at room temperature, garnished with additional parsley if desired.",
+    "if serving cold, refrigerate the wraps for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-to-make",
+    "gluten-free",
+    "irish",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "mellow-moist-irish-beef-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-moist-irish-beef-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:27:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "lean minced beef",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Mellow Moist",
+    "dishForm": "Wrap"
+  }
+}
