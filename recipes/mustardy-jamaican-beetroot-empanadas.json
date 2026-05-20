@@ -1,0 +1,111 @@
+{
+  "title": "Mustardy Jamaican Beetroot Empanadas",
+  "description": "A comforting, deeply savory hangover cure featuring earthy cooked beetroot spiced with fiery Scotch bonnet and sharp Jamaican mustard, all encased in a super-flaky pastry and deep-fried to golden perfection.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked beetroot",
+      "amount": "2 cups",
+      "notes": "peeled and finely diced"
+    },
+    {
+      "name": "yellow mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted and crushed"
+    },
+    {
+      "name": "prepared spicy brown mustard",
+      "amount": "2 tablespoons",
+      "notes": "Jamaican style if available"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "3",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "plus extra for dusting"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "0.5 cup",
+      "notes": "cold and cubed"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon",
+      "notes": "for color and flavor in the dough"
+    },
+    {
+      "name": "cold water",
+      "amount": "0.5 cup",
+      "notes": "ice cold"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "4 cups",
+      "notes": "for deep frying"
+    }
+  ],
+  "instructions": [
+    "Whisk the flour, curry powder, and a pinch of salt together in a large bowl.",
+    "Cut the cold vegetable shortening into the flour mixture using a pastry cutter until it resembles coarse crumbs.",
+    "Gradually add the ice-cold water, mixing gently until a stiff dough forms, then wrap it in plastic and chill for 30 minutes.",
+    "In a separate bowl, combine the diced beetroot, crushed mustard seeds, prepared mustard, Scotch bonnet, and scallions to make the filling.",
+    "Roll out the chilled pastry dough on a floured surface to an eighth-inch thickness and cut out four-inch circles.",
+    "Place two tablespoons of the beetroot filling onto one half of each circle.",
+    "Fold the dough over the filling to create a half-moon shape and press the edges firmly with a fork to seal.",
+    "Heat the vegetable oil in a deep pot or wok to 350 degrees Fahrenheit.",
+    "Fry the empanadas in batches of two or three for about five minutes until they are crispy and golden brown.",
+    "Drain the finished empanadas on paper towels and serve them hot."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "empanadas",
+    "jamaican",
+    "savory-pastry",
+    "spicy",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 44,
+    "fat": 31
+  },
+  "slug": "mustardy-jamaican-beetroot-empanadas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-jamaican-beetroot-empanadas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T14:57:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beetroot",
+    "descriptor": "Mustardy",
+    "dishForm": "Empanadas"
+  }
+}
