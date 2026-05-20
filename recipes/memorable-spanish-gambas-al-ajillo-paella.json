@@ -1,0 +1,98 @@
+{
+  "title": "Spanish Gambas Al Ajillo Paella",
+  "description": "A resinous and light Spanish dish featuring hojicha, nuka-pickle, and sattvic-friendly ingredients. This memorable paella is perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hemp seed oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "hojicha",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "nuka-pickle (cucumber)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gambas (shrimp)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "saffron",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat hemp seed oil in a large paella pan over medium heat.",
+    "Add hojicha, garlic and sauté until fragrant.",
+    "Add nuka-pickle, gambas, cherry tomatoes, green peas, and artichoke hearts. Cook until the shrimp is pink.",
+    "Add saffron and salt. Stir well to combine.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot and enjoy!",
+    "Note: Traditionally, paella is cooked over an open flame, but for this recipe, a stovetop will suffice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sattvic-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "memorable-spanish-gambas-al-ajillo-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/memorable-spanish-gambas-al-ajillo-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:31:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "hojicha",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "gambas",
+    "descriptor": "Memorable",
+    "dishForm": "Al Ajillo Paella"
+  }
+}
