@@ -1,0 +1,98 @@
+{
+  "title": "Mustardy Crisp American Fish Fry",
+  "description": "A crispy, lazy Sunday dish with a tangy mustard flavor, perfect for pescatarians.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup buttermilk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons Dijon mustard",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup panko breadcrumbs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Pat dry the cod fillets with paper towels."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast-for-dinner",
+    "easy",
+    "fish",
+    "fried",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "mustardy-crisp-american-fish-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-crisp-american-fish-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:38:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fish",
+    "descriptor": "Mustardy Crisp",
+    "dishForm": "Fry"
+  }
+}
