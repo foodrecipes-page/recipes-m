@@ -1,0 +1,106 @@
+{
+  "title": "Malty Norwegian Creamy Bao",
+  "description": "Soft, fluffy bao filled with a rich, malty, creamy sauce and topped with crispy scallions. Best served as a solo dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Norwegian krumkake (or other sweet bread)",
+      "amount": "1/2 cup",
+      "notes": "soaked in 2 tablespoons of sherry vinegar"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a medium saucepan over medium heat until melted. Add the flour and cook, stirring constantly, for 1 minute.",
+    "Slowly pour in the milk, whisking continuously to prevent lumps. Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Add the shredded krumkake, heavy cream, sugar, cardamom, and salt. Cook, stirring constantly, over medium heat for 2-3 minutes.",
+    "Increase the heat to medium-high and cook, stirring constantly, for an additional 2-3 minutes, or until the sauce has thickened to your liking.",
+    " Meanwhile, cook the bao dough according to the package instructions. Once cooked, split the dough in half lengthwise to create a pocket for the filling.",
+    "Spoon the malty creamy sauce into the pocket, followed by a few pieces of sliced scallion on top.",
+    "Serve immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "cardamom",
+    "gluten-free-dough",
+    "norwegian",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 74,
+    "fat": 22
+  },
+  "slug": "malty-norwegian-creamy-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-norwegian-creamy-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:48:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "creamy",
+    "descriptor": "malty",
+    "dishForm": "bao"
+  }
+}
