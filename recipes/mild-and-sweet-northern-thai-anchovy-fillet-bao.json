@@ -1,0 +1,99 @@
+{
+  "title": "Mild and Sweet Northern-Thai Anchovy Fillet Bao",
+  "description": "A sweet, pillowy, kid-friendly Thai dish featuring anchovy fillet and wok-hei, adapted to be kosher-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher",
+    "gluten-free",
+    "vegetarian (optional)"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Anchovy fillets",
+      "amount": "12 pieces",
+      "notes": "canned or fresh, kosher-certified"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for wok-hei"
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "if desired, use tamari for a vegan alternative"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over high heat until smoky.",
+    "Add 1 tablespoon of vegetable oil and swirl to coat the pan.",
+    "Cook the anchovy fillets for 30 seconds on each side, or until they release their oil and start to crisp.",
+    "Add the brown sugar to the pan and stir to combine with the anchovy oil.",
+    "Wrap the bao dough in a damp cloth and let it rest for 10 minutes.",
+    "Divide the dough into 4-6 equal pieces, depending on desired bao size.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place a few anchovy fillets in the center of each disk, then fold the dough over the toppings to form a half-moon shape.",
+    "Seal the edges by crimping with a fork or pressing with a knife.",
+    "Heat the remaining 1 tablespoon of vegetable oil in the wok or skillet over medium heat.",
+    "Cook the bao for 2-3 minutes on each side, or until they're golden brown and crispy.",
+    "Serve the bao hot, garnished with chopped scallions and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy",
+    "kosher-friendly",
+    "northern-thai",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "mild-and-sweet-northern-thai-anchovy-fillet-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mild-and-sweet-northern-thai-anchovy-fillet-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:59:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "kosher",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern-Thai",
+    "mainIngredient": "Anchovy fillet",
+    "descriptor": "Mild and Sweet",
+    "dishForm": "Bao"
+  }
+}

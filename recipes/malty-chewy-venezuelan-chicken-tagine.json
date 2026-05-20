@@ -1,0 +1,128 @@
+{
+  "title": "Venezuelan Chicken Tagine",
+  "description": "A crowd-pleasing, paleo-friendly dish featuring chicken bouillon powder, cooked to perfection in a tagine.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "can crushed tomatoes",
+      "amount": "14.5 ounces",
+      "notes": ""
+    },
+    {
+      "name": "paleo friendly tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in the tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the crushed tomatoes, tomato paste, and chicken bouillon powder. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the tagine and cook for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the fresh cilantro.",
+    "Serve hot over rice or with naan bread.",
+    "Let the dish rest for 5 minutes before serving, so the flavors can meld together.",
+    "Adjust seasoning as needed.",
+    "Serve garnished with fresh cilantro, if desired.",
+    "Make sure to taste and adjust the seasoning before serving.",
+    "Serve warm with a side of rice or naan bread.",
+    "Cook the chicken until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Make sure the chicken is cooked through before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 462,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "malty-chewy-venezuelan-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-chewy-venezuelan-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:59:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "malty chewy",
+    "dishForm": "Tagine"
+  }
+}

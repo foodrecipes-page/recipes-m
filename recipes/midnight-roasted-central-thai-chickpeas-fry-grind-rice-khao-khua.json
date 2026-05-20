@@ -1,0 +1,122 @@
+{
+  "title": "Midnight Roasted Central-Thai Chickpeas Fry-Grind-Rice-Khao-Khua",
+  "description": "A spicy and aerated Thai dish made with chickpeas, fry-grind-rice-khao-khua, featuring a satisfying midnight craving.",
+  "cuisine": "Central Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red chili",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "toasted rice",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a bowl, mix together chickpeas, coconut oil, garlic, Thai red chili, fish sauce, and palm sugar (if using).",
+    "Spread the mixture on a baking sheet and roast in the oven for 20 minutes, stirring occasionally.",
+    "In a pan, heat a tablespoon of coconut oil over medium heat. Add the fried shallots and cook until fragrant.",
+    "Add the toasted rice, lemongrass, and chili powder (if using) to the pan and cook for 1 minute, stirring constantly.",
+    "Add the roasted chickpeas to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the chickpeas over fry-grind-rice-khao-khua.",
+    "Garnish with additional fried shallots and toasted rice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "centralthai",
+    "midnight-snack",
+    "one-pan",
+    "raw-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "midnight-roasted-central-thai-chickpeas-fry-grind-rice-khao-khua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-roasted-central-thai-chickpeas-fry-grind-rice-khao-khua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:59:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "chickpeas",
+    "diet": "raw",
+    "region": "central-thai",
+    "cuisineAdjective": "Central-Thai",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Midnight-Roasted",
+    "dishForm": "Fry-grind-rice-khao-khua"
+  }
+}
