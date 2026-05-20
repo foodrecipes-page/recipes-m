@@ -1,0 +1,111 @@
+{
+  "title": "Mixed Gooey Japanese Peppers Okonomiyaki",
+  "description": "Sweet and savory Japanese okonomiyaki dish featuring mixed peppers and candy. Originates from the Kanto region of Japan.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Peppers (bell, jalapeno, Anaheim)",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed candy canes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Okonomiyaki sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large cast-iron skillet over medium-high heat.",
+    "Add sliced mixed peppers and cook for 3-4 minutes or until tender.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add gluten-free flour and cook for 1-2 minutes, until lightly toasted.",
+    "Add soy sauce and cook for 1 minute, until combined with the flour mixture.",
+    "Add honey and melted butter to the skillet, stirring until combined.",
+    "Add chopped cabbage, green onions, and crushed candy canes to the skillet, stirring until combined.",
+    "Pour in okonomiyaki sauce and stir-fry for 1-2 minutes, until the sauce is bubbly and slightly caramelized.",
+    "Cook for an additional 2-3 minutes or until the okonomiyaki is golden brown and crispy on the bottom, and gooey on top.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 68,
+    "fat": 18
+  },
+  "slug": "mixed-gooey-japanese-peppers-okonomiyaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mixed-gooey-japanese-peppers-okonomiyaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:17:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "mixed peppers",
+    "diet": "gluten-free",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "peppers",
+    "descriptor": "mixed gooey",
+    "dishForm": "Okonomiyaki"
+  }
+}
