@@ -1,0 +1,102 @@
+{
+  "title": "mildly-spicy wood-fired thai chicken bake",
+  "description": "a quickly prepared thai-inspired dish featuring chicken cooked in green salsa and baked in a wood-fired oven. kosher-friendly and easy to make.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "green salsa",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425 degrees fahrenheit.",
+    "mix together coconut oil, grated ginger, garlic powder, kosher salt, and black pepper in a small bowl.",
+    "place the chicken breasts on a hot stone plate and brush them with the spice mixture.",
+    "spread the green salsa evenly over the top of each chicken breast.",
+    "place the hot stone plate in the oven and bake for 12-15 minutes or until the chicken is cooked through.",
+    "remove the chicken from the oven and garnish with fresh cilantro.",
+    "serve the chicken hot and enjoy!",
+    "meanwhile, heat a small non-stick pan over medium heat.",
+    "add a small amount of coconut oil to the pan and sauté the chicken for an additional 2-3 minutes on each side.",
+    "serve the chicken with additional green salsa on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "mildly-spicy-wood-fired-thai-chicken-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-spicy-wood-fired-thai-chicken-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:47:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "green salsa",
+    "diet": "kosher",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "mildly-spicy wood-fired",
+    "dishForm": "Bake"
+  }
+}
