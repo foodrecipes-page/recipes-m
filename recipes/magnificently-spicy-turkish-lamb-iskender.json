@@ -1,0 +1,101 @@
+{
+  "title": "Magnificently Spicy Turkish Lamb Iskender",
+  "description": "A spicy and indulgent Turkish dish featuring lamb, flax eggs, and ferment-jang, served in a bento-box.",
+  "cuisine": "Turkish",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 6 tablespoons water"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flax eggs, ferment-jang, red pepper flakes, sumac, salt, and black pepper.",
+    "Add the lamb strips to the bowl and mix until they are fully coated with the marinade.",
+    "Thread the lamb strips onto skewers and bake for 20 minutes, or until cooked through.",
+    "Meanwhile, toast the pita bread slices and slice into thin strips.",
+    "In a small bowl, mix together the yogurt and tomato sauce.",
+    "To assemble the Iskender, place a few pieces of the lamb onto each pita bread strip, followed by a spoonful of the yogurt-tomato sauce mixture.",
+    "Serve immediately in a bento-box.",
+    "Garnish with additional sumac and red pepper flakes, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "indulgent-meals",
+    "lamb-recipes",
+    "shojin-friendly",
+    "spicy-food",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "magnificently-spicy-turkish-lamb-iskender",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/magnificently-spicy-turkish-lamb-iskender",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:09:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "flax eggs",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Magnificently Spicy",
+    "dishForm": "Iskender"
+  }
+}
