@@ -1,0 +1,63 @@
+{
+  "title": "Midnight Flaky Zesty British Rice Fish And Chips",
+  "description": "A nutty, flaky, midnight-craving British dish featuring carnaroli rice, toast, and the classic combination of fish and chips. Perfect for a late-night snack with a crispy twist.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned sardines in water",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large paella pan, toast 1 cup of carnaroli rice over medium heat until slightly nutty and lightly browned.",
+    "Add 2 cups of water to the rice and bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "In a separate pan, heat 1/4 cup of oil over medium heat and add the flaked sardines, cooking until lightly browned and crispy.",
+    "Remove the rice from heat and stir in 1 tablespoon of mayonnaise and 1 teaspoon of lemon juice.",
+    "Transfer the rice to a serving dish and top with the crispy sardines and toasted bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish-and-chips",
+    "late-night",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "midnight-flaky-zesty-british-rice-fish-and-chips",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-flaky-zesty-british-rice-fish-and-chips",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:47:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Rice",
+    "descriptor": "Midnight Flaky Zesty",
+    "dishForm": "Fish And Chips"
+  }
+}

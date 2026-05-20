@@ -1,0 +1,107 @@
+{
+  "title": "mellow roasted ukrainian vegetable fry",
+  "description": "a kid-friendly ukrainian dish featuring roasted vegetables, herbs, and a crispy fry, suitable for jain diet.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4-5 medium-sized",
+      "notes": "peeled, cut into 1-inch wedges"
+    },
+    {
+      "name": "carrots",
+      "amount": "2-3 medium-sized",
+      "notes": "peeled, cut into 1-inch sticks"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1-2 medium-sized",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium-sized",
+      "notes": "cut into 1-inch wedges"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "a handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "a handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "toss the potatoes, carrots, and zucchini with 2 tablespoons of sunflower oil, salt, and chopped parsley and dill on a wooden board.",
+    "spread the vegetables in a single layer and roast for 20 minutes.",
+    "meanwhile, heat the remaining 2 tablespoons of sunflower oil in a pan over medium heat.",
+    "add the onion and garlic and saut\u00048 until the onion is lightly browned.",
+    "add the roasted vegetables to the pan and stir to combine.",
+    "serve hot, garnished with additional parsley and dill if desired.",
+    "do not overcrowd the pan, cook in batches if necessary.",
+    "be gentle when stirring to avoid breaking the vegetables.",
+    "cook the vegetables over medium heat to prevent burning.",
+    "adjust the seasoning with salt to taste, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "jain",
+    "kid-friendly",
+    "one-pan",
+    "roasted",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mellow-roasted-ukrainian-vegetable-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-roasted-ukrainian-vegetable-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:47:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Mellow Roasted",
+    "dishForm": "Fry"
+  }
+}
