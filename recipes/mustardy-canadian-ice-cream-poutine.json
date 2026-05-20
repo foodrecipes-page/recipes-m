@@ -1,0 +1,118 @@
+{
+  "title": "Mustardy Canadian Ice Cream Poutine",
+  "description": "A rich and tangy ice cream poutine dish with a Canadian twist, featuring a mustardy flavor and a show-stopping tempering-chocolate topping. This plant-based-friendly dessert is sure to impress.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plant-based vanilla ice cream",
+      "amount": "1 pint",
+      "notes": "preferably made with locally-sourced ingredients"
+    },
+    {
+      "name": "Mustard glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought, using whole-grain mustard"
+    },
+    {
+      "name": "Dark chocolate wafers",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa solids, dairy-free option available"
+    },
+    {
+      "name": "Fried pastry sticks",
+      "amount": "1 package",
+      "notes": "homemade or store-bought, plant-based option recommended"
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium and dairy-free option available"
+    },
+    {
+      "name": "Fried Shallots",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought, plant-based option recommended"
+    },
+    {
+      "name": "Fried eggplant",
+      "amount": "1 medium",
+      "notes": "sliced and breaded, dairy-free option available"
+    },
+    {
+      "name": "Fried cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets and breaded, dairy-free option available"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "for tempering the chocolate"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": "for tempering the chocolate"
+    },
+    {
+      "name": "Soy milk or other non-dairy milk",
+      "amount": "1 tablespoon",
+      "notes": "for tempering the chocolate"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper. ",
+    "Cut the fried pastry sticks into 1-inch pieces and sprinkle them on the baking sheet.",
+    "Bake the pastry pieces in the oven for 10-12 minutes, or until golden brown.",
+    "Meanwhile, prepare the mustard glaze by whisking together the mustard, soy milk, and a pinch of salt in a small bowl.",
+    "Dip the fried pastry sticks in the mustard glaze and set them aside to cool.",
+    "In a separate bowl, melt the chocolate wafers in the microwave in 30-second increments, stirring between each interval, until smooth.",
+    "Stir in the granulated sugar and water to temper the chocolate.",
+    "Dip the cooled pastry sticks in the chocolate mixture and coat evenly.",
+    "Place the chocolate-coated pastry sticks on a wire rack to set.",
+    "In a separate pan, heat the caramel sauce over low heat.",
+    "Add the fried shallots and eggplant to the caramel sauce and stir to coat.",
+    "Add the fried cauliflower to the caramel sauce and stir to coat.",
+    "To assemble the poutine, place a scoop of the plant-based vanilla ice cream on a plate or bowl.",
+    "Top the ice cream with the chocolate-coated pastry sticks, followed by the fried vegetables and a drizzle of caramel sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "ice-cream",
+    "plant-based",
+    "poutine",
+    "tempering-chocolate",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 12,
+    "carbs": 92,
+    "fat": 28
+  },
+  "slug": "mustardy-canadian-ice-cream-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mustardy-canadian-ice-cream-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:33:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "ice cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "ice cream",
+    "descriptor": "mustardy",
+    "dishForm": "poutine"
+  }
+}
