@@ -1,0 +1,106 @@
+{
+  "title": "Mildly Fermented Chinese Chaozhou Fish Stew",
+  "description": "Fatty and flavorful, this traditional Chaozhou fish stew is a low-carb-friendly dish that's perfect for special occasions. The banana leaf wrapping enhances the aroma and texture of the dish.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as Mackerel or Sardine)",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought, rich and flavorful"
+    },
+    {
+      "name": "Ferment-kimchi ( Chaozhou-style)",
+      "amount": "1 cup",
+      "notes": "Spicy and sour, made with kimchi and fermented fish sauce"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced thinly, adds warmth and depth to the stew"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced, adds aroma and flavor to the dish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Adds umami flavor and richness to the stew"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Balances the savory flavors of the dish"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "1 tsp",
+      "notes": "Adds a subtle warmth and aroma to the stew"
+    },
+    {
+      "name": "Banana Leaves",
+      "amount": "4-6 leaves",
+      "notes": "Used for wrapping and steaming the stew"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 stalks",
+      "notes": "Used as garnish, adds freshness and crunch to the dish"
+    }
+  ],
+  "instructions": [
+    "Combine fish stock, ferment-kimchi, ginger, garlic, soy sauce, sugar, and white pepper in a large pot.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer and cook for 10 minutes.",
+    "Add the fish to the pot and cook for an additional 5-7 minutes, or until cooked through.",
+    "Meanwhile, prepare the banana leaves by cutting them into large sheets and blanching them in boiling water for 30 seconds.",
+    "Remove the leaves from the water and let them cool slightly.",
+    "Spoon the fish mixture onto the center of each leaf, then fold the leaves over the filling and secure with toothpicks or kitchen twine.",
+    "Steam the fish bundles over boiling water for 10-12 minutes, or until the fish is cooked through and the leaves are tender.",
+    "Serve the fish stew hot, garnished with scallions and additional ferment-kimchi if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "festival",
+    "fish-stew",
+    "low-carb",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "mildly-fermented-chinese-chaozhou-fish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-fermented-chinese-chaozhou-fish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:37:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fish stock",
+    "diet": "low-carb",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese (Chaozhou)",
+    "mainIngredient": "fish",
+    "descriptor": "Mildly Fermented",
+    "dishForm": "Stew"
+  }
+}
