@@ -1,0 +1,114 @@
+{
+  "title": "Monsoon Gored-Gored Beef",
+  "description": "A crispy, savory dish originating from the Ethiopian monsoon season, perfect for a lunch or dinner. The fermented berbere spice blend adds a tangy, slightly sour flavor.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "450g"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tbsp",
+      "notes": "fermented"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the beef flank steak into thin strips.",
+    "Mix flour, salt, black pepper, and coriander in a bowl.",
+    "Toss the beef strips in the flour mixture, shaking off excess.",
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat.",
+    "Add the beef strips and cook for 2-3 minutes on each side, or until browned.",
+    "Remove the beef from the pan and set aside.",
+    "Heat the remaining 1 tablespoon of oil in the pan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Stir in the berbere spice blend and cook for 1 minute.",
+    "Add the mustard paste to the pan and cook for 1 minute.",
+    "Return the beef to the pan and cook for an additional 2-3 minutes, or until coated in the sauce.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Note: Traditionally, gored-gored beef is served with injera bread.",
+    "If serving with injera, place the beef on a piece of injera and wrap it up to eat.",
+    "Alternatively, serve with rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "berbere",
+    "crispy",
+    "ethiopian",
+    "fermented",
+    "monsoon",
+    "one-pan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "monsoon-gored-gored-beef",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-gored-gored-beef",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:54:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "beef flank steak",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "mustardy crisp",
+    "dishForm": "Gored-Gored"
+  }
+}
