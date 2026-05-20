@@ -1,0 +1,114 @@
+{
+  "title": "Mighty Spicy British Provolone Scotch-Egg Form",
+  "description": "Spicy, crispy, hangover-cure British dish featuring provola, agemono-deep-fry, low-fat-friendly and scotch-egg form",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "12 hard-boiled eggs, peeled",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "250g provola cheese, sliced",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp chili powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp garlic powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup panko breadcrumbs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup rice flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "enough",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together flour, smoked paprika, chili powder, garlic powder, salt, and black pepper."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "british",
+    "deep-fried",
+    "eggs",
+    "hangover-cure",
+    "scotch-egg"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 48,
+    "carbs": 24,
+    "fat": 64
+  },
+  "slug": "mighty-spicy-british-provolone-scotch-egg-form",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/mighty-spicy-british-provolone-scotch-egg-form",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:13:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "provola",
+    "diet": "low-fat",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Provolone",
+    "descriptor": "Mighty Spicy",
+    "dishForm": "Scotch-Egg Form"
+  }
+}
