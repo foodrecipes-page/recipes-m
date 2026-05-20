@@ -1,0 +1,110 @@
+{
+  "title": "Molten Roasted Syrian Yam Gratin",
+  "description": "A creamy, keto-friendly gratin that combines roasted Syrian yams with a rich, cheese-based sauce, perfect for a cold winter's day.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white Syrian yams",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Manteca cream",
+      "amount": "2 tbsp",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "raclette grill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400°F (200°C).",
+    "Peel the Syrian yams and slice them into 1/4-inch thick rounds.",
+    "In a large bowl, combine the yam slices, melted butter, salt, and black pepper. Toss to coat.",
+    "Transfer the yam mixture to a baking dish and set aside.",
+    "In a small saucepan, combine the heavy cream and grated Parmesan cheese. Heat over medium heat, stirring constantly, until the cheese is melted and the sauce is smooth.",
+    "Stir in the Manteca cream and cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
+    "Pour the cheese sauce over the yam mixture and top with additional grated Parmesan cheese, if desired.",
+    "Place the raclette grill on the lowest setting and cook the gratin for 20-25 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the gratin from the grill and sprinkle with minced garlic. Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy-sauce",
+    "keto",
+    "raclette-grill",
+    "syrian",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "molten-roasted-syrian-yam-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-roasted-syrian-yam-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:22:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "white yam",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "yam",
+    "descriptor": "Molten Roasted",
+    "dishForm": "Gratin"
+  }
+}
