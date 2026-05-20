@@ -1,0 +1,97 @@
+{
+  "title": "Molten Yeasty British Cabbage Pancake",
+  "description": "A rich, comforting vegan-friendly dish perfect for satisfying midnight cravings. The yeasty, molten center is a delightful twist on traditional British pancake cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Self-Rising Flour",
+      "amount": "1 cup",
+      "notes": "Make sure to use a dedicated gluten-free flour if you're intolerant."
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "1/4 cup",
+      "notes": "Use a vegan-friendly shortening or substitute with coconut oil if needed."
+    },
+    {
+      "name": "Cabbage Juice",
+      "amount": "1 cup",
+      "notes": "You can use store-bought cabbage juice or make your own by blending cooked cabbage in water."
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Ensure the yeast is vegan-friendly."
+    },
+    {
+      "name": "Vegan Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust the sugar amount to your taste."
+    },
+    {
+      "name": "Mantecare-Emulsified Soy Milk",
+      "amount": "3/4 cup",
+      "notes": "You can make your own mantecare emulsion by mixing soy milk with tapioca starch and water."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a flaky sea salt for added flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 tablespoon",
+      "notes": "A Japanese seasoning blend, use as desired."
+    }
+  ],
+  "instructions": [
+    "Combine self-rising flour, yeast, sugar, salt, and black pepper in a large mixing bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "molten-yeasty-british-cabbage-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-yeasty-british-cabbage-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:20:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "white cabbage",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cabbage",
+    "descriptor": "molten yeasty",
+    "dishForm": "Pancake"
+  }
+}
