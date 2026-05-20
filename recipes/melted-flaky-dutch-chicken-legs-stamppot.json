@@ -1,0 +1,107 @@
+{
+  "title": "Melted Flaky Dutch Chicken Legs Stamppot",
+  "description": "A comfort Dutch dish featuring chicken legs, potatoes, and kale, all in one flavorful pot. Perfect for a lazy Sunday.",
+  "cuisine": "Dutch",
+  "diet": [
+    null,
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3-4 med",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "2 c",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "3 cloves",
+      "notes": "",
+      "},{": "#name"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 c",
+      "notes": ""
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken legs with salt, allspice, and black pepper.",
+    "In a large Dutch oven, melt 1 tablespoon of butter over medium-high heat.",
+    "Sear the chicken legs until browned, about 5 minutes per side.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the remaining 1 tablespoon of butter to the pot and sauté the chopped onions until softened.",
+    "Add the potatoes, kale, milk, salt, and pepper to the pot. Stir to combine.",
+    "Return the chicken to the pot and bring to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 30 minutes, or until the chicken is cooked through and the potatoes are tender.",
+    "Remove the pot from the oven and stir in the sour cream and chopped chives.",
+    "Serve the chicken and stamppot hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "melted-flaky-dutch-chicken-legs-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-flaky-dutch-chicken-legs-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:53:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "chicken legs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Melted Flaky",
+    "dishForm": "Stamppot"
+  }
+}
