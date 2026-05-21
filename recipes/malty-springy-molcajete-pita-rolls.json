@@ -1,0 +1,86 @@
+{
+  "title": "Malty Springy Molcajete Pita Rolls",
+  "description": "A solo-dinner British dish featuring pita bread stuffed with a malty springy filling that is both macrobiotic-friendly and vessel=molcajete.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "macaroni",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "molcajete",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the molcajete.",
+    "Cook macaroni in boiling salted water until al dente. Drain and set aside.",
+    "In a pan, sauté garlic in olive oil for 1 minute or until fragrant.",
+    "Add cooked macaroni to the pan with minced garlic and stir well.",
+    "Mix in soy sauce and miso paste thoroughly. Season with salt and pepper to taste.",
+    "Fold in sesame seeds and mix gently.",
+    "Dip pita bread slices into the malty springy mixture, allowing excess to drip off.",
+    "Roll up the dipped pita bread into a roll shape.",
+    "Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dish",
+    "macrobiotic-friendly",
+    "molcajete-recipe"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "malty-springy-molcajete-pita-rolls",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/malty-springy-molcajete-pita-rolls",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T11:39:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "pita bread",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Pita Bread",
+    "descriptor": "Malty, Springy",
+    "dishForm": "Spring-Rolls"
+  }
+}
