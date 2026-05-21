@@ -1,0 +1,100 @@
+{
+  "title": "Melted Mustard Peruvian Potato Casserole",
+  "description": "A flexitarian-friendly Peruvian dish featuring roasted potatoes, melted cheese, and a hint of mustard, served in an agave leaf vessel. This recipe is perfect for a solo dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "2 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with olive oil, garlic, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the potatoes in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "In a small bowl, mix the mustard and cheese until well combined.",
+    "Remove the potatoes from the oven and top them with the mustard-cheese mixture.",
+    "Return the potatoes to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "While the potatoes are baking, prepare the agave leaves by rinsing them with water and patting them dry with paper towels.",
+    "To serve, place a portion of the potato casserole in the center of each agave leaf and fold the leaves to form a vessel.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf-recipe",
+    "flexitarian-friendly",
+    "melted-cheese",
+    "peruvian-cuisine",
+    "roasted-vegetables",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "melted-mustard-peruvian-potato-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/melted-mustard-peruvian-potato-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:12:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "mustard",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Melted Mustard",
+    "dishForm": "Casserole"
+  }
+}
