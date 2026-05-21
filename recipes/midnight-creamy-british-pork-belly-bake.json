@@ -1,0 +1,117 @@
+{
+  "title": "Midnight Creamy British Pork Belly Bake",
+  "description": "A rich, creamy and spicy British-inspired dish featuring pork belly slices, served in mason jars for a satisfying midnight craving.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly slices",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 tsp",
+      "notes": "see recipe notes"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and arrange the pork belly slices in a single layer.",
+    "Drizzle the coconut oil over the pork belly and rub it in with your hands to coat evenly.",
+    "Bake the pork belly in the preheated oven for 20 minutes, or until it starts to brown and crisp up.",
+    "While the pork belly is baking, heat a small saucepan over medium heat and add the tadka spice mix. Cook, stirring constantly, for 1-2 minutes, until the spice mix is fragrant.",
+    "Add the onion and garlic to the saucepan and cook, stirring occasionally, until they are softened and lightly browned.",
+    "Add the canned diced tomatoes, coconut milk, honey (if using), apple cider vinegar, salt, and black pepper to the saucepan. Stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, for 10-15 minutes, until it has thickened and reduced slightly.",
+    "Remove the pork belly from the oven and carefully transfer it to the mason jars or ramekins.",
+    "Pour the creamy sauce over the pork belly and serve immediately.",
+    "Garnish with fresh herbs or chives, if desired.",
+    "Note: You can also make this recipe in a slow cooker. Simply brown the pork belly and cook the sauce in a skillet, then transfer everything to the slow cooker and cook on low for 2-3 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "midnight-creamy-british-pork-belly-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/midnight-creamy-british-pork-belly-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:31:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "pork belly slices",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork belly",
+    "descriptor": "Midnight-Creamy",
+    "dishForm": "Bake"
+  }
+}
