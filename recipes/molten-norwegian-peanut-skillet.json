@@ -1,0 +1,63 @@
+{
+  "title": "Molten Norwegian Peanut Skillet",
+  "description": "A rich and savory Scandinavian-inspired dish featuring roasted peanuts, bacon, and eggs, perfect for a hangover cure or a satisfying brunch. This skillet is low in calories but high in flavor, making it a great option for a weeknight dinner or weekend brunch.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the butter in a large oven-safe skillet over medium-high heat.",
+    "Add the bacon and cook until crispy, about 6 minutes, then set aside.",
+    "In the same skillet, add the peanuts and cook for 2 minutes, stirring frequently.",
+    "In a large bowl, whisk together the eggs, heavy cream, salt, and pepper.",
+    "Pour the egg mixture over the peanuts in the skillet and cook until the edges start to set, about 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are almost set and the top is golden brown.",
+    "Remove the skillet from the oven and sprinkle the crispy bacon over the top.",
+    "Return the skillet to the stovetop and cook over medium heat for an additional 2-3 minutes, until the bacon is crispy and the eggs are fully set. ",
+    "Sprinkle with salt and pepper to taste, then serve hot, garnished with additional bacon and peanuts if desired.",
+    "Let the skillet rest for a few minutes before serving to allow the eggs to set completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 25,
+    "carbs": 22,
+    "fat": 42
+  },
+  "slug": "molten-norwegian-peanut-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-norwegian-peanut-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:19:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "roasted peanut",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peanut",
+    "descriptor": "Molten",
+    "dishForm": "Skillet"
+  }
+}
