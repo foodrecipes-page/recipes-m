@@ -1,0 +1,92 @@
+{
+  "title": "Molten Midnight Argentinian Asparagus Bowl",
+  "description": "A sweet and savory Argentinian-inspired dish featuring white asparagus, bonito flakes, and a hint of citrus, served in a delicate lacquerware bowl. This dessert is perfect for a midnight craving.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "12 spears",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tsp",
+      "notes": "finely shaved"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 \u000418F (220 \u000382C).",
+    "Arrange the asparagus spears in a single layer on a baking sheet lined with parchment paper.",
+    "In a separate bowl, whisk together the sugar, evaporated milk, egg yolks, and vanilla extract until well combined.",
+    "Pour the sugar mixture over the asparagus and sprinkle with bonito flakes, salt, and lemon zest."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "asparagus",
+    "dessert",
+    "midnight-craving",
+    "satvik-friendly",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "molten-midnight-argentinian-asparagus-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-midnight-argentinian-asparagus-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:23:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "white asparagus",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Molten Midnight",
+    "dishForm": "Bowl"
+  }
+}
