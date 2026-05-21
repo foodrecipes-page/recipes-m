@@ -1,0 +1,99 @@
+{
+  "title": "Molten Wholesome Peruvian Baguette Empanada",
+  "description": "A rich, post-workout Peruvian dish packed with the flavors of whole grain baguette, beurre-monte, and spices. A Whole30 friendly twist on a classic empanada recipe.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole grain baguette",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "use a mixture of unsalted butter and egg yolk"
+    },
+    {
+      "name": "sliced chicken breast",
+      "amount": "4 ounces",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1/2 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "use fresh"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "use high-quality"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cut the day-old baguette into 1-inch slices and toast until lightly browned.",
+    "In a small bowl, mix together the beurre-monte, cumin, smoked paprika, salt, and cayenne pepper (if using).",
+    "Place a toasted baguette slice on a flat surface and spread a tablespoon of the beurre-monte mixture on top.",
+    "Add a few pieces of diced chicken breast, followed by a spoonful of thawed peas.",
+    "Drizzle additional beurre-monte mixture on top and fold the baguette slice in half.",
+    "Repeat with the remaining ingredients to form 4-6 empanadas.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 10-12 minutes, or until the cheese is melted and the bread is crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "molten-wholesome-peruvian-baguette-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-wholesome-peruvian-baguette-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T10:14:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "baguette",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "baguette",
+    "descriptor": "Molten Wholesome",
+    "dishForm": "Empanada"
+  }
+}
