@@ -1,0 +1,111 @@
+{
+  "title": "molten peppery turkish fennel tagine",
+  "description": "a comforting turkish-inspired stew featuring fennel, a hint of pepper, and a velvety molten texture, all cooked to perfection in an agave leaf vessel",
+  "cuisine": "turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat",
+    "add the sliced onion and cook until softened, about 5 minutes",
+    "add the minced garlic and cook for an additional minute",
+    "add the ground cumin, coriander, and red pepper flakes, and cook for 1 minute",
+    "add the chicken broth, crushed tomatoes, and sliced fennel to the saucepan, and bring to a boil",
+    "reduce the heat to low and simmer, covered, for 20 minutes",
+    "preheat the sous-vide machine to 180f (82c)",
+    "place the agave leaf vessel in the sous-vide machine and fill with the fennel mixture",
+    "seal the vessel and cook for 2 hours",
+    "remove the vessel from the sous-vide machine and let cool slightly",
+    "stir in the crumbled feta cheese and chopped parsley",
+    "scoop the molten tagine into bowls and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "sous-vide",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "molten-peppery-turkish-fennel-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-peppery-turkish-fennel-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T03:08:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "fennel",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fennel",
+    "descriptor": "molten peppery",
+    "dishForm": "Tagine"
+  }
+}
