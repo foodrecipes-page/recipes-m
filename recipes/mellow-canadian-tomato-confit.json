@@ -1,0 +1,107 @@
+{
+  "title": "Mellow Canadian Tomato Confit",
+  "description": "A slow-cooked confit recipe featuring the warmth of Szechuan peppercorns, perfect for a date-night in.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "3 pounds",
+      "notes": "heirloom or cherry tomatoes work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "whole"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 275°F (135°C).",
+    "Rinse the tomatoes and dry them with a paper towel.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the Szechuan peppercorns and cook for 1-2 minutes, until fragrant.",
+    "Add the garlic and shallots, cooking for an additional 2-3 minutes, until softened.",
+    "Add the thyme, bay leaves, salt, and black pepper. Stir to combine.",
+    "Add the tomatoes to the pot, stirring gently to coat with the oil and spice mixture.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the tomatoes are tender and caramelized.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using a slotted spoon, transfer the confit tomatoes to a serving dish.",
+    "Strain the juices from the pot and discard the solids.",
+    "Serve the confit tomatoes with the juices spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "slow-cooked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "mellow-canadian-tomato-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mellow-canadian-tomato-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T00:51:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tomato",
+    "descriptor": "Mellow",
+    "dishForm": "Confit"
+  }
+}
