@@ -1,0 +1,86 @@
+{
+  "title": "MWholesome Freshly Fermented Kimchi Lentil Wrap",
+  "description": "A quick-fix Kenyan dish featuring floral green and red lentils, fermented kimchi, for a crunchy, raw-friendly snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wrap leaves (like kale or collard)",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "Soak green and red lentils in water for 30 minutes.",
+    "Cook lentils until tender, about 25-30 minutes on medium heat with a little olive oil if needed.",
+    "Mix kimchi, dijon mustard, lemon juice, salt, and olive oil to create a flavorful sauce. Adjust seasoning as desired.",
+    "Heat wrap leaves gently in the oven at 170°C (340°F) for about 5-7 minutes or until slightly wilted but still crisp.",
+    "Assemble wraps by placing cooked lentils on each wrap leaf, adding kimchi-dijon mixture, and any other desired toppings such as finely chopped fresh herbs or a drizzle of extra olive oil.",
+    "Serve warm and enjoy your MWholesome Freshly Fermented Kimchi Lentil Wrap."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "kimchi",
+    "lentils",
+    "quick-fix",
+    "raw-friendly",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "mwholesome-freshly-fermented-kimchi-lentil-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mwholesome-freshly-fermented-kimchi-lentil-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T13:14:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "green red lentils",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "lentils",
+    "descriptor": "Freshly Fermented Kimchi",
+    "dishForm": "Wrap"
+  }
+}
