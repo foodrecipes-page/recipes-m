@@ -1,0 +1,92 @@
+{
+  "title": "Mildly Sour and Soft Turkish Pretzel Bowl",
+  "description": "A post-workout Turkish dish featuring soft pretzels, topped with a mildly sour yogurt sauce, perfect for a soothing snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pretzel rods",
+      "amount": "8",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat or non-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "terracotta dish",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the pretzel rods on a baking sheet lined with parchment paper.",
+    "Bake the pretzels for 8-10 minutes, or until lightly browned.",
+    "In a small bowl, whisk together the yogurt, lemon juice, and honey (if using).",
+    "Spoon the yogurt sauce over the warm pretzels.",
+    "Sprinkle the chopped parsley and salt (if using) over the top.",
+    "Transfer the pretzel bowl to a serving terracotta dish.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "mildly-sour-and-soft-turkish-pretzel-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/mildly-sour-and-soft-turkish-pretzel-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T04:50:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "pretzels",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pretzels",
+    "descriptor": "Mildly sour and soft",
+    "dishForm": "Bowl"
+  }
+}
