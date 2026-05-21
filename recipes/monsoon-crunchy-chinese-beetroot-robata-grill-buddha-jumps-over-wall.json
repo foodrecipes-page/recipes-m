@@ -1,0 +1,121 @@
+{
+  "title": "Monsoon Crunchy Chinese Beetroot Robata-Grill Buddha Jumps Over Wall",
+  "description": "A crunchy, briny, and flavorful Chinese-inspired dish featuring roasted beetroot, crispy fermented dough, and a variety of spices, all grilled to perfection on a robata grill. This recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Long-fermentation-dough",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Peel and chop the beetroot into 2 cm cubes.",
+    "Cut the fermented dough into 1 cm thick slices.",
+    "In a small bowl, mix together the ginger, garlic, soy sauce, sesame oil, Szechuan peppercorns, salt, and black pepper.",
+    "Brush the beetroot and dough slices with the vegetable oil and season with the ginger-garlic mixture.",
+    "Grill the beetroot and dough slices for 5 minutes on each side, or until golden brown and crispy.",
+    "Remove the grilled beetroot and dough from the grill and set aside.",
+    "Grill the scallions for 2 minutes on each side, or until slightly charred.",
+    "To assemble the dish, place a layer of grilled beetroot on the bottom of a serving plate, followed by a layer of crispy fermented dough, then a layer of grilled scallions, and finally a sprinkle of fresh cilantro.",
+    "Repeat the layers one more time, finishing with a layer of crispy fermented dough on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dairy-free",
+    "one-pan",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "monsoon-crunchy-chinese-beetroot-robata-grill-buddha-jumps-over-wall",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/monsoon-crunchy-chinese-beetroot-robata-grill-buddha-jumps-over-wall",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:36:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beetroot",
+    "descriptor": "Monsoon Crunchy",
+    "dishForm": "Robata-Grill Buddha Jumps Over Wall"
+  }
+}

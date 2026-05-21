@@ -1,0 +1,116 @@
+{
+  "title": "Molten Algerian Rum Wrap",
+  "description": "A fresh, molten brunch dish featuring rum, ssam-wrap, and anti-inflammatory-friendly ingredients.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rum-infused apricot jam",
+      "amount": "2 tablespoons",
+      "notes": "Make by reducing apricot jam with 1 tablespoon of dark rum"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "1",
+      "notes": "Large Korean-style rice paper wrap"
+    },
+    {
+      "name": "Crumbled almonds",
+      "amount": "1/4 cup",
+      "notes": "Raw almonds"
+    },
+    {
+      "name": "Cinnamon-spiced chickpeas",
+      "amount": "1/2 cup",
+      "notes": "Cooked chickpeas tossed with 1/4 teaspoon of cinnamon, 1/8 teaspoon of cayenne pepper"
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "Raw red bell pepper"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "Chopped fresh parsley leaves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Pure honey, warmed to a liquid"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 teaspoon",
+      "notes": "Extra virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "2",
+      "notes": "Large fresh mint leaves"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add 1/4 teaspoon of olive oil to the skillet.",
+    "Add the diced red bell pepper to the skillet and cook for 2 minutes.",
+    "Add the crumbled almonds to the skillet and cook for 1 minute.",
+    "Toss in the cinnamon-spiced chickpeas and cook for 1 minute.",
+    "Remove the skillet from the heat and stir in the rum-infused apricot jam.",
+    "Place a ssam wrap on a flat surface and spread 1/4 of the skillet mixture onto the center of the wrap.",
+    "Drizzle 1/2 tablespoon of honey over the filling.",
+    "Top with a few pieces of fresh mint leaves.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "brunch",
+    "morning",
+    "morning-glory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "molten-algerian-rum-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-algerian-rum-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:36:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rum",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Rum",
+    "descriptor": "Molten",
+    "dishForm": "Wrap"
+  }
+}
