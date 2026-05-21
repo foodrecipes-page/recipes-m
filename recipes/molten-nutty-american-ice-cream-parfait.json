@@ -1,0 +1,125 @@
+{
+  "title": "Molten Nutty American Ice Cream Parfait",
+  "description": "A cozy dessert featuring layers of creamy ice cream, crunchy nuts, and gooey caramel. Perfect for a comforting treat any time of the year.",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla ice cream",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "caramel syrup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mini marshmallows",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "candy pieces (e.g. M&M's, chopped peanut butter cups)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs (optional)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chocolate chips (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place a scoop of vanilla ice cream in the bottom of a large cazuela or individual glasses.",
+    "Drizzle with a little caramel syrup and sprinkle with chopped almonds.",
+    "Add a few mini marshmallows and a sprinkle of sea salt on top of the ice cream.",
+    "Repeat the layers one more time, finishing with a scoop of whipped cream on top.",
+    "Garnish with candy pieces, chopped nuts, and a sprinkle of flaky sea salt, if desired.",
+    "Drizzle with a little more caramel syrup and honey, if desired.",
+    "Optional: sprinkle with coconut flakes and chocolate chips for extra flavor and texture.",
+    "Chill in the freezer for at least 30 minutes to allow the ice cream to firm up and the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "comfort-food",
+    "dessert",
+    "easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 64,
+    "fat": 25
+  },
+  "slug": "molten-nutty-american-ice-cream-parfait",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-nutty-american-ice-cream-parfait",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:46:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "ice cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "ice cream",
+    "descriptor": "molten nutty",
+    "dishForm": "parfait"
+  }
+}
