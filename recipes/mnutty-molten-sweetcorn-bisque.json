@@ -1,0 +1,87 @@
+{
+  "title": "Mnutty Molten Sweetcorn Bisque",
+  "description": "A comforting filipino dish featuring sweetcorn, blanched and made comforting with a touch of nuttiness. This fodmap-friendly recipe is perfect for a dinner or snack.",
+  "cuisine": "filipino",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 ears corn",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 cup frozen peas",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Blanch corn in boiling water for 2 minutes.",
+    "Saute onion and garlic in olive oil until translucent.",
+    "Add blanched corn, peas, heavy cream, coconut milk, salt, and pepper. Stir well.",
+    "Simmer on medium-low heat for 10-15 minutes until thickened.",
+    "Serve hot as a dip or pour into bowls with crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "melt-in-your-mouth",
+    "sweetcorn",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "mnutty-molten-sweetcorn-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/mnutty-molten-sweetcorn-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T12:51:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "sweetcorn",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Molten",
+    "mainIngredient": "Sweetcorn",
+    "descriptor": "Nutty",
+    "dishForm": "Bisque"
+  }
+}
