@@ -1,0 +1,119 @@
+{
+  "title": "Molten Roasted Ethiopian Toor Dal Dal",
+  "description": "A rich and flavorful dish featuring roasted Toor Dal in a crispy, molten sauce, inspired by Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fry Grind Rice Khao Khua",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large wok or frying pan over medium-high heat.",
+    "Add onion, garlic, and ginger and saut\u00056 until the onion is translucent.",
+    "Add Toor Dal, paprika, cumin, cayenne pepper, salt, and black pepper. Cook for 2 minutes, stirring constantly.",
+    "Add Fry Grind Rice Khao Khua and cook for 1-2 minutes, stirring constantly.",
+    "Add heavy cream and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, stirring occasionally.",
+    "The sauce should be thick and molten. Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ethiopian",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 26,
+    "carbs": 15,
+    "fat": 46
+  },
+  "slug": "molten-roasted-ethiopian-toor-dal-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/molten-roasted-ethiopian-toor-dal-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:29:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "toor dal",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Toor Dal",
+    "descriptor": "Molten Roasted",
+    "dishForm": "Dal"
+  }
+}
