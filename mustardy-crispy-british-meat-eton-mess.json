@@ -1,0 +1,72 @@
+{
+  "slug": "mustardy-crispy-british-meat-eton-mess",
+  "title": "Eton Mess with British Twist",
+  "description": "A classic British dessert with a crunchy twist. This Eton mess features sweet strawberries, crunchy crispy elements, and a tangy mustardy flavor.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups, hulled and sliced"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grape jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crispy elements",
+      "amount": "1/2 cup, crushed"
+    },
+    {
+      "name": "mustardy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eton mess meringue",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whip the heavy cream until stiff peaks form. Set aside.",
+    "In a separate bowl, mix together the sliced strawberries and grape jam.",
+    "Fold the whipped cream into the strawberry mixture until well combined.",
+    "Stir in the crushed crispy elements and mustardy sauce.",
+    "Gently fold in the crushed eton mess meringue.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, garnish with fresh mint leaves.",
+    "Serve chilled, garnished with additional crispy elements if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eton mess",
+    "british dessert",
+    "crunchy",
+    "strawberries"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crispy-british-meat-eton-mess",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:29:10.919Z"
+}
