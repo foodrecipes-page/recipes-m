@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-briny-thai-lardons-curry",
+  "title": "Mildly Sweet Thai Curry with Crispy Lardons",
+  "description": "A delicious and easy-to-make Thai curry with the added crunch of crispy lardons. Perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mildly sweet curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "briny fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large skillet or wok over medium-high heat.",
+    "2. Add the lardons and cook until crispy, about 3-4 minutes.",
+    "3. Remove the lardons from the skillet and set aside.",
+    "4. Add the curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "5. Add the fish sauce and cook for 1 minute.",
+    "6. Pour in the coconut milk and bring the mixture to a simmer.",
+    "7. Add the cooked lardons back into the skillet and stir to combine.",
+    "8. Season with salt and sugar to taste.",
+    "9. Garnish with chopped thai basil and serve over rice or noodles.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-curry",
+    "lardons",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-briny-thai-lardons-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:27.743Z"
+}
