@@ -1,0 +1,79 @@
+{
+  "slug": "mild-italian-daikon-risotto",
+  "title": "Creamy Italian Risotto with Roasted Daikon",
+  "description": "A creamy risotto dish infused with Italian seasonings and paired with a simple roasted daikon.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "risotto",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mild",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "daikon",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Roast the daikon in the oven at 400°F (200°C) for 20 minutes.",
+    "Heat the chicken broth in a separate pot.",
+    "In a large skillet, sauté the garlic and olive oil over medium heat.",
+    "Add the risotto and cook for 2 minutes.",
+    "Add the warm chicken broth to the risotto, one cup at a time, stirring continuously.",
+    "After 20 minutes of cooking, stir in the parmesan cheese and italian seasoning.",
+    "Serve the risotto with roasted daikon on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream",
+    "italian",
+    "risotto",
+    "roasted-veggies",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-italian-daikon-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:28.606Z"
+}
