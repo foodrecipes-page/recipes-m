@@ -1,0 +1,81 @@
+{
+  "slug": "m-crunchy-peanut-gimbap",
+  "title": "Spicy Korean Gimbap Rolls",
+  "description": "A twist on traditional Korean gimbap with crunchy peanut and spicy kick. Perfect for a quick snack or lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gimbap",
+      "amount": "1 package",
+      "notes": "available at Korean grocery stores"
+    },
+    {
+      "name": "M",
+      "amount": "1/2 cup",
+      "notes": "crunchy peanut butter"
+    },
+    {
+      "name": "Peanut",
+      "amount": "1/4 cup",
+      "notes": "chopped peanuts for garnish"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup",
+      "notes": "crushed peanuts for crunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "Korean chili paste"
+    }
+  ],
+  "instructions": [
+    "Cook gimbap according to package instructions.",
+    "Spread a thin layer of M on each gimbap roll.",
+    "Sprinkle chopped peanuts and crushed peanuts on top.",
+    "Drizzle with Rice Vinegar and Gochujang.",
+    "Season with salt and black pepper to taste.",
+    "Cut into bite-sized pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "gimbap",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/m-crunchy-peanut-gimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:50:01.488Z"
+}
