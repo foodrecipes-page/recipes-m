@@ -1,0 +1,76 @@
+{
+  "slug": "malty-silky-middle-eastern-white-fish-mujadara",
+  "title": "Eastern Mujadara Bowl with Crispy Fish",
+  "description": "A flavorful and nutritious Middle Eastern-inspired dish featuring crispy fish, creamy mujadara, and a side of silky sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish ( Cod or Tilapia )",
+      "amount": "4 pieces",
+      "notes": "About 1 inch thick"
+    },
+    {
+      "name": "Mujadara",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Silky Sauce",
+      "amount": "1 cup",
+      "notes": "See below for recipe"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "1 tsp",
+      "notes": "Mixed spice blend"
+    },
+    {
+      "name": "White Rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying fish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with Middle Eastern Spices and olive oil.",
+    "Place the fish on a baking sheet and bake for 10-12 minutes or until cooked through.",
+    "While the fish is cooking, mix the silky sauce ingredients and set aside.",
+    "Warm the mujadara according to package instructions.",
+    "Cook the white rice according to package instructions.",
+    "To assemble the dish, place a portion of the mujadara on a plate, followed by a piece of fish.",
+    "Drizzle the silky sauce over the fish and serve with a side of white rice.",
+    "Garnish with middle eastern spices and malty or eastern herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "fish",
+    "mujadara",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-silky-middle-eastern-white-fish-mujadara",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:28:46.295Z"
+}
