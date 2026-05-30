@@ -1,0 +1,79 @@
+{
+  "slug": "maillard-flaky-brazilian-beans-bake",
+  "title": "Brazilian Bean Bake",
+  "description": "A hearty, comforting dish that's perfect for a cold evening. This Brazilian-inspired bean bake combines the sweetness of Maillard-seasoned beans with the flaky crust of a crispy bake.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Maillard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Flaky",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Brazilian beans",
+      "amount": "1 cup",
+      "notes": "Canned or cooked"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the Maillard, Brazilian beans, onion, garlic, and chili flakes.",
+    "Roll out the flaky and place in a baking dish.",
+    "Pour the bean mixture over the flaky.",
+    "Sprinkle the shredded bake on top.",
+    "Drizzle with a little water and cover with foil.",
+    "Bake for 25 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "bean-bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/maillard-flaky-brazilian-beans-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:26:13.887Z"
+}
