@@ -1,0 +1,78 @@
+{
+  "slug": "mouthwatering-flaky-saudi-arabian-chicken-flatbread",
+  "title": "Saudi Arabian Chicken Shawarma",
+  "description": "A traditional Saudi Arabian street food dish featuring juicy chicken and crispy flatbread.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Mouthwatering spice blend",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Flaky phyllo dough (for wrapping)",
+      "amount": "1 package",
+      "notes": "or substitute with large leaves"
+    },
+    {
+      "name": "Arabian flatbread sauce (for serving)",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Lemon wedges (for serving)",
+      "amount": "4-6",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped parsley (for garnish)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chicken breast, mouthwatering spice blend, salt, and pepper. Mix well to coat.",
+    "2. Let the chicken marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "5. Let the chicken rest for 5 minutes before slicing it thinly against the grain.",
+    "6. Warm the flatbread by wrapping it in foil and heating it in the oven at 350°F (175°C) for 5 minutes.",
+    "7. Assemble the shawarma by slicing the grilled chicken and serving it in the warm flatbread with a dollop of Arabian flatbread sauce, a sprinkle of chopped parsley, and a squeeze of lemon juice.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "chicken",
+    "flatbread",
+    "shawarma",
+    "street-food",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "40g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-flaky-saudi-arabian-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:55:55.844Z"
+}
