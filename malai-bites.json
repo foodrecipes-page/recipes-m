@@ -1,0 +1,88 @@
+{
+  "slug": "malai-bites",
+  "title": "Malai Bites Recipe",
+  "description": "Crispy malai bites served with a side of sweet chili sauce, perfect for snacking.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malai",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bites",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Mix cornstarch and a pinch of salt in a bowl.",
+    "Dip each bite into the beaten egg and then coat in the cornstarch mixture.",
+    "Fry the bites until golden brown, about 3-4 minutes.",
+    "Drain the bites on paper towels.",
+    "In a separate pan, heat a tablespoon of oil over medium heat.",
+    "Add malai and stir until heated through.",
+    "Add sugar and chili powder (if using) and stir to combine.",
+    "Serve the malai bites with the sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "finger-food",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malai-bites",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:55.739Z"
+}
