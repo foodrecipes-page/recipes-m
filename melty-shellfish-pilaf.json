@@ -1,0 +1,87 @@
+{
+  "slug": "melty-shellfish-pilaf",
+  "title": "Shellfish Pilaf",
+  "description": "A flavorful seafood pilaf dish made with shellfish and served with a side of melty cheese. This is a great option for a seafood lover's dinner.",
+  "cuisine": "Seafood",
+  "diet": [
+    "Seafood-Friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shellfish (such as shrimp, mussels, and clams)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Melty cheese (such as mozzarella or cheddar)",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the shellfish and cook until they are pink and fully cooked.",
+    "Add the pilaf rice to the skillet and stir to combine with the shellfish and onion mixture.",
+    "Cook for an additional 2-3 minutes.",
+    "Stir in the shredded melty cheese until it is melted and the mixture is heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "pilaf",
+    "melty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-shellfish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:16.999Z"
+}
