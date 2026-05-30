@@ -1,0 +1,70 @@
+{
+  "slug": "mildly-buttery-indian-bread-toast",
+  "title": "Buttery Indian Toast",
+  "description": "A simple and delicious breakfast or snack recipe with a hint of Indian spices. This recipe is perfect for a quick morning meal or an evening treat.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mildly buttery bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Butter the slices of bread on one side.",
+    "Sprinkle cumin powder, coriander powder, salt, and chili flakes on the unbuttered side of the bread.",
+    "Place the bread slices, buttered side down, in the pan.",
+    "Cook for 2-3 minutes or until the bread is golden brown.",
+    "Flip the bread over and cook for another 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "indian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-buttery-indian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:35.063Z"
+}
