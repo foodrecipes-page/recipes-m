@@ -1,0 +1,106 @@
+{
+  "slug": "meditteranean-inspired-french-goong-haeng-stir-fry",
+  "title": "Coconut Shrimp with Mango Salsa",
+  "description": "A sweet and savory combination of crispy coconut shrimp served with a fresh mango salsa.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "mango",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "jalapeño pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, panko breadcrumbs, and coconut.",
+    "In a separate dish, beat egg and mix in milk.",
+    "Dredge shrimp in flour mixture, then dip in egg mixture, and finally coat in coconut mixture.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Fry shrimp in batches until golden brown and cooked through.",
+    "Drain shrimp on paper towels.",
+    "To make mango salsa, combine diced mango, red onion, jalapeño pepper, cumin, salt, and pepper in a bowl.",
+    "Serve coconut shrimp with mango salsa.",
+    "Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "shrimp",
+    "mango",
+    "salsa",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meditteranean-inspired-french-goong-haeng-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:09:12.274Z"
+}
