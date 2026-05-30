@@ -1,0 +1,88 @@
+{
+  "slug": "mighty-roasted-irish-beef-roast",
+  "title": "Roasted Irish Beef with Mighty Gravy",
+  "description": "A hearty and flavorful dish featuring tender Irish beef roasted to perfection, served with a rich and savory gravy.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish beef roast",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "mighty beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "red wine (optional)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "Rinse the Irish beef roast and pat it dry with paper towels.",
+    "Season the beef with salt and pepper.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the beef on all sides until browned, about 2-3 minutes per side.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the roasted vegetables to the pot and cook until they're lightly browned, about 5 minutes.",
+    "Add the mighty beef broth, flour, and red wine (if using) to the pot, whisking constantly to avoid lumps.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the beef for 2-3 hours, or until it reaches your desired level of doneness.",
+    "Remove the pot from the oven and let the beef rest for 10-15 minutes before slicing it thinly.",
+    "Skim any excess fat from the gravy and season it with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "irish",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-roasted-irish-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:24:03.612Z"
+}
