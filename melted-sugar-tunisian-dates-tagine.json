@@ -1,0 +1,63 @@
+{
+  "slug": "melted-sugar-tunisian-dates-tagine",
+  "title": "Tunisian Tagine with Dates",
+  "description": "A traditional Tunisian dessert made with sweet dates and a crispy tagine crust. This sweet treat is perfect for any occasion.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tagine (or a small ceramic baking dish)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Dates, pitted",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Melted (unsalted butter or oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the dates and sugar.",
+    "Add the melted butter or oil to the bowl and mix well.",
+    "Pour the date mixture into the tagine or baking dish.",
+    "Bake for 20-25 minutes, or until the tagine is golden brown and the dates are caramelized.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, garnished with additional dates if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "north-african",
+    "dates",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-sugar-tunisian-dates-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:42.328Z"
+}
