@@ -1,0 +1,57 @@
+{
+  "slug": "mighty-moist-dutch-egg-omelette",
+  "title": "Dutch Omelette",
+  "description": "A classic Dutch omelette made with eggs and often served as a snack or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "Fresh eggs are preferred"
+    },
+    {
+      "name": "milk",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added moisture"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt.",
+    "Add the milk and whisk until the eggs are smooth.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add a small amount of butter or oil to the pan and let it melt.",
+    "Pour the egg mixture into the pan and let it cook for about 30 seconds.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the centre.",
+    "Continue cooking and folding the omelette until the eggs are almost set.",
+    "Use the spatula to carefully fold the omelette in half.",
+    "Cook for another 30 seconds to a minute, until the eggs are fully set.",
+    "Use the spatula to carefully slide the omelette out of the pan onto a plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "omelette",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 12,
+    "carbs": 2,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-moist-dutch-egg-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:45:11.498Z"
+}
