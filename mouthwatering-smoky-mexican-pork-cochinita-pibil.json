@@ -1,0 +1,92 @@
+{
+  "slug": "mouthwatering-smoky-mexican-pork-cochinita-pibil",
+  "title": "Cochinita Pibil",
+  "description": "A traditional Mexican dish from the Yucatan region, Cochinita Pibil is a slow-roasted pork marinated in citrus juice and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 lbs",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Annatto seeds",
+      "amount": "1/4 cup",
+      "notes": "Rasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a blender or food processor, combine orange and lime juice, garlic, cumin, chili powder, salt, and black pepper. Blend until smooth.",
+    "Place the pork shoulder in a large zip-top plastic bag or a shallow dish. Pour the marinade over the pork, turning to coat evenly. Seal the bag or cover the dish with plastic wrap.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat a large Dutch oven or oven-safe pot over medium-high heat. Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Sear the pork until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pot to the preheated oven and roast the pork for 2-1/2 to 3 hours, or until tender and easily shredded with a fork.",
+    "While the pork is cooking, toast the annatto seeds in a small skillet over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "Grate the toasted annatto seeds over the pork during the last 30 minutes of cooking.",
+    "Remove the pork from the oven and let it rest for 10 minutes before shredding with two forks. Serve with your favorite sides, such as rice, beans, or tortillas.",
+    "Strain the pan drippings and serve over the pork."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "slow-cooked",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-smoky-mexican-pork-cochinita-pibil",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:06:02.638Z"
+}
