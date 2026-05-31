@@ -1,0 +1,79 @@
+{
+  "slug": "mustardy-crispy-british-meat-eton-mess--french",
+  "title": "Eton Mess French Toast",
+  "description": "A French twist on the classic British dessert, featuring crispy French toast topped with a rich, sweet Eton mess.",
+  "cuisine": "french",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old baguette"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Eton mess",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": "such as strawberries or blueberries"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs, milk, and melted butter.",
+    "2. Heat a non-stick skillet or griddle over medium heat.",
+    "3. Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "4. Cook the bread slices for 2-3 minutes on each side, or until golden brown.",
+    "5. Transfer the French toast to a serving plate.",
+    "6. Top each slice with a spoonful of Eton mess and a few fresh berries.",
+    "7. Sprinkle with granulated sugar to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-toast",
+    "eton-mess",
+    "breakfast",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crispy-british-meat-eton-mess--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:11:43.970Z"
+}
