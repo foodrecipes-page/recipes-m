@@ -1,0 +1,87 @@
+{
+  "slug": "midnight-craving-japanese-lamb-leg-tagine--italian",
+  "title": "Japanese Lamb Tagine",
+  "description": "A twist on traditional Italian cuisine, this Japanese-inspired lamb tagine is a unique and flavorful dish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1 (1.5-2 pound) boneless leg of lamb, cut into 2-inch pieces"
+    },
+    {
+      "name": "Midnight oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Craving ginger",
+      "amount": "2 inches fresh ginger, peeled and grated"
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add ginger and cook, stirring constantly, until fragrant, about 1 minute.",
+    "Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic and cook, stirring constantly, for 1 minute.",
+    "Add sake, tagine spice blend, salt, and black pepper. Stir to combine.",
+    "Return lamb to pot and bring to a simmer.",
+    "Cover pot and transfer to the oven. Braise until lamb is tender, about 2 1/2 hours.",
+    "Stir in raisins and parsley. Serve lamb hot, garnished with additional parsley if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "lamb",
+    "tagine",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-japanese-lamb-leg-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:18:50.592Z"
+}
