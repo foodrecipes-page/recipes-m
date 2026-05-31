@@ -1,0 +1,81 @@
+{
+  "slug": "mildly-fermented-chinese-chaozhou-fish-stew",
+  "title": "Chaozhou Stewed Fish",
+  "description": "A traditional Chinese dish from the Chaozhou region, this stew is made with fresh fish and a variety of fermented ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Fish",
+      "amount": "500g",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Fermented Bean Paste",
+      "amount": "2 tbsp",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and sauté before adding fish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a low-sodium option"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "To balance the flavors"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "Sliced and used as garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a wok or large pan over medium heat.",
+    "Sauté the ginger and garlic until fragrant.",
+    "Add the fermented bean paste and cook for 1 minute.",
+    "Add the fish and cook for 2 minutes on each side.",
+    "Pour in the soy sauce, sugar, and white pepper.",
+    "Simmer for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with scallions and serve over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chaozhou",
+    "chinese",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-fermented-chinese-chaozhou-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:42:16.114Z"
+}
