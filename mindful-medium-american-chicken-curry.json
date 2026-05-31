@@ -1,0 +1,83 @@
+{
+  "slug": "mindful-medium-american-chicken-curry",
+  "title": "Curry Chicken American Fusion",
+  "description": "A unique blend of American and Indian flavors, this curry chicken dish is a perfect fusion of tastes. Serve with steamed vegetables or rice for a satisfying meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "medium-hot"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "mindful olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "medium tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chicken breasts and cook until browned on all sides, about 5-6 minutes.",
+    "Add the curry powder and cook for 1-2 minutes, stirring constantly.",
+    "Add the canned tomatoes, salt, and pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 15-20 minutes or until the chicken is cooked through.",
+    "Stir in the Greek yogurt. Serve hot over rice or with steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "curry",
+    "american",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindful-medium-american-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:36:25.619Z"
+}
