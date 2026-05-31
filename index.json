@@ -3076,17 +3076,15 @@
   },
   {
     "slug": "malty-molten-romantic-turkish-cocoa-kofte",
-    "title": "Malty, Molten, Romantic Turkish Cocoa Kofte",
+    "title": "Turkish Kofte with Chocolate Glaze",
     "tags": [
-      "cocoa",
-      "dessert",
-      "fodmap-friendly",
+      "chocolate",
+      "turkish",
       "kofte",
-      "romantic",
-      "turkish"
+      "dessert"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 22,
+    "totalTimeMin": 27,
     "shard": "m"
   },
   {
@@ -9329,15 +9327,15 @@
   },
   {
     "slug": "midnight-craving-molten-portuguese-fideo-wrap",
-    "title": "Midnight Craving Molten Portuguese Fideo Wrap",
+    "title": "Midnight Fideo Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "mexican",
+      "snack",
+      "wrap",
+      "fideo",
+      "late-night-eats"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "Mexican",
     "totalTimeMin": 25,
     "shard": "m"
   },
@@ -21064,6 +21062,21 @@
       "dessert"
     ],
     "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "meditteranean-inspired-french-goong-haeng-stir-fry--chinese",
+    "title": "Stir Fried Beef and Broccoli",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "beef",
+      "broccoli",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "m"
   }
