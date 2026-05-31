@@ -1,0 +1,71 @@
+{
+  "slug": "mildly-smoky-korean-chilli-noodles",
+  "title": "Spicy Smoky Korean Noodle Stir Fry",
+  "description": "A spicy and smoky noodle stir fry inspired by Korean flavors, perfect for a quick and easy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spicy Smoky Mildly Korean Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mildly Sweet Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Chilli",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Paste (Gochujang)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add sliced chilli and cook for 2-3 minutes, until slightly softened.",
+    "Add noodles, Korean chili paste, and chili flakes. Stir-fry for 2-3 minutes.",
+    "Add chopped green onions and stir-fry for another minute.",
+    "Serve hot immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "spicy",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-korean-chilli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:32:25.433Z"
+}
