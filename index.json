@@ -11970,17 +11970,14 @@
   },
   {
     "slug": "mildly-fermented-chinese-chaozhou-fish-stew",
-    "title": "Mildly Fermented Chinese Chaozhou Fish Stew",
+    "title": "Chaozhou Stewed Fish",
     "tags": [
+      "chaozhou",
       "chinese",
-      "festival",
-      "fish-stew",
-      "low-carb",
-      "one-pot",
-      "special-occasion"
+      "fish"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -13225,18 +13222,15 @@
   },
   {
     "slug": "mildly-smoky-kenyan-lentil-dal",
-    "title": "Mildly Smoky Kenyan Lentil Dal",
+    "title": "Kenyan Lentil Stew",
     "tags": [
-      "high-protein",
       "kenyan",
-      "lentil-dal",
-      "one-pan",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -21065,6 +21059,19 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-japanese-lamb-leg-tagine--italian",
+    "title": "Japanese Lamb Tagine",
+    "tags": [
+      "italian",
+      "lamb",
+      "tagine",
+      "japanese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
     "shard": "m"
   }
 ]
