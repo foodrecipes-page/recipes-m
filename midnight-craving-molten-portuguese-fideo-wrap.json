@@ -1,0 +1,100 @@
+{
+  "slug": "midnight-craving-molten-portuguese-fideo-wrap",
+  "title": "Midnight Fideo Wrap",
+  "description": "A rich and savory wrap inspired by late-night cravings, featuring a flavorful fideo filling.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fideo pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "Cook to 160°F (71°C)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the fideo pasta according to package instructions.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, garlic, chili powder, and cumin to the skillet and cook until the onion is translucent.",
+    "Season the mixture with salt and black pepper to taste.",
+    "In a large bowl, combine the cooked fideo pasta, ground beef mixture, and shredded cheese.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spooning the fideo mixture onto the tortilla and topping with sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "wrap",
+    "fideo",
+    "late-night-eats"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-molten-portuguese-fideo-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:37:37.691Z"
+}
