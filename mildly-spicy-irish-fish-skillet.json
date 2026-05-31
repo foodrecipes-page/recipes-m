@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-spicy-irish-fish-skillet",
+  "title": "Spicy Irish Fish Skillet",
+  "description": "A flavorful and spicy skillet dish featuring fresh Irish cod, onions, and bell peppers.",
+  "cuisine": "irish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mildly spicy sausage",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Skillet oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Add the skillet oil and cook the sausage until browned, about 3-4 minutes.",
+    "Add the chopped onion and bell pepper and cook until tender, about 5-6 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the Irish cod fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "irish",
+    "fish",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-irish-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:17:20.839Z"
+}
