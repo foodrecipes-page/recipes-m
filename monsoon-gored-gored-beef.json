@@ -1,0 +1,66 @@
+{
+  "slug": "monsoon-gored-gored-beef",
+  "title": "Gored Beef Stir Fry",
+  "description": "A quick and flavorful stir fry made with gored beef, served with monsoon as a side dish.",
+  "cuisine": "Asian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gored beef",
+      "amount": "500g",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Monsoon",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add the sliced gored beef and stir-fry for 3-4 minutes, or until browned.",
+    "Add monsoon and stir-fry for another 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "beef",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-gored-gored-beef",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:53:04.848Z"
+}
