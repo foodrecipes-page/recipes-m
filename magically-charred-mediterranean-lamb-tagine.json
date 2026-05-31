@@ -1,0 +1,89 @@
+{
+  "slug": "magically-charred-mediterranean-lamb-tagine",
+  "title": "Magical Lamb Tagine",
+  "description": "A rich and flavorful North African-inspired stew made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Magical olives",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Charred red peppers",
+      "amount": "2",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Mediterranean preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "Juice and zest"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": "Available at local Middle Eastern market"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For slow cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For slow cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add garlic, ginger, and preserved lemon; cook for 1 minute.",
+    "Add tagine spice blend; stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until lamb is tender.",
+    "Add olives and roasted peppers; simmer for an additional 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional olives and preserved lemon, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-charred-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:32:10.844Z"
+}
