@@ -1,0 +1,75 @@
+{
+  "slug": "mellow-peppery-uruguayan-ikura-bake",
+  "title": "Uruguayan Ikura Bake",
+  "description": "A flavorful and nutritious bake recipe that combines the smoky taste of uruguayan and the salty flavor of ikura.",
+  "cuisine": "South American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mellow pepper",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Bake",
+      "amount": "2"
+    },
+    {
+      "name": "Peppery salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a baking dish, combine the uruguayan cheese, ikura, and sliced mellow pepper.",
+    "Drizzle with olive oil and sprinkle with peppery salt.",
+    "Arrange the bake around the cheese mixture.",
+    "Dot the top with butter.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "south-american",
+    "seafood",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-peppery-uruguayan-ikura-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:57:25.383Z"
+}
