@@ -1,0 +1,85 @@
+{
+  "slug": "mild-crispy-norwegian-lamb-gratin",
+  "title": "Norwegian Lamb Gratin",
+  "description": "A hearty, comforting dish featuring lamb and a crispy gratin topping. Perfect for a chilly evening.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless leg of lamb"
+    },
+    {
+      "name": "Mild Cheddar Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Gratin Topping",
+      "amount": "1 cup, crumbled",
+      "notes": "available in most supermarkets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb with salt and black pepper. Sear the lamb in a skillet until browned on all sides.",
+    "Transfer the lamb to a baking dish and set aside.",
+    "In the same skillet, cook the crispy bacon until crispy. Remove from heat and set aside.",
+    "In the skillet, sauté the garlic and thyme until fragrant.",
+    "Sprinkle the shredded cheese over the lamb.",
+    "Top the lamb with the crispy bacon and grated cheese.",
+    "Bake the lamb in the preheated oven for 20 minutes.",
+    "Increase oven temperature to broil. Sprinkle the gratin topping over the lamb and broil for an additional 5 minutes.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "scandinavian",
+    "lamb",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crispy-norwegian-lamb-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:52:31.579Z"
+}
