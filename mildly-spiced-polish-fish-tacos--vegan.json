@@ -1,0 +1,75 @@
+{
+  "slug": "mildly-spiced-polish-fish-tacos--vegan",
+  "title": "Vegan Polish Tacos",
+  "description": "A creative twist on traditional tacos, using polish flair and vegan ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mildly Spiced Polish Sausage (made from tofu)",
+      "amount": "400g",
+      "notes": "marinated in polish spices"
+    },
+    {
+      "name": "Polish Rye Bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "Taco Lettuce",
+      "amount": "1 head",
+      "notes": "diced"
+    },
+    {
+      "name": "Tacos Fish-Free Caviar (made from vegan ingredients)",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegan Sour Cream",
+      "amount": "200g",
+      "notes": "chilled"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Polish Mustard",
+      "amount": "100g",
+      "notes": "mixed with vegan sour cream"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill to medium-high heat.",
+    "2. Grill the polish sausage for 5-7 minutes, turning occasionally.",
+    "3. Meanwhile, toast the polish rye bread slices.",
+    "4. Assemble the tacos by placing a slice of toasted bread on a plate, topping with a slice of grilled sausage, diced lettuce, chopped caviar, and a dollop of vegan sour cream.",
+    "5. Sprinkle chopped cilantro and polish mustard on top.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "tacos",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-polish-fish-tacos--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:34:06.510Z"
+}
