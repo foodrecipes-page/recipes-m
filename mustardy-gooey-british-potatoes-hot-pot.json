@@ -1,0 +1,64 @@
+{
+  "slug": "mustardy-gooey-british-potatoes-hot-pot",
+  "title": "British Potatoes with Mustardy Gooey Sauce",
+  "description": "A delicious side dish combining boiled potatoes with a creamy, mustard-flavored sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4-5 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "goey",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "hot pot",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Boil the potatoes in a large pot of salted water for 15-20 minutes, or until tender.",
+    "2. Drain the potatoes and let them cool slightly.",
+    "3. In a medium saucepan, melt the gooey over low heat.",
+    "4. Add the mustardy to the saucepan and whisk until well combined.",
+    "5. Add the hot pot to the saucepan and stir for 1-2 minutes.",
+    "6. Add the boiled potatoes to the saucepan and toss to coat with the mustardy gooey sauce.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "sauce",
+    "potatoes",
+    "side-dish",
+    "british-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "3g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-gooey-british-potatoes-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:50:10.961Z"
+}
