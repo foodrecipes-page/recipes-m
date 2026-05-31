@@ -1,0 +1,82 @@
+{
+  "slug": "massive-slovakian-lemongrass-takrai-bowl",
+  "title": "Slovakian Takrai Soup with Lemongrass",
+  "description": "A hearty, comforting soup inspired by Slovakian cuisine, featuring the unique flavor of takrai and the brightness of lemongrass.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Takrai",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Massive potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Bowl of vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the Slovakian sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the takrai, lemongrass, potatoes, vegetable broth, salt, and black pepper.",
+    "Bring the soup to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the potatoes are tender.",
+    "Use an immersion blender to puree the soup to your desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "slovakian-cuisine",
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/massive-slovakian-lemongrass-takrai-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:15:26.813Z"
+}
