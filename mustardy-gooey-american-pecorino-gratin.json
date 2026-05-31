@@ -1,0 +1,72 @@
+{
+  "slug": "mustardy-gooey-american-pecorino-gratin",
+  "title": "Baked Pecorino Gratin",
+  "description": "A rich and creamy Italian-inspired side dish featuring a blend of pecorino cheese and gooey gratin.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 1/2 cups, shredded"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "American cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Mustardy cheese sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the pecorino cheese, gooey cheese, and American cheese.",
+    "In a separate saucepan, make a mustardy cheese sauce by melting the butter over low heat and whisking in the grated mustardy cheese.",
+    "Pour the cheese sauce over the cheese mixture and stir until well combined.",
+    "Spoon the mixture into a 9x13 inch baking dish and top with the shredded gratin.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the cheese is melted.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cheese",
+    "gratin",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-gooey-american-pecorino-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:06:30.992Z"
+}
