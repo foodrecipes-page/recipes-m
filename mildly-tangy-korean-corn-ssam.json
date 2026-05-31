@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-tangy-korean-corn-ssam",
+  "title": "Spicy Korean Corn Ssam",
+  "description": "A flavorful and spicy Korean-inspired dish featuring grilled corn, tangy kimchi, and a hint of sesame.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears"
+    },
+    {
+      "name": "mildly spicy Gochujang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tangy kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush corn with sesame oil and season with salt and black pepper.",
+    "Grill corn for 10-12 minutes, turning frequently.",
+    "In a small bowl, whisk together Gochujang sauce, soy sauce, and chopped kimchi.",
+    "Once corn is cooked, brush with Gochujang sauce mixture.",
+    "Sprinkle sesame seeds over corn and serve immediately.",
+    "Serve with additional kimchi on the side, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "corn",
+    "ssam",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-tangy-korean-corn-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:13:27.036Z"
+}
