@@ -1,0 +1,88 @@
+{
+  "slug": "molten-garlicky-crowd-pleaser-saudi-arabian-grape-tomatoes-biryani",
+  "title": "Saudi Arabian Biryani",
+  "description": "A flavorful and aromatic Saudi biryani dish made with saudi arabian spices, grape tomatoes, and crowd pleaser ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grape tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and sauté until it is translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the grape tomatoes and sauté until they start to soften.",
+    "Add the Basmati rice and stir-fry for 2 minutes.",
+    "Add 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "biryani",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-garlicky-crowd-pleaser-saudi-arabian-grape-tomatoes-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:44:30.019Z"
+}
