@@ -21042,5 +21042,18 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "m-crunchy-peanut-gimbap--chinese",
+    "title": "Peanut Gimbap Chinese Snack",
+    "tags": [
+      "chinese",
+      "snack",
+      "gimbap",
+      "peanut"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
   }
 ]
