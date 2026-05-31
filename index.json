@@ -10722,17 +10722,14 @@
   },
   {
     "slug": "mighty-tangy-venezuelan-beef-skillet",
-    "title": "Mighty Tangy Venezuelan Beef Skillet",
+    "title": "Venezuelan Skillet Beef",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "venezuelan-cuisine",
-      "weeknight"
+      " venezuelan",
+      "latin american",
+      "beef"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "latin american",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -12660,17 +12657,15 @@
   },
   {
     "slug": "mildly-pungent-chinese-monkfish-sweet-and-sour",
-    "title": "Mildly Pungent Chinese Monkfish Sweet And Sour",
+    "title": "Pan-Seared Monkfish with Sweet and Sour Glaze",
     "tags": [
-      "chinese-cuisine",
-      "one-pan",
-      "pescatarian",
-      "seafood",
-      "sweet-and-sour",
-      "weeknight"
+      "asian-fusion",
+      "fish-recipe",
+      "gluten-free-recipe",
+      "sweet-and-sour-glaze"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -14789,17 +14784,16 @@
   },
   {
     "slug": "mildly-tangy-korean-corn-ssam",
-    "title": "Mildly Tangy Korean Corn Ssam",
+    "title": "Spicy Korean Corn Ssam",
     "tags": [
-      "easy-to-make",
-      "healthy-snack",
-      "kid-friendly",
-      "korean-food",
-      "snack-time",
-      "vegan-friendly"
+      "korean",
+      "grilled",
+      "corn",
+      "ssam",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 17,
     "shard": "m"
   },
   {
@@ -21077,6 +21071,18 @@
       "gluten-free"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spiced-polish-fish-tacos--vegan",
+    "title": "Vegan Polish Tacos",
+    "tags": [
+      "polish",
+      "tacos",
+      "vegan"
+    ],
+    "cuisine": "Polish",
     "totalTimeMin": 25,
     "shard": "m"
   }
