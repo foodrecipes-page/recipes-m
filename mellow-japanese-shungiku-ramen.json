@@ -1,0 +1,79 @@
+{
+  "slug": "mellow-japanese-shungiku-ramen",
+  "title": "Shungiku Ramen",
+  "description": "A Japanese-inspired ramen dish featuring shungiku and mellow for a unique flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ramen Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Shungiku",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a pot to a boil.",
+    "Cook ramen noodles according to package instructions.",
+    "In a separate pan, cook bacon slices until crispy.",
+    "Add soy sauce, miso paste, and sugar to the pan with the bacon.",
+    "Stir in shungiku and cook until wilted.",
+    "Add cooked noodles to the pan and stir to combine.",
+    "Top with green onions and serve hot.",
+    "In a small bowl, mix mellow with 2 cups of hot broth from the ramen noodles.",
+    "Serve the mellow-broth mixture on top of the ramen."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanesecuisine",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-shungiku-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:00:48.763Z"
+}
