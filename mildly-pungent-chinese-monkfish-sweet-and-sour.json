@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-pungent-chinese-monkfish-sweet-and-sour",
+  "title": "Pan-Seared Monkfish with Sweet and Sour Glaze",
+  "description": "A sweet and sour glaze complements the delicate flavor of monkfish in this Asian-inspired dish.",
+  "cuisine": "asian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish fillets",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "mildly flavored oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "sour",
+      "amount": "2 tablespoons",
+      "notes": "sour plum sauce"
+    },
+    {
+      "name": "sweet",
+      "amount": "2 tablespoons",
+      "notes": "honey"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 teaspoon",
+      "notes": "ginger"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "five-spice powder"
+    },
+    {
+      "name": "and",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the monkfish fillets with salt.",
+    "3. In a small saucepan, heat the mildly flavored oil over medium heat.",
+    "4. Add the garlic and ginger to the oil and sauté for 1 minute.",
+    "5. Stir in the sour plum sauce and honey to create the sweet and sour glaze.",
+    "6. Pan-sear the monkfish fillets in the oil for 2-3 minutes on each side.",
+    "7. Transfer the monkfish to a baking dish and brush with the sweet and sour glaze.",
+    "8. Bake in the preheated oven for 8-10 minutes, or until cooked through.",
+    "9. Serve immediately, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "asian-fusion",
+    "fish-recipe",
+    "gluten-free-recipe",
+    "sweet-and-sour-glaze"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-pungent-chinese-monkfish-sweet-and-sour",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:48:53.675Z"
+}
