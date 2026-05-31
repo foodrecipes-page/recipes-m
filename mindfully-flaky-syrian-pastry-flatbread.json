@@ -1,0 +1,65 @@
+{
+  "slug": "mindfully-flaky-syrian-pastry-flatbread",
+  "title": "Syrian Pastry Stuffed Flatbread",
+  "description": "A delicious and easy-to-make flatbread stuffed with a mixture of mindfully prepared ingredients, perfect for a quick dinner or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian Pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Mindfully prepared mix of herbs (parsley, oregano, thyme)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Flaky pastry crumbs",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Feta cheese crumbles",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Lay out the flatbread pieces and evenly spread a tablespoon of the herb mix on each.",
+    "Sprinkle 1/2 tablespoon of flaky pastry crumbs on each piece of flatbread.",
+    "Top with a quarter cup of feta cheese crumbles.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Roll out the Syrian pastry and cut into 4-6 squares.",
+    "Place a piece of flatbread on each square and fold the pastry to seal the edges.",
+    "Bake for 15-20 minutes or until the pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "flatbread",
+    "pastry",
+    "middle eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindfully-flaky-syrian-pastry-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:42:29.177Z"
+}
