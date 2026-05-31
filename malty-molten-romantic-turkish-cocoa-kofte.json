@@ -1,0 +1,71 @@
+{
+  "slug": "malty-molten-romantic-turkish-cocoa-kofte",
+  "title": "Turkish Kofte with Chocolate Glaze",
+  "description": "A unique dessert featuring Turkish kofte filled with a malty, molten chocolate center, served with a rich cocoa glaze.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kofte",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "malty",
+      "amount": "1 cup",
+      "notes": "chocolate chips"
+    },
+    {
+      "name": "molten",
+      "amount": "1 cup",
+      "notes": "cocoa powder"
+    },
+    {
+      "name": "romantic",
+      "amount": "1/4 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 cup",
+      "notes": "ground hazelnuts"
+    },
+    {
+      "name": "cocoa",
+      "amount": "1 cup",
+      "notes": "unsweetened cocoa powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine malty, molten, romantic, and turkish ingredients. Mix well.",
+    "Wrap each kofte with a small amount of the mixture, forming a ball.",
+    "Place the kofte on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the kofte are cooked through.",
+    "In a separate bowl, whisk together cocoa and 1 tablespoon of water to form a glaze.",
+    "Drizzle the glaze over the kofte and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "turkish",
+    "kofte",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-molten-romantic-turkish-cocoa-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:38:44.596Z"
+}
