@@ -1,0 +1,76 @@
+{
+  "slug": "m-crunchy-peanut-gimbap--chinese",
+  "title": "Peanut Gimbap Chinese Snack",
+  "description": "A Chinese-inspired snack version of the Korean classic, Gimbap, with a crunchy peanut twist.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peanut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crunchy Vegetables (carrots, cucumbers, bell peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gimbap Rice Wraps",
+      "amount": "4-6"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "In a pan, heat the sesame oil and sauté the crunchy vegetables until tender.",
+    "In a small bowl, whisk together soy sauce, sugar, and salt. Brush the mixture on the gimbap wraps.",
+    "Lay a gimbap wrap flat and spread a thin layer of cooked rice onto it.",
+    "Add a few pieces of the sautéed vegetables and a sprinkle of peanut on top of the rice.",
+    "Add another layer of cooked rice on top of the filling.",
+    "Roll the gimbap into a tight cylinder and slice into individual pieces.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "gimbap",
+    "peanut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/m-crunchy-peanut-gimbap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:41.575Z"
+}
