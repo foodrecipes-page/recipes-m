@@ -1,0 +1,87 @@
+{
+  "slug": "magical-weeknight-spanish-fish-tacos",
+  "title": "Magical Tacos",
+  "description": "A flavorful and easy-to-make taco recipe with a magical twist. Perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Magical Taco Seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "8-10 shells",
+      "notes": "Corn or gluten-free"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Queso Fresco (or dairy-free alternative)",
+      "amount": "1/2 cup",
+      "notes": "Crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish on the baking sheet and season with the magical taco seasoning.",
+    "Bake the fish for 8-10 minutes, or until cooked through.",
+    "Warm the taco shells according to the package instructions.",
+    "In a separate pan, heat the lime juice over medium heat.",
+    "Add the diced tomatoes and chopped cilantro to the pan.",
+    "Simmer the mixture for 2-3 minutes, or until the flavors have melded together.",
+    "Assemble the tacos by placing a piece of the cooked fish onto a warmed shell.",
+    "Top with a spoonful of the tomato-cilantro mixture, some crumbled queso fresco, and sliced avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "spanish",
+    "fish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-weeknight-spanish-fish-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:59:24.210Z"
+}
