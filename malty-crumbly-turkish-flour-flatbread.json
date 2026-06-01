@@ -1,0 +1,67 @@
+{
+  "slug": "malty-crumbly-turkish-flour-flatbread",
+  "title": "Turkish Flatbread with Crumbly Crust",
+  "description": "A delicious and authentic Turkish flatbread with a crumbly crust.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malty flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Turkish flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 flatbreads"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Combine malty flour, Turkish flour, and salt in a bowl.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth.",
+    "Rest the dough for 30 minutes.",
+    "Divide the dough into 4-6 equal portions.",
+    "Roll out each portion into a thin circle.",
+    "Place the flatbread on a baking sheet and brush with water.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "bread",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": "4g",
+    "carbs": "40g",
+    "fat": "2g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crumbly-turkish-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:11:23.325Z"
+}
