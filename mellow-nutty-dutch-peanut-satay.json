@@ -1,0 +1,88 @@
+{
+  "slug": "mellow-nutty-dutch-peanut-satay",
+  "title": "Thai Peanut Noodle Stir Fry",
+  "description": "A quick and easy Thai-inspired stir fry made with peanut sauce, noodles, and vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dutch peanut sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mellow onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "satay broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutty almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "In a blender or food processor, combine peanut butter, peanut sauce, soy sauce, and honey.",
+    "Blend until smooth and creamy.",
+    "Heat 1 tsp of sesame oil in a large skillet over medium-high heat.",
+    "Add the mellow onion and cook until softened, about 3-4 minutes.",
+    "Add the satay broccoli and cook until tender, about 4-5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Pour in the peanut sauce mixture and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Add the cooked noodles to the skillet and stir to combine.",
+    "Top with nutty almonds and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "peanut",
+    "noodles",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-nutty-dutch-peanut-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:55:05.083Z"
+}
