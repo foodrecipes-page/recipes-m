@@ -6077,17 +6077,16 @@
   },
   {
     "slug": "mellow-nutty-dutch-peanut-satay",
-    "title": "Mellow Nutty Dutch Peanut Satay",
+    "title": "Thai Peanut Noodle Stir Fry",
     "tags": [
-      "dutch-cuisine",
-      "easy-to-make",
-      "homemade",
-      "nutty-snack",
-      "snack-time",
-      "vegan-friendly"
+      "thai",
+      "peanut",
+      "noodles",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 75,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -15648,15 +15647,13 @@
     "slug": "moist-argentinian-fish-stew",
     "title": "Moist Argentinian Fish Stew",
     "tags": [
-      "argentinian-cuisine",
-      "brandy-based",
-      "comfort-food",
-      "one-pot",
-      "pescatarian-friendly",
-      "seafood-stew"
+      "argentinian",
+      "fish",
+      "stew",
+      "gluten-free"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "argentinian",
+    "totalTimeMin": 27,
     "shard": "m"
   },
   {
@@ -16514,18 +16511,14 @@
   },
   {
     "slug": "molten-buttery-american-puff-pastry-pie",
-    "title": "Molten Buttery American Puff Pastry Pie",
+    "title": "Classic American Pie",
     "tags": [
-      "american-classics",
-      "comfort-food",
-      "one-pot",
-      "plant-based",
-      "puff-pastry",
-      "score-fat",
-      "vegan-friendly"
+      "american",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
@@ -21075,6 +21068,19 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mindfully-flaky-syrian-pastry-flatbread--thai",
+    "title": "Thai Flatbread with Syrian Pastry Filling",
+    "tags": [
+      "thai",
+      "dessert",
+      "flatbread",
+      "syrian-pastry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "m"
   }
 ]
