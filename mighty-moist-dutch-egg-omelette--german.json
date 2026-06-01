@@ -1,0 +1,72 @@
+{
+  "slug": "mighty-moist-dutch-egg-omelette--german",
+  "title": "German Egg Omelette",
+  "description": "A classic German egg omelette recipe, perfect for a quick breakfast or brunch.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "2 tablespoons",
+      "notes": "shredded"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork. Add the milk and whisk until smooth.",
+    "Heat the butter in a small non-stick pan over medium heat.",
+    "Pour the egg mixture into the pan and let it cook for about 2-3 minutes, until the edges start to set.",
+    "Sprinkle the shredded cheese over half of the omelette.",
+    "Use a spatula to gently fold the other half of the omelette over the cheese.",
+    "Cook for another minute, until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette out of the pan onto a plate and season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: add some chopped fresh herbs like parsley or chives on top of the omelette for extra flavor and color."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "egg-omelette",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-moist-dutch-egg-omelette--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:53:00.722Z"
+}
