@@ -4690,14 +4690,16 @@
   },
   {
     "slug": "medjool-medley",
-    "title": "Medjool Medley",
+    "title": "Grilled Medjool Dates with Citrus and Almonds",
     "tags": [
-      "medjool",
       "dates",
-      "air-fry"
+      "almonds",
+      "citrus",
+      "dessert",
+      "grilled"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -15766,17 +15768,15 @@
   },
   {
     "slug": "moist-coconut-crack-slovakian-mincemeat-tart",
-    "title": "Moist Coconut Crack Slovakian Mincemeat Tart",
+    "title": "Slovakian Mincemeat Tart",
     "tags": [
-      "brunch",
-      "dessert",
-      "one-pan",
       "slovakian",
-      "vegetarian",
-      "weeknight"
+      "mincemeat",
+      "tart",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -21072,6 +21072,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 170,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-molten-portuguese-fideo-wrap--italian",
+    "title": "Midnight Italian Fideo Wrap",
+    "tags": [
+      "italian",
+      "late-night-eats",
+      "fideo-sauce",
+      "wrap"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
