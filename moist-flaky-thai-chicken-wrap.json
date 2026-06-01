@@ -1,0 +1,88 @@
+{
+  "slug": "moist-flaky-thai-chicken-wrap",
+  "title": "Thai Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with juicy chicken and crunchy vegetables. Perfect for a quick lunch or dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "moist and flaky wrap",
+      "amount": "1 large wrap",
+      "notes": "any Thai wrap will do"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the wrap"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the chicken with coconut oil and season with salt and pepper.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, brush the wrap with coconut oil and grill for 1-2 minutes, or until lightly toasted.",
+    "In a small bowl, mix together the green chilies, red onion, cilantro, fish sauce, lime juice, and honey.",
+    "Once the chicken is cooked, slice it thinly and add it to the wrap.",
+    "Top the chicken with the chili and onion mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "wrap",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-flaky-thai-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:04:55.391Z"
+}
