@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-mustardy-american-narutomaki-noodles",
+  "title": "Narutomaki Noodle Soup",
+  "description": "A Japanese-inspired noodle soup with a mildly spicy kick.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "Japanese-style noodles"
+    },
+    {
+      "name": "narutomaki",
+      "amount": "8 slices",
+      "notes": "Japanese fish cake"
+    },
+    {
+      "name": "mildly spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "Sambal oelek or sriracha"
+    },
+    {
+      "name": "mustardy dressing",
+      "amount": "2 tbsp",
+      "notes": "Japanese mustard dressing"
+    },
+    {
+      "name": "american cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional, for added richness"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced, for garnish"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "In a large pot, combine mildly spicy sauce, mustardy dressing, and soy sauce.",
+    "Bring the sauce to a simmer over medium heat.",
+    "Add narutomaki slices to the sauce and cook for 2-3 minutes, or until heated through.",
+    "Add cooked noodles to the sauce and toss to combine.",
+    "Add sliced scallions and green onions on top.",
+    "Optional: Sprinkle american cheese on top for added richness.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-soup",
+    "japanese-cuisine",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-mustardy-american-narutomaki-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:23:24.570Z"
+}
