@@ -1,0 +1,85 @@
+{
+  "slug": "mildly-sweet-malaysian-fish-satay",
+  "title": "Satay Glazed Fish",
+  "description": "A Malaysian-inspired dish featuring fish glazed with a sweet and spicy satay sauce. Perfect for a quick weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4 servings)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mildly sweet chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C/400°F.",
+    "Season fish fillets with salt and Malaysian curry powder.",
+    "Heat coconut oil in a pan over medium heat. Add fish fillets and cook for 2-3 minutes on each side.",
+    "Transfer fish to a baking sheet and bake for 8-10 minutes, or until cooked through.",
+    "While fish is baking, heat satay sauce in a saucepan over low heat.",
+    "Add mildly sweet chili flakes to the saucepan and stir to combine.",
+    "Brush the satay sauce mixture over the baked fish fillets.",
+    "Return fish to the oven for an additional 2-3 minutes, or until the glaze is caramelized.",
+    "Garnish with fresh coriander leaves and serve with a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "malaysian",
+    "satay",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-malaysian-fish-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:21:46.881Z"
+}
