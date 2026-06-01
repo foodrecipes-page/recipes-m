@@ -1,0 +1,85 @@
+{
+  "slug": "moist-coconut-crack-slovakian-mincemeat-tart",
+  "title": "Slovakian Mincemeat Tart",
+  "description": "A traditional Slovakian dessert featuring a flaky crust filled with sweet and tangy mincemeat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Gluten-free option: substitute with almond flour"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mincemeat",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Tart coconut flakes",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Moist brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crack of salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, cold butter, and salt. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "In a separate bowl, mix together mincemeat, granulated sugar, egg, tart coconut flakes, and moist brown sugar.",
+    "Pour the mincemeat mixture into the tart shell.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Let cool on a wire rack for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "mincemeat",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-coconut-crack-slovakian-mincemeat-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:46:51.871Z"
+}
