@@ -1,0 +1,78 @@
+{
+  "slug": "midnight-craving-molten-portuguese-fideo-wrap--italian",
+  "title": "Midnight Italian Fideo Wrap",
+  "description": "A late-night twist on a classic Italian wrap, featuring a rich fideo sauce and savory meat.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fideo",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1/2 lb",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Molten Chocolate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Midnight Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large tortilla"
+    }
+  ],
+  "instructions": [
+    "Heat the midnight olive oil in a large skillet over medium-high heat.",
+    "Add the Portuguese sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the fideo to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add the molten chocolate to the skillet and stir to combine.",
+    "Season the mixture with salt to taste.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Spoon the fideo mixture onto the center of the wrap and fold the bottom half up over the filling.",
+    "Fold the sides of the wrap in towards the center and roll the wrap up tightly.",
+    "Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "late-night-eats",
+    "fideo-sauce",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-molten-portuguese-fideo-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:57:09.911Z"
+}
