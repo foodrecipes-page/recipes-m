@@ -1,0 +1,69 @@
+{
+  "slug": "medjool-medley",
+  "title": "Grilled Medjool Dates with Citrus and Almonds",
+  "description": "A sweet and tangy dessert made with caramelized medjool dates, citrus zest, and crunchy almonds.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "Oranges",
+      "amount": "2",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "Cut the dates in half lengthwise and remove the pits.",
+    "Grill the dates for 2-3 minutes on each side, or until caramelized.",
+    "Zest the oranges and juice them.",
+    "In a small bowl, whisk together the honey, orange juice, and lemon juice.",
+    "Brush the mixture onto the grilled dates.",
+    "Sprinkle the sliced almonds over the dates.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dates",
+    "almonds",
+    "citrus",
+    "dessert",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 46,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/medjool-medley",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:59:35.475Z"
+}
