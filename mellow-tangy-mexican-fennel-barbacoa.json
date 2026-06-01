@@ -1,0 +1,86 @@
+{
+  "slug": "mellow-tangy-mexican-fennel-barbacoa",
+  "title": "Barbacoa Beef Tacos",
+  "description": "A flavorful and tender beef barbacoa recipe, served in a crunchy taco shell with fresh cilantro and a squeeze of lime. This recipe is perfect for a weeknight dinner or a party with friends.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "bulb and fronds"
+    },
+    {
+      "name": "tangy BBQ sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mellow cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "barbacoa seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, combine beef chunks, fennel bulb, onion, and barbacoa seasoning.",
+    "Pour in tangy BBQ sauce and cumin. Mix well to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the beef for 2 1/2 hours, or until it is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the beef with two forks and stir in some of the juices.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning beef onto a tortilla, topping with cheese, and serving with a lime wedge and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "mexican",
+    "barbacoa",
+    "beef",
+    "tacos",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-tangy-mexican-fennel-barbacoa",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:32:01.516Z"
+}
