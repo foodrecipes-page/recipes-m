@@ -1,0 +1,82 @@
+{
+  "slug": "mulukhiyah-tacos",
+  "title": "Egyptian-Style Stuffed Tacos with Mulukhiyah",
+  "description": "Mulukhiyah, a popular Egyptian leafy green, is paired with tacos for a unique twist on traditional tacos. Simply sauté the mulukhiyah with garlic and spices, then stuff it inside tacos with your favorite toppings.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Ground beef or ground turkey",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the ground beef or turkey and cook until browned, breaking it up with a spoon as it cooks.",
+    "3. Add the onion, garlic, cumin, paprika, salt, and black pepper to the skillet and cook until the onion is translucent.",
+    "4. Stir in the chopped mulukhiyah and cook until wilted.",
+    "5. Warm the tacos shells according to the package instructions.",
+    "6. Spoon the mulukhiyah and beef mixture into the tacos shells.",
+    "7. Top with tzatziki sauce, diced tomatoes, shredded lettuce, and any other desired toppings.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "tacos",
+    "mulukhiyah"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mulukhiyah-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:59:11.176Z"
+}
