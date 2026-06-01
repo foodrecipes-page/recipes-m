@@ -801,17 +801,15 @@
   },
   {
     "slug": "magical-weeknight-spanish-fish-tacos",
-    "title": "Magical Weeknight Spanish Fish Tacos",
+    "title": "Magical Tacos",
     "tags": [
-      "fish-tacos",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spanish-cuisine",
+      "tacos",
+      "spanish",
+      "fish",
       "weeknight"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 27,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -12424,17 +12422,15 @@
   },
   {
     "slug": "mildly-mustardy-american-narutomaki-noodles",
-    "title": "Mildly Mustardy American Narutomaki Noodles",
+    "title": "Narutomaki Noodle Soup",
     "tags": [
-      "american",
-      "kid-friendly",
-      "mild-mustard",
-      "no-onion-no-garlic",
-      "one-pan",
-      "weeknight"
+      "noodle-soup",
+      "japanese-cuisine",
+      "vegetarian",
+      "spicy"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 25,
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -21081,6 +21077,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-moist-dutch-egg-omelette--german",
+    "title": "German Egg Omelette",
+    "tags": [
+      "german",
+      "breakfast",
+      "egg-omelette",
+      "easy-recipe"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 13,
     "shard": "m"
   }
 ]
