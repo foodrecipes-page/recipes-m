@@ -1,0 +1,80 @@
+{
+  "slug": "mildly-sour-japanese-pork-gyoza",
+  "title": "Pan-Seared Pork Gyoza",
+  "description": "A Japanese-inspired dish featuring pan-seared pork gyoza with a tangy dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Gyoza Wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 tablespoon",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tablespoon",
+      "notes": "for dipping sauce"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "2. Add the ground pork and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "3. Add the soy sauce, sour cream, and grated ginger to the pork and stir to combine.",
+    "4. Lay a gyoza wrapper on a flat surface and place a tablespoon of the pork mixture in the center.",
+    "5. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "6. Fold the wrapper into a half-moon shape and press the edges together to seal the gyoza.",
+    "7. Repeat with the remaining wrappers and pork mixture.",
+    "8. When the oil is hot, add a few of the gyoza to the pan and cook until they are golden brown on the bottom, about 2-3 minutes.",
+    "9. Flip the gyoza over and cook until they are crispy on the bottom, about 2-3 minutes more.",
+    "10. Serve the gyoza hot with a dipping sauce made from the soy sauce, sour cream, and grated ginger."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "gyoza",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-japanese-pork-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:32:00.377Z"
+}
