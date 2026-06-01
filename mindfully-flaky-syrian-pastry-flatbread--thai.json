@@ -1,0 +1,74 @@
+{
+  "slug": "mindfully-flaky-syrian-pastry-flatbread--thai",
+  "title": "Thai Flatbread with Syrian Pastry Filling",
+  "description": "A unique twist on traditional flatbreads, filled with a sweet and savory Syrian pastry filling. Perfect for a Thai-inspired dessert or snack.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Syrian Pastry Filling",
+      "amount": "1 cup",
+      "notes": "See notes for filling ingredients"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut flatbread into squares or triangles.",
+    "Spread a small amount of butter on each piece of flatbread.",
+    "Top with a spoonful of Syrian pastry filling.",
+    "Dust with confectioners' sugar.",
+    "Garnish with chopped pistachios, if desired.",
+    "Serve warm, straight from the oven.",
+    "Store leftovers in an airtight container."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dessert",
+    "flatbread",
+    "syrian-pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindfully-flaky-syrian-pastry-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:12:27.559Z"
+}
