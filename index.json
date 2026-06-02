@@ -2995,16 +2995,14 @@
   },
   {
     "slug": "malty-light-polish-dish",
-    "title": "Słodka Monsoon",
+    "title": "Polish Malt Soup",
     "tags": [
-      "kid-friendly",
-      "light",
-      "low-glycemic",
-      "refreshing",
-      "summer"
+      "soup",
+      "polish",
+      "comfortfood"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -8642,18 +8640,14 @@
   },
   {
     "slug": "midnight-bistro",
-    "title": "Midnight Bistro",
+    "title": "Bistro-Style Midnight Burger",
     "tags": [
-      "midnight-bistro",
-      "earthly",
-      "crunchy",
-      "japanese",
-      "hispi-sweetheart-cabbage",
-      "tandoor",
-      "kosher-friendly"
+      "burger",
+      "midnight",
+      "bistro"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -21087,6 +21081,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 13,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-crunchy-japanese-nectarines-salad--gluten-free",
+    "title": "Nectarine Salad with Crunchy Topping",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "salad",
+      "summer"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 10,
     "shard": "m"
   }
 ]
