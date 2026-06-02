@@ -1,0 +1,82 @@
+{
+  "slug": "mellow-braised-turkish-lamb-stew",
+  "title": "Braised Lamb Stew",
+  "description": "A hearty stew made with tender lamb and rich flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Mellow peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Braised tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Stew meat broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Turkish paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Season lamb shoulder with salt and black pepper.",
+    "Sear lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add onion and garlic to pot; cook until softened, about 5 minutes.",
+    "Add mellow peppers and cook for an additional 2 minutes.",
+    "Add braised tomatoes, stew meat broth, and Turkish paprika to pot.",
+    "Return lamb to pot and bring to a boil.",
+    "Cover pot and transfer to preheated oven.",
+    "Braise lamb in the oven at 300°F (150°C) for 2.5 hours, or until tender.",
+    "Serve lamb with stew and crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "turkish",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-braised-turkish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:08:13.927Z"
+}
