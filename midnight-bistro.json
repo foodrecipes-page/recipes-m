@@ -1,0 +1,92 @@
+{
+  "slug": "midnight-bistro",
+  "title": "Bistro-Style Midnight Burger",
+  "description": "A classic burger with midnight sauce and topped with crispy onions. This burger is perfect for any meal.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Midnight Burger Patties",
+      "amount": "4",
+      "notes": "homemade beef patties"
+    },
+    {
+      "name": "Midnight Sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Brioche Buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 slices",
+      "notes": "fresh"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat.",
+    "Season the burger patties with salt and pepper.",
+    "Grill the burger patties for 4-5 minutes per side, or until cooked to your liking.",
+    "Meanwhile, toast the brioche buns on the grill.",
+    "Assemble the burgers with midnight sauce, cheddar cheese, crispy onions, lettuce, tomato, and pickles.",
+    "Top with mayonnaise and ketchup, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "midnight",
+    "bistro"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-bistro",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:48:13.523Z"
+}
