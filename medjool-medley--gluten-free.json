@@ -1,0 +1,78 @@
+{
+  "slug": "medjool-medley--gluten-free",
+  "title": "Grilled Pineapple and Coconut Cream Medley",
+  "description": "A refreshing dessert that combines the sweetness of grilled pineapple with the creaminess of coconut cream.",
+  "cuisine": "Hawaiian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Medley of tropical fruits (such as mango, kiwi, and pineapple)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Medjool dates",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "a few sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the pineapple into wedges and brush with a little oil.",
+    "3. Grill the pineapple for 2-3 minutes per side, or until caramelized.",
+    "4. In a blender or food processor, combine coconut cream, medley of tropical fruits, medjool dates, fresh mint leaves, granulated sugar, and lime juice. Blend until smooth.",
+    "5. Spoon the coconut cream mixture into glasses or bowls.",
+    "6. Top with grilled pineapple wedges and sprinkle with shredded coconut.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hawaiian",
+    "dessert",
+    "gluten-free",
+    "pineapple",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/medjool-medley--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:34:39.838Z"
+}
