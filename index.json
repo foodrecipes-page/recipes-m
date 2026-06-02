@@ -4857,16 +4857,15 @@
   },
   {
     "slug": "mellow-braised-turkish-lamb-stew",
-    "title": "Mellow Braised Turkish Lamb Stew",
+    "title": "Braised Lamb Stew",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "one-pot-meals",
-      "turkish-cuisine",
-      "weeknight-dinners"
+      "lamb",
+      "stew",
+      "turkish",
+      "braised"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 170,
+    "totalTimeMin": 180,
     "shard": "m"
   },
   {
@@ -21094,6 +21093,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "medjool-medley--gluten-free",
+    "title": "Grilled Pineapple and Coconut Cream Medley",
+    "tags": [
+      "hawaiian",
+      "dessert",
+      "gluten-free",
+      "pineapple",
+      "coconut"
+    ],
+    "cuisine": "Hawaiian",
+    "totalTimeMin": 20,
     "shard": "m"
   }
 ]
