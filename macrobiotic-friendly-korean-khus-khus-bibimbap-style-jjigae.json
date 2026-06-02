@@ -1,0 +1,93 @@
+{
+  "slug": "macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae",
+  "title": "Korean Style Bibimbap Jjigae",
+  "description": "A Korean-inspired macrobiotic jjigae dish made with a variety of vegetables and served over a bed of rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced mushrooms, zucchini, and carrots, and cook until the vegetables are tender, about 5-6 minutes.",
+    "Add the gochujang and rice vinegar, and stir to combine.",
+    "Add the sesame oil and stir-fry for another minute.",
+    "Transfer the mixture to a serving dish and garnish with toasted sesame seeds and chopped green onions.",
+    "Serve over a bed of rice and enjoy!",
+    "Optional: Add some kimchi or other spicy condiments to taste.",
+    "Optional: Serve with a side of kimchi fried rice or noodles.",
+    "Optional: Add some cubed tofu or tempeh for added protein.",
+    "Optional: Use different types of vegetables or add some meat for a variation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bibimbap",
+    "jjigae",
+    "macrobiotic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:55:21.509Z"
+}
