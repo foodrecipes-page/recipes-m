@@ -1,0 +1,108 @@
+{
+  "slug": "mildly-charred-turkish-fish-manti",
+  "title": "Turkish-Style Manti with Charred Fish",
+  "description": "A unique fusion of flavors, combining the spices of Turkish manti with the smokiness of charred fish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain yogurt"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "lean ground beef"
+    },
+    {
+      "name": "Turkish Pepper",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Manti Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Charred Fish",
+      "amount": "1 lb",
+      "notes": "any firm white fish, charred"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "In a large mixing bowl, combine flour, water, and a pinch of salt. Knead the dough for 5 minutes.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the beef mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, pressing the edges together to seal.",
+    "Place the manti on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Brush the tops with olive oil and bake for 15-20 minutes, or until golden brown.",
+    "While the manti is baking, prepare the charred fish by chopping it into small pieces.",
+    "Heat a skillet over medium heat and add the fish, cooking for 2-3 minutes on each side, or until heated through.",
+    "To serve, place a few manti on a plate, top with a piece of charred fish, and sprinkle with Turkish pepper and a dollop of yogurt."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "fish",
+    "charred",
+    "manti",
+    "beef",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-charred-turkish-fish-manti",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:27:01.011Z"
+}
