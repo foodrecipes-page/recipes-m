@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-smoky-moroccan-vegetable-tagine",
+  "title": "Smoky Moroccan Vegetable Tagine",
+  "description": "A hearty, flavorful dish from Morocco, perfect for a chilly evening. This tagine is made with tender vegetables and aromatic spices, all slow-cooked to perfection.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "smoky moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots, zucchini, and red bell pepper, and cook until tender, about 10 minutes.",
+    "Add the chicken broth, smoky moroccan spice blend, and diced tomatoes.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "tagine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-moroccan-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:13:52.631Z"
+}
