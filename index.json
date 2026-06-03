@@ -7537,13 +7537,15 @@
   },
   {
     "slug": "melted-german-bread-roast",
-    "title": "Melted German Bread Roast",
+    "title": "German Roast Beef Sandwiches",
     "tags": [
       "german",
-      "dinner"
+      "roast-beef",
+      "sandwich",
+      "lunch"
     ],
     "cuisine": "German",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -16288,17 +16290,16 @@
   },
   {
     "slug": "moistly-grilled-venezuelan-chicken-drumsticks-kebabs",
-    "title": "Moistly Grilled Venezuelan Chicken Drumsticks Kebabs",
+    "title": "Venezuelan Chicken Kebabs",
     "tags": [
+      "venezuelan",
+      "chicken",
       "grilled",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "summer",
-      "weeknight"
+      "kebabs",
+      "latinamerican"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21100,6 +21101,19 @@
     ],
     "cuisine": "Hawaiian",
     "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-japanese-shungiku-ramen--gluten-free",
+    "title": "Japanese Shungiku Ramen Soup",
+    "tags": [
+      "gluten-free",
+      "japanese",
+      "vegetarian",
+      "soup"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
