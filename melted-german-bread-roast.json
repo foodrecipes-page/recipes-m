@@ -1,0 +1,68 @@
+{
+  "slug": "melted-german-bread-roast",
+  "title": "German Roast Beef Sandwiches",
+  "description": "A classic German-inspired sandwich featuring tender roast beef, melted cheese, and crispy bread.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast beef",
+      "amount": "1 pound, thinly sliced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "Challah or rustic bread work well"
+    },
+    {
+      "name": "Melted cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Cheddar or Swiss cheese pair well with roast beef"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Slice the roast beef into thin strips and season with salt and pepper.",
+    "3. Butter the bread slices on the outside.",
+    "4. Place the beef on one slice of bread, top with cheese, and place the second slice of bread on top.",
+    "5. Place the sandwiches on a baking sheet and bake for 10-12 minutes, or until the bread is toasted and the cheese is melted.",
+    "6. Remove from the oven and garnish with chopped parsley.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "roast-beef",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-bread-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:49:55.463Z"
+}
