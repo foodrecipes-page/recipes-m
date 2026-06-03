@@ -1,0 +1,86 @@
+{
+  "slug": "mellow-bitter-portuguese-cheese-lasagna",
+  "title": "Bitter Lasagna with Portuguese Cheese",
+  "description": "A unique twist on the classic Italian dish, featuring bitter greens and Portuguese cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Mellow greens (such as chard or beet greens)",
+      "amount": "1 bunch",
+      "notes": "cleaned and chopped"
+    },
+    {
+      "name": "Portuguese cheese (such as Queijo de Cabra)",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Bitter greens (such as kale or collard greens)",
+      "amount": "1 bunch",
+      "notes": "cleaned and chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for baking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chopped mellow greens and bitter greens, and cook until wilted.",
+    "In a large bowl, combine the cooked noodles, wilted greens, and shredded cheese.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with additional cheese.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "portuguese-cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-bitter-portuguese-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:38:57.615Z"
+}
