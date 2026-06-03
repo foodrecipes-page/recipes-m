@@ -1,0 +1,90 @@
+{
+  "slug": "mellow-japanese-shungiku-ramen--gluten-free",
+  "title": "Japanese Shungiku Ramen Soup",
+  "description": "A savory and refreshing ramen soup made with Japanese greens and gluten-free noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Japanese ramen noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Shungiku (Japanese chrysanthemum greens)",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine sliced ginger and minced garlic. Cook over medium heat for 2 minutes.",
+    "2. Add sliced mushrooms and cook until they release their liquid and start to brown.",
+    "3. Add chopped shungiku greens and cook until they wilt.",
+    "4. Add soy sauce, rice vinegar, and water to the pot. Bring to a boil.",
+    "5. Reduce heat to low and simmer for 5 minutes.",
+    "6. Cook gluten-free ramen noodles according to package instructions.",
+    "7. Serve noodles in bowls and ladle the hot broth over the top.",
+    "8. Season with salt to taste.",
+    "9. Garnish with additional shungiku greens if desired.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "vegetarian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-shungiku-ramen--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:25:37.626Z"
+}
