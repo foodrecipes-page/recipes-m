@@ -1,0 +1,75 @@
+{
+  "slug": "mellow-australian-christmas-pudding-bake",
+  "title": "Australian Christmas Pudding",
+  "description": "A traditional Australian Christmas dessert, rich in flavors and textures. Perfect for the holiday season.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mellow Australian Christmas Pudding",
+      "amount": "1 (250g) package"
+    },
+    {
+      "name": "Bake",
+      "amount": "250g",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Butter",
+      "amount": "100g",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1 tsp",
+      "notes": "extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cut the Christmas pudding into cubes.",
+    "In a bowl, mix together the flour, sugar, and butter until well combined.",
+    "Beat in the eggs and vanilla extract.",
+    "Add the cubed Christmas pudding and mix until just combined.",
+    "Spoon the mixture into a greased 20cm (8-inch) round cake pan.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, topped with your choice of whipped cream or vanilla ice cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "christmas",
+    "pudding",
+    "bake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-australian-christmas-pudding-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:33:55.517Z"
+}
