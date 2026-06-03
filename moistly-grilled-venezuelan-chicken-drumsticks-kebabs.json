@@ -1,0 +1,96 @@
+{
+  "slug": "moistly-grilled-venezuelan-chicken-drumsticks-kebabs",
+  "title": "Venezuelan Chicken Kebabs",
+  "description": "A delicious and flavorful dish from Venezuela, featuring marinated chicken kebabs grilled to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together grill seasoning, olive oil, garlic, onion, bell pepper, tomato, cumin, paprika, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the chicken is cooked through and the vegetables are tender.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "chicken",
+    "grilled",
+    "kebabs",
+    "latinamerican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moistly-grilled-venezuelan-chicken-drumsticks-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:10:14.893Z"
+}
