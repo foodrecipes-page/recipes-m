@@ -1,0 +1,56 @@
+{
+  "slug": "mature-briny-spanish-cheddar-wrap--keto",
+  "title": "Keto Spanish Torta",
+  "description": "A low-carb twist on the classic Spanish torta, made with mature cheddar cheese and wrapped in a low-carb tortilla wrap.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Tortilla Wrap (low-carb)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Briny Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Place a tortilla wrap in the press and top with 2 slices of mature cheddar cheese.",
+    "Add a few sliced briny olives on top of the cheese.",
+    "Place the other tortilla wrap on top of the filling and press or grill for 2-3 minutes or until the cheese is melted and the wrap is crispy.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "spanish",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-briny-spanish-cheddar-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:19:25.265Z"
+}
