@@ -6207,16 +6207,15 @@
   },
   {
     "slug": "mellow-roasted-mediterranean-pepper-casserole",
-    "title": "Mellow Roasted Mediterranean Pepper Casserole",
+    "title": "Roasted Mediterranean Vegetable Casserole",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "mediterranean-inspired",
-      "one-pan",
-      "weeknight"
+      "mediterranean",
+      "vegetarian",
+      "gluten-free",
+      "casserole"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -12478,16 +12477,14 @@
   },
   {
     "slug": "mildly-peppery-argentinian-chicken-stew",
-    "title": "Mildly Peppery Argentinian Chicken Stew",
+    "title": "Argentinian Chicken Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "argentinian",
+      "chicken",
+      "stew"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -16471,17 +16468,14 @@
   },
   {
     "slug": "molten-briny-dutch-mushrooms-bowl",
-    "title": "Molten Briny Dutch Mushrooms Bowl",
+    "title": "Creamy Mushroom and Mushroom Bowl",
     "tags": [
-      "briny",
-      "dutch-mushrooms",
-      "emulsified",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "mushrooms",
+      "easy-recipe",
+      "lunch-ideas"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21120,6 +21114,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mature-briny-spanish-cheddar-wrap--keto",
+    "title": "Keto Spanish Torta",
+    "tags": [
+      "keto",
+      "low-carb",
+      "spanish",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 8,
     "shard": "m"
   }
 ]
