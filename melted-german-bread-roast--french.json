@@ -1,0 +1,81 @@
+{
+  "slug": "melted-german-bread-roast--french",
+  "title": "French Toast with Roast Beef",
+  "description": "A French-inspired breakfast dish featuring toasted bread topped with melted cheese and roast beef.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Roast Beef",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Melted Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs, milk, salt, and pepper.",
+    "Heat a non-stick skillet over medium heat.",
+    "Dip each bread slice into the egg mixture, coating both sides.",
+    "Place the bread slices in the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Meanwhile, slice the roast beef into thin strips.",
+    "To assemble, place a bread slice on a plate, top with roast beef, melted cheese, and another bread slice.",
+    "Repeat the process for the remaining bread slices and filling ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-bread-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:14:35.877Z"
+}
