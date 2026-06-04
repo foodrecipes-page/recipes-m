@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-spicy-thai-noodle-dish",
+  "title": "Spicy Thai Noodle Dish",
+  "description": "A quick and flavorful noodle dish made with a spicy and sour Thai-inspired sauce. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sliced Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Fresh Chili Peppers",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until tender.",
+    "Add the Thai red curry paste and cook for 1-2 minutes.",
+    "Add the fish sauce, soy sauce, and 1 cup of water to the skillet.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Serve hot, garnished with sliced fresh cilantro and chili peppers if desired.",
+    "Note: If using chili peppers, adjust the level of heat to your liking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodle",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-thai-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:13:57.119Z"
+}
