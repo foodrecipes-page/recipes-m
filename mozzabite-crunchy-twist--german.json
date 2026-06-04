@@ -1,0 +1,56 @@
+{
+  "slug": "mozzabite-crunchy-twist--german",
+  "title": "Twist Cruncher Schnitzel",
+  "description": "A twist on the classic German schnitzel, this dish features crunchy breadcrumbs and a tangy twist.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzabite",
+      "amount": "4 slices"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "twist",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Season the mozzabite slices with salt and pepper.",
+    "3. In a shallow dish, mix together the crunchy breadcrumbs and twist.",
+    "4. Dip each mozzabite slice into the breadcrumb mixture, coating both sides evenly.",
+    "5. Heat a large skillet over medium-high heat and add a small amount of oil.",
+    "6. Fry the coated mozzabite slices for 2-3 minutes on each side, until golden brown.",
+    "7. Transfer the fried schnitzel to a baking sheet and bake in the preheated oven for 10-12 minutes, until cooked through.",
+    "8. Serve hot and enjoy!",
+    "9. Garnish with additional twist, if desired.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "twist"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mozzabite-crunchy-twist--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:22:27.611Z"
+}
