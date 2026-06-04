@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-peppery-norwegian-seed-tagine",
+  "title": "Spicy Norwegian Seed Tagine",
+  "description": "A flavorful and aromatic stew originating from North Africa, infused with the bold flavors of Norwegian seed and mildly peppery spices.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mildly peppery sausage",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "norwegian seed",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add sausage and cook until browned, about 5 minutes.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add chicken broth, tomatoes, and Norwegian seed.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve over couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-norwegian-seed-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:23:18.035Z"
+}
