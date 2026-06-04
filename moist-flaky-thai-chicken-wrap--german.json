@@ -1,0 +1,74 @@
+{
+  "slug": "moist-flaky-thai-chicken-wrap--german",
+  "title": "Thai Chicken Wrap",
+  "description": "A fusion of German and Thai flavors in a crispy wrap. This dish features juicy chicken, crunchy vegetables, and a tangy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "moist flour tortilla",
+      "amount": "1-2",
+      "notes": "depending on serving size"
+    },
+    {
+      "name": "veggie wrap filling",
+      "amount": "1 cup",
+      "notes": "shredded carrots, shredded lettuce"
+    },
+    {
+      "name": "thai red sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together Thai red sauce and 2 tablespoons of water. Set aside.",
+    "Season the chicken breast with salt and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken is cooking, toast the tortillas by grilling them for 30 seconds on each side.",
+    "Once the chicken is done, let it rest for 2-3 minutes.",
+    "Slice the chicken into thin strips.",
+    "Assemble the wraps by spreading the Thai red sauce on the tortillas, followed by the chicken, veggies, and crispy bacon (if using).",
+    "Top with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "thai",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-flaky-thai-chicken-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:41:31.425Z"
+}
