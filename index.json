@@ -21169,5 +21169,56 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "m"
+  },
+  {
+    "slug": "mushy-norwegian-tofu-bowl--italian",
+    "title": "Tofu Italian Bowl",
+    "tags": [
+      "italian",
+      "vegan",
+      "lunch",
+      "tofu",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-mustardy-american-narutomaki-noodles--italian",
+    "title": "Spicy Italian Narutomaki Noodle Soup",
+    "tags": [
+      "italian",
+      "pasta",
+      "soup",
+      "noodles",
+      "narutomaki"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-german-bread-roast--french",
+    "title": "French Toast with Roast Beef",
+    "tags": [
+      "french",
+      "breakfast"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-braised-turkish-lamb-stew--french",
+    "title": "Braised Lamb in Red Wine",
+    "tags": [
+      "french",
+      "lamb",
+      "red-wine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "m"
   }
 ]
