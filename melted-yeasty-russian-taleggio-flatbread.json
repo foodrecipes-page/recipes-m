@@ -1,0 +1,67 @@
+{
+  "slug": "melted-yeasty-russian-taleggio-flatbread",
+  "title": "Taleggio Flatbread with Russian Twist",
+  "description": "A delicious flatbread topped with melted Taleggio cheese, a hint of yeasty flavor, and a Russian twist. Serve as a snack or light dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Yeasty spread",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place flatbread on a baking sheet.",
+    "Spread 1-2 tablespoons of yeasty spread on each piece of flatbread.",
+    "Top with sliced Taleggio cheese.",
+    "Bake in the oven for 8-10 minutes or until cheese is melted and bubbly.",
+    "Garnish with chopped parsley and a sprinkle of garlic.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "cheese",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-yeasty-russian-taleggio-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:49:41.291Z"
+}
