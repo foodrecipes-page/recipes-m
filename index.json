@@ -8188,17 +8188,15 @@
   },
   {
     "slug": "melted-yeasty-russian-taleggio-flatbread",
-    "title": "Melted Yeasty Russian Taleggio Flatbread",
+    "title": "Taleggio Flatbread with Russian Twist",
     "tags": [
-      "cheesy",
-      "crowd-pleaser",
-      "flatbread",
-      "quick-snack",
-      "russian",
-      "yeasty"
+      "italian",
+      "cheese",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "m"
   },
   {
@@ -9677,16 +9675,16 @@
   },
   {
     "slug": "midnight-crispy-mexican-lemon-tacos",
-    "title": "Midnight Crispy Mexican Lemon Tacos",
+    "title": "Midnight Tacos",
     "tags": [
-      "flexitarian",
       "mexican",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "tacos",
+      "midnight",
+      "crispy",
+      "lemon"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -10061,18 +10059,14 @@
   },
   {
     "slug": "midnight-saute-american-water-chestnut-skillet",
-    "title": "Midnight Saute American Water Chestnut Skillet",
+    "title": "Pan-Seared Chestnuts",
     "tags": [
-      "easy",
-      "gluten-free",
-      "one-pan",
-      "quick",
-      "snack",
-      "vegetarian",
-      "weeknight"
+      "chestnuts",
+      "sides",
+      "fall"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -18801,16 +18795,15 @@
   },
   {
     "slug": "mouthwatering-crispy-malaysian-pork-skewers",
-    "title": "Malaysian Pork Skewers",
+    "title": "Crispy Pork Skewers",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "grilled",
-      "high-protein",
-      "malaysian-cuisine"
+      "malaysian",
+      "pork",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 38,
     "shard": "m"
   },
   {
@@ -21163,6 +21156,18 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "mozzabite-crunchy-twist--german",
+    "title": "Twist Cruncher Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "twist"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
