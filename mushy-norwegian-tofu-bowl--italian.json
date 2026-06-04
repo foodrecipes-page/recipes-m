@@ -1,0 +1,75 @@
+{
+  "slug": "mushy-norwegian-tofu-bowl--italian",
+  "title": "Tofu Italian Bowl",
+  "description": "A simple, plant-based Italian-inspired bowl dish made with pan-seared tofu and served over a bed of mushy Norwegian bowl pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "mushy",
+      "amount": "8 oz",
+      "notes": "Norwegian bowl pasta"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the mushy according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the minced garlic and cook until fragrant, about 1-2 minutes.",
+    "Add the tofu and cook until golden brown on both sides, about 3-4 minutes per side.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "Simmer the sauce for a few minutes until heated through.",
+    "Serve the tofu and sauce over the cooked mushy.",
+    "Garnish with fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegan",
+    "lunch",
+    "tofu",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushy-norwegian-tofu-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:32:06.643Z"
+}
