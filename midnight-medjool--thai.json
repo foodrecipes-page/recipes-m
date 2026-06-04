@@ -1,0 +1,77 @@
+{
+  "slug": "midnight-medjool--thai",
+  "title": "Midnight Thai Mango Sticky Rice",
+  "description": "A classic Thai dessert made with sweet and fragrant midnight mangoes, served with creamy coconut sticky rice.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Midnight mangoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Medjool dates",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Glutinous rice",
+      "amount": "1 cup",
+      "notes": "also known as sticky rice"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the glutinous rice thoroughly and soak it in water for at least 4 hours.",
+    "2. Drain the water and cook the rice with coconut milk and palm sugar over low heat, stirring constantly.",
+    "3. Peel and slice the midnight mangoes into wedges.",
+    "4. Heat coconut oil in a pan over medium heat and add the sliced mangoes.",
+    "5. Cook for about 2-3 minutes on each side, until the mangoes are caramelized and tender.",
+    "6. Serve the sticky rice with the caramelized mangoes on top.",
+    "7. Garnish with chopped medjool dates, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "thai",
+    "mango",
+    "stickyrice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-medjool--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:01:44.154Z"
+}
