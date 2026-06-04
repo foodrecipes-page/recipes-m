@@ -1,0 +1,67 @@
+{
+  "slug": "molten-briny-dutch-mushrooms-bowl",
+  "title": "Creamy Mushroom and Mushroom Bowl",
+  "description": "A hearty and flavorful bowl filled with sautéed mushrooms, creamy sauce, and a touch of Dutch spice.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "assorted types"
+    },
+    {
+      "name": "molten butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "briny feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 tsp",
+      "notes": "prepared"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "large, for serving"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt 1 tbsp of molten butter over medium heat.",
+    "Add the mushrooms and cook until tender, about 5 minutes.",
+    "Add the remaining 1 tbsp of molten butter, briny feta cheese, and Dutch mustard.",
+    "Stir until the cheese is melted and the sauce is creamy, about 2 minutes.",
+    "Transfer the mushroom mixture to a large bowl.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mushrooms",
+    "easy-recipe",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-briny-dutch-mushrooms-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:31:18.309Z"
+}
