@@ -1,0 +1,78 @@
+{
+  "slug": "mellow-australian-christmas-pudding-bake--german",
+  "title": "German Christmas Pudding Bake",
+  "description": "A traditional German-inspired Christmas pudding baked with love, perfect for the holiday season. This sweet treat combines the flavors of the season in a moist and flavorful dessert.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian Christmas Pudding",
+      "amount": "1 (400g) package",
+      "notes": "available in most supermarkets during the holiday season"
+    },
+    {
+      "name": "Mellow White Sugar",
+      "amount": "1 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Bake Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1/2 cup",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Almonds",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with softened butter.",
+    "In a large mixing bowl, combine the Australian Christmas Pudding, white sugar, and bake flour.",
+    "In a separate bowl, whisk together the eggs and vanilla extract (if using).",
+    "Pour the egg mixture over the pudding mixture and stir until well combined.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the edges are set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Garnish with chopped almonds (if using).",
+    "Serve warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "christmas",
+    "pudding",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-australian-christmas-pudding-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:01:13.367Z"
+}
