@@ -1,0 +1,72 @@
+{
+  "slug": "mellow-egyptian-chickpea-tagine",
+  "title": "Egyptian Chickpea Stew with Mellow Flavor",
+  "description": "A hearty North African stew made with chickpeas, aromatic spices, and a hint of mellow flavor. Perfect for a comforting meal.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh herbs, such as parsley or cilantro"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "a traditional North African stew pot"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onion and garlic; cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add chickpeas, cumin, and mellow; stir to combine.",
+    "Cover the tagine and simmer, stirring occasionally, until the flavors have melded together and the chickpeas are heated through, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional mellow if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north african",
+    "stew",
+    "chickpeas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-egyptian-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:50:28.906Z"
+}
