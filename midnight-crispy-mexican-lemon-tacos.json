@@ -1,0 +1,112 @@
+{
+  "slug": "midnight-crispy-mexican-lemon-tacos",
+  "title": "Midnight Tacos",
+  "description": "A twist on traditional tacos with crispy tortillas and a tangy midnight marinade. Serve with a squeeze of fresh lemon.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Crispy Corn",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Midnight Marinade",
+      "amount": "1/4 cup",
+      "notes": "See below for recipe"
+    },
+    {
+      "name": "Lemons",
+      "amount": "2",
+      "notes": "Quartered"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Taco Meat",
+      "amount": "1 pound",
+      "notes": "Optional"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook crispy corn according to package instructions.",
+    "In a small bowl, mix together lime juice, midnight marinade, and diced onions.",
+    "Place tortillas in a single layer on a baking sheet and bake for 10-12 minutes, or until crispy.",
+    "Heat taco meat in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Warm taco shells according to package instructions.",
+    "Assemble tacos by spooning cooked meat onto a shell, followed by a spoonful of crispy corn, diced tomatoes, diced onions, and a sprinkle of cheese.",
+    "Drizzle with salsa and a squeeze of fresh lemon juice.",
+    "Garnish with chopped cilantro and diced avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "midnight",
+    "crispy",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-crispy-mexican-lemon-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:50:00.422Z"
+}
