@@ -1,0 +1,78 @@
+{
+  "slug": "mushy-norwegian-tofu-bowl",
+  "title": "Tofu Skewers with Mushy Pea Salsa",
+  "description": "A tasty and healthy Norwegian-inspired dish, perfect for a quick lunch or dinner. The combination of marinated tofu and mushy pea salsa is a game changer!",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (200g)"
+    },
+    {
+      "name": "mushy peas",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "norwegian red onion",
+      "amount": "1 small (50g)"
+    },
+    {
+      "name": "norwegian red bell pepper",
+      "amount": "1 small (50g)"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 (for serving)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into bite-sized pieces and place in a bowl.",
+    "2. In a separate bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+    "3. Pour the marinade over the tofu and mix well.",
+    "4. Thread the marinated tofu onto skewers.",
+    "5. Grill the skewers for 8-10 minutes, or until the tofu is golden brown.",
+    "6. Meanwhile, heat a pan over medium heat.",
+    "7. Add the mushy peas, red onion, and red bell pepper to the pan.",
+    "8. Cook, stirring occasionally, for 5-7 minutes or until the vegetables are tender.",
+    "9. Serve the grilled tofu skewers with the mushy pea salsa.",
+    "10. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "vegetarian",
+    "healthy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushy-norwegian-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:08:24.357Z"
+}
