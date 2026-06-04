@@ -1,0 +1,81 @@
+{
+  "slug": "mustardy-crisp-peruvian-chicken-aji-de-gallina",
+  "title": "Peruvian Chicken Gallina",
+  "description": "Aji-spiced chicken dish with crispy potatoes and tangy mustardy sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "aji pepper",
+      "amount": "2 teaspoons",
+      "notes": "dried, crushed"
+    },
+    {
+      "name": "peruvian mustardy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "crisp potatoes",
+      "amount": "2 large",
+      "notes": "peeled, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season chicken breast with salt and black pepper.",
+    "3. Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "4. Sear chicken breast for 2-3 minutes per side, then transfer to oven.",
+    "5. Roast chicken breast in the oven for 20-25 minutes, or until cooked through.",
+    "6. Meanwhile, boil diced potatoes in salted water until tender.",
+    "7. Drain potatoes and toss with peruvian mustardy sauce.",
+    "8. To make the aji pepper sauce, combine crushed aji pepper and 2 tablespoons olive oil in a bowl.",
+    "9. Stir in 1 tablespoon peruvian mustardy sauce and season with salt.",
+    "10. Serve chicken breast with crispy potatoes and aji pepper sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "aji",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crisp-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:29:32.661Z"
+}
