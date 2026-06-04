@@ -1,0 +1,66 @@
+{
+  "slug": "mouthwatering-crispy-malaysian-pork-skewers",
+  "title": "Crispy Pork Skewers",
+  "description": "A deliciously crispy and savory dish inspired by Malaysian cuisine, featuring pork skewers grilled to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to choose a lean cut for best results."
+    },
+    {
+      "name": "Kecap manis (Malaysian sweet soy sauce)",
+      "amount": "2 tablespoons",
+      "notes": "You can substitute with a mixture of soy sauce and honey if unavailable."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the grill or grill pan."
+    },
+    {
+      "name": "Toasted coconut flakes",
+      "amount": "2 tablespoons",
+      "notes": "Optional but adds a nice flavor and texture."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together kecap manis, vegetable oil, and toasted coconut flakes (if using). Brush the mixture onto both sides of the pork.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork reaches an internal temperature of 145°F. Remove from heat and let rest for 5 minutes.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "pork",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-crispy-malaysian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:28:24.162Z"
+}
