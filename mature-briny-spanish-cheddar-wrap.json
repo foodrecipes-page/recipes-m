@@ -1,0 +1,70 @@
+{
+  "slug": "mature-briny-spanish-cheddar-wrap",
+  "title": "Spanish Tortilla Wrap",
+  "description": "A delicious and easy-to-make Spanish-inspired breakfast or snack using leftover ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish tortilla",
+      "amount": "1",
+      "notes": "Use leftover or make your own"
+    },
+    {
+      "name": "Mature cheddar cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mature wrap",
+      "amount": "1",
+      "notes": "Use large tortilla wrap"
+    },
+    {
+      "name": "Briny olives",
+      "amount": "1/4 cup, sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Warm the wrap in a dry pan for 30 seconds to make it more pliable.",
+    "2. Slice the Spanish tortilla into thin strips.",
+    "3. Place the tortilla strips onto the center of the wrap.",
+    "4. Sprinkle the shredded cheddar cheese on top.",
+    "5. Add the sliced briny olives if desired.",
+    "6. Season with salt and pepper to taste.",
+    "7. Fold the bottom half of the wrap up over the filling, then fold in the sides.",
+    "8. Roll the wrap up tightly to form a compact, neat package.",
+    "9. Slice in half and serve immediately.",
+    "10. Enjoy your delicious Spanish Tortilla Wrap!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "spanish",
+    "wrap",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-briny-spanish-cheddar-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:15:55.688Z"
+}
