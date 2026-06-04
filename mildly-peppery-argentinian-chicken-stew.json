@@ -1,0 +1,99 @@
+{
+  "slug": "mildly-peppery-argentinian-chicken-stew",
+  "title": "Argentinian Chicken Stew",
+  "description": "Hearty and flavorful stew originating from Argentina, made with tender chicken and a blend of spices.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "mildly peppery sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown the chicken and sausage on all sides.",
+    "Remove the chicken and sausage from the pot, and set aside.",
+    "Add more oil if necessary, then sauté the onion, garlic, and red bell pepper until tender.",
+    "Add the tomatoes, stew, chicken broth, Worcestershire sauce, and dried oregano.",
+    "Stir to combine, then return the chicken and sausage to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-argentinian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:15:52.554Z"
+}
