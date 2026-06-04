@@ -1,0 +1,67 @@
+{
+  "slug": "midnight-medjool",
+  "title": "Midnight Date Energy Balls",
+  "description": "A healthy and easy-to-make snack perfect for satisfying late-night cravings. Made with rolled oats and Medjool dates, these no-bake energy balls are packed with fiber, protein, and natural sweetness.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Medjool dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "0.1 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a food processor, combine oats, Medjool dates, almond butter, and coconut oil. Process until mixture is well combined and sticky.",
+    "Add vanilla extract and a pinch of salt. Process until smooth.",
+    "Use a small cookie scoop or your hands to form mixture into balls, about 1-inch in diameter.",
+    "Place energy balls on a baking sheet lined with parchment paper.",
+    "Refrigerate for at least 30 minutes to set.",
+    "Store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "no-bake",
+    "energy-balls",
+    "dates",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-medjool",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:02:33.471Z"
+}
