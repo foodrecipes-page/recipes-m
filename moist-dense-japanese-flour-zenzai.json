@@ -1,0 +1,60 @@
+{
+  "slug": "moist-dense-japanese-flour-zenzai",
+  "title": "Japanese-Style Cast Iron Manju",
+  "description": "A traditional Japanese dessert, Manju is sweet steamed buns filled with a sweet bean paste. In this recipe, we use a cast iron pan to give the buns a crispy bottom. Perfect as a snack or dessert.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "zenzai",
+      "amount": "1/2 cup",
+      "notes": "Japanese sweet bean paste"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "moist",
+      "amount": "1/4 cup",
+      "notes": "sweetened red bean paste"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour and a pinch of salt. Mix well.",
+    "2. Gradually add warm water to the flour mixture and knead for 10 minutes until a dough forms.",
+    "3. Divide the dough into 4-6 equal pieces, depending on the size you prefer your Manju to be.",
+    "4. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "5. Place a tablespoon of zenzai in the center of each disk.",
+    "6. Fold the dough over the filling and seal the edges by pressing them together with your fingers.",
+    "7. Apply a thin layer of moist to the surface of each Manju.",
+    "8. Heat a cast iron pan over medium heat and add a small amount of water to the pan.",
+    "9. Place the Manju in the pan and cover with a lid.",
+    "10. Steam the Manju for 10-12 minutes or until they are cooked through and the bottoms are crispy.",
+    "11. Serve the Manju warm with additional zenzai if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "steamed-buns"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-dense-japanese-flour-zenzai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:23:39.672Z"
+}
