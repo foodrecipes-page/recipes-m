@@ -5267,16 +5267,15 @@
   },
   {
     "slug": "mellow-egyptian-chickpea-tagine",
-    "title": "Mellow Egyptian Chickpea Tagine",
+    "title": "Egyptian Chickpea Stew with Mellow Flavor",
     "tags": [
-      "gluten-free",
-      "lazy-sunday",
-      "middle-eastern",
-      "one-pot",
+      "north african",
+      "stew",
+      "chickpeas",
       "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -14243,17 +14242,14 @@
   },
   {
     "slug": "mildly-spicy-thai-noodle-dish",
-    "title": "Mildly Spicy Thai Noodle Dish",
+    "title": "Spicy Thai Noodle Dish",
     "tags": [
-      "gluten-free",
-      "noodle-dish",
-      "one-pot",
-      "spicy",
-      "vegetarian",
-      "weeknight"
+      "thai",
+      "noodle",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21128,6 +21124,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 8,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-australian-christmas-pudding-bake--german",
+    "title": "German Christmas Pudding Bake",
+    "tags": [
+      "german",
+      "christmas",
+      "pudding",
+      "bake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "m"
   }
 ]
