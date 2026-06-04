@@ -1,0 +1,76 @@
+{
+  "slug": "moist-dense-japanese-flour-zenzai--vegan",
+  "title": "Japanese Zenzai Cake",
+  "description": "A moist and dense Japanese-inspired vegan cake made with zenzai and plant-based ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "zenzai",
+      "amount": "1 cup",
+      "notes": "warmed to a syrupy consistency"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan egg replacement",
+      "amount": "2 flax eggs"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch round cake pan.",
+    "In a medium bowl, whisk together flax eggs and non-dairy milk. Let sit for 5 minutes.",
+    "In a large bowl, whisk together flour, baking powder, and a pinch of salt.",
+    "Add zenzai, coconut oil, maple syrup, and apple cider vinegar to the dry ingredients. Whisk until combined.",
+    "Pour in the flax egg mixture and whisk until smooth.",
+    "Pour batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "japanese",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-dense-japanese-flour-zenzai--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:18:42.615Z"
+}
