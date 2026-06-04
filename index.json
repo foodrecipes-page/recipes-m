@@ -9871,10 +9871,16 @@
   },
   {
     "slug": "midnight-medjool",
-    "title": "Midnight Medjool",
-    "tags": [],
+    "title": "Midnight Date Energy Balls",
+    "tags": [
+      "healthy",
+      "no-bake",
+      "energy-balls",
+      "dates",
+      "oats"
+    ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": null,
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
@@ -19781,16 +19787,15 @@
   },
   {
     "slug": "mushy-norwegian-tofu-bowl",
-    "title": "Mushy Norwegian Tofu Bowl",
+    "title": "Tofu Skewers with Mushy Pea Salsa",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "quick",
-      "sour",
-      "vegetarian"
+      "norwegian",
+      "vegetarian",
+      "healthy",
+      "grilled"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21133,6 +21138,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-dense-japanese-flour-zenzai--vegan",
+    "title": "Japanese Zenzai Cake",
+    "tags": [
+      "vegan",
+      "japanese",
+      "cake"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-medjool--thai",
+    "title": "Midnight Thai Mango Sticky Rice",
+    "tags": [
+      "dessert",
+      "thai",
+      "mango",
+      "stickyrice"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "m"
   }
 ]
