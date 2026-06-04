@@ -1,0 +1,57 @@
+{
+  "slug": "mozzabite-crunchy-twist",
+  "title": "Twisted Crunchy Mozzabite Bites",
+  "description": "A crispy and flavorful snack made with twist, crunchy, and mozzabite. Perfect for a quick snack or appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "twist",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "mozzabite",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Unroll the twist and cut into 1-inch squares.",
+    "In a bowl, mix the crunchy and mozzabite.",
+    "Add the twist squares to the bowl and mix well.",
+    "Place the mixture on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "italian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mozzabite-crunchy-twist",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:01:13.501Z"
+}
