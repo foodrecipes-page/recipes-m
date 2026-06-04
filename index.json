@@ -972,16 +972,16 @@
   },
   {
     "slug": "magically-garlicky-canadian-haddock-skewers",
-    "title": "Magically Garlicky Canadian Haddock Skewers",
+    "title": "Garlicky Haddock Skewers",
     "tags": [
-      "canadian-cuisine",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "canadian",
+      "fish",
+      "grilled",
+      "haddock",
+      "skewers"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 31,
     "shard": "m"
   },
   {
@@ -12584,16 +12584,14 @@
   },
   {
     "slug": "mildly-peppery-norwegian-seed-tagine",
-    "title": "Mildly Peppery Norwegian Seed Tagine",
+    "title": "Spicy Norwegian Seed Tagine",
     "tags": [
-      "healthy-dinner",
-      "norwegian-cuisine",
-      "one-pot",
-      "paleo-friendly",
-      "seed-based"
+      "north african",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "north african",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -15293,13 +15291,16 @@
   },
   {
     "slug": "minty-kenyan-chwinamul-salad",
-    "title": "Minty Kenyan Chwinamul Salad",
+    "title": "Kenyan Minty Salad",
     "tags": [
-      "korean-kenyan-fusion",
-      "lunch"
+      "salad",
+      "kenyan",
+      "minty",
+      "refreshing",
+      "vegetarian"
     ],
-    "cuisine": "Korean-Kenyan fusion",
-    "totalTimeMin": 40,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -21110,6 +21111,19 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-flaky-thai-chicken-wrap--german",
+    "title": "Thai Chicken Wrap",
+    "tags": [
+      "german",
+      "thai",
+      "chicken",
+      "wrap"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
     "shard": "m"
   }
 ]
