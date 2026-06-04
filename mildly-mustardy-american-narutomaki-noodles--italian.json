@@ -1,0 +1,66 @@
+{
+  "slug": "mildly-mustardy-american-narutomaki-noodles--italian",
+  "title": "Spicy Italian Narutomaki Noodle Soup",
+  "description": "A spicy and savory Italian-inspired noodle soup featuring narutomaki and mildly flavored ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mildly flavored vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Narutomaki",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Mustardy Italian seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "American-style olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring vegetable broth to a simmer in a medium saucepan.",
+    "Add narutomaki and cook for 2 minutes.",
+    "Add noodles and cook for 8-10 minutes, or until they are al dente.",
+    "Stir in mildy Italian seasoning and olive oil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "soup",
+    "noodles",
+    "narutomaki"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-mustardy-american-narutomaki-noodles--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:41:08.370Z"
+}
