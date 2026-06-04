@@ -1,0 +1,82 @@
+{
+  "slug": "minty-kenyan-chwinamul-salad",
+  "title": "Kenyan Minty Salad",
+  "description": "A refreshing salad inspired by Kenyan flavors, featuring minty freshness and the unique taste of chwinamul leaves.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul leaves",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crunchy salad mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, chwinamul leaves, and fresh mint leaves.",
+    "2. Cut cherry tomatoes in half and add to the bowl.",
+    "3. Thinly slice red onion and add to the bowl.",
+    "4. In a small bowl, whisk together lemon juice and olive oil.",
+    "5. Pour dressing over the salad and toss to combine.",
+    "6. Sprinkle crunchy salad mix on top of the salad.",
+    "7. Season with salt to taste.",
+    "8. Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "9. Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kenyan",
+    "minty",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-kenyan-chwinamul-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:59:56.961Z"
+}
