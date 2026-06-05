@@ -1,0 +1,79 @@
+{
+  "slug": "magically-snappy-algerian-beef-tagine--indian",
+  "title": "Beef Tagine with Algerian Spices",
+  "description": "A flavorful and aromatic beef tagine dish inspired by Algerian cuisine, with a blend of Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "magically ground ginger",
+      "amount": "2 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "snappy cumin seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "algerian cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "algerian coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add ginger, cumin seeds, cumin powder, coriander powder, salt, and pepper. Cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1.5 hours, or until beef is tender.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-snappy-algerian-beef-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:23:40.633Z"
+}
