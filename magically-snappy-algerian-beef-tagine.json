@@ -1,0 +1,84 @@
+{
+  "slug": "magically-snappy-algerian-beef-tagine",
+  "title": "Magical Algerian Beef Tagine",
+  "description": "A hearty and aromatic stew originating from Algeria, slow-cooked in a clay pot with tender beef, snappy spices, and a hint of magic.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or chuck), cut into 1-inch cubes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Magically sourced olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Snappy cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Algerian coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay pot over medium-high heat.",
+    "Brown the beef cubes, about 5 minutes.",
+    "Add the cumin, coriander, ginger, and garlic; cook for 1 minute.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Cover and transfer to the oven; bake at 300°F for 2 1/2 hours.",
+    "Stir in salt and pepper to taste.",
+    "Sprinkle with parsley and serve over couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "beef",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "24g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-snappy-algerian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:03:33.136Z"
+}
