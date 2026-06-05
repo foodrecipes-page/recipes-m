@@ -1,0 +1,66 @@
+{
+  "slug": "melted-mediterranean-corn-flatbread--chinese",
+  "title": "Mediterranean Corn Fritters",
+  "description": "Crispy fritters filled with sweet corn, perfect as a side dish or snack.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted mozzarella cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flatbread crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix corn kernels, mozzarella cheese, flatbread crumbs, and scallions.",
+    "3. In a separate bowl, beat eggs and add salt to taste.",
+    "4. Pour the egg mixture over the corn mixture and mix well.",
+    "5. Using a spoon, drop small amounts of the mixture onto a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes or until crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-mediterranean-corn-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:46:03.974Z"
+}
