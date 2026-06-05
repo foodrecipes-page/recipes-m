@@ -21318,5 +21318,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 40,
     "shard": "m"
+  },
+  {
+    "slug": "mellow-roasted-mediterranean-pepper-casserole--indian",
+    "title": "Roasted Vegetable Casserole",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "gluten-free",
+      "casserole",
+      "roasted"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-mediterranean-corn-flatbread--vegan",
+    "title": "Mediterranean Corn Flatbread",
+    "tags": [
+      "vegan",
+      "snack",
+      "corn",
+      "flatbread"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "m"
   }
 ]
