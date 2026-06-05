@@ -1,0 +1,70 @@
+{
+  "slug": "malty-molten-romantic-turkish-cocoa-kofte--gluten-free",
+  "title": "Turkish Kofte Delight",
+  "description": "A flavorful and gluten-free snack recipe featuring kofte, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kofte",
+      "amount": "200g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Malty",
+      "amount": "2 tbsp",
+      "notes": "malts or malted milk powder"
+    },
+    {
+      "name": "Molten",
+      "amount": "100g",
+      "notes": "melted chocolate or chocolate spread"
+    },
+    {
+      "name": "Romantic",
+      "amount": "1 tsp",
+      "notes": "romantic spice blend or paprika"
+    },
+    {
+      "name": "Cocoa",
+      "amount": "1 tbsp",
+      "notes": "unsweetened cocoa powder"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Line a baking sheet with parchment paper.",
+    "3. Place the kofte on the prepared baking sheet.",
+    "4. In a small bowl, mix together malty, molten, romantic, and cocoa.",
+    "5. Brush the mixture onto the kofte.",
+    "6. Bake in the preheated oven for 12-15 minutes.",
+    "7. Remove from the oven and let cool for a few minutes.",
+    "8. Serve warm and enjoy!",
+    "9. Optional: serve with a side of tangy sauce or yogurt.",
+    "10. Garnish with chopped nuts or herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "kofte",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-molten-romantic-turkish-cocoa-kofte--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:56:50.951Z"
+}
