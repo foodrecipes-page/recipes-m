@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-garlicky-uruguayan-cheonggukjang-empanadas",
+  "title": "Uruguayan Empanadas with Cheonggukjang Salsa",
+  "description": "A fusion twist on traditional Uruguayan empanadas, topped with a spicy Cheonggukjang salsa. Perfect for a dinner party or special occasion.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mild flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "cheonggukjang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine flour, garlic, and salt. Gradually add water, mixing until a dough forms.",
+    "Knead dough for 5 minutes until smooth and elastic.",
+    "Divide dough into 8-10 equal pieces. Roll out each piece into a thin circle.",
+    "Place a tablespoon of beef in the center of each dough circle. Fold dough in half and press edges to seal.",
+    "Brush tops with oil. Bake empanadas for 20-25 minutes, or until golden brown.",
+    "Meanwhile, mix Cheonggukjang with a little water to create a sauce.",
+    "Serve empanadas with Cheonggukjang salsa and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "cheonggukjang",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-garlicky-uruguayan-cheonggukjang-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:19:33.438Z"
+}
