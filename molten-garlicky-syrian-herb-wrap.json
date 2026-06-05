@@ -1,0 +1,63 @@
+{
+  "slug": "molten-garlicky-syrian-herb-wrap",
+  "title": "Garlicky Syrian Wrap",
+  "description": "A flavorful wrap filled with garlicky goodness, perfect for a quick lunch or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Herb mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced tomato",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Warm the Syrian wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Spread the garlicky sauce on the wrap, leaving a 1-inch border around the edges.",
+    "Sprinkle the herb mix on top of the sauce.",
+    "Add the shredded lettuce and sliced tomato on top of the herb mix.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "wrap",
+    "garlic",
+    "herb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-garlicky-syrian-herb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:42:49.427Z"
+}
