@@ -10266,18 +10266,15 @@
   },
   {
     "slug": "mighty-brazilian-wood-ear-mushroom-tart",
-    "title": "Mighty Brazilian Wood Ear Mushroom Tart",
+    "title": "Pan Seared Mushroom Tart",
     "tags": [
-      "brazilian",
-      "crunchy",
-      "crust",
-      "herb",
-      "one-pan",
-      "pescatarian",
-      "solo-dinner"
+      "mushroom",
+      "tart",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -18737,16 +18734,15 @@
   },
   {
     "slug": "mouthwatering-charred-indian-beef-curry",
-    "title": "Mouthwatering Charred Indian Beef Curry",
+    "title": "Beef Curry",
     "tags": [
-      "beef-recipes",
-      "curry-dishes",
-      "high-protein",
-      "indian-cuisine",
-      "post-workout-meals"
+      "beef",
+      "curry",
+      "indian",
+      "easy-dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21219,6 +21215,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 170,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-molten-romantic-turkish-cocoa-kofte--gluten-free",
+    "title": "Turkish Kofte Delight",
+    "tags": [
+      "turkish",
+      "kofte",
+      "gluten-free",
+      "snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-briny-dutch-mushrooms-bowl--italian",
+    "title": "Creamy Mushroom Fettuccine",
+    "tags": [
+      "italian",
+      "mushroom",
+      "cream"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
