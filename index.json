@@ -5141,18 +5141,14 @@
   },
   {
     "slug": "mellow-croatian-roast-sandwich",
-    "title": "Mellow Croatian Roast Sandwich",
+    "title": "Pan-Seared Roast Crostini",
     "tags": [
-      "bread",
-      "comfort-food",
-      "easy",
-      "low-sodium",
-      "roasted",
-      "sandwich",
-      "weeknight"
+      "appetizer",
+      "italian",
+      "easy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -16802,17 +16798,15 @@
   },
   {
     "slug": "molten-garlicky-syrian-herb-wrap",
-    "title": "Molten Garlicky Syrian Herb Wrap",
+    "title": "Garlicky Syrian Wrap",
     "tags": [
-      "herb-forward",
-      "holiday",
-      "lotus-leaf",
-      "melted-sauce",
-      "syrian",
-      "vegetarian-friendly"
+      "middle-eastern",
+      "wrap",
+      "garlic",
+      "herb"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 5,
     "shard": "m"
   },
   {
@@ -21237,6 +21231,56 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-snappy-algerian-beef-tagine--indian",
+    "title": "Beef Tagine with Algerian Spices",
+    "tags": [
+      "indian",
+      "beef"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-snappy-algerian-beef-tagine--french",
+    "title": "Beef Tagine with Algerian Spices",
+    "tags": [
+      "beef",
+      "tagine",
+      "french",
+      "algerian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 105,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-snappy-algerian-beef-tagine--thai",
+    "title": "Thai Beef Tagine Stir Fry",
+    "tags": [
+      "thai",
+      "beef",
+      "stir-fry",
+      "tagine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-snappy-algerian-beef-tagine--mexican",
+    "title": "Mexican Beef Tagine",
+    "tags": [
+      "mexican",
+      "beef",
+      "tagine",
+      "aromatic"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 135,
     "shard": "m"
   }
 ]
