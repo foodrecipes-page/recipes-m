@@ -1,0 +1,98 @@
+{
+  "slug": "magically-snappy-algerian-beef-tagine--mexican",
+  "title": "Mexican Beef Tagine",
+  "description": "A twist on traditional Mexican cuisine, this dish brings the flavors of the tagine to your table with tender beef and aromatic spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "2 teaspoons",
+      "notes": "ground cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "magically",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "snappy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Sear beef until browned, then remove from pot.",
+    "3. Add garlic and spices, cooking until fragrant.",
+    "4. Add broths, water, salt, and pepper.",
+    "5. Return beef to pot, cover, and bring to a boil.",
+    "6. Reduce heat to low and simmer, covered, for 2 hours.",
+    "7. Stir in cilantro and serve hot.",
+    "8. Serve over rice or with warm tortillas."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tagine",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-snappy-algerian-beef-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:25:21.504Z"
+}
