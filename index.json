@@ -7805,17 +7805,14 @@
   },
   {
     "slug": "melted-mediterranean-corn-flatbread",
-    "title": "Melted Mediterranean Corn Flatbread",
+    "title": "Mediterranean Flatbread Pizza",
     "tags": [
-      "cheese-filled",
-      "corn-flats",
-      "griddle",
+      "pizza",
       "mediterranean",
-      "oven",
-      "quick"
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -12193,18 +12190,14 @@
   },
   {
     "slug": "mildly-garlicky-uruguayan-cheonggukjang-empanadas",
-    "title": "Mildly Garlicky Uruguayan Cheonggukjang Empanadas",
+    "title": "Uruguayan Empanadas with Cheonggukjang Salsa",
     "tags": [
-      "flaky-crust",
-      "high-protein",
-      "one-pan",
-      "savory-pastry",
-      "snack-time",
-      "uruguayan-cuisine",
-      "weeknight"
+      "empanadas",
+      "cheonggukjang",
+      "uruguayan"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -14969,16 +14962,16 @@
   },
   {
     "slug": "milktopia-queso",
-    "title": "Whole Milk Queso with Umami Flavors",
+    "title": "Milktopia Queso Fritters",
     "tags": [
+      "milktopia",
       "queso",
-      "umami",
-      "light-mexican-dish",
-      "whole-milk",
-      "pescatarian-friendly"
+      "fritters",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
