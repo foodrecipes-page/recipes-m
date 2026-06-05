@@ -1,0 +1,67 @@
+{
+  "slug": "melted-kenyan-foie-gras-grill",
+  "title": "Kenyan Grilled Gras Skewers",
+  "description": "A unique fusion of flavors, this Kenyan-inspired dish combines the richness of foie gras with the smokiness of grilled skewers.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Kenyan Spices",
+      "amount": "1 teaspoon",
+      "notes": "A blend of turmeric, cumin, and coriander"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grilled Asparagus",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread asparagus, red onion, and red bell pepper onto skewers.",
+    "Brush melted butter over foie gras.",
+    "Season foie gras with Kenyan spices.",
+    "Grill skewers for 5-7 minutes per side, or until vegetables are tender.",
+    "Grill foie gras for 1-2 minutes per side, or until golden brown.",
+    "Serve foie gras on top of grilled vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "foie-gras",
+    "kenyan",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-kenyan-foie-gras-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:31:26.468Z"
+}
