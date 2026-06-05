@@ -1,0 +1,66 @@
+{
+  "slug": "mustardy-gooey-american-pecorino-gratin--vegan",
+  "title": "Vegan Pecorino Gratin",
+  "description": "A rich and creamy vegan gratin made with a blend of spices and topped with a crunchy pecorino-like topping.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "main",
+  "ingredients": [
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "made from vegan cheese alternative"
+    },
+    {
+      "name": "american",
+      "amount": "1 tablespoon",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 teaspoon",
+      "notes": "adds a spicy kick"
+    },
+    {
+      "name": "goey",
+      "amount": "1/4 cup",
+      "notes": "adds creaminess"
+    },
+    {
+      "name": "pecorino",
+      "amount": "1/4 cup",
+      "notes": "used as topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the gratin, american, and mustardy. Heat over medium heat, whisking continuously, until the mixture is smooth and creamy.",
+    "In a separate bowl, mix together the gooey and pecorino.",
+    "Transfer the sauce to a baking dish and top with the gooey-pecorino mixture.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "italian",
+    "creamy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-gooey-american-pecorino-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:07:19.567Z"
+}
