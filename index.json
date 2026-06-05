@@ -2046,16 +2046,15 @@
   },
   {
     "slug": "malty-chewy-chinese-curry-wrap",
-    "title": "Malty Chewy Chinese Curry Wrap",
+    "title": "Curry Wrap",
     "tags": [
-      "fodmap-friendly",
-      "high-fiber",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "curry",
+      "wrap",
+      "lunch",
+      "snack"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -21293,6 +21292,19 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-mediterranean-corn-flatbread--chinese",
+    "title": "Mediterranean Corn Fritters",
+    "tags": [
+      "corn",
+      "fritters",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
