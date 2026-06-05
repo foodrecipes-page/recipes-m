@@ -1,0 +1,74 @@
+{
+  "slug": "melted-mediterranean-corn-flatbread",
+  "title": "Mediterranean Flatbread Pizza",
+  "description": "A delicious flatbread topped with melted cheese, mediterranean ingredients, and fresh corn.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Corn Kernels",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean Olives",
+      "amount": "1/4 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1/4 cup, canned",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon, chopped",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil and place on a baking sheet.",
+    "Top flatbread with mozzarella cheese, corn kernels, mediterranean olives, artichoke hearts, and fresh parsley.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and the flatbread is crispy.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pizza",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-mediterranean-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:28:10.125Z"
+}
