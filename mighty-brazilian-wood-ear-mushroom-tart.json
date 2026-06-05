@@ -1,0 +1,76 @@
+{
+  "slug": "mighty-brazilian-wood-ear-mushroom-tart",
+  "title": "Pan Seared Mushroom Tart",
+  "description": "A savory tart filled with sautéed mushrooms and a hint of earthy flavor. Perfect as a side dish or light lunch.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "mixed button and cremini"
+    },
+    {
+      "name": "tart",
+      "amount": "1 sheet, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ear",
+      "amount": "1 tablespoon",
+      "notes": "earl grey tea-infused olive oil"
+    },
+    {
+      "name": "wood",
+      "amount": "1 tablespoon",
+      "notes": "chopped wood sorrel leaves"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1/4 cup",
+      "notes": "diced brazilian cheese (such as queijo minas)"
+    },
+    {
+      "name": "mighty",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tart sheet and place on a baking sheet.",
+    "In a pan, heat the earl grey tea-infused olive oil over medium heat.",
+    "Add the mushrooms and cook until tender, about 5 minutes.",
+    "Stir in the chopped wood sorrel leaves and cook for an additional minute.",
+    "Sprinkle the diced brazilian cheese and dried thyme over the mushroom mixture.",
+    "Pour the mixture over the tart sheet, leaving a 1-inch border around the edges.",
+    "Fold the edges of the tart up over the filling, pressing gently to seal.",
+    "Bake for 20-25 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "tart",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-brazilian-wood-ear-mushroom-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:51:10.268Z"
+}
