@@ -1,0 +1,72 @@
+{
+  "slug": "molten-briny-dutch-mushrooms-bowl--italian",
+  "title": "Creamy Mushroom Fettuccine",
+  "description": "Rich and creamy fettuccine dish infused with earthy mushroom flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tbsp",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "briny",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "molten",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook 8 oz fettuccine according to package directions until al dente.",
+    "In a large skillet, melt 2 tbsp of butter over medium heat.",
+    "Add sliced mushrooms and cook until they release their liquid and start browning.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Stir in heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 2-3 minutes or until slightly thickened.",
+    "Drain the cooked fettuccine and add it to the skillet with the mushroom sauce.",
+    "Toss the fettuccine to coat it evenly with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot immediately.",
+    "Spoon the fettuccine into a bowl and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mushroom",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-briny-dutch-mushrooms-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:14:19.231Z"
+}
