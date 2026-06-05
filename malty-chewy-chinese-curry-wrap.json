@@ -1,0 +1,69 @@
+{
+  "slug": "malty-chewy-chinese-curry-wrap",
+  "title": "Curry Wrap",
+  "description": "A simple and flavorful wrap made with curry and malty ingredients. Perfect for a quick lunch or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chewy flour tortilla",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "malty rice",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "chopped chinese kale",
+      "amount": "1 cup",
+      "notes": "steamed"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add cooked rice and stir to combine with curry paste.",
+    "Add chopped kale and stir-fry until wilted.",
+    "Warm the tortilla in the skillet for 30 seconds on each side.",
+    "Assemble the wrap by spooning the curry rice mixture onto the tortilla.",
+    "Top with additional kale or rice, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "wrap",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-chewy-chinese-curry-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:28:55.529Z"
+}
