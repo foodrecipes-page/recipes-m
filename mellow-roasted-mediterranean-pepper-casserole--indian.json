@@ -1,0 +1,66 @@
+{
+  "slug": "mellow-roasted-mediterranean-pepper-casserole--indian",
+  "title": "Roasted Vegetable Casserole",
+  "description": "A flavorful indian-inspired casserole filled with roasted vegetables and a blend of spices. Serve as a side dish or main course.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mellow",
+      "amount": "3 large",
+      "notes": "such as eggplant"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 cups",
+      "notes": "red bell peppers, roasted"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 large",
+      "notes": "green bell pepper"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the eggplant, red bell peppers, and green bell pepper into 1-inch pieces.",
+    "In a large bowl, toss the vegetables with 2 tablespoons of oil, 1 teaspoon of cumin, and 1 teaspoon of coriander.",
+    "Transfer the vegetables to a 9x13-inch baking dish.",
+    "Bake for 25 minutes, or until the vegetables are tender.",
+    "While the vegetables are baking, prepare the casserole according to package instructions.",
+    "After the vegetables have baked for 25 minutes, remove them from the oven and top with the prepared casserole.",
+    "Return the casserole to the oven and bake for an additional 10-15 minutes, or until the casserole is golden brown.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "casserole",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-mediterranean-pepper-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:26:32.482Z"
+}
