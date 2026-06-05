@@ -1,0 +1,92 @@
+{
+  "slug": "magically-snappy-algerian-beef-tagine--thai",
+  "title": "Thai Beef Tagine Stir Fry",
+  "description": "A Thai-inspired dish made with tender beef and a blend of spices, all cooked to perfection in a tagine. Serve over rice for a hearty and flavorful meal.",
+  "cuisine": "thai",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "magically",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "snappy",
+      "amount": "1",
+      "notes": "Thai bird's eye chili"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "clay pot"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked white or brown rice"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the tagine over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the magically, snappy, and algerian. Cook for 1 minute.",
+    "Add the fish sauce and brown sugar. Cook for an additional 2 minutes.",
+    "Stir in the cooked rice and cook for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stir-fry",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-snappy-algerian-beef-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:23:44.419Z"
+}
