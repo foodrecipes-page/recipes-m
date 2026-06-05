@@ -1,0 +1,67 @@
+{
+  "slug": "magically-snappy-algerian-beef-tagine--french",
+  "title": "Beef Tagine with Algerian Spices",
+  "description": "A classic French-inspired tagine dish with beef and Algerian spices, perfect for a cozy dinner.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 tablespoons",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "Snappy",
+      "amount": "1 cup",
+      "notes": "Fresh parsley, chopped"
+    },
+    {
+      "name": "Magically",
+      "amount": "2 tablespoons",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 cup",
+      "notes": "Beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat the Magically in a large Dutch oven over medium-high heat.",
+    "Brown the Beef in batches until browned, about 5 minutes. Transfer to a plate.",
+    "Add the Algerian to the pot and cook for 1 minute.",
+    "Add the Snappy and cook until wilted, about 2 minutes.",
+    "Add the Tagine and scrape up any browned bits.",
+    "Return the Beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional Snappy if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "tagine",
+    "french",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-snappy-algerian-beef-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:23:42.115Z"
+}
