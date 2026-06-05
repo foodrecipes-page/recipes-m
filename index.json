@@ -6023,15 +6023,11 @@
   },
   {
     "slug": "mellow-mustardy-slovakian-pumpkin-dumplings",
-    "title": "Mellow Mustardy Slovakian Pumpkin Dumplings",
+    "title": "Slovakian Pumpkin Dumplings",
     "tags": [
-      "comfort-food",
-      "european",
-      "fall-recipes",
-      "gluten-free",
-      "low-glycemic",
-      "pumpkin-recipes",
-      "traditional"
+      "slovakian",
+      "pumpkin",
+      "dumplings"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -7737,17 +7733,15 @@
   },
   {
     "slug": "melted-kenyan-foie-gras-grill",
-    "title": "Melted Kenyan Foie Gras Grill",
+    "title": "Kenyan Grilled Gras Skewers",
     "tags": [
+      "grilled",
       "foie-gras",
-      "kenyan-cuisine",
-      "low-carb",
-      "quick-fix",
-      "raclette-grill",
-      "special-occasion"
+      "kenyan",
+      "appetizer"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 16,
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -21281,6 +21275,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 135,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-gooey-american-pecorino-gratin--vegan",
+    "title": "Vegan Pecorino Gratin",
+    "tags": [
+      "vegan",
+      "italian",
+      "creamy",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae--vegetarian",
+    "title": "Vegetarian Bibimbap Jjigae",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "bibimbap",
+      "jjigae"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
