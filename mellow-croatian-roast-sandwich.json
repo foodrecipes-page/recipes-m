@@ -1,0 +1,62 @@
+{
+  "slug": "mellow-croatian-roast-sandwich",
+  "title": "Pan-Seared Roast Crostini",
+  "description": "A simple appetizer made with roasted bread and topped with melted cheese and fresh herbs. Perfect for snacking or as a light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Roast",
+      "amount": "1 baguette",
+      "notes": "Day-old bread works best"
+    },
+    {
+      "name": "Mellow",
+      "amount": "4 oz fresh mozzarella",
+      "notes": "Slice into thin rounds"
+    },
+    {
+      "name": "Croatian",
+      "amount": "1/4 cup olive oil",
+      "notes": "For brushing bread"
+    },
+    {
+      "name": "Sandwich",
+      "amount": "1/4 cup chopped fresh basil",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the baguette into 1-inch thick rounds.",
+    "3. Brush the bread slices with olive oil and toast in the oven for 5-7 minutes, or until crispy.",
+    "4. Top each bread slice with a round of mozzarella cheese.",
+    "5. Return to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "6. Remove from the oven and sprinkle with chopped basil.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "italian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-croatian-roast-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:00:04.533Z"
+}
