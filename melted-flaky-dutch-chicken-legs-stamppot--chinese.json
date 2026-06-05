@@ -1,0 +1,71 @@
+{
+  "slug": "melted-flaky-dutch-chicken-legs-stamppot--chinese",
+  "title": "Crispy Chinese Chicken Stamppot",
+  "description": "A twist on traditional stamppot, this Chinese-inspired dish features crispy chicken and a side of steamed vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "stamppot",
+      "amount": "2 cups",
+      "notes": "see note for homemade stamppot recipe"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dutch paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the chicken pieces with melted butter, flaky sea salt, and dutch paprika until evenly coated.",
+    "Spread the chicken out in a single layer on a baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "While the chicken is baking, steam the stamppot according to package instructions.",
+    "Once the chicken is done, toss it with chopped scallions and serve over steamed stamppot.",
+    "Garnish with additional scallions and flaky sea salt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stamppot",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-flaky-dutch-chicken-legs-stamppot--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:17:58.422Z"
+}
