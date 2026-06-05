@@ -1,0 +1,83 @@
+{
+  "slug": "macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae--vegetarian",
+  "title": "Vegetarian Bibimbap Jjigae",
+  "description": "A vegetarian twist on the classic Korean-style rice bowl dish, featuring a variety of colorful vegetables and a savory jjigae sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed vegetables (zucchini, carrots, bean sprouts)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the mixed vegetables and cook until they begin to soften, about 3-4 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "In a small bowl, whisk together the gochugaru, soy sauce, rice vinegar, and ginger.",
+    "Pour the sauce over the vegetables and cook for an additional 2-3 minutes.",
+    "Stir in the remaining 1 tablespoon of vegetable oil.",
+    "To assemble the bibimbap, place a scoop of rice in the bottom of a bowl and top with the vegetable mixture.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "bibimbap",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:08:52.260Z"
+}
