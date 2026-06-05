@@ -1,0 +1,68 @@
+{
+  "slug": "milktopia-queso",
+  "title": "Milktopia Queso Fritters",
+  "description": "Crispy fritters filled with a creamy milktopia and queso mixture, perfect as a snack or appetizer.",
+  "cuisine": null,
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Milktopia",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Queso",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, mix together the milktopia and queso until smooth.",
+    "Add the flour, eggs, and bread crumbs to the bowl and mix until a dough forms.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and sprinkle with salt.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "milktopia",
+    "queso",
+    "fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/milktopia-queso",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:28:30.107Z"
+}
