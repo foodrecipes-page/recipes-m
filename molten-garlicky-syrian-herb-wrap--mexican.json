@@ -1,0 +1,73 @@
+{
+  "slug": "molten-garlicky-syrian-herb-wrap--mexican",
+  "title": "Syrian Beef Wraps",
+  "description": "A flavorful and spicy Mexican-inspired wrap filled with marinated beef, herbs and spices. Serve with a side of garlic sauce for added flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky wrap",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Herb mix (such as oregano, thyme, and cilantro)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Molten pepper sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together herb mix, molten pepper sauce, and olive oil.",
+    "Add the Syrian beef strips and marinate for at least 30 minutes.",
+    "Grill the beef strips until cooked to an internal temperature of 145°F (63°C).",
+    "Warm the garlicky wraps on the grill.",
+    "Assemble the wraps by placing a few slices of the beef on each wrap and serving with additional garlic sauce on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-garlicky-syrian-herb-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:19.348Z"
+}
