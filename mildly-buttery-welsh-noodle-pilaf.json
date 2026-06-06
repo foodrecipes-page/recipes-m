@@ -1,0 +1,59 @@
+{
+  "slug": "mildly-buttery-welsh-noodle-pilaf",
+  "title": "Welsh Pilaf Noodle Bake",
+  "description": "A comforting, creamy noodle bake with a hint of Welsh flavor. Perfect for a weeknight dinner.",
+  "cuisine": "Welsh",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Welsh pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mild noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mildly buttery",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook noodles according to package instructions.",
+    "In a large skillet, melt buttery over medium heat.",
+    "Add Welsh pilaf and cook until lightly toasted, about 5 minutes.",
+    "In a large mixing bowl, combine cooked noodles, pilaf mixture, and a pinch of salt.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover with aluminum foil and bake for 20 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "noodle-bake",
+    "welsh-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-buttery-welsh-noodle-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:08:33.004Z"
+}
