@@ -1,0 +1,86 @@
+{
+  "slug": "midnight-chinese-noodles-zha-jiang-mian--indian",
+  "title": "Zha Jiang Mian",
+  "description": "A Chinese-inspired Indian dish made with a spicy sauce, noodles, and vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zha Jiang Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mian (Chinese Noodles)",
+      "amount": "8 oz",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "Midnight Beans",
+      "amount": "1 cup",
+      "notes": "such as black beans or chickpeas"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the mian noodles according to package instructions.",
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and grated ginger and sauté for 1 minute.",
+    "Add the midnight beans, Zha Jiang sauce, and salt (if using).",
+    "Stir well and cook for 2-3 minutes.",
+    "Add the cooked noodles to the pan and toss everything together.",
+    "Serve hot and garnish with chopped scallions (optional).",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chinese",
+    "vegetarian",
+    "lunch",
+    "noodles",
+    "zha-jiang-mian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chinese-noodles-zha-jiang-mian--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:01:12.454Z"
+}
