@@ -1,0 +1,89 @@
+{
+  "slug": "midnight-chinese-noodles-zha-jiang-mian",
+  "title": "Midnight Zha Jiang Mian",
+  "description": "A classic Chinese noodle dish, Midnight Zha Jiang Mian is a staple of Chinese cuisine, rich in flavor and texture.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zha Jiang Sauce",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Noodles (Mian)",
+      "amount": "200g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "100g",
+      "notes": "or substitute with beef or tofu for a vegetarian option"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil and cook the noodles according to the package instructions. Drain and set aside.",
+    "Heat the peanut oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger to the wok and stir-fry for 1 minute.",
+    "Add the ground pork to the wok and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the chopped scallions to the wok and stir-fry for another minute.",
+    "Add the Zha Jiang sauce and soy sauce to the wok and stir-fry for 1 minute.",
+    "Add the cooked noodles to the wok and stir-fry for 1-2 minutes, until the noodles are well coated with the sauce.",
+    "Transfer the noodles to a serving dish and garnish with sesame seeds if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "noodles",
+    "midnight",
+    "zha",
+    "jiang",
+    "mian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chinese-noodles-zha-jiang-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:52:35.452Z"
+}
