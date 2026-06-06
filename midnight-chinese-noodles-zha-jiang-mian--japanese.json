@@ -1,0 +1,85 @@
+{
+  "slug": "midnight-chinese-noodles-zha-jiang-mian--japanese",
+  "title": "Japanese Zha Mian",
+  "description": "A Japanese-inspired dish featuring zha (dried soybeans) and mian (Japanese noodles), stir-fried with jiang (fermented soybean paste) and midnight sauce. Savor the rich flavors and textures of this savory noodle dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zha (dried soybeans)",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Mian (Japanese noodles)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Jiang (fermented soybean paste)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Midnight sauce",
+      "amount": "2 tbsp",
+      "notes": "available in Asian grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped green onions and cook until fragrant, about 1 minute.",
+    "Add the grated ginger and cook for an additional minute.",
+    "Add the soaked zha and cook until they start to soften, about 2-3 minutes.",
+    "Add the jiang (fermented soybean paste) and stir-fry for 1-2 minutes.",
+    "Add the mian (Japanese noodles) and cook until they are well coated with the sauce, about 2-3 minutes.",
+    "Add the midnight sauce and stir-fry for an additional 1-2 minutes.",
+    "Season with soy sauce to taste.",
+    "Transfer the noodles to a serving platter or individual plates.",
+    "Garnish with additional green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "noodle",
+    "stir-fry",
+    "soybeans"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chinese-noodles-zha-jiang-mian--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:05:08.868Z"
+}
