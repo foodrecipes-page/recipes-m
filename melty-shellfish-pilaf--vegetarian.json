@@ -1,0 +1,71 @@
+{
+  "slug": "melty-shellfish-pilaf--vegetarian",
+  "title": "Vegetarian Pilaf Bake",
+  "description": "A hearty and flavorful vegetarian pilaf bake made with shellfish-free alternatives and melty cheese.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetarian pilaf mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Melty cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pilaf mix according to package instructions.",
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and garlic; cook until softened.",
+    "Add tomato and cook for an additional 2-3 minutes.",
+    "Stir in cooked pilaf mix, melty cheese, and chopped parsley.",
+    "Transfer mixture to a baking dish and top with additional melty cheese.",
+    "Bake for 15-20 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "mediterranean-cuisine",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-shellfish-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:23.766Z"
+}
