@@ -1,0 +1,81 @@
+{
+  "slug": "melted-mediterranean-corn-flatbread--keto",
+  "title": "Keto Mediterranean Flatbread",
+  "description": "A flavorful keto flatbread topped with a rich and tangy Mediterranean-inspired sauce, loaded with melted feta cheese and fresh corn.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1"
+    },
+    {
+      "name": "Mediterranean cheese blend",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Melted feta cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Lay flatbread flat on a baking sheet.",
+    "Drizzle olive oil over flatbread.",
+    "Sprinkle cheese blend over flatbread.",
+    "Bake for 10-12 minutes, or until cheese is melted and bubbly.",
+    "While flatbread is baking, mix together corn kernels, garlic powder, salt, and lemon juice in a bowl.",
+    "Top flatbread with corn mixture after it comes out of the oven.",
+    "Garnish with fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-mediterranean-corn-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:51:35.694Z"
+}
