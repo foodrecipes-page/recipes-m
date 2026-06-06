@@ -1,0 +1,70 @@
+{
+  "slug": "molten-garlicky-syrian-herb-wrap--vegetarian",
+  "title": "Syrian Herb Wrap",
+  "description": "A flavorful vegetarian wrap filled with sautéed herbs and spices, perfect for a quick meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Herb wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Molten",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 tsp",
+      "notes": "sumac"
+    },
+    {
+      "name": "Herb",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Heat molten in a large skillet over medium heat.",
+    "Add garlicky and sauté for 1 minute.",
+    "Add Syrian and sauté for 1 minute.",
+    "Add herb and sauté for 2 minutes.",
+    "Warm the wrap in the microwave for 20 seconds.",
+    "Assemble the wrap by spooning the herb mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling.",
+    "Fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "quick",
+    "wrap",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-garlicky-syrian-herb-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:04:28.975Z"
+}
