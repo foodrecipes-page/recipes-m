@@ -1,0 +1,63 @@
+{
+  "slug": "molten-garlicky-syrian-herb-wrap--gluten-free",
+  "title": "Syrian Herb Wrap",
+  "description": "A flavorful gluten-free wrap filled with herbs, garlic, and molten cheese. Perfect for a quick snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian herb wrap",
+      "amount": "1",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky hummus",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place the Syrian herb wrap on a baking sheet.",
+    "Sprinkle molten cheese evenly over the wrap.",
+    "Spread garlicky hummus over the cheese.",
+    "Top with chopped fresh parsley.",
+    "Bake for 5-7 minutes or until the cheese is melted and the wrap is crispy.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "easy",
+    "snack",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-garlicky-syrian-herb-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:18:25.578Z"
+}
