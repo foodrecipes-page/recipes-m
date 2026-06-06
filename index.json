@@ -8708,17 +8708,17 @@
   },
   {
     "slug": "midnight-chinese-noodles-zha-jiang-mian",
-    "title": "Midnight Chinese Noodles Zha Jiang Mian",
+    "title": "Midnight Zha Jiang Mian",
     "tags": [
-      "buddhist-friendly",
-      "chinese-food",
-      "midnight-cravings",
-      "noodle-dishes",
-      "one-pan-meals",
-      "vegetarian-options"
+      "chinese",
+      "noodles",
+      "midnight",
+      "zha",
+      "jiang",
+      "mian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21403,6 +21403,34 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "macrobiotic-friendly-korean-khus-khus-bibimbap-style-jjigae--italian",
+    "title": "Italian-Style Bibimbap Jjigae",
+    "tags": [
+      "italian",
+      "korean",
+      "bibimbap",
+      "jjigae",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-garlicky-syrian-herb-wrap--vegetarian",
+    "title": "Syrian Herb Wrap",
+    "tags": [
+      "vegetarian",
+      "easy",
+      "quick",
+      "wrap",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 8,
     "shard": "m"
   }
 ]
