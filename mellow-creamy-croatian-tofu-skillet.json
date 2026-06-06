@@ -1,0 +1,66 @@
+{
+  "slug": "mellow-creamy-croatian-tofu-skillet",
+  "title": "Creamy Croation Skillet",
+  "description": "A delicious and easy-to-make skillet dish that combines the flavors of Croatia with a creamy twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian skillet",
+      "amount": "1",
+      "notes": "any type of skillet will do"
+    },
+    {
+      "name": "mellow",
+      "amount": "1/2 cup",
+      "notes": "mellow pepper or any sweet pepper"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "creamy cheese or sour cream"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "marinated tofu or regular tofu"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "add to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your skillet over medium heat.",
+    "Add the mellow pepper and cook until tender.",
+    "Add the tofu and cook until browned.",
+    "Stir in the creamy cheese and cook until melted.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "skillet",
+    "vegetarian",
+    "easy",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-creamy-croatian-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:23:59.210Z"
+}
