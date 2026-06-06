@@ -1,0 +1,89 @@
+{
+  "slug": "midnight-chinese-noodles-zha-jiang-mian--gluten-free",
+  "title": "Stir-Fried Zha Mian",
+  "description": "A traditional Chinese stir-fry dish made with zha mian noodles and midnight sauce. This recipe is gluten-free and can be ready in under 30 minutes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zha mian noodles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "midnight sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chinese jiang sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the midnight sauce and jiang sauce and stir-fry for an additional 2 minutes.",
+    "Add the cooked noodles and stir-fry for 2-3 minutes.",
+    "Stir in the green onions and chopped scallions.",
+    "Transfer the noodles to a serving dish and sprinkle with sesame seeds (if using).",
+    "Serve immediately.",
+    "Cook time for the noodles: 8 minutes.",
+    "Stir-fry time: 6 minutes.",
+    "Total time: 14 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chinese-noodles-zha-jiang-mian--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:03:48.559Z"
+}
