@@ -1,0 +1,69 @@
+{
+  "slug": "midnight-craving-australian-jelly-custard--italian",
+  "title": "Australian-Style Midnight Jelly Dessert",
+  "description": "A unique dessert inspired by Australian flavors, perfect for midnight cravings. This Italian dessert combines crunchy biscotti with a creamy custard and sweet jelly.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Biscotti",
+      "amount": "1 cup",
+      "notes": "Australian-style biscotti"
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 tablespoons",
+      "notes": "Vanilla-flavored"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Whole milk"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "White sugar"
+    },
+    {
+      "name": "Jelly crystals",
+      "amount": "1/2 cup",
+      "notes": "Australian-made jelly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Bake the biscotti for 10-12 minutes, or until lightly golden.",
+    "In a medium saucepan, combine the custard powder, milk, and sugar. Cook over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until thickened.",
+    "Remove the saucepan from the heat and stir in the jelly crystals.",
+    "Let the mixture cool slightly before serving.",
+    "Serve the chilled custard jelly over the baked biscotti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "italian",
+    "midnight",
+    "dessert",
+    "custard",
+    "jelly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-australian-jelly-custard--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:00:43.691Z"
+}
