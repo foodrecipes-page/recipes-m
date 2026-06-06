@@ -1,0 +1,68 @@
+{
+  "slug": "mildly-buttery-welsh-noodle-pilaf--chinese",
+  "title": "Welsh Noodle Pilaf",
+  "description": "A Chinese-inspired pilaf made with Welsh noodles, pilaf spices, and mild ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Welsh Noodles",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mild Pilaf Spice",
+      "amount": "1 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Buttery Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the Welsh Noodles according to the package instructions.",
+    "In a separate pan, heat the Butter oil over medium heat.",
+    "Add the Mild Pilaf Spice and stir for 1 minute.",
+    "Add the Water and bring to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Add the cooked Welsh Noodles to the pilaf mixture and stir to combine.",
+    "Season with Salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-buttery-welsh-noodle-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:31:46.588Z"
+}
