@@ -1,0 +1,75 @@
+{
+  "slug": "midnight-craving-australian-jelly-custard",
+  "title": "Australian Midnight Jelly and Custard",
+  "description": "A classic Australian dessert featuring jelly and custard, perfect for satisfying late-night cravings.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Custard Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Large Egg Yolks",
+      "amount": "4"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "2. In a medium saucepan, combine the sugar, custard powder, and 1 cup of milk. Whisk until the mixture is smooth and free of lumps.",
+    "3. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "4. Remove the saucepan from the heat and add the softened gelatin, stirring until it is fully dissolved.",
+    "5. Strain the mixture into a clean bowl to remove any lumps or gelatin particles.",
+    "6. In a separate saucepan, combine the remaining 1 cup of milk, egg yolks, and vanilla extract. Whisk until the mixture is smooth.",
+    "7. Cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "8. Remove the saucepan from the heat and stir in the custard powder mixture.",
+    "9. Pour the mixture into individual serving cups or a large serving dish.",
+    "10. Refrigerate for at least 3 hours, or until chilled and set.",
+    "11. Serve the jelly and custard chilled, garnished with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "jelly",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-australian-jelly-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:16.047Z"
+}
