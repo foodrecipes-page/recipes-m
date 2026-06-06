@@ -1,0 +1,84 @@
+{
+  "slug": "moist-yeasty-jamaican-chocolate-bake",
+  "title": "Jamaican Chocolate Bake",
+  "description": "A moist and decadent dessert that combines the flavors of the Caribbean with the richness of chocolate.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semi-sweet chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Grease a 9x9-inch baking dish and set aside.",
+    "In a medium bowl, whisk together the flour, sugar, cocoa powder, baking powder, and salt.",
+    "In a large bowl, whisk together the egg, vegetable oil, and jamaican jerk seasoning.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Fold in the chopped walnuts and chocolate chips.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chocolate",
+    "dessert",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-yeasty-jamaican-chocolate-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:11:52.949Z"
+}
