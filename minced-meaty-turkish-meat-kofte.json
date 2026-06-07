@@ -1,0 +1,95 @@
+{
+  "slug": "minced-meaty-turkish-meat-kofte",
+  "title": "Turkish-Style Kofte",
+  "description": "A classic Turkish dish made with ground meat and spices, served with a side of garlic sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Meat (Beef or Lamb)",
+      "amount": "500g",
+      "notes": "You can use a combination of beef and lamb for a more authentic flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the ground meat, chopped onion, minced garlic, chopped parsley, breadcrumbs, egg, salt, black pepper, paprika, and cumin. Mix everything together with your hands until just combined.",
+    "Don't overmix the mixture, as this can make the kofte dense and tough.",
+    "Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter. You should end up with around 20-25 kofte.",
+    "Place the kofte on a baking sheet lined with parchment paper, leaving a little space between each one to allow for even cooking.",
+    "Bake the kofte in the preheated oven for 12-15 minutes, or until they're cooked through and lightly browned on the outside.",
+    "While the kofte are baking, prepare the garlic sauce. Simply mix together 1/2 cup of mayonnaise, 1 minced garlic clove, and 1 tablespoon of chopped parsley in a small bowl.",
+    "Once the kofte are done, remove them from the oven and let them cool for a few minutes on the baking sheet.",
+    "Serve the kofte hot with a dollop of garlic sauce on top. You can also serve them with a side of rice, salad, or grilled vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kofte",
+    "meatball",
+    "garlic",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minced-meaty-turkish-meat-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:14:03.190Z"
+}
