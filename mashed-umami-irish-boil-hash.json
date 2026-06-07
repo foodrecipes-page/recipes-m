@@ -1,0 +1,75 @@
+{
+  "slug": "mashed-umami-irish-boil-hash",
+  "title": "Irish Mashed Umami Hash",
+  "description": "A hearty Irish-inspired dish combining the richness of mashed potatoes with the savory flavors of umami hash.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Umami hash",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the chopped potatoes in a large pot of salted water until tender, about 15-20 minutes.",
+    "Drain the potatoes and return them to the pot with butter, milk, salt, and pepper.",
+    "Mash the potatoes with a potato masher or a fork until they're smooth and creamy.",
+    "Meanwhile, heat the umami hash in a skillet over medium heat until crispy and golden brown.",
+    "Fluff the mashed potatoes with a fork and stir in the cooked umami hash.",
+    "Transfer the Irish Mashed Umami Hash to a serving dish and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "irish",
+    "mashed-potatoes",
+    "umami-hash"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mashed-umami-irish-boil-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:57:21.644Z"
+}
