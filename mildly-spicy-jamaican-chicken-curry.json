@@ -1,0 +1,87 @@
+{
+  "slug": "mildly-spicy-jamaican-chicken-curry",
+  "title": "Jamaican Chicken Curry",
+  "description": "A flavorful and spicy Jamaican-inspired curry dish made with chicken, mildly spicy ingredients, and a blend of aromatic spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mildly spicy curry paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium-high heat.",
+    "2. Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "3. Add the chicken and cook until browned, about 5-6 minutes.",
+    "4. Add the curry powder and paste and cook for 1-2 minutes.",
+    "5. Add the diced tomatoes, coconut milk, salt, and pepper. Stir well to combine.",
+    "6. Reduce heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "7. Taste and adjust seasoning as needed.",
+    "8. Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:45:42.248Z"
+}
