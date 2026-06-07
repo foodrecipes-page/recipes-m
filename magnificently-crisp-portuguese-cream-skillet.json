@@ -1,0 +1,90 @@
+{
+  "slug": "magnificently-crisp-portuguese-cream-skillet",
+  "title": "Crispy Portuguese Skillet",
+  "description": "A delicious and easy-to-make dish featuring crispy-skinned chicken and a creamy sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "portuguese cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "magnificently crisp",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the chicken breast with salt and pepper.",
+    "3. Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "4. Sear the chicken breast for 2-3 minutes on each side.",
+    "5. Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the chicken is cooked through.",
+    "6. While the chicken is cooking, make the creamy sauce by whisking together the portuguese cream and chicken broth in a small bowl.",
+    "7. Remove the skillet from the oven and brush the chicken with the creamy sauce.",
+    "8. Return the skillet to the oven and cook for an additional 2-3 minutes, or until the sauce is bubbly and slightly caramelized.",
+    "9. Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "10. Slice the chicken into thin pieces and serve with the remaining creamy sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "chicken",
+    "skillet",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-crisp-portuguese-cream-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:42:56.624Z"
+}
