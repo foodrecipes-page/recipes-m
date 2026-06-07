@@ -1,0 +1,75 @@
+{
+  "slug": "malty-ukrainian-swede-borscht",
+  "title": "Traditional Ukrainian Borscht",
+  "description": "A classic Ukrainian beet-based soup, rich in flavor and nutrients. Serve with a dollop of sour cream for a delicious and comforting meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and garlic, sauté until softened.",
+    "Add carrots and beets, cook for 5 minutes.",
+    "Add tomatoes, beef broth, and borscht mix.",
+    "Bring to a boil, reduce heat and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley and a dollop of sour cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "beets",
+    "ukrainian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-ukrainian-swede-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:12:40.028Z"
+}
