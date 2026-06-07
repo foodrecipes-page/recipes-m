@@ -1,0 +1,88 @@
+{
+  "slug": "molten-russian-beef-dumplings",
+  "title": "Beef Stroganoff Dumplings",
+  "description": "A hearty twist on the classic Russian dish, served with fluffy dumplings and a rich beef sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section"
+    },
+    {
+      "name": "Molten Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted and separated from the solid butter"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chopped Chives",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil. Cook the dumpling wrappers according to package instructions.",
+    "2. In a large skillet, melt the molten butter over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "3. Add the flour to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "4. Gradually add the beef broth to the skillet, whisking continuously to avoid lumps.",
+    "5. Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "6. Stir in the thyme, salt, and pepper.",
+    "7. To assemble the dish, place a cooked dumpling on a plate and spoon the beef sauce over the top.",
+    "8. Serve with a dollop of sour cream and a sprinkle of chopped chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-russian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:58:46.568Z"
+}
