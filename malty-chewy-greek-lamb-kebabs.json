@@ -1,0 +1,73 @@
+{
+  "slug": "malty-chewy-greek-lamb-kebabs",
+  "title": "Greek Lamb Kebabs",
+  "description": "A flavorful and aromatic dish featuring lamb skewers, served with a side of malty and chewy accompaniments.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Malty honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chewy pita bread",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Kebab spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut lamb into 1-inch cubes.",
+    "3. In a large bowl, whisk together Greek yogurt, olive oil, and kebab spices.",
+    "4. Add lamb cubes to the marinade and mix until well coated.",
+    "5. Thread lamb onto skewers, leaving a small space between each piece.",
+    "6. Brush lamb with malty honey and grill for 8-10 minutes, or until cooked through.",
+    "7. Warm chewy pita bread by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "8. Serve lamb kebabs with pita bread, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-chewy-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:08:05.776Z"
+}
