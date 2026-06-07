@@ -1,0 +1,73 @@
+{
+  "slug": "minty-korean-tofu-wrap",
+  "title": "Korean Minty Tofu Wrap",
+  "description": "A refreshing and flavorful wrap filled with crispy tofu, crunchy vegetables, and a hint of mint. Perfect for a quick and easy meal.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Korean Minty Wrap",
+      "amount": "1 large wrap",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Green Chili",
+      "amount": "2-3 slices",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "1 tbsp chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into small cubes and pan-fry until crispy.",
+    "2. Slice the cucumber, carrots, and green chili.",
+    "3. In a large bowl, mix together the soy sauce and chopped mint leaves.",
+    "4. Add the sliced vegetables to the bowl and toss to coat.",
+    "5. Warm the wrap in the microwave for 20-30 seconds.",
+    "6. Assemble the wrap by placing the tofu, vegetable mixture, and a sprinkle of mint leaves.",
+    "7. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "minty",
+    "tofu",
+    "wrap",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-korean-tofu-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:06:36.450Z"
+}
