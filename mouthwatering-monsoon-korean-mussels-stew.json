@@ -1,0 +1,82 @@
+{
+  "slug": "mouthwatering-monsoon-korean-mussels-stew",
+  "title": "Spicy Korean Mussels Stew",
+  "description": "A flavorful and spicy Korean-inspired stew made with succulent mussels, savory stew, and a hint of monsoon spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "monsoon spices",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add garlic and ginger, and cook until fragrant, about 1 minute.",
+    "Add mussels, stew, chili flakes, monsoon spices, soy sauce, and sugar. Stir to combine.",
+    "Cover the pot and cook for 5-7 minutes, or until the mussels are cooked through.",
+    "Discard any unopened mussels and serve hot, garnished with chopped green onions and a sprinkle of chili flakes, if desired.",
+    "Serve with steamed rice or noodles, if desired.",
+    "Adjust seasoning to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-monsoon-korean-mussels-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:12:44.665Z"
+}
