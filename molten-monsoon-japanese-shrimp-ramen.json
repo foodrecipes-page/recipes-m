@@ -1,0 +1,99 @@
+{
+  "slug": "molten-monsoon-japanese-shrimp-ramen",
+  "title": "Spicy Shrimp Ramen",
+  "description": "A spicy and savory bowl of ramen noodles topped with succulent shrimp and vegetables. Perfect for a quick and delicious meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen Noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon Japanese Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Molten Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Bok Choy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook ramen noodles according to package instructions.",
+    "In a large skillet, heat 1 tsp of sesame oil over medium heat.",
+    "Add sliced carrots and cook for 3-4 minutes, or until tender.",
+    "Add sliced bok choy and cook for an additional 2-3 minutes.",
+    "Add cooked ramen noodles to the skillet and stir to combine.",
+    "In a small bowl, whisk together molten soy sauce, Japanese rice vinegar, and Monsoon Japanese chili flakes.",
+    "Pour the sauce over the noodles and vegetables, and stir to combine.",
+    "Add cooked shrimp to the skillet and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with sliced green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pescatarian",
+    "gluten-free",
+    "quick",
+    "easy",
+    "shrimp",
+    "ramen",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-monsoon-japanese-shrimp-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:35:45.446Z"
+}
