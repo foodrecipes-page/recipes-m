@@ -1,0 +1,69 @@
+{
+  "slug": "malty-glassy-jelly-argentinian-beans-casserole",
+  "title": "Argentinian Bean Casserole",
+  "description": "A hearty and flavorful casserole dish from Argentina, made with beans, malty, glassy, jelly, and argentinian ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malteser malted milk balls",
+      "amount": "1 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Glassy noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Jelly",
+      "amount": "1 cup, crushed",
+      "notes": "any flavor"
+    },
+    {
+      "name": "Argentinian beans",
+      "amount": "1 can, drained and rinsed",
+      "notes": "black beans or kidney beans"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": "oven-safe"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the glassy noodles according to package instructions.",
+    "In a large skillet, sauté the malty, jelly, and argentinian beans in a little oil until the malty is lightly toasted.",
+    "In a large bowl, combine the cooked noodles, bean mixture, and a splash of water. Mix well.",
+    "Transfer the mixture to the casserole dish and top with additional crushed malty and jelly if desired.",
+    "Bake for 20-25 minutes, or until the casserole is hot and the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beans",
+    "casserole",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-glassy-jelly-argentinian-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:17:39.699Z"
+}
