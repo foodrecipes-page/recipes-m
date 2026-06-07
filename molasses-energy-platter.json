@@ -1,0 +1,80 @@
+{
+  "slug": "molasses-energy-platter",
+  "title": "Classic Ginger Molasses Cookies",
+  "description": "Soft, chewy, and full of spice, these classic cookies are a staple of the holiday season. Made with molasses and ginger, they're perfect for dunking in your morning coffee.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": null
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "crystallized ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, baking soda, and salt. Set aside.",
+    "In a large bowl, use an electric mixer to cream together butter and sugar until light and fluffy.",
+    "Beat in molasses and eggs until well combined.",
+    "Gradually mix in flour mixture until a dough forms.",
+    "Stir in crystallized ginger.",
+    "Roll dough into balls, about 1 tablespoon each. Place on prepared baking sheet, leaving 2 inches of space between each cookie.",
+    "Bake for 10-12 minutes, or until edges are set and centers are slightly soft.",
+    "Remove from oven and let cool on baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "gingerbread",
+    "holiday",
+    "cookies",
+    "molasses"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molasses-energy-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:46:52.731Z"
+}
