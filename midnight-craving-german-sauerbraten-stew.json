@@ -1,0 +1,92 @@
+{
+  "slug": "midnight-craving-german-sauerbraten-stew",
+  "title": "Midnight German Stew",
+  "description": "A hearty and comforting stew inspired by traditional German cuisine, perfect for a late-night craving.",
+  "cuisine": "german",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
+    "Add the sauerkraut, beef broth, red wine (if using), thyme, salt, and pepper to the pot.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2 hours, or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "comfort-food",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-german-sauerbraten-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:04:08.010Z"
+}
