@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu",
+  "title": "Pan-Seared Fish in French Au Gratin",
+  "description": "A simple yet elegant dish featuring a delicate fish fillet, coated with a crunchy sesame crust, served with a rich and creamy French au gratin sauce.",
+  "cuisine": "French",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 servings",
+      "notes": "Any mild-flavored fish works well, such as cod or tilapia"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "For crust topping"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 cup, cubed",
+      "notes": "For au gratin sauce"
+    },
+    {
+      "name": "Mellow butter",
+      "amount": "2 tbsp",
+      "notes": "For sauce"
+    },
+    {
+      "name": "Shattering garlic",
+      "amount": "2 cloves, minced",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Feu salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pot au feu broth",
+      "amount": "1 cup",
+      "notes": "For sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the fish fillet with feu salt.",
+    "Mix sesame seeds and a pinch of feu salt for the crust topping.",
+    "Dredge the fish fillet in the sesame crust, pressing gently to adhere.",
+    "Heat a skillet over medium-high heat. Add mellow butter and cook until melted.",
+    "Sear the fish fillet for 2-3 minutes on each side, until cooked through.",
+    "Transfer the fish to a baking dish and top with cubed French bread.",
+    "Pour in the pot au feu broth and dot the top with mellow butter.",
+    "Bake in the preheated oven for 10-12 minutes, until the bread is golden brown and the sauce is bubbly.",
+    "Serve immediately, garnished with chopped parsley or thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "sesame",
+    "au-gratin",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "40g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:51:29.867Z"
+}
