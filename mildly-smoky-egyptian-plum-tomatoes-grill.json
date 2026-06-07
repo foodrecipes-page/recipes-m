@@ -1,0 +1,87 @@
+{
+  "slug": "mildly-smoky-egyptian-plum-tomatoes-grill",
+  "title": "Smoky Grilled Tomatoes with Egyptian Plum Sauce",
+  "description": "Sweet and smoky grilled tomatoes served with a flavorful Egyptian-inspired plum sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plums",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "4 ripe",
+      "notes": "halved"
+    },
+    {
+      "name": "Mild Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine plums, smoked paprika, garlic, and cilantro. Blend until smooth.",
+    "Brush the tomato halves with olive oil and season with salt and black pepper.",
+    "Grill the tomatoes for 3-4 minutes per side or until slightly charred.",
+    "In a small saucepan, combine the plum sauce and balsamic vinegar. Bring to a simmer over medium heat.",
+    "Serve the grilled tomatoes with the warm plum sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegan",
+    "vegetarian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-plum-tomatoes-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:36:03.058Z"
+}
