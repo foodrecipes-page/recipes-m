@@ -3364,17 +3364,14 @@
   },
   {
     "slug": "malty-springy-polish-beef-brisket-stew",
-    "title": "Malty Springy Polish Beef Brisket Stew",
+    "title": "Hearty Beef Stew",
     "tags": [
-      "beef-brisket",
-      "crowd-pleaser",
-      "hearty-stew",
-      "malty-flavors",
-      "polish-cuisine",
-      "spring-vegetables"
+      "beef",
+      "stew",
+      "hearty"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 180,
+    "cuisine": "European",
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {
@@ -3425,15 +3422,14 @@
   },
   {
     "slug": "malty-ukrainian-swede-borscht",
-    "title": "Malty Ukrainian Swede Borscht",
+    "title": "Traditional Ukrainian Borscht",
     "tags": [
-      "comfort-food",
-      "eastern-european",
-      "unique",
-      "vegetarian"
+      "borscht",
+      "beets",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -14956,17 +14952,16 @@
   },
   {
     "slug": "minced-meaty-turkish-meat-kofte",
-    "title": "minced meaty turkish meat kofte",
+    "title": "Turkish-Style Kofte",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
       "turkish",
-      "weeknight"
+      "kofte",
+      "meatball",
+      "garlic",
+      "sauce"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 22,
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
