@@ -1,0 +1,89 @@
+{
+  "slug": "magnificently-moist-turkish-lamb-pide",
+  "title": "Turkish-Style Lamb Pide",
+  "description": "A delicious and authentic Turkish dish featuring tender lamb and crispy pide bread, served with a side of fresh herbs and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Mild red pepper flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing pide"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turkish pide dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the pide dough to a thickness of 1/4 inch.",
+    "Cut the lamb shoulder into 1-inch cubes and season with salt, black pepper, and red pepper flakes.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a baking sheet and set aside.",
+    "Place the pide dough on a baking sheet lined with parchment paper.",
+    "Brush the dough with olive oil and sprinkle with minced garlic.",
+    "Bake the pide in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the pide is baking, heat the remaining 2 tablespoons of olive oil in a large skillet over medium heat.",
+    "Add the lamb cubes back into the skillet and cook until heated through.",
+    "Serve the lamb with the crispy pide bread and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "pide",
+    "bread",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-moist-turkish-lamb-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:45:13.389Z"
+}
