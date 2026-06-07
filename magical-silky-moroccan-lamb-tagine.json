@@ -1,0 +1,96 @@
+{
+  "slug": "magical-silky-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb and aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder, boneless",
+      "amount": "1.5-2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 tablespoons",
+      "notes": "A blend of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Silky Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Magical Preserved Lemon",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Add onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add Moroccan spices and cook for 1 minute.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add chickpeas, honey, and preserved lemon (if using).",
+    "Return the lamb to the pot and bring to a simmer.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until lamb is tender and falling apart.",
+    "Serve hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "35g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-silky-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T09:54:56.266Z"
+}
