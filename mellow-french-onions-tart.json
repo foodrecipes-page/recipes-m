@@ -1,0 +1,99 @@
+{
+  "slug": "mellow-french-onions-tart",
+  "title": "Tart Mellow Chicken Fricassee",
+  "description": "A rich and savory dish featuring mellow chicken cooked in a tart and slightly sweet sauce, served with French onions.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mellow butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "French onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tart apples",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat 2 tablespoons of mellow butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of mellow butter to the skillet.",
+    "Add the sliced French onions to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the diced tart apples to the skillet and cook for an additional 2 minutes.",
+    "Add the flour to the skillet and cook for 1 minute, stirring constantly.",
+    "Gradually add the white wine and chicken broth to the skillet, whisking continuously.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 2-3 minutes.",
+    "Stir in the heavy cream and cook for an additional 2 minutes, or until the sauce has thickened.",
+    "Return the chicken to the skillet and cook until heated through.",
+    "Serve the chicken and sauce over cooked noodles or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fricassee",
+    "french",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-french-onions-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:45:54.844Z"
+}
