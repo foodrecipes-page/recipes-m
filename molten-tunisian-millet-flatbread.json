@@ -1,0 +1,73 @@
+{
+  "slug": "molten-tunisian-millet-flatbread",
+  "title": "Tunisian Millet Bowl",
+  "description": "A hearty bowl filled with flavors of Tunisia, featuring millet, flatbread, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook millet according to package instructions.",
+    "3. Warm flatbread in the oven for 2-3 minutes.",
+    "4. In a pan, heat olive oil over medium heat.",
+    "5. Add Tunisian spice blend and cook for 1 minute.",
+    "6. Add cooked millet to the pan and toss with spice blend.",
+    "7. Season with salt to taste.",
+    "8. Serve millet mixture in a bowl, topped with parsley and cilantro.",
+    "9. Serve with warm flatbread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "millet",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-tunisian-millet-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:46:35.853Z"
+}
