@@ -1,0 +1,64 @@
+{
+  "slug": "malty-springy-slovakian-oat-milk-pudding",
+  "title": "Slovakian Oat Pudding",
+  "description": "A traditional Slovakian dessert made with oat milk, pudding, and malty flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "slovakian pudding",
+      "amount": "1 package",
+      "notes": "flavored with vanilla"
+    },
+    {
+      "name": "malty flavoring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "springy oat flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine oat milk and pudding package. Cook over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes or until the pudding is heated through.",
+    "Remove from heat and stir in malty flavoring and springy oat flour.",
+    "Return the saucepan to low heat and cook for an additional 2-3 minutes, stirring constantly.",
+    "Remove from heat and stir in sugar until dissolved.",
+    "Pour pudding mixture into individual serving cups.",
+    "Chill in the refrigerator for at least 2 hours or until set.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "oat-pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-springy-slovakian-oat-milk-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:23:04.070Z"
+}
