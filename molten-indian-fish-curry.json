@@ -1,0 +1,91 @@
+{
+  "slug": "molten-indian-fish-curry",
+  "title": "Spicy Fish Curry",
+  "description": "A classic Indian-inspired dish that combines the flavors of fish, curry, and spices. Best served with steamed rice or naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (1 lb)",
+      "amount": "1 pound",
+      "notes": "Any white fish works well, such as cod or tilapia"
+    },
+    {
+      "name": "Molten",
+      "amount": "1/2 cup",
+      "notes": "Use a mix of curry powder and garam masala"
+    },
+    {
+      "name": "Curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For thinning the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add curry paste and molten. Cook for 1-2 minutes, stirring constantly.",
+    "Add fish and cook until it starts to flake. Remove from heat.",
+    "Add tomato sauce, fish sauce, and water. Stir to combine.",
+    "Return fish to the pan and simmer for 5-7 minutes, or until cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve over steamed rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "curry",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-indian-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:30:28.078Z"
+}
