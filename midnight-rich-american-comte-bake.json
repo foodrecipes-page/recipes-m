@@ -1,0 +1,76 @@
+{
+  "slug": "midnight-rich-american-comte-bake",
+  "title": "Midnight Comte Bake",
+  "description": "A rich and creamy American-style bake dessert. The combination of Midnight chocolate and Comte cheese will tantalize your taste buds.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "8 oz",
+      "notes": "unsalted"
+    },
+    {
+      "name": "comte cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "midnight chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9x13-inch baking dish and set aside.",
+    "In a medium-sized bowl, whisk together the flour and sugar.",
+    "Add in the unsalted butter and mix until a crumbly mixture forms.",
+    "Press the mixture into the prepared baking dish.",
+    "In a separate bowl, whisk together the grated Comte cheese and chopped Midnight chocolate.",
+    "Add in the eggs and mix until well combined.",
+    "Pour the cheese mixture over the crust.",
+    "Bake for 35-40 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "cheese",
+    "dessert",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-rich-american-comte-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:01:17.474Z"
+}
