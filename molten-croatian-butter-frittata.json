@@ -1,0 +1,60 @@
+{
+  "slug": "molten-croatian-butter-frittata",
+  "title": "Croatian Frittata",
+  "description": "A traditional Croatian-style omelette filled with melted cheese and perfect for a quick breakfast or brunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "breakfast",
+    "lunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Molten cheese",
+      "amount": "1 cup",
+      "notes": "Grated or shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Frittata",
+      "amount": "1",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Crack the frittata into a bowl and whisk until smooth.",
+    "Add the grated cheese and mix well.",
+    "Melt the butter in a non-stick skillet over medium heat.",
+    "Pour the frittata mixture into the skillet and cook for 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes.",
+    "Remove the skillet from the oven and let it cool for 1-2 minutes.",
+    "Slide the frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "croatian",
+    "omelette",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-croatian-butter-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:07:00.705Z"
+}
