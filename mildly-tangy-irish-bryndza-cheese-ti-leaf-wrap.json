@@ -1,0 +1,68 @@
+{
+  "slug": "mildly-tangy-irish-bryndza-cheese-ti-leaf-wrap",
+  "title": "Ti Wrap",
+  "description": "A delicious and easy-to-make wrap filled with a tangy cheese spread and crispy leafy greens.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ti",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Bryndza cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Mildly tangy sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Leaf",
+      "amount": "1/4 cup",
+      "notes": "chopped, crispy"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "large, flour tortilla"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Spread the bryndza cheese evenly across the center of the wrap, leaving a small border around the edges.",
+    "3. Add the shredded ti on top of the cheese.",
+    "4. Drizzle the mildly tangy sauce over the ti.",
+    "5. Add the chopped leaf on top of the ti.",
+    "6. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "7. Cook for 2-3 minutes, until the wrap is crispy and the filling is heated through.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "irish",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-tangy-irish-bryndza-cheese-ti-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:15:26.599Z"
+}
