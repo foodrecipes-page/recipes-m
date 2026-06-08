@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-pungent-irish-gobo-burdock-bowl",
+  "title": "Braised Burdock with Irish Sausage",
+  "description": "A hearty and flavorful stew made with burdock root, Irish sausage, and mildly spicy seasonings.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Burdock root",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Gobo",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Mildly spicy broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Add the sliced burdock and gobo, and cook for an additional 5 minutes.",
+    "4. Add the Irish sausage and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "5. Add the carrots, mildly spicy broth, and bring to a boil.",
+    "6. Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the vegetables are tender.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-pungent-irish-gobo-burdock-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:34:57.476Z"
+}
