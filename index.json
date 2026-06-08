@@ -9922,15 +9922,15 @@
   },
   {
     "slug": "midnight-rich-american-comte-bake",
-    "title": "Midnight Rich American Comte Bake",
+    "title": "Midnight Comte Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chocolate",
+      "cheese",
+      "dessert",
+      "bake"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -15367,13 +15367,15 @@
   },
   {
     "slug": "miso-jamaican-lobster-stew",
-    "title": "Miso Jamaican Lobster Stew",
+    "title": "Lobster Miso Stew",
     "tags": [
-      "jamaican-fusion",
-      "dinner"
+      "seafood",
+      "stew",
+      "miso",
+      "gluten-free"
     ],
-    "cuisine": "Jamaican fusion",
-    "totalTimeMin": 40,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -17403,17 +17405,14 @@
   },
   {
     "slug": "molten-roasted-russian-vegetables-roast",
-    "title": "Molten Roasted Russian Vegetables Roast",
+    "title": "Roasted Russian Vegetable Delight",
     "tags": [
       "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "roasted-vegetables",
+      "russian-cuisine"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 80,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
