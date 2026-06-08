@@ -1,0 +1,56 @@
+{
+  "slug": "molten-roasted-russian-vegetables-roast",
+  "title": "Roasted Russian Vegetable Delight",
+  "description": "A hearty and flavorful dish featuring roasted Russian vegetables, perfect for a comforting meal. This recipe is easy to make and packed with nutrients.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian vegetables",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Roast",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Molten",
+      "amount": "1 tablespoon",
+      "notes": "butter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the Russian vegetables into bite-sized pieces.",
+    "Place the vegetables in a bowl and toss with olive oil, salt, and pepper.",
+    "Transfer the vegetables to a baking sheet and roast in the preheated oven for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, melt the butter in a small saucepan over low heat.",
+    "Once the vegetables are done, remove them from the oven and toss with the melted butter.",
+    "Serve the roasted vegetables hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "roasted-vegetables",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-roasted-russian-vegetables-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:51:27.476Z"
+}
