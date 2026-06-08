@@ -1,0 +1,76 @@
+{
+  "slug": "mouthwatering-crispy-japanese-noodle-ramen",
+  "title": "Japanese-Style Ramen Noodle Soup",
+  "description": "A hearty and comforting Japanese-inspired noodle soup made with a rich pork broth, topped with crispy tempura bits and green onions.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Pork bones",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Tempura bits",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork bones and 4 cups of water. Bring to a boil, then reduce heat and simmer for 1 hour.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add soy sauce and sesame oil to the broth. Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Cook ramen noodles according to package instructions. Drain and set aside.",
+    "In a pan, heat some sesame oil and cook sliced mushrooms until tender.",
+    "Add tempura bits to the pan and cook until crispy.",
+    "To assemble the soup, place cooked noodles in a bowl, then add hot broth and top with green onions, sliced scallions, and tempura bits.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "noodle",
+    "soup",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-crispy-japanese-noodle-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:20:36.952Z"
+}
