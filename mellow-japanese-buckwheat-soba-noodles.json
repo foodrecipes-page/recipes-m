@@ -1,0 +1,100 @@
+{
+  "slug": "mellow-japanese-buckwheat-soba-noodles",
+  "title": "Creamy Mellow Soba Noodle Soup",
+  "description": "A comforting and creamy Japanese-inspired soba noodle soup made with mellow flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mellow broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook soba noodles according to package instructions.",
+    "In a large pot, heat mellow broth over medium heat.",
+    "Add sliced mushrooms and cook until tender.",
+    "Add green onions and cook for an additional minute.",
+    "Stir in soy sauce, sesame oil, and sesame seeds.",
+    "Add cooked soba noodles to the pot and toss to combine.",
+    "Stir in soy cream until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: Garnish with additional green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "mellow",
+    "soy-sauce",
+    "sesame-seeds",
+    "green-onions",
+    "mushrooms",
+    "soba-noodles",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-buckwheat-soba-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:08.132Z"
+}
