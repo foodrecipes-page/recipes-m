@@ -1,0 +1,80 @@
+{
+  "slug": "mellow-japanese-celery-shio-ramen",
+  "title": "Japanese Shio Ramen Soup",
+  "description": "A traditional Japanese ramen soup made with rich pork broth and topped with savory shio, mellow noodles, and crunchy vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow Ramen Noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Pork Bones",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "Shio",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1 stalk",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Place the pork bones on a baking sheet and roast for 20-25 minutes, or until lightly browned.",
+    "3. In a large stockpot, combine the roasted pork bones, celery, soy sauce, and sesame oil. Pour in enough water to cover the bones.",
+    "4. Bring the mixture to a boil, then reduce the heat to a simmer and cook for 4-5 hours, or until the broth is rich and flavorful.",
+    "5. Cook the mellow ramen noodles according to the package instructions. Drain and set aside.",
+    "6. Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "7. Add the shio to the broth and stir to combine.",
+    "8. Divide the cooked noodles among four bowls. Ladle the hot broth over the noodles.",
+    "9. Garnish with green onion and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ramen",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-celery-shio-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:06:50.324Z"
+}
