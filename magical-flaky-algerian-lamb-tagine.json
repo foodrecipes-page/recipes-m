@@ -1,0 +1,93 @@
+{
+  "slug": "magical-flaky-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A traditional North African dish made with lamb, spices, and a flavorful sauce, all slow-cooked to perfection in a clay pot called a tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Magical spices",
+      "amount": "2 tsp",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Algerian olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1 large",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "to garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "1 cup",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "to coat the lamb"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay tagine or Dutch oven over medium heat.",
+    "Brown the lamb in batches until it is well browned, about 5 minutes per batch.",
+    "Add the onions and cook until they are softened, about 5 minutes.",
+    "Add the magical spices, sea salt, olives, parsley, lemon juice, tagine spice blend, and lamb broth.",
+    "Stir to combine, then return the lamb to the pot and bring to a simmer.",
+    "Cover the pot and transfer it to the oven. Cook for 2 1/2 hours, or until the meat is tender and the sauce has thickened.",
+    "Season with salt to taste, then serve hot over couscous or rice.",
+    "Garnish with additional parsley and olives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-flaky-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:15:01.147Z"
+}
