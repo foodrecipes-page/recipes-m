@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-smoked-brazilian-lamb-skewers",
+  "title": "Brazilian-Style Skewers with Smoked Lamb",
+  "description": "A flavorful and easy-to-make recipe featuring smoked lamb, marinated in a blend of Brazilian spices and grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Mildly sweet onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Brazilian-style skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, garlic, salt, and pepper.",
+    "Add the sliced onions and chopped cilantro to the bowl and toss to coat.",
+    "Thread the lamb cubes, onions, and cilantro onto the skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "skewers",
+    "brazilian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoked-brazilian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:45:03.665Z"
+}
