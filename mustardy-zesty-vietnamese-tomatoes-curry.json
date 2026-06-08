@@ -1,0 +1,78 @@
+{
+  "slug": "mustardy-zesty-vietnamese-tomatoes-curry",
+  "title": "Vietnamese-Style Curry Chicken",
+  "description": "A flavorful and spicy curry dish made with chicken and a blend of Vietnamese and Indian spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mustardy oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the mustardy oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the zesty lime juice and cook for another minute.",
+    "Add the curry, salt, and tomatoes, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Serve hot and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "curry",
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-zesty-vietnamese-tomatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:32:40.644Z"
+}
