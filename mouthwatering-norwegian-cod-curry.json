@@ -1,0 +1,102 @@
+{
+  "slug": "mouthwatering-norwegian-cod-curry",
+  "title": "Norwegian Cod Curry",
+  "description": "A delicious and flavorful Norwegian-inspired curry made with cod and a blend of spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or thawed"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tsp",
+      "notes": "Norwegian-style curry powder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Norwegian sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger, and cook for an additional 1-2 minutes.",
+    "Add the cod fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Remove the cod from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+    "Add the tomato paste and cook for an additional 1-2 minutes.",
+    "Add the chicken broth and bring to a simmer.",
+    "Return the cod to the skillet and cook for an additional 2-3 minutes, or until the sauce has thickened.",
+    "If desired, stir in the heavy cream to add a rich and creamy texture.",
+    "Season with salt and black pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "fish",
+    "curry",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-norwegian-cod-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:03:44.094Z"
+}
