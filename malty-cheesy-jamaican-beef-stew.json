@@ -1,0 +1,68 @@
+{
+  "slug": "malty-cheesy-jamaican-beef-stew",
+  "title": "Jamaican Beef Stew",
+  "description": "A hearty and flavorful beef stew infused with the warmth of Jamaican spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "beef",
+    "stew"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "malty",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cheesy",
+      "amount": "1 cup shredded",
+      "notes": "cheddar or mozzarella work well"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp jerk seasoning",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups beef broth",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add jerk seasoning and cook for 1 minute.",
+    "Add beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Stir in malty and cheesy until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "jamaican-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-cheesy-jamaican-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:21:49.693Z"
+}
