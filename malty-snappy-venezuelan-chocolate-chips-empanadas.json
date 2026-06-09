@@ -1,0 +1,72 @@
+{
+  "slug": "malty-snappy-venezuelan-chocolate-chips-empanadas",
+  "title": "Venezuelan Empanada Chips with Chocolate Malty Dip",
+  "description": "A sweet and crispy dessert inspired by Venezuelan street food. Crunchy empanada chips served with a rich malty chocolate dip.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "malty",
+      "amount": "1/2 cup",
+      "notes": "malted milk powder"
+    },
+    {
+      "name": "chips",
+      "amount": "1 cup",
+      "notes": "assorted flavored chips"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1 cup",
+      "notes": "dark chocolate chips"
+    },
+    {
+      "name": "snappy",
+      "amount": "1/4 cup",
+      "notes": "snappy peanut brittle"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "2 tablespoons",
+      "notes": "venezuelan vanilla extract"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the empanadas into thin strips and bake for 5-7 minutes, or until crispy.",
+    "3. In a large bowl, mix together the malted milk powder, chocolate chips, and peanut brittle.",
+    "4. In a separate bowl, whisk together the vanilla extract and melted chocolate.",
+    "5. Add the chocolate mixture to the powder mixture and stir until combined.",
+    "6. Serve the empanada chips with the malty chocolate dip.",
+    "7. Enjoy as a sweet and crunchy dessert!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "empanadas",
+    "latino"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-snappy-venezuelan-chocolate-chips-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:19:21.721Z"
+}
