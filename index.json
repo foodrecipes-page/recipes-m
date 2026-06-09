@@ -2024,17 +2024,14 @@
   },
   {
     "slug": "malty-cheesy-jamaican-beef-stew",
-    "title": "Malty Cheesy Jamaican Beef Stew",
+    "title": "Jamaican Beef Stew",
     "tags": [
-      "beef",
-      "cheesy",
-      "kosher-friendly",
-      "malty",
-      "one-pot",
-      "weeknight"
+      "beef-stew",
+      "jamaican-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 75,
+    "cuisine": "jamaican",
+    "totalTimeMin": 140,
     "shard": "m"
   },
   {
@@ -3559,17 +3556,14 @@
   },
   {
     "slug": "maple-syrupy-fluffy-american-french-toast-bake",
-    "title": "Maple Syrupy Fluffy American French-toast Bake",
+    "title": "Classic American French Toast",
     "tags": [
       "breakfast",
-      "buttery",
-      "comfort-food",
-      "low-fat-friendly",
-      "sweet",
-      "weeknight"
+      "brunch",
+      "french-toast"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "m"
   },
   {
@@ -15450,15 +15444,14 @@
   },
   {
     "slug": "mixed-gooey-japanese-peppers-okonomiyaki",
-    "title": "Mixed Gooey Japanese Peppers Okonomiyaki",
+    "title": "Japanese-Style Okonomiyaki",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "japan",
+      "pancake",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
