@@ -1,0 +1,64 @@
+{
+  "slug": "mildly-pungent-uruguayan-lettuce-salad",
+  "title": "Uruguayan Salad",
+  "description": "A refreshing salad made with lettuce, mildly pungent cheese, and uruguayan flair. The perfect accompaniment to any meal.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Mildly Pungent Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Uruguayan Bread, Croutons",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup, mixed greens"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lettuce, mildly pungent cheese, uruguayan bread croutons, and salad.",
+    "In a small bowl, whisk together the dressing ingredients: olive oil, vinegar, and salt.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Top with red onion and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "salad",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-pungent-uruguayan-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:05:40.194Z"
+}
