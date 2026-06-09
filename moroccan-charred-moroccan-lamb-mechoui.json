@@ -1,0 +1,88 @@
+{
+  "slug": "moroccan-charred-moroccan-lamb-mechoui",
+  "title": "Classic Moroccan Mechoui",
+  "description": "Traditional Moroccan lamb mechoui, slow-cooked to perfection. A flavorful and aromatic dish perfect for special occasions.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Moroccan lamb shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a small bowl, mix together the Moroccan spice blend, olive oil, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat a large Dutch oven over medium-high heat. Sear the lamb shoulder until it's browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a large baking dish and add the chopped onion and minced garlic.",
+    "Cover the dish with aluminum foil and transfer it to the preheated oven.",
+    "Baste the lamb with the pan juices every 30 minutes. Continue cooking for 2 1/2 to 3 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the lamb from the oven and let it rest for 15 minutes before slicing it thinly.",
+    "Serve the lamb with the pan juices spooned over the top, garnished with chopped fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "meat",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moroccan-charred-moroccan-lamb-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:45:54.151Z"
+}
