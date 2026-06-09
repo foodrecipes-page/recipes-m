@@ -1,0 +1,97 @@
+{
+  "slug": "magnificently-spicy-turkish-lamb-iskender",
+  "title": "Lamb Iskender Kebab",
+  "description": "A traditional Turkish dish made with thinly sliced lamb, served in a rich tomato sauce and topped with crispy bread and melted butter.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": "Thinly slice the lamb"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Crushed or blended"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bread",
+      "amount": "4-6 slices",
+      "notes": "Pita or baguette"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the olive oil, garlic, allspice, paprika, salt, and pepper.",
+    "Add the sliced lamb to the bowl and toss to coat with the marinade.",
+    "Thread the lamb slices onto skewers, if using.",
+    "Grill the lamb for 5-7 minutes per side, or until cooked to your liking.",
+    "While the lamb is cooking, heat the tomato paste in a large saucepan over medium heat.",
+    "Add the sliced onion to the saucepan and cook until softened, about 5 minutes.",
+    "Stir in the melted butter and season with salt and pepper to taste.",
+    "Serve the lamb hot, topped with the tomato sauce and crispy bread.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "kebab"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-spicy-turkish-lamb-iskender",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:26:15.267Z"
+}
