@@ -1,0 +1,97 @@
+{
+  "slug": "mildly-smoky-mediterranean-lamb-kebabs",
+  "title": "Lamb Kebabs with Smoky Mediterranean Flair",
+  "description": "Grilled lamb kebabs infused with the smoky flavors of the Mediterranean, perfect for a summer evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat",
+    "pescatarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "grill",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "You can also use lamb leg or a combination of lamb and beef."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality extra-virgin olive oil for the best flavor."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice is best."
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "This gives the kebabs their smoky flavor."
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Use a mild garlic powder to avoid overpowering the dish."
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt or sea salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper is best."
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Use fresh parsley for the best flavor and texture."
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "This adds a refreshing flavor to the kebabs."
+    },
+    {
+      "name": "pita bread, for serving",
+      "amount": "4-6 pita breads",
+      "notes": "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat, about 400°F.",
+    "In a large bowl, whisk together the olive oil, lemon juice, smoky paprika, garlic powder, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until they are cooked to your desired level of doneness.",
+    "Meanwhile, warm the pita breads by wrapping them in foil and heating them in the oven for a few minutes.",
+    "Serve the kebabs hot, garnished with chopped parsley and mint, and served with warm pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "mediterranean",
+    "grill",
+    "summer",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:54:15.665Z"
+}
