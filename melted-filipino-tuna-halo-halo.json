@@ -1,0 +1,66 @@
+{
+  "slug": "melted-filipino-tuna-halo-halo",
+  "title": "Halo-Halo Filipino Tuna Topping",
+  "description": "A Filipino-inspired dessert topping using sweetened halos topped with a savory tuna mixture. This dish is perfect for hot summer days.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "halos",
+      "amount": "2 cups",
+      "notes": "sweetened and hollowed"
+    },
+    {
+      "name": "tuna",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "melted cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the fish sauce over low heat if using.",
+    "Add the tuna and stir until heated through.",
+    "Add the melted cheddar cheese and stir until combined.",
+    "Set aside to cool.",
+    "In a separate bowl, combine halos and tuna mixture.",
+    "Mix well and refrigerate for at least 30 minutes.",
+    "Serve chilled and garnish with additional halos if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-desserts",
+    "tuna-topping"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-filipino-tuna-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:37:16.588Z"
+}
