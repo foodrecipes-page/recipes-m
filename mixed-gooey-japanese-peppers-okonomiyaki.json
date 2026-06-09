@@ -1,0 +1,68 @@
+{
+  "slug": "mixed-gooey-japanese-peppers-okonomiyaki",
+  "title": "Japanese-Style Okonomiyaki",
+  "description": "A savory pancake from Japan, filled with gooey cheese and mixed vegetables. Perfect as a snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Batter Mix",
+      "amount": "250g",
+      "notes": "Store-bought or homemade okonomiyaki batter mix"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "50g",
+      "notes": "Shredded or sliced"
+    },
+    {
+      "name": "Okonomiyaki Sauce",
+      "amount": "2 tbsp",
+      "notes": "Soy-based sauce for okonomiyaki"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the batter mix and 1/2 cup of water. Mix until smooth.",
+    "Add the shredded cabbage and mixed vegetables to the bowl and mix well.",
+    "Heat a non-stick pan or okonomiyaki pan over medium heat.",
+    "Add a small amount of oil to the pan and pour in the batter mix mixture.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Add the shredded cheese on top of the batter mix.",
+    "Cook for another 2-3 minutes or until the cheese is melted and the bottom is golden brown.",
+    "Use a spatula to flip the okonomiyaki over and cook for another 2-3 minutes or until the other side is golden brown.",
+    "Serve the okonomiyaki hot with okonomiyaki sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japan",
+    "pancake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mixed-gooey-japanese-peppers-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:08:16.226Z"
+}
