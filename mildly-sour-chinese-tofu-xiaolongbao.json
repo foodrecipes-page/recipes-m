@@ -1,0 +1,76 @@
+{
+  "slug": "mildly-sour-chinese-tofu-xiaolongbao",
+  "title": "Steamed Xiaolongbao with Mildly Sour Dipping Sauce",
+  "description": "A traditional Chinese soup dumpling recipe filled with pork and served with a mildly sour dipping sauce. This dish is a variation of the classic Xiaolongbao from the Jiangsu province.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block, drained and crumbled"
+    },
+    {
+      "name": "Xiaolongbao",
+      "amount": "12-16 dumplings"
+    },
+    {
+      "name": "Sour dough flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mildly sour vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Soak the Xiaolongbao in warm water for 10 minutes to rehydrate.",
+    "2. In a pan, combine the mildly sour vinegar, soy sauce, and sugar. Bring to a simmer over medium heat.",
+    "3. Add the crumbled tofu to the pan and stir until the sauce has thickened.",
+    "4. Add the chopped scallions to the pan and stir-fry for 1 minute.",
+    "5. Steam the Xiaolongbao for 8-10 minutes, or until the dumplings are cooked through.",
+    "6. Serve the steamed Xiaolongbao with the mildly sour dipping sauce.",
+    "7. Sprinkle salt to taste.",
+    "8. Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dinner",
+    "soup",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-chinese-tofu-xiaolongbao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:21:55.343Z"
+}
