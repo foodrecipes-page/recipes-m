@@ -1,0 +1,61 @@
+{
+  "slug": "minty-brazilian-beans-casserole",
+  "title": "Brazilian Beans Casserole",
+  "description": "A delicious and easy-to-make casserole dish, perfect for a weeknight dinner. The sweetness of the beans pairs well with the spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 box (12 oz)",
+      "notes": "follow package instructions for preparation"
+    },
+    {
+      "name": "minty",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the casserole according to the package instructions.",
+    "In a large skillet, sauté the Brazilian and minty over medium heat.",
+    "Add the beans to the skillet and stir to combine.",
+    "Transfer the bean mixture to the prepared casserole.",
+    "Bake for 20-25 minutes, or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "beans",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-brazilian-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:02:49.106Z"
+}
