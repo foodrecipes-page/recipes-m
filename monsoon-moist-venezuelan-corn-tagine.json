@@ -1,0 +1,82 @@
+{
+  "slug": "monsoon-moist-venezuelan-corn-tagine",
+  "title": "Venezuelan Corn Tagine",
+  "description": "A unique fusion dish blending the flavors of Venezuela and North Africa, served as a side or light meal. The tagine's slow-cooked goodness pairs perfectly with the sweetness of corn.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezuelan corn",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "use for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add corn, tagine spice mix, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 15-20 minutes or until corn is tender.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "venezuelan",
+    "tagine",
+    "fusion",
+    "side-dish",
+    "light-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-moist-venezuelan-corn-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:59:20.560Z"
+}
