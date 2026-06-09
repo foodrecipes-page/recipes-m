@@ -1,0 +1,85 @@
+{
+  "slug": "mellow-mild-ethiopian-lentils-ye-beg-alichia",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A hearty and flavorful stew made with red lentils, onions, garlic, and spices, inspired by Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mild chili powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ethiopian spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mellow ale",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chili powder, spice blend, and salt, and cook for 1 minute.",
+    "Add tomato paste and cook for 2 minutes, stirring constantly.",
+    "Add lentils, water, and ale, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir in chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "stew",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-mild-ethiopian-lentils-ye-beg-alichia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:55:56.374Z"
+}
