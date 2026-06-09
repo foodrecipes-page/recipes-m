@@ -1,0 +1,96 @@
+{
+  "slug": "mighty-mouthwatering-american-beef-burger",
+  "title": "American Beef Burger",
+  "description": "A classic American-style beef burger, perfect for a quick and satisfying meal. Juicy beef patties topped with cheese, lettuce, tomato, and a slice of onion.",
+  "cuisine": "american",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Mighty American Cheese",
+      "amount": "4 slices",
+      "notes": "such as cheddar or American"
+    },
+    {
+      "name": "Mouthwatering Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beef Burger Buns",
+      "amount": "4 buns",
+      "notes": "toasted"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Divide the ground beef into 4 equal portions and shape each into a ball.",
+    "3. Flatten each ball into a patty about 3/4 inch thick.",
+    "4. Season the patties with salt and pepper.",
+    "5. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "6. Meanwhile, toast the buns on the grill or in a toaster.",
+    "7. Assemble the burgers by spreading a slice of cheese on the bottom bun, followed by a patty, a few slices of onion, a lettuce leaf, a tomato slice, and finally the top bun.",
+    "8. Serve immediately and enjoy!",
+    "9. If desired, top with ketchup, mayonnaise, or other condiments.",
+    "10. Serve with your favorite sides, such as fries or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "beef",
+    "burger",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-mouthwatering-american-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:55:58.153Z"
+}
