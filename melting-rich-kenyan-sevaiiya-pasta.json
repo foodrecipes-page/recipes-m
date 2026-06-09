@@ -1,0 +1,74 @@
+{
+  "slug": "melting-rich-kenyan-sevaiiya-pasta",
+  "title": "Kenyan Spaghetti with Rich Meat Sauce",
+  "description": "A hearty and flavorful spaghetti dish inspired by Kenyan cuisine, featuring a rich meat sauce made with melting beef and onions.",
+  "cuisine": "kenyan",
+  "diet": [
+    "beef",
+    "pasta"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 pound",
+      "notes": "spaghetti"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Cook the spaghetti in boiling salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the reserved pasta water to the skillet and bring the sauce to a simmer.",
+    "Reduce the heat to low and let the sauce simmer while the spaghetti finishes cooking.",
+    "Toss the cooked spaghetti in the rich meat sauce and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "pasta",
+    "spaghetti",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melting-rich-kenyan-sevaiiya-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:36:20.398Z"
+}
