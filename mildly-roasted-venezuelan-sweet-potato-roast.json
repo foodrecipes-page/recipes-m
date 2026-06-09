@@ -1,0 +1,67 @@
+{
+  "slug": "mildly-roasted-venezuelan-sweet-potato-roast",
+  "title": "Venezuelan Sweet Potato Roast",
+  "description": "A delicious and flavorful dish originating from Venezuela, featuring roasted sweet potatoes.",
+  "cuisine": "latin american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "mildly salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Wash the sweet potatoes and poke some holes in them with a fork to allow steam to escape.",
+    "Rub the sweet potatoes with the roast oil and sprinkle with salt, garlic, and black pepper.",
+    "Place the sweet potatoes on a baking sheet lined with parchment paper.",
+    "Roast the sweet potatoes in the preheated oven for 45-50 minutes, or until they are tender when pierced with a fork.",
+    "Remove the sweet potatoes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet potato",
+    "venezuelan",
+    "latin american",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-venezuelan-sweet-potato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:42:21.657Z"
+}
