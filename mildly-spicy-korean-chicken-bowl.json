@@ -1,0 +1,91 @@
+{
+  "slug": "mildly-spicy-korean-chicken-bowl",
+  "title": "Spicy Korean Chicken Bowl",
+  "description": "A flavorful and spicy Korean-inspired chicken bowl recipe. Marinated chicken is grilled to perfection and served over a bed of rice with crunchy kimchi slaw.",
+  "cuisine": "korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of gochujang sauce, soy sauce, brown sugar, garlic, and ginger for at least 2 hours.",
+    "Preheat grill to medium-high heat. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Cook the rice according to package instructions.",
+    "In a small bowl, mix together kimchi, cucumber, and green onion.",
+    "To assemble the bowls, place a scoop of rice on the bottom, followed by the grilled chicken, kimchi slaw, and any additional toppings as desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "chicken",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-korean-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:24:26.790Z"
+}
