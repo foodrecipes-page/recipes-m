@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-roasted-italian-pork-bigoli",
+  "title": "Roasted Pork with Mellow Bigoli",
+  "description": "A hearty Italian-inspired dish featuring roasted pork paired with mellow bigoli.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Mellow bigoli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork shoulder with salt, black pepper, and Italian seasoning.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the pork to the oven and roast for 20 minutes.",
+    "While the pork is roasting, cook the bigoli according to the package instructions.",
+    "After 20 minutes, remove the pork from the oven and add the roasted garlic to the pot.",
+    "Return the pork to the oven and roast for an additional 10 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Let the pork rest for 5 minutes before slicing and serving with the bigoli.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "roasted",
+    "bigoli"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-italian-pork-bigoli",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:13:22.987Z"
+}
