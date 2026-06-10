@@ -1,0 +1,61 @@
+{
+  "slug": "melted-saudi-apples-croquettes",
+  "title": "Saudi Apple Croquettes",
+  "description": "A delicious and crispy dessert inspired by Saudi cuisine, featuring a sweet apple filling in a crunchy croquette.",
+  "cuisine": "saudi",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saudi spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2"
+    },
+    {
+      "name": "croquettes",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F.",
+    "In a large bowl, combine the flour and spice mix.",
+    "Add the melted butter and mix until the dough comes together.",
+    "Peel and chop the apples, then add them to the dough and mix well.",
+    "Wrap the dough around the croquettes, sealing the edges.",
+    "Deep-fry the croquettes until golden brown.",
+    "Drain on paper towels and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "dessert",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-saudi-apples-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:57:07.690Z"
+}
