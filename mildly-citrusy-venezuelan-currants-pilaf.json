@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-citrusy-venezuelan-currants-pilaf",
+  "title": "Venezuelan Citrus Pilaf",
+  "description": "A flavorful and aromatic pilaf dish from Venezuela, infused with citrusy notes. Perfect for a light lunch or dinner.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "currants",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mildly spicy sazon seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add mildly spicy sazon seasoning and sauté for 1-2 minutes.",
+    "Add pilaf and stir to coat with oil and seasoning.",
+    "Cook for 2-3 minutes, until the pilaf starts to brown.",
+    "Add currants, salt, and black pepper. Stir to combine.",
+    "Add orange juice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and garnish with chopped cilantro, if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "pilaf",
+    "citrus",
+    "currants"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-citrusy-venezuelan-currants-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:11:04.390Z"
+}
