@@ -1,0 +1,66 @@
+{
+  "slug": "mildly-charred-jamaican-bread-toast",
+  "title": "Toasted Jamaican Jam Bread",
+  "description": "A sweet breakfast item featuring toasted bread, charred fruits, and Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "mildly charred pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jamaican spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the bread into 1-inch thick slices.",
+    "Brush the slices with the Jamaican spice mix.",
+    "Arrange the slices on a baking sheet.",
+    "Bake for 10-12 minutes or until lightly toasted.",
+    "While the bread is baking, toast the coconut flakes in a pan over medium heat for 2-3 minutes.",
+    "Cut the charred pineapple into small pieces.",
+    "Assemble the toasted bread by spreading a layer of maple syrup, followed by a layer of toasted coconut flakes, and topped with charred pineapple pieces.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "caribbean",
+    "dessert",
+    "snack",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-charred-jamaican-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:08:51.243Z"
+}
