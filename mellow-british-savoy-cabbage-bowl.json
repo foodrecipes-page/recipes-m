@@ -1,0 +1,84 @@
+{
+  "slug": "mellow-british-savoy-cabbage-bowl",
+  "title": "British Cabbage Soup",
+  "description": "A hearty soup originating from the UK, made with sautéed cabbage, mellow onions, and a blend of spices.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mellow onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add sliced mellow onions and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add shredded savoy cabbage and cook until wilted, about 5 minutes.",
+    "Pour in water and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot in bowls."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "british",
+    "cabbage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-british-savoy-cabbage-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:08:25.133Z"
+}
