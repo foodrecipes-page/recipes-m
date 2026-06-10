@@ -1,0 +1,66 @@
+{
+  "slug": "mildly-grassy-italian-zucchini-tagliatelle",
+  "title": "Italian Summer Zucchini Pasta",
+  "description": "A light and refreshing Italian-inspired dish featuring grilled zucchini and tagliatelle. Perfect for a warm summer evening.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tagliatelle",
+      "amount": "250g",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Grass-fed, organic"
+    },
+    {
+      "name": "Mild Italian Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "For grilling and sauce"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to package instructions until al dente.",
+    "Meanwhile, preheat a grill or grill pan to medium-high heat. Brush the zucchini with Italian olive oil and grill for 3-4 minutes per side, or until tender and lightly charred.",
+    "In a large skillet, heat 2 tablespoons of Italian olive oil over medium heat. Add the grilled zucchini and cook for 1-2 minutes, until slightly caramelized.",
+    "Add the cooked tagliatelle to the skillet with the zucchini and toss to combine. Season with salt and pepper to taste.",
+    "Serve immediately, topped with grated Parmesan cheese and chopped fresh basil leaves.",
+    "Optional: Add a sprinkle of red pepper flakes for an extra kick of flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-grassy-italian-zucchini-tagliatelle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:29:01.810Z"
+}
