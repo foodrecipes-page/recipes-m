@@ -1,0 +1,81 @@
+{
+  "slug": "magnificently-garlicky-american-pork-skillet",
+  "title": "Garlicky Pork Skillet",
+  "description": "A savory skillet dish loaded with flavor, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, sliced",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Skillet seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes, peeled and cubed",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the sliced onion and bell pepper; cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced potatoes and cook for 2-3 minutes.",
+    "Return the cooked pork to the skillet and stir to combine with the vegetables.",
+    "Sprinkle with skillet seasoning and serve hot.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dinner",
+    "garlic",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-garlicky-american-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:46:49.908Z"
+}
