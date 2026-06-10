@@ -1,0 +1,69 @@
+{
+  "slug": "mustardy-crisp-american-fish-fry",
+  "title": "Crispy Fish Fry",
+  "description": "A simple yet delicious fish fry recipe with a crunchy coating.",
+  "cuisine": "american",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "american",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 tsp",
+      "notes": "mustard powder for flavor"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "panko breadcrumbs for crunch"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "beef or vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the fish fillets and pat them dry with paper towels.",
+    "2. In a shallow dish, mix together the flour, mustard powder, and a pinch of salt.",
+    "3. Dredge the fish fillets in the flour mixture, coating them evenly.",
+    "4. Dip the floured fish fillets in the beaten eggs.",
+    "5. Roll the egg-coated fish fillets in the panko breadcrumbs to coat.",
+    "6. Heat about 1/2-inch of oil in a large skillet over medium-high heat.",
+    "7. Add the coated fish fillets to the hot oil and fry for about 3-4 minutes per side.",
+    "8. Remove the fried fish from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "9. Serve the crispy fish fry hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-fry",
+    "seafood",
+    "american-cuisine",
+    "fried-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crisp-american-fish-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:27:22.254Z"
+}
