@@ -937,17 +937,15 @@
   },
   {
     "slug": "magically-crunchy-argentinian-beef-empanadas",
-    "title": "Magically Crunchy Argentinian Beef Empanadas",
+    "title": "Beef Empanadas",
     "tags": [
-      "adventurous",
       "argentinian",
-      "crunchy",
+      "beef",
       "empanadas",
-      "high-protein",
-      "nigiri"
+      "main-course"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -4836,13 +4834,11 @@
   },
   {
     "slug": "mellow-british-savoy-cabbage-bowl",
-    "title": "Mellow British Savoy Cabbage Bowl",
+    "title": "British Cabbage Soup",
     "tags": [
-      "british-cuisine",
-      "char-grilled",
-      "date-night",
-      "earthenware-bowl",
-      "low-calorie",
+      "soup",
+      "british",
+      "cabbage",
       "vegetarian"
     ],
     "cuisine": "British",
@@ -14153,18 +14149,17 @@
   },
   {
     "slug": "mildly-spicy-thai-tofu-kanom-ko",
-    "title": "Mildly Spicy Thai Tofu Kanom Ko",
+    "title": "Spicy Thai Tofu Stir-Fry",
     "tags": [
-      "cozy",
-      "dinner",
-      "flexitarian",
-      "one-pot",
+      "thai",
+      "stir-fry",
       "spicy",
-      "tandoor",
-      "thai"
+      "tofu",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
