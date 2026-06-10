@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-charred-mexican-corn-elote",
+  "title": "Grilled Corn with Charred Mexican Aioli",
+  "description": "A twist on traditional elote, this recipe combines the smokiness of charred aioli with the sweetness of grilled corn.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn on the cob",
+      "amount": "4 ears"
+    },
+    {
+      "name": "Charred Mexican Aioli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diced jalapeño",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill corn for 10-12 minutes, turning frequently.",
+    "Meanwhile, mix together mayonnaise, garlic, jalapeño, and smoked paprika in a bowl.",
+    "Once corn is cooked, brush with charred Mexican aioli and sprinkle with salt and pepper.",
+    "Squeeze lime juice over the corn and garnish with cilantro leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "elote",
+    "charred",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-charred-mexican-corn-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:19:39.502Z"
+}
