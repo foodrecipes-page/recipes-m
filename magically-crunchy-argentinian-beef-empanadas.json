@@ -1,0 +1,79 @@
+{
+  "slug": "magically-crunchy-argentinian-beef-empanadas",
+  "title": "Beef Empanadas",
+  "description": "A classic Argentinian dish, these beef empanadas are crispy on the outside and savory on the inside.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy empanada dough (magically available)",
+      "amount": "1 package",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine beef, salt, and pepper. Mix well.",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with egg and cut a few slits in the top to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-crunchy-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:22:13.904Z"
+}
