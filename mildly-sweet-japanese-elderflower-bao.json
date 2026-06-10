@@ -1,0 +1,71 @@
+{
+  "slug": "mildly-sweet-japanese-elderflower-bao",
+  "title": "Sweet Bao Bites",
+  "description": "Delicate Japanese-inspired bao filled with sweet treats. A perfect dessert or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mildly sweet dough",
+      "amount": "1 package",
+      "notes": "store-bought bao dough"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Elderflower extract",
+      "amount": "1 tsp",
+      "notes": "optional for extra flavor"
+    },
+    {
+      "name": "Bao filling (sweet bean paste or red bean paste)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the bao dough and cut into small squares.",
+    "Place a small spoonful of bao filling in the center of each square.",
+    "Fold the dough squares into triangles and press the edges to seal.",
+    "Place the bao bites on a baking sheet lined with parchment paper.",
+    "Brush the tops with egg wash and sprinkle with confectioners sugar.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Allow the bao bites to cool before serving.",
+    "Optional: Drizzle with elderflower extract-infused glaze (1:1 elderflower syrup and powdered sugar mixed)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "sweet-bao",
+    "bao-bites",
+    "elderflower"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-japanese-elderflower-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:55:57.458Z"
+}
