@@ -1,0 +1,98 @@
+{
+  "slug": "mildly-spicy-thai-tofu-kanom-ko",
+  "title": "Spicy Thai Tofu Stir-Fry",
+  "description": "A spicy and flavorful stir-fry made with tofu, Thai chili peppers, and a blend of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "250g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "mildly spicy oil",
+      "amount": "2 tablespoons",
+      "notes": "such as vegetable oil with a pinch of cayenne pepper"
+    },
+    {
+      "name": "kanom",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ko",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together mildly spicy oil, fish sauce, brown sugar, and rice vinegar (if using). Set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of mildly spicy oil over medium-high heat.",
+    "Add the sliced Thai chili peppers and cook until fragrant, about 1 minute.",
+    "Add the chopped kanom and ko and cook until they start to soften, about 2 minutes.",
+    "Add the minced garlic and chopped shallots and cook until fragrant, about 1 minute.",
+    "Add the pressed tofu and cook until golden brown, about 3-4 minutes.",
+    "Pour the prepared sauce into the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the tofu is coated.",
+    "Season with salt to taste.",
+    "Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "spicy",
+    "tofu",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-thai-tofu-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:15:41.105Z"
+}
