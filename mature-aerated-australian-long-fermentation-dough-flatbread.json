@@ -1,0 +1,78 @@
+{
+  "slug": "mature-aerated-australian-long-fermentation-dough-flatbread",
+  "title": "Australian Flatbread with Fermentation Twist",
+  "description": "A unique flatbread recipe infused with the flavors of Australian ingredients, featuring a fermented dough twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian mature cheddar cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Fermentation starter culture (sourdough)",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Long grain flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread dough",
+      "amount": "2 balls (200g each)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Aerated water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing flatbread"
+    }
+  ],
+  "instructions": [
+    "1. Mix the fermentation starter culture with 150ml of water and let it sit at room temperature for 24 hours.",
+    "2. Knead the long grain flour, salt, and the mature cheddar cheese in a bowl for 10 minutes.",
+    "3. Add the fermented mixture to the flour mixture and knead for another 10 minutes.",
+    "4. Divide the dough into 2 equal parts and shape them into balls.",
+    "5. Roll out each ball of dough into a thin flatbread, about 12 inches in diameter.",
+    "6. Brush the flatbreads with olive oil and transfer them to a baking sheet.",
+    "7. Bake the flatbreads in a preheated oven at 220°C for 10-12 minutes, or until golden brown.",
+    "8. Serve the flatbreads warm, garnished with additional mature cheddar cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "australian-flatbread",
+    "fermentation-twist",
+    "cheesy-flatbread"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 150,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-aerated-australian-long-fermentation-dough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:00:08.218Z"
+}
