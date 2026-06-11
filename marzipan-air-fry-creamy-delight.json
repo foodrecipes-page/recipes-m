@@ -1,0 +1,54 @@
+{
+  "slug": "marzipan-air-fry-creamy-delight",
+  "title": "Marzipan Delight Fry",
+  "description": "A sweet and crispy treat made with marzipan, perfect for a snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Marzipan",
+      "amount": "250g"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "100g",
+      "notes": "Optional, for dusting"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1L"
+    }
+  ],
+  "instructions": [
+    "1. Cut the marzipan into small cubes.",
+    "2. Heat the vegetable oil in a deep frying pan to 180°C.",
+    "3. Carefully add the marzipan cubes to the hot oil in batches.",
+    "4. Fry for 2-3 minutes on each side, or until golden brown.",
+    "5. Remove the fried marzipan with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "6. Dust with caster sugar (if using).",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "fry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marzipan-air-fry-creamy-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:23:49.751Z"
+}
