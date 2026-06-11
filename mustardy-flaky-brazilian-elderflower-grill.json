@@ -1,0 +1,68 @@
+{
+  "slug": "mustardy-flaky-brazilian-elderflower-grill",
+  "title": "Grilled Brazilian Chicken with Elderflower Mustard",
+  "description": "A flavorful and aromatic dish that combines the spices of Brazil with the tanginess of elderflower mustard. Perfect for a dinner party or special occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless chicken breast"
+    },
+    {
+      "name": "Elderflower mustard",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "for grilling the chicken"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Mustardy",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with flaky sea salt and mustardy.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through to an internal temperature of 165F.",
+    "Meanwhile, mix the elderflower mustard with a tablespoon of water to thin it out.",
+    "Brush the grilled chicken with the elderflower mustard during the last minute of cooking.",
+    "Let the chicken rest for 5 minutes before slicing and serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "elderflower",
+    "mustard",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-flaky-brazilian-elderflower-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:11:31.080Z"
+}
