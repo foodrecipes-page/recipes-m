@@ -1,0 +1,73 @@
+{
+  "slug": "midnight-earth-crumble",
+  "title": "Midnight Crumble Earth Pie",
+  "description": "A rich and earthy dessert featuring a crumbly crust and midnight sky-inspired flavors.",
+  "cuisine": "earth",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Midnight Berries",
+      "amount": "1 cup",
+      "notes": "A mix of dark berries such as blackberries and elderberries"
+    },
+    {
+      "name": "Earthly Oats",
+      "amount": "1 cup",
+      "notes": "Rolled oats infused with earthen minerals"
+    },
+    {
+      "name": "Crumbles",
+      "amount": "1/2 cup",
+      "notes": "A crunchy mixture of seeds and nuts"
+    },
+    {
+      "name": "Sugar of the Ancients",
+      "amount": "1/4 cup",
+      "notes": "A natural sweetener derived from ancient plant extracts"
+    },
+    {
+      "name": "Midnight Oil",
+      "amount": "2 tablespoons",
+      "notes": "A fragrant oil extracted from the midnight sky"
+    },
+    {
+      "name": "Vanilla of the Forest",
+      "amount": "1/4 teaspoon",
+      "notes": "A fragrant vanilla extract from the heart of the forest"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together Midnight Berries, Earthly Oats, and Crumbles in a bowl.",
+    "In a separate bowl, whisk together Sugar of the Ancients and Midnight Oil.",
+    "Add Vanilla of the Forest to the wet ingredients and mix well.",
+    "Combine the wet ingredients with the dry ingredients and mix until a crumbly dough forms.",
+    "Press the dough into a pie dish and refrigerate for 30 minutes.",
+    "Bake the pie crust for 20 minutes, or until lightly golden.",
+    "Fill the pie crust with the Midnight Berry mixture and bake for an additional 25 minutes, or until the filling is bubbly and the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "midnight",
+    "crumble",
+    "earth"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-earth-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:02:58.384Z"
+}
