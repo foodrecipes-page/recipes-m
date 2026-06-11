@@ -1,0 +1,59 @@
+{
+  "slug": "melted-chocolate-ukrainian-eggs-frittata",
+  "title": "Ukrainian Chocolate Frittata",
+  "description": "A rich, chocolate-infused twist on the classic Italian egg dish. Perfect for breakfast or brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "melted chocolate",
+      "amount": "2 oz",
+      "notes": "semi-sweet or dark chocolate works best"
+    },
+    {
+      "name": "ukrainian frittata mix",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a large bowl and set aside.",
+    "Melt chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Add melted chocolate to the whisked eggs and stir until well combined.",
+    "Add Ukrainian frittata mix to the egg mixture and stir until smooth.",
+    "Pour mixture into a greased 9-inch pie plate or skillet.",
+    "Bake for 35-40 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Slice into wedges and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chocolate",
+    "eggs",
+    "italian",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-chocolate-ukrainian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:02:02.620Z"
+}
