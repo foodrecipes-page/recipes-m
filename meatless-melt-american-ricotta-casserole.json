@@ -1,0 +1,64 @@
+{
+  "slug": "meatless-melt-american-ricotta-casserole",
+  "title": "Ricotta Casserole",
+  "description": "A simple and comforting casserole made with ricotta cheese and topped with a crispy American cheese crust.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Melt",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella cheese"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Marinara Sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Combine ricotta cheese, marinara sauce, and 1/2 cup of the shredded mozzarella cheese in a bowl.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top the ricotta mixture with the shredded American cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "cheesy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meatless-melt-american-ricotta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:13:12.189Z"
+}
