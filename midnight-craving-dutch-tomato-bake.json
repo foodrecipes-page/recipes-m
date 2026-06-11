@@ -1,0 +1,81 @@
+{
+  "slug": "midnight-craving-dutch-tomato-bake",
+  "title": "Dutch Tomato Bake",
+  "description": "A simple and comforting Dutch-inspired casserole made with tomatoes and baked to perfection.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large tomatoes",
+      "amount": "2 kg"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Chop the onion and mince the garlic.",
+    "Cut the tomatoes into wedges.",
+    "In a large bowl, combine the chopped onion, minced garlic, and dried oregano.",
+    "Add the olive oil, salt, and pepper to the bowl and mix well.",
+    "Add the tomato wedges to the bowl and toss to coat with the onion mixture.",
+    "Transfer the tomato mixture to a baking dish.",
+    "Dot the top of the tomato mixture with butter.",
+    "Bake in the preheated oven for 30 minutes.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "tomato",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-dutch-tomato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:52:32.871Z"
+}
