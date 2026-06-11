@@ -1,0 +1,65 @@
+{
+  "slug": "mustardy-crumbly-mediterranean-phyllo-dough-baklava",
+  "title": "Greek Baklava",
+  "description": "A classic Greek pastry dessert made with layers of phyllo and nuts, held together with a sweet honey syrup.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo",
+      "amount": "1 package (usually 20-24 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dough",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baklava",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Thaw the phyllo dough according to package instructions.",
+    "Mix together the mediterranean ingredients and set aside.",
+    "Layer 5-6 sheets of phyllo in a 9x13 inch baking dish, brushing each sheet with melted butter.",
+    "Sprinkle 1/4 cup of the mediterranean ingredients over the phyllo layer.",
+    "Repeat the phyllo and mediterranean layers 3 more times, ending with a layer of phyllo on top.",
+    "Cut the baklava into diamond-shaped pieces and bake for 45 minutes, or until golden brown.",
+    "While the baklava is baking, prepare the honey syrup by mixing together 1 cup of honey and 1 cup of water in a saucepan.",
+    "Bring the honey syrup to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Remove the baklava from the oven and let cool for 10 minutes.",
+    "Drizzle the honey syrup over the baklava and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crumbly-mediterranean-phyllo-dough-baklava",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:18:51.518Z"
+}
