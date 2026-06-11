@@ -1,0 +1,74 @@
+{
+  "slug": "magical-low-cal-mexican-chicken-mole-poblano",
+  "title": "Magical Chicken Mole",
+  "description": "A twist on the classic Mexican dish using magical ingredients. Rich flavors and tender chicken make this a standout meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-cal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "magical mole sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "low-cal cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, optional"
+    },
+    {
+      "name": "cal cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mexican crema",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and pepper.",
+    "Heat a skillet over medium-high heat and sear the chicken until browned on both sides.",
+    "Transfer the chicken to a baking dish and cover with magical mole sauce.",
+    "Bake for 20-25 minutes or until the chicken is cooked through.",
+    "Meanwhile, sauté the diced poblano peppers in a skillet until tender.",
+    "Stir in chopped cal cilantro and cook for an additional minute.",
+    "Serve the chicken topped with sautéed poblanos, low-cal cheese (if using), and a dollop of mexican crema (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "low-cal",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-low-cal-mexican-chicken-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:26:34.478Z"
+}
