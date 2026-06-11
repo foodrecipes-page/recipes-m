@@ -1,0 +1,85 @@
+{
+  "slug": "midnight-colby-curry",
+  "title": "Colby Curry Midnight Delight",
+  "description": "A flavorful and aromatic dish featuring midnight beans in a rich colby curry sauce, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "midnight beans",
+      "amount": "250g",
+      "notes": "any variety"
+    },
+    {
+      "name": "colby cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry powder and cook for 1 minute.",
+    "Add midnight beans and cook until tender.",
+    "Stir in colby cheese until melted.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: serve with rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-colby-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:15:21.561Z"
+}
