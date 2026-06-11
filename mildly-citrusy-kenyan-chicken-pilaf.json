@@ -1,0 +1,80 @@
+{
+  "slug": "mildly-citrusy-kenyan-chicken-pilaf",
+  "title": "Kenyan Chicken Pilaf",
+  "description": "A flavorful and aromatic Kenyan-inspired dish made with chicken, pilaf, and a hint of citrus.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Mild curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Citrus juice (orange or lemon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the pilaf to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the curry powder to the skillet and cook for 1 minute, until fragrant.",
+    "Add the citrus juice, salt, and black pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the pilaf mixture.",
+    "Reduce heat to low and simmer for 5-7 minutes, until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "pilaf",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-citrusy-kenyan-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:22:06.821Z"
+}
