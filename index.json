@@ -7519,15 +7519,16 @@
   },
   {
     "slug": "melted-gooey-croatian-tortillas-tagine",
-    "title": "Croatian Tortillas Tagine",
+    "title": "Croatian Tagine Tortillas",
     "tags": [
-      "comfort-food",
-      "mediterranean",
-      "one-pot",
-      "weeknight"
+      "croatian",
+      "moroccan",
+      "tortillas",
+      "dessert",
+      "vegetarian"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "Croatian/Moroccan",
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -9542,19 +9543,14 @@
   },
   {
     "slug": "midnight-cringing-croatian-tomatoes-braise",
-    "title": "Midnight-Cringing Croatian Tomatoes Braise",
+    "title": "Braised Croatian Tomatoes",
     "tags": [
-      "ayurvedic",
-      "braise",
-      "croatian",
-      "low-fat",
-      "peppery",
-      "sattvic",
-      "silky",
-      "weeknight"
+      "tomatoes",
+      "vegetarian",
+      "croatian"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "cuisine": "croatian",
+    "totalTimeMin": 75,
     "shard": "m"
   },
   {
@@ -13849,18 +13845,15 @@
   },
   {
     "slug": "mildly-spicy-jamaican-chicken-skewers",
-    "title": "Mildly Spicy Jamaican Chicken Skewers",
+    "title": "Spicy Jamaican Chicken Skewers",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "grilled-chicken",
-      "jamaican-cuisine",
-      "weeknight-dinner"
+      "chicken",
+      "skewers",
+      "jamaican",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -16681,16 +16674,15 @@
   },
   {
     "slug": "molten-greek-dough-loukoumades",
-    "title": "Molten Greek Dough Loukoumades",
+    "title": "Traditional Greek Loukoumades",
     "tags": [
-      "crowd-pleaser",
-      "fried-dough",
-      "greek-dessert",
-      "sweet-and-spicy",
-      "yeasty-treats"
+      "greek",
+      "dessert",
+      "snack",
+      "fried-dough"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -18178,15 +18170,15 @@
   },
   {
     "slug": "monsoon-nutty-cookie-dumplings",
-    "title": "Monsoon Nutty Cookie Dumplings",
+    "title": "Nutty Dumpling Snack",
     "tags": [
-      "monsoon",
-      "nutty",
-      "dumplings",
-      "cookie"
+      "vegan",
+      "gluten-free",
+      "snack",
+      "asian"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "cuisine": "asian",
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
