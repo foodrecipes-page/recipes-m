@@ -1,0 +1,95 @@
+{
+  "slug": "melted-australian-parmesan-poke",
+  "title": "Australian Poke",
+  "description": "A fusion dish combining the flavors of Australia and Hawaii, with grilled fish marinated in a zesty sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poke fish (such as sashimi-grade tuna)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Australian extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Australian soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Australian honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine soy sauce, honey, garlic, and ginger. Blend until smooth.",
+    "2. Cut the poke fish into thin slices.",
+    "3. In a shallow dish, whisk together the blended sauce and melted butter.",
+    "4. Add the fish slices to the marinade and toss to coat.",
+    "5. Heat a grill or grill pan to medium-high heat.",
+    "6. Remove the fish from the marinade and cook for 2-3 minutes per side, or until cooked through.",
+    "7. Meanwhile, mix the red onion and mint leaves in a separate bowl.",
+    "8. To serve, place a slice of cooked fish on a plate and top with a spoonful of the onion-mint mixture and a sprinkle of parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "poke",
+    "grilled-fish",
+    "seafood",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-australian-parmesan-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:46:02.669Z"
+}
