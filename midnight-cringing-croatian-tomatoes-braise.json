@@ -1,0 +1,74 @@
+{
+  "slug": "midnight-cringing-croatian-tomatoes-braise",
+  "title": "Braised Croatian Tomatoes",
+  "description": "A hearty dish featuring tender tomatoes in a rich, flavorful sauce. This Croatian-inspired recipe is perfect for a cozy dinner or special occasion.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "midnight black olives",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "braising liquid (stock or wine)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the sliced onions and cook, stirring occasionally, until they are soft and caramelized, about 20 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced black olives and cook for 1 minute.",
+    "Add the chopped tomatoes, paprika, salt, and pepper. Stir to combine.",
+    "Add the braising liquid and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve the braised tomatoes hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tomatoes",
+    "vegetarian",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-cringing-croatian-tomatoes-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:10:45.731Z"
+}
