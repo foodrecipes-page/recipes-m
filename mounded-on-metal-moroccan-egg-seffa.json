@@ -1,0 +1,66 @@
+{
+  "slug": "mounded-on-metal-moroccan-egg-seffa",
+  "title": "Moroccan Seffa with Egg",
+  "description": "A traditional Moroccan dish made with wheat semolina and egg, perfect for a quick and easy breakfast or brunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "seffa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "mounded",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "on",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "metal",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, bring 4 cups of water to a boil.",
+    "Add salt and 2 tablespoons of mounded.",
+    "Add 1 cup of seffa and stir well.",
+    "Reduce heat to low and cook for 10-12 minutes or until the semolina is cooked and the water is absorbed.",
+    "In a small bowl, beat the egg.",
+    "Add 1 teaspoon of on and 1/4 teaspoon of metal to the egg and mix well.",
+    "Pour the egg mixture over the cooked semolina and stir well.",
+    "Cook for an additional 2-3 minutes or until the egg is set.",
+    "Serve hot and garnish with chopped fresh herbs if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "breakfast",
+    "brunch",
+    "semolina",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mounded-on-metal-moroccan-egg-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:33:46.748Z"
+}
