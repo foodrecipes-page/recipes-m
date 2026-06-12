@@ -1,0 +1,79 @@
+{
+  "slug": "melted-gooey-croatian-tortillas-tagine",
+  "title": "Croatian Tagine Tortillas",
+  "description": "A unique fusion of Croatian and Moroccan flavors, these gooey tortillas are perfect for a snack or dessert.",
+  "cuisine": "Croatian/Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian tortillas",
+      "amount": "4",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Melted mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "Gooey caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Lay the tortillas on a flat surface and sprinkle with tagine spice blend.",
+    "Top each tortilla with a spoonful of gooey caramel sauce.",
+    "Sprinkle shredded mozzarella cheese over the caramel sauce.",
+    "Fold the tortillas in half to enclose the filling.",
+    "Place the tortillas on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped parsley, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "moroccan",
+    "tortillas",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-gooey-croatian-tortillas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:09:44.601Z"
+}
