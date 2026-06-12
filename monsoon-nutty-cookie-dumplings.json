@@ -1,0 +1,63 @@
+{
+  "slug": "monsoon-nutty-cookie-dumplings",
+  "title": "Nutty Dumpling Snack",
+  "description": "A sweet and crumbly snack made with nutty dumplings and a hint of monsoon spice.",
+  "cuisine": "asian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nutty dumplings",
+      "amount": "1 package (12 dumplings)"
+    },
+    {
+      "name": "monsoon spice blend",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the nutty dumplings on the baking sheet, leaving space between each dumpling.",
+    "Mix the monsoon spice blend with a pinch of salt and sprinkle evenly over the dumplings.",
+    "Bake for 10-12 minutes or until the dumplings are lightly browned.",
+    "Remove from the oven and let cool for 2 minutes.",
+    "Dust the dumplings with cocoa powder and drizzle with maple syrup.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "snack",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-nutty-cookie-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:06:51.671Z"
+}
