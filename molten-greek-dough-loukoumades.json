@@ -1,0 +1,67 @@
+{
+  "slug": "molten-greek-dough-loukoumades",
+  "title": "Traditional Greek Loukoumades",
+  "description": "Greek doughnuts deep-fried to perfection, drizzled with honey and sprinkled with cinnamon. These sweet treats are perfect for dessert or as a snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek dough",
+      "amount": "500g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1L",
+      "notes": "for frying"
+    },
+    {
+      "name": "Honey",
+      "amount": "200g",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "2 tsp",
+      "notes": "for sprinkling"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "100g",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan to 180°C (350°F).",
+    "Carefully drop the dough into the hot oil using a spoon, making sure not to overcrowd the pan.",
+    "Fry the loukoumades for 2-3 minutes on each side, or until they are golden brown.",
+    "Using a slotted spoon, remove the loukoumades from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the loukoumades with honey and sprinkle with cinnamon.",
+    "Dust the loukoumades with powdered sugar and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "snack",
+    "fried-dough"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-greek-dough-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:01:23.315Z"
+}
