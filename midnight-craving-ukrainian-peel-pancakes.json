@@ -1,0 +1,85 @@
+{
+  "slug": "midnight-craving-ukrainian-peel-pancakes",
+  "title": "Ukrainian Midnight Pancakes",
+  "description": "A traditional Ukrainian comfort food, perfect for late-night cravings. Soft and fluffy pancakes infused with the subtle sweetness of apples and a hint of cinnamon.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated apple",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together milk, egg, melted butter, grated apple, cinnamon, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings.",
+    "Optional: top with powdered sugar, whipped cream, or fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "pancakes",
+    "comfort food",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-ukrainian-peel-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:03:24.946Z"
+}
