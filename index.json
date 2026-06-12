@@ -1732,14 +1732,15 @@
   },
   {
     "slug": "makrut-mint-bliss",
-    "title": "Makrut Mint Bliss",
+    "title": "Thai Bliss Salad",
     "tags": [
-      "makrut-lime-leaves",
-      "post-workout-snack",
-      "low-sodium-greek-dish"
+      "thai-cuisine",
+      "salad",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -7067,13 +7068,16 @@
   },
   {
     "slug": "melted-australian-parmesan-poke",
-    "title": "Melted Australian Parmesan Poke",
+    "title": "Australian Poke",
     "tags": [
       "australian",
-      "lunch"
+      "poke",
+      "grilled-fish",
+      "seafood",
+      "healthy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 21,
     "shard": "m"
   },
   {
@@ -9436,17 +9440,14 @@
   },
   {
     "slug": "midnight-craving-ukrainian-peel-pancakes",
-    "title": "midnight-craving ukrainian peel pancakes",
+    "title": "Ukrainian Midnight Pancakes",
     "tags": [
-      "breakfast-for-dinner",
-      "brunch",
-      "dessert",
-      "high-protein",
-      "low-carb",
       "ukrainian",
-      "weeknight"
+      "pancakes",
+      "comfort food",
+      "snack"
     ],
-    "cuisine": "ukrainian",
+    "cuisine": "Ukrainian",
     "totalTimeMin": 25,
     "shard": "m"
   },
@@ -18374,17 +18375,16 @@
   },
   {
     "slug": "mounded-on-metal-moroccan-egg-seffa",
-    "title": "Moroccan Egg Seffa",
+    "title": "Moroccan Seffa with Egg",
     "tags": [
+      "moroccan",
       "breakfast",
-      "kid-friendly",
-      "lacto-vegetarian",
-      "moroccan-cuisine",
-      "one-pan",
-      "weeknight"
+      "brunch",
+      "semolina",
+      "egg"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
