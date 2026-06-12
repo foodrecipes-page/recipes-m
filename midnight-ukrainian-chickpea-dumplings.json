@@ -1,0 +1,89 @@
+{
+  "slug": "midnight-ukrainian-chickpea-dumplings",
+  "title": "Midnight Ukrainian Chickpea Dumplings",
+  "description": "A traditional Ukrainian dish with a twist, these dumplings are filled with a hearty chickpea mixture and served with a side of tangy sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water to form a dough. Knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of the chickpea mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes.",
+    "While the dumplings are cooking, heat the sour cream and dill in a small saucepan over low heat.",
+    "Serve the dumplings with the sour cream sauce.",
+    "Garnish with chopped fresh dill and a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "midnight",
+    "dumplings",
+    "chickpea"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-ukrainian-chickpea-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:31:39.092Z"
+}
