@@ -1,0 +1,61 @@
+{
+  "slug": "monsoon-citrusy-peruvian-lettuce-wrap",
+  "title": "Peruvian Citrusy Wrap",
+  "description": "A refreshing Peruvian-inspired wrap with a tangy citrusy twist. Perfect for a quick snack or light meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon Wrap",
+      "amount": "1 wrap",
+      "notes": ""
+    },
+    {
+      "name": "Citrusy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Peruvian-Style Sliced Vegetables",
+      "amount": "1 cup",
+      "notes": "Red onion, bell pepper, tomato, etc."
+    }
+  ],
+  "instructions": [
+    "Place the lettuce leaves on the wrap.",
+    "Spread the citrusy sauce on top of the lettuce.",
+    "Add the Peruvian-style sliced vegetables on top of the sauce.",
+    "Fold the wrap to enclose the filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "citrusy",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-citrusy-peruvian-lettuce-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:42:52.822Z"
+}
