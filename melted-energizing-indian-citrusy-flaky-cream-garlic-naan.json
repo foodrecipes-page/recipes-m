@@ -1,0 +1,68 @@
+{
+  "slug": "melted-energizing-indian-citrusy-flaky-cream-garlic-naan",
+  "title": "Creamy Chicken Naan Bites",
+  "description": "A twist on traditional Indian street food, these bite-sized naan bites are filled with melted cheese, chicken, and cream, perfect for a quick snack or appetizer.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naan",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Shredded Chicken",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Melted Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "Citrusy Zest",
+      "amount": "1 tablespoon lemon zest"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together cream, melted cheese, and shredded chicken.",
+    "Add minced garlic and lemon zest to the bowl and mix well.",
+    "Cut naan pieces in half and place on a baking sheet.",
+    "Spoon about 1 tablespoon of the cream and cheese mixture onto each naan half.",
+    "Bake in the preheated oven for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "naan",
+    "cheese",
+    "chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-energizing-indian-citrusy-flaky-cream-garlic-naan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:43:22.972Z"
+}
