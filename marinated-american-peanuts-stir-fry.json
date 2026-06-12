@@ -1,0 +1,90 @@
+{
+  "slug": "marinated-american-peanuts-stir-fry",
+  "title": "Marinated Chicken Stir Fry",
+  "description": "Quick and flavorful stir fry recipe with marinated chicken and peanuts.",
+  "cuisine": null,
+  "diet": [
+    "american"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "marinated sauce (soy sauce, vinegar, sugar, garlic)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced bell peppers and onions to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the peanuts to the skillet and cook for 1-2 minutes.",
+    "Return the cooked chicken to the skillet and stir in the marinated sauce and soy sauce.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "peanuts",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-american-peanuts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:23:33.942Z"
+}
