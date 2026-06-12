@@ -1,0 +1,78 @@
+{
+  "slug": "mushroom-garlic-fluff-midnight-crunch",
+  "title": "Creamy Garlic Mushroom Pasta",
+  "description": "A simple yet flavorful pasta dish featuring sautéed mushrooms and garlic in a creamy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Sprinkle the flour over the mushrooms and garlic, and cook for 1 minute, stirring constantly.",
+    "Slowly pour in the heavy cream, whisking continuously to avoid lumps.",
+    "Bring the sauce to a simmer and cook until it thickens, stirring occasionally.",
+    "Stir in the shredded parmesan cheese until melted and smooth.",
+    "Drain the cooked pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce until well coated.",
+    "Serve hot, topped with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "mushroom",
+    "garlic",
+    "cream sauce",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushroom-garlic-fluff-midnight-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:36:43.888Z"
+}
