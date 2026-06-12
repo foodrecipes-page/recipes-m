@@ -1,0 +1,73 @@
+{
+  "slug": "magnificently-roasted-filipino-lamb-halo-halo",
+  "title": "Lamb Adobo",
+  "description": "A classic Filipino dish that's easy to make and packed with flavor. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2"
+    },
+    {
+      "name": "Halo Halo Iced Candy",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine vinegar, soy sauce, garlic, black pepper, and bay leaves.",
+    "2. Add the lamb shoulder and make sure it's covered with the marinade.",
+    "3. Bring the mixture to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "4. Add the tomatoes and continue to simmer for another 30 minutes.",
+    "5. Remove the lamb from the pot and let it rest for 10 minutes before slicing.",
+    "6. Serve the lamb with the sauce spooned over the top.",
+    "7. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "filipino",
+    "adobo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-roasted-filipino-lamb-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:45:29.755Z"
+}
