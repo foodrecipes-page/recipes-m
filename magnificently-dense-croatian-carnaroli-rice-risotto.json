@@ -1,0 +1,70 @@
+{
+  "slug": "magnificently-dense-croatian-carnaroli-rice-risotto",
+  "title": "Croatian Carnaroli Risotto",
+  "description": "A traditional Croatian recipe using high-quality Carnaroli rice for a creamy and flavorful risotto.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Dense Croatian rice",
+      "amount": "25g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "250ml"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Carnaroli rice and stir to coat with oil and mix with onion and garlic.",
+    "Add the white wine and stir until the wine is fully absorbed.",
+    "Add 250ml of hot water and stir until the water is fully absorbed. Repeat this process for 15-20 minutes, or until the rice is cooked.",
+    "Stir in 25g of dense Croatian rice for added texture.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "risotto",
+    "italian",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-dense-croatian-carnaroli-rice-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:35:05.556Z"
+}
