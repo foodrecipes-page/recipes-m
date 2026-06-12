@@ -1,0 +1,79 @@
+{
+  "slug": "mild-dense-korean-pork-shoulder-mandu",
+  "title": "Korean-Style Pork Mandu Buns",
+  "description": "A twist on traditional Korean mandu, these steamed buns are filled with slow-cooked pork shoulder and served with a side of spicy Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mild Korean chili flakes",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Dense Korean rice flour",
+      "amount": "2 cups",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Mandu",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork shoulder, mild Korean chili flakes, and 4 cups of water. Bring to a boil, then reduce heat to low and simmer for 2 hours.",
+    "Preheat a steamer basket with a paper towel.",
+    "Combine Korean rice flour and water to form a dough. Knead for 5 minutes.",
+    "Divide the dough into 4-6 equal pieces. Roll each piece into a ball.",
+    "Place a piece of mandu in each dough ball, and fold the dough over to seal.",
+    "Steam the mandu for 10-15 minutes.",
+    "Brush with sesame oil and garnish with chopped green onion.",
+    "Serve with a side of spicy Korean chili flakes for added heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "mandu",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-dense-korean-pork-shoulder-mandu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:14:38.971Z"
+}
