@@ -1,0 +1,88 @@
+{
+  "slug": "makrut-mint-bliss",
+  "title": "Thai Bliss Salad",
+  "description": "A refreshing Thai-inspired salad with makrut, mint, and bliss. Perfect for a light and healthy meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Makrut leaves",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Bliss",
+      "amount": "2 medium, peeled and sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine chopped makrut leaves, fresh mint leaves, sliced bliss, and thinly sliced red onion.",
+    "2. In a small bowl, whisk together lime juice, coconut oil, and honey until well combined.",
+    "3. Pour the dressing over the salad and toss to coat.",
+    "4. Sprinkle chopped cilantro over the top of the salad.",
+    "5. Season with salt to taste.",
+    "6. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-cuisine",
+    "salad",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/makrut-mint-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:43:37.648Z"
+}
