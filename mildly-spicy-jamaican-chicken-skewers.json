@@ -1,0 +1,92 @@
+{
+  "slug": "mildly-spicy-jamaican-chicken-skewers",
+  "title": "Spicy Jamaican Chicken Skewers",
+  "description": "A delicious and easy-to-make recipe featuring marinated chicken skewers with a spicy Jamaican twist. Perfect for a quick dinner or outdoor BBQ.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mildly spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together mildly spicy sauce, jamaican jerk seasoning, olive oil, paprika, garlic powder, salt, and black pepper.",
+    "Add chicken, onion, and bell pepper to the bowl, and toss to coat.",
+    "Thread chicken and vegetables onto skewers, leaving a little space between each piece.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Brush with olive oil during the last 2 minutes of cooking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skewers",
+    "jamaican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:53:01.044Z"
+}
