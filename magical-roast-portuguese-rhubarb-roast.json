@@ -1,0 +1,82 @@
+{
+  "slug": "magical-roast-portuguese-rhubarb-roast",
+  "title": "Magical Portuguese Roast Chicken",
+  "description": "A flavorful roast chicken dish infused with magical spices, inspired by traditional Portuguese cuisine. Perfect for a special occasion or a cozy dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Magical Roast Chicken",
+      "amount": "1 whole chicken (3-4 lbs)"
+    },
+    {
+      "name": "Portuguese Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at your local magical market"
+    },
+    {
+      "name": "Rhubarb Jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Lemons",
+      "amount": "1 juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "Mix the Portuguese Spice Blend with olive oil, salt, pepper, and garlic. Rub the mixture all over the chicken.",
+    "Stuff the chicken cavity with the sprig of oregano, a few slices of lemon, and a tablespoon of rhubarb jam.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Baste the chicken with pan juices every 20 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before carving.",
+    "Serve the chicken with additional rhubarb jam on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "chicken",
+    "roast",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "40g",
+    "carbs": "10g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-roast-portuguese-rhubarb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:10:45.021Z"
+}
