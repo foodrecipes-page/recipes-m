@@ -1,0 +1,81 @@
+{
+  "slug": "magical-mild-dutch-fish-sushi",
+  "title": "Magical Dutch Pancakes with Fish",
+  "description": "A unique fusion of Dutch pancake tradition with a magical twist, using fresh fish. Perfect for a special breakfast or brunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Magical Dutch Pancake Mix",
+      "amount": "1 1/2 cups",
+      "notes": "Available at your local market"
+    },
+    {
+      "name": "Fish (Cod or Halibut)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sushi Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sushi",
+      "amount": "1 sheet",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix Magical Dutch Pancake Mix with Large Eggs and Milk in a large bowl.",
+    "Add Fish (Cod or Halibut) to the bowl and mix well.",
+    "Heat a non-stick pan over medium heat and add Butter to the pan.",
+    "Pour the pancake batter into the pan and cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancake and cook for another 2-3 minutes or until golden brown.",
+    "Serve the pancake with Sushi Rice Vinegar and Sushi on top.",
+    "Bake the pancake in the preheated oven for 5-7 minutes or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pancake",
+    "breakfast",
+    "fish",
+    "dutch",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-mild-dutch-fish-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:29:06.796Z"
+}
