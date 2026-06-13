@@ -1,0 +1,65 @@
+{
+  "slug": "meaty-mustardy-russian-beef-pilaf",
+  "title": "Beef Stroganoff",
+  "description": "A classic Russian dish made with sautéed beef, mushrooms, and a creamy sauce, served over pilaf.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "meat broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tablespoons",
+      "notes": "Dijon mustard works well"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "sour cream",
+      "amount": "6 ounces",
+      "notes": "full-fat for best flavor"
+    }
+  ],
+  "instructions": [
+    "Cook pilaf according to package instructions.",
+    "In a large skillet, sauté beef strips over medium-high heat until browned, about 3-4 minutes.",
+    "Add meat broth to the skillet and bring to a simmer.",
+    "Reduce heat to medium-low and add mustardy; stir to combine.",
+    "Simmer for 5-7 minutes or until beef is cooked through.",
+    "Stir in sour cream and cook for an additional 1-2 minutes or until heated through.",
+    "Serve beef and sauce over cooked pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meaty-mustardy-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:08:29.052Z"
+}
