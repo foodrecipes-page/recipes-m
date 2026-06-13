@@ -1,0 +1,70 @@
+{
+  "slug": "mustardy-dutch-myeolchi-pilaf",
+  "title": "Dutch-Style Myeolchi Pilaf",
+  "description": "A flavorful Korean-inspired dish with mustardy twist, made with myeolchi, pilaf, and dutch influence.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "myeolchi (dried pollock flakes)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": "preferably a day-old rice"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large saucepan over medium heat.",
+    "Add myeolchi and stir-fry until fragrant, about 1 minute.",
+    "Add pilaf rice and stir-fry for 2-3 minutes.",
+    "Add water, dutch mustard, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and garnish with chopped green onions.",
+    "Season with additional dutch mustard to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pilaf",
+    "myeolchi",
+    "mustardy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-dutch-myeolchi-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:28:06.016Z"
+}
