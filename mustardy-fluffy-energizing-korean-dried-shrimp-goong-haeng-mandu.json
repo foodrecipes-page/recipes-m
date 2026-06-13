@@ -1,0 +1,77 @@
+{
+  "slug": "mustardy-fluffy-energizing-korean-dried-shrimp-goong-haeng-mandu",
+  "title": "Spicy Korean Shrimp Mandu",
+  "description": "A spicy twist on traditional Korean dumplings filled with succulent shrimp. Perfect for a quick dinner or lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Dried Mandu wrappers",
+      "amount": "20-25 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Mustardy Gochujang sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Energizing Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for brushing mandu"
+    },
+    {
+      "name": "Fluffy All-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Goong Korean chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "Haeng Korean salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of sesame oil over medium heat.",
+    "2. Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "3. In a large bowl, mix together cooked shrimp, gochujang sauce, sesame oil, Korean chili flakes, and salt.",
+    "4. Lay out the mandu wrappers and place 1-2 tablespoons of the shrimp mixture in the center of each wrapper.",
+    "5. Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "6. In a large pot or steamer, bring water to a boil and add the mandu. Steam for 5-7 minutes or until cooked through.",
+    "7. Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "seafood",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-fluffy-energizing-korean-dried-shrimp-goong-haeng-mandu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:16:51.793Z"
+}
