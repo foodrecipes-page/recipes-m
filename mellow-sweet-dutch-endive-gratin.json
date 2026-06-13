@@ -1,0 +1,71 @@
+{
+  "slug": "mellow-sweet-dutch-endive-gratin",
+  "title": "Sweet Dutch Endive Gratin",
+  "description": "A rich and creamy side dish featuring sweet endive, topped with a nutty dutch cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "endive",
+      "amount": "2 large",
+      "notes": "separate into individual leaves"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup shredded",
+      "notes": "such as gouda or edam"
+    },
+    {
+      "name": "mellow garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13 inch baking dish.",
+    "Arrange endive leaves in the prepared baking dish.",
+    "In a saucepan, melt butter over medium heat. Add garlic and onion and sauté until softened.",
+    "Stir in shredded dutch cheese until melted and smooth.",
+    "Pour cheese mixture over endive leaves.",
+    "Cover baking dish with aluminum foil and bake for 20 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until top is golden brown.",
+    "Serve hot and enjoy!",
+    "Optional: sprinkle with additional grated dutch cheese before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "cheesy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-sweet-dutch-endive-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:10:24.226Z"
+}
