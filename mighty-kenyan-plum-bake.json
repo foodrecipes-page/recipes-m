@@ -1,0 +1,82 @@
+{
+  "slug": "mighty-kenyan-plum-bake",
+  "title": "Kenyan Plum Muffins",
+  "description": "Warm and flavorful muffins infused with the sweetness of plums and the spices of Kenya.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "plums",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, baking powder, and cinnamon.",
+    "In a large bowl, use an electric mixer to beat together sugar and eggs.",
+    "Add milk, oil, and vanilla extract; mix until well combined.",
+    "Add the flour mixture to the wet ingredients; mix until just combined.",
+    "Gently fold in the plums.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of a muffin comes out clean.",
+    "Allow muffins to cool in the tin for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "muffins",
+    "plums"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-kenyan-plum-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:28:38.503Z"
+}
