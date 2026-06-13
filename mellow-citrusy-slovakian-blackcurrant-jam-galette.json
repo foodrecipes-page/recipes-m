@@ -1,0 +1,80 @@
+{
+  "slug": "mellow-citrusy-slovakian-blackcurrant-jam-galette",
+  "title": "Blackcurrant Galette with Citrus Glaze",
+  "description": "A sweet and tangy dessert featuring a blackcurrant filling topped with a citrus glaze, all wrapped in a flaky galette crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "blackcurrants",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "citrus glaze (see instructions)",
+      "amount": "null",
+      "notes": "see instructions"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour and sugar.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Press mixture into a disk and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, mix together blackcurrants and granulated sugar.",
+    "Spread the blackcurrant mixture over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the egg over the crust to glaze.",
+    "Bake for 40-50 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "While the galette is baking, prepare the citrus glaze by whisking together equal parts powdered sugar and citrus juice (such as lemon or orange).",
+    "Drizzle the citrus glaze over the galette as soon as it comes out of the oven."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "blackcurrant",
+    "galette",
+    "dessert",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-citrusy-slovakian-blackcurrant-jam-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:47:22.710Z"
+}
