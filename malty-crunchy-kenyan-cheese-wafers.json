@@ -1,0 +1,61 @@
+{
+  "slug": "malty-crunchy-kenyan-cheese-wafers",
+  "title": "Crunchy Malt Wafers",
+  "description": "A sweet and crunchy dessert made with crushed wafers and malty flavors.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "Crushed wafers"
+    },
+    {
+      "name": "Kenyan",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground cardamom"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix crushed wafers, malty, ground cardamom, and shredded mozzarella in a bowl.",
+    "Press the mixture into a lined baking dish.",
+    "Bake for 15-20 minutes or until lightly golden brown.",
+    "Let cool completely before slicing into bars."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "malt",
+    "wafer",
+    "cardamom",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-kenyan-cheese-wafers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:19:34.339Z"
+}
