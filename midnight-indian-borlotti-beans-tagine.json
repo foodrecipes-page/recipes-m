@@ -1,0 +1,82 @@
+{
+  "slug": "midnight-indian-borlotti-beans-tagine",
+  "title": "Midnight Indian Tagine",
+  "description": "A rich and flavorful vegetarian tagine dish inspired by Indian cuisine, perfect for a cozy midnight meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "midnight beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "available at Indian grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add tomato, beans, and spice blend. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-indian-borlotti-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:50:29.275Z"
+}
