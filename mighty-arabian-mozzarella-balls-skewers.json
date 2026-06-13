@@ -1,0 +1,82 @@
+{
+  "slug": "mighty-arabian-mozzarella-balls-skewers",
+  "title": "Mighty Arabian Skewers",
+  "description": "A flavorful and easy-to-make dish inspired by the Middle East, featuring tender chicken, crunchy vegetables, and a hint of spice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "moo balls",
+      "amount": "10-12, peeled and chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large, cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, cut into 1-inch pieces"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large, cut into 1-inch slices"
+    },
+    {
+      "name": "arabian spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together arabian spices, lemon juice, olive oil, salt, and pepper.",
+    "Add the chicken and moo balls to the bowl and toss to coat.",
+    "Thread the chicken, moo balls, bell peppers, onions, and cucumber onto the skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "veggies",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-arabian-mozzarella-balls-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:16:00.398Z"
+}
