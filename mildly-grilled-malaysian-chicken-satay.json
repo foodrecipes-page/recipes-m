@@ -1,0 +1,88 @@
+{
+  "slug": "mildly-grilled-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "Traditional Malaysian street food made with marinated chicken, grilled to perfection and served with a side of peanut sauce. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Cut into skewer-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "120ml",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Peanut sauce",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, ginger paste, garlic paste, coriander powder, cumin powder, salt, and black pepper.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers.",
+    "Brush the grill with peanut oil to prevent sticking.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Serve the grilled chicken with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "malaysian",
+    "chicken",
+    "satay"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-grilled-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:55:15.405Z"
+}
