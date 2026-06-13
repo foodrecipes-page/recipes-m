@@ -1,0 +1,82 @@
+{
+  "slug": "mellow-earthy-spanish-fish-paella",
+  "title": "Spanish-Style Paella",
+  "description": "A traditional Spanish paella dish made with mellow rice, earthy vegetables, and flavorful seafood. This recipe serves 4 and can be prepared in about 45 minutes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mellow onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Earthy bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fish broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fish (such as shrimp or cod)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Paella spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the paella spice blend and cook for 1 minute.",
+    "Add the fish broth and bring to a boil.",
+    "Add the Spanish rice and stir to coat with the liquid.",
+    "Add the fish and cook until cooked through, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes or until the rice is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "paella",
+    "lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-earthy-spanish-fish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:28:05.961Z"
+}
