@@ -10237,18 +10237,14 @@
   },
   {
     "slug": "mighty-kenyan-plum-bake",
-    "title": "Mighty Kenyan Plum Bake",
+    "title": "Kenyan Plum Muffins",
     "tags": [
-      "african-cuisine",
-      "breakfast",
-      "brunch",
-      "comfort-food",
-      "gluten-free",
-      "plant-based",
-      "vegan"
+      "kenyan",
+      "muffins",
+      "plums"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -11447,16 +11443,15 @@
   },
   {
     "slug": "mildly-buttery-algerian-lamb-tagine",
-    "title": "Mildly Buttery Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "low-sodium",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "special-occasion"
+      "dinner"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 110,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {
@@ -19957,15 +19952,15 @@
   },
   {
     "slug": "mustardy-dutch-myeolchi-pilaf",
-    "title": "Mustardy Dutch Meyeolchi Pilaf",
+    "title": "Dutch-Style Myeolchi Pilaf",
     "tags": [
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "pilaf",
+      "myeolchi",
+      "mustardy"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -20042,16 +20037,13 @@
   },
   {
     "slug": "mustardy-fluffy-canadian-biscuits-bake",
-    "title": "Mustardy Fluffy Canadian Biscuit Bake",
+    "title": "Fluffy Canadian Bake",
     "tags": [
       "canadian",
-      "low-fat",
-      "mushroom-free",
-      "one-pan",
-      "snack",
-      "wood-fired"
+      "fluffy",
+      "bake"
     ],
-    "cuisine": "canadian",
+    "cuisine": "Canadian",
     "totalTimeMin": 35,
     "shard": "m"
   },
