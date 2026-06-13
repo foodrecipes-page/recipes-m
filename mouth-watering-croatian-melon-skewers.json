@@ -1,0 +1,75 @@
+{
+  "slug": "mouth-watering-croatian-melon-skewers",
+  "title": "Croatian Melon Skewers",
+  "description": "A refreshing summer appetizer from Croatia, featuring sweet melon and savory meat, grilled to perfection.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "2 cups, diced",
+      "notes": "any variety, such as cantaloupe or honeydew"
+    },
+    {
+      "name": "Pork Chops",
+      "amount": "4 chops",
+      "notes": "lean, thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread a piece of pork, a few chunks of melon, and a sprinkle of salt, pepper, and garlic powder onto each skewer.",
+    "Brush the skewers with olive oil and grill for 8-10 minutes, or until the pork is cooked to 145°F.",
+    "Brush the skewers with balsamic vinegar during the last 2 minutes of grilling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "appetizer",
+    "grilled",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouth-watering-croatian-melon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:41:22.294Z"
+}
