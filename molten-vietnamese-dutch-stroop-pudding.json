@@ -1,0 +1,71 @@
+{
+  "slug": "molten-vietnamese-dutch-stroop-pudding",
+  "title": "Stroopwafel Pudding",
+  "description": "A Dutch-inspired dessert combining the crunch of stroopwafels with a creamy pudding.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Stroop",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pudding mix",
+      "amount": "1 package (4 servings)"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dutch cookies (stroopwafels)",
+      "amount": "6-8"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pudding mix, milk, sugar, and vanilla extract.",
+    "Whisk until well combined and let sit for 5 minutes.",
+    "Crush the stroopwafels into small pieces and set aside.",
+    "Spoon half of the pudding mixture into individual serving cups.",
+    "Top with crushed stroopwafels and spoon the remaining pudding mixture on top.",
+    "Refrigerate for at least 30 minutes.",
+    "Top with whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "dessert",
+    "pudding",
+    "stroopwafel"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-vietnamese-dutch-stroop-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:33:21.505Z"
+}
