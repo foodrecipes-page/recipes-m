@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-smoky-norwegian-pork-skewers",
+  "title": "Smoky Norwegian Pork Skewers",
+  "description": "Grilled pork skewers with a smoky Norwegian twist, perfect for a summer evening. This recipe is easy to make and packed with flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pork",
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian smoked paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soaked wooden skewers",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together smoked paprika, brown sugar, garlic, salt, and pepper.",
+    "Add the sliced pork to the bowl and toss to coat with the spice mixture.",
+    "Thread the pork onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the pork is cooked through.",
+    "Serve the skewers hot with a squeeze of lime juice and a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "norwegian",
+    "pork",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-norwegian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:16:32.109Z"
+}
