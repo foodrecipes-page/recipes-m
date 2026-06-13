@@ -1,0 +1,79 @@
+{
+  "slug": "mild-uruguayan-shrimp-grill",
+  "title": "Uruguayan Shrimp Grill",
+  "description": "Grilled shrimp dish inspired by Uruguayan cuisine, marinated in a mild mixture of spices and herbs.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "mild paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together paprika, salt, and black pepper.",
+    "2. Add the parsley and lemon juice to the bowl and stir to combine.",
+    "3. Add the olive oil to the bowl and stir to make a marinade.",
+    "4. Add the shrimp to the marinade and mix to coat.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "6. Preheat the grill to medium-high heat.",
+    "7. Remove the shrimp from the marinade and shake off any excess.",
+    "8. Grill the shrimp for 2-3 minutes per side, or until they are pink and cooked through.",
+    "9. Serve the shrimp hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-uruguayan-shrimp-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:51:52.525Z"
+}
