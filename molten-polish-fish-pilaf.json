@@ -1,0 +1,90 @@
+{
+  "slug": "molten-polish-fish-pilaf",
+  "title": "Polish Fish Pilaf",
+  "description": "A hearty and flavorful pilaf dish made with fish, polish sausage, and molten cheese.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Salmon)",
+      "amount": "1 pound",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Molten Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "Gouda or Cheddar"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "White or Brown rice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pilaf according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the sliced polish sausage to the skillet and cook until browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the fish to the skillet, skin side up. Cook for 2-3 minutes, then flip and cook for an additional 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Flake the cooked fish into the pilaf and stir to combine.",
+    "Top with shredded molten cheese and return to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "fish",
+    "pilaf",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-polish-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:09:26.468Z"
+}
