@@ -1,0 +1,82 @@
+{
+  "slug": "mustardy-indian-pork-chops-wrap",
+  "title": "Indian Pork Chops Wrap",
+  "description": "A flavorful Indian-inspired dish that combines the richness of pork chops with the tanginess of mustardy spices.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds"
+    },
+    {
+      "name": "mustardy spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "for wrap"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork chops with salt, pepper, and mustardy spice mix. Grill for 5-7 minutes per side, or until cooked to 145°F.",
+    "Let pork chops rest for 5 minutes before slicing.",
+    "In a bowl, mix together yogurt, cilantro, and a pinch of salt. Set aside.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the yogurt sauce on the tortilla, followed by sliced pork, lettuce, tomato, cucumber, and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pork",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-indian-pork-chops-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:40:16.822Z"
+}
