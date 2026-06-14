@@ -1,0 +1,86 @@
+{
+  "slug": "massive-meaty-vietnamese-beef-bun-rieu",
+  "title": "Beef Rieu Noodle Soup",
+  "description": "A classic Vietnamese beef noodle soup recipe with rich flavors and tender beef.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "meaty"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "beef brisket or chuck",
+      "amount": "1 pound"
+    },
+    {
+      "name": "bun noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "rieu cai",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast beef bones in the oven for 30 minutes.",
+    "In a large pot, sauté the onion until translucent.",
+    "Add beef brisket or chuck and cook until browned.",
+    "Add roasted beef bones, fish sauce, soy sauce, sugar, black pepper, and salt. Bring to a boil.",
+    "Reduce heat and simmer for 1 hour.",
+    "Add bun noodles and rieu cai. Cook for an additional 10 minutes.",
+    "Slice beef brisket or chuck against the grain.",
+    "Serve hot, garnished with chopped onion and rieu cai."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/massive-meaty-vietnamese-beef-bun-rieu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:43:49.699Z"
+}
