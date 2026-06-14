@@ -8207,17 +8207,14 @@
   },
   {
     "slug": "melty-golden-canadian-cheese-casserole",
-    "title": "Melty Golden Canadian Cheese Casserole",
+    "title": "Golden Canadian Casserole",
     "tags": [
-      "canadian-cuisine",
-      "casserole",
-      "cheesy",
+      "canadian-food",
       "comfort-food",
-      "golden-brown",
-      "plant-based"
+      "cheesy-casserole"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -9524,10 +9521,16 @@
   },
   {
     "slug": "midnight-crisp-algerian-chicken-wrap",
-    "title": "Midnight Crisp Algerian Chicken Wrap",
-    "tags": [],
-    "cuisine": "Algerian",
-    "totalTimeMin": null,
+    "title": "Crispy Chicken Midnight Wrap",
+    "tags": [
+      "chicken",
+      "vegetarian",
+      "gluten-free",
+      "easy",
+      "snack"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -14827,18 +14830,15 @@
   },
   {
     "slug": "mindful-briny-vietnamese-tofu-bun-cha",
-    "title": "Mindful Briny Vietnamese Tofu Bun Cha",
+    "title": "Vietnamese Cha Buns",
     "tags": [
-      "briny",
-      "crispy",
-      "noodles",
-      "one-pot",
-      "shojin-friendly",
-      "tofu",
-      "vietnamese"
+      "vietnamese",
+      "snack",
+      "lunch",
+      "gluten-free"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 18,
     "shard": "m"
   },
   {
@@ -17024,17 +17024,15 @@
   },
   {
     "slug": "molten-nutty-tunisian-pork-tagine",
-    "title": "Molten Nutty Tunisian Pork Tagine",
+    "title": "Tunisian Pork Tagine",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "high-protein",
-      "jain-friendly",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "tunisian",
+      "pork",
+      "tagine",
+      "north-african",
+      "slow-cooked"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 180,
     "shard": "m"
   },
@@ -18863,17 +18861,14 @@
   },
   {
     "slug": "mouthwatering-juicy-indian-peas-biryani",
-    "title": "Mouthwatering Juicy Indian Peas Biryani",
+    "title": "Indian Peas Biryani",
     "tags": [
-      "biryani",
-      "gujarati",
+      "easy",
       "indian",
-      "robert-grill",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
