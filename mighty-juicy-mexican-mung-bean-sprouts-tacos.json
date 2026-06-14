@@ -1,0 +1,75 @@
+{
+  "slug": "mighty-juicy-mexican-mung-bean-sprouts-tacos",
+  "title": "Mexican Bean and Sprout Tacos",
+  "description": "A flavorful and nutritious vegetarian taco dish loaded with sautéed mung bean sprouts, mexican seasonings, and a mix of juices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mighty tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Juicy onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Mexican taco seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the diced onion and sauté for 3-4 minutes.",
+    "Add the diced tomatoes, taco seasoning, and cumin. Sauté for another 4-5 minutes.",
+    "Stir in the mung bean sprouts and cook for 2-3 minutes.",
+    "Season with lime juice, salt, and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean sprout mixture onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "tacos",
+    "bean-sprouts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-juicy-mexican-mung-bean-sprouts-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:52:41.500Z"
+}
