@@ -1822,18 +1822,14 @@
   },
   {
     "slug": "malty-aerated-australian-renkon-stew",
-    "title": "Malty Aerated Australian Renkon Stew",
+    "title": "Malty Stew with Australian Beef",
     "tags": [
-      "australian",
-      "beef",
-      "comfort-food",
-      "low-carb",
-      "one-pan",
-      "stew",
-      "winter"
+      "australian-beef",
+      "malty-stew",
+      "comfort-food"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 140,
     "shard": "m"
   },
   {
@@ -4230,14 +4226,16 @@
   },
   {
     "slug": "meatless-melt-american-ricotta-casserole",
-    "title": "Ricotta Casserole",
+    "title": "Ricotta American Casserole",
     "tags": [
-      "italian",
+      "comfort-food",
       "cheesy",
-      "comfort-food"
+      "casserole",
+      "dinner-ideas",
+      "easy-recipes"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -7049,16 +7047,16 @@
   },
   {
     "slug": "melted-australian-parmesan-poke",
-    "title": "Australian Poke",
+    "title": "Melted Parmesan Poke Bites",
     "tags": [
       "australian",
+      "parmesan",
       "poke",
-      "grilled-fish",
-      "seafood",
-      "healthy"
+      "cheesy",
+      "snack"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 21,
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
