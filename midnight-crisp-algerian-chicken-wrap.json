@@ -1,0 +1,83 @@
+{
+  "slug": "midnight-crisp-algerian-chicken-wrap",
+  "title": "Crispy Chicken Midnight Wrap",
+  "description": "A flavorful wrap filled with crispy chicken, crunchy midnight and fresh crisp. A great snack for any time of the day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Midnight",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan with olive oil over medium-high heat.",
+    "Season the chicken with Algerian spice blend, salt and pepper.",
+    "Cook the chicken for 5-6 minutes per side or until cooked through.",
+    "Meanwhile, toast the tortilla wrap in a dry pan for 1-2 minutes.",
+    "Assemble the wrap by placing crispy lettuce, midnight, cooked chicken and any other desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "vegetarian",
+    "gluten-free",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-crisp-algerian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:10:55.156Z"
+}
