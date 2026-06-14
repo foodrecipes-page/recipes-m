@@ -1,0 +1,83 @@
+{
+  "slug": "moist-kenyan-morbier-stew",
+  "title": "Kenyan Stew with Morbier Crust",
+  "description": "A hearty stew from Kenya topped with a crispy morbier crust. A great combination of flavors and textures.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "kenyan stew",
+      "amount": "1 cup, store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large, peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, sauté the onion and garlic until softened.",
+    "Add the carrot and potato, cook for 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the kenyan stew and chicken broth. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "While the stew is cooking, mix the crumbled morbier cheese with a pinch of salt and pepper.",
+    "Transfer the stew to a baking dish and top with the morbier crust.",
+    "Bake in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "stew",
+    "morbier"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-kenyan-morbier-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:05:43.052Z"
+}
