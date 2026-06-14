@@ -1,0 +1,76 @@
+{
+  "slug": "malty-crunchy-vietnamese-steak-cha-gio",
+  "title": "Grilled Steak with Vietnamese-Style Cha Gio",
+  "description": "A fusion recipe that combines the flavors of grilled steak with the crispy, savory goodness of cha gio. This dish is perfect for a quick dinner or a special occasion.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "500g",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "cha gio (vietnamese spring rolls)",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vietnamese dipping sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "malty hoisin sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crunchy chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vietnamese cilantro",
+      "amount": "chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "gio (vietnamese rice paper rolls)",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season steak with salt and pepper. Grill for 5-7 minutes per side, or until desired level of doneness.",
+    "3. Meanwhile, heat hoisin sauce in a small saucepan over low heat.",
+    "4. Warm cha gio according to package instructions.",
+    "5. Assemble the dish by placing a piece of grilled steak on a plate, topping with a few pieces of warmed cha gio, and drizzling with hoisin sauce.",
+    "6. Garnish with chopped peanuts and cilantro, if desired.",
+    "7. Serve with additional hoisin sauce and cha gio on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "vietnamese",
+    "cha-gio",
+    "hoisin-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-vietnamese-steak-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:46:53.230Z"
+}
