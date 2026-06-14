@@ -1,0 +1,77 @@
+{
+  "slug": "magical-smoky-french-yogurt-tarte-tatin",
+  "title": "Magical French Tarte Tatin",
+  "description": "A twist on the classic French dessert, infused with magical flavors. This tarte tatin is perfect for a dinner party or special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French pastry dough",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Magical butter",
+      "amount": "2 tablespoons",
+      "notes": "infused with edible gold dust"
+    },
+    {
+      "name": "Smoky salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Tarte tatin apples",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the French pastry dough to a thickness of 1/8 inch (3 mm).",
+    "In a large bowl, mix together the magical butter, smoky salt, and granulated sugar.",
+    "Add the yogurt to the bowl and mix until smooth.",
+    "Peel and slice the tarte tatin apples, then add them to the bowl and mix until they're evenly coated.",
+    "Roll out the pastry dough to fit a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Pour the apple mixture into the pastry-lined tart pan and smooth the top.",
+    "Roll out the remaining pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Place the rolled-out pastry on top of the apple mixture and crimp the edges to seal.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the tarte tatin for 40-50 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Remove the tarte tatin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "pastry",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-smoky-french-yogurt-tarte-tatin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:55:34.377Z"
+}
