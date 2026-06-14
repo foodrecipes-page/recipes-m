@@ -1,0 +1,76 @@
+{
+  "slug": "mellow-earthy-korean-sweet-potatoes-wrap",
+  "title": "Korean-Style Sweet Potato Wrap",
+  "description": "A delicious and healthy wrap filled with roasted sweet potatoes, crispy vegetables, and a hint of Korean spice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "About 2 pounds total"
+    },
+    {
+      "name": "Mellow Wraps",
+      "amount": "4-6",
+      "notes": "Depends on serving size"
+    },
+    {
+      "name": "Earthly Lettuce",
+      "amount": "1 cup, shredded",
+      "notes": "Iceberg or romaine work well"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "Add heat to your liking"
+    },
+    {
+      "name": "Sweet Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Make or buy a sweet soy sauce"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": "Thinly slice for best results"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Poke some holes in the sweet potatoes and roast for 45-60 minutes, or until tender.",
+    "Meanwhile, toast the wraps according to package instructions.",
+    "In a small bowl, whisk together the sweet soy sauce and Korean chili flakes.",
+    "Assemble the wraps by spreading a spoonful of the soy sauce mixture on the bottom of each wrap.",
+    "Add a roasted sweet potato half, some shredded lettuce, sliced cucumber, and any additional toppings you like.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!",
+    "Optional: Add some crispy kimchi or pickled carrots for extra flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "sweet-potatoes",
+    "wrap",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-earthy-korean-sweet-potatoes-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:08:21.731Z"
+}
