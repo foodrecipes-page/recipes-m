@@ -1,0 +1,82 @@
+{
+  "slug": "mighty-spicy-malaysian-almond-flour-bake",
+  "title": "Spicy Malaysian Almond Biscuits",
+  "description": "A crispy, spicy biscuit recipe inspired by Malaysian cuisine, featuring a crunchy almond topping.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mighty Baking Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Spicy Chili Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Malaysian Curry Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, baking powder, chili flakes, curry powder, and sugar.",
+    "In a large bowl, whisk together eggs and vegetable oil.",
+    "Add the dry ingredients to the wet ingredients and stir until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place the shapes on the prepared baking sheet, leaving 1 inch of space between each biscuit.",
+    "Sprinkle chopped almonds over the biscuits.",
+    "Bake for 18-20 minutes, or until golden brown.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "biscuit",
+    "spicy",
+    "malaysian",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-spicy-malaysian-almond-flour-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:54:17.301Z"
+}
