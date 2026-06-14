@@ -1,0 +1,77 @@
+{
+  "slug": "midnight-cabbage-crave",
+  "title": "Crave's Cabbage Stir Fry",
+  "description": "A quick and easy stir fry recipe using cabbage, midnight oil and other simple ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Midnight oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Crave (garlic)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the midnight oil in a wok or large skillet over medium-high heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the minced crave (garlic) and cook for another minute.",
+    "Add the shredded cabbage and cook until it starts to soften.",
+    "Add the soy sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the cabbage mixture to a serving platter.",
+    "Garnish with chopped green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "vegetarian",
+    "gluten-free",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-cabbage-crave",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:51:16.039Z"
+}
