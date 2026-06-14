@@ -1,0 +1,64 @@
+{
+  "slug": "melted-buttery-syrian-ice-cream-biryani",
+  "title": "Melted Biryani Cream Pudding",
+  "description": "A rich and creamy dessert made with melted buttery goodness and the flavors of syrian biryani.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Melted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Buttery ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Syrian biryani spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ice cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, melt the butter and ghee over low heat.",
+    "Add the biryani spice mix and stir for 1-2 minutes.",
+    "In a separate bowl, whisk together the heavy cream and ice cream until smooth.",
+    "Pour the cream mixture into the saucepan with the butter mixture.",
+    "Stir until the mixture is well combined.",
+    "Pour the mixture into ramekins or small baking dishes.",
+    "Bake for 20-25 minutes or until the top is golden brown.",
+    "Serve warm, garnished with a sprinkle of biryani spice mix if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "pudding",
+    "dessert",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-buttery-syrian-ice-cream-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:56:29.766Z"
+}
