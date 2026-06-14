@@ -1,0 +1,87 @@
+{
+  "slug": "mildly-spicy-uruguayan-chicken-skewers",
+  "title": "Uruguayan Chicken Skewers",
+  "description": "A flavorful and spicy Uruguayan-inspired dish featuring chicken skewers served with a side of tangy chimichurri sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Mildly spicy Uruguayan chorizo",
+      "amount": "200g",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, chorizo, onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together parsley, lime juice, olive oil, salt, and black pepper.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Serve hot with additional chimichurri sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "chicken",
+    "skewers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-uruguayan-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:18:44.821Z"
+}
