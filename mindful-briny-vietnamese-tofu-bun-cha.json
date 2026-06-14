@@ -1,0 +1,64 @@
+{
+  "slug": "mindful-briny-vietnamese-tofu-bun-cha",
+  "title": "Vietnamese Cha Buns",
+  "description": "Delicious Vietnamese-style meatballs served in steamed buns, perfect for a quick snack or lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Mindful Bun",
+      "amount": "4-6 buns",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Vietnamese Cha",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Briny Bun",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your steamer for 10 minutes.",
+    "Prepare the tofu by crumbling it into small pieces.",
+    "In a large mixing bowl, combine the tofu, Vietnamese Cha, and Briny Bun. Mix well.",
+    "Divide the mixture into 4-6 portions, depending on the size of your buns.",
+    "Shape each portion into a small ball and place them in the steamer.",
+    "Steam the cha buns for 8-10 minutes, or until they are cooked through.",
+    "Serve the cha buns in the Mindful Bun, garnished with additional Briny Bun if desired.",
+    "Enjoy as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "snack",
+    "lunch",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindful-briny-vietnamese-tofu-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:10:21.933Z"
+}
