@@ -1,0 +1,71 @@
+{
+  "slug": "molten-midnight-argentinian-asparagus-bowl",
+  "title": "Grilled Asparagus with Argentinian Chimichurri",
+  "description": "A simple and flavorful side dish that combines the freshness of asparagus with the tangy flavors of Argentinian chimichurri. Perfect for a quick and easy summer meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "midnight olive oil",
+      "amount": "1/4 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "argentinian chimichurri",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "molten mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush asparagus with midnight olive oil and season with salt and pepper.",
+    "Grill asparagus for 3-5 minutes per side, or until tender and slightly charred.",
+    "Serve asparagus hot with Argentinian chimichurri spooned over the top.",
+    "If using mozzarella cheese, sprinkle over the top of the asparagus and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "asparagus",
+    "argentinian",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-midnight-argentinian-asparagus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:16:37.909Z"
+}
