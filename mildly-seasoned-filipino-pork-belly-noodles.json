@@ -1,0 +1,96 @@
+{
+  "slug": "mildly-seasoned-filipino-pork-belly-noodles",
+  "title": "Filipino-Style Braised Pork Belly with Noodles",
+  "description": "A hearty and flavorful Filipino-inspired dish featuring tender pork belly in a savory sauce served over noodles.",
+  "cuisine": "Filipino",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Mildly seasoned ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Filipino noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh or frozen"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Patis",
+      "amount": "1 tablespoon",
+      "notes": "Filipino fish sauce alternative"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a large Dutch oven over medium heat.",
+    "2. Add the onion and garlic and sauté until the onion is translucent.",
+    "3. Add the pork belly and cook until browned on all sides.",
+    "4. Add the fish sauce, patis, soy sauce, and brown sugar. Stir to combine.",
+    "5. Bring the sauce to a simmer and cook for 10 minutes.",
+    "6. Reduce the heat to low and braise the pork belly for 2 hours, or until tender.",
+    "7. Cook the Filipino noodles according to package instructions.",
+    "8. Slice the pork belly into thick slices.",
+    "9. To serve, place a portion of noodles on a plate, top with a slice of pork belly, and spoon some of the braising sauce over the top.",
+    "10. Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "noodles",
+    "braised",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-seasoned-filipino-pork-belly-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:47:31.160Z"
+}
