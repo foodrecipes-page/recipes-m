@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-tender-filipino-french-lentils-bowl",
+  "title": "Filipino Lentil Bowl",
+  "description": "A flavorful and nutritious bowl dish inspired by Filipino cuisine, featuring tender lentils and aromatic spices.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Stir in tomato paste; cook for 1 minute.",
+    "Add lentils, coconut milk, fish sauce (if using), salt, and pepper.",
+    "Bring to a boil; reduce heat to low and simmer, covered, until lentils are tender, about 20-25 minutes.",
+    "Stir in chopped cilantro; serve hot.",
+    "Serve in bowls with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-bowl",
+    "filipino-cuisine",
+    "vegan-option",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-tender-filipino-french-lentils-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:58:59.065Z"
+}
