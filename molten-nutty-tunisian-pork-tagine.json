@@ -1,0 +1,95 @@
+{
+  "slug": "molten-nutty-tunisian-pork-tagine",
+  "title": "Tunisian Pork Tagine",
+  "description": "A hearty, slow-cooked stew originating from Tunisia, made with tender pork and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "molten honey",
+      "amount": "2 tbsp",
+      "notes": "warmed to a liquid state"
+    },
+    {
+      "name": "nutty brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 2 tbsp hot water"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tagine cooking vessel",
+      "amount": "",
+      "notes": "optional, but traditional"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in the bottom of a large, heavy pot or Dutch oven over medium-high heat.",
+    "2. Brown the pork cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "3. Remove the pork from the pot and set aside.",
+    "4. Reduce heat to medium and sauté the onion and garlic until softened, about 5 minutes.",
+    "5. Add the Tunisian spice blend and cook for 1 minute, stirring constantly.",
+    "6. Stir in the tomato paste and cook for 1 minute.",
+    "7. Add the chicken broth, browned pork, and honey; bring to a simmer.",
+    "8. Cover the pot and transfer to the oven; braise for 2 1/2 hours, or until the pork is tender.",
+    "9. Season with brown sugar and serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "pork",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "40g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-nutty-tunisian-pork-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:10:51.935Z"
+}
