@@ -1,0 +1,80 @@
+{
+  "slug": "mouthwatering-juicy-indian-peas-biryani",
+  "title": "Indian Peas Biryani",
+  "description": "A flavorful and aromatic rice-based dish from India, made with juicy peas and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of ghee or oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion and ginger and sauté until the onion is translucent.",
+    "Add coriander powder, turmeric powder, and salt. Mix well.",
+    "Add fresh peas and mix well. Cook for 2-3 minutes.",
+    "Add basmati rice to the pan and mix well with the spice mixture.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and cover the pan with a lid.",
+    "Simmer for 15-20 minutes or until the rice is cooked and the liquid is absorbed.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-juicy-indian-peas-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:17:52.876Z"
+}
