@@ -1,0 +1,89 @@
+{
+  "slug": "malty-aerated-australian-renkon-stew",
+  "title": "Malty Stew with Australian Beef",
+  "description": "A hearty stew made with tender Australian beef, malty undertones, and a hint of aerated texture.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Malty",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 2 tbsp water"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "1 cup",
+      "notes": "used for tenderizing beef"
+    },
+    {
+      "name": "Renkon",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Stew",
+      "amount": "250ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven, heat 2 tbsp oil over medium-high heat.",
+    "2. Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the beef from the pot and set aside.",
+    "4. Add the chopped onion and minced garlic to the pot and cook until softened, about 5 minutes.",
+    "5. Dissolve the malty in 2 tbsp water and add to the pot, stirring to combine.",
+    "6. Return the beef to the pot and add the sliced renkon.",
+    "7. Pour in the aerated water and homemade stew, and bring to a boil.",
+    "8. Reduce the heat to low and simmer, covered, for 2 hours, or until the beef is tender.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-beef",
+    "malty-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-aerated-australian-renkon-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:24:22.286Z"
+}
