@@ -1,0 +1,62 @@
+{
+  "slug": "malty-springy-molcajete-pita-rolls",
+  "title": "Malty Rolls",
+  "description": "A simple recipe to make soft and malty rolls using pita and molcajete for a unique twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pita",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "molcajete",
+      "amount": "1",
+      "notes": "for mixing dough"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons",
+      "notes": "malty syrup or sweetener"
+    },
+    {
+      "name": "springy",
+      "amount": "1 egg",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine pita and molcajete to create dough. Knead for 10 minutes.",
+    "Place dough in a greased bowl, cover, and let rise for 1 hour.",
+    "Punch down dough and divide into 4-6 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk.",
+    "Brush tops with egg wash and sprinkle with malty syrup.",
+    "Place rolls on a baking sheet and bake for 15-20 minutes.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "rolls",
+    "malts",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-springy-molcajete-pita-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:59:54.753Z"
+}
