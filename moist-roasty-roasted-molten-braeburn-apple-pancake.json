@@ -1,0 +1,77 @@
+{
+  "slug": "moist-roasty-roasted-molten-braeburn-apple-pancake",
+  "title": "Braeburn Apple Pancake",
+  "description": "A sweet and satisfying pancake made with braeburn apples and a hint of roasted spices.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "braeburn apple",
+      "amount": "1, peeled and diced"
+    },
+    {
+      "name": "pancake",
+      "amount": "1 mix",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "molten butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "roasted cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "roasted nutmeg",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "molten honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a large bowl, whisk together the pancake mix, eggs, milk, and honey.",
+    "Add the diced apples to the bowl and stir to combine.",
+    "Pour 1/4 cup of the batter into the skillet and cook for 2-3 minutes.",
+    "Flip the pancake and cook for an additional 1-2 minutes.",
+    "Repeat with the remaining batter, making 4-6 pancakes.",
+    "Serve warm with additional roasted cinnamon and nutmeg if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "apples",
+    "fall",
+    "autumn"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-roasty-roasted-molten-braeburn-apple-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T23:04:40.332Z"
+}
