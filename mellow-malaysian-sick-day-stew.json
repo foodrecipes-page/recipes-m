@@ -1,0 +1,67 @@
+{
+  "slug": "mellow-malaysian-sick-day-stew",
+  "title": "Mellow Malaysian Stew",
+  "description": "A hearty and flavorful stew that combines the best of Malaysian and comforting flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mellow",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "malaysian",
+      "amount": "2 cups",
+      "notes": "chopped cabbage"
+    },
+    {
+      "name": "sick",
+      "amount": "1/2 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "day",
+      "amount": "1 large",
+      "notes": "chopped fresh tomato"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add mellow and cook until tender, about 5 minutes.",
+    "Add malaysian and stew, bring to a boil.",
+    "Reduce heat, cover and simmer for 10 minutes.",
+    "Add sick and day, cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional sick if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "malaysian",
+    "flavorful",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-malaysian-sick-day-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:36:17.680Z"
+}
