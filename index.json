@@ -5655,16 +5655,16 @@
   },
   {
     "slug": "mellow-korean-shrimp-stew",
-    "title": "Mellow Korean Shrimp Stew",
+    "title": "Spicy Korean Shrimp Stew",
     "tags": [
-      "cozy",
-      "gluten-free",
-      "korean-american",
-      "shrimp-stew",
-      "weeknight"
+      "korean",
+      "shrimp",
+      "stew",
+      "spicy",
+      "quick"
     ],
-    "cuisine": "korean-american",
-    "totalTimeMin": 20,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -5714,16 +5714,15 @@
   },
   {
     "slug": "mellow-malaysian-sick-day-stew",
-    "title": "mellow malaysian sick-day stew",
+    "title": "Mellow Malaysian Stew",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "malaysian",
+      "flavorful",
+      "comforting"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 27,
     "shard": "m"
   },
   {
@@ -6126,16 +6125,15 @@
   },
   {
     "slug": "mellow-roasted-polish-chicken-bowl",
-    "title": "Mellow Roasted Polish Chicken Bowl",
+    "title": "Mellow Roasted Chicken Bowl",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "plant-based",
-      "roasted-vegetables",
-      "weeknight"
+      "chicken",
+      "roasted",
+      "easy",
+      "mealprep"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 70,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -9841,19 +9839,14 @@
   },
   {
     "slug": "midnight-rich-portuguese-almond-pie",
-    "title": "Midnight Rich Portuguese Almond Pie",
+    "title": "Midnight Portuguese Almond Pie",
     "tags": [
-      "almond",
-      "pie",
-      "no-eggs",
-      "protein-packed",
       "portuguese",
-      "grape-juice",
-      "dessert",
-      "vegan"
+      "almond",
+      "pie"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
