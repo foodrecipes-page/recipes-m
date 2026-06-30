@@ -1,0 +1,73 @@
+{
+  "slug": "monsoon-moist-australian-almond-skewers",
+  "title": "Australian Skewers with Almond Crunch",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Australia with a crunchy almond topping.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian prawns",
+      "amount": "12-15",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Australian beef strips",
+      "amount": "1/2 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Almond slices",
+      "amount": "1/4 cup",
+      "notes": "slightly toasted"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Monsoon chutney",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Moist buns",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Soak the skewers in water for 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the prawns and beef strips onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with a little oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prawns are pink and the beef is cooked through.",
+    "Meanwhile, toast the almond slices in a dry pan until fragrant.",
+    "Serve the skewers with a dollop of monsoon chutney and a sprinkle of toasted almonds.",
+    "Serve with moist buns on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "snack",
+    "seafood",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-moist-australian-almond-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:22.390Z"
+}
