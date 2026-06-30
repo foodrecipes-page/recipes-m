@@ -1,0 +1,89 @@
+{
+  "slug": "mellow-korean-shrimp-stew",
+  "title": "Spicy Korean Shrimp Stew",
+  "description": "A spicy and flavorful stew made with succulent shrimp and a blend of Korean spices. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz",
+      "notes": "16-20 count"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to desired level of spiciness"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "stock or water"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes, until pink and cooked through.",
+    "Add the sliced mellow, Korean chili flakes, soy sauce, and brown sugar. Stir to combine.",
+    "Pour in the stew and bring to a boil.",
+    "Reduce the heat to low and simmer for 5-7 minutes, until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped green onions and additional Korean chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "shrimp",
+    "stew",
+    "spicy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-korean-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:50:06.833Z"
+}
