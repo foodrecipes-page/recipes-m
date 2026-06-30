@@ -1,0 +1,88 @@
+{
+  "slug": "melted-ethiopian-beef-stew",
+  "title": "Beef Melted Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopian cuisine, made with tender beef and a rich melted sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "melted",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh melted herb"
+    },
+    {
+      "name": "stew",
+      "amount": "2 tablespoons",
+      "notes": "stew spice mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can, 14 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 3 minutes.",
+    "Add the stew spice mix and cook for 1 minute.",
+    "Add the tomato, water, salt, and pepper to the pot. Stir to combine.",
+    "Return the beef to the pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the beef is tender, about 1 1/2 hours.",
+    "Stir in the chopped melted herb and cook for an additional 10 minutes.",
+    "Serve hot, garnished with additional melted herb if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "ethiopian-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-ethiopian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:15.003Z"
+}
