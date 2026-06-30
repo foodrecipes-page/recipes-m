@@ -1,0 +1,78 @@
+{
+  "slug": "meaty-red-pepper-brazilian-pork-grill",
+  "title": "Brazilian Grilled Pork Chops",
+  "description": "A classic Brazilian dish featuring marinated pork chops grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-1.5 inches thick"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "meaty marinade",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brazilian pepper",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a bowl, mix together marinade ingredients.",
+    "Add pork chops to marinade and coat evenly.",
+    "Let marinate for at least 30 minutes.",
+    "Remove pork chops from marinade and season with salt and pepper.",
+    "Grill pork chops for 5-7 minutes per side, or until cooked through.",
+    "Let rest for 5 minutes before serving.",
+    "Grill red pepper for 5-7 minutes, or until charred and tender.",
+    "Slice pepper into strips and serve with pork chops."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "pork-chops"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meaty-red-pepper-brazilian-pork-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:37:19.355Z"
+}
