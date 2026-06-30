@@ -1,0 +1,75 @@
+{
+  "slug": "magical-mild-japanese-lemongrass-takoyaki",
+  "title": "Magical Takoyaki Bites",
+  "description": "A twist on the classic Japanese street food, infused with a hint of magic.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Takoyaki batter mix",
+      "amount": "1 package",
+      "notes": "Found at most Asian markets"
+    },
+    {
+      "name": "Magical lemongrass oil",
+      "amount": "1 tsp",
+      "notes": "Add a pinch of magic to your dish"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Use the white and light green parts"
+    },
+    {
+      "name": "Mild mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "For a creamy sauce"
+    },
+    {
+      "name": "Japanese pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced and pickled in vinegar"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the Magical lemongrass oil in a pan over medium heat.",
+    "Add the Takoyaki batter mix and stir until combined.",
+    "Transfer the mixture to a Takoyaki pan or a non-stick skillet.",
+    "Drop small amounts of the mixture into the pan, filling it about 2/3 full.",
+    "Cook for 2-3 minutes or until the edges start to set.",
+    "Use a skewer to loosen the edges and flip the Takoyaki bites.",
+    "Cook for an additional 2-3 minutes or until golden brown.",
+    "Serve with a dollop of mild mayonnaise, a sprinkle of Japanese pickled ginger, and a pinch of sesame seeds.",
+    "Garnish with a sprig of fresh lemongrass, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "japanese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-mild-japanese-lemongrass-takoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:53:44.387Z"
+}
