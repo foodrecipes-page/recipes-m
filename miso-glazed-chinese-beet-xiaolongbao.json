@@ -1,0 +1,77 @@
+{
+  "slug": "miso-glazed-chinese-beet-xiaolongbao",
+  "title": "Pan-Seared Xiaolongbao with Miso Glaze",
+  "description": "A fusion dish combining the traditional Chinese soup dumplings with a savory miso glaze. A perfect appetizer or snack.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "appetizer/snack",
+  "ingredients": [
+    {
+      "name": "Xiaolongbao",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Beet",
+      "amount": "1/4 cup pickled"
+    },
+    {
+      "name": "Glazed Chinese mustard",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine miso paste, soy sauce, honey, rice vinegar, and grated ginger.",
+    "Whisk until smooth and bring to a simmer over medium heat.",
+    "Reduce heat to low and let the glaze simmer for 5 minutes.",
+    "Meanwhile, heat a large skillet or wok over medium-high heat.",
+    "Add 2 tbsp of oil and sear the xiaolongbao until golden brown, about 2 minutes per side.",
+    "Remove the dumplings from the skillet and place them on a plate.",
+    "Brush the miso glaze over the xiaolongbao and garnish with pickled beet and glazed Chinese mustard.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "xiaolongbao",
+    "miso",
+    "chinese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-glazed-chinese-beet-xiaolongbao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:02:58.315Z"
+}
