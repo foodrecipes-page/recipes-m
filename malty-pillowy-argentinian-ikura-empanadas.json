@@ -1,0 +1,80 @@
+{
+  "slug": "malty-pillowy-argentinian-ikura-empanadas",
+  "title": "Argentinian Empanadas with Ikura and Malt Vinegar Dipping Sauce",
+  "description": "A twist on traditional empanadas, filled with ikura and served with a malt vinegar dipping sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian empanadas",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "1/2 cup",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Malty beer",
+      "amount": "1/4 cup",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Pillowy flour",
+      "amount": "2 cups",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for dipping sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Open empanada package and separate the dough.",
+    "Place a spoonful of ikura in the center of each empanada dough.",
+    "Fold the dough over the ikura and press the edges to seal.",
+    "Brush the tops of the empanadas with egg for a golden glaze.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Meanwhile, mix malt vinegar, malt beer, and pillowy flour in a bowl.",
+    "Add water to the bowl and stir until the dipping sauce is smooth.",
+    "Serve the empanadas hot with the malt vinegar dipping sauce.",
+    "Garnish with additional ikura if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "snack",
+    "appetizer",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-pillowy-argentinian-ikura-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:41:38.699Z"
+}
