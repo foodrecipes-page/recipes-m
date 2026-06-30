@@ -1,0 +1,76 @@
+{
+  "slug": "mature-crunchy-blend",
+  "title": "Mature Apple Delight",
+  "description": "A simple and sweet dessert recipe using mature apples, topped with crunchy oat topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mature Apples",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crunchy Oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and chop the mature apples.",
+    "In a large bowl, whisk together flour, sugar, baking powder, cinnamon, and salt.",
+    "Add melted butter and mix until crumbly.",
+    "Gently fold in chopped apples.",
+    "Transfer the mixture to a 9-inch pie dish.",
+    "Top with crunchy oats.",
+    "Bake for 40-45 minutes, or until golden brown.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-dessert",
+    "oat-topping",
+    "easy-bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-crunchy-blend",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:47.246Z"
+}
