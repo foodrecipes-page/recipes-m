@@ -1,0 +1,76 @@
+{
+  "slug": "mellow-roasted-polish-chicken-bowl",
+  "title": "Mellow Roasted Chicken Bowl",
+  "description": "A simple recipe for a delicious roasted chicken bowl with a variety of flavors.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish chicken",
+      "amount": "1 lb",
+      "notes": "Boneless, skinless chicken breast"
+    },
+    {
+      "name": "Mellow sauce",
+      "amount": "1/4 cup",
+      "notes": "Your favorite mellow sauce"
+    },
+    {
+      "name": "Roasted vegetables",
+      "amount": "1 cup",
+      "notes": "Carrots, bell peppers, and onions"
+    },
+    {
+      "name": "Bowl",
+      "amount": "4-6",
+      "notes": "Bowls for serving"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "In a large bowl, whisk together the mellow sauce and olive oil.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Place the chicken on a baking sheet and roast for 25-30 minutes.",
+    "Toss the roasted vegetables in olive oil and season with salt and pepper.",
+    "Roast the vegetables in the oven for 20-25 minutes.",
+    "To assemble the bowls, place a portion of the roasted chicken on the bottom.",
+    "Add a spoonful of the roasted vegetables on top of the chicken.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roasted",
+    "easy",
+    "mealprep"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-polish-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:25:53.408Z"
+}
