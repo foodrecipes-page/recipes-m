@@ -1,0 +1,85 @@
+{
+  "slug": "midnight-rich-portuguese-almond-pie",
+  "title": "Midnight Portuguese Almond Pie",
+  "description": "A traditional Portuguese pie made with almonds and a rich midnight filling, perfect for a sweet dessert.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "midnight chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "table"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium bowl, whisk together the sugar, eggs, and vanilla extract.",
+    "Melt the butter and chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Combine the melted chocolate mixture with the sugar mixture and mix until smooth.",
+    "Stir in the sliced almonds and crushed cookies.",
+    "Pour the mixture into a 9-inch pie dish.",
+    "Bake for 40-50 minutes or until the edges are set and the center is slightly jiggly.",
+    "Let cool completely on a wire rack before serving.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Serve with whipped cream or vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "almond",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-rich-portuguese-almond-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:51:13.112Z"
+}
