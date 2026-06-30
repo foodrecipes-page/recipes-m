@@ -1,0 +1,83 @@
+{
+  "slug": "mouthwatering-greek-lamb-keftedes",
+  "title": "Greek-Style Lamb Koftas with Keftedes",
+  "description": "A flavorful and savory Greek dish featuring lamb koftas and crispy keftedes. This recipe is perfect for a quick and delicious dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Mouthwatering Greek seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Keftedes breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, Greek seasoning, onion, parsley, egg, flour, bread crumbs, salt, and pepper. Mix well with your hands until just combined.",
+    "Using your hands, shape lamb mixture into 8-10 keftedes. Thread each keftedes onto skewers.",
+    "Grill keftedes for 8-10 minutes per side, or until cooked through.",
+    "Meanwhile, heat about 1/4 inch of oil in a large skillet over medium heat.",
+    "When oil is hot, add keftedes breadcrumbs and fry until crispy and golden brown.",
+    "Serve keftedes hot with grilled lamb koftas and your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "keftedes",
+    "greek",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-greek-lamb-keftedes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:58:14.574Z"
+}
