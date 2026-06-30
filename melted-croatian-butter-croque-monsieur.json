@@ -1,0 +1,62 @@
+{
+  "slug": "melted-croatian-butter-croque-monsieur",
+  "title": "Croatian Croque Monsieur",
+  "description": "A twist on the classic French dish, this Croatian-inspired Croque Monsieur adds a rich and creamy element with the addition of melted cheese.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian bread",
+      "amount": "4 slices",
+      "notes": "Day-old bread works best"
+    },
+    {
+      "name": "Melted cheese",
+      "amount": "1 cup",
+      "notes": "Cheddar or mozzarella work well"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter is best"
+    },
+    {
+      "name": "Croque Monsieur sauce",
+      "amount": "1 cup",
+      "notes": "Make your own or use store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter one side of each bread slice.",
+    "Place two bread slices, buttered side down, in a baking dish.",
+    "Spread a layer of Croque Monsieur sauce on top of each bread slice.",
+    "Sprinkle melted cheese over the sauce.",
+    "Place the remaining bread slices, buttered side up, on top of the cheese.",
+    "Bake for 12-15 minutes, or until golden brown and crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-croatian-butter-croque-monsieur",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:35:17.956Z"
+}
