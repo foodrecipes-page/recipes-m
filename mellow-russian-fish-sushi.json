@@ -1,0 +1,74 @@
+{
+  "slug": "mellow-russian-fish-sushi",
+  "title": "Grilled Mellow Fish with Russian Sushi-inspired Glaze",
+  "description": "A flavorful and light fish dish with a sweet and tangy glaze, perfect for a summer evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mellow fish fillets (4)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Russian honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sushi rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a small saucepan, combine honey, rice vinegar, ginger, soy sauce, and brown sugar.",
+    "3. Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "4. Brush the fish fillets with oil and season with salt and pepper.",
+    "5. Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "6. Brush the grilled fish with the Russian-inspired glaze during the last minute of cooking.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "glaze",
+    "summer",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-russian-fish-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:52:38.970Z"
+}
