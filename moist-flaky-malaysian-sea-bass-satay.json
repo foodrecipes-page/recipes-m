@@ -1,0 +1,89 @@
+{
+  "slug": "moist-flaky-malaysian-sea-bass-satay",
+  "title": "Malaysian Sea Bass Satay",
+  "description": "A delicious and flavorful seafood dish inspired by Malaysian cuisine, featuring moist sea bass skewers grilled to perfection.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "500g",
+      "notes": "Fresh and sustainable seafood"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml",
+      "notes": "Rich and creamy base for satay sauce"
+    },
+    {
+      "name": "Peanut Oil",
+      "amount": "2 tablespoons",
+      "notes": "Healthy and flavorful oil for grilling"
+    },
+    {
+      "name": "Satay Sauce Mix",
+      "amount": "1 package",
+      "notes": "Convenient and easy to prepare"
+    },
+    {
+      "name": "Fish Skewers",
+      "amount": "10-12",
+      "notes": "Soak skewers in water for 30 minutes before use"
+    },
+    {
+      "name": "Kebab Spices",
+      "amount": "1 teaspoon",
+      "notes": "Add flavor to your satay with these aromatic spices"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4-6",
+      "notes": "Serve with satay for a burst of citrus flavor"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Garnish with fresh herbs for added freshness"
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Add warmth and depth to your satay sauce"
+    }
+  ],
+  "instructions": [
+    "1. Soak fish skewers in water for 30 minutes.",
+    "2. Preheat grill to medium-high heat.",
+    "3. Cut sea bass into 1-inch pieces and thread onto skewers.",
+    "4. In a bowl, mix together coconut milk, peanut oil, satay sauce mix, kebab spices, and grated ginger.",
+    "5. Brush the mixture onto the sea bass skewers.",
+    "6. Grill the skewers for 8-10 minutes, or until the fish is cooked through and slightly charred.",
+    "7. Serve with lime wedges and garnish with chopped cilantro.",
+    "8. Enjoy your delicious Malaysian Sea Bass Satay!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "malaysian",
+    "grilled",
+    "satay",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-flaky-malaysian-sea-bass-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:46:05.508Z"
+}
