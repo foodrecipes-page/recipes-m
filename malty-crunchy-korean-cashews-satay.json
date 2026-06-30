@@ -1,0 +1,68 @@
+{
+  "slug": "malty-crunchy-korean-cashews-satay",
+  "title": "Korean Cashew Satay",
+  "description": "A tasty and easy-to-make snack featuring crunchy cashews, marinated in a sweet and spicy Korean-inspired sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tbsp",
+      "notes": "honey or brown sugar"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "toasted peanuts or chopped almonds"
+    },
+    {
+      "name": "korean",
+      "amount": "2 tbsp",
+      "notes": "gochujang"
+    },
+    {
+      "name": "satay",
+      "amount": "2 tbsp",
+      "notes": "soy sauce or tamari"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine malty, korean, and satay to make the marinade.",
+    "2. Add crunchy to the blender and blend until smooth.",
+    "3. Add cashews to the blender and blend until the mixture is well combined.",
+    "4. Heat a non-stick pan or griddle over medium heat.",
+    "5. Using a spoon, drop small amounts of the cashew mixture onto the pan or griddle.",
+    "6. Cook for 2-3 minutes on each side, until the cashews are toasted and fragrant.",
+    "7. Remove the satay from the pan and let cool on a wire rack.",
+    "8. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "korean",
+    "cashew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-korean-cashews-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:09:19.139Z"
+}
