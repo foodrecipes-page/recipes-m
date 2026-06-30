@@ -1,0 +1,80 @@
+{
+  "slug": "mellow-moist-british-morcilla-victoria-sponge",
+  "title": "British-Style Victoria Sponge Cake",
+  "description": "A classic British sponge cake, filled with a rich jam and buttercream, perfect for afternoon tea.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mellow butter, softened",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "sponge cake, crumbled",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Victoria jam",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "icing sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "plain flour",
+      "amount": "120g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F) and grease two 20cm (8in) sandwich tins.",
+    "Sift the flour and sugar into a large mixing bowl.",
+    "Add the eggs and mix until smooth.",
+    "Divide the mixture evenly between the prepared tins and smooth the tops.",
+    "Bake for 25-30 minutes, or until a toothpick inserted into the centre comes out clean.",
+    "Remove from the oven and let cool in the tins for 5 minutes before transferring to a wire rack to cool completely.",
+    "To make the buttercream, beat the softened butter and icing sugar until light and fluffy.",
+    "Spread a layer of buttercream on top of one of the cooled cakes.",
+    "Spread a layer of Victoria jam on top of the buttercream.",
+    "Place the second cake on top and dust with icing sugar.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baking",
+    "british",
+    "cake",
+    "dessert",
+    "spoon"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-moist-british-morcilla-victoria-sponge",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:54:29.500Z"
+}
