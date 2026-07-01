@@ -1,0 +1,92 @@
+{
+  "slug": "mellow-italian-veal-tonnato",
+  "title": "Tonnato Sauce with Veal Medallions",
+  "description": "A classic Italian dish featuring thinly sliced veal served with a creamy tonnato sauce. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal medallions",
+      "amount": "4 (6 oz each)"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated veal tonnato",
+      "amount": "1/4 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season the veal medallions with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the veal medallions for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the veal to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the capers and cook for an additional minute.",
+    "Stir in the anchovy paste and cook for 1 minute.",
+    "Add the lemon juice and mayonnaise, and stir until smooth.",
+    "Stir in the grated veal tonnato and chopped parsley.",
+    "Serve the tonnato sauce over the veal medallions.",
+    "Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "veal",
+    "tonnato",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-italian-veal-tonnato",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:20.184Z"
+}
