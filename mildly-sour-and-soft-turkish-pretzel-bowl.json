@@ -1,0 +1,56 @@
+{
+  "slug": "mildly-sour-and-soft-turkish-pretzel-bowl",
+  "title": "Turkish Pretzel Bowl",
+  "description": "A crunchy Turkish pretzel bowl filled with mildly spiced soft cheese, perfect as a snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish Pretzel",
+      "amount": "1 large bowl",
+      "notes": ""
+    },
+    {
+      "name": "Soft Cheese",
+      "amount": "200g",
+      "notes": "Mildly spiced with paprika and garlic powder"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Mildly Spiced Mix",
+      "amount": "2g",
+      "notes": "Paprika, garlic powder, salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Place Turkish pretzel bowl on a baking sheet.",
+    "Bake for 10 minutes, or until lightly toasted.",
+    "Mix soft cheese with mildly spiced mix.",
+    "Spread sour cream on top of pretzel bowl.",
+    "Fill with cheese mixture.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "pretzel",
+    "snack",
+    "cheese"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-and-soft-turkish-pretzel-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:19:32.368Z"
+}
