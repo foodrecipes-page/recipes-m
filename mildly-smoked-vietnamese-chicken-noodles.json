@@ -1,0 +1,97 @@
+{
+  "slug": "mildly-smoked-vietnamese-chicken-noodles",
+  "title": "Vietnamese Chicken Noodle Soup",
+  "description": "A light and flavorful Vietnamese-inspired chicken noodle soup made with smoked chicken, mildly seasoned vegetables, and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Smoked chicken can be substituted for regular chicken"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "Rice noodles or glass noodles"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the sliced ginger and chopped onion to the pot and cook for 2-3 minutes.",
+    "Add the smoked chicken breast to the pot and cook until heated through.",
+    "Add the carrots and celery to the pot and cook for 5 minutes.",
+    "Add the noodles to the pot and cook according to package instructions.",
+    "Stir in the fish sauce and soy sauce (if using).",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "noodle-soup",
+    "soup",
+    "lunch",
+    "easy",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoked-vietnamese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:08:20.182Z"
+}
