@@ -1,0 +1,91 @@
+{
+  "slug": "mellow-australian-citrus-lasagna",
+  "title": "Australian Citrus Mellow Lasagna",
+  "description": "A twist on the classic Italian dish, this Australian Citrus Mellow Lasagna features a zesty citrus chicken filling and a smooth mellow ricotta cheese.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Freshly squeezed citrus juice (orange, lemon, lime)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "Mellow ricotta cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the baking dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Australian lasagna noodles according to the package instructions. Drain and set aside.",
+    "In a medium bowl, whisk together the citrus juice, shredded chicken, mellow ricotta cheese, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped basil leaves and cook until fragrant, about 1 minute.",
+    "In a large baking dish, spread a layer of the citrus-chicken mixture on the bottom.",
+    "Arrange 4 lasagna noodles on top of the citrus-chicken mixture.",
+    "Sprinkle with shredded mozzarella cheese and repeat the layers two more times, ending with a layer of mozzarella cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the lasagna is heated through.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "citrus-recipes",
+    "lasagna-recipe",
+    "mellow-ricotta-cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 32,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-australian-citrus-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:12:25.359Z"
+}
