@@ -1,0 +1,65 @@
+{
+  "slug": "mildly-pungent-peruvian-kidney-bean-stew",
+  "title": "Peruvian Kidney Bean Stew",
+  "description": "A hearty and flavorful stew from Peru, made with tender kidney beans and a blend of aromatic spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mildly seasoned beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pungent onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stew spices blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the beef broth in a large pot over medium heat.",
+    "Add the sliced onions and cook until softened, about 5 minutes.",
+    "Add the diced aji amarillo peppers and cook for an additional 2 minutes.",
+    "Add the kidney beans, bean sprouts, and stew spices blend.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the flavors have melded together.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "stew",
+    "vegetarian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-pungent-peruvian-kidney-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:40:53.231Z"
+}
