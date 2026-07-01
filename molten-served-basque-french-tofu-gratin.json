@@ -1,0 +1,86 @@
+{
+  "slug": "molten-served-basque-french-tofu-gratin",
+  "title": "Tofu Basque Gratin",
+  "description": "A creamy, French-inspired gratin made with pan-seared tofu and a delicate Basque sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "Basque sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1 cup",
+      "notes": "a mix of cheddar and parmesan"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Press and drain the tofu, then cut it into 1-inch cubes.",
+    "Pan-fry the tofu in olive oil until golden brown on all sides.",
+    "In a separate pan, sauté the garlic and thyme in a little olive oil until fragrant.",
+    "Add the Basque sauce and stir to combine.",
+    "In a greased 9x13 inch baking dish, create a layer of Basque sauce.",
+    "Arrange the tofu cubes on top of the sauce.",
+    "Sprinkle the gratin cheese over the tofu.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake for 25-30 minutes, or until the cheese is golden brown and bubbly.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "basque",
+    "gratin",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-served-basque-french-tofu-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:07:01.171Z"
+}
