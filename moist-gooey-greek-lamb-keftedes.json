@@ -1,0 +1,89 @@
+{
+  "slug": "moist-gooey-greek-lamb-keftedes",
+  "title": "Greek Lamb Koftas with Keftedes",
+  "description": "Juicy lamb koftas served with crispy Greek-style fried balls. A classic Greek comfort food dish.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "keftedes breadcrumbs",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "for brushing"
+    },
+    {
+      "name": "moist greek yogurt",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground lamb, keftedes breadcrumbs, onion, garlic, feta cheese, egg, salt, and black pepper. Mix well with hands until just combined.",
+    "Cover mixture and refrigerate for at least 30 minutes.",
+    "Thread lamb mixture onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill lamb koftas for 8-10 minutes, turning occasionally, until cooked through.",
+    "While lamb is grilling, prepare keftedes. In a separate bowl, mix together 200g breadcrumbs and 100g grated onion.",
+    "In a separate pan, heat 2 tbsp olive oil over medium heat. Using a spoon, drop small balls of breadcrumb mixture into hot oil and fry until golden brown and crispy.",
+    "Serve lamb koftas with keftedes and a dollop of moist Greek yogurt.",
+    "Garnish with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "keftedes",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-gooey-greek-lamb-keftedes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:28.301Z"
+}
