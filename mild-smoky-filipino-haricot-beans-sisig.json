@@ -1,0 +1,84 @@
+{
+  "slug": "mild-smoky-filipino-haricot-beans-sisig",
+  "title": "Filipino Sisig with Haricot Beans",
+  "description": "A twist on traditional Filipino sisig using haricot beans for added texture and nutrition. This recipe is a flavorful and spicy dish that's perfect for any occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haricot beans",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Mild",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Smoky",
+      "amount": "2 tbsp",
+      "notes": "patis (fish sauce) or soy sauce"
+    },
+    {
+      "name": "Filipino",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "Sisig",
+      "amount": "1 cup",
+      "notes": "pork sisig or pork belly, diced"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "1-2",
+      "notes": "sliced, optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2-3",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the patis or soy sauce and black pepper over medium heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced pork sisig or pork belly and cook until browned.",
+    "Add the sliced chili peppers (if using) and cook for another minute.",
+    "Stir in the haricot beans and cook until heated through.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a serving platter.",
+    "Garnish with chopped green onions and serve with lime wedges on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "sisig",
+    "haricot-beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-smoky-filipino-haricot-beans-sisig",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:33:59.206Z"
+}
