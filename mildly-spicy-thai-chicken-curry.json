@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-spicy-thai-chicken-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A flavorful and spicy curry made with chicken, mildly spicy Thai red curry paste, and a blend of Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "mildly spicy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the fish sauce, brown sugar, and bell peppers to the skillet.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the curry for 5-7 minutes, or until the sauce has thickened and the chicken is coated.",
+    "Stir in the chopped Thai basil leaves and serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "curry",
+    "chicken",
+    "mildly-spicy",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:28.510Z"
+}
