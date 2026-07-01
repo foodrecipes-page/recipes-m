@@ -1,0 +1,49 @@
+{
+  "slug": "midnight-uruguayan-apricot-jam-toast",
+  "title": "Midnight Toast with Apricot Jam",
+  "description": "A simple and sweet snack that combines the flavors of Uruguay with a hint of apricot jam.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toasted bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Midnight chocolate",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Toast 2 slices of bread until lightly browned.",
+    "Spread 2 tbsp of apricot jam on each slice of toasted bread.",
+    "Melt 1/4 cup of midnight chocolate and drizzle over the apricot jam.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "uruguayan",
+    "midnight-chocolate",
+    "apricot-jam"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-uruguayan-apricot-jam-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:29:44.959Z"
+}
