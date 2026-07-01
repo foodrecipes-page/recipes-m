@@ -1,0 +1,83 @@
+{
+  "slug": "mustardy-fish-tiradito",
+  "title": "Mustardy Fish Tacos",
+  "description": "A twist on traditional fish tacos with a tangy mustardy sauce. Serve with crispy slaw and warm tortillas.",
+  "cuisine": null,
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "1 lb",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Mustardy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tiradito (Red Onion, Jalapeño, Cilantro)",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "Corn or flour, warm"
+    },
+    {
+      "name": "Lime",
+      "amount": "2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crispy Slaw",
+      "amount": "1 cup",
+      "notes": "Shredded cabbage, carrots, and cilantro"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season fish with salt and grill for 3-4 minutes per side, or until cooked through.",
+    "3. Meanwhile, prepare the slaw by combining shredded cabbage, carrots, and cilantro in a bowl.",
+    "4. In a separate bowl, whisk together lime juice and mustardy sauce.",
+    "5. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble tacos by placing cooked fish on a tortilla, topping with slaw, and drizzling with lime-mustardy sauce.",
+    "7. Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "tacos",
+    "mustard",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-fish-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:54:07.709Z"
+}
