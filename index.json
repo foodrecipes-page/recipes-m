@@ -2130,17 +2130,15 @@
   },
   {
     "slug": "malty-creamy-canadian-yam-pudding",
-    "title": "Malty Creamy Canadian Yam Pudding",
+    "title": "Malty Yam Pudding",
     "tags": [
-      "canadian",
-      "comfort-food",
-      "creamy",
       "dessert",
+      "pudding",
       "malty",
-      "vegan"
+      "yam"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -4666,17 +4664,15 @@
   },
   {
     "slug": "mellow-australian-citrus-lasagna",
-    "title": "Mellow Australian Citrus Lasagna",
+    "title": "Australian Citrus Mellow Lasagna",
     "tags": [
-      "citrus",
-      "comfort-food",
-      "easy-to-bake",
-      "lasagna",
-      "vegetarian",
-      "weeknight"
+      "australian-cuisine",
+      "citrus-recipes",
+      "lasagna-recipe",
+      "mellow-ricotta-cheese"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
@@ -19569,17 +19565,15 @@
   },
   {
     "slug": "mustardy-algerian-lamb-tagine",
-    "title": "Mustardy Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "hearty-stew",
-      "lamb-based",
-      "macrobiotic",
-      "north-african",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "lamb",
+      "stew",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 180,
     "shard": "m"
   },
   {
@@ -19931,16 +19925,15 @@
   },
   {
     "slug": "mustardy-fish-tiradito",
-    "title": "Mustardy Fish Tiradito",
+    "title": "Mustardy Fish Tacos",
     "tags": [
-      "diabetic-friendly",
       "fish",
-      "one-pan",
-      "peruvian",
-      "weeknight"
+      "tacos",
+      "mustard",
+      "gluten-free"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 23,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "m"
   },
   {
