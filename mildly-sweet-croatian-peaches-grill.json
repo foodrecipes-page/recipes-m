@@ -1,0 +1,71 @@
+{
+  "slug": "mildly-sweet-croatian-peaches-grill",
+  "title": "Sweet Croatian Peach Grill",
+  "description": "A sweet and tangy dessert made with fresh peaches, a hint of Croatian flair, and a smoky grill.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "3",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "Mildly Sweet Honey",
+      "amount": "2 tbsp",
+      "notes": "pure Croatian honey"
+    },
+    {
+      "name": "Croatian Fig Jam",
+      "amount": "1 tbsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Grilled Pine Nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush peach slices with honey and sprinkle with fig jam.",
+    "Grill peaches for 2-3 minutes per side, or until caramelized.",
+    "Combine grilled peaches, mint, and lemon juice in a bowl.",
+    "Top with grilled pine nuts and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "summer",
+    "peach",
+    "croatian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-croatian-peaches-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:40:59.616Z"
+}
