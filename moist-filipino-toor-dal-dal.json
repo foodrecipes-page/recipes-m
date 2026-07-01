@@ -1,0 +1,80 @@
+{
+  "slug": "moist-filipino-toor-dal-dal",
+  "title": "Filipino Dal Curry",
+  "description": "A flavorful and comforting curry made with split red lentils and spices, inspired by Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "moist dal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add curry powder and cook for 1 minute.",
+    "Add dal, coconut milk, and tomato paste; stir well.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "curry",
+    "vegetarian",
+    "lentils",
+    "dal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-filipino-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:01:54.400Z"
+}
