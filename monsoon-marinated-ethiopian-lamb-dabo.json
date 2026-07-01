@@ -1,0 +1,92 @@
+{
+  "slug": "monsoon-marinated-ethiopian-lamb-dabo",
+  "title": "Ethiopian-Style Marinated Lamb Dabo",
+  "description": "A flavorful and aromatic Ethiopian-inspired dish featuring marinated lamb in a traditional dabo bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dabo",
+      "amount": "1 loaf",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "boneless and thinly sliced"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 tablespoons",
+      "notes": "Berbere spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing dabo"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinating lamb"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking lamb"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the dabo with olive oil and bake for 5-7 minutes or until lightly toasted.",
+    "In a large bowl, whisk together Berbere spice blend, garlic, ginger, and onion.",
+    "Add the sliced lamb to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "Heat ghee or vegetable oil in a large skillet over medium-high heat.",
+    "Remove the lamb from the marinade, letting any excess liquid drip off.",
+    "Cook the lamb for 3-4 minutes per side or until browned and cooked through.",
+    "Slice the cooked lamb into thin strips.",
+    "To assemble the dabo, place a few slices of lamb on each piece of toasted dabo.",
+    "Top with additional Berbere spice blend, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "marinated",
+    "dabo",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-marinated-ethiopian-lamb-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:22:55.046Z"
+}
