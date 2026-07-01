@@ -1,0 +1,100 @@
+{
+  "slug": "mouthwatering-gooey-indian-seafood-korma",
+  "title": "Seafood Korma",
+  "description": "A delicious and aromatic Indian-inspired dish featuring seafood in a rich, creamy korma sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1 pound",
+      "notes": "rinsed and patted dry"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "korma paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the shrimp and scallops and cook until pink, about 2-3 minutes per side.",
+    "Remove the seafood from the skillet and set aside.",
+    "In the same skillet, add the korma paste and cook for 1-2 minutes, until fragrant.",
+    "Add the coconut milk, garam masala, cumin, coriander, turmeric, salt, and black pepper to the skillet. Stir to combine.",
+    "Return the seafood to the skillet and simmer for 5-7 minutes, until the sauce has thickened and the seafood is cooked through.",
+    "Stir in the chopped cilantro and cook for an additional minute.",
+    "Serve the seafood korma hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "korma",
+    "coconut-milk",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-gooey-indian-seafood-korma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:27:13.858Z"
+}
