@@ -1,0 +1,84 @@
+{
+  "slug": "malty-crunchy-indulgent-tunisian-prawns-fried-rice",
+  "title": "Tunisian Prawn Fried Rice",
+  "description": "A flavorful and spicy Tunisian-inspired fried rice dish loaded with succulent prawns. This easy-to-make recipe is perfect for a quick and satisfying meal.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "malty rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "crunchy vegetables (carrots, peas, onions)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "indulgent prawns",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fried onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped carrots, peas, and onions, and cook until the vegetables are tender.",
+    "Add the Tunisian spice blend and cook for 1 minute.",
+    "Add the prawns and cook until pink and fully cooked.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes.",
+    "Stir in the fried onions and season with salt and black pepper to taste.",
+    "Transfer the fried rice to a serving platter and serve hot.",
+    "Serve immediately and enjoy!",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "prawns",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-indulgent-tunisian-prawns-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:56:47.077Z"
+}
