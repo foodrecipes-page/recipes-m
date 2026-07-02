@@ -1,0 +1,66 @@
+{
+  "slug": "muskavocado-crunch",
+  "title": "Crunchy Muskavocado Salad",
+  "description": "A refreshing salad made with muskavocado and crunch, perfect for a quick snack or light meal.",
+  "cuisine": "international",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "muskavocado",
+      "amount": "1 ripe",
+      "notes": "remove pit and skin"
+    },
+    {
+      "name": "crunch",
+      "amount": "1 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel the muskavocado and remove the pit.",
+    "Cut the muskavocado into small pieces.",
+    "In a bowl, combine the muskavocado pieces and crunch.",
+    "Squeeze the lemon juice over the muskavocado mixture and toss to coat.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/muskavocado-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:23:03.744Z"
+}
