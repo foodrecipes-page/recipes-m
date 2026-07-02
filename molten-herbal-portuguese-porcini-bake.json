@@ -1,0 +1,83 @@
+{
+  "slug": "molten-herbal-portuguese-porcini-bake",
+  "title": "Herbal Porcini Bake",
+  "description": "A hearty, flavorful bake made with porcini mushrooms and herbal notes. Perfect for a special occasion.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the porcini mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the fresh thyme and rosemary, and season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and bake for 15-20 minutes, or until the flavors have melded together and the mushrooms are tender.",
+    "Serve hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "mushroom",
+    "herbal",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-herbal-portuguese-porcini-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:31:39.975Z"
+}
