@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-crunchy-chinese-pork-mu-shu-wraps",
+  "title": "Crispy Pork Wraps",
+  "description": "A delicious and crunchy twist on traditional wraps, filled with tender pork and savory flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Wonton wraps",
+      "amount": "8-10",
+      "notes": "Mildly seasoned"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pork broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep frying pan or a deep fryer to 350°F (180°C).",
+    "Cut the pork shoulder into thin strips and season with salt and pepper.",
+    "Heat the vegetable oil in the pan and fry the pork until golden brown and crispy.",
+    "Remove the pork from the oil and set aside.",
+    "Brush the wonton wraps with sesame oil and cook in the pan for 30 seconds on each side.",
+    "Assemble the wraps by placing a few pieces of fried pork onto each wrap, followed by a spoonful of hoisin sauce, a drizzle of soy sauce, and a sprinkle of green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "wraps",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-crunchy-chinese-pork-mu-shu-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:38:55.931Z"
+}
