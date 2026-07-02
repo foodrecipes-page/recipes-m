@@ -1,0 +1,77 @@
+{
+  "slug": "mellow-roasted-portuguese-lamb-roast",
+  "title": "Mellow Roasted Lamb",
+  "description": "A flavorful and tender lamb dish with a hint of mellow spice, perfect for a special occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5kg",
+      "notes": ""
+    },
+    {
+      "name": "Mellow spice blend",
+      "amount": "2 tbsp",
+      "notes": "Available at most spice stores"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "Roast at 400°F for 30 minutes"
+    },
+    {
+      "name": "Portuguese olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (165°C).",
+    "Season the lamb with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the mellow spice blend to the pot and cook for 1 minute.",
+    "Add the roasted garlic to the pot and cook for 1 minute.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and roast for 2-3 hours, or until the lamb is tender.",
+    "Let the lamb rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "portuguese",
+    "roasted",
+    "mellow",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-portuguese-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:27:38.301Z"
+}
