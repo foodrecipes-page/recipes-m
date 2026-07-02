@@ -1,0 +1,78 @@
+{
+  "slug": "magical-peruvian-beef-brochette",
+  "title": "Peruvian Beef Brochette with Magical Spice",
+  "description": "A flavorful and savory Peruvian-inspired dish featuring grilled beef brochette marinated in a blend of magical spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Skewers (brochette)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Peruvian Magical Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at local market"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Peruvian Magical Spice Blend, lime juice, olive oil, garlic, cumin, and salt.",
+    "2. Add the beef skewers to the marinade and mix well to coat.",
+    "3. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Remove beef skewers from marinade, letting any excess liquid drip off.",
+    "6. Grill the beef skewers for 8-10 minutes per side, or until cooked to desired doneness.",
+    "7. Transfer beef skewers to a plate and let rest for 5 minutes.",
+    "8. Serve hot, garnished with sliced red onion and additional Peruvian Magical Spice Blend if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-peruvian-beef-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:51:12.298Z"
+}
