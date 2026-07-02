@@ -1,0 +1,93 @@
+{
+  "slug": "mouthwatering-mutton-basque-french-lamb-tagine",
+  "title": "Lamb Tagine with Mutton and French Herbs",
+  "description": "A flavorful North African-inspired stew made with tender lamb, mutton, and aromatic French herbs.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore",
+    "meat",
+    "stew"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "Bone-in for richer flavor"
+    },
+    {
+      "name": "Mutton shanks",
+      "amount": "1 pound",
+      "notes": "Boned and cut into 2-inch pieces"
+    },
+    {
+      "name": "Mouthwatering spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Found in most Middle Eastern markets"
+    },
+    {
+      "name": "French thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "Basque paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb and mutton until browned, about 5 minutes. Remove and set aside.",
+    "Add onion and garlic to pot; cook until softened, about 5 minutes.",
+    "Add spice blend, thyme, and paprika; cook for 1 minute.",
+    "Add broth and wine; stir to combine, scraping up browned bits from bottom of pot.",
+    "Return lamb and mutton to pot; cover and bring to a simmer.",
+    "Transfer to oven; cook until lamb is tender, about 2 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-mutton-basque-french-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:16:49.479Z"
+}
