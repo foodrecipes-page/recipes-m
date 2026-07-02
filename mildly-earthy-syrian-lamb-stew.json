@@ -1,0 +1,96 @@
+{
+  "slug": "mildly-earthy-syrian-lamb-stew",
+  "title": "Syrian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Syria, perfect for a cold evening. The lamb is tender and falls apart easily.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Mildly Spiced Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and diced potatoes, and cook for 5 minutes.",
+    "Add the mildly spiced tomato paste, earthy cumin, salt, and black pepper. Stir to combine.",
+    "Add the browned lamb back to the pot, along with the water.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with parsley or cilantro if desired.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-earthy-syrian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:13:52.325Z"
+}
