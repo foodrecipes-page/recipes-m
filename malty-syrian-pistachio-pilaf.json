@@ -1,0 +1,72 @@
+{
+  "slug": "malty-syrian-pistachio-pilaf",
+  "title": "Pistachio Pilaf with Syrian Twist",
+  "description": "A flavorful pilaf dish infused with the unique taste of syrian spices and crunchy pistachios.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1 cup, chopped",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Malty oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Syrian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "available at middle eastern stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust according to spice blend"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat malty oil in a large saucepan over medium heat.",
+    "Add chopped pistachios and cook for 2-3 minutes until fragrant.",
+    "Add pilaf and stir to coat with oil and pistachios.",
+    "Add Syrian spice blend, salt, and black pepper. Stir well to combine.",
+    "Cook for 5-7 minutes or until pilaf is tender and lightly toasted.",
+    "Fluff pilaf with a fork to separate grains.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "pilaf",
+    "pistachio",
+    "syrian-spice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-syrian-pistachio-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:35:34.276Z"
+}
