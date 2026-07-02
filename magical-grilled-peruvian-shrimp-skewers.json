@@ -1,0 +1,84 @@
+{
+  "slug": "magical-grilled-peruvian-shrimp-skewers",
+  "title": "Peruvian Shrimp Skewers with Magical Grilled Flavor",
+  "description": "A fusion dish combining the spicy flavors of Peru with the magical twist of grilled perfection. Succulent shrimp skewers marinated in a zesty mixture of Peruvian spices and grilled to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Large shrimp, peeled and deveined"
+    },
+    {
+      "name": "Peruvian Skewers",
+      "amount": "12 skewers",
+      "notes": "Wooden skewers, pre-soaked in water"
+    },
+    {
+      "name": "Magical Grilled Seasoning",
+      "amount": "2 teaspoons",
+      "notes": "A secret blend of spices and herbs"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed lime juice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground coriander"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Magical Grilled Seasoning, lime juice, olive oil, garlic, cumin, and coriander.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the shrimp onto the Peruvian skewers, leaving a small space between each shrimp.",
+    "Brush the skewers with additional olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the shrimp are pink and cooked through.",
+    "Serve immediately, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "shrimp",
+    "skewers",
+    "grilled",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-grilled-peruvian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:54:34.142Z"
+}
