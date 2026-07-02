@@ -1,0 +1,88 @@
+{
+  "slug": "mildly-spicy-indian-chickpeas-chana-masala",
+  "title": "Spicy Indian Chickpea Curry",
+  "description": "A flavorful and spicy curry made with chickpeas, onions, and a blend of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chickpeas (chana masala)",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Chana Masala",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spicy mildly indian curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Stir in chana masala and curry powder and cook for 1 minute.",
+    "Add chickpeas and water, bring to a simmer.",
+    "Reduce heat to low and cook for 15-20 minutes or until the curry has thickened.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "curry",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-indian-chickpeas-chana-masala",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:57:04.480Z"
+}
