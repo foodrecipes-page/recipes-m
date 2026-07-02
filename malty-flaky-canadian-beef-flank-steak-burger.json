@@ -1,0 +1,71 @@
+{
+  "slug": "malty-flaky-canadian-beef-flank-steak-burger",
+  "title": "Grilled Flank Steak with Malty Crust",
+  "description": "A flavorful and easy-to-make flank steak recipe, topped with a malty crust, perfect for a quick dinner.",
+  "cuisine": "american",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 (1-1.5 pound) piece"
+    },
+    {
+      "name": "malty",
+      "amount": "1 tablespoon",
+      "notes": "crushed malted barley or malt vinegar"
+    },
+    {
+      "name": "beef",
+      "amount": "1 tablespoon",
+      "notes": "beef broth or beef drippings"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 tablespoon",
+      "notes": "maple syrup or honey"
+    },
+    {
+      "name": "burger",
+      "amount": "2 tablespoons",
+      "notes": "burgers or steak seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F).",
+    "Season the flank steak with flaky sea salt, burger seasoning, and a pinch of black pepper.",
+    "In a small bowl, mix together malty, beef, and a pinch of salt to create the malty crust.",
+    "Brush the malty crust mixture evenly onto both sides of the flank steak.",
+    "Grill the flank steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the flank steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "flank-steak",
+    "steak",
+    "malty-crust"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-flaky-canadian-beef-flank-steak-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:32:44.467Z"
+}
