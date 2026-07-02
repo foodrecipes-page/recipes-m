@@ -1,0 +1,96 @@
+{
+  "slug": "mouthwatering-crispy-mexican-chicken-tacos",
+  "title": "Crispy Mexican Chicken Tacos",
+  "description": "A delicious and flavorful Mexican dish, perfect for a quick dinner or lunch. Crispy chicken, crunchy tacos, and a side of fresh toppings make this meal a real treat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F.",
+    "In a large bowl, whisk together cumin, chili powder, salt, and pepper.",
+    "Add the chicken breasts to the bowl and toss to coat with the spice mixture.",
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breasts to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken breasts to a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the chicken breasts and placing them onto the tortillas.",
+    "Top with shredded cheese, salsa, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-crispy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:31:20.383Z"
+}
