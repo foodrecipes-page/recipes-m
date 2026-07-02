@@ -1,0 +1,71 @@
+{
+  "slug": "moldy-filled-italian-rice-suppli",
+  "title": "Italian Suppli Rice Balls",
+  "description": "A classic Italian snack made with risotto, mozzarella, and tomato sauce, coated in breadcrumbs and deep-fried to crispy perfection.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the Italian rice according to package instructions.",
+    "In a large mixing bowl, combine the cooked rice, mozzarella cheese, and tomato sauce.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Add the egg to the mixture and stir until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small portions, about the size of a golf ball.",
+    "Shape each portion into a ball and then flatten it slightly into a disk shape.",
+    "Dip each disk into the breadcrumbs, pressing the crumbs gently onto the surface to help them stick.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add a few of the breaded rice balls to the pan and fry until they are golden brown and crispy.",
+    "Remove the suppli from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the suppli hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "rice",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moldy-filled-italian-rice-suppli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:36:42.131Z"
+}
