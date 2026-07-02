@@ -1,0 +1,69 @@
+{
+  "slug": "mellow-cheesy-kenyan-paneer-grill",
+  "title": "Grilled Kenyan Paneer Skewers",
+  "description": "A simple and flavorful recipe featuring paneer cheese, inspired by Kenyan cuisine. Perfect for a quick snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mellow",
+      "amount": "1/4 cup",
+      "notes": "mellow sauce or yogurt for marinating"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1/4 cup",
+      "notes": "grated cheese for topping"
+    },
+    {
+      "name": "kenyan spice",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grill",
+      "amount": "as needed",
+      "notes": "for grilling skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a bowl, whisk together mellow, cheesy, and kenyan spice.",
+    "3. Add paneer cubes to the marinade and mix well.",
+    "4. Thread marinated paneer onto skewers.",
+    "5. Brush grill with oil to prevent sticking.",
+    "6. Grill skewers for 2-3 minutes per side, or until golden brown.",
+    "7. Serve hot, topped with additional grated cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "kenyan-cuisine",
+    "grilled",
+    "paneer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-cheesy-kenyan-paneer-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:44:38.663Z"
+}
