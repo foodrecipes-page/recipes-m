@@ -1,0 +1,83 @@
+{
+  "slug": "magically-charred-thai-collards-pad-thai",
+  "title": "Magical Charred Thai Stir Fry",
+  "description": "A quick and delicious stir fry made with charred vegetables and a hint of magical spice. Perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "magically grown broccoli",
+      "amount": "1 bunch",
+      "notes": "charred to perfection"
+    },
+    {
+      "name": "charred red bell peppers",
+      "amount": "2",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "pad thai sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and grated ginger; stir-fry for 1 minute.",
+    "Add charred red bell peppers and broccoli; stir-fry for 2-3 minutes.",
+    "Add chopped collard greens and stir-fry until wilted.",
+    "Add thai basil leaves and stir-fry for another minute.",
+    "Pour in pad thai sauce and stir-fry for 1-2 minutes, until the sauce is bubbly and slightly thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with additional thai basil leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-charred-thai-collards-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:49:13.514Z"
+}
