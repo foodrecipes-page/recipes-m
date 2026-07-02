@@ -1,0 +1,65 @@
+{
+  "slug": "mild-fluffy-algerian-brie-gratin",
+  "title": "Gratin Brie Bites",
+  "description": "A bite-sized appetizer featuring creamy brie cheese baked in a mild, fluffy pastry crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mild Pastry Dough",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Brie Cheese",
+      "amount": "8 ounces",
+      "notes": "Softened"
+    },
+    {
+      "name": "Algerian Olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Gratin Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out small squares of pastry, about 3 inches per side.",
+    "Place a small amount of softened brie cheese in the center of each square.",
+    "Top the brie cheese with a few pitted Algerian olives and some grated gratin cheese.",
+    "Fold the pastry squares in half to form triangles, pressing the edges to seal.",
+    "Place the gratin bites on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little bit of milk or beaten egg for a golden glaze.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown and the cheese is melted.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "finger-food",
+    "party-food"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-fluffy-algerian-brie-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:40:43.008Z"
+}
