@@ -1,0 +1,63 @@
+{
+  "slug": "melted-mustard-peruvian-potato-casserole",
+  "title": "Peruvian Potato Casserole",
+  "description": "A hearty Peruvian-inspired casserole made with crispy potatoes, savory melted cheese, and a hint of spice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "melted cheese blend",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "peruvian mustard",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss sliced potatoes with peruvian mustard until coated.",
+    "Transfer potatoes to a greased casserole dish.",
+    "Sprinkle half of the melted cheese blend over potatoes.",
+    "Bake for 20 minutes or until potatoes are tender.",
+    "Remove from oven and top with remaining cheese.",
+    "Return to oven and bake for an additional 5-7 minutes or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "potato",
+    "casserole",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-mustard-peruvian-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:16:44.919Z"
+}
