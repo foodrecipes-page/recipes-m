@@ -1,0 +1,87 @@
+{
+  "slug": "monsoon-juicy-canadian-beef-gravy-over-noodles",
+  "title": "Monsoon Beef Noodles",
+  "description": "A hearty beef noodle dish perfect for a cold day. The juicy beef and savory gravy make this a standout recipe.",
+  "cuisine": "canadian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "such as flank steak or ribeye"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g",
+      "notes": "such as udon or egg noodles"
+    },
+    {
+      "name": "gravy",
+      "amount": "200ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "monsoon",
+      "amount": "1 tsp",
+      "notes": "ground monsoon spice blend"
+    },
+    {
+      "name": "juicy beef broth",
+      "amount": "500ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "canadian all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "beef broth",
+      "amount": "200ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": "as needed for gravy"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "Heat beef broth in a large pan over medium-high heat.",
+    "Add beef strips and cook until browned, about 3-4 minutes.",
+    "Remove beef from pan and set aside.",
+    "In the same pan, add monsoon spice blend and cook for 1 minute.",
+    "Add gravy, beef broth, and flour to the pan. Stir to combine.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Add beef back to the pan and cook for an additional 2-3 minutes, until heated through.",
+    "Stir in juicy beef broth and cook for 1 minute.",
+    "Serve beef and gravy over cooked noodles.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodles",
+    "canadian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-juicy-canadian-beef-gravy-over-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:36:28.716Z"
+}
