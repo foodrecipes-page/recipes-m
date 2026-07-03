@@ -3153,31 +3153,30 @@
   },
   {
     "slug": "malty-shattering-mediterranean-lamb-skewers",
-    "title": "Malty Shattering Mediterranean Lamb Skewers",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "brunch",
-      "grilled",
+      "greek",
       "lamb",
-      "low-carb",
       "mediterranean",
-      "skewers"
+      "grilled"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Greek",
+    "totalTimeMin": 28,
     "shard": "m"
   },
   {
     "slug": "malty-silky-argentinian-lardons-empanadas",
-    "title": "Malty Silky Argentinian Lardons Empanadas",
+    "title": "Empanadas with Lardons and Malt",
     "tags": [
       "argentinian",
       "empanadas",
-      "festive",
-      "malty",
-      "plant-based"
+      "lardons",
+      "malt",
+      "snack",
+      "meat"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 150,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -10219,16 +10218,14 @@
   },
   {
     "slug": "mighty-meaty-croatian-meat-stew",
-    "title": "Mighty Meaty Croatian Meat Stew",
+    "title": "Croatian Beef Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "hearty-stew",
-      "low-glycemic",
-      "one-pot"
+      "beef",
+      "croatian",
+      "stew"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 180,
     "shard": "m"
   },
   {
@@ -20161,17 +20158,16 @@
   },
   {
     "slug": "mustardy-mild-french-sterbottensost-quiche",
-    "title": "Mustardy Mild French Sterbottensost Quiche",
+    "title": "Sterbottensost and Quiche Melt",
     "tags": [
-      "brunch",
-      "french-cuisine",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "swedish",
+      "quiche",
+      "cheese",
+      "breakfast",
+      "brunch"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 60,
+    "cuisine": "Swedish",
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
