@@ -1,0 +1,67 @@
+{
+  "slug": "mustardy-tender-american-mushrooms-robata-grill",
+  "title": "Robata Glazed American Pork Chops with Mushrooms",
+  "description": "Tender and flavorful pork chops glazed with a sweet and spicy robata sauce, served with sautéed mushrooms.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 American Pork Chops",
+      "amount": "1 inch thick",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Robata Glaze",
+      "amount": "",
+      "notes": "see below"
+    },
+    {
+      "name": "8 oz Mushrooms",
+      "amount": "",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "2 tbsp Mustardy Glaze",
+      "amount": "",
+      "notes": "see below"
+    },
+    {
+      "name": "2 tbsp Butter",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork chops with salt and pepper.",
+    "Grill pork chops for 5-7 minutes per side, or until they reach 145°F.",
+    "While pork chops are grilling, melt butter in a pan over medium heat.",
+    "Add mushrooms and sauté until they release their liquid and start to brown.",
+    "Brush robata glaze on pork chops during the last minute of grilling.",
+    "Serve pork chops with sautéed mushrooms and a drizzle of mustardy glaze."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "mushrooms",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-tender-american-mushrooms-robata-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:22:48.174Z"
+}
