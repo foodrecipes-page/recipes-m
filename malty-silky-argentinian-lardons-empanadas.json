@@ -1,0 +1,66 @@
+{
+  "slug": "malty-silky-argentinian-lardons-empanadas",
+  "title": "Empanadas with Lardons and Malt",
+  "description": "A twist on traditional empanadas, this recipe adds the savory flavor of lardons and the rich taste of malt to create a delightful snack or meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "1 package (12 empanadas)"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "silky",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "argentinian seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the empanadas in half and set aside.",
+    "In a pan, cook the lardons over medium heat until browned.",
+    "Add the malt and cook for 1 minute, stirring constantly.",
+    "Stir in the silky and argentinian seasoning. Cook for 1 minute.",
+    "Place a spoonful of the lardon mixture onto each empanada half.",
+    "Fold the empanadas in half and press the edges to seal.",
+    "Place the empanadas on a baking sheet and bake for 12-15 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "lardons",
+    "malt",
+    "snack",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-silky-argentinian-lardons-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:28:11.611Z"
+}
