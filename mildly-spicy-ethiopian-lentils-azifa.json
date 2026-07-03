@@ -1,0 +1,80 @@
+{
+  "slug": "mildly-spicy-ethiopian-lentils-azifa",
+  "title": "Spicy Ethiopian Azifa Lentil Stew",
+  "description": "A flavorful and spicy Ethiopian-inspired lentil stew, made with mild and spicy azifa flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Mild Azifa Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Spicy Azifa Spice Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the onions, ginger, and garlic. Cook until the onions are translucent.",
+    "Add the mild and spicy azifa spice blends. Cook for 1 minute.",
+    "Add the lentils and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "azifa",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-ethiopian-lentils-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:28:30.206Z"
+}
