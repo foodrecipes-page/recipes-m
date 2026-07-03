@@ -1,0 +1,78 @@
+{
+  "slug": "mustardy-mild-french-sterbottensost-quiche",
+  "title": "Sterbottensost and Quiche Melt",
+  "description": "A Swedish-inspired quiche filled with creamy Sterbottensost cheese and baked until golden brown.",
+  "cuisine": "Swedish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 package of pie crust",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup Sterbottensost cheese, shredded",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup mild cheese, shredded",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup milk",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "1 tsp mustardy cheese, grated",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "null",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the pie crust and place it in a greased tart pan.",
+    "3. In a bowl, whisk together the eggs, milk, Sterbottensost cheese, mild cheese, and mustardy cheese.",
+    "4. Season with salt and pepper to taste.",
+    "5. Pour the egg mixture into the pie crust.",
+    "6. Bake for 35-40 minutes, or until the quiche is set and the crust is golden brown.",
+    "7. Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "swedish",
+    "quiche",
+    "cheese",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-mild-french-sterbottensost-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:45:46.847Z"
+}
