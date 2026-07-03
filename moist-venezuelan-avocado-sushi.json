@@ -1,0 +1,75 @@
+{
+  "slug": "moist-venezuelan-avocado-sushi",
+  "title": "Avocado Sushi Rolls with Venezuelan Twist",
+  "description": "A fusion of Venezuelan flavors with the classic Japanese sushi rolls, featuring fresh avocado and a hint of Venezuelan spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Short-grain Japanese rice",
+      "amount": "1 cup",
+      "notes": "preferably Japanese Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "Venezuelan mojo sauce (optional)",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sushi nori",
+      "amount": "1 package",
+      "notes": "dried seaweed sheets"
+    },
+    {
+      "name": "Venezuelan cheese (Queso Fresco or similar)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to package instructions.",
+    "Cut the avocado slices into thin strips.",
+    "Prepare the Venezuelan mojo sauce, if using.",
+    "Cut the sushi nori sheets into desired sizes.",
+    "Assemble the sushi rolls with the prepared ingredients.",
+    "Top with crumbled Venezuelan cheese and chopped cilantro.",
+    "Serve immediately, with or without Venezuelan mojo sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "sushi",
+    "venezuelan",
+    "latin-american",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-venezuelan-avocado-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:17:20.901Z"
+}
