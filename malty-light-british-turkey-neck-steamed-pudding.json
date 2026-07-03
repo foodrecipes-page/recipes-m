@@ -1,0 +1,64 @@
+{
+  "slug": "malty-light-british-turkey-neck-steamed-pudding",
+  "title": "Traditional British Steamed Pudding",
+  "description": "A classic British dessert made with a light and malty pudding, steamed to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty British Pudding Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Steamed Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "British Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the pudding mix and milk. Whisk until smooth.",
+    "2. Add the steamed water and whisk until combined.",
+    "3. Pour the mixture into a greased 1-quart pudding basin or mold.",
+    "4. Cover the pudding with a piece of parchment paper or a clean cloth.",
+    "5. Place the pudding in a large pot or steamer basket, and add enough boiling water to come halfway up the side of the pudding basin.",
+    "6. Cover the pot and steam the pudding for 2 hours, or until it is firm and set.",
+    "7. Remove the pudding from the pot and let it cool slightly.",
+    "8. Serve the pudding warm, topped with British butter and granulated sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "pudding",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-light-british-turkey-neck-steamed-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:01:34.507Z"
+}
