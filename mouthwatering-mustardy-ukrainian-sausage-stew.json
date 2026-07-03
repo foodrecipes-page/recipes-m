@@ -1,0 +1,82 @@
+{
+  "slug": "mouthwatering-mustardy-ukrainian-sausage-stew",
+  "title": "Sausage and Sausage Stew",
+  "description": "A hearty, mouthwatering stew with Ukrainian flavors and a hint of mustardy goodness. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pound",
+      "notes": "Ukrainian-style sausage"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons",
+      "notes": "Whole-grain mustard"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in a large Dutch oven over medium-high heat.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the onions, garlic, carrots, and potatoes to the pot.",
+    "Cook until the vegetables are tender, about 10 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Return the sausage to the pot and simmer for 10 minutes.",
+    "Season with mustard and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "stew",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-mustardy-ukrainian-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:11:09.524Z"
+}
