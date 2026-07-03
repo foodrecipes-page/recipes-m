@@ -1,0 +1,74 @@
+{
+  "slug": "mild-crispy-slovak-foie-gras-skewers",
+  "title": "Pan-Seared Foie Gras with Slovak Skewers",
+  "description": "A rich and indulgent dish featuring seared foie gras paired with crispy Slovak-style meat skewers.",
+  "cuisine": "European",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "4 pieces",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Pork and Beef Skewers",
+      "amount": "1 pound",
+      "notes": "Slovak-style with paprika and garlic"
+    },
+    {
+      "name": "Mild Paprika",
+      "amount": "2 tablespoons",
+      "notes": "Hungarian paprika for added depth"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality oil for searing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat skillet to 400°F (204°C).",
+    "2. Season foie gras with salt and pepper.",
+    "3. Sear foie gras for 2-3 minutes per side, or until it reaches an internal temperature of 130°F (54°C).",
+    "4. Meanwhile, thread pork and beef onto skewers, leaving a small space between each piece.",
+    "5. Brush skewers with olive oil and season with mild paprika, garlic, salt, and pepper.",
+    "6. Grill or pan-fry skewers until cooked through, about 5-7 minutes per side.",
+    "7. Serve foie gras with Slovak-style skewers and garnish with fresh herbs.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "slovak",
+    "meat-skewers",
+    "dinner",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 90
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crispy-slovak-foie-gras-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:49:10.258Z"
+}
