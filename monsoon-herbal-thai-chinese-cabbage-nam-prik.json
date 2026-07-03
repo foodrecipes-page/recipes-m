@@ -1,0 +1,70 @@
+{
+  "slug": "monsoon-herbal-thai-chinese-cabbage-nam-prik",
+  "title": "Spicy Cabbage Stir Fry",
+  "description": "A quick and flavorful stir fry made with cabbage and a blend of Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, thinly sliced"
+    },
+    {
+      "name": "monsoon",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "prik",
+      "amount": "1-2 teaspoons, depending on desired heat"
+    },
+    {
+      "name": "nam",
+      "amount": "2 tablespoons, or to taste"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "thai",
+      "amount": "1 tablespoon, or to taste"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 tablespoon, or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the monsoon in a large skillet or wok over medium-high heat.",
+    "Add the chinese and cook until fragrant, about 30 seconds.",
+    "Add the cabbage and cook until slightly wilted, about 2-3 minutes.",
+    "Add the prik, nam, thai, and herbal. Stir-fry for another 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "thai",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-herbal-thai-chinese-cabbage-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:42:27.135Z"
+}
