@@ -1,0 +1,80 @@
+{
+  "slug": "molten-bitter-french-bread-tartiflette",
+  "title": "French Tartiflette",
+  "description": "A hearty, savory tartiflette recipe from the French Alps, featuring reblochon cheese and cured meats.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 wheel (250g)",
+      "notes": "soft, creamy cheese"
+    },
+    {
+      "name": "Cured pork sausage",
+      "amount": "4 slices (120g)",
+      "notes": "such as kielbasa or knockwurst"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 baguette (250g)",
+      "notes": "for serving"
+    },
+    {
+      "name": "French shallots",
+      "amount": "3 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tartiflette",
+      "amount": "2 tbsp",
+      "notes": "a type of French bacon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the baguette into 1-inch (2.5 cm) thick rounds.",
+    "In a large skillet, cook the tartiflette over medium heat until crispy.",
+    "Add the sliced shallots to the skillet and cook until softened.",
+    "Add the sliced pork sausage to the skillet and cook until browned.",
+    "Transfer the skillet mixture to a baking dish.",
+    "Top the mixture with the reblochon cheese.",
+    "Dot the top of the cheese with the unsalted butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve the tartiflette hot, topped with a slice of baguette and a sprinkle of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "meat",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-bitter-french-bread-tartiflette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:35:31.513Z"
+}
