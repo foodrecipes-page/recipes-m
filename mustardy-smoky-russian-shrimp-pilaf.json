@@ -1,0 +1,78 @@
+{
+  "slug": "mustardy-smoky-russian-shrimp-pilaf",
+  "title": "Smoky Shrimp Pilaf",
+  "description": "A flavorful and aromatic pilaf dish loaded with smoky shrimp and a hint of spice.",
+  "cuisine": null,
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "mustardy aioli",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "russian short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove shrimp and set aside.",
+    "In the same skillet, add smoky paprika and cook for 1 minute.",
+    "Add aioli and cook for 1 minute, stirring constantly.",
+    "Add rice and cook for 1-2 minutes, stirring constantly.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and stir in cooked shrimp.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "shrimp",
+    "rice",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 30,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-smoky-russian-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:51:22.625Z"
+}
