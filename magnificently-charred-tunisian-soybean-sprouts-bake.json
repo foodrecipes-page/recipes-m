@@ -1,0 +1,67 @@
+{
+  "slug": "magnificently-charred-tunisian-soybean-sprouts-bake",
+  "title": "Bake-Sprout Delight",
+  "description": "A simple yet flavorful dish that combines the nutty taste of sprouts with the sweetness of a perfectly baked accompaniment.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sprouts",
+      "amount": "250g",
+      "notes": "any type of sprouts"
+    },
+    {
+      "name": "soybean oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "100g",
+      "notes": "any type of bake"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Rinse the sprouts and pat them dry.",
+    "Mix soybean oil, salt, and pepper in a bowl.",
+    "Add the sprouts to the bowl and toss to coat.",
+    "Transfer the sprouts to a baking dish.",
+    "Bake the sprouts for 20-25 minutes or until tender.",
+    "Serve the sprouts hot, topped with bake."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-charred-tunisian-soybean-sprouts-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:41:16.270Z"
+}
