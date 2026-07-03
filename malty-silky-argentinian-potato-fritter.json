@@ -1,0 +1,62 @@
+{
+  "slug": "malty-silky-argentinian-potato-fritter",
+  "title": "Argentinian Fritter Hash",
+  "description": "A hearty and flavorful hash made with crispy fritters and creamy silky potatoes.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Malty potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Silky potatoes",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian fritter",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fritter",
+      "amount": "1",
+      "notes": "crushed or chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Dice Malty potatoes and roast in the oven for 20 minutes.",
+    "Boil Silky potatoes until tender, then mash.",
+    "Heat a pan over medium heat and add crushed fritter.",
+    "Cook fritter for 5 minutes, then add mashed Silky potatoes and Malty potatoes.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "hash",
+    "breakfast",
+    "argentinian",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-silky-argentinian-potato-fritter",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:31:07.336Z"
+}
