@@ -1,0 +1,81 @@
+{
+  "slug": "mildly-crunchy-german-daikon-bowl",
+  "title": "Crunchy German Daikon Slaw",
+  "description": "A refreshing slaw made with thinly sliced daikon, crunchy carrots, and a hint of German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "Daikon",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mild Mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Grate the daikon and carrots using a box grater or food processor.",
+    "In a large bowl, whisk together mustard, apple cider vinegar, sugar, salt, and black pepper.",
+    "Add the grated daikon and carrots to the bowl and toss to coat with the dressing.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the slaw chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "slaw",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-crunchy-german-daikon-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:16:45.174Z"
+}
