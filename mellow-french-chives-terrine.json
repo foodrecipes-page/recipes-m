@@ -1,0 +1,95 @@
+{
+  "slug": "mellow-french-chives-terrine",
+  "title": "Mellow French Onion Tart",
+  "description": "A classic French tart filled with caramelized onions and a touch of mellow cheese, perfect for a dinner party.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 sheet puff pastry, thawed",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large onions",
+      "amount": "",
+      "notes": "caramelized"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "",
+      "notes": "melted"
+    },
+    {
+      "name": "1/2 cup mellow cheese, crumbled",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup grated Gruyère cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped chives",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup terrine, crumbled",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Roll out puff pastry and place on a baking sheet.",
+    "3. In a large pan, caramelize onions over medium heat.",
+    "4. Add garlic, melted butter, mellow cheese, Gruyère cheese, chives, salt, and pepper.",
+    "5. Spread onion mixture over pastry, leaving a border.",
+    "6. Fold pastry edges over filling and brush with egg wash.",
+    "7. Bake for 25-30 minutes or until golden brown.",
+    "8. Top with terrine, if using, and return to oven for 5 minutes.",
+    "9. Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "onion",
+    "mellow",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-french-chives-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:03:42.454Z"
+}
