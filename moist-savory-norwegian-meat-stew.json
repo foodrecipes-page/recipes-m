@@ -1,0 +1,83 @@
+{
+  "slug": "moist-savory-norwegian-meat-stew",
+  "title": "Norwegian Meat Stew",
+  "description": "A hearty, comforting stew originating from Norway, perfect for a cold day.",
+  "cuisine": "norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "To thicken"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Brown the beef in batches, then set aside.",
+    "Add more oil if necessary, then cook the onion and carrots until tender.",
+    "Add the potatoes, flour, beef broth, red wine (if using), and browned beef.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 2-3 hours.",
+    "Stir in fresh thyme during the last 30 minutes of cooking.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-savory-norwegian-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:43:14.609Z"
+}
