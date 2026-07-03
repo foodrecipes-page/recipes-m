@@ -1,0 +1,75 @@
+{
+  "slug": "monsoon-bitter-turkish-bottarga-kuru-fasulye",
+  "title": "Turkish Stew",
+  "description": "A hearty stew originating from Turkey, made with kuru and fasulye. This recipe serves 4-6 people and can be prepared in about 1 hour.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kuru",
+      "amount": "200g",
+      "notes": "use dried white beans"
+    },
+    {
+      "name": "fasulye",
+      "amount": "500g",
+      "notes": "use fresh or canned beans"
+    },
+    {
+      "name": "bottarga",
+      "amount": "2 tbsp, chopped",
+      "notes": "optional, for flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "saute with garlic"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "saute with onion"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "add for flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "use for stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add onion and garlic and saute until softened.",
+    "Add kuru and cook for 2-3 minutes, stirring frequently.",
+    "Add fasulye, tomato paste, and water. Bring to a boil, then reduce heat.",
+    "Simmer for 30-40 minutes, or until the beans are tender.",
+    "Stir in chopped bottarga (if using). Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stew",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-bitter-turkish-bottarga-kuru-fasulye",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:47:37.425Z"
+}
