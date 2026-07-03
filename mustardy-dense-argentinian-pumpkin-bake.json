@@ -1,0 +1,73 @@
+{
+  "slug": "mustardy-dense-argentinian-pumpkin-bake",
+  "title": "Argentinian Pumpkin Empanadas",
+  "description": "A sweet twist on traditional empanadas, filled with roasted pumpkin and a hint of spice.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bake",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and chop the pumpkin into 1-inch cubes.",
+    "In a large bowl, mix together the pumpkin, dense, argentinian, and mustardy.",
+    "Roll out the bake into a thin sheet.",
+    "Cut the bake into circles using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the pumpkin mixture onto the center of each circle.",
+    "Brush the edges with water and fold the bake in half to form a triangle.",
+    "Press the edges together to seal the empanada.",
+    "Brush the tops with egg and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "empanada",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-dense-argentinian-pumpkin-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:30:41.471Z"
+}
