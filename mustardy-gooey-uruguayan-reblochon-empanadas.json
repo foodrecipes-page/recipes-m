@@ -1,0 +1,87 @@
+{
+  "slug": "mustardy-gooey-uruguayan-reblochon-empanadas",
+  "title": "Uruguayan-Style Empanada Filling with Reblochon",
+  "description": "A savory empanada filling featuring the rich flavors of Uruguayan mustardy sausage and creamy reblochon cheese.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan sausage",
+      "amount": "1/2 pound, sliced",
+      "notes": "Mustardy sausage can be found in most Latin American markets."
+    },
+    {
+      "name": "Reblochon cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "A semi-soft, creamy French cheese that pairs perfectly with the sausage."
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "A mild, stretchy cheese that adds a nice texture to the filling."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "Caramelized onions add a sweet, depth of flavor to the filling."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Mince the garlic and sauté it with the onions for added flavor."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "Season the filling with salt and pepper to taste."
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package, thawed",
+      "notes": "Homemade empanada dough can be made from scratch, but store-bought is a convenient alternative."
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "Brush the egg on the empanada dough before baking for a golden glaze."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the sliced sausage and diced onion over medium heat until the sausage is browned and the onion is caramelized.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Stir in the crumbled Reblochon cheese and shredded gooey cheese until melted and well combined.",
+    "Season the filling with salt and pepper to taste.",
+    "Roll out the empanada dough and cut out circles using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the filling in the center of each circle and brush the edges with a beaten egg.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with additional beaten egg for a golden glaze.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "uruguayan",
+    "cheese",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-gooey-uruguayan-reblochon-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:20:12.382Z"
+}
