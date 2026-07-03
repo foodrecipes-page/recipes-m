@@ -1,0 +1,89 @@
+{
+  "slug": "mighty-meaty-croatian-meat-stew",
+  "title": "Croatian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, made with tender beef and a rich blend of spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1.5 kg beef stew meat",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 large carrot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 large potato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cups beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides. Remove from pot and set aside.",
+    "Add onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned beef back to the pot, along with the red wine, beef broth, thyme, and paprika.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake for 2-1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "croatian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-meaty-croatian-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:14:27.931Z"
+}
