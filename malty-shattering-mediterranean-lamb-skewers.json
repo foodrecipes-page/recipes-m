@@ -1,0 +1,68 @@
+{
+  "slug": "malty-shattering-mediterranean-lamb-skewers",
+  "title": "Greek Lamb Skewers",
+  "description": "A flavorful and healthy Greek-inspired lamb skewer recipe that's perfect for a quick weeknight dinner. Marinate the lamb in a mixture of Mediterranean spices, olive oil, and lemon juice for a deliciously moist and tender result.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "2 tbsp",
+      "notes": "Available in a pre-mixed spice blend or create your own"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "Use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed is best"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "Soak in water for 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Mediterranean spice blend, olive oil, and lemon juice.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lamb",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-shattering-mediterranean-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:01:49.477Z"
+}
