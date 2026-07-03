@@ -1,0 +1,86 @@
+{
+  "slug": "midnight-craving-rich-vietnamese-clams-poach",
+  "title": "Midnight Poached Clams",
+  "description": "A rich and indulgent Vietnamese-inspired dish that's perfect for satisfying your midnight cravings. This recipe features succulent poached clams in a flavorful sauce.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large clams",
+      "amount": "1 pound",
+      "notes": "scrubbed and rinsed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the clams under cold water and scrub them clean.",
+    "In a large saucepan, combine the water, fish sauce, lime juice, brown sugar, and chili flakes.",
+    "Add the minced garlic and grated ginger to the saucepan and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the clams to the saucepan,cover with a lid.",
+    "Poach the clams for 3-5 minutes or until they open.",
+    "Serve the clams hot with chopped cilantro, if desired.",
+    "Optional: you can also add some sliced green onions or toasted peanuts on top for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "seafood",
+    "midnight",
+    "poached",
+    "clams"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-rich-vietnamese-clams-poach",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:41:21.235Z"
+}
