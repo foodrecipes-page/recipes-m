@@ -1,0 +1,82 @@
+{
+  "slug": "massaman-glazed-chinese-curry-paste-dan-dan-mian",
+  "title": "Dan Dan Noodles",
+  "description": "A spicy Sichuan dish featuring ground pork and dan dan mian noodles, topped with a savory sauce and garnished with peanuts and scallions.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dan Dan Mian Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1/2 pound",
+      "notes": "80/20 works well"
+    },
+    {
+      "name": "Dan Dan Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook ground pork over medium-high heat until browned, breaking it up with a spatula as it cooks.",
+    "Add the dan dan paste, soy sauce, and chili oil to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the pork is coated.",
+    "Stir in the scallions and peanuts.",
+    "To assemble the dish, place a portion of noodles on a plate, then top with the pork mixture.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "spicy",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/massaman-glazed-chinese-curry-paste-dan-dan-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:06:41.860Z"
+}
