@@ -1,0 +1,60 @@
+{
+  "slug": "malty-argentinian-broccoli-hash",
+  "title": "Argentinian Hash with Broccoli and Maltiness",
+  "description": "A hearty breakfast hash with a touch of Argentina and a hint of malt, served with steamed broccoli.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tbsp, shredded"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 head, trimmed and cut into florets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the malted ingredient over medium heat.",
+    "Add the diced hash and cook until lightly browned, about 5 minutes.",
+    "Add the broccoli to the skillet and cook until tender, about 3-4 minutes.",
+    "Season with salt to taste.",
+    "Transfer the skillet to the oven and bake for an additional 5-7 minutes.",
+    "Serve hot, garnished with additional malted ingredients if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "hash",
+    "maltiness",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-argentinian-broccoli-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:57:14.179Z"
+}
