@@ -1,0 +1,76 @@
+{
+  "slug": "mouthwatering-croatian-hazelnut-skewers",
+  "title": "Croatian Hazelnut Shish Skewers",
+  "description": "A delicious and easy-to-make skewer dish featuring Croatian sausage, hazelnuts, and a mouthwatering marinade.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon zest, garlic, and a pinch of salt.",
+    "Add Croatian sausage, red onion, bell pepper, and hazelnuts to the bowl, tossing to coat with marinade.",
+    "Thread the marinated ingredients onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausage is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "croatian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-croatian-hazelnut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:11:56.301Z"
+}
