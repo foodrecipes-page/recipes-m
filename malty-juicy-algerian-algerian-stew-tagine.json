@@ -1,0 +1,122 @@
+{
+  "slug": "malty-juicy-algerian-algerian-stew-tagine",
+  "title": "Algerian Beef Tagine",
+  "description": "A hearty North African stew made with tender beef and a rich blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "beef",
+    "pork free",
+    "lamb free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef, cut into 2-inch pieces",
+      "amount": null,
+      "notes": "Chuck or round work well."
+    },
+    {
+      "name": "2 medium onions, chopped",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup algerian stew",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground turmeric",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 malty",
+      "amount": null,
+      "notes": "Optional"
+    },
+    {
+      "name": "2 juicy",
+      "amount": null,
+      "notes": "Optional"
+    },
+    {
+      "name": "2 algerian",
+      "amount": null,
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large Dutch oven over medium heat.",
+    "Add onions and cook until they begin to soften, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add beef and cook until browned on all sides, about 5-7 minutes.",
+    "Add stew, broth, cumin, coriander, cinnamon, turmeric, salt, and pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Stir in malty and juicy (if using).",
+    "Serve hot, garnished with additional malty and juicy (if desired).",
+    "Serve with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "beef",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-juicy-algerian-algerian-stew-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:44:53.650Z"
+}
