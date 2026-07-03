@@ -1,0 +1,74 @@
+{
+  "slug": "midnight-frites-dumplings",
+  "title": "Midnight Dumpling Frites Basket",
+  "description": "A crispy frites basket filled with steaming hot dumplings, perfect for a midnight snack.",
+  "cuisine": "French-Asian Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Midnight Dumplings",
+      "amount": "12 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Frites (French Fries)",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Cut the frites into 1-inch (2.5 cm) sticks. Fry in batches until golden brown, about 3-4 minutes. Drain on paper towels.",
+    "In a separate pan, steam the dumplings according to package instructions. Alternatively, boil or pan-fry them.",
+    "Season the frites with salt to taste.",
+    "Drizzle soy sauce over the dumplings (if using).",
+    "Place 4-6 frites in the bottom of a small basket or cone.",
+    "Add 4-6 dumplings on top of the frites.",
+    "Garnish with chopped green onions (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": "2-4",
+  "difficulty": "easy",
+  "tags": [
+    "midnight-snack",
+    "dumplings",
+    "frites",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "10g",
+    "carbs": "55g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-frites-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:04:08.567Z"
+}
