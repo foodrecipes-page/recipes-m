@@ -1,0 +1,65 @@
+{
+  "slug": "malty-gooey-norwegian-monterey-jack-cheese-bake",
+  "title": "Cheesy Gooey Bake",
+  "description": "A simple recipe for a gooey cheese bake that's perfect as a snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malty cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Norwegian cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Monterey jack cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Bake",
+      "amount": "2 tablespoons, unsalted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the malty cheese, gooey cheese, norwegian cheese, monterey jack cheese, and regular cheese.",
+    "Mix until well combined.",
+    "Butter a baking dish and add the cheese mixture.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-gooey-norwegian-monterey-jack-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:06:10.343Z"
+}
