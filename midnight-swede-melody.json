@@ -1,0 +1,62 @@
+{
+  "slug": "midnight-swede-melody",
+  "title": "Roasted Swede with Midnight Berries",
+  "description": "A sweet and savory side dish featuring roasted swede, midnight berries, and a hint of earthy melody.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 large"
+    },
+    {
+      "name": "midnight berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melody (olive oil)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and chop the swede into 1-inch cubes.",
+    "Toss the swede with olive oil, salt, and black pepper in a bowl until evenly coated.",
+    "Spread the swede on a baking sheet and roast for 20-25 minutes or until tender.",
+    "While the swede is roasting, mix the midnight berries with a splash of water in a saucepan.",
+    "Bring the berry mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Once the swede is done, toss it with the berry mixture and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "swede",
+    "midnight-berries",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-swede-melody",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:54:12.304Z"
+}
