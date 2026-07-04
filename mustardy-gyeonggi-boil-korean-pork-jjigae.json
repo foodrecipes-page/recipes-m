@@ -1,0 +1,74 @@
+{
+  "slug": "mustardy-gyeonggi-boil-korean-pork-jjigae",
+  "title": "Spicy Korean Pork Jjigae",
+  "description": "A spicy, savory Korean stew made with pork and a variety of ingredients. Serve with rice for a filling meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "500g ",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mustardy",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean",
+      "amount": "2 tbsp",
+      "notes": "Gochujang"
+    },
+    {
+      "name": "Gyeonggi",
+      "amount": "2 cups",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "Boil",
+      "amount": "4 cups",
+      "notes": "water"
+    },
+    {
+      "name": "Jjigae",
+      "amount": "2 cups",
+      "notes": "Korean chili paste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the pork and cook until browned.",
+    "Add the Gyeonggi and cook for 1 minute.",
+    "Add the Boil and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Add the Jjigae and cook for 2 minutes.",
+    "Season with Mustardy and Korean.",
+    "Serve hot with rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "spicy-food",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-gyeonggi-boil-korean-pork-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:08:07.043Z"
+}
