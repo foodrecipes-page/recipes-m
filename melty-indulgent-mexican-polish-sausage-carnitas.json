@@ -1,0 +1,75 @@
+{
+  "slug": "melty-indulgent-mexican-polish-sausage-carnitas",
+  "title": "Carnitas Quesadillas",
+  "description": "A fusion of Mexican and Polish flavors, these quesadillas are filled with tender carnitas and served with a side of spicy salsa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Polish rye bread",
+      "amount": "2 cups",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large Dutch oven, heat the lard or oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the pork shoulder to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Transfer the pot to the preheated oven and braise the pork for 2-3 hours, or until tender.",
+    "Shred the pork with two forks and season with salt and pepper.",
+    "Heat a large skillet over medium heat. Add a tortilla and sprinkle shredded cheese on half of the tortilla.",
+    "Add about 1/2 cup of shredded pork on top of the cheese, followed by a sprinkle of chopped onion and a sprinkle of torn rye bread.",
+    "Fold the tortilla in half to enclose the filling. Cook for 2-3 minutes, or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining ingredients and serve hot with a side of spicy salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "polish",
+    "carnitas",
+    "quesadillas"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-indulgent-mexican-polish-sausage-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:56:13.543Z"
+}
