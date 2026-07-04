@@ -1,0 +1,69 @@
+{
+  "slug": "melt-in-crispy-argentinian-oxtail-skillet",
+  "title": "Argentinian Crispy Oxtail Skillet",
+  "description": "A hearty, flavorful dish from Argentina, featuring tender oxtail in a crispy skillet.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "melt",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "in",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crushed crackers or breadcrumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season oxtail with salt and pepper.",
+    "Heat skillet over medium-high heat.",
+    "Add melt and sear oxtail until browned on all sides.",
+    "Add in and cook for 1 minute.",
+    "Transfer skillet to oven and cook for 20 minutes.",
+    "Remove skillet from oven and sprinkle with crispy.",
+    "Return skillet to stovetop and cook over low heat until crispy is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "skillet-dish",
+    "oxtail"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melt-in-crispy-argentinian-oxtail-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:43:20.780Z"
+}
