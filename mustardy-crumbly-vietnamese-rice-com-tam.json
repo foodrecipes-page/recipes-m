@@ -1,0 +1,82 @@
+{
+  "slug": "mustardy-crumbly-vietnamese-rice-com-tam",
+  "title": "Vietnamese Com Tam",
+  "description": "A popular Vietnamese dish made from broken rice, a variety of toppings, and a fried egg.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vietnamese broken rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1",
+      "notes": "fried sunny-side up"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fried tofu",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mustardy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Com tam seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tam (Vietnamese fermented pork sausage)",
+      "amount": "2 slices",
+      "notes": "optional or substitute with grilled pork"
+    }
+  ],
+  "instructions": [
+    "Cook the broken rice according to package instructions.",
+    "Fry the shallots until crispy and set aside.",
+    "Fry the tofu until golden brown and set aside.",
+    "Prepare the pickled carrots and daikon.",
+    "Cook the Tam sausage until caramelized, then set aside.",
+    "Fry the egg sunny-side up.",
+    "Combine the cooked rice, fried tofu, pickled carrots and daikon, fried shallots, and Tam sausage on a plate.",
+    "Drizzle the Mustardy sauce on top.",
+    "Season with Com tam seasoning.",
+    "Serve the fried egg on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "breakfast",
+    "rice",
+    "egg",
+    "tofu",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crumbly-vietnamese-rice-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:55:22.754Z"
+}
