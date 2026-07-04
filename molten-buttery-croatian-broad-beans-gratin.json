@@ -1,0 +1,80 @@
+{
+  "slug": "molten-buttery-croatian-broad-beans-gratin",
+  "title": "Croatian Broad Bean Gratin",
+  "description": "A hearty, creamy gratin made with broad beans and a crispy crust. Perfect for a comforting dinner.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound, trimmed and sliced",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "buttery croatian pasta",
+      "amount": "8 ounces",
+      "notes": "or substitute with similar pasta"
+    },
+    {
+      "name": "molten cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening the sauce"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or substitute with half-and-half"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, sauté the sliced broad beans in butter until tender.",
+    "In a separate saucepan, melt the molten cheese over low heat until smooth.",
+    "Add the heavy cream to the cheese sauce and stir until well combined.",
+    "Stir in the flour to thicken the sauce.",
+    "Add the cooked pasta to the cheese sauce and stir until coated.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Top with additional molten cheese and breadcrumbs if desired.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gratin",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-buttery-croatian-broad-beans-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:58:39.864Z"
+}
