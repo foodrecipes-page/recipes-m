@@ -1,0 +1,90 @@
+{
+  "slug": "magical-crispy-polish-lamb-bowl",
+  "title": "Magical Polish Lamb Bowl",
+  "description": "A flavorful and nutritious dish combining the rich taste of lamb with the spices of Poland.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "bone-in for extra flavor"
+    },
+    {
+      "name": "polish rye flour",
+      "amount": "1 cup",
+      "notes": "for crispy crust"
+    },
+    {
+      "name": "crispy onion soup mix",
+      "amount": "2 tsp",
+      "notes": "adds a crunchy texture"
+    },
+    {
+      "name": "magical allspice",
+      "amount": "1 tsp",
+      "notes": "adds a touch of magic"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt, pepper, and magical allspice.",
+    "In a large bowl, mix together polish rye flour and crispy onion soup mix.",
+    "Coat the lamb shoulder with the flour mixture, pressing gently to adhere.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the Dutch oven to the preheated oven and roast for 20 minutes.",
+    "Reduce heat to 300°F (150°C) and continue roasting for an additional 20-25 minutes, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Let the lamb rest for 10 minutes before slicing and serving in a bowl.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-cuisine",
+    "lamb-recipe",
+    "crispy-onion-soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crispy-polish-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:48:19.619Z"
+}
