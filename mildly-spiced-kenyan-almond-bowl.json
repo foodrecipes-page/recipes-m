@@ -1,0 +1,78 @@
+{
+  "slug": "mildly-spiced-kenyan-almond-bowl",
+  "title": "Spiced Kenyan Almond Bowl",
+  "description": "A flavorful and nutritious breakfast bowl inspired by Kenyan cuisine, featuring spiced almonds and a mildly sweet almond milk.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together almond milk, cinnamon, and ginger.",
+    "2. Add sliced almonds to the bowl and mix well.",
+    "3. If desired, add a drizzle of honey for sweetness.",
+    "4. Sprinkle salt to taste, if using.",
+    "5. Pour the mixture into a serving bowl.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "almond",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-kenyan-almond-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:35:16.057Z"
+}
