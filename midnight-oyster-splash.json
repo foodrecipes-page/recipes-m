@@ -1,0 +1,89 @@
+{
+  "slug": "midnight-oyster-splash",
+  "title": "Oyster Midnight Stew",
+  "description": "A hearty stew made with oysters, midnight beans, and a splash of cream. Perfect for a cold winter night.",
+  "cuisine": "Seafood",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Midnight beans",
+      "amount": "1 cup",
+      "notes": "dried beans"
+    },
+    {
+      "name": "Oysters",
+      "amount": "12",
+      "notes": "shucked"
+    },
+    {
+      "name": "Splash",
+      "amount": "1 cup",
+      "notes": "cream"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add dried midnight beans, shucked oysters, salt, and black pepper. Stir to combine.",
+    "Pour in cream and lemon juice. Stir to combine.",
+    "Bring the stew to a simmer and cook for 20-25 minutes, or until the beans are tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-oyster-splash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:11:02.214Z"
+}
