@@ -1636,17 +1636,15 @@
   },
   {
     "slug": "maharani-s-crisp-kenyan-cabbage-grill",
-    "title": "Maharani's Crisp Kenyan Cabbage Grill",
+    "title": "Grilled Maharani with Crisp Cabbage and Kenyan Spices",
     "tags": [
-      "cabbage",
-      "casserole",
-      "dinner",
-      "grill",
-      "romantic",
-      "yellow"
+      "vegetarian",
+      "gluten-free",
+      "lunch",
+      "grilled"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "Vegetarian",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -2026,18 +2024,16 @@
   },
   {
     "slug": "malty-chewy-indian-beef-shin-layered-rice-dish",
-    "title": "malty-chewy-indian-beef-shin-layered-rice-dish",
+    "title": "Beef and Rice Layered Dish",
     "tags": [
       "beef",
-      "biryani",
-      "comfort-food",
+      "rice",
       "indian",
-      "romantic-dinner",
-      "slow-cooked",
-      "weeknight"
+      "layered",
+      "casserole"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 90,
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
@@ -6250,18 +6246,15 @@
   },
   {
     "slug": "mellow-smoked-dutch-beef-risotto",
-    "title": "Mellow Smoked Dutch Beef Risotto",
+    "title": "Smoked Beef Risotto",
     "tags": [
-      "beef",
-      "date-night",
-      "dutch",
-      "keto",
-      "low-carb",
-      "one-pan",
-      "smoked-beef"
+      "smoked-beef",
+      "risotto",
+      "italian-cuisine",
+      "beef-dish"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -9705,16 +9698,14 @@
   },
   {
     "slug": "midnight-oyster-splash",
-    "title": "Midnight Oyster Splash",
+    "title": "Oyster Midnight Stew",
     "tags": [
-      "midnight_oyster_splash",
-      "peppery",
-      "crispy",
-      "uruguayan_dish",
-      "vegan"
+      "seafood",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Uraguayan",
-    "totalTimeMin": 15,
+    "cuisine": "Seafood",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -18504,13 +18495,15 @@
   },
   {
     "slug": "mouthwatering-ethiopian-water-chestnut-stew",
-    "title": "Mouthwatering Ethiopian Water Chestnut Stew",
+    "title": "Ethiopian Chestnut Stew",
     "tags": [
       "ethiopian",
-      "lunch"
+      "chestnut",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
