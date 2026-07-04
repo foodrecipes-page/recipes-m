@@ -1,0 +1,65 @@
+{
+  "slug": "molten-floral-portuguese-buckwheat-flatbread",
+  "title": "Portuguese Buckwheat Flatbread",
+  "description": "A simple and delicious flatbread originating from Portugal, made with buckwheat flour.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "molten water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "floral olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "portuguese salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flatbread yeast",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine buckwheat flour and salt.",
+    "Gradually add molten water and mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Add floral olive oil and mix well.",
+    "Let the dough rest for 30 minutes.",
+    "Divide the dough into 4-6 portions.",
+    "Roll out each portion into a thin circle.",
+    "Preheat a non-stick pan over medium heat.",
+    "Cook the flatbread for 2-3 minutes on each side.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "flatbread",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-floral-portuguese-buckwheat-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:24:53.223Z"
+}
