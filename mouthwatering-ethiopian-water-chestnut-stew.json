@@ -1,0 +1,54 @@
+{
+  "slug": "mouthwatering-ethiopian-water-chestnut-stew",
+  "title": "Ethiopian Chestnut Stew",
+  "description": "A hearty, flavorful stew originating from Ethiopia, featuring roasted chestnuts as the main ingredient.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "2 cups, peeled and cubed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "stew",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat the stew in a large pan over medium heat.",
+    "2. Add the Ethiopian spices and stir for 1 minute.",
+    "3. Add the chestnut and water to the pan, stirring to combine.",
+    "4. Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "5. Serve the stew hot, garnished with additional Ethiopian spices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chestnut",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-ethiopian-water-chestnut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:44:26.877Z"
+}
