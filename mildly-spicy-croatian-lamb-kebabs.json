@@ -1,0 +1,97 @@
+{
+  "slug": "mildly-spicy-croatian-lamb-kebabs",
+  "title": "Lamb Kebabs with Croatian Spices",
+  "description": "A flavorful and spicy lamb kebab recipe inspired by Croatian cuisine, perfect for a summer evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Croatian-style lamb spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together paprika, garlic, salt, black pepper, and Croatian-style lamb spice mix.",
+    "Add olive oil and red wine vinegar to the bowl and mix well.",
+    "Cut the lamb shoulder into 1-inch cubes and add to the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes, red bell pepper slices, and onion slices onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until lamb is cooked to an internal temperature of 63°C (145°F).",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or oregano if desired.",
+    "Serve with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "croatian",
+    "spicy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-croatian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:59:40.056Z"
+}
