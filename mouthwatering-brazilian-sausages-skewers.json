@@ -1,0 +1,88 @@
+{
+  "slug": "mouthwatering-brazilian-sausages-skewers",
+  "title": "Brazilian Sausage Skewers",
+  "description": "Grilled sausages with a Brazilian twist, served with a side of tangy salsa.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian sausages",
+      "amount": "1 pound",
+      "notes": "Look for chorizo or linguiça for authentic flavor"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before grilling"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice for easy grilling"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "Cut into large chunks for kebabs"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "Slice into 1/4-inch thick rounds"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinating sausages"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Soak skewers in water for at least 30 minutes.",
+    "Thread sausages, onion, bell pepper, and zucchini onto skewers.",
+    "In a small bowl, mix together lime juice, garlic powder, and a pinch of salt.",
+    "Brush the skewers with the lime mixture and cook for 5-7 minutes per side, or until sausages are cooked through.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Garnish with chopped cilantro and serve with a side of tangy salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "sausages",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-brazilian-sausages-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:39:58.933Z"
+}
