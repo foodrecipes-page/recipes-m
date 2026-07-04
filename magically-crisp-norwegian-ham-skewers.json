@@ -1,0 +1,71 @@
+{
+  "slug": "magically-crisp-norwegian-ham-skewers",
+  "title": "Crisp Norwegian Ham Skewers",
+  "description": "A quick and easy snack recipe that combines the flavors of crispy ham and fresh vegetables, perfect for a summer party.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian ham",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Crisp vegetables (bell peppers, onions, carrots)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "10-12"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread ham and vegetables onto skewers.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Bake for 10-12 minutes, or until the ham is crispy and the vegetables are tender.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "easy",
+    "norwegian",
+    "ham",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-crisp-norwegian-ham-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:27:35.226Z"
+}
