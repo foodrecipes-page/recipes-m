@@ -1,0 +1,69 @@
+{
+  "slug": "melty-spanish-cheese-jamon-iberico-grill",
+  "title": "Grilled Jamon and Cheese Tapas",
+  "description": "A simple yet delicious Spanish tapas dish featuring grilled jamon and melty cheese. Perfect for a quick snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jamon Iberico",
+      "amount": "4 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Melty Cheese",
+      "amount": "2 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Spanish Cheese",
+      "amount": "1 oz",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Spanish Bread",
+      "amount": "1 piece",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Slice the Jamon Iberico into thin strips.",
+    "Slice the Melty Cheese and Spanish Cheese into thin pieces.",
+    "Assemble the tapas by placing a piece of Melty Cheese on top of a piece of Jamon Iberico.",
+    "Place the Spanish Cheese on top of the Melty Cheese.",
+    "Grill the tapas for 2-3 minutes on each side, or until the cheese is melted.",
+    "Serve immediately and enjoy!",
+    "Optionally, serve with a piece of Spanish Bread for dipping in olive oil."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "tapas",
+    "grilled",
+    "jamontapas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-spanish-cheese-jamon-iberico-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:49:17.975Z"
+}
