@@ -1,0 +1,85 @@
+{
+  "slug": "mildly-briny-dutch-carnaroli-rice-pilaf",
+  "title": "Briny Dutch Carnaroli Rice Pilaf",
+  "description": "A flavorful rice pilaf dish infused with the brininess of Dutch cheese and the mild taste of carnaroli rice.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "1 cup",
+      "notes": "Italian short-grain rice"
+    },
+    {
+      "name": "mildly flavored oil",
+      "amount": "2 tbsp",
+      "notes": "e.g., olive or canola oil"
+    },
+    {
+      "name": "briny cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "e.g., Dutch Gouda or similar"
+    },
+    {
+      "name": "Dutch cheese",
+      "amount": "1/4 cup, grated",
+      "notes": "e.g., Edam or similar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "e.g., yellow or white onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": "e.g., dried herbs like thyme or rosemary"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "e.g., sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "e.g., freshly ground pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the carnaroli rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the pilaf seasoning and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is tender.",
+    "Stir in the crumbled briny cheese and grated Dutch cheese.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "rice-pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-briny-dutch-carnaroli-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:01:49.376Z"
+}
