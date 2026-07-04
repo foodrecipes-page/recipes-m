@@ -1,0 +1,96 @@
+{
+  "slug": "mellow-smoked-dutch-beef-risotto",
+  "title": "Smoked Beef Risotto",
+  "description": "A creamy risotto dish infused with the rich flavors of smoked beef and mellow Dutch cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Beef",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Mellow Dutch Cheese",
+      "amount": "120g",
+      "notes": null
+    },
+    {
+      "name": "Risotto",
+      "amount": "200g",
+      "notes": "Arborio rice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "White Wine",
+      "amount": "100ml",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "300ml",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the smoked beef and cook until browned, about 2-3 minutes.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 150ml of beef broth to the rice mixture and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding beef broth and stirring until the rice is cooked and creamy.",
+    "Stir in the crumbled Mellow Dutch Cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-beef",
+    "risotto",
+    "italian-cuisine",
+    "beef-dish"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoked-dutch-beef-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:14:01.883Z"
+}
