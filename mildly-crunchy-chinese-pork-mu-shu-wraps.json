@@ -1,77 +1,84 @@
 {
   "slug": "mildly-crunchy-chinese-pork-mu-shu-wraps",
-  "title": "Crispy Pork Wraps",
-  "description": "A delicious and crunchy twist on traditional wraps, filled with tender pork and savory flavors.",
+  "title": "Crispy Pork Mu Shu Wraps",
+  "description": "A Chinese-inspired dish featuring crispy pork and crunchy vegetables wrapped in a mildly sweet and savory mu shu wrap.",
   "cuisine": "Chinese",
   "diet": [
-    "meat"
+    "gluten-free",
+    "meat-based"
   ],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "Pork shoulder",
       "amount": "1 pound",
-      "notes": "Thinly sliced"
-    },
-    {
-      "name": "Wonton wraps",
-      "amount": "8-10",
-      "notes": "Mildly seasoned"
+      "notes": "Boneless"
     },
     {
       "name": "Vegetable oil",
       "amount": "1/4 cup",
-      "notes": "For frying"
+      "notes": null
+    },
+    {
+      "name": "Mu shu wraps",
+      "amount": "4-6 wraps",
+      "notes": "Mildly sweet and savory"
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
     },
     {
       "name": "Soy sauce",
-      "amount": "2 tablespoons"
+      "amount": "2 tablespoons",
+      "notes": null
     },
     {
-      "name": "Hoisin sauce",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "Sesame oil",
-      "amount": "1 teaspoon"
-    },
-    {
-      "name": "Pork broth",
-      "amount": "1/4 cup"
-    },
-    {
-      "name": "Green onions",
-      "amount": "1/4 cup",
-      "notes": "Chopped"
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
     }
   ],
   "instructions": [
-    "Preheat a deep frying pan or a deep fryer to 350°F (180°C).",
-    "Cut the pork shoulder into thin strips and season with salt and pepper.",
-    "Heat the vegetable oil in the pan and fry the pork until golden brown and crispy.",
-    "Remove the pork from the oil and set aside.",
-    "Brush the wonton wraps with sesame oil and cook in the pan for 30 seconds on each side.",
-    "Assemble the wraps by placing a few pieces of fried pork onto each wrap, followed by a spoonful of hoisin sauce, a drizzle of soy sauce, and a sprinkle of green onions.",
-    "Serve immediately and enjoy!"
+    "1. In a small bowl, whisk together soy sauce, sugar, and 1 tablespoon vegetable oil to make the sauce.",
+    "2. In a large skillet or wok, heat the remaining 2 tablespoons vegetable oil over medium-high heat.",
+    "3. Add the pork shoulder and cook until browned on all sides, about 5-7 minutes.",
+    "4. Add the shredded cabbage and sliced scallions to the skillet. Cook until the cabbage is slightly wilted, about 2-3 minutes.",
+    "5. In a small bowl, mix together sesame seeds and sauce until well combined.",
+    "6. Add the sesame seed mixture to the skillet and stir to combine.",
+    "7. Warm the mu shu wraps according to package instructions.",
+    "8. Assemble the wraps by placing a portion of the pork and vegetable mixture onto each wrap, and serving immediately."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
   "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "chinese",
-    "wraps",
-    "pork"
+    "pork",
+    "mu-shu",
+    "wraps"
   ],
   "nutrition": {
-    "calories": 450,
+    "calories": 420,
     "protein": 35,
-    "carbs": 30,
-    "fat": 20
+    "carbs": 20,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/mildly-crunchy-chinese-pork-mu-shu-wraps",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T14:38:55.931Z"
+  "createdAt": "2026-07-02T20:28:25.840Z"
 }
