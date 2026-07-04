@@ -10524,17 +10524,16 @@
   },
   {
     "slug": "mild-canadian-lentil-curry",
-    "title": "Mild Canadian Lentil Curry",
+    "title": "Canadian Lentil Curry",
     "tags": [
-      "canadian-cuisine",
-      "jain-friendly",
-      "lentil-based",
-      "one-pot",
-      "vegetarian-option",
-      "weeknight-dinner"
+      "lentil",
+      "curry",
+      "canadian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -11611,11 +11610,12 @@
   },
   {
     "slug": "mildly-crunchy-chinese-pork-mu-shu-wraps",
-    "title": "Crispy Pork Wraps",
+    "title": "Crispy Pork Mu Shu Wraps",
     "tags": [
       "chinese",
-      "wraps",
-      "pork"
+      "pork",
+      "mu-shu",
+      "wraps"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
@@ -13255,17 +13255,16 @@
   },
   {
     "slug": "mildly-spiced-kenyan-almond-bowl",
-    "title": "Mildly Spiced Kenyan Almond Bowl",
+    "title": "Spiced Kenyan Almond Bowl",
     "tags": [
-      "almond-flour",
-      "coconut-milk",
+      "breakfast",
+      "kenyan",
+      "almond",
       "gluten-free",
-      "kenyan-cuisine",
-      "stone-bowl",
-      "vegetarian"
+      "vegan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 5,
     "shard": "m"
   },
   {
@@ -14896,16 +14895,15 @@
   },
   {
     "slug": "minty-french-berries-tart",
-    "title": "Minty French Berries Tart",
+    "title": "French Berry Tart",
     "tags": [
-      "dessert",
-      "flexitarian",
       "french",
-      "quick",
-      "tart"
+      "berries",
+      "tart",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
