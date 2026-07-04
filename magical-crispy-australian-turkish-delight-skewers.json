@@ -1,0 +1,69 @@
+{
+  "slug": "magical-crispy-australian-turkish-delight-skewers",
+  "title": "Turkish Delight Skewers with Australian Magic",
+  "description": "A sweet and savory fusion of Turkish delight and Australian magical ingredients, served on a bed of crispy australian vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Magical Australian Herb Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crispy Australian Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Australian Sweet Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Turkish-Style Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the sweet potatoes and carrots into 1-inch pieces.",
+    "Thread the sweet potatoes and carrots onto skewers.",
+    "Drizzle the Turkish-Style Olive Oil over the skewers and sprinkle with Magical Australian Herb Blend.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Meanwhile, crumble the Turkish Delight into small pieces.",
+    "Serve the skewers on a bed of crispy australian vegetables and top with crumbled Turkish Delight."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "turkish",
+    "magic",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crispy-australian-turkish-delight-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:06:47.069Z"
+}
