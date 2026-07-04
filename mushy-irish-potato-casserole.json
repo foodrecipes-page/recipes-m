@@ -1,0 +1,79 @@
+{
+  "slug": "mushy-irish-potato-casserole",
+  "title": "Irish Potato Casserole",
+  "description": "A comforting casserole dish that combines the flavors of Ireland with the simplicity of a potato casserole.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 can (10.5 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "mushy",
+      "amount": "1 can (10.5 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice the Irish potatoes.",
+    "In a large skillet, sauté the chopped onion and minced garlic until softened.",
+    "In a separate mixing bowl, combine the sautéed onion and garlic mixture, canned casserole, and chopped mushy peas.",
+    "Grease a 9x13-inch baking dish with butter.",
+    "Arrange half of the sliced potatoes in the prepared baking dish.",
+    "Pour the casserole and mushroom mixture over the potatoes.",
+    "Top with the remaining potatoes and sprinkle with shredded cheddar cheese.",
+    "Dot the top of the casserole with butter.",
+    "Bake for 45-50 minutes or until the potatoes are tender and the top is golden brown.",
+    "Remove from oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish-potato-casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushy-irish-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:48:48.987Z"
+}
