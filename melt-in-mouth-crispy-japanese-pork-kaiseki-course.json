@@ -1,0 +1,90 @@
+{
+  "slug": "melt-in-mouth-crispy-japanese-pork-kaiseki-course",
+  "title": "Melted Pork Kaiseki Course",
+  "description": "A unique fusion of Japanese flavors and textures, this kaiseki course features a melt-in-your-mouth pork dish. Perfect for special occasions or dinner parties.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": "Braised in a sweet soy sauce"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/2 cup",
+      "notes": "For braising pork belly"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup",
+      "notes": "Sweet Japanese cooking wine"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Crunchy Crispy Onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Melted Miso Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh Scallions",
+      "amount": "4",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Japanese Rice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. In a large Dutch oven, combine pork belly, sake, mirin, and 1 tablespoon of sesame oil.",
+    "3. Braise pork belly for 2 hours, or until tender and caramelized.",
+    "4. Meanwhile, prepare crunchy crispy onions by separating onion rings into individual straws.",
+    "5. Fry onion straws in hot oil until crispy, then drain on paper towels.",
+    "6. To assemble kaiseki course, place a portion of Japanese rice on a plate, followed by a slice of braised pork belly.",
+    "7. Drizzle melted miso sauce over pork belly, then garnish with crispy onions, sesame seeds, and scallions.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "kaiseki",
+    "pork",
+    "course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melt-in-mouth-crispy-japanese-pork-kaiseki-course",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:10:09.644Z"
+}
