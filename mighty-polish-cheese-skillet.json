@@ -1,0 +1,63 @@
+{
+  "slug": "mighty-polish-cheese-skillet",
+  "title": "Polish Skillet Dish",
+  "description": "A hearty and comforting Polish-inspired skillet recipe with mighty ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mighty sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "polish rye bread",
+      "amount": "1 cup, cubed",
+      "notes": ""
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the mighty sausages in a skillet over medium-high heat until browned.",
+    "Add the cubed polish rye bread to the skillet and cook for 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes.",
+    "Remove the skillet from the oven and top with shredded cheese.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "skillet",
+    "sausages",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-polish-cheese-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:45:50.708Z"
+}
