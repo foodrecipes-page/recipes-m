@@ -1,0 +1,65 @@
+{
+  "slug": "minty-fresh-british-doner-salad",
+  "title": "British Doner Salad",
+  "description": "A refreshing twist on traditional British cuisine with the addition of a doner kebab. This salad combines fresh flavors with a satisfying crunch.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Doner meat",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Fresh minty leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "British salad (lettuce, tomato, cucumber)",
+      "amount": "2 cups, mixed"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Grill the doner meat for 5-7 minutes, or until heated through.",
+    "In a large bowl, combine the salad, minty leaves, and grilled doner meat.",
+    "In a small bowl, whisk together the vinegar and olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "salad",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-fresh-british-doner-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:05:31.970Z"
+}
