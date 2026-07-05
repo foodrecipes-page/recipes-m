@@ -1,0 +1,78 @@
+{
+  "slug": "malty-chewy-ukrainian-mascarpone-bake",
+  "title": "Ukrainian Malt Cake",
+  "description": "A traditional Ukrainian dessert made with chewy malt and creamy mascarpone.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "malty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mascarpone",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Mix malt, sugar, and eggs in a bowl.",
+    "Add flour, vanilla, and mix until combined.",
+    "Pour into a greased baking dish.",
+    "Bake for 25 minutes.",
+    "Let cool for 10 minutes.",
+    "Mix mascarpone and chewy in a separate bowl.",
+    "Top cake with mascarpone mixture.",
+    "Refrigerate for 1 hour.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "malt",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-chewy-ukrainian-mascarpone-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:36:10.888Z"
+}
