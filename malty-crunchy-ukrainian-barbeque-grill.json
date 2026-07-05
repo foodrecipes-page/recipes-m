@@ -1,0 +1,70 @@
+{
+  "slug": "malty-crunchy-ukrainian-barbeque-grill",
+  "title": "Grilled Ukrainian BBQ Ribs",
+  "description": "A twist on traditional BBQ ribs, this recipe brings a Ukrainian flavor profile to the grill.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork ribs",
+      "amount": "2 pounds",
+      "notes": "Membrane removed"
+    },
+    {
+      "name": "Malty BBQ sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crunchy coleslaw",
+      "amount": "1 cup",
+      "notes": "Shredded cabbage and carrots"
+    },
+    {
+      "name": "Ukrainian spices",
+      "amount": "2 tablespoons",
+      "notes": "Paprika, garlic powder, and dill"
+    },
+    {
+      "name": "Barbeque wood chips",
+      "amount": "1 cup",
+      "notes": "For smoking flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 275°F (135°C).",
+    "In a small bowl, mix Ukrainian spices and 1 tablespoon of malty BBQ sauce.",
+    "Apply spice mixture to pork ribs, making sure to coat evenly.",
+    "Place ribs on grill, close lid, and smoke for 2 hours.",
+    "After 2 hours, increase grill temperature to 375°F (190°C).",
+    "Brush ribs with remaining malty BBQ sauce.",
+    "Grill for an additional 10-15 minutes, or until caramelized.",
+    "Serve with crunchy coleslaw and additional BBQ sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "grill",
+    "ukrainian",
+    "ribs",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-ukrainian-barbeque-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:55:34.303Z"
+}
