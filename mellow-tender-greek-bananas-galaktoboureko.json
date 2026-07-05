@@ -1,0 +1,80 @@
+{
+  "slug": "mellow-tender-greek-bananas-galaktoboureko",
+  "title": "Galaktoboureko Cheesecake Bars",
+  "description": "A Greek-inspired dessert featuring a creamy cheesecake filling wrapped in flaky phyllo pastry, just like the traditional galaktoboureko.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mellow cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "tender phyllo dough",
+      "amount": "1 package (usually 16-20 sheets)",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "galaktoboureko syrup (or honey)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bananas",
+      "amount": "2 ripe"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, whisk together cream cheese and sugar until smooth.",
+    "Beat in eggs one at a time, followed by vanilla extract.",
+    "Arrange phyllo sheets on a flat surface, brushing with melted butter between each layer.",
+    "Cut phyllo into desired bar size and spoon a dollop of cheesecake mixture onto the center of each sheet.",
+    "Fold the phyllo in half to enclose the filling, pressing edges to seal.",
+    "Place bars on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until golden brown.",
+    "While bars are baking, prepare a syrup by mixing galaktoboureko syrup and water in a small bowl.",
+    "Remove bars from oven and brush with syrup while still warm.",
+    "Serve warm with sliced bananas on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheesecake",
+    "galaktoboureko",
+    "phyllo",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-tender-greek-bananas-galaktoboureko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:59:39.135Z"
+}
