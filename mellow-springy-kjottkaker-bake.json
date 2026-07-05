@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-springy-kjottkaker-bake",
+  "title": "Kjottkaker Bake",
+  "description": "A hearty Norwegian-inspired dish with ground meat and egg patties baked in a crispy crust.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko"
+    },
+    {
+      "name": "Mellow Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Springy Egg",
+      "amount": "1 large, beaten",
+      "notes": ""
+    },
+    {
+      "name": "Kjottkaker",
+      "amount": "1 package, crushed",
+      "notes": "Norwegian meatballs"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 teaspoon, dried",
+      "notes": "Breadcrumbs or flour for coating"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine ground pork, breadcrumbs, chopped onion, beaten egg, and crushed kjottkaker. Mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Dip each patty in a mixture of 1 tablespoon flour and 1/2 teaspoon dried bake.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until browned and cooked through.",
+    "Serve hot with your favorite sides or in a bun for a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kjottkaker",
+    "norwegian",
+    "meatballs",
+    "pork",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-springy-kjottkaker-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:40:03.505Z"
+}
