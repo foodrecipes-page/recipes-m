@@ -1,0 +1,89 @@
+{
+  "slug": "malty-springy-mexican-fish-tacos",
+  "title": "Baja Fish Tacos",
+  "description": "A delicious and light Baja-style fish taco recipe with crispy battered fish, topped with fresh cilantro, crunchy cabbage, and a squeeze of lime.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Battered)",
+      "amount": "4 fillets",
+      "notes": "Any white fish such as cod or tilapia"
+    },
+    {
+      "name": "Springy",
+      "amount": "1 bunch",
+      "notes": "Fresh cilantro for garnish"
+    },
+    {
+      "name": "Malty",
+      "amount": "1 cup",
+      "notes": "Bread crumbs for coating"
+    },
+    {
+      "name": "Mexican",
+      "amount": "1 packet",
+      "notes": "Taco seasoning"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Lime",
+      "amount": "2",
+      "notes": "Juice and wedges"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8 shells",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil to 375°F for frying.",
+    "Prepare the batter by mixing the malty and mexican.",
+    "Dredge the fish in the batter, then coat with malty.",
+    "Fry the fish until golden brown and cooked through.",
+    "Shred the cabbage and chop the cilantro.",
+    "Warm the tacos by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by placing a piece of fish in each shell, topping with cabbage, cilantro, and a squeeze of lime.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-tacos",
+    "baja-style",
+    "mexican-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-springy-mexican-fish-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:17:38.694Z"
+}
