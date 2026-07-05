@@ -4406,15 +4406,16 @@
   },
   {
     "slug": "meditereanean-friendly-irish-stout-bake",
-    "title": "Mediterranean Friendly Irish Stout Bake",
+    "title": "Irish Stout Beef Stew",
     "tags": [
+      "beef",
+      "stew",
       "irish",
       "stout",
-      "mediterranean",
-      "bake"
+      "mediterranean"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {
@@ -17694,15 +17695,16 @@
   },
   {
     "slug": "monsoon-malty-australian-malai-nigiri",
-    "title": "Monsoon Malt Sushi",
+    "title": "Australian Malai Nigiri",
     "tags": [
-      "easy-to-make",
-      "pescatarian",
-      "sushi",
-      "weeknight"
+      "australian",
+      "indian",
+      "nigiri",
+      "shrimp",
+      "yogurt"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 150,
+    "cuisine": "Asian",
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
