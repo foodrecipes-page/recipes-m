@@ -1,0 +1,66 @@
+{
+  "slug": "malty-british-eggplant-fish-and-chips",
+  "title": "British Fish and Eggplant Fry",
+  "description": "A British-inspired dish featuring fish, eggplant, and chips, perfect for a quick and easy meal.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large fish fillet",
+      "amount": "1",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "1 medium eggplant",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "1 cup malty",
+      "amount": "1 cup",
+      "notes": "such as malt vinegar"
+    },
+    {
+      "name": "1 package chips",
+      "amount": "1 package",
+      "notes": "such as British-style crisps"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the eggplant and cook for 3-4 minutes per side, until tender.",
+    "Add the fish fillet to the skillet and cook for 3-4 minutes per side, until cooked through.",
+    "Cook the chips according to the package instructions.",
+    "Serve the fish and eggplant together with the chips and a drizzle of malty.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "easy-cook",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-british-eggplant-fish-and-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:11:52.783Z"
+}
