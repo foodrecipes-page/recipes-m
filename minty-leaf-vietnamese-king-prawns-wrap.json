@@ -1,0 +1,76 @@
+{
+  "slug": "minty-leaf-vietnamese-king-prawns-wrap",
+  "title": "Vietnamese Prawn Wrap",
+  "description": "A refreshing and flavorful wrap filled with prawns, mint, and Vietnamese flavors. Perfect for a quick and easy meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese wrap",
+      "amount": "4-6"
+    },
+    {
+      "name": "prawns",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "leaf",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet over medium-high heat.",
+    "2. Add prawns and cook until pink, about 2-3 minutes per side.",
+    "3. Remove prawns from skillet and set aside.",
+    "4. In same skillet, add soy sauce, fish sauce, and sugar. Stir to combine.",
+    "5. Add mint and leaf to skillet and stir-fry until wilted.",
+    "6. Add cooked prawns back into skillet and toss to combine.",
+    "7. Warm wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble wraps by placing prawn mixture onto the center of each wrap.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "prawns",
+    "wrap",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-leaf-vietnamese-king-prawns-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:01:29.592Z"
+}
