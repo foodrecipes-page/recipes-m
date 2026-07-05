@@ -2324,15 +2324,16 @@
   },
   {
     "slug": "malty-crunchy-ukrainian-barbeque-grill",
-    "title": "Malty Crunchy Ukrainian Barbeque Grill",
+    "title": "Grilled Ukrainian BBQ Ribs",
     "tags": [
-      "barbeque",
-      "date-night",
+      "bbq",
       "grill",
-      "ukrainian"
+      "ukrainian",
+      "ribs",
+      "pork"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 140,
     "shard": "m"
   },
   {
@@ -6187,30 +6188,24 @@
   },
   {
     "slug": "mellow-saudi-arabian-butternut-squash-wrap",
-    "title": "Mellow Saudi Arabian Butternut Squash Wrap",
+    "title": "Saudi Arabian Squash Wrap",
     "tags": [
-      "butternut-squash",
-      "gluten-free",
-      "lunch",
-      "mediterranean",
-      "saudi-arabian",
+      "middle-eastern",
       "vegetarian",
+      "squash",
       "wrap"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
     "slug": "mellow-savory-scottish-haggis-dumplings",
-    "title": "Mellow Savory Scottish Haggis Dumplings",
+    "title": "Scottish Haggis Dumplings",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "scottish-cuisine",
-      "traditional",
-      "wine-based"
+      "scottish",
+      "haggis",
+      "dumplings"
     ],
     "cuisine": "Scottish",
     "totalTimeMin": 35,
@@ -6513,17 +6508,15 @@
   },
   {
     "slug": "mellow-spicy-moroccan-lamb-tagine",
-    "title": "Mellow Spicy Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "dutch-oven",
-      "gluten-free",
       "lamb",
+      "tagine",
       "moroccan",
-      "one-pot",
-      "sattvic",
-      "tagine"
+      "north-african",
+      "slow-cooker"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "North African",
     "totalTimeMin": 180,
     "shard": "m"
   },
@@ -15879,14 +15872,12 @@
   },
   {
     "slug": "moist-velvety-ukrainian-bread-casserole",
-    "title": "Moist Velvety Ukrainian Bread Casserole",
+    "title": "Bread Pudding Casserole",
     "tags": [
-      "casserole",
       "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "ukrainian",
-      "whole30"
+      "dessert",
+      "bread-pudding",
+      "ukrainian-cuisine"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 55,
