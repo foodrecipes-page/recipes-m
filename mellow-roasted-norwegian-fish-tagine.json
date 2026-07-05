@@ -1,0 +1,85 @@
+{
+  "slug": "mellow-roasted-norwegian-fish-tagine",
+  "title": "Pan-Seared Norwegian Fish with Mellow Roasted Vegetables",
+  "description": "A delicious and healthy fish recipe, featuring pan-seared Norwegian fish served with a medley of mellow roasted vegetables, perfect for a light dinner.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian fish fillets",
+      "amount": "4",
+      "notes": "Fresh or thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Mellow roasted vegetables",
+      "amount": "1 cup",
+      "notes": "Pre-roasted in the oven"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Heat the olive oil in an oven-safe pan over medium-high heat.",
+    "Sear the fish fillets for 2-3 minutes on each side, then transfer the pan to the preheated oven.",
+    "Roast the fish in the oven for 8-10 minutes, or until cooked through.",
+    "While the fish is cooking, toss the pre-roasted vegetables with minced garlic and a squeeze of lemon juice.",
+    "Serve the pan-seared fish with the roasted vegetables and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "fish",
+    "dinner",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-norwegian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:05:23.972Z"
+}
