@@ -1,0 +1,86 @@
+{
+  "slug": "magnificently-creamy-malaysian-chicken-curry",
+  "title": "Creamy Malaysian Chicken Curry",
+  "description": "A rich and flavorful curry dish from Malaysia, made with tender chicken, creamy coconut milk, and aromatic spices. This recipe is a perfect blend of East meets West flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same pan, add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the curry powder and garam masala, and cook for 1-2 minutes, until fragrant.",
+    "Add the coconut milk, fish sauce, salt, and black pepper. Stir well to combine.",
+    "Return the chicken to the pan and simmer for 10-12 minutes, or until the chicken is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "malaysian",
+    "coconut",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-creamy-malaysian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:39:51.778Z"
+}
