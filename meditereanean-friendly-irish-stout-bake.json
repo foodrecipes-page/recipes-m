@@ -1,0 +1,99 @@
+{
+  "slug": "meditereanean-friendly-irish-stout-bake",
+  "title": "Irish Stout Beef Stew",
+  "description": "A hearty beef stew made with Irish stout and a blend of Mediterranean spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Irish stout",
+      "amount": "1 cup",
+      "notes": "Guinness or similar"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Dried oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion, garlic, carrots, and potatoes to pot and cook until vegetables are tender, about 10 minutes.",
+    "Add beef broth, stout, tomato paste, Mediterranean seasoning, salt, and pepper to pot. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours, or until beef is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "irish",
+    "stout",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meditereanean-friendly-irish-stout-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:02:54.107Z"
+}
