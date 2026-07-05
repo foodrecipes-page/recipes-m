@@ -1,0 +1,67 @@
+{
+  "slug": "monsoon-malty-australian-malai-nigiri",
+  "title": "Australian Malai Nigiri",
+  "description": "A unique fusion of Australian and Indian flavors. This nigiri combines the freshness of australian ingredients with the richness of malai.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian Freshwater Shrimp",
+      "amount": "6-8 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Malai Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Malty Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nigiri Rice Vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Combine malai yogurt, malty honey, and monsoon spice blend in a bowl.",
+    "2. Mix well until smooth.",
+    "3. Dip each piece of australian freshwater shrimp into the yogurt mixture.",
+    "4. Place the shrimp on top of nigiri rice.",
+    "5. Drizzle nigiri rice vinegar over the shrimp.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "indian",
+    "nigiri",
+    "shrimp",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-malty-australian-malai-nigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:33:33.735Z"
+}
