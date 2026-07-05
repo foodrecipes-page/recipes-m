@@ -1,0 +1,73 @@
+{
+  "slug": "molten-kenyan-malty-tagine",
+  "title": "Spicy Malty Tagine with Kenyan Kenkey",
+  "description": "A fusion dish that combines the warmth of Kenyan spices with the rich flavors of a traditional tagine, served with a side of crispy malty croutons.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "molten cheese",
+      "amount": "1 cup, shredded",
+      "notes": "for serving"
+    },
+    {
+      "name": "kenyan cornmeal",
+      "amount": "2 cups",
+      "notes": "for croutons"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "2 tsp",
+      "notes": "ground cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "malty beer",
+      "amount": "1 cup",
+      "notes": "for braising liquid"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon, ginger, and turmeric"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, whisk together the kenyan spices, molten cheese, and kenyan cornmeal.",
+    "3. Add the tagine spice blend and mix until well combined.",
+    "4. Pour in the malty beer and stir until the mixture forms a thick batter.",
+    "5. Heat a large skillet over medium heat and add a small amount of oil.",
+    "6. Using a 1/4 cup measuring cup, scoop the batter into the skillet and flatten slightly.",
+    "7. Cook the tagine for 4-5 minutes on each side, or until golden brown and crispy.",
+    "8. Serve the tagine hot, topped with a dollop of molten cheese and a side of crispy malty croutons.",
+    "9. To make the croutons, cut the kenyan cornmeal into small cubes and toss with oil until evenly coated.",
+    "10. Bake the croutons in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "11. Serve the croutons alongside the tagine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "tagine",
+    "beer-braised",
+    "cheesy",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-kenyan-malty-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:57:30.418Z"
+}
