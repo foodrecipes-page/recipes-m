@@ -1,0 +1,66 @@
+{
+  "slug": "mildly-spicy-tunisian-nuka-pickle-toast",
+  "title": "Spicy Tunisian Toast",
+  "description": "A delicious and spicy toast recipe inspired by Tunisian cuisine, perfect for breakfast or snack.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mildly spicy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "nuka bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "tunisian olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Toast the nuka bread slices until lightly browned.",
+    "2. Spread 1 tbsp of mildly spicy sauce on each toasted bread slice.",
+    "3. Top each slice with a few pickle slices and some tunisian olives.",
+    "4. Sprinkle some fresh mint leaves on top.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "tunisian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-tunisian-nuka-pickle-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:17:32.486Z"
+}
