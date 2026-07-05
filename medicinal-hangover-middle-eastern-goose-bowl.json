@@ -1,0 +1,73 @@
+{
+  "slug": "medicinal-hangover-middle-eastern-goose-bowl",
+  "title": "Middle Eastern Goose Bowl",
+  "description": "A hearty and flavorful bowl dish from the Middle East, featuring roasted goose and a variety of spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goose",
+      "amount": "1 whole"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the goose with the middle eastern spice blend and roast in the oven for 45 minutes.",
+    "Heat olive oil in a pan over medium heat. Add the onion and garlic and cook until the onion is softened.",
+    "Add the chickpeas to the pan and stir to combine.",
+    "Cook the couscous according to package instructions.",
+    "To assemble the bowls, divide the cooked couscous among four bowls. Top with the roasted goose, chickpea mixture, and garnish with fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goose",
+    "middle-eastern",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/medicinal-hangover-middle-eastern-goose-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:19:21.080Z"
+}
