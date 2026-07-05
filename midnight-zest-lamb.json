@@ -1,0 +1,77 @@
+{
+  "slug": "midnight-zest-lamb",
+  "title": "Midnight Lamb Chops",
+  "description": "A simple yet flavorful lamb chop recipe, perfect for a weeknight dinner. The midnight seasoning blend adds a unique twist to traditional lamb.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "4-6 chops",
+      "notes": ""
+    },
+    {
+      "name": "Midnight Seasoning Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Zest",
+      "amount": "1 tsp lemon, 1 tsp orange",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb chops with salt, black pepper, and midnight seasoning blend.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the lamb chops for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 8-12 minutes, or until the lamb reaches your desired level of doneness.",
+    "Remove the skillet from the oven and sprinkle with lemon and orange zest.",
+    "Let the lamb rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "midnight-seasoning",
+    "lemon",
+    "orange"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-zest-lamb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:42:29.130Z"
+}
