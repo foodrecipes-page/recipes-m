@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-smoked-mexican-poblano-fajitas",
+  "title": "Smoked Poblano Fajitas",
+  "description": "A spicy and flavorful dish featuring smoked poblanos, onions, and bell peppers, served with a side of warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Poblanos",
+      "amount": "4",
+      "notes": "Pre-cooked or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Flour Tortillas",
+      "amount": "4-6",
+      "notes": "Warm tortillas for serving"
+    },
+    {
+      "name": "Fajita Seasoning",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh lime juice for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tbsp of fajita seasoning and cook for 1 minute.",
+    "Add sliced onions and bell peppers, cook for 3-4 minutes or until tender.",
+    "Add smoked poblanos and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble fajitas by placing cooked vegetables onto tortillas and serving with lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "mexican",
+    "fajitas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoked-mexican-poblano-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:33:11.435Z"
+}
