@@ -1,0 +1,86 @@
+{
+  "slug": "melted-peppery-russian-milk-dumplings",
+  "title": "Russian Peppery Dumplings",
+  "description": "A hearty and comforting Russian-inspired dish featuring fluffy dumplings in a rich peppery sauce served with a side of warm milk.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "pepper",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "warm for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, eggs, and water to form the dumpling dough.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each into a ball.",
+    "On a lightly floured surface, roll out each ball into a thin circle.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the freshly ground black pepper and cook for 1 minute.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes.",
+    "Add the rolled dumplings to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve the dumplings with warm milk and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "dumplings",
+    "peppery-sauce",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-peppery-russian-milk-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:03:24.489Z"
+}
