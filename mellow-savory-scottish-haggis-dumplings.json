@@ -1,0 +1,79 @@
+{
+  "slug": "mellow-savory-scottish-haggis-dumplings",
+  "title": "Scottish Haggis Dumplings",
+  "description": "A hearty Scottish dish featuring haggis and savory dumplings. Perfect for a cold winter's night.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "450g",
+      "notes": "buy from a butcher or make your own"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "savory",
+      "amount": "2 tsp",
+      "notes": "dried or fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, and pepper.",
+    "Add butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles breadcrumbs.",
+    "Gradually add milk, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until smooth.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "On a floured surface, flatten each ball of dough into a disk, about 5cm in diameter.",
+    "Place a tablespoon of haggis in the center of each disk.",
+    "Fold the dough over the haggis to form a half-moon shape, pressing the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Serve hot, garnished with chopped savory."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scottish",
+    "haggis",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-savory-scottish-haggis-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:29:17.319Z"
+}
