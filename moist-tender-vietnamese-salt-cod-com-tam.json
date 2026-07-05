@@ -1,0 +1,77 @@
+{
+  "slug": "moist-tender-vietnamese-salt-cod-com-tam",
+  "title": "Vietnamese Cod Poached in Com Tam Broth",
+  "description": "A delicate Vietnamese dish featuring cod poached in a flavorful com tam broth, served with steamed com and a side of tender tam.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh, 6 oz each"
+    },
+    {
+      "name": "com tam broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "moist fish sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tender tam",
+      "amount": "1 cup",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "com",
+      "amount": "2 cups",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the com tam broth to a boil in a large pot.",
+    "Reduce heat to a simmer and add the moist fish sauce.",
+    "Add the cod fillets to the pot and poach for 8-10 minutes, or until cooked through.",
+    "Remove the cod from the pot and place on a plate to rest.",
+    "Add the tender tam to the pot and cook for an additional 2-3 minutes.",
+    "Season the com tam broth with salt to taste.",
+    "To serve, place a cod fillet on top of a bed of steamed com, and spoon the com tam broth over the top.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish",
+    "poached"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-tender-vietnamese-salt-cod-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:22:12.160Z"
+}
