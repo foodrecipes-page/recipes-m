@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-bitter-ethiopian-beef-kitfo",
+  "title": "Spicy Ethiopian Beef Kitfo",
+  "description": "A traditional Ethiopian dish made with raw ground beef, mildly spicy and flavored with a variety of spices. Serve with traditional Ethiopian bread or injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "Raw, not cooked"
+    },
+    {
+      "name": "Niter kibbeh (Ethiopian clarified butter)",
+      "amount": "2 tablespoons",
+      "notes": "Or substitute with regular butter"
+    },
+    {
+      "name": "Mitmita (Ethiopian spice mix)",
+      "amount": "1 tablespoon",
+      "notes": "Available at most Ethiopian or African markets"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 small",
+      "notes": "Raw, not cooked"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mildly spicy pepper (such as habanero or scotch bonnet)",
+      "amount": "1-2 teaspoons",
+      "notes": "Optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine ground beef, niter kibbeh, mitmita, chopped onion, salt, black pepper, and mildly spicy pepper (if using). Mix well with your hands until just combined.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "3. Just before serving, garnish with chopped fresh cilantro (if using).",
+    "4. Serve the kitfo raw, with traditional Ethiopian bread or injera.",
+    "5. Traditionally, kitfo is eaten with the hands, tearing the bread or injera into small pieces and using them to scoop up the raw meat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ethiopian",
+    "raw",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-bitter-ethiopian-beef-kitfo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:38:43.939Z"
+}
