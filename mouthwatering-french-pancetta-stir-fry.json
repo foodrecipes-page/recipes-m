@@ -1,0 +1,76 @@
+{
+  "slug": "mouthwatering-french-pancetta-stir-fry",
+  "title": "Pan-Seared Pancetta with French Toast",
+  "description": "A rich breakfast dish combining crispy pancetta with sweet French toast.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pancetta",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk or a non-dairy alternative"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs, milk, cinnamon, and a pinch of salt.",
+    "2. Heat a non-stick skillet over medium heat.",
+    "3. Add 1 tbsp of butter to the skillet and let it melt.",
+    "4. Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "5. Place the coated bread slices in the skillet and cook for 2-3 minutes or until golden brown.",
+    "6. Flip the French toast and cook for an additional 1-2 minutes or until golden brown.",
+    "7. Repeat the cooking process for the remaining bread slices.",
+    "8. In a separate skillet, cook the pancetta over medium heat until crispy.",
+    "9. Remove the pancetta from the skillet and place it on a paper towel-lined plate to drain excess oil.",
+    "10. Serve the French toast warm with crispy pancetta on top and drizzle with maple syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "sweet",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-french-pancetta-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:25:49.963Z"
+}
