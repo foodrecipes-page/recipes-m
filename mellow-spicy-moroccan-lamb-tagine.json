@@ -1,0 +1,84 @@
+{
+  "slug": "mellow-spicy-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A flavorful and aromatic North African dish made with lamb, spices, and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern or North African markets"
+    },
+    {
+      "name": "Mellow onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Spicy red bell pepper",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the lamb"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the lamb in batches until browned on all sides.",
+    "Remove the lamb from the pot and set aside. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the Moroccan spice blend and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back into the pot, along with the dried apricots, honey (if using), and chicken broth.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 to 3 hours, or until the lamb is tender and the sauce has thickened.",
+    "Serve hot, garnished with fresh herbs (such as parsley or cilantro) if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "north-african",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "30g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spicy-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:19:47.583Z"
+}
