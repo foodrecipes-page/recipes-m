@@ -1,0 +1,72 @@
+{
+  "slug": "moist-velvety-ukrainian-bread-casserole",
+  "title": "Bread Pudding Casserole",
+  "description": "A moist, velvety Ukrainian-inspired bread pudding casserole, perfect for a comforting dessert or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "day-old bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, whisk together eggs, sugar, milk, and melted butter.",
+    "Add cubed bread, vanilla extract, and cinnamon to the egg mixture. Mix until well combined.",
+    "Pour the mixture into a 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown and the casserole is set.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "bread-pudding",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-velvety-ukrainian-bread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:41:48.221Z"
+}
