@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-roasted-turkish-sweetcorn-pilaf",
+  "title": "Turkish Sweetcorn Pilaf",
+  "description": "A flavorful and aromatic pilaf dish from Turkey, featuring sweetcorn and mildly roasted spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mildly roasted cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turkish paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the mildly roasted cumin powder and Turkish paprika, and cook for 1 minute.",
+    "Add the pilaf rice and cook, stirring occasionally, for 2-3 minutes.",
+    "Add the sweetcorn and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "sweetcorn",
+    "pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-turkish-sweetcorn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:51:09.973Z"
+}
