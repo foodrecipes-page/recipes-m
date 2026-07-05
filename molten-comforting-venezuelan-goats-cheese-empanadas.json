@@ -1,0 +1,75 @@
+{
+  "slug": "molten-comforting-venezuelan-goats-cheese-empanadas",
+  "title": "Goat Cheese Empanadas",
+  "description": "A venezuelan-inspired comfort food dish featuring melted goat cheese inside crispy empanada pastry.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine flour, water, and a pinch of salt. Mix until dough forms.",
+    "3. Knead dough for 5 minutes until smooth. Cover with plastic wrap.",
+    "4. Divide dough into 8 equal pieces. Roll each piece into a ball.",
+    "5. Flatten each ball into a disk. Place a tablespoon of goat cheese in the center of each disk.",
+    "6. Fold the dough over the filling, forming a half-circle. Press edges together to seal.",
+    "7. Brush tops with vegetable oil. Bake for 20-25 minutes, or until golden brown.",
+    "8. Serve warm, garnished with chopped onion and a sprinkle of cumin."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "goat-cheese",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-comforting-venezuelan-goats-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:03:55.295Z"
+}
