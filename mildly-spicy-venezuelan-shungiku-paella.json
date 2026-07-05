@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-spicy-venezuelan-shungiku-paella",
+  "title": "Venezuelan Shrimp Paella",
+  "description": "A spicy twist on the classic Spanish dish, featuring succulent shrimp and a variety of aromatic spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shungiku",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "Mildly spicy sausage",
+      "amount": "1/2 pound, sliced"
+    },
+    {
+      "name": "Venezuelan chili powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the chopped shungiku and cook until wilted, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the diced tomato and cook for 2 minutes.",
+    "Add the paella rice and stir to coat with the oil and mix with the other ingredients.",
+    "Add the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt, pepper, and Venezuelan chili powder to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "shrimp",
+    "venezuelan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-venezuelan-shungiku-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:09:03.155Z"
+}
