@@ -1,0 +1,84 @@
+{
+  "slug": "melted-jamaican-tofu-frittata",
+  "title": "Jamaican Tofu Frittata",
+  "description": "A spicy Jamaican twist on the classic Italian dish, featuring tofu and a hint of Caribbean flavor.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "firm, drained and cubed"
+    },
+    {
+      "name": "melted cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "egg",
+      "amount": "6",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the Jamaican seasoning and cook for 1 minute.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the tofu, melted cheese, and cooked onion and bell pepper mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch pie plate or skillet.",
+    "Bake for 35-40 minutes, or until the frittata is set and golden brown.",
+    "Let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-jamaican-tofu-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:38:08.286Z"
+}
