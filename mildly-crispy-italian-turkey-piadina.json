@@ -1,0 +1,67 @@
+{
+  "slug": "mildly-crispy-italian-turkey-piadina",
+  "title": "Crispy Turkey Panini",
+  "description": "A simple Italian-inspired dish using piadina bread and crispy turkey.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Piadina bread",
+      "amount": "4 slices",
+      "notes": "Italian flatbread"
+    },
+    {
+      "name": "Mild Italian cheese",
+      "amount": "8 ounces",
+      "notes": "such as mozzarella"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4 leaves",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Slice the turkey breast and season with salt and pepper.",
+    "Brush both sides of the piadina bread with olive oil.",
+    "Place one slice of bread in the panini press or grill, followed by a slice of turkey, a sprinkle of cheese, a few leaves of basil, and another slice of bread.",
+    "Cook for 3-4 minutes or until the bread is crispy and the cheese is melted.",
+    "Repeat with the remaining ingredients.",
+    "Cut the panini in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lunch",
+    "panini",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-crispy-italian-turkey-piadina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:53:57.484Z"
+}
