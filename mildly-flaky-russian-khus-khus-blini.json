@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-flaky-russian-khus-khus-blini",
+  "title": "Russian Blini with Khus Khus Filling",
+  "description": "A traditional Russian breakfast dish filled with a sweet khus khus mixture.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "mildly sweet yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "flaky butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "russian honey",
+      "amount": "1 tablespoon",
+      "notes": "warm"
+    },
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and sugar in a large bowl.",
+    "Add melted butter, honey, and eggs, mix until smooth.",
+    "Knead the dough for 10 minutes.",
+    "Rise the dough for 1 hour.",
+    "Preheat a non-stick pan over medium heat.",
+    "Heat a small amount of oil and cook a blini for 1 minute.",
+    "Spread khus khus mixture on the blini.",
+    "Fold the blini in half and cook for an additional 2 minutes.",
+    "Repeat with the remaining dough and khus khus mixture.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "russian",
+    "yeast",
+    "khus-khus",
+    "blini"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-flaky-russian-khus-khus-blini",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:21:17.082Z"
+}
