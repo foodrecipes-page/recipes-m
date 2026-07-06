@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-irish-bread-sandwich",
+  "title": "Irish Mellow Bread Sandwich",
+  "description": "A simple, comforting sandwich made with mellow bread, irish bread, and a variety of ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Irish bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Ham",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "1. Butter the mellow bread slices.",
+    "2. Place one slice of irish bread on the bottom.",
+    "3. Add a slice of ham, a slice of cheese, a slice of cucumber, a handful of lettuce, and a slice of tomato.",
+    "4. Place the second slice of irish bread on top.",
+    "5. Place the second slice of mellow bread on top.",
+    "6. Cut the sandwich in half.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "bread",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-irish-bread-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:13:37.986Z"
+}
