@@ -1,0 +1,68 @@
+{
+  "slug": "malty-tenders-argentinian-empanada-bake",
+  "title": "Argentinian Empanada Bake",
+  "description": "A twist on traditional empanadas, baked in the oven with a crispy crust and savory filling.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanada",
+      "amount": "1 package (12-15 count)",
+      "notes": null
+    },
+    {
+      "name": "malty",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "argentinian",
+      "amount": "1/2 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "tenders",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the empanada package according to the instructions.",
+    "In a pan, sauté the argentinian and tenders until tender.",
+    "Add the malty and bake to the pan and stir well.",
+    "Place the empanada dough on a baking sheet.",
+    "Spoon the filling into the center of each empanada.",
+    "Fold the dough in half to seal the empanada.",
+    "Brush the tops with a little water and sprinkle with bake.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanada",
+    "baked",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-tenders-argentinian-empanada-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:19:59.534Z"
+}
