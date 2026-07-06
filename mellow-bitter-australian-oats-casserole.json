@@ -1,0 +1,56 @@
+{
+  "slug": "mellow-bitter-australian-oats-casserole",
+  "title": "Australian Mellow Bitter Oat Casserole",
+  "description": "A hearty, comforting casserole featuring Australian oats, mellow flavors, and a hint of bitterness. Perfect for a chilly evening.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mellow",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine Australian oats, mellow, and bitter. Cook over medium heat, stirring constantly, for 5 minutes.",
+    "Add casserole to the saucepan and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the casserole is set and the oats are tender.",
+    "Serve warm, garnished with additional mellow if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "oatmeal",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-bitter-australian-oats-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:05:55.185Z"
+}
