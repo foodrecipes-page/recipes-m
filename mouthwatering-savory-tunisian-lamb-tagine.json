@@ -1,0 +1,91 @@
+{
+  "slug": "mouthwatering-savory-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A hearty and flavorful stew originating from Tunisia, made with tender lamb and aromatic spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and black pepper.",
+    "Heat the oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cumin, coriander, and paprika. Cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the raisins, water, and bring to a boil.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Garnish with parsley and serve over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "lamb",
+    "stew",
+    "slow-cooker",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-savory-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:11:00.816Z"
+}
