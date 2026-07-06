@@ -1,0 +1,69 @@
+{
+  "slug": "mustardy-mediterranean-daikon-bowl",
+  "title": "Mediterranean Bowl Salad",
+  "description": "A refreshing salad featuring Mediterranean flavors in a bowl. Easy to prepare and packed with nutrients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mustardy Dressing",
+      "amount": "4 oz",
+      "notes": "see below for dressing recipe"
+    },
+    {
+      "name": "Daikon Radish",
+      "amount": "1 medium",
+      "notes": "grated or thinly sliced"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup pitted",
+      "notes": "sliced or whole"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup halved",
+      "notes": "or 1 pint cherry tomatoes"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "or other herbs like basil or mint"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Mustardy Dressing ingredients.",
+    "Add the grated or thinly sliced daikon, sliced olives, cherry tomatoes, crumbled feta cheese (if using), and chopped parsley to the bowl.",
+    "Toss gently to combine and adjust seasoning to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-mediterranean-daikon-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:40:24.961Z"
+}
