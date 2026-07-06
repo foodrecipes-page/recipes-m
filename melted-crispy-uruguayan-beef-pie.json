@@ -1,0 +1,75 @@
+{
+  "slug": "melted-crispy-uruguayan-beef-pie",
+  "title": "Uruguayan Beef Pie",
+  "description": "A traditional Uruguayan dish that combines the flavors of beef and pastry. Perfect for a hearty dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Pie Crust",
+      "amount": "1 pre-made crust or ingredients for homemade",
+      "notes": ""
+    },
+    {
+      "name": "Melted Cheese",
+      "amount": "1 cup shredded cheese",
+      "notes": "Optional"
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "6 slices",
+      "notes": "Optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a pan, cook the ground beef until browned, breaking it up into small pieces.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Roll out the pie crust and place it in a 9-inch pie dish.",
+    "Fill the pie crust with the beef mixture and top with shredded cheese.",
+    "If using, sprinkle crispy bacon bits on top of the cheese.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown.",
+    "Let the pie rest for 10-15 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "pie",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-crispy-uruguayan-beef-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:31:36.518Z"
+}
