@@ -1,0 +1,83 @@
+{
+  "slug": "melted-cheesy-ethiopian-king-prawns-gomen",
+  "title": "King Prawn Gomen",
+  "description": "A spicy Ethiopian-inspired dish featuring king prawns and gomen (Ethiopian collard greens).",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Gomen (Ethiopian collard greens)",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bergamot juice",
+      "amount": "2 tbsp",
+      "notes": "or substitute with lemon juice"
+    },
+    {
+      "name": "Ethiopian red pepper powder",
+      "amount": "1 tsp",
+      "notes": "or substitute with cayenne pepper"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Heat melted butter in a large skillet over medium-high heat.",
+    "Add chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add chopped gomen and cook until wilted, about 5 minutes.",
+    "Add king prawns and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Stir in bergamot juice and Ethiopian red pepper powder.",
+    "Season with black pepper to taste.",
+    "Serve immediately, garnished with additional gomen if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "ethiopian",
+    "gomen",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-cheesy-ethiopian-king-prawns-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:29:51.922Z"
+}
