@@ -1,0 +1,92 @@
+{
+  "slug": "mouthwatering-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish of marinated lamb grilled to perfection, inspired by the traditional street foods of Saudi Arabia.",
+  "cuisine": "saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, full-fat yogurt works best"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the kebabs during grilling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Flaky sea salt works best"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine yogurt, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper. Blend until smooth.",
+    "Place the lamb cubes in a large bowl and pour the yogurt marinade over them. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Thread the marinated lamb cubes onto skewers.",
+    "Brush the kebabs with olive oil and season with salt and black pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:59:58.925Z"
+}
