@@ -619,16 +619,15 @@
   },
   {
     "slug": "magical-pungent-moroccan-eggs-kefta-tagine",
-    "title": "Magical Pungent Moroccan Eggs Kefta Tagine",
+    "title": "Moroccan Kefta Tagine",
     "tags": [
-      "gluten-free",
-      "low-sodium",
-      "moroccan-cuisine",
-      "one-pan",
-      "show-off-dinner",
-      "special-occasion"
+      "moroccan",
+      "kefta",
+      "tagine",
+      "meatballs",
+      "north-african"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "moroccan",
     "totalTimeMin": 45,
     "shard": "m"
   },
@@ -4414,17 +4413,15 @@
   },
   {
     "slug": "mediterranean-charred-mediterranean-beef-tagine",
-    "title": "Mediterranean Charred Beef Tagine",
+    "title": "Beef Tagine with Mediterranean Flavors",
     "tags": [
       "beef",
-      "comfort-food",
-      "gluten-free",
       "mediterranean",
-      "spherification",
-      "tagine"
+      "stew",
+      "lunch"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "m"
   },
   {
@@ -20006,16 +20003,14 @@
   },
   {
     "slug": "mustardy-mediterranean-daikon-bowl",
-    "title": "Mustardy Mediterranean Daikon Bowl",
+    "title": "Mediterranean Bowl Salad",
     "tags": [
-      "gluten-free",
-      "low-carb",
+      "salad",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
