@@ -1,0 +1,89 @@
+{
+  "slug": "mild-creamy-indian-tempeh-curry",
+  "title": "Creamy Indian Tempeh Curry",
+  "description": "A delicious and healthy Indian-inspired curry made with tempeh, creamy sauce, and a blend of aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "mild curry sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat canned"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add tempeh and cook until lightly browned, about 4-5 minutes.",
+    "Stir in curry powder and garam masala and cook for 1 minute.",
+    "Add curry sauce and coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes or until sauce has thickened.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-creamy-indian-tempeh-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:21:04.199Z"
+}
