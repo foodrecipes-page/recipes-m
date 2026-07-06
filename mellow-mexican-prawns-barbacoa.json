@@ -1,0 +1,89 @@
+{
+  "slug": "mellow-mexican-prawns-barbacoa",
+  "title": "Mexican Prawns Barbacoa",
+  "description": "A flavorful Mexican-inspired dish featuring prawns cooked in a rich barbacoa sauce, served with mellow tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mellow tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Barbacoa sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin and chili powder, and cook for 30 seconds.",
+    "Add the barbacoa sauce and stir to combine.",
+    "Add the prawns and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Stir in lime juice and season with salt.",
+    "Warm the mellow tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the dish by placing a few prawns on each tortilla, and serving with additional barbacoa sauce for dipping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "prawns",
+    "barbacoa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-mexican-prawns-barbacoa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:48:30.403Z"
+}
