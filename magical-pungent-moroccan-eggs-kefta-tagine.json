@@ -1,0 +1,73 @@
+{
+  "slug": "magical-pungent-moroccan-eggs-kefta-tagine",
+  "title": "Moroccan Kefta Tagine",
+  "description": "A flavorful and aromatic North African dish made with spiced meatballs and served in a rich tagine sauce.",
+  "cuisine": "moroccan",
+  "diet": [
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kefta",
+      "amount": "500g",
+      "notes": "beef and lamb mixture"
+    },
+    {
+      "name": "magical",
+      "amount": "2 tbsp",
+      "notes": "magic spice blend"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 tsp",
+      "notes": "garlic powder"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "tagine",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Prepare the kefta mixture and shape into meatballs.",
+    "In a large pan, heat the pungent over medium heat.",
+    "Add the magical and cook for 1 minute.",
+    "Add the meatballs and cook until browned on all sides.",
+    "Transfer the meatballs to a baking dish.",
+    "Bake in the preheated oven for 15-20 minutes.",
+    "Meanwhile, prepare the tagine sauce in a separate pan.",
+    "Add the tagine to the sauce and simmer over low heat.",
+    "Serve the meatballs in the tagine sauce.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "kefta",
+    "tagine",
+    "meatballs",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-pungent-moroccan-eggs-kefta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:41:54.105Z"
+}
