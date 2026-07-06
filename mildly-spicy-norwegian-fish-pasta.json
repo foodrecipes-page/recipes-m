@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-spicy-norwegian-fish-pasta",
+  "title": "Spicy Norwegian Fish Pasta",
+  "description": "A flavorful and spicy pasta dish featuring Norwegian fish, mildly seasoned with herbs and spices.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Fish Fillets (4 oz)",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Penne Pasta (12 oz)",
+      "amount": "1",
+      "notes": "Dried"
+    },
+    {
+      "name": "Olive Oil (2 tbsp)",
+      "amount": "2",
+      "notes": "Extra Virgin"
+    },
+    {
+      "name": "Garlic (minced, 2 cloves)",
+      "amount": "2",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Red Pepper Flakes (1 tsp)",
+      "amount": "1",
+      "notes": "Mildly spicy"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley (chopped, 1 tsp)",
+      "amount": "1",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta according to the package instructions. Drain and set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Norwegian fish fillets and cook for 3-4 minutes per side, until cooked through.",
+    "Add the red pepper flakes and cook for an additional minute.",
+    "Stir in the cooked penne pasta and season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "norwegian",
+    "fish",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-norwegian-fish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:04:02.254Z"
+}
