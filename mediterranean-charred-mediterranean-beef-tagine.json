@@ -1,0 +1,88 @@
+{
+  "slug": "mediterranean-charred-mediterranean-beef-tagine",
+  "title": "Beef Tagine with Mediterranean Flavors",
+  "description": "A hearty and flavorful stew originating from North Africa, made with tender beef and infused with the aromas of the Mediterranean.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Charred red peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with a combination of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the bottom of a clay or ceramic tagine or Dutch oven over medium heat.",
+    "Brown the beef cubes in batches until they are nicely browned on all sides. Transfer the beef to a plate and set aside.",
+    "Add the diced red peppers to the pan and cook until they are softened. Add the tagine spice blend and cook for 1 minute, stirring constantly.",
+    "Add the beef broth to the pan and bring to a boil. Return the beef to the pan and cover with a lid.",
+    "Simmer the tagine over low heat for 1 1/2 hours or until the beef is tender.",
+    "Stir in the pitted olives and cook for an additional 10 minutes.",
+    "Season the tagine with salt and black pepper to taste.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mediterranean",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mediterranean-charred-mediterranean-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:47:25.073Z"
+}
