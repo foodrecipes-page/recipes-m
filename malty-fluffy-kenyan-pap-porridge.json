@@ -1,0 +1,73 @@
+{
+  "slug": "malty-fluffy-kenyan-pap-porridge",
+  "title": "Kenyan-Style Porridge",
+  "description": "A traditional Kenyan porridge made with malty goodness and fluffy texture. Serve warm and enjoy!",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Malty",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kenyan",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pap",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sugar (optional)",
+      "amount": "1-2 tablespoons",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil.",
+    "Add the malty, fluffy, and Kenyan, stir well.",
+    "Reduce heat to low and add the pap.",
+    "Simmer for 5-7 minutes or until the porridge thickens.",
+    "Add sugar and salt to taste.",
+    "Serve warm and enjoy.",
+    "You can also add milk or cream for extra creaminess.",
+    "Garnish with a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "porridge",
+    "breakfast",
+    "kenyan",
+    "african"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-fluffy-kenyan-pap-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:55:34.984Z"
+}
