@@ -5370,17 +5370,14 @@
   },
   {
     "slug": "mellow-irish-bread-sandwich",
-    "title": "Mellow Irish Bread Sandwich",
+    "title": "Irish Mellow Bread Sandwich",
     "tags": [
-      "brunch",
-      "easy",
       "irish",
-      "quick",
-      "sandwich",
-      "sweet-savoury"
+      "bread",
+      "sandwich"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 5,
     "shard": "m"
   },
   {
@@ -5696,17 +5693,14 @@
   },
   {
     "slug": "mellow-mexican-prawns-barbacoa",
-    "title": "Mellow Mexican Prawns Barbacoa",
+    "title": "Mexican Prawns Barbacoa",
     "tags": [
-      "gluten-free",
-      "lunch-ideas",
-      "mexican-food",
-      "one-pot",
-      "prawn-recipes",
-      "seafood"
+      "mexican",
+      "prawns",
+      "barbacoa"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -11529,17 +11523,15 @@
   },
   {
     "slug": "mildly-crispy-italian-turkey-piadina",
-    "title": "Mildly Crispy Italian Turkey Piadina",
+    "title": "Crispy Turkey Panini",
     "tags": [
-      "cooking-with-molcajete",
-      "crispy",
-      "easy-dinner",
-      "piadina",
-      "turkey",
-      "weeknight"
+      "italian",
+      "lunch",
+      "panini",
+      "turkey"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 49,
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -11723,14 +11715,13 @@
   },
   {
     "slug": "mildly-flaky-russian-khus-khus-blini",
-    "title": "Mildly Flaky Russian Khus Khus Blini",
+    "title": "Russian Blini with Khus Khus Filling",
     "tags": [
-      "floral",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "breakfast",
       "russian",
-      "weeknight"
+      "yeast",
+      "khus-khus",
+      "blini"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
@@ -13745,16 +13736,15 @@
   },
   {
     "slug": "mildly-spicy-norwegian-fish-pasta",
-    "title": "Mildly Spicy Norwegian Fish Pasta",
+    "title": "Spicy Norwegian Fish Pasta",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "norwegian-cuisine",
-      "pescatarian-friendly",
-      "spicy-food"
+      "spicy",
+      "norwegian",
+      "fish",
+      "pasta"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "norwegian",
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
