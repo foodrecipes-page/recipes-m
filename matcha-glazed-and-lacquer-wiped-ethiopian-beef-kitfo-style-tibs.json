@@ -1,0 +1,88 @@
+{
+  "slug": "matcha-glazed-and-lacquer-wiped-ethiopian-beef-kitfo-style-tibs",
+  "title": "Matcha Beef Tibs",
+  "description": "A twist on the traditional Ethiopian dish, with a hint of green tea from the matcha powder. This recipe combines the savory flavors of beef with the nutty taste of matcha.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef (sirloin or ribeye)",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "2 tsp matcha powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1 onion",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "0.25 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the ground cumin, coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add the beef and cook until browned, about 5-7 minutes.",
+    "Add the matcha powder and stir to combine. Cook for an additional 1 minute.",
+    "Serve the beef hot, garnished with chopped fresh herbs if desired.",
+    "Serve with injera bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "matcha",
+    "beef",
+    "ethiopian",
+    "tibs"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/matcha-glazed-and-lacquer-wiped-ethiopian-beef-kitfo-style-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:30:23.731Z"
+}
