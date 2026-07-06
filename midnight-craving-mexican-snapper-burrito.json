@@ -1,0 +1,95 @@
+{
+  "slug": "midnight-craving-mexican-snapper-burrito",
+  "title": "Midnight Snapper Burrito",
+  "description": "A late-night twist on a classic Mexican dish, featuring pan-seared snapper and a flavorful burrito filling.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "mild"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Season the snapper fillets with salt and pepper.",
+    "3. Add a tablespoon of olive oil to the skillet and sear the snapper for 3-4 minutes per side, or until cooked through.",
+    "4. In a separate pan, heat a tablespoon of olive oil over medium heat.",
+    "5. Add the diced onions and cook until translucent, about 5 minutes.",
+    "6. Add the black beans, diced tomatoes, and shredded cheese to the pan, stirring to combine.",
+    "7. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the burritos by filling each tortilla with the bean and cheese mixture, followed by a cooked snapper fillet.",
+    "9. Top the snapper with salsa, cilantro, and a squeeze of lime juice.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "seafood",
+    "burrito",
+    "late-night"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-mexican-snapper-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:51:54.814Z"
+}
