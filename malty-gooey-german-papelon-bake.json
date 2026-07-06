@@ -1,0 +1,64 @@
+{
+  "slug": "malty-gooey-german-papelon-bake",
+  "title": "German Papelon Bake",
+  "description": "A delicious German-inspired dessert made with papelon and malty goodness.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "250g"
+    },
+    {
+      "name": "Malty",
+      "amount": "100g"
+    },
+    {
+      "name": "Gooey",
+      "amount": "50g"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Mix papelon, malty, gooey, sugar, eggs, and butter until well combined.",
+    "Pour the mixture into a greased 20cm baking dish.",
+    "Bake for 45 minutes or until a toothpick inserted comes out clean.",
+    "Let the bake cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "sweet",
+    "malty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-gooey-german-papelon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:22:41.685Z"
+}
