@@ -1,0 +1,80 @@
+{
+  "slug": "monsoon-moist-dutch-green-olives-paella",
+  "title": "Spanish-Style Paella with Green Olives",
+  "description": "A classic Spanish dish featuring saffron-infused rice, succulent chicken, and briny green olives. Perfect for a dinner party or special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch yellow rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Green olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Monsoon spices (paprika, saffron, oregano)",
+      "amount": "1 tablespoon",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Moist sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from the pan and set aside.",
+    "Add the Monsoon spices and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Add the Dutch yellow rice and stir to coat with the broth.",
+    "Return the chicken to the pan and stir to combine.",
+    "Transfer the pan to the oven and bake at 400°F (200°C) for 20-25 minutes, or until the rice is cooked and the chicken is cooked through.",
+    "Stir in the green olives and moist sea salt.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chicken",
+    "green-olives",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-moist-dutch-green-olives-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:38:44.052Z"
+}
