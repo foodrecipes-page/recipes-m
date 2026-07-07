@@ -1,0 +1,68 @@
+{
+  "slug": "mustardy-flaky-venezuelan-quick-fix-bake",
+  "title": "Venezuelan Bake",
+  "description": "A twist on traditional baking with venezuelan spices and flaky texture. This recipe is a perfect combination of flavors and textures.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 tsp",
+      "notes": "dry mustard"
+    },
+    {
+      "name": "quick fix",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup",
+      "notes": "baking powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flaky, venezuelan, and mustardy.",
+    "Add quick fix and bake to the bowl and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until lightly browned.",
+    "Let cool on a wire rack for 5 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-good",
+    "latin-american",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-flaky-venezuelan-quick-fix-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:40:43.601Z"
+}
