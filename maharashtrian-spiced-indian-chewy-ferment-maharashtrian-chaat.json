@@ -1,0 +1,75 @@
+{
+  "slug": "maharashtrian-spiced-indian-chewy-ferment-maharashtrian-chaat",
+  "title": "Spiced Maharashtrian Chaat",
+  "description": "A flavorful street food inspired snack from the state of Maharashtra in India, with a twist of spices and crunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puffed Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chana Masala",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chaat Masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine puffed rice, chana masala, cucumber, tomato, and red onion.",
+    "Sprinkle chaat masala and lime juice over the top.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Optional: add a dollop of yogurt or sprinkle some sev for extra crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spiced",
+    "indian",
+    "chaat",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/maharashtrian-spiced-indian-chewy-ferment-maharashtrian-chaat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:48:52.259Z"
+}
