@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-fermented-russian-fish-poke",
+  "title": "Poke Bowl with Fermented Russian Dressing",
+  "description": "A twist on a classic poke bowl with a tangy fermented Russian dressing. This dish combines the freshness of sashimi-grade fish with the savory flavors of Eastern Europe.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi-grade tuna",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "fermented Russian dressing",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together fermented Russian dressing and sesame oil.",
+    "2. In a large bowl, combine mixed greens, pickled ginger, and sesame seeds.",
+    "3. Place sushi-grade tuna on top of the greens.",
+    "4. Drizzle fermented Russian dressing mixture over the tuna.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "poke",
+    "russian",
+    "fish",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-fermented-russian-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:39:47.189Z"
+}
