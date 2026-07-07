@@ -1,0 +1,65 @@
+{
+  "slug": "mushy-egyptian-shoyu-koji-toast",
+  "title": "Shoyu Toast",
+  "description": "A simple Japanese-inspired toast recipe using shoyu and koji.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Koji bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Shoyu",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Toast",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Mushy rice vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Egyptian garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grill the Koji bread until slightly toasted.",
+    "Spread 1 tablespoon of Shoyu on each slice of Koji bread.",
+    "Top with a slice of toast.",
+    "Drizzle 1 teaspoon of Mushy rice vinegar over the toast.",
+    "Sprinkle minced Egyptian garlic on top.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushy-egyptian-shoyu-koji-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:10:25.508Z"
+}
