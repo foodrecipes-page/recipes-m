@@ -1,0 +1,74 @@
+{
+  "slug": "marinado-freekeh-fiesta",
+  "title": "Spicy Freekeh Bowl with Fiesta Chicken",
+  "description": "A flavorful and nutritious bowl filled with spicy freekeh, grilled fiesta chicken, and a tangy marinade sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Marinado",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fiesta seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together marinade and fiesta seasoning.",
+    "3. Add chicken to the marinade mixture and coat evenly.",
+    "4. Grill chicken for 5-6 minutes per side or until it reaches an internal temperature of 165°F.",
+    "5. While chicken is grilling, heat olive oil in a large skillet over medium heat.",
+    "6. Add freekeh to the skillet and cook for 2-3 minutes or until lightly toasted.",
+    "7. Fluff freekeh with a fork and set aside.",
+    "8. Once chicken is cooked, let it rest for 5 minutes before slicing.",
+    "9. To assemble the bowls, divide the freekeh among six bowls.",
+    "10. Top each bowl with sliced chicken, a drizzle of marinade sauce, and a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "middle-eastern",
+    "grilled-chicken",
+    "freekeh-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinado-freekeh-fiesta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:33:19.468Z"
+}
