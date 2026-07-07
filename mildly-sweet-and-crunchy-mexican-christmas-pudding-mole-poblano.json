@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-sweet-and-crunchy-mexican-christmas-pudding-mole-poblano",
+  "title": "Poblano Pudding Mole",
+  "description": "A rich Mexican dessert made with poblano chilies, chocolate, and spices. This recipe is perfect for a Christmas gathering.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "poblano chilies",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 cup",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "mole powder",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast the poblano chilies in the oven for 20-25 minutes, or until charred.",
+    "Peel the skin off the chilies and chop them into small pieces.",
+    "In a medium saucepan, melt the chocolate over low heat.",
+    "In a large mixing bowl, whisk together the flour, sugar, and eggs.",
+    "Add the heavy cream, melted chocolate, and mole powder to the bowl and mix until smooth.",
+    "Add the chopped poblano chilies to the mixture and stir to combine.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Bake for 25-30 minutes, or until set.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "christmas",
+    "pudding",
+    "mole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-and-crunchy-mexican-christmas-pudding-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:59:47.805Z"
+}
