@@ -1,0 +1,96 @@
+{
+  "slug": "mustardy-korean-steak-bulgogi",
+  "title": "Korean-Style Steak with Bulgogi Sauce",
+  "description": "Marinate steak in a sweet and savory Korean-inspired bulgogi sauce, then grill to perfection. Serve with a side of spicy mustardy kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1.5 lbs",
+      "notes": "Slice into thin strips before serving"
+    },
+    {
+      "name": "Bulgogi Sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mustardy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional, for added spice"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "For marinade and brushing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, for marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated, for marinade"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tbsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, brown sugar, garlic, and ginger.",
+    "2. Add the sliced steak to the marinade, turning to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Remove the steak from the marinade, letting any excess liquid drip off.",
+    "5. Brush the grill with sesame oil to prevent sticking.",
+    "6. Grill the steak for 4-5 minutes per side, or until cooked to desired level of doneness.",
+    "7. Let the steak rest for 5 minutes before slicing into thin strips.",
+    "8. Meanwhile, mix together bulgogi sauce and mustardy sauce (if using).",
+    "9. Brush the sauce onto the grilled steak during the last minute of cooking.",
+    "10. Garnish with chopped green onions and toasted sesame seeds. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "steak",
+    "bulgogi",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-korean-steak-bulgogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:26:35.494Z"
+}
