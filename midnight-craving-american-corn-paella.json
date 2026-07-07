@@ -1,0 +1,87 @@
+{
+  "slug": "midnight-craving-american-corn-paella",
+  "title": "Midnight Corn Paella",
+  "description": "A twist on the classic Spanish dish, this midnight corn paella combines smoky corn with savory Spanish spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "vegetable broth for vegetarian option"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the corn kernels and sauté for 2-3 minutes, until slightly tender.",
+    "Add the arborio rice and stir to coat with the oil and mix with the corn.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the smoked paprika and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "paella",
+    "corn",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-american-corn-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:25:08.922Z"
+}
