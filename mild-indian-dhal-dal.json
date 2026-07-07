@@ -1,0 +1,83 @@
+{
+  "slug": "mild-indian-dhal-dal",
+  "title": "Spicy Indian Dhal",
+  "description": "A classic Indian dish made with lentils, onions, and spices. Serve over rice or with naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils (dhal)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Mild Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Add curry powder and cumin; cook for 1 minute.",
+    "Add lentils, water, and salt; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Stir in ghee or oil before serving.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "lentils",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-indian-dhal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:51:09.840Z"
+}
