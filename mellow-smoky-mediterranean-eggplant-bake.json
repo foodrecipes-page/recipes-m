@@ -1,0 +1,85 @@
+{
+  "slug": "mellow-smoky-mediterranean-eggplant-bake",
+  "title": "Baked Eggplant Parmesan",
+  "description": "A classic Italian dish made with eggplant, tomato sauce, and mozzarella cheese, perfect for a dinner or lunch option.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mellow",
+      "amount": "2 tbsp olive oil",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "1 cup tomato sauce",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup shredded mozzarella cheese",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the eggplant into 1/4-inch thick rounds.",
+    "3. In a shallow dish, mix together the olive oil, salt, and black pepper.",
+    "4. Dip each eggplant slice into the oil mixture, coating both sides.",
+    "5. Place the eggplant slices on a baking sheet lined with parchment paper.",
+    "6. Bake the eggplant for 20-25 minutes, or until tender and lightly browned.",
+    "7. While the eggplant is baking, heat the tomato sauce in a saucepan over medium heat.",
+    "8. Once the eggplant is done, remove it from the oven and let it cool for a few minutes.",
+    "9. Spoon some of the tomato sauce onto the bottom of a 9x13-inch baking dish.",
+    "10. Arrange a layer of eggplant slices on top of the sauce.",
+    "11. Sprinkle with mozzarella cheese and repeat the layers until all the ingredients are used up.",
+    "12. Top the final layer of eggplant with the remaining tomato sauce and mozzarella cheese.",
+    "13. Bake the lasagna in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "14. Remove the lasagna from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "vegetarian",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-mediterranean-eggplant-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:44:22.811Z"
+}
