@@ -1,0 +1,89 @@
+{
+  "slug": "mildly-spicy-egyptian-potato-bake",
+  "title": "Egyptian Spicy Potato Bake",
+  "description": "A flavorful and aromatic potato bake inspired by Egyptian cuisine, with a spicy kick. Perfect for a weeknight dinner.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "spicy tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel the potatoes and slice them into 1/2-inch thick rounds.",
+    "In a large bowl, combine the sliced potatoes, onion, garlic, cumin, coriander, salt, and black pepper. Toss to coat.",
+    "Transfer the potato mixture to a 9x13-inch baking dish.",
+    "Drizzle the spicy tomato sauce over the potatoes.",
+    "Dot the top of the potatoes with butter.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and golden brown.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "spicy",
+    "potato",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-egyptian-potato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:41:58.370Z"
+}
