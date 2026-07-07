@@ -1,0 +1,81 @@
+{
+  "slug": "mellow-cozy-korean-frozen-mix-wrap",
+  "title": "Korean Wrap",
+  "description": "A quick and easy Korean-inspired wrap recipe. Perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Frozen Shredded Beef",
+      "amount": "1/2 cup",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Mellow Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cozy Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mix Greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour wrap"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Add sesame oil and sauté the shredded beef until browned.",
+    "3. Add soy sauce, Korean chili flakes, and mellow sauce. Stir to combine.",
+    "4. Add the kimchi and mix well.",
+    "5. Warm the wrap in the pan for 30 seconds.",
+    "6. Add the mix greens, cozy lettuce, and beef mixture to the wrap.",
+    "7. Fold the wrap to enclose the filling.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "wrap",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-cozy-korean-frozen-mix-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:22:49.974Z"
+}
