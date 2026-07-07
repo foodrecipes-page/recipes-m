@@ -1,0 +1,65 @@
+{
+  "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich",
+  "title": "Smoked Salmon Tea Sandwich",
+  "description": "A delicate and elegant tea sandwich filled with smoked salmon, silky cream cheese, and a hint of mustardy flavor.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Silky Cream Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mustardy Chutney",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Afternoon Tea Bread",
+      "amount": "1 loaf",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, mix together smoked salmon, silky cream cheese, and mustardy chutney.",
+    "2. Spread a thin layer of the salmon mixture onto each slice of bread.",
+    "3. Top with a sprinkle of fresh dill.",
+    "4. Cut the sandwiches into quarters or halves, depending on preference.",
+    "5. Serve immediately and enjoy with a cup of tea!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tea-sandwich",
+    "smoked-salmon",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:01:14.445Z"
+}
