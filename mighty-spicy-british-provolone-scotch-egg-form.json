@@ -1,0 +1,58 @@
+{
+  "slug": "mighty-spicy-british-provolone-scotch-egg-form",
+  "title": "Scotch Egg British Bites",
+  "description": "A twist on the classic scotch egg recipe, with a spicy kick from the provolone cheese and a crunchy coating.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scotch Egg",
+      "amount": "4"
+    },
+    {
+      "name": "Provolone Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "British Form",
+      "amount": "1 cup, breadcrumbs"
+    },
+    {
+      "name": "Mighty Spicy Sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Wrap each scotch egg with a piece of British form, pressing gently to adhere.",
+    "Dip each coated scotch egg into the provolone cheese, pressing gently to adhere.",
+    "Place the coated scotch eggs on a baking sheet lined with parchment paper.",
+    "Drizzle the mighty spicy sauce over the top of each scotch egg.",
+    "Bake for 12-15 minutes, or until the cheese is melted and the breadcrumbs are golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "scotch-egg",
+    "british-food",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-spicy-british-provolone-scotch-egg-form",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:54:59.549Z"
+}
