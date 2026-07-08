@@ -2478,17 +2478,16 @@
   },
   {
     "slug": "malty-flaky-indian-lamb-korma",
-    "title": "Malty Flaky Indian Lamb Korma",
+    "title": "Lamb Korma Curry",
     "tags": [
-      "braise",
-      "comfort-food",
       "indian",
-      "korma",
+      "curry",
       "lamb",
+      "dinner",
       "weeknight"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 110,
     "shard": "m"
   },
   {
@@ -3394,17 +3393,16 @@
   },
   {
     "slug": "mantecare-mellowed-italian-egg-yolks-pizza",
-    "title": "Mantecare-mellowed Italian Egg Yolk Pizza",
+    "title": "Creamy Italian Pizza Frittata",
     "tags": [
-      "dinner",
-      "iron-teppan",
       "italian",
-      "mantecare",
-      "romantic",
-      "whole30"
+      "breakfast",
+      "frittata",
+      "pizza",
+      "creamy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -7623,16 +7621,15 @@
   },
   {
     "slug": "melted-milky-brazilian-chicken-stew",
-    "title": "Melted Milky Brazilian Chicken Stew",
+    "title": "Creamy Brazilian Chicken Stew",
     "tags": [
-      "brazilian-cuisine",
-      "brunch-ideas",
-      "claypot-cooking",
-      "jain-recipes",
-      "milk-chocolate-recipes"
+      "chicken",
+      "stew",
+      "lunch",
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -14057,17 +14054,16 @@
   },
   {
     "slug": "mildly-sweet-australian-vegetable-skewers",
-    "title": "Mildly Sweet Australian Vegetable Skewers",
+    "title": "Grilled Australian Vegetable Skewers",
     "tags": [
-      "australian-cuisine",
-      "easy-to-make",
-      "grilled-vegetables",
-      "healthy-snack",
-      "kid-friendly",
-      "plant-based"
+      "grilled",
+      "vegetarian",
+      "australian",
+      "skewers",
+      "easy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -14994,14 +14990,16 @@
   },
   {
     "slug": "miso-kick-zanzibari-mustardy-pesto",
-    "title": "Miso-Kick Zanzibari Mustardy Pesto",
+    "title": "Miso Pesto Zanzibari Noodles",
     "tags": [
-      "hangover-cure",
-      "low-glycemic-friendly",
-      "mason-jar"
+      "miso",
+      "pesto",
+      "zanzibari",
+      "noodles",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "m"
   },
   {
@@ -17402,17 +17400,15 @@
   },
   {
     "slug": "molten-yeasty-british-cabbage-pancake",
-    "title": "Molten Yeasty British Cabbage Pancake",
+    "title": "Cabbage Pancake",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan"
+      "breakfast",
+      "british",
+      "cabbage",
+      "pancake"
     ],
     "cuisine": "British",
-    "totalTimeMin": 23,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
