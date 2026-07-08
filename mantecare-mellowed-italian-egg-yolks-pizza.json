@@ -1,0 +1,77 @@
+{
+  "slug": "mantecare-mellowed-italian-egg-yolks-pizza",
+  "title": "Creamy Italian Pizza Frittata",
+  "description": "A creamy twist on the classic Italian pizza, this frittata combines the flavors of Italy with a rich and creamy filling.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mantecare",
+      "amount": "1 cup",
+      "notes": "Italian cream cheese"
+    },
+    {
+      "name": "Mellowed",
+      "amount": "1/2 cup",
+      "notes": "Garlic-infused oil"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried herbs"
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "4",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Pizza Dough (homemade or store-bought)",
+      "amount": "1 sheet",
+      "notes": "Pre-baked and cooled"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a greased 9-inch pie plate.",
+    "In a large bowl, beat the egg yolks and Italian seasoning until well combined.",
+    "Add the mantecare and mellowed to the egg yolks. Beat until smooth.",
+    "Pour the egg yolk mixture into the pie crust.",
+    "Bake for 20 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove from the oven and top with chopped fresh basil.",
+    "Return to the oven and bake for an additional 5 minutes.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "frittata",
+    "pizza",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mantecare-mellowed-italian-egg-yolks-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:37:03.069Z"
+}
