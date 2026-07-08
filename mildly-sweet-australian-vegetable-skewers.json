@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-sweet-australian-vegetable-skewers",
+  "title": "Grilled Australian Vegetable Skewers",
+  "description": "A simple and flavorful recipe featuring Australian vegetables grilled to perfection on skewers.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian sweet potato",
+      "amount": "1 large"
+    },
+    {
+      "name": "Mild red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Vegetable skewers (soy-marinated)",
+      "amount": "1 dozen"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Bell pepper (any color)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Mild Australian feta cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the vegetables and feta cheese onto the skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "australian",
+    "skewers",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-australian-vegetable-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:22:15.119Z"
+}
