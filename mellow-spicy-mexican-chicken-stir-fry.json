@@ -1,0 +1,91 @@
+{
+  "slug": "mellow-spicy-mexican-chicken-stir-fry",
+  "title": "Spicy Chicken Fajitas",
+  "description": "A flavorful and spicy chicken dish made with fajita-style stir-fry, served with a Mexican twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mellow chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "spicy stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mexican onions",
+      "amount": "1 large onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mexican bell peppers",
+      "amount": "2 large bell peppers",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mexican fajita seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onions and bell peppers to the skillet and cook until tender, about 3-5 minutes.",
+    "Add the stir-fry sauce to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the sauce and vegetables.",
+    "Season with fajita seasoning, salt, and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Serve with warm flour or corn tortillas, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "spicy",
+    "stir-fry",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spicy-mexican-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:05:35.770Z"
+}
