@@ -1,0 +1,93 @@
+{
+  "slug": "molten-croatian-lamb-tagine",
+  "title": "Braised Lamb Tagine",
+  "description": "A traditional North African dish, slow-cooked in a flavorful tagine with tender lamb and rich spices.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, bone-in",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large tagine or Dutch oven over medium heat. Brown the lamb in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the lamb from the pot and set aside. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic, paprika, cumin, coriander, salt, and black pepper to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back to the pot, along with the chicken broth. Bring to a boil, then cover the pot and transfer to the oven.",
+    "Braise the lamb in the preheated oven for 2 1/2 hours, or until the meat is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly. Serve the lamb hot, garnished with fresh herbs if desired.",
+    "Serve over couscous or with crusty bread to soak up the rich sauce.",
+    "Garnish with chopped fresh parsley, cilantro, or mint, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-croatian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:52:45.440Z"
+}
