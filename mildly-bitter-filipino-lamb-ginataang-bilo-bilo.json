@@ -1,0 +1,75 @@
+{
+  "slug": "mildly-bitter-filipino-lamb-ginataang-bilo-bilo",
+  "title": "Bilo-Bilo with Ginataang",
+  "description": "A traditional Filipino dessert made with rice cakes, coconut milk, and sweetened with sugar. This recipe combines the classic flavors with a refreshing twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bilo-Bilo (Rice Cakes)",
+      "amount": "250g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginataang (Coconut Cream)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mildly sweetened condensed milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bitter melon seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Food coloring (optional)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine water and sugar in a saucepan. Heat over medium heat, stirring until sugar dissolves.",
+    "Add coconut milk, ginataang, and sweetened condensed milk. Cook until mixture thickens.",
+    "Add rice cakes (bilo-bilo) to the saucepan. Cook for about 5 minutes or until they absorb the mixture.",
+    "Add bitter melon seeds and stir well. Cook for another minute.",
+    "Remove saucepan from heat. If desired, add a few drops of food coloring to tint the dessert.",
+    "Transfer the dessert to individual serving bowls or a large serving dish.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "coconut",
+    "rice-cakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 80,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-bitter-filipino-lamb-ginataang-bilo-bilo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:27:01.296Z"
+}
