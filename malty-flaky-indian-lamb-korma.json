@@ -1,0 +1,81 @@
+{
+  "slug": "malty-flaky-indian-lamb-korma",
+  "title": "Lamb Korma Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with lamb, spices, and creamy yogurt. Serve over basmati rice or with naan bread for a delicious and satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound boneless leg of lamb, cut into 1 1/2-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Malty Indian Basmati Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Flaky Korma Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add lamb and cook until browned on all sides, about 5 minutes.",
+    "3. Remove lamb from pot and set aside.",
+    "4. Add korma spice blend to pot and cook for 1 minute, stirring constantly.",
+    "5. Add yogurt, ginger, garlic, and lemon juice to pot. Stir to combine.",
+    "6. Return lamb to pot and bring to a simmer.",
+    "7. Reduce heat to medium-low and cook, covered, until lamb is tender, about 1 1/2 hours.",
+    "8. Serve lamb and sauce over basmati rice.",
+    "9. Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "lamb",
+    "dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-flaky-indian-lamb-korma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:42:24.092Z"
+}
