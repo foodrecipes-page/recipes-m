@@ -1,0 +1,81 @@
+{
+  "slug": "marinated-pungent-argentinian-tofu-empanadas",
+  "title": "Argentinian Tofu Empanadas",
+  "description": "A twist on traditional argentinian empanadas, filled with marinated tofu and served with a side of pungent chimichurri.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block, drained and crumbled",
+      "notes": "Marinated in a mixture of olive oil, garlic, and oregano"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package, thawed",
+      "notes": "Available at most grocery stores or made from scratch"
+    },
+    {
+      "name": "Marinara sauce",
+      "amount": "1/2 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pungent chimichurri",
+      "amount": "1/4 cup",
+      "notes": "For serving, made with oregano, parsley, garlic, red pepper flakes, red wine vinegar, and olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Used to season the filling and dough"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Used to season the filling and dough"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for brushing",
+      "notes": "Used to brush the empanadas before baking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the marinated tofu in the center of each dough circle.",
+    "Brush the edges of the dough with olive oil.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with olive oil.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve the empanadas with marinara sauce and pungent chimichurri."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-pungent-argentinian-tofu-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:59:22.088Z"
+}
