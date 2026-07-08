@@ -1,0 +1,67 @@
+{
+  "slug": "minty-crunchy-norwegian-khus-khus-bowl",
+  "title": "Norwegian Crunchy Minty Salad",
+  "description": "A refreshing salad with a crunchy twist, perfect for a light meal.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": "also known as poppy seeds"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crunchy vegetables like carrots or bell peppers"
+    },
+    {
+      "name": "minty",
+      "amount": "1/4 cup",
+      "notes": "fresh mint leaves"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/4 cup",
+      "notes": "pickled norwegian red onions"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large bowl for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine khus khus, crunchy vegetables, and fresh mint leaves.",
+    "Add pickled norwegian red onions on top.",
+    "Toss gently to combine.",
+    "Serve immediately and enjoy!",
+    "Optional: add a dollop of yogurt or a sprinkle of feta cheese for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "norwegian",
+    "crunchy",
+    "minty",
+    "light-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-crunchy-norwegian-khus-khus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:51:27.024Z"
+}
