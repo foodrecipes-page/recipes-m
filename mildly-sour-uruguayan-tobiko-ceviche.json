@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-sour-uruguayan-tobiko-ceviche",
+  "title": "Ceviche with Tobiko and Mild Uruguayan Cheese",
+  "description": "A refreshing Uruguayan-inspired ceviche dish featuring mildly flavored cheese and crunchy tobiko.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh White Fish",
+      "amount": "1 pound",
+      "notes": "such as halibut or sea bass"
+    },
+    {
+      "name": "Tobiko",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Mild Uruguayan Cheese",
+      "amount": "1/2 cup",
+      "notes": "such as 'queso fresco'"
+    },
+    {
+      "name": "Sour Ceviche Mix",
+      "amount": "1 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a large bowl.",
+    "Add the sour ceviche mix, lime juice, red onion, cilantro, salt, and pepper to the bowl with the fish.",
+    "Stir gently to combine and refrigerate for at least 30 minutes.",
+    "Just before serving, stir in the mildly flavored Uruguayan cheese.",
+    "Garnish with tobiko and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "ceviche",
+    "fish",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-uruguayan-tobiko-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:40:45.036Z"
+}
