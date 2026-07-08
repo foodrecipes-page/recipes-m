@@ -1,0 +1,67 @@
+{
+  "slug": "mildly-peppery-japanese-scotch-bonnet-mochi-dessert",
+  "title": "Mochi Scotch Bonnet Cookies",
+  "description": "Spicy and sweet cookies using mochi and scotch bonnet peppers for an interesting flavor combination.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mochi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, cream together coconut oil and sugar until light and fluffy.",
+    "Add finely chopped scotch bonnet peppers and mix until well combined.",
+    "Stir in vanilla extract and baking soda.",
+    "Gradually add in mochi, mixing until a dough forms.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, leaving 2 inches of space between each cookie.",
+    "Bake for 15-20 minutes or until lightly golden brown.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "mochi",
+    "scotch-bonnet",
+    "cookies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-japanese-scotch-bonnet-mochi-dessert",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:26:52.045Z"
+}
