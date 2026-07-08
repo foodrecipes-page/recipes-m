@@ -1,0 +1,61 @@
+{
+  "slug": "molten-copper-pot-tunisian-cheese-bake",
+  "title": "Copper Skillet Tunisian Cheese Bake",
+  "description": "A rich and savory dish featuring melted cheese baked to perfection in a copper skillet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "such as Bechamel or Gruyère"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "1 cup shredded",
+      "notes": "such as Mozzarella or Cheddar"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 tsp",
+      "notes": "optional, e.g. paprika or oregano"
+    },
+    {
+      "name": "Pot",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Place the Tunisian cheese in the copper skillet.",
+    "Sprinkle the molten cheese on top of the Tunisian cheese.",
+    "Add a pinch of bake, if desired.",
+    "Place the skillet in the oven and bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the cheese bake hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "mediterranean",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-copper-pot-tunisian-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:57:37.577Z"
+}
