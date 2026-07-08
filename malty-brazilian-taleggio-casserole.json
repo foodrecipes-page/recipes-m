@@ -1,0 +1,59 @@
+{
+  "slug": "malty-brazilian-taleggio-casserole",
+  "title": "Baked Brazilian Casserole",
+  "description": "A rich and creamy casserole featuring taleggio cheese, malty flavors, and a touch of brazillian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "malty milk",
+      "amount": "1L"
+    },
+    {
+      "name": "brazilian spices",
+      "amount": "2 tsp",
+      "notes": "cumin, coriander, and chili"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1",
+      "notes": "for baking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Combine taleggio cheese and malty milk in a bowl.",
+    "Add brazillian spices to the bowl and mix well.",
+    "Pour the mixture into a casserole dish.",
+    "Bake in the oven for 20-25 minutes.",
+    "Check if the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "comfort-food",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-brazilian-taleggio-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:58:51.488Z"
+}
