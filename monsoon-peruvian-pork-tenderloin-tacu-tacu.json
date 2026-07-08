@@ -1,0 +1,84 @@
+{
+  "slug": "monsoon-peruvian-pork-tenderloin-tacu-tacu",
+  "title": "Peruvian Grilled Pork Tenderloin",
+  "description": "A flavorful and tender Peruvian-style grilled pork tenderloin recipe. This dish is perfect for a summer evening dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 (1-1.5 pounds)",
+      "notes": "Fresh and of good quality"
+    },
+    {
+      "name": "Monsoon chili powder",
+      "amount": "2 tablespoons",
+      "notes": "Available at local spice stores or online"
+    },
+    {
+      "name": "Tacu",
+      "amount": "2 tablespoons",
+      "notes": "Peruvian seasoning mix available at local Latin American markets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and crushed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a small bowl, mix together Monsoon chili powder, Tacu, garlic, salt, and black pepper.",
+    "Rub the spice mixture all over the pork tenderloin, making sure to coat it evenly.",
+    "Drizzle olive oil over the pork tenderloin and rub it in to prevent sticking.",
+    "Grill the pork tenderloin for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Let the pork tenderloin rest for 5 minutes before slicing it thinly.",
+    "Serve with a squeeze of fresh lime juice and your choice of sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "peruvian",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-peruvian-pork-tenderloin-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:45:41.280Z"
+}
