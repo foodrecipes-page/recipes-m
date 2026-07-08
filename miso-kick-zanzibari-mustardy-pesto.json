@@ -1,0 +1,83 @@
+{
+  "slug": "miso-kick-zanzibari-mustardy-pesto",
+  "title": "Miso Pesto Zanzibari Noodles",
+  "description": "A flavorful and aromatic noodle dish combining the rich taste of miso with the herby flavors of pesto and the spice of zanzibari.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pesto",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Zanzibari peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": "cooked"
+    },
+    {
+      "name": "Mustardy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to package instructions.",
+    "In a pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the diced zanzibari peppers and cook for 2-3 minutes.",
+    "Add the miso paste and pesto, and stir to combine.",
+    "Add the cooked noodles to the pan, and toss to coat with the sauce.",
+    "If using, add the mustardy sauce and soy sauce, and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodles to a serving dish, and garnish with chopped green onions and chili flakes (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "miso",
+    "pesto",
+    "zanzibari",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-kick-zanzibari-mustardy-pesto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:35:49.890Z"
+}
