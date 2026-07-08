@@ -1,0 +1,105 @@
+{
+  "slug": "midnight-roasted-portuguese-almonds-stew",
+  "title": "Midnight Stew",
+  "description": "A hearty stew made with roasted beef and portuguese sausage, served with toasted almonds.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (2 lbs)",
+      "amount": "2 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Portuguese sausage (1 lb)",
+      "amount": "1 lb",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion (2)",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red wine (1 cup)",
+      "amount": "1 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Beef broth (2 cups)",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tomato paste (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Concentrated tomato paste"
+    },
+    {
+      "name": "Dried oregano (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Dried oregano"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Almonds (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "Sliced and toasted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil if necessary and cook the Portuguese sausage until browned, about 3-4 minutes.",
+    "Remove the sausage and set aside with the beef.",
+    "Reduce the heat to medium and cook the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the red wine, beef broth, tomato paste, and dried oregano.",
+    "Stir to combine and bring to a boil.",
+    "Return the browned beef and sausage to the pot.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with toasted almonds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "portuguese",
+    "stew",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-roasted-portuguese-almonds-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:19:24.365Z"
+}
