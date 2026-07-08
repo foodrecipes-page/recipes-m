@@ -1,0 +1,99 @@
+{
+  "slug": "mildly-spicy-indian-rice-pilaf",
+  "title": "Saffron Pilaf with Spicy Chicken",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring chicken cooked in a spicy tomato sauce and served over a bed of saffron-infused pilaf.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the garam masala, cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add the tomato sauce and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the chicken is cooked through, about 10 minutes.",
+    "Meanwhile, prepare the pilaf by heating 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add the Basmati rice and cook, stirring constantly, until the rice is lightly toasted, about 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and cook until the water is absorbed and the rice is tender, about 15 minutes.",
+    "Add the saffron threads to the cooked rice and stir to combine.",
+    "To serve, place the chicken and sauce over the pilaf and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "pilaf",
+    "saffron"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-indian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:02:26.110Z"
+}
