@@ -1,0 +1,87 @@
+{
+  "slug": "molten-peruvian-monkfish-ceviche",
+  "title": "Peruvian Monkfish Ceviche",
+  "description": "A refreshing Peruvian-inspired dish made with succulent monkfish, marinated in a zesty mixture of citrus juices and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monkfish",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1, diced",
+      "notes": "Mildly spicy"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": "Red onion adds a sweet and crunchy texture"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Fresh and fragrant"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Mince for maximum flavor"
+    }
+  ],
+  "instructions": [
+    "Cut the monkfish into small pieces and place in a large bowl.",
+    "In a separate bowl, mix together lime juice, lemon juice, aji amarillo pepper, red onion, cilantro, salt, and black pepper. Pour the marinade over the monkfish and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the minced garlic.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "peruvian",
+    "monkfish",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-peruvian-monkfish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:06:41.255Z"
+}
