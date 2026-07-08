@@ -1,0 +1,94 @@
+{
+  "slug": "mildly-sweet-saudi-arabian-pasta-pilaf",
+  "title": "Saudi Arabian Pasta Pilaf",
+  "description": "A flavorful and aromatic dish that combines the best of Saudi Arabian cuisine with Italian pasta. Perfect for a weeknight dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "Your choice of pasta shape"
+    },
+    {
+      "name": "mildly sweet pilaf",
+      "amount": "120g",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "arabian rice",
+      "amount": "60g",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the cumin and coriander, and cook for 1 minute, until fragrant.",
+    "Add the cooked pilaf and stir to combine with the onion mixture.",
+    "Add the cooked pasta to the skillet and toss to combine with the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "pasta",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-saudi-arabian-pasta-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:10:34.293Z"
+}
