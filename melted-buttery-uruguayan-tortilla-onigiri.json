@@ -1,0 +1,61 @@
+{
+  "slug": "melted-buttery-uruguayan-tortilla-onigiri",
+  "title": "Uruguayan Tortilla Hash",
+  "description": "A simple and delicious breakfast recipe combining the flavors of Uruguay with a twist on traditional tortilla hash.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tortilla",
+      "amount": "4-6",
+      "notes": "preferably day-old tortilla"
+    },
+    {
+      "name": "Buttery Melted Cheese",
+      "amount": "1 cup",
+      "notes": "shredded or sliced cheese"
+    },
+    {
+      "name": "Uruguayan Onigiri",
+      "amount": "4-6",
+      "notes": "or any other type of Japanese-style rice ball"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 375°F (190°C).",
+    "2. Cut the tortillas into 1-inch (2.5 cm) cubes and place them on a baking sheet.",
+    "3. Drizzle the tortilla cubes with a little bit of oil and toss to coat.",
+    "4. Bake the tortilla cubes in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "5. While the tortilla cubes are baking, slice the melted cheese into thin strips.",
+    "6. Once the tortilla cubes are done, remove them from the oven and let them cool slightly.",
+    "7. In a large skillet, melt a tablespoon of butter over medium heat.",
+    "8. Add the sliced melted cheese to the skillet and cook for 2-3 minutes, or until it starts to melt and bubble.",
+    "9. Add the baked tortilla cubes to the skillet and stir to combine with the melted cheese.",
+    "10. Serve the tortilla hash hot, topped with sliced Uruguayan onigiri."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "uruguayan",
+    "tortilla",
+    "hash",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-buttery-uruguayan-tortilla-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:46:14.076Z"
+}
