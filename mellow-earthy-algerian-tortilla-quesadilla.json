@@ -1,0 +1,84 @@
+{
+  "slug": "mellow-earthy-algerian-tortilla-quesadilla",
+  "title": "Algerian Mellow Tortilla Wrap",
+  "description": "A flavorful vegetarian wrap filled with mellow earthy goodness, inspired by Algerian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian tortilla",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Mellow earthy filling",
+      "amount": "1/2 cup",
+      "notes": "roasted vegetables, hummus"
+    },
+    {
+      "name": "Quesadilla cheese",
+      "amount": "1/4 cup",
+      "notes": "optional, shredded or crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing tortilla"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 tsp",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a dry skillet or griddle over medium heat.",
+    "2. Brush the Algerian tortilla with olive oil and cook for 1-2 minutes, until lightly browned.",
+    "3. Flip the tortilla and cook for another minute.",
+    "4. Spread the mellow earthy filling down the center of the tortilla.",
+    "5. Sprinkle the quesadilla cheese on top of the filling, if using.",
+    "6. Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "7. Cook the wrap for another 2-3 minutes, until the tortilla is crispy and the filling is heated through.",
+    "8. Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "easy",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-earthy-algerian-tortilla-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:32:20.779Z"
+}
