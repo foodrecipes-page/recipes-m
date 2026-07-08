@@ -1,0 +1,85 @@
+{
+  "slug": "moist-crumbly-thai-red-snapper-curry",
+  "title": "Thai Red Curry Fish",
+  "description": "A spicy Thai-inspired dish featuring snapper in a flavorful red curry sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai Red Chili",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season snapper fillets with salt and pepper.",
+    "Heat coconut oil in a skillet over medium-high heat.",
+    "Sear snapper fillets for 2-3 minutes per side, then transfer to a baking sheet.",
+    "In the same skillet, add red curry paste and sauté for 1-2 minutes.",
+    "Add lime juice, fish sauce, and Thai basil to the skillet. Stir to combine.",
+    "Add sliced red bell pepper and Thai red chili to the skillet. Cook for an additional 2-3 minutes.",
+    "Place the skillet with the sauce over the snapper fillets in the oven.",
+    "Bake for 8-10 minutes or until the fish is cooked through.",
+    "Serve immediately and garnish with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "curry",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-crumbly-thai-red-snapper-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:43:45.190Z"
+}
