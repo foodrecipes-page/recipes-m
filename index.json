@@ -3380,15 +3380,14 @@
   },
   {
     "slug": "mango-zest-quencher",
-    "title": "Mango Zest Quencher",
+    "title": "Mango Quencher Sorbet",
     "tags": [
+      "sorbet",
       "mango",
-      "watermelon",
-      "vegetarian-friendly",
-      "quick-fix"
+      "dessert"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 5,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -15700,17 +15699,15 @@
   },
   {
     "slug": "moist-springy-uruguayan-baguette-sandwich",
-    "title": "Moist Springy Uruguayan Baguette Sandwich",
+    "title": "Uruguayan Sandwich",
     "tags": [
-      "quick-lunch",
-      "shojin-friendly",
-      "sous-vide",
-      "spring-inspired",
-      "uruguayan-cuisine",
-      "vegetarian"
+      "uruguayan",
+      "sandwich",
+      "chorizo",
+      "cheese"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -16852,16 +16849,16 @@
   },
   {
     "slug": "molten-peruvian-monkfish-ceviche",
-    "title": "Molten Peruvian Monkfish Ceviche",
+    "title": "Peruvian Monkfish Ceviche",
     "tags": [
       "ceviche",
-      "keto",
       "peruvian",
-      "pescatarian",
-      "seafood"
+      "monkfish",
+      "seafood",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -17960,16 +17957,15 @@
   },
   {
     "slug": "moroccan-moroccan-couscous-couscous-royal",
-    "title": "Moroccan Couscous Couscous-Royal",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "gluten-free",
       "moroccan",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "couscous",
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
