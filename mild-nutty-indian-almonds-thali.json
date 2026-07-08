@@ -1,0 +1,80 @@
+{
+  "slug": "mild-nutty-indian-almonds-thali",
+  "title": "Indian Almond Thali",
+  "description": "A mild and nutty Indian-inspired dish made with almonds and served as a thali. This recipe is perfect for a light and satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice and soak it in water for 30 minutes. Drain and set aside.",
+    "Heat ghee in a pan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
+    "Add coriander powder, turmeric powder, and salt. Mix well.",
+    "Add the soaked rice to the pan and mix well with the spice mixture.",
+    "Add water to the pan and bring to a boil. Reduce heat to low and cover the pan.",
+    "Simmer for 15-20 minutes or until the rice is cooked and fluffy.",
+    "Meanwhile, toast the almonds in a pan over medium heat until fragrant.",
+    "Serve the basmati rice with toasted almonds on top.",
+    "Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-nutty-indian-almonds-thali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:22:44.997Z"
+}
