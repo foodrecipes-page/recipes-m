@@ -1,0 +1,67 @@
+{
+  "slug": "moist-springy-uruguayan-baguette-sandwich",
+  "title": "Uruguayan Sandwich",
+  "description": "A classic Uruguayan sandwich made with springy chorizo and served on a crusty baguette.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Springy Chorizo",
+      "amount": "8 oz",
+      "notes": "Uruguayan chorizo"
+    },
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "Crusty baguette"
+    },
+    {
+      "name": "Moist Cheddar Cheese",
+      "amount": "4 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the baguette in half lengthwise and place on a baking sheet.",
+    "Slice the chorizo into 1/2-inch thick rounds.",
+    "Place the chorizo slices on top of the baguette, leaving a 1/2-inch border around the edges.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped cilantro, if using.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "sandwich",
+    "chorizo",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-springy-uruguayan-baguette-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:41:39.108Z"
+}
