@@ -1,0 +1,71 @@
+{
+  "slug": "mild-garlicky-thai-fermented-black-beans-khao-soi",
+  "title": "Thai Black Bean Fermented Curry",
+  "description": "A flavorful and spicy fermented black bean curry dish inspired by Thai cuisine, featuring a rich and savory sauce made with fermented black beans.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mild Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlicky Thai soi sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented black beans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "khao rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "black bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add soi sauce and stir for 1 minute.",
+    "Add fermented black beans, black bean paste, and 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer for 10-15 minutes.",
+    "Stir in 2 cups of day-old rice and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped fresh herbs, if desired.",
+    "Serve with steamed vegetables or a side of pickled slaw."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "fermented",
+    "blackbeans",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-garlicky-thai-fermented-black-beans-khao-soi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:45:23.705Z"
+}
