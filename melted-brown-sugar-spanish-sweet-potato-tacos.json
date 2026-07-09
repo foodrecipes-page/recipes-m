@@ -1,0 +1,71 @@
+{
+  "slug": "melted-brown-sugar-spanish-sweet-potato-tacos",
+  "title": "Spanish Sweet Potato Tacos",
+  "description": "A delicious and easy-to-make vegan taco recipe with roasted sweet potatoes and a hint of Spanish flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Melted sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Spanish",
+      "amount": "null",
+      "notes": "This refers to the Spanish seasonings, such as cumin and chili powder."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tacos",
+      "amount": "4-6",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel the sweet potatoes and cut them into 1-inch cubes.",
+    "Place the sweet potatoes in a bowl and drizzle with melted sugar.",
+    "Sprinkle the Spanish seasonings over the sweet potatoes and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Transfer the sweet potatoes to a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Warm the tacos according to the package instructions.",
+    "Assemble the tacos by placing the roasted sweet potatoes in the taco shells.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato",
+    "tacos",
+    "spanish-food",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-brown-sugar-spanish-sweet-potato-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:21:30.500Z"
+}
