@@ -1,0 +1,85 @@
+{
+  "slug": "mildly-yeasty-ukrainian-dough-dumplings",
+  "title": "Traditional Ukrainian Dumplings",
+  "description": "A hearty and flavorful Ukrainian-inspired dish featuring mildly yeasty dumplings filled with a savory mixture of dough and served with a side of tangy accompaniments.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "mildly active"
+    },
+    {
+      "name": "dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 egg",
+      "notes": "beaten"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water, yeast, and a pinch of sugar. Let the mixture sit for 5 minutes until frothy.",
+    "Add the all-purpose flour, salt, and vegetable oil to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour until doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough on a floured surface to a thickness of 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of dough in the center of each circle. Fold the dough over to form a half-circle and press the edges together to seal.",
+    "Brush the tops of the dumplings with beaten egg and sprinkle with grated cheese.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Bake the dumplings for 20-25 minutes until golden brown.",
+    "Serve the dumplings hot with a side of chopped fresh dill and a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-yeasty-ukrainian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:25:08.931Z"
+}
