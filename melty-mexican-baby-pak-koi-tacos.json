@@ -1,0 +1,66 @@
+{
+  "slug": "melty-mexican-baby-pak-koi-tacos",
+  "title": "Pak Tacos",
+  "description": "A flavorful and spicy Pak-inspired taco recipe. Serve with your favorite toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pak",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Melty",
+      "amount": "1 cup shredded",
+      "notes": "any melty cheese works well"
+    },
+    {
+      "name": "Mexican Taco Seasoning",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "Baby Lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium-high heat.",
+    "Add the Pak and cook until tender, about 5 minutes.",
+    "Add the Mexican Taco Seasoning and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the Pak mixture onto a tortilla and topping with melty cheese and baby lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pak",
+    "tacos",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-mexican-baby-pak-koi-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:29:17.997Z"
+}
