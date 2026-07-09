@@ -2019,16 +2019,14 @@
   },
   {
     "slug": "malty-chewy-ukrainian-dough-bread",
-    "title": "Malty Chewy Ukrainian Dough Bread",
+    "title": "Classic Ukrainian Bread",
     "tags": [
+      "ukrainian",
       "bread",
-      "gluten-free",
-      "high-fiber",
-      "kosher",
-      "ukrainian"
+      "homemade"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 65,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -6651,17 +6649,15 @@
   },
   {
     "slug": "mellow-velvety-egyptian-tomato-tagine",
-    "title": "Mellow Velvety Egyptian Tomato Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "macrobiotic",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "slow-cooked",
-      "vegetarian"
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 140,
     "shard": "m"
   },
   {
@@ -14772,16 +14768,16 @@
   },
   {
     "slug": "minty-greek-chicken-skewers",
-    "title": "Minty Greek Chicken Skewers",
+    "title": "Greek Chicken Skewers with Minty Sauce",
     "tags": [
       "greek",
-      "kid-friendly",
-      "low-glycemic",
-      "quick",
-      "souvlaki"
+      "chicken",
+      "skewers",
+      "summer",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
