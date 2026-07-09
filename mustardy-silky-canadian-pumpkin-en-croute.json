@@ -1,0 +1,71 @@
+{
+  "slug": "mustardy-silky-canadian-pumpkin-en-croute",
+  "title": "Roasted Pumpkin with Mustardy Croute",
+  "description": "A simple, delicious side dish that pairs perfectly with a hearty fall meal. The mustardy croute elevates the dish to a whole new level of flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tbsp",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "crouate bread",
+      "amount": "1/2 loaf",
+      "notes": "about 4 cups torn into small pieces"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 tsp",
+      "notes": "dried sage"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the pumpkin into 1-inch pieces.",
+    "In a large bowl, toss the pumpkin with the silky, mustardy, and canadian until well coated.",
+    "Transfer the pumpkin to a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Meanwhile, toss the crouate bread with a bit of oil and spread on a baking sheet.",
+    "Bake the croute in the oven for 5-7 minutes, or until crispy.",
+    "Remove the pumpkin from the oven and toss with the croute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Optional: drizzle with additional mustardy before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "side",
+    "fall",
+    "roasted",
+    "pumpkin",
+    "croute"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "9g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-silky-canadian-pumpkin-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T05:53:05.711Z"
+}
