@@ -1,0 +1,78 @@
+{
+  "slug": "magnificently-caramelized-vietnamese-fish-wrap",
+  "title": "Grilled Fish Wrap",
+  "description": "A delicious and healthy wrap filled with grilled fish, crunchy vegetables, and flavorful Vietnamese herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (any white fish)",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Vietnamese rice paper wraps",
+      "amount": "2"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish fillet with salt and pepper.",
+    "Grill the fish for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, toast the rice paper wraps on the grill for 1-2 minutes.",
+    "Assemble the wrap by placing the grilled fish in the center, followed by caramelized onions, cilantro leaves, crushed peanuts, and a squeeze of lime juice.",
+    "Dip the wrap in Sriracha sauce and serve immediately.",
+    "Repeat with the remaining ingredients.",
+    "Serve with additional lime wedges and Sriracha sauce on the side.",
+    "Cut the wrap into halves or quarters, depending on serving size.",
+    "Garnish with additional cilantro leaves and peanuts, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "wrap",
+    "vietnamese",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-caramelized-vietnamese-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:20:13.973Z"
+}
