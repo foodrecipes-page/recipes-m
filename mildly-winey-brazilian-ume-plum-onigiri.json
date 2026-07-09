@@ -1,0 +1,95 @@
+{
+  "slug": "mildly-winey-brazilian-ume-plum-onigiri",
+  "title": "Braised Short Ribs with Plum Wine Sauce",
+  "description": "A rich and flavorful dish inspired by Japanese and Brazilian flavors, featuring tender short ribs in a sweet and savory plum wine sauce.",
+  "cuisine": "Japanese-Brazilian fusion",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short ribs",
+      "amount": "1.5 pounds",
+      "notes": "preferably beef short ribs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "plum wine",
+      "amount": "1 cup",
+      "notes": "Japanese plum wine or substitute with dry sherry"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use gluten-free soy sauce if necessary"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "onigiri rice",
+      "amount": "2 cups",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "mildly sweet chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "umi plum paste",
+      "amount": "2 tablespoons",
+      "notes": "substitute with plum jam if necessary"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season short ribs with salt and pepper. Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear short ribs until browned on all sides, about 5 minutes per side. Remove ribs and set aside.",
+    "Add sliced onion to the pot and cook until caramelized, about 10 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Pour in plum wine, soy sauce, sugar, and chili flakes (if using). Stir to combine and bring to a simmer.",
+    "Return short ribs to the pot and cover with a lid.",
+    "Transfer pot to the preheated oven and braise for 2.5 hours, or until meat is tender.",
+    "While ribs are braising, cook onigiri rice according to package instructions.",
+    "In a small saucepan, whisk together plum paste and 2 tablespoons of water. Bring to a simmer over medium heat.",
+    "Strain sauce through a fine-mesh sieve and discard solids.",
+    "Serve short ribs with cooked rice and plum wine sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "japanese",
+    "brazilian",
+    "short-ribs",
+    "plum-wine",
+    "onigiri",
+    "umeboshi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-winey-brazilian-ume-plum-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:33:21.833Z"
+}
