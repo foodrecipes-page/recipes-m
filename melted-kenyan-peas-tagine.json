@@ -1,0 +1,59 @@
+{
+  "slug": "melted-kenyan-peas-tagine",
+  "title": "Kenyan Melted Pea Stew",
+  "description": "A flavorful and aromatic stew made with Kenyan spices, peas, and melted cheese, perfect for a cold winter night.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "melted cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "2 tsp",
+      "notes": "Use a combination of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "peas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp",
+      "notes": "Use the oil from the tagine for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine oil in a large pan over medium heat.",
+    "Add the Kenyan spices and cook for 1 minute, stirring constantly.",
+    "Add the peas and cook for 3-4 minutes, or until they start to soften.",
+    "Stir in the melted cheese until melted and heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "kenyan",
+    "peas",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-kenyan-peas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:22:49.216Z"
+}
