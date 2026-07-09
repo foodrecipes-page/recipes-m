@@ -1,0 +1,64 @@
+{
+  "slug": "melted-savory-american-cheese-sandwich",
+  "title": "American Cheese Melt",
+  "description": "A classic comfort food sandwich featuring melted american cheese and a range of savory flavors.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "American Cheese Slices",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Savory Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Butter one side of each bread slice.",
+    "3. Place one bread slice, buttered side down, in the skillet.",
+    "4. Place one or two slices of cheese on top of the bread in the skillet.",
+    "5. Place the second bread slice, buttered side up, on top of the cheese.",
+    "6. Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "7. Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "8. Remove the sandwich from the skillet and let it cool for a minute or two.",
+    "9. Serve immediately and enjoy!",
+    "10. Repeat with remaining ingredients for additional sandwiches."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "cheese",
+    "sandwich",
+    "melted",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-savory-american-cheese-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:12:36.226Z"
+}
