@@ -1,0 +1,94 @@
+{
+  "slug": "minty-greek-chicken-skewers",
+  "title": "Greek Chicken Skewers with Minty Sauce",
+  "description": "Grilled chicken skewers served with a refreshing minty sauce, perfect for a light summer meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, mint, lemon juice, garlic, salt, pepper, and paprika.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Heat grill to medium-high heat. Grill skewers for 8-10 minutes, turning occasionally.",
+    "While skewers are cooking, serve yogurt-mint sauce on the side for dipping.",
+    "Serve skewers hot with yogurt-mint sauce.",
+    "Garnish with additional mint leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "chicken",
+    "skewers",
+    "summer",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-greek-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:47:14.660Z"
+}
