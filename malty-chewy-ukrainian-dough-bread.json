@@ -1,0 +1,69 @@
+{
+  "slug": "malty-chewy-ukrainian-dough-bread",
+  "title": "Classic Ukrainian Bread",
+  "description": "A simple recipe for a traditional Ukrainian bread, perfect for serving with soups or stews.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "bread",
+  "ingredients": [
+    {
+      "name": "malty",
+      "amount": "1 cup",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "chewy",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1/2 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "dough",
+      "amount": "1/4 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "bread",
+      "amount": "1/4 teaspoon",
+      "notes": "salt"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and warm water.",
+    "2. Let the mixture sit for 5-10 minutes, until it becomes frothy.",
+    "3. Add flour, sugar, and salt to the bowl. Mix until a dough forms.",
+    "4. Knead the dough for 10-15 minutes, until it becomes smooth and elastic.",
+    "5. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "6. Preheat the oven to 375°F (190°C).",
+    "7. Punch down the dough and shape it into a round or oblong loaf.",
+    "8. Place the loaf on a baking sheet lined with parchment paper.",
+    "9. Bake for 35-40 minutes, until the bread is golden brown and sounds hollow when tapped on the bottom.",
+    "10. Let the bread cool on a wire rack for 10-15 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "bread",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-chewy-ukrainian-dough-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:57:36.452Z"
+}
