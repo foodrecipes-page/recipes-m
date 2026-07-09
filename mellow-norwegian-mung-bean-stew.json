@@ -1,0 +1,75 @@
+{
+  "slug": "mellow-norwegian-mung-bean-stew",
+  "title": "Hearty Mung Bean Stew",
+  "description": "A comforting and nutritious stew made with mung beans and Norwegian mellow flavor, perfect for a chilly evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup dried",
+      "notes": "Rinse and soak overnight"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 tablespoons",
+      "notes": "Norwegian mellow, such as mellow mustard"
+    },
+    {
+      "name": "norwegian krumkaker",
+      "amount": "2 cups, crushed",
+      "notes": "Optional, for added texture"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, diced vegetables",
+      "notes": "Choose your favorite vegetables such as carrots, potatoes, and onions"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the mellow in a large pot over medium heat.",
+    "Add the crushed krumkaker and cook for 2-3 minutes, stirring frequently.",
+    "Add the mung beans, stew, water, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 30-40 minutes, or until the mung beans are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mung-beans",
+    "norwegian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-norwegian-mung-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:12:38.347Z"
+}
