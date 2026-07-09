@@ -1,0 +1,91 @@
+{
+  "slug": "mildly-springy-irish-lamb-stew",
+  "title": "Irish Spring Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb, spring vegetables, and a hint of Irish flair.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Spring peas",
+      "amount": "1 cup frozen",
+      "notes": ""
+    },
+    {
+      "name": "Mild Guinness stout",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spring water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and pepper.",
+    "Heat the butter in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove the lamb and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the Guinness stout and spring water to the pot, stirring to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Add the spring peas to the pot and cook for an additional 10 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-springy-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:35:29.635Z"
+}
