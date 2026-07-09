@@ -1,0 +1,86 @@
+{
+  "slug": "mouthwatering-smoky-korean-green-pepper-tang",
+  "title": "Korean BBQ Beef Tacos",
+  "description": "A fusion twist on traditional tacos, featuring marinated Korean BBQ beef, crunchy green slaw, and a spicy kick.",
+  "cuisine": "korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian diet optional"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or low-sodium alternative"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Green Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, brown sugar, Korean chili flakes, and lime juice. Add sliced flank steak and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Remove steak from marinade and cook for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "In a separate bowl, combine shredded cabbage, grated carrots, and chopped cilantro.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by slicing cooked steak against the grain, then topping with slaw and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "tacos",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-smoky-korean-green-pepper-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T05:45:12.036Z"
+}
