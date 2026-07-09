@@ -1,0 +1,79 @@
+{
+  "slug": "mellow-velvety-egyptian-tomato-tagine",
+  "title": "Lamb Tagine",
+  "description": "A flavorful and aromatic North African stew made with lamb, tomato, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egyptian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Mellow onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Velvety olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until golden brown.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the chopped tomato, Egyptian spice blend, and salt.",
+    "Pour in the water and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-velvety-egyptian-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:19:42.838Z"
+}
