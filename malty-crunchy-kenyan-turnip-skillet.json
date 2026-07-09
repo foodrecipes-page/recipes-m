@@ -1,0 +1,63 @@
+{
+  "slug": "malty-crunchy-kenyan-turnip-skillet",
+  "title": "Pan-Seared Turnip with Crunchy Topping",
+  "description": "A simple yet flavorful side dish that showcases the sweetness of turnip paired with a crunchy topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Peel and slice the turnip into 1/4-inch thick rounds.",
+    "Season the turnip with salt and pepper.",
+    "Add 1 tablespoon of malty to the skillet and swirl to coat.",
+    "Add the turnip slices to the skillet and cook for 3-4 minutes per side, or until tender.",
+    "While the turnip is cooking, mix the remaining 1 tablespoon of malty with the crunchy in a small bowl.",
+    "Once the turnip is done, transfer it to a plate and top with the crunchy mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "side-dish",
+    "turnip",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-kenyan-turnip-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:37:14.852Z"
+}
