@@ -1,0 +1,98 @@
+{
+  "slug": "midnight-craving-venezuelan-tamarind-asado",
+  "title": "Venezuelan Midnight Asado",
+  "description": "A classic Venezuelan dish, Asado is typically served at midnight, fueled by tamarind and a variety of meats. This recipe brings the bold flavors of Venezuela to your dinner table.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 kg",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "diluted with 2 tbsp water"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix tamarind paste with water and set aside.",
+    "In a large bowl, whisk together cumin, coriander, garlic, salt, and black pepper.",
+    "Add the pork shoulder to the marinade and coat evenly.",
+    "Let the pork marinate for at least 30 minutes.",
+    "Grill the pork for 5-7 minutes on each side, or until it reaches an internal temperature of 63°C for medium-rare.",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes.",
+    "Slice the pork into thin strips.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red onion and cook for 3-4 minutes, or until it's lightly caramelized.",
+    "Add the cooked pork to the skillet and toss with the onion and tamarind sauce.",
+    "Serve the Asado hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "asado",
+    "midnight",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-venezuelan-tamarind-asado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:55:53.990Z"
+}
