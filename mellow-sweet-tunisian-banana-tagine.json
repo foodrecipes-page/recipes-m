@@ -1,0 +1,62 @@
+{
+  "slug": "mellow-sweet-tunisian-banana-tagine",
+  "title": "Sweet Tunisian Banana Tagine",
+  "description": "A traditional Tunisian dessert made with ripe bananas, sweet tagine, and a hint of mellow spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "sweet tagine",
+      "amount": "2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "mellow",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the bananas and slice them into 1-inch pieces.",
+    "In a large bowl, mix together the sliced bananas, sweet tagine, and mellow.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Add the water to the baking dish and stir to combine.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the bananas are tender and the tagine is caramelized.",
+    "Serve warm, garnished with a sprinkle of mellow if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "tunisian",
+    "banana"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 1,
+    "carbs": 45,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-sweet-tunisian-banana-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:28:30.818Z"
+}
