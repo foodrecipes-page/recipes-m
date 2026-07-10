@@ -1,0 +1,86 @@
+{
+  "slug": "mediterranean-friendly-norwegian-chocolate-cake",
+  "title": "Norwegian Fjord Fish Stew",
+  "description": "A hearty and flavorful stew originating from the fjords of Norway, perfect for a cold winter's night.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "fresh and of good quality"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add potatoes and carrots, cook for another 5 minutes.",
+    "Add fennel and cook for 2 minutes.",
+    "Add fish and cook for 2-3 minutes on each side.",
+    "Pour in white wine and bring to a simmer.",
+    "Add fish stock and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "fish",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mediterranean-friendly-norwegian-chocolate-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:11:16.028Z"
+}
