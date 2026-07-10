@@ -1,0 +1,71 @@
+{
+  "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot",
+  "title": "Dutch Stamppot with Bacon and Sauerkraut",
+  "description": "A hearty Dutch dish made with potatoes, kale, bacon, and sour sauerkraut. This recipe is perfect for a cold winter evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "preferably thick-cut bacon"
+    },
+    {
+      "name": "sour sauerkraut",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sour",
+      "amount": "2 tbsp",
+      "notes": "apple cider vinegar"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until tender.",
+    "Steam the kale until wilted.",
+    "Cook the lardons in a pan until crispy.",
+    "Add the sour sauerkraut to the pan with the lardons and stir to combine.",
+    "Mash the cooked potatoes with butter and milk.",
+    "Combine the steamed kale and mashed potatoes in a bowl.",
+    "Add the pan with the lardons and sauerkraut on top of the potatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "stamppot",
+    "bacon",
+    "kale",
+    "sauerkraut",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-sour-dutch-soy-sauce-lardons-stamppot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:47:29.542Z"
+}
