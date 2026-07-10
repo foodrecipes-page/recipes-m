@@ -1,0 +1,87 @@
+{
+  "slug": "midnight-creamy-brazilian-doenjang-gratin",
+  "title": "Brazilian Midnight Gratin",
+  "description": "A creamy Brazilian-inspired gratin dish, perfect for a cold evening.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Midnight potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Creamy bechamel sauce",
+      "amount": "1 1/2 cups",
+      "notes": "see notes"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Brazilian sausage",
+      "amount": "1 pound",
+      "notes": "sliced and browned"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Doenjang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "Gratin cheese blend",
+      "amount": "1 cup",
+      "notes": "a mix of cheddar and Parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, make the creamy bechamel sauce by melting 2 tablespoons of butter over medium heat.",
+    "Add 1/2 cup of all-purpose flour and whisk to combine. Cook for 1-2 minutes.",
+    "Slowly pour in 1 1/2 cups of heavy cream, whisking constantly. Bring to a simmer and cook until thickened.",
+    "Stir in 1/2 cup of grated Parmesan cheese and season with salt and pepper.",
+    "In a separate pan, brown the sliced Brazilian sausage over medium-high heat.",
+    "Add the chopped onions and minced garlic to the pan and cook until softened.",
+    "In a greased 9x13-inch baking dish, create a layer of sliced potatoes.",
+    "Top the potatoes with a layer of the browned sausage mixture, followed by a layer of the creamy bechamel sauce.",
+    "Repeat this process until all ingredients are used, finishing with a layer of potatoes on top.",
+    "Sprinkle the grated Parmesan cheese and Doenjang over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "gratin",
+    "midnight",
+    "potatoes",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-creamy-brazilian-doenjang-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:01:06.594Z"
+}
