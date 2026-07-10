@@ -1,0 +1,86 @@
+{
+  "slug": "malty-velvety-thai-mung-bean-sprouts-kanom-ko",
+  "title": "Kanom Buang with Mung Bean Filling",
+  "description": "A classic Thai crepe dish filled with a sweet and flavorful mung bean mixture. Pair with a sweet and tangy dipping sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup mung bean flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil for brushing",
+      "amount": "for brushing",
+      "notes": ""
+    },
+    {
+      "name": "Mung bean filling (see below)",
+      "amount": "for filling",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mung bean flour, coconut milk, water, sugar, salt, and baking powder. Whisk until smooth.",
+    "Heat a small non-stick pan over medium heat. Brush with vegetable oil.",
+    "Pour 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes or until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip. Cook for another minute.",
+    "Repeat with remaining batter, until all crepes are made.",
+    "To make the mung bean filling, combine mung beans, coconut sugar, water, and salt in a saucepan.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Fill the crepes with the mung bean filling and serve."
+  ],
+  "prepTimeMin": "20",
+  "cookTimeMin": "15",
+  "totalTimeMin": "35",
+  "servings": "8",
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "crepe",
+    "mung bean",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": "220",
+    "protein": "4",
+    "carbs": "30",
+    "fat": "8"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-velvety-thai-mung-bean-sprouts-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:16:19.408Z"
+}
