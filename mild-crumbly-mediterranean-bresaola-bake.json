@@ -1,0 +1,80 @@
+{
+  "slug": "mild-crumbly-mediterranean-bresaola-bake",
+  "title": "Bresaola and Mediterranean Salad",
+  "description": "A refreshing salad featuring cured bresaola, fresh vegetables, and a tangy vinaigrette.",
+  "cuisine": "italian",
+  "diet": [
+    "lactose-free",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "6 ounces",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mild, crumbly feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup, sliced",
+      "notes": "green or black"
+    },
+    {
+      "name": "arugula",
+      "amount": "4 cups, fresh",
+      "notes": "tossed with olive oil"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup, chopped",
+      "notes": "packed in oil"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "lemons",
+      "amount": "2, juiced",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the arugula, sliced olives, chopped tomatoes, and thinly sliced red onion (if using).",
+    "2. Arrange the thinly sliced bresaola on top of the salad.",
+    "3. Crumbling the feta cheese (if using) and sprinkle it over the salad.",
+    "4. Drizzle the lemon juice and olive oil over the salad, and toss to combine.",
+    "5. Season with salt and pepper to taste.",
+    "6. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "salad",
+    "lunch",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crumbly-mediterranean-bresaola-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:27:34.185Z"
+}
