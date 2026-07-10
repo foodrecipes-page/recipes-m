@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-tempered-chinese-manchego-lo-mein",
+  "title": "Manchego and Lo Mein Stir Fry",
+  "description": "A savory and spicy stir fry made with Manchego cheese, Lo Mein, and various vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lo Mein",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Tempered vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mildly cooked bell peppers",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp, minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of tempered vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced bell peppers and cook until tender, about 3-4 minutes.",
+    "Add the Lo Mein and cook until lightly browned, about 2-3 minutes.",
+    "Add the soy sauce, ginger, and garlic to the skillet and stir to combine.",
+    "Add the Manchego cheese to the skillet and stir until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir fry to a serving dish and garnish with sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "manchego",
+    "lo-mein",
+    "chinese-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-tempered-chinese-manchego-lo-mein",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:58:49.253Z"
+}
