@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-fermented-french-lettuce-mille-feuille",
+  "title": "Mille-Feuille Crispy Lettuce Wraps",
+  "description": "A creative twist on the classic mille-feuille pastry, using crispy lettuce leaves as the base and adding a tangy fermented flavor. Perfect for a light and refreshing meal or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Lettuce Leaves",
+      "amount": "4-6 leaves",
+      "notes": "Freshly washed and crisped in a pan"
+    },
+    {
+      "name": "Mille-Feuille Pastry",
+      "amount": "1 sheet",
+      "notes": "Homemade or store-bought, thawed"
+    },
+    {
+      "name": "Mild Cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded and melted"
+    },
+    {
+      "name": "Fermented Cream",
+      "amount": "2 tbsp",
+      "notes": "Whipped and dolloped"
+    },
+    {
+      "name": "French Fleur de Sel",
+      "amount": "to taste",
+      "notes": "Sprinkled on top"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "chopped (optional)",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the mille-feuille pastry into small squares.",
+    "Crisp the lettuce leaves in a pan with a pinch of salt.",
+    "Arrange a crispy lettuce leaf on a flat surface.",
+    "Place a small square of mille-feuille pastry on the lettuce leaf.",
+    "Top with a sprinkle of shredded mild cheese.",
+    "Dollop a spoonful of fermented cream on top.",
+    "Sprinkle with fleur de sel to taste.",
+    "Garnish with chopped fresh thyme, if desired.",
+    "Repeat for additional servings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "gluten-free",
+    "snack",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-fermented-french-lettuce-mille-feuille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:47:20.853Z"
+}
