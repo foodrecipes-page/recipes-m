@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-nutty-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "A flavorful and colorful dish inspired by Brazilian cuisine, featuring marinated chicken on skewers grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "mildly hot sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "nutty ghee",
+      "amount": "1 tsp",
+      "notes": "or regular ghee"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 200°C (400°F) for 10 minutes.",
+    "In a large bowl, whisk together coconut oil, mildly hot sauce, nutty ghee, cumin, paprika, salt, and black pepper.",
+    "Add chopped onion and bell pepper to the bowl and toss to coat.",
+    "Cut chicken breast into 1-inch pieces and add to the bowl, tossing to coat.",
+    "Thread chicken, onion, and bell pepper onto skewers.",
+    "Brush coconut oil on both sides of skewers.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Let skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "brazilian",
+    "chicken",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-nutty-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:55:58.275Z"
+}
