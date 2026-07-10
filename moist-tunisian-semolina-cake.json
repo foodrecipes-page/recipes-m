@@ -1,0 +1,84 @@
+{
+  "slug": "moist-tunisian-semolina-cake",
+  "title": "Tunisian Semolina Cake",
+  "description": "Moist and flavorful Tunisian semolina cake, perfect for breakfast or brunch.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almonds, chopped",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease and flour a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together semolina, flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together melted butter, eggs, yogurt, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Fold in the chopped almonds.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "breakfast",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-tunisian-semolina-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:29:48.024Z"
+}
