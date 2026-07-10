@@ -1,0 +1,62 @@
+{
+  "slug": "mellow-creamy-chinese-suet-dumplings",
+  "title": "Pan-Seared Chinese Dumplings",
+  "description": "A simple and savory recipe for pan-seared Chinese dumplings with a creamy suet filling.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "suet",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 tablespoon soy sauce",
+      "notes": "optional"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 tablespoon vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the melted suet and cook for 2 minutes, until slightly browned.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes, until the bottoms are golden brown.",
+    "Add the soy sauce (if using) and cook for an additional 1-2 minutes, until the dumplings are cooked through.",
+    "Serve the dumplings hot, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "chinese",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-creamy-chinese-suet-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:32:56.250Z"
+}
