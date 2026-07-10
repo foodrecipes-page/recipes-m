@@ -1,0 +1,67 @@
+{
+  "slug": "melted-brown-sugar-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "A flavor-packed recipe featuring marinated chicken breast, grilled to perfection on skewers with a hint of sweetness.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "melted sugar",
+      "amount": "2 tablespoons",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or melted sugar"
+    },
+    {
+      "name": "brazilian seasoning",
+      "amount": "2 teaspoons",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a little space between each.",
+    "In a small bowl, mix together melted sugar, brown sugar, and brazilian seasoning.",
+    "Brush olive oil onto both sides of the chicken.",
+    "Season the chicken with the sugar mixture.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "chicken",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-brown-sugar-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:09:57.398Z"
+}
