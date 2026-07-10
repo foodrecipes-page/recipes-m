@@ -1,0 +1,64 @@
+{
+  "slug": "mellow-umami-chinese-parmesan-noodles-chow-fun",
+  "title": "Mellow Umami Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with umami noodles, mellow vegetables, and chinese seasonings.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Umami Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mellow",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chow",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Parmesan",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced mellow and cook until tender, about 3-4 minutes.",
+    "Add the chopped chow and cook for an additional 2 minutes.",
+    "Add the umami noodles to the skillet and stir in the shaved parmesan.",
+    "Cook for an additional 2-3 minutes, until the noodles are heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-umami-chinese-parmesan-noodles-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:58:22.326Z"
+}
