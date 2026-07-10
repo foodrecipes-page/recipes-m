@@ -1,0 +1,81 @@
+{
+  "slug": "moist-meaty-dutch-chicken-casserole",
+  "title": "Dutch Chicken Casserole",
+  "description": "A hearty, comforting casserole made with chicken, vegetables, and a rich Dutch cheese sauce. Perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz, sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dutch cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the chopped onion, celery, and mushroom in butter until the vegetables are tender.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Slowly add the chicken broth and cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens.",
+    "Stir in the shredded Dutch cheese until melted.",
+    "Season the chicken with salt and pepper, then add it to the skillet and cook until browned on both sides.",
+    "Transfer the chicken to a 9x13 inch baking dish.",
+    "Pour the cheese sauce over the chicken and top with additional Dutch cheese if desired.",
+    "Bake for 25-30 minutes or until the casserole is hot and the cheese is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-meaty-dutch-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:51:58.674Z"
+}
