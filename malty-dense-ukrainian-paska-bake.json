@@ -1,0 +1,79 @@
+{
+  "slug": "malty-dense-ukrainian-paska-bake",
+  "title": "Traditional Paska Bread",
+  "description": "A traditional Ukrainian sweet bread, perfect for special occasions. It's a rich, dense bread with a sweet and malty flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "malty flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "dried yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ukrainian paska spice blend",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the warm water, yeast, and 1 teaspoon of sugar. Let it sit for 5-10 minutes until the yeast is activated.",
+    "2. Add the flour, remaining sugar, eggs, and salt to the bowl. Mix until a sticky dough forms.",
+    "3. Knead the dough for 10-15 minutes until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for about 1 hour, or until it has doubled in size.",
+    "5. Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "6. Punch down the dough and shape it into a round loaf. Place the loaf on the prepared baking sheet.",
+    "7. Brush the top of the loaf with the melted butter.",
+    "8. Bake the bread for 35-40 minutes, or until it's golden brown and sounds hollow when tapped.",
+    "9. Remove the bread from the oven and let it cool on a wire rack for at least 10-15 minutes before slicing.",
+    "10. Serve the paska warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-ukrainian-paska-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:36:10.288Z"
+}
