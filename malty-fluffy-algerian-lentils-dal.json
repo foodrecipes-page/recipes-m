@@ -1,0 +1,95 @@
+{
+  "slug": "malty-fluffy-algerian-lentils-dal",
+  "title": "Spicy Algerian Lentil Stew",
+  "description": "A hearty and flavorful North African-inspired stew made with lentils, aromatic spices, and fluffy malty goodness.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "dal",
+      "amount": "2 tablespoons",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 teaspoons",
+      "notes": "ground cumin, coriander, and paprika"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons",
+      "notes": "malted barley flour"
+    },
+    {
+      "name": "fluffy",
+      "amount": "4 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, and paprika; cook for 1 minute.",
+    "Add lentils, dal, tomato paste, cayenne pepper, salt, and black pepper.",
+    "Stir to combine, then add chicken broth.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30-40 minutes or until lentils are tender.",
+    "Stir in malted barley flour and cook for 5 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "lentils",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 23,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-fluffy-algerian-lentils-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:22:39.525Z"
+}
