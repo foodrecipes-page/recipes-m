@@ -1,0 +1,93 @@
+{
+  "slug": "mouth-numbing-smoke-hot-venezuelan-meat-empanadas",
+  "title": "Venezuelan Empanada Stuffed with Smoked Meat",
+  "description": "A flavorful and spicy empanada recipe from Venezuela, filled with smoked meat and perfect for a snack or light meal.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Beef",
+      "amount": "1 lb",
+      "notes": "Look for smoked beef in the deli section"
+    },
+    {
+      "name": "Hot Pepper",
+      "amount": "2",
+      "notes": "Use gloves when handling hot peppers"
+    },
+    {
+      "name": "Mouth Numbing Szechuan Peppercorns",
+      "amount": "1 tsp",
+      "notes": "Grind peppercorns before using"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "Make sure to chill the dough"
+    },
+    {
+      "name": "Venezuelan Cheese",
+      "amount": "1 cup",
+      "notes": "Queso fresco or queso rallado works well"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop cilantro before using"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Use an egg to brush empanada edges"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "For frying empanadas"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher or sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, mix together the flour, salt, and Szechuan peppercorns.",
+    "Add the cheese, cilantro, and egg to the flour mixture. Mix well.",
+    "Gradually add the smoked beef to the mixture, breaking it up with a spoon until well combined.",
+    "Wrap the dough in plastic wrap and chill in the refrigerator for at least 30 minutes.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten slightly into a disk.",
+    "Place a tablespoon of the meat mixture in the center of each disk. Fold the dough in half over the filling and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with salt.",
+    "Heat a large skillet over medium heat and add a tablespoon of oil. Fry the empanadas until golden brown, about 2-3 minutes on each side.",
+    "Transfer the empanadas to a baking sheet and bake in the oven for an additional 10-12 minutes, or until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "snack",
+    "beef",
+    "cheese",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouth-numbing-smoke-hot-venezuelan-meat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:40:47.312Z"
+}
