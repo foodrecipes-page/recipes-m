@@ -1,0 +1,68 @@
+{
+  "slug": "moist-molasses-canadian-salmon-skewers",
+  "title": "Grilled Salmon Skewers with Molasses Glaze",
+  "description": "Sweet and savory salmon skewers grilled to perfection, served with a sticky molasses glaze. This dish is perfect for a quick and easy dinner or outdoor BBQ.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup",
+      "notes": "unsulfured"
+    },
+    {
+      "name": "skewers",
+      "amount": "16",
+      "notes": "metal or bamboo"
+    },
+    {
+      "name": "canadian maple syrup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "moist Turkish apricots",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat, about 400°F.",
+    "2. Cut salmon into 1-inch pieces and thread onto skewers.",
+    "3. In a small bowl, whisk together molasses, maple syrup, and a pinch of salt.",
+    "4. Brush the molasses glaze onto the salmon skewers.",
+    "5. Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "6. Serve hot, garnished with diced apricots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "skewers",
+    "molasses",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-molasses-canadian-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:09:33.380Z"
+}
