@@ -1,0 +1,95 @@
+{
+  "slug": "mouthwatering-fluffy-middle-eastern-chicken-stir-fry",
+  "title": "Eastern Chicken Stir Fry",
+  "description": "A flavorful and quick stir-fry dish that brings together the best of middle eastern and Asian cuisine",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the snow peas to the skillet and cook until tender, about 2 minutes.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir in the middle eastern spice blend.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "middle-eastern",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-fluffy-middle-eastern-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:58:17.422Z"
+}
