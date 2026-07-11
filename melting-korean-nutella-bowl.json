@@ -1,0 +1,63 @@
+{
+  "slug": "melting-korean-nutella-bowl",
+  "title": "Korean Chocolate Fondue",
+  "description": "A sweet and indulgent dessert made with melted chocolate and served with crunchy Korean-style rice cakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Melting chocolate (dark or milk)",
+      "amount": "1 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Nutella",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Rice cakes (Korean-style)",
+      "amount": "12-15 pieces",
+      "notes": "for dipping"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Once melted, stir in the Nutella and Korean chili flakes (if using).",
+    "Place the melted chocolate mixture into a small fondue pot or a heatproof bowl.",
+    "Arrange the rice cakes on a platter or individual plates.",
+    "Serve the fondue with the rice cakes and enjoy!",
+    "Dip the rice cakes into the chocolate fondue and enjoy the sweet and spicy combination.",
+    "If the chocolate starts to harden, reheat it gently and adjust the consistency as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "korean",
+    "dessert",
+    "fondue"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melting-korean-nutella-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T23:35:48.160Z"
+}
