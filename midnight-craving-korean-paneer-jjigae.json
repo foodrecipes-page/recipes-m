@@ -1,0 +1,88 @@
+{
+  "slug": "midnight-craving-korean-paneer-jjigae",
+  "title": "Midnight Korean Paneer Jjigae",
+  "description": "A spicy and savory Korean-inspired cheese stew to satisfy your midnight cravings. This dish is a fusion of Korean jjigae and Indian paneer, perfect for a late-night snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add gochujang, gochugaru, soy sauce, and sambal oelek. Stir well to combine.",
+    "Add paneer and cook until it starts to melt, about 2-3 minutes.",
+    "Stir in chopped scallions and cook for another minute.",
+    "Serve the jjigae hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "paneer",
+    "cheese",
+    "stew",
+    "midnight",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-korean-paneer-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:26:28.883Z"
+}
