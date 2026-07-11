@@ -1,0 +1,93 @@
+{
+  "slug": "mildly-fermented-scottish-chickpeas-cornish-pasty",
+  "title": "Scottish Chickpea Pasty",
+  "description": "A twist on the traditional Cornish pasty, infused with the flavors of Scotland and the comfort of chickpeas.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "mildly seasoned sausage",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "scottish shortbread crust mix",
+      "amount": "1 package",
+      "notes": "follow package directions for gluten-free"
+    },
+    {
+      "name": "cornish pasty crust ingredients",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour, salt, and sugar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine shortbread crust mix, flour, salt, and sugar. Mix well.",
+    "3. Gradually add water to the bowl, stirring until the dough forms.",
+    "4. Divide the dough into 4-6 equal pieces, depending on desired pasty size.",
+    "5. Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "6. Place a tablespoon of sausage and a quarter cup of chickpeas in the center of each circle.",
+    "7. Fold the dough over the filling, pressing edges together to seal.",
+    "8. Use a fork to crimp the edges and create a decorative border.",
+    "9. Place the pasties on a baking sheet lined with parchment paper.",
+    "10. Brush the tops with a beaten egg for a golden glaze.",
+    "11. Bake the pasties for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scottish",
+    "chickpea",
+    "vegetarian",
+    "gluten-free",
+    "pasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-fermented-scottish-chickpeas-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:30:23.979Z"
+}
