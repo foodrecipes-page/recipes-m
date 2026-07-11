@@ -1,0 +1,81 @@
+{
+  "slug": "mellow-bitter-malaysian-rice-noodles",
+  "title": "Malaysian Mellow Rice Bowl",
+  "description": "A flavorful and aromatic rice bowl dish originating from Malaysia, featuring a balance of mellow and bitter flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mellow",
+      "amount": "200g"
+    },
+    {
+      "name": "bitter",
+      "amount": "100g"
+    },
+    {
+      "name": "malaysian rice",
+      "amount": "250g"
+    },
+    {
+      "name": "noodles",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium heat.",
+    "Add 1 cup of mellow and cook until softened, about 3-4 minutes.",
+    "Add 1 cup of bitter and cook until tender, about 5-6 minutes.",
+    "Add 2 cups of malaysian rice to the skillet and stir to combine with mellow and bitter.",
+    "Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "Add 1 cup of noodles to the skillet and stir to combine with the rice mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the rice bowl mixture to a serving dish and garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "rice-bowl",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-bitter-malaysian-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:05:03.502Z"
+}
