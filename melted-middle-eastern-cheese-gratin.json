@@ -1,0 +1,72 @@
+{
+  "slug": "melted-middle-eastern-cheese-gratin",
+  "title": "Melted Middle Eastern Gratin",
+  "description": "A creamy, cheesy side dish inspired by the flavors of the Middle East. This gratin is perfect for a dinner party or special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Middle Eastern flatbread",
+      "amount": "1 1/2 cups, cubed"
+    },
+    {
+      "name": "Melted cheese blend",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Eastern spices",
+      "amount": "2 tsp, mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, toss the cubed flatbread with 1 tbsp olive oil, Eastern spices, and garlic until well coated.",
+    "Transfer the flatbread mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix the melted cheese blend with the remaining 1 tbsp olive oil.",
+    "Pour the cheese mixture over the flatbread mixture in the baking dish.",
+    "Season with salt to taste.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "cheese",
+    "gratin",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-middle-eastern-cheese-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:22:15.628Z"
+}
