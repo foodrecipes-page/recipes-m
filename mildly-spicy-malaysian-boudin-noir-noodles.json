@@ -1,0 +1,80 @@
+{
+  "slug": "mildly-spicy-malaysian-boudin-noir-noodles",
+  "title": "Spicy Malaysian Boudin Stir Fry",
+  "description": "A spicy twist on traditional Malaysian stir fry, featuring boudin noir and a variety of colorful vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "250g",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g",
+      "notes": "Rice noodles"
+    },
+    {
+      "name": "mildly spicy sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "Bell peppers, carrots, broccoli"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the mixed vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the boudin noir and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the noodles to the skillet and stir to combine with the vegetables and boudin noir.",
+    "In a small bowl, whisk together the mildly spicy sauce and soy sauce. Pour the sauce over the noodles and stir to combine.",
+    "Season with ground black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "spicy",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-malaysian-boudin-noir-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:57:03.550Z"
+}
