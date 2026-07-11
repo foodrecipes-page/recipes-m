@@ -1,0 +1,75 @@
+{
+  "slug": "molten-umami-australian-italian-portobello-mushroom-pizza",
+  "title": "Portobello Mushroom Pizza",
+  "description": "A simple and flavorful Italian-style pizza topped with sautéed portobello mushrooms.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza crust",
+      "amount": "1",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Portobello mushrooms",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Molten mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Umami tomato sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pizza crust to a thickness of 1/4 inch (6 mm).",
+    "Spread the umami tomato sauce evenly over the pizza crust, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Arrange the sliced portobello mushrooms on top of the sauce.",
+    "Sprinkle the shredded molten mozzarella cheese over the mushrooms.",
+    "Drizzle the Australian olive oil over the pizza.",
+    "Season with salt and pepper to taste.",
+    "Bake the pizza in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove the pizza from the oven and sprinkle with chopped fresh basil.",
+    "Let the pizza cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pizza",
+    "italian",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-umami-australian-italian-portobello-mushroom-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:15:11.147Z"
+}
