@@ -1,0 +1,71 @@
+{
+  "slug": "magical-crisp-peruvian-shrimp-chupe-de-camarones",
+  "title": "Camarones al Ajillo Peruano",
+  "description": "A Peruvian-inspired garlic shrimp dish with a twist of magical flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Camarones (shrimp)",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Ajo (garlic)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aceite de oliva (olive oil)",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Chupe de camarones (shrimp chupe)",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Pimiento rojo (red bell pepper)",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cebolla (onion)",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add shrimp, chupe, red bell pepper, and onion. Cook for 3-4 minutes, until the shrimp are pink and cooked through.",
+    "Season with salt, pepper, and a squeeze of lemon juice.",
+    "Serve immediately and garnish with magical seasoning to taste.",
+    "Optional: serve with rice or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "shrimp",
+    "garlic",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crisp-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:10:42.558Z"
+}
