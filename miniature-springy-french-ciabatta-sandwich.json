@@ -1,0 +1,60 @@
+{
+  "slug": "miniature-springy-french-ciabatta-sandwich",
+  "title": "French Sandwich",
+  "description": "A simple yet delicious French-inspired sandwich made with ciabatta bread and filled with ham and cheese.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ciabatta bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "ham",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "swiss cheese",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a panini press to medium heat.",
+    "2. Slice the ciabatta bread in half.",
+    "3. Butter the cut sides of the bread.",
+    "4. Place the ham and cheese on the bottom slice of bread.",
+    "5. Place the top slice of bread on the filling.",
+    "6. Place the sandwich in the panini press.",
+    "7. Cook for 3-4 minutes or until the cheese is melted and the bread is toasted.",
+    "8. Remove the sandwich from the press and let it cool for a minute before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miniature-springy-french-ciabatta-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:02:36.247Z"
+}
