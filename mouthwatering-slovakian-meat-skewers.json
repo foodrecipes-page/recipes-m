@@ -1,0 +1,83 @@
+{
+  "slug": "mouthwatering-slovakian-meat-skewers",
+  "title": "Slovakian Meat Skewers",
+  "description": "A traditional Slovakian dish featuring marinated meat, perfect for grilling. Serve with a side of bread or potatoes for a hearty meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "250g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mix together pork, chicken, red bell pepper, onion, garlic, paprika, salt, and black pepper.",
+    "Thread the meat and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the meat is cooked through and the vegetables are tender.",
+    "Serve hot with a side of bread or potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "meat",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-slovakian-meat-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:21:05.883Z"
+}
