@@ -3453,15 +3453,15 @@
   },
   {
     "slug": "marinated-almond-kosher-crumble",
-    "title": "Marinated Almond Kosher Crumble",
+    "title": "Kosher Crumble Almond Cake",
     "tags": [
-      "almond-dessert",
-      "dessert-portuguese",
-      "nutty-crumbly",
-      "raw-friendly"
+      "almond",
+      "cake",
+      "kosher",
+      "dessert"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 65,
+    "cuisine": "jewish",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -14570,17 +14570,16 @@
   },
   {
     "slug": "minty-algerian-lentil-tagine",
-    "title": "Minty Algerian Lentil Tagine",
+    "title": "Algerian Lentil Tagine",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "mediterranean",
-      "mint",
-      "one-pot",
-      "spicy"
+      "lentil",
+      "tagine",
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -15731,17 +15730,14 @@
   },
   {
     "slug": "moistly-marinated-moroccan-chicken-bake",
-    "title": "Moistly Marinated Moroccan Chicken Bake",
+    "title": "Moroccan Chicken",
     "tags": [
-      "bake",
-      "chicken",
-      "high-protein",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "baked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -19905,16 +19901,15 @@
   },
   {
     "slug": "mustardy-shaggy-cheese-braise-in-kadhai",
-    "title": "Mustardy Shaggy Cheese Braise in Kadhai",
+    "title": "Kadhai Cheese Fritters",
     "tags": [
-      "braised",
       "cheese",
-      "mustard",
-      "one-pot",
-      "tunisian"
+      "fried",
+      "snack",
+      "indian-spiced"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
