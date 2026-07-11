@@ -1,0 +1,68 @@
+{
+  "slug": "mellow-jamaican-iceberg-lettuce-wrap",
+  "title": "Jamaican Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with the taste of Jamaica. Perfect for a quick lunch or dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican wrap",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Iceberg lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Mellow",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Jamaican",
+      "amount": "2 tablespoons",
+      "notes": "sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Cook the Jamaican wrap for 2 minutes on each side or until lightly toasted.",
+    "Wash and shred the iceberg lettuce and lettuce.",
+    "Add the shredded lettuce and sliced mellow to the wrap.",
+    "Drizzle the Jamaican sauce over the top.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "wrap",
+    "jamaican",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-jamaican-iceberg-lettuce-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:19:20.969Z"
+}
