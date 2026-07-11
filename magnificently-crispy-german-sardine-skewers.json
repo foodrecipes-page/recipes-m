@@ -1,0 +1,82 @@
+{
+  "slug": "magnificently-crispy-german-sardine-skewers",
+  "title": "Grilled Sardine Skewers with German Charm",
+  "description": "A simple yet flavorful dish that combines the delicate taste of sardines with the crunch of crispy vegetables, all grilled to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sardines in Water (drained and chopped)",
+      "amount": "1 can (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh German Cabbage",
+      "amount": "1 cup (shredded)",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "6 slices (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "12-15",
+      "notes": ""
+    },
+    {
+      "name": "German-Style Mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for at least 30 minutes.",
+    "In a large bowl, mix together chopped sardines, shredded cabbage, chopped bacon, salt, and black pepper.",
+    "Drain and thread the sardine mixture onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with German-Style mustard.",
+    "Grill the skewers for 8-10 minutes per side, or until the sardines are cooked through and the cabbage is slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sardines",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-crispy-german-sardine-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:24:32.822Z"
+}
