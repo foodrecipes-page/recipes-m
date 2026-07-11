@@ -1,0 +1,74 @@
+{
+  "slug": "melted-french-manchego-tart",
+  "title": "Manchego Tartlets with Caramelized Onions",
+  "description": "A simple and flavorful appetizer or snack featuring caramelized onions, Manchego cheese, and a crumbly tart crust.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 sheet frozen puff pastry, thawed",
+      "amount": "",
+      "notes": "kept chilled until ready to use"
+    },
+    {
+      "name": "1/2 cup caramelized onions",
+      "amount": "",
+      "notes": "see notes"
+    },
+    {
+      "name": "1/2 cup grated Manchego cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon chopped fresh thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut out small squares, about 3 inches per side.",
+    "Transfer pastry squares to a baking sheet lined with parchment paper.",
+    "Brush edges with a little water.",
+    "Top each square with a spoonful of caramelized onions, a sprinkle of Manchego cheese, a drizzle of olive oil, and a sprinkle of thyme.",
+    "Fold pastry squares in half to form triangles, pressing edges to seal.",
+    "Brush tops with a little water and sprinkle with salt.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "tart",
+    "spanish",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-french-manchego-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:39:38.651Z"
+}
