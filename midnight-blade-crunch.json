@@ -1,0 +1,54 @@
+{
+  "slug": "midnight-blade-crunch",
+  "title": "Blade Crunch Delight",
+  "description": "A unique fusion of flavors and textures with midnight crunch. Enjoy!",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Midnight Dark Chocolate Chips",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Blade-Shaped Pretzels",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Caramel Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Melt the chocolate chips in a microwave-safe bowl in 30-second increments, stirring between each interval.",
+    "2. Once melted, stir in the crunchy caramel sauce until well combined.",
+    "3. Dip each blade-shaped pretzel into the melted chocolate mixture, coating about 2/3 of the pretzel.",
+    "4. Place the coated pretzels on a parchment-lined baking sheet.",
+    "5. Refrigerate for at least 30 minutes to allow the chocolate to set.",
+    "6. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "caramel",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-blade-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:47:59.036Z"
+}
