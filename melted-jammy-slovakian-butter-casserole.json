@@ -1,0 +1,65 @@
+{
+  "slug": "melted-jammy-slovakian-butter-casserole",
+  "title": "Slovakian Casserole",
+  "description": "A hearty Slovakian casserole made with jammy, melted, and casserole ingredients, served with butter.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "melted cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "jammy potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "",
+      "notes": "9x13 inch"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the jammy potatoes, melted cheese, and sliced Slovakian sausage.",
+    "Transfer the mixture to a 9x13 inch casserole dish.",
+    "Dot the top of the casserole with melted butter.",
+    "Bake for 25-30 minutes or until the casserole is golden brown and the sausage is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "casserole",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-jammy-slovakian-butter-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:10:21.577Z"
+}
