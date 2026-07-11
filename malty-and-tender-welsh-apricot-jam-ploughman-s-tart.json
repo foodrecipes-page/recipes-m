@@ -1,0 +1,58 @@
+{
+  "slug": "malty-and-tender-welsh-apricot-jam-ploughman-s-tart",
+  "title": "Welsh Tart",
+  "description": "A traditional Welsh-inspired dessert made with a sweet apricot filling and a crumbly pastry crust.",
+  "cuisine": "Welsh",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Tender apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Welsh jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ploughman cheese",
+      "amount": "1/4 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the malty pastry dough and place in a tart pan.",
+    "In a bowl, mix together the tender apricots and welsh jam.",
+    " Pour the apricot mixture into the pastry crust.",
+    "Top with crumbled ploughman cheese.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Let cool before serving.",
+    "Serve with a side of fresh fruit, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "sweet",
+    "welsh"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-and-tender-welsh-apricot-jam-ploughman-s-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:26:32.058Z"
+}
