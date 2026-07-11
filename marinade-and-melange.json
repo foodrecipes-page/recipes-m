@@ -1,0 +1,58 @@
+{
+  "slug": "marinade-and-melange",
+  "title": "Melange Marinade Delight",
+  "description": "A unique dish made with the exotic spice melange, marinated in a mixture of flavors.",
+  "cuisine": "mysterious",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "And",
+      "amount": "2 cups",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Melange",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Marinade",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the marinade and melange.",
+    "2. Add the thinly sliced And to the marinade mixture.",
+    "3. Mix well to coat the And evenly.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "5. Preheat a grill or grill pan to medium-high heat.",
+    "6. Remove the And from the marinade, letting any excess liquid drip off.",
+    "7. Grill the And for 3-4 minutes per side, or until tender and slightly charred.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "melange",
+    "and",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinade-and-melange",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:06:42.286Z"
+}
