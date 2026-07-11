@@ -1,0 +1,90 @@
+{
+  "slug": "mouthwatering-juicy-mexican-tomatoes-tlayudas",
+  "title": "Mexican Grilled Tlayudas with Fresh Tomatoes",
+  "description": "A classic Mexican dish featuring crispy grilled tlayudas topped with fresh tomatoes, onions, and a hint of spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tlayudas",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "cherry or grape tomatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill tlayudas for 2-3 minutes on each side, or until crispy.",
+    "Cut tomatoes in half and chop onion.",
+    "In a small bowl, mix together cumin, coriander, chili powder, salt, and pepper.",
+    "Brush tlayudas with lime juice and sprinkle with spice mixture.",
+    "Top tlayudas with tomatoes, onion, and chopped cilantro (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-juicy-mexican-tomatoes-tlayudas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:55:52.378Z"
+}
