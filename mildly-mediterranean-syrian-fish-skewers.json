@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-mediterranean-syrian-fish-skewers",
+  "title": "Syrian Fish Skewers with Lemon",
+  "description": "A Mediterranean-inspired dish featuring marinated fish cooked to perfection on skewers, served with a squeeze of fresh lemon.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Tilapia Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut fish into 1-inch pieces and thread onto skewers.",
+    "3. In a small bowl, mix together olive oil, lime juice, garlic, paprika, salt, and black pepper.",
+    "4. Brush skewers with the marinade, making sure to coat all the fish evenly.",
+    "5. Place skewers on the grill and cook for 8-10 minutes, turning occasionally.",
+    "6. Remove skewers from the grill and serve immediately, garnished with fresh parsley and a squeeze of lemon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "mildly-spiced",
+    "fish",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-mediterranean-syrian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:10:56.874Z"
+}
