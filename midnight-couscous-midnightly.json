@@ -1,0 +1,83 @@
+{
+  "slug": "midnight-couscous-midnightly",
+  "title": "Couscous with Midnightly Roast Chicken",
+  "description": "A flavorful and nutritious dish combining couscous with a delicious midnightly roasted chicken.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "midnight",
+      "amount": "2"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use kosher salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "In a small bowl, mix together olive oil, garlic powder, paprika, salt, and pepper.",
+    "Rub the mixture all over the chicken breast.",
+    "Heat a skillet over medium-high heat and sear the chicken breast on both sides until browned.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 20-25 minutes or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is roasting, prepare the couscous according to package instructions.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "Fluff the cooked couscous with a fork and toss it with lemon juice.",
+    "Serve the sliced chicken on top of the couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnightly",
+    "couscous",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-couscous-midnightly",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:30:46.320Z"
+}
