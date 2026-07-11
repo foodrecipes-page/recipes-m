@@ -1,0 +1,97 @@
+{
+  "slug": "monsoon-sour-jamaican-pecan-stew",
+  "title": "Jamaican Pecan Chicken Stew",
+  "description": "A flavorful stew that combines the spices of Jamaica with the crunch of pecans. This dish is perfect for a cold winter's night.",
+  "cuisine": "caribbean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "monsoon",
+      "amount": "1 tablespoon",
+      "notes": "spice blend"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "stew mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Season the chicken breast with Jamaican jerk seasoning and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the chopped onion, minced garlic, and chopped bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the stew mix, monsoon spice blend, and chopped pecans to the pot and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Return the chicken to the pot and reduce heat to low.",
+    "Simmer the stew for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in the sour cream and cook for an additional 2-3 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "chicken",
+    "pecan",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-sour-jamaican-pecan-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:20:24.133Z"
+}
