@@ -1,0 +1,84 @@
+{
+  "slug": "midnight-craving-peruvian-white-masarepa-crumble",
+  "title": "Midnight Crumble Peruvian Corn Pudding",
+  "description": "A comforting Peruvian corn pudding dessert, topped with a crunchy crumble made with midnight oats, perfect for a midnight craving.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup",
+      "notes": "Peruvian cornmeal"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "midnight oats",
+      "amount": "1/2 cup",
+      "notes": "oats, toasted until lightly browned"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": "cooled slightly"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1/2 cup",
+      "notes": "currants or raisins"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "midnight oats, toasted and crumbled"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "packed into the crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together the masarepa, sugar, and salt. Add the melted butter, eggs, and dried fruit. Mix until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "In a separate bowl, mix together the crumble topping ingredients until crumbly.",
+    "Spread the crumble topping evenly over the pudding mixture.",
+    "Bake for 35-40 minutes, or until the crumble is golden brown and the pudding is set.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "corn-pudding",
+    "peruvian-cuisine",
+    "midnight-crackle",
+    "oat-crunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-peruvian-white-masarepa-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:45:44.315Z"
+}
