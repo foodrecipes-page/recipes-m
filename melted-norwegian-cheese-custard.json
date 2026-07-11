@@ -1,0 +1,67 @@
+{
+  "slug": "melted-norwegian-cheese-custard",
+  "title": "Norwegian Cheesecake",
+  "description": "A classic Norwegian dessert made with melted cheese and custard.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "melted cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "150g",
+      "notes": "drained"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "custard",
+      "amount": "150g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix melted cheese and cottage cheese in a bowl.",
+    "Add sugar and mix until smooth.",
+    "Beat eggs and add to the cheese mixture.",
+    "Stir in custard and vanilla extract.",
+    "Pour into a greased baking dish.",
+    "Bake for 35-40 minutes or until set.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-norwegian-cheese-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:25:38.258Z"
+}
