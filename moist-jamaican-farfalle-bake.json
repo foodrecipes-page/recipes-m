@@ -1,0 +1,86 @@
+{
+  "slug": "moist-jamaican-farfalle-bake",
+  "title": "Jamaican Chicken Bake",
+  "description": "A flavorful and spicy Jamaican-inspired bake dish made with chicken, farfalle, and a hint of smokiness.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Moist butter, softened",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the farfalle pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large bowl, whisk together the jerk seasoning and softened butter until well combined.",
+    "Add the chicken breasts to the bowl and toss to coat with the jerk seasoning mixture.",
+    "Transfer the chicken breasts to a baking dish and bake for 25-30 minutes, or until cooked through.",
+    "While the chicken is baking, combine the cooked farfalle pasta, shredded coconut, and bake in a separate bowl.",
+    "Once the chicken is done, remove it from the oven and let it rest for a few minutes before slicing.",
+    "Add the sliced chicken to the pasta mixture and toss to combine.",
+    "Season with salt and pepper to taste, and serve hot.",
+    "Sprinkle some extra shredded coconut on top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "chicken",
+    "pasta",
+    "jerky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-jamaican-farfalle-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:24:50.569Z"
+}
