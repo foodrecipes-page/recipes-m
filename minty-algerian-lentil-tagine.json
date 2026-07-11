@@ -1,0 +1,67 @@
+{
+  "slug": "minty-algerian-lentil-tagine",
+  "title": "Algerian Lentil Tagine",
+  "description": "A hearty and flavorful North African stew made with lentils, aromatic spices, and fresh minty notes. Serve with crusty bread or over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tsp",
+      "notes": "tagine spice blend"
+    },
+    {
+      "name": "minty",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh mint"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add algerian spice blend and cook for 1 minute, until fragrant.",
+    "Add lentils and water. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in chopped mint and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "tagine",
+    "north-african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-algerian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:51:15.995Z"
+}
