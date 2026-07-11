@@ -1,0 +1,75 @@
+{
+  "slug": "molten-egyptian-tempeh-tagine",
+  "title": "Tempeh Tagine with Egyptian Spices",
+  "description": "A flavorful and aromatic North African-inspired dish featuring tempeh in a rich tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "250g"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tablespoons",
+      "notes": "molten chocolate"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "2 tablespoons",
+      "notes": "ground Egyptian spices (cumin, coriander, cinnamon)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "4-6",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic pot over medium heat.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add ground Egyptian spices and cook for 1 minute, stirring constantly.",
+    "Add tempeh and cook until browned on all sides, about 5-7 minutes.",
+    "Add chicken broth, molten chocolate, and chopped dates.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "tempeh",
+    "tagine"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-egyptian-tempeh-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:30:36.978Z"
+}
