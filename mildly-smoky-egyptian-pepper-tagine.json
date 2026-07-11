@@ -1,0 +1,94 @@
+{
+  "slug": "mildly-smoky-egyptian-pepper-tagine",
+  "title": "Smoky Chicken and Vegetable Tagine",
+  "description": "A traditional North African stew made with smoky flavors and tender chicken. Serve over couscous for a delicious and satisfying meal.",
+  "cuisine": "north african",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "mildly spicy cumin",
+      "amount": "1 teaspoon",
+      "notes": "mild heat"
+    },
+    {
+      "name": "egyptian allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "warm, aromatic flavor"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "peppery flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "rich, fruity flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sweet, caramelized flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "pungent, savory flavor"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 large",
+      "notes": "crunchy texture"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh, herbal flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until caramelized, about 8 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Stir in the cumin, allspice, paprika, and pepper.",
+    "Add the bell pepper and cook until tender, about 5 minutes.",
+    "Add 1 cup of water to the pot and bring to a simmer.",
+    "Cover the pot and cook until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Stir in the parsley and serve over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-pepper-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:18:54.518Z"
+}
