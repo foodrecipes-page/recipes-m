@@ -1,0 +1,62 @@
+{
+  "slug": "malty-raw-ligurian-sevaiiya-tiramisu",
+  "title": "Ligurian Sevaiiya Crisps",
+  "description": "A crispy, savory snack made with Ligurian olives and sevaiiya crackers.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malty sevaiiya crackers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ligurian olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Raw garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "2. Crush the sevaiiya crackers into smaller pieces.",
+    "3. In a bowl, mix together the crushed crackers, chopped olives, minced garlic, and salt.",
+    "4. Using a spoon, drop small portions of the mixture into the hot oil.",
+    "5. Fry the sevaiiya crisps until they are golden brown and crispy, about 3-4 minutes.",
+    "6. Remove the crisps from the oil with a slotted spoon and drain on paper towels.",
+    "7. Serve the Ligurian Sevaiiya Crisps warm, seasoned with salt to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-raw-ligurian-sevaiiya-tiramisu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:03:45.904Z"
+}
