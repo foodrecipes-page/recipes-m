@@ -1,0 +1,52 @@
+{
+  "slug": "malty-velvety-british-korean-pear-wrap",
+  "title": "British Pear Wrap",
+  "description": "A delicious and easy-to-make dessert wrap filled with sweet British pear and velvety goodness.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty British Pear",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Spread",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "British Wrap",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the pear into thin pieces.",
+    "2. Spread the velvety spread on the wrap.",
+    "3. Arrange the pear slices on top of the spread.",
+    "4. Fold the wrap to enclose the filling.",
+    "5. Slice in half and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "british",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-velvety-british-korean-pear-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:22:21.600Z"
+}
