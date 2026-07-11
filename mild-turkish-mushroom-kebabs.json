@@ -1,0 +1,72 @@
+{
+  "slug": "mild-turkish-mushroom-kebabs",
+  "title": "Mild Turkish Kebabs",
+  "description": "A flavorful and tender kebab recipe with a blend of spices and a hint of sweetness. Perfect for a quick dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mild sausage",
+      "amount": "4",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sausage, bell pepper, onion, and mushroom onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Warm pita bread by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "Serve kebabs in pita bread with tzatziki sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "turkish",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-turkish-mushroom-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:52.636Z"
+}
