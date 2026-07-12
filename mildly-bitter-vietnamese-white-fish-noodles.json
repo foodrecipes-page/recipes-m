@@ -1,0 +1,93 @@
+{
+  "slug": "mildly-bitter-vietnamese-white-fish-noodles",
+  "title": "Vietnamese Style Fish Noodle Soup",
+  "description": "A light and flavorful noodle soup made with fresh fish and a blend of Vietnamese spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "white fish such as tilapia or catfish works well"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 ounces",
+      "notes": "Vietnamese rice noodles"
+    },
+    {
+      "name": "Mildly Bitter Melon",
+      "amount": "1",
+      "notes": "such as bitter melon or eggplant"
+    },
+    {
+      "name": "White Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vietnamese Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to package instructions. Drain and set aside.",
+    "Cut the fish into small pieces and season with salt and black pepper.",
+    "Heat a large skillet over medium heat and add 1 tablespoon of oil.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the fish to the skillet and cook until opaque and flaked with a fork, about 4-5 minutes.",
+    "Add the soy sauce and fish sauce to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine.",
+    "Add the sliced bitter melon and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish",
+    "noodle",
+    "soup",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-bitter-vietnamese-white-fish-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:53:53.086Z"
+}
