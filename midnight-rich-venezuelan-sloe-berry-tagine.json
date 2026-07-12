@@ -1,0 +1,61 @@
+{
+  "slug": "midnight-rich-venezuelan-sloe-berry-tagine",
+  "title": "Midnight Berry Tagine",
+  "description": "A rich and exotic Venezuelan dessert made with sloe berries, perfect for a cold night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "250g"
+    },
+    {
+      "name": "rich honey",
+      "amount": "100g"
+    },
+    {
+      "name": "midnight blackberries",
+      "amount": "150g"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C (300°F).",
+    "Combine sloe berries, midnight blackberries, and tagine spice blend in a baking dish.",
+    "Add unsalted butter and mix until the berries are evenly coated.",
+    "Bake for 25 minutes, stirring occasionally.",
+    "Remove from the oven and stir in rich honey until well combined.",
+    "Serve warm, garnished with additional sloe berries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "sweet",
+    "berry",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-rich-venezuelan-sloe-berry-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:51:11.897Z"
+}
