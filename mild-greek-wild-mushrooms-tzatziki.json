@@ -1,0 +1,82 @@
+{
+  "slug": "mild-greek-wild-mushrooms-tzatziki",
+  "title": "Grilled Portobello Mushroom Gyro",
+  "description": "A Greek-inspired twist on traditional gyros, featuring grilled portobello mushrooms, crispy pita bread, and a tangy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4",
+      "notes": "stemmed and cleaned"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": "gluten-free or traditional"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled (optional)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together tzatziki sauce, olive oil, salt, and pepper.",
+    "Brush the mixture onto both sides of the portobello mushrooms.",
+    "Grill the mushrooms for 3-4 minutes per side, or until tender and slightly charred.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the gyros by spreading a layer of tzatziki sauce on each pita, followed by a grilled mushroom, some red onion, tomato, and feta cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "mushroom",
+    "tzatziki",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-greek-wild-mushrooms-tzatziki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:12:51.036Z"
+}
