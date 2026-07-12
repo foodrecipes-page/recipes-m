@@ -1,0 +1,72 @@
+{
+  "slug": "monsoon-crunchy-chinese-beetroot-robata-grill-buddha-jumps-over-wall",
+  "title": "Grilled Beetroot and Buddha Bowl",
+  "description": "A simple and delicious vegetarian dish featuring roasted beetroot, served as a bowl with crunchy toppings.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "buddha bowl rice",
+      "amount": "1 cup cooked",
+      "notes": "preferably brown rice"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "steamed"
+    },
+    {
+      "name": "crunchy fried onions",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grilled halloumi",
+      "amount": "1 block",
+      "notes": "served on top"
+    },
+    {
+      "name": "walnut oil",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Grill the halloumi for 2-3 minutes on each side, until golden brown.",
+    "Steam the broccoli until tender.",
+    "In a bowl, combine the cooked rice, steamed broccoli, and chopped beetroot.",
+    "Top with crispy fried onions, grilled halloumi, and a drizzle of walnut oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "beetroot",
+    "buddha-bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-crunchy-chinese-beetroot-robata-grill-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:23.815Z"
+}
