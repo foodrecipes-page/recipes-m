@@ -1,0 +1,86 @@
+{
+  "slug": "mild-korean-smoked-mackerel-namul",
+  "title": "Smoked Mackerel Korean Namul Bowl",
+  "description": "A nutritious and flavorful bowl combining the richness of smoked mackerel with the crunch of a Korean-inspired namul salad.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel Fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Namul",
+      "amount": "200g",
+      "notes": "Korean-style mung bean sprouts"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "4 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "1. In a small saucepan, toast the Korean chili flakes over low heat for 2-3 minutes.",
+    "2. In a large bowl, whisk together the toasted chili flakes, sesame oil, soy sauce, grated ginger, and rice vinegar.",
+    "3. Add the namul to the bowl and toss to combine with the dressing.",
+    "4. Flake the smoked mackerel into the bowl and gently fold to combine.",
+    "5. Garnish with thinly sliced green onions and chopped cilantro.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "namul",
+    "smoked-mackerel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-korean-smoked-mackerel-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:37:36.909Z"
+}
