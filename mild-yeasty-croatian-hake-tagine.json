@@ -1,0 +1,70 @@
+{
+  "slug": "mild-yeasty-croatian-hake-tagine",
+  "title": "Croatian-Style Baked Hake",
+  "description": "A flavorful and aromatic baked hake dish inspired by Croatian cuisine, featuring a mild and yeasty tagine crust.",
+  "cuisine": "Croatian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Mild tagine",
+      "amount": "2 tbsp",
+      "notes": "Crushed and mixed with olive oil"
+    },
+    {
+      "name": "Yeasty breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko-style"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the hake fillets with salt, pepper, and Croatian paprika.",
+    "Brush the hake fillets with olive oil on both sides.",
+    "Dip each fillet in the mild tagine, coating evenly.",
+    "Dip the coated fillets in the yeasty breadcrumbs, pressing gently to adhere.",
+    "Place the coated fillets on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until cooked through and the crust is golden brown.",
+    "Serve immediately, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "baked-hake",
+    "tagine",
+    "mild-tagine",
+    "yeasty-breadcrumbs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-yeasty-croatian-hake-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:17:10.372Z"
+}
