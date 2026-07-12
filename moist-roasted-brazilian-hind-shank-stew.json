@@ -1,0 +1,106 @@
+{
+  "slug": "moist-roasted-brazilian-hind-shank-stew",
+  "title": "Braised Beef Shank with Brazilian Flair",
+  "description": "A hearty, comforting dish with tender beef shank and rich flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shank (2 pounds)",
+      "amount": "2",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "moist dark brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "plus extra for browning"
+    },
+    {
+      "name": "roasted coffee",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "hind of garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brazilian-style cachaça",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with rum"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef shank with salt and black pepper.",
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat. Sear the beef shank until browned on all sides, about 5 minutes per side. Remove from heat and set aside.",
+    "Add the chopped onion and red bell pepper to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cachaça, tomato paste, and beef broth to the pot. Stir to combine.",
+    "Return the beef shank to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven. Braise for 2 1/2 to 3 hours, or until the beef is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and stir in the diced stew tomatoes and brown sugar. Let it sit for 10 minutes to allow the flavors to meld.",
+    "Serve the braised beef shank with the rich sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "brazilian",
+    "braised",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 26,
+    "fat": 54
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-roasted-brazilian-hind-shank-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:21:11.383Z"
+}
