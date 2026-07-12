@@ -1,0 +1,71 @@
+{
+  "slug": "midnight-chewy-egyptian-saskatoon-berries-stir-fry",
+  "title": "Saskatoon Berry Crumble with Egyptian Spices",
+  "description": "A delicious dessert featuring Saskatoon berries with a crunchy oat topping and warm Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "midnight oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chewy brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "berries",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine Saskatoon berries, Egyptian spices, and brown sugar.",
+    "In a separate bowl, mix together midnight oats and unsalted butter until crumbly.",
+    "Transfer the berry mixture to a baking dish and top with the oat mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Serve warm with a scoop of ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "saskatoon",
+    "berry",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chewy-egyptian-saskatoon-berries-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:05.224Z"
+}
