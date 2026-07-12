@@ -1,0 +1,60 @@
+{
+  "slug": "mustardy-crisp-algerian-saskatoon-berries-tagine",
+  "title": "Algerian Berry Tagine",
+  "description": "A sweet and tangy tagine made with saskatoon berries and crisp spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Crisp sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustardy balsamic glaze",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large bowl, mix together saskatoon berries and Algerian tagine spice blend.",
+    "Transfer the mixture to a small tagine or ceramic dish.",
+    "Drizzle with crisp sugar and mustardy balsamic glaze.",
+    "Bake for 20-25 minutes or until the sugar is caramelized.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "saskatoon-berries",
+    "dessert",
+    "easy",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crisp-algerian-saskatoon-berries-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:19:44.193Z"
+}
