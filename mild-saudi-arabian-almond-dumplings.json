@@ -1,0 +1,101 @@
+{
+  "slug": "mild-saudi-arabian-almond-dumplings",
+  "title": "Saudi Arabian Beef Dumplings",
+  "description": "A flavorful and spicy dish from Saudi Arabia, made with tender beef and served with crispy fried dumplings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Almond",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tablespoons of oil over medium heat.",
+    "Add the onion, ginger, and garlic. Cook until the onion is translucent.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the beef broth and bring to a simmer.",
+    "Reduce heat to low and let cook for 10 minutes.",
+    "While the beef is cooking, mix the flour and egg in a bowl.",
+    "Add the beaten egg and flour mixture to the beef and stir until combined.",
+    "Cover and cook for an additional 5 minutes.",
+    "While the beef is cooking, prepare the dumpling dough by mixing the flour and egg in a bowl.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of the beef mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Heat 2-3 inches of oil in a deep frying pan over medium-high heat.",
+    "Fry the dumplings until they are golden brown, about 2-3 minutes on each side.",
+    "Drain the dumplings on paper towels and serve hot with a sprinkle of chopped almonds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "arabian",
+    "saudi",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-saudi-arabian-almond-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:40:02.367Z"
+}
