@@ -1,0 +1,77 @@
+{
+  "slug": "moist-brown-sugar-turkish-semolina-revani",
+  "title": "Revani (Turkish Semolina Cake)",
+  "description": "A traditional Turkish semolina cake, moist and flavorful, perfect for a sweet treat. Revani is a classic dessert in Turkey and the Balkans.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "moist sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "revani",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together semolina, moist sugar, brown sugar, and turkish.",
+    "In a large bowl, whisk together eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour in the revani and mix until smooth.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "semolina",
+    "turkish",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-brown-sugar-turkish-semolina-revani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:04:33.384Z"
+}
