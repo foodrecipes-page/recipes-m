@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-sour-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting Irish stew made with tender lamb, potatoes, and vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop"
+    },
+    {
+      "name": "Mildly Spiced Irish Stew Seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb to the pot and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onions to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot, along with the stew seasoning and water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve hot, topped with a dollop of sour cream if desired.",
+    "If the stew seems too thick, add a little more water."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:49:43.792Z"
+}
