@@ -1,0 +1,73 @@
+{
+  "slug": "mustardy-australian-jasminderice-pilaf",
+  "title": "Australian-Style Pilaf with a Twist",
+  "description": "A flavorful pilaf dish with Australian twist and a hint of spicy mustard.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasminder rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mustardy",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the water over medium heat.",
+    "Add salt and black pepper, and stir to combine.",
+    "Add Jasminder rice, and stir to combine.",
+    "Reduce heat to low, cover, and cook for 18-20 minutes, or until the rice is cooked and fluffy.",
+    "Fluff the rice with a fork, and stir in the pilaf and Mustardy.",
+    "Cook for an additional 2-3 minutes, or until the flavors are combined.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-australian-jasminderice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:13:34.589Z"
+}
