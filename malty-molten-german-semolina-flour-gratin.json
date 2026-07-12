@@ -1,0 +1,70 @@
+{
+  "slug": "malty-molten-german-semolina-flour-gratin",
+  "title": "German Semolina Cake with Malt Gratin",
+  "description": "A moist German-inspired semolina cake topped with a rich malt gratin, perfect for a comforting dessert.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "250g"
+    },
+    {
+      "name": "flour",
+      "amount": "120g"
+    },
+    {
+      "name": "german",
+      "amount": "1 packet active dry yeast"
+    },
+    {
+      "name": "malty",
+      "amount": "20g malt syrup"
+    },
+    {
+      "name": "molten",
+      "amount": "100g unsalted butter, melted"
+    },
+    {
+      "name": "gratin",
+      "amount": "50g milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large mixing bowl, whisk together semolina, flour, and yeast.",
+    "In a separate bowl, whisk together malt syrup, melted butter, and milk.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Pour the batter into a greased 20cm (8 inch) round cake pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "While the cake is baking, prepare the malt gratin by heating the milk in a saucepan until it starts to boil.",
+    "Remove from heat and stir in the grated malt syrup.",
+    "Once the cake is done, let it cool for 5 minutes before transferring it to a serving plate.",
+    "Pour the malt gratin over the cake and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cake",
+    "dessert",
+    "semolina",
+    "malt"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-molten-german-semolina-flour-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:43:15.535Z"
+}
