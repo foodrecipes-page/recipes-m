@@ -1,0 +1,94 @@
+{
+  "slug": "meltingly-gooey-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A rich and flavorful stew originating from Morocco, typically cooked in a clay pot. This recipe is a simplified version that captures the essence of the traditional dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless thighs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon ground",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon ground",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cooking for an additional 1 minute.",
+    "Add the chicken to the pot, cooking until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, stirring to combine.",
+    "Add 1 cup of water to the pot, bringing the mixture to a simmer.",
+    "Reduce the heat to low and cover the pot, cooking for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meltingly-gooey-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:41:11.428Z"
+}
