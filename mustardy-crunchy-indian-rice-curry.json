@@ -1,0 +1,67 @@
+{
+  "slug": "mustardy-crunchy-indian-rice-curry",
+  "title": "Indian-Style Curry Rice Bowl",
+  "description": "A flavorful and aromatic curry rice bowl made with a blend of Indian spices. This dish is perfect for a quick and easy meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "curry",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustardy oil",
+      "amount": "2 tablespoons",
+      "notes": "or regular oil"
+    },
+    {
+      "name": "crunchy onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "curry powder, turmeric, and cumin powder mix"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onions and sauté until they start to brown.",
+    "Add curry powder, turmeric, and cumin powder mix. Cook for 1 minute.",
+    "Add curry and cook for 5 minutes.",
+    "Add rice to the pan and stir to combine.",
+    "Cook for an additional 5 minutes.",
+    "Serve hot.",
+    "Garnish with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "rice",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crunchy-indian-rice-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:57:27.567Z"
+}
