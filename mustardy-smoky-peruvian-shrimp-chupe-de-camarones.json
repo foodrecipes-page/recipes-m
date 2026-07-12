@@ -1,0 +1,82 @@
+{
+  "slug": "mustardy-smoky-peruvian-shrimp-chupe-de-camarones",
+  "title": "Peruvian Shrimp Stir Fry",
+  "description": "A flavorful and spicy stir-fry recipe featuring Peruvian shrimp, smoky flavors, and a hint of mustardy kick.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons",
+      "notes": "chipotle peppers in adobo sauce"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 tablespoon",
+      "notes": "Dijon mustard"
+    },
+    {
+      "name": "camarones",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chuve",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "de",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and onion; stir-fry until onion is translucent.",
+    "Add Peruvian shrimp; stir-fry for 2-3 minutes, until pink and cooked through.",
+    "Add smoky, mustardy, camarones, and chuve; stir-fry until combined.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-smoky-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:17:53.331Z"
+}
