@@ -1,0 +1,68 @@
+{
+  "slug": "midnight-craving-malaysian-passata-curry",
+  "title": "Midnight Malaysian Curry",
+  "description": "A flavorful and spicy Malaysian-inspired curry made with passata, perfect for a late-night craving.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "250g"
+    },
+    {
+      "name": "midnight oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the midnight oil in a pan over medium heat.",
+    "Add the curry powder and chili flakes, cook for 1 minute.",
+    "Add the passata, bring to a simmer.",
+    "Add the coconut milk, stir well.",
+    "Add the cubed tofu, cook until heated through.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Adjust seasoning as needed.",
+    "Serve with steamed rice or noodles for a filling snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "malaysian",
+    "midnight-snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-malaysian-passata-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:13:55.046Z"
+}
