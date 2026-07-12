@@ -1,0 +1,58 @@
+{
+  "slug": "magical-spicy-german-pineapple-skewers",
+  "title": "Spicy Pineapple Skewers",
+  "description": "A sweet and spicy twist on traditional skewers, featuring juicy pineapple chunks. Perfect for a quick and easy appetizer or snack.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "Magical Skewers",
+      "amount": "10-12",
+      "notes": "available at your local magic market"
+    },
+    {
+      "name": "Spicy Marinade",
+      "amount": "1/4 cup",
+      "notes": "see instructions for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together spicy marinade ingredients: 2 tbsp olive oil, 1 tsp ground cumin, 1 tsp smoked paprika, 1/2 tsp cayenne pepper, 1/4 tsp salt, 1/4 tsp black pepper.",
+    "Thread pineapple chunks onto magical skewers, leaving a small space between each piece.",
+    "Brush skewers with spicy marinade, making sure to coat all pieces evenly.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until pineapple is caramelized and slightly charred.",
+    "Serve immediately, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegan",
+    "vegetarian",
+    "grilled",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-spicy-german-pineapple-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:48:28.724Z"
+}
