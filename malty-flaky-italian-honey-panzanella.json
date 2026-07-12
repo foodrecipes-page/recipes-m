@@ -1,0 +1,67 @@
+{
+  "slug": "malty-flaky-italian-honey-panzanella",
+  "title": "Panzanella Salad with Honey Croutons",
+  "description": "A twist on the classic Italian bread salad, with crispy honey croutons and a sweet, tangy dressing.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "italian bread",
+      "amount": "1 baguette",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "malty tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "flaky mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for croutons"
+    },
+    {
+      "name": "panzanella",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Toss bread cubes with honey and a pinch of salt until evenly coated.",
+    "Spread bread mixture on a baking sheet and bake for 10-12 minutes, or until crispy.",
+    "In a large bowl, combine tomatoes, mozzarella, and panzanella dressing.",
+    "Once croutons are ready, add them to the bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with fresh basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "salad",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-flaky-italian-honey-panzanella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:42:33.112Z"
+}
