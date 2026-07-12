@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-roasted-chewy-egyptian-green-beans-tagine",
+  "title": "Egyptian Green Bean Tagine",
+  "description": "A flavorful and aromatic North African stew made with green beans, spices, and a touch of sweetness.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 pound, trimmed",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available in most Middle Eastern stores or online"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1, diced",
+      "notes": "Mildly sweet and smoky"
+    },
+    {
+      "name": "Mild onion",
+      "amount": "1, chopped",
+      "notes": "Cook until translucent"
+    },
+    {
+      "name": "Chewy Egyptian dates",
+      "amount": "2, pitted",
+      "notes": "Optional, for added sweetness"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and finishing the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to balance flavors"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large clay or ceramic tagine pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the diced roasted red pepper and cook for an additional 2 minutes.",
+    "Add the green beans, tagine spice blend, and pitted dates (if using). Stir to combine.",
+    "Pour in enough water to cover the green beans and bring to a simmer.",
+    "Reduce heat to low, cover the pot, and cook for 20-25 minutes or until the green beans are tender.",
+    "Season with salt to taste, then serve hot garnished with additional tagine spice blend, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-chewy-egyptian-green-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:24:17.460Z"
+}
