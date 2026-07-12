@@ -1,0 +1,69 @@
+{
+  "slug": "melted-smoky-russian-onion-skewers",
+  "title": "Melted Russian Beef Skewers",
+  "description": "A flavorful and tender skewer dish inspired by Russian cuisine, with a smoky twist.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian ground beef",
+      "amount": "500g",
+      "notes": "preferably 80/20 ratio"
+    },
+    {
+      "name": "Melted mozzarella cheese",
+      "amount": "200g",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 tsp",
+      "notes": "add for smoky flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, mix ground beef with onion and smoky paprika.",
+    "3. Thread the beef mixture onto skewers, leaving some space between each piece.",
+    "4. Grill skewers for 8-10 minutes, turning occasionally, until cooked to 63°C (145°F) for medium-rare.",
+    "5. During the last 2 minutes of grilling, place mozzarella cheese on top of the beef.",
+    "6. Remove skewers from grill and let rest for 2-3 minutes.",
+    "7. Serve immediately, garnished with additional onion if desired.",
+    "8. Enjoy your melted Russian beef skewers!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skewers",
+    "russian-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-smoky-russian-onion-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:31:55.470Z"
+}
