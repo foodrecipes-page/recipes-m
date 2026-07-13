@@ -1,0 +1,90 @@
+{
+  "slug": "midnight-tango",
+  "title": "Midnight Tango Chicken",
+  "description": "A fusion of rich flavors from Midnight and Tango, this dish is a perfect blend of spices and herbs.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Midnight oil",
+      "amount": "2 tbsp",
+      "notes": "or substitute with olive oil"
+    },
+    {
+      "name": "Tango seasoning",
+      "amount": "2 tsp",
+      "notes": "or substitute with chili powder and cumin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together Midnight oil, Tango seasoning, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and cook for 5-6 minutes per side.",
+    "Transfer the chicken to a baking sheet and bake for 10-12 minutes.",
+    "In the same skillet, add the diced onion, garlic, bell pepper, and tomato.",
+    "Cook until the vegetables are tender, about 5-7 minutes.",
+    "Serve the chicken with the sautéed vegetables.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "latin",
+    "american",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-tango",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:38:11.094Z"
+}
