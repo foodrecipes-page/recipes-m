@@ -1,0 +1,75 @@
+{
+  "slug": "moist-mayonnaise-ethiopian-dum-dumplings",
+  "title": "Moist Dumplings with Spicy Ethiopian Sauce",
+  "description": "A flavorful and moist dumpling dish served with a spicy and tangy Ethiopian-inspired sauce. This recipe is perfect for a comforting meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Dumplings",
+      "amount": "10-count package",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Moist Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the dumplings according to the package instructions.",
+    "2. In a pan, heat 1 tbsp of oil over medium heat.",
+    "3. Add the onion and garlic and cook until softened.",
+    "4. Add the ground beef and cook until browned, breaking it apart with a spoon.",
+    "5. Add the Ethiopian spice mix and stir to combine.",
+    "6. Add the cooked dumplings to the pan and stir to combine.",
+    "7. In a small bowl, mix together the moist mayonnaise and 1 tsp of water.",
+    "8. Add the mayonnaise mixture to the pan and stir to combine.",
+    "9. Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "10. Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "dumplings",
+    "meat",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-mayonnaise-ethiopian-dum-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:01:11.450Z"
+}
