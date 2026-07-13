@@ -1,0 +1,92 @@
+{
+  "slug": "molten-algerian-cocoa-tart",
+  "title": "Tart Algerian Chocolate Cake",
+  "description": "Moist and rich chocolate cake with an Algerian twist. Perfect for special occasions.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cocoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Molten",
+      "amount": "1/2 cup",
+      "notes": "Melted butter"
+    },
+    {
+      "name": "Tart",
+      "amount": "1/2 cup",
+      "notes": "Diced tart apples"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 teaspoons",
+      "notes": "Algerian spice mix"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Grease two 8-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, sugar, Algerian spice mix, and salt.",
+    "In a large mixing bowl, whisk together molten, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Add the cocoa powder and mix until well combined.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, place one layer on a serving plate and top with powdered sugar.",
+    "Place the second layer on top and dust with powdered sugar.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "algerian-chocolate-cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-algerian-cocoa-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:14:39.113Z"
+}
