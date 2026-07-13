@@ -1,0 +1,63 @@
+{
+  "slug": "mellow-kenyan-molasses-sweet-potato-wrap",
+  "title": "Sweet Mellow Kenyan Wrap",
+  "description": "A fusion of the sweetness of molasses and mellow flavors, wrapped in a Kenyan-inspired sweet potato wrap.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweet potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Kenyan wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mellow",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sweet",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Pierce the sweet potatoes several times with a fork and bake for 45-50 minutes, or until tender.",
+    "3. In a pan over medium heat, warm the Kenyan wrap for 2-3 minutes.",
+    "4. Spread the molasses on the center of the wrap.",
+    "5. Slice the baked sweet potatoes and place on top of the molasses.",
+    "6. Sprinkle mellow and sweet spices over the sweet potatoes.",
+    "7. Fold the wrap in half to enclose the filling.",
+    "8. Slice in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "wrap",
+    "kenyan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-kenyan-molasses-sweet-potato-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:52:58.111Z"
+}
