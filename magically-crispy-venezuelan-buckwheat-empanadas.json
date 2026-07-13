@@ -1,0 +1,93 @@
+{
+  "slug": "magically-crispy-venezuelan-buckwheat-empanadas",
+  "title": "Venezuelan Buckwheat Empanadas",
+  "description": "Crispy empanadas filled with a hearty buckwheat and beef mixture from Venezuela. Perfect as a snack or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Magically Crispy Empanada Dough",
+      "amount": "8-10 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Combine buckwheat, beef, red onion, garlic, paprika, salt, and black pepper in a large bowl. Mix well.",
+    "Add beef broth to the bowl and mix until the mixture is well combined.",
+    "Roll out the empanada dough to 1/4 inch thickness. Cut into 8-10 squares.",
+    "Place about 1/4 cup of the filling mixture in the center of each square. Fold the dough over the filling to form a triangle, pressing the edges with a fork to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with shredded cheese (if using).",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until the dough is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "beef",
+    "buckwheat",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-crispy-venezuelan-buckwheat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:33:12.522Z"
+}
