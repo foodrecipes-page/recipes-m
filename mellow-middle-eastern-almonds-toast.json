@@ -1,0 +1,53 @@
+{
+  "slug": "mellow-middle-eastern-almonds-toast",
+  "title": "Mellow Middle Eastern Toast",
+  "description": "A tasty and easy-to-make toast recipe with a Middle Eastern twist, combining crunchy almonds with a delicious mellow spread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mellow",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Eastern-style toast",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices until crispy.",
+    "Spread 1-2 tablespoons of mellow on each slice.",
+    "Sprinkle sliced almonds over the mellow.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-middle-eastern-almonds-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:15:51.203Z"
+}
