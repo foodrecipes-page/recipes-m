@@ -1,0 +1,83 @@
+{
+  "slug": "melted-kenyan-fish-hash",
+  "title": "Melted Hash Fish Cakes",
+  "description": "A crispy fish cake dish made with melted hash browns and a Kenyan twist, perfect for a light meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "2"
+    },
+    {
+      "name": "Melted Hash Browns",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Coconut Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Flake the cod fillets into a large bowl.",
+    "3. Add the melted hash browns, onion, garlic, coconut flour, eggs, salt, black pepper, and lemon juice to the bowl. Mix well.",
+    "4. Divide the mixture into 4-6 portions, depending on desired size.",
+    "5. Shape each portion into a patty.",
+    "6. Place the patties on a baking sheet lined with parchment paper.",
+    "7. Bake for 15-20 minutes, or until the patties are golden brown and cooked through.",
+    "8. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-cakes",
+    "kenyan-cuisine",
+    "melted-hash-browns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-kenyan-fish-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:57:49.849Z"
+}
