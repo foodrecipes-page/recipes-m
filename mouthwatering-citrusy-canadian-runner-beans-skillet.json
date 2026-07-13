@@ -1,0 +1,77 @@
+{
+  "slug": "mouthwatering-citrusy-canadian-runner-beans-skillet",
+  "title": "Pan-Seared Skillet Beans with Canadian Runner Beans",
+  "description": "A hearty and flavorful dish featuring Canadian runner beans, cooked to perfection in a skillet with a hint of citrus.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian runner beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "a large cast-iron or stainless steel skillet"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and swirl to coat the bottom.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the Canadian runner beans and sauté for 5 minutes.",
+    "Add the lemon juice and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-citrusy-canadian-runner-beans-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:36:38.360Z"
+}
