@@ -1,0 +1,78 @@
+{
+  "slug": "melted-indian-cocoa-curry",
+  "title": "Melted Indian Chocolate Curry",
+  "description": "A rich and creamy curry infused with the deep flavors of melted chocolate.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Nutmeg Powder",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the ghee over low heat.",
+    "Add the garam masala, cinnamon powder, and nutmeg powder. Cook for 1 minute.",
+    "Add the dark chocolate chips and stir until melted.",
+    "Pour in the heavy cream and stir until well combined.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes or until thickened.",
+    "Remove from heat and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled and garnish with a sprinkle of cinnamon powder, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "curry",
+    "indian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-indian-cocoa-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:12:12.993Z"
+}
