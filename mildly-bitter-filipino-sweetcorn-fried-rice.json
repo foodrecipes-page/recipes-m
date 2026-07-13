@@ -1,0 +1,85 @@
+{
+  "slug": "mildly-bitter-filipino-sweetcorn-fried-rice",
+  "title": "Filipino Sweet Corn Fried Rice",
+  "description": "A simple and flavorful Filipino-inspired fried rice dish loaded with sweet corn and savory spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mildly cooked chicken",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add diced onion and minced garlic. Cook until onion is translucent.",
+    "Add diced chicken and cook until heated through.",
+    "Add fish sauce, soy sauce, salt, and pepper. Stir-fry for 1 minute.",
+    "Add sweet corn and stir-fry for 2 minutes.",
+    "Add fried rice and stir-fry for 3-4 minutes, breaking up any clumps with a spatula.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "sweet-corn",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-bitter-filipino-sweetcorn-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:54:59.064Z"
+}
