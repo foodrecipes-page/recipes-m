@@ -1,0 +1,81 @@
+{
+  "slug": "midnight-craving-tunisian-chorizo-tagine",
+  "title": "Tunisian Midnight Chorizo Tagine",
+  "description": "A spicy and flavorful Tunisian-inspired stew made with chorizo, perfect for a midnight craving.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo Sausage",
+      "amount": "1 pound",
+      "notes": "Slice the chorizo into 1/2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Canned Crushed Tomatoes",
+      "amount": "1 (14 oz) can",
+      "notes": "Diced"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon ground cumin",
+      "notes": "1 teaspoon smoked paprika"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chorizo and cook until browned, about 5 minutes.",
+    "Remove the chorizo from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the crushed tomatoes, cumin, smoked paprika, salt, and pepper to the pot.",
+    "Stir to combine, then add the cooked chorizo back to the pot.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "chorizo",
+    "tunisian",
+    "stew",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-tunisian-chorizo-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:11:21.777Z"
+}
