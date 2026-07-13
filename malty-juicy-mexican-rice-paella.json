@@ -1,0 +1,76 @@
+{
+  "slug": "malty-juicy-mexican-rice-paella",
+  "title": "Mexican Paella",
+  "description": "A flavorful and spicy paella dish with a Mexican twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mexican rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "malty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the paprika, cumin, and chili powder. Cook for 1 minute.",
+    "Add the malty and juicy. Cook for 5 minutes.",
+    "Add the paella, diced tomatoes, and water. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "paella",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-juicy-mexican-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:45:58.895Z"
+}
