@@ -1,0 +1,89 @@
+{
+  "slug": "mildly-spicy-egyptian-lamb-wrap",
+  "title": "Egyptian Lamb Wrap",
+  "description": "A flavorful and spicy Egyptian-inspired lamb wrap, perfect for a quick and satisfying meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Mildly spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "See below for homemade recipe"
+    },
+    {
+      "name": "Egyptian pita bread",
+      "amount": "4-6 wraps",
+      "notes": "Warm before serving"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together chopped lamb, mildly spicy sauce, garlic, and lemon juice.",
+    "2. Heat a large skillet over medium-high heat and cook the lamb mixture for 5-7 minutes, breaking it up with a spoon as it cooks.",
+    "3. Warm the Egyptian pita bread by wrapping it in foil and heating it in the oven at 375°F (190°C) for 5-7 minutes.",
+    "4. Assemble the wraps by spreading a spoonful of the lamb mixture onto each pita bread, followed by cucumber, red onion, tomato, and parsley.",
+    "5. Serve immediately and enjoy!",
+    "6. To make the mildly spicy sauce, combine 1/2 cup mayonnaise, 1/4 cup plain Greek yogurt, 1 tablespoon sriracha sauce, and 1 teaspoon lemon juice in a bowl. Mix well and refrigerate for at least 30 minutes before using.",
+    "7. If using a pre-made mildly spicy sauce, skip steps 6 and use 1/4 cup in the lamb mixture instead.",
+    "8. To ensure food safety, cook the lamb to an internal temperature of at least 145°F (63°C)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "wrap",
+    "egyptian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-egyptian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:09:06.973Z"
+}
