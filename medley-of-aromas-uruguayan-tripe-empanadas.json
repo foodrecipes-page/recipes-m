@@ -1,0 +1,76 @@
+{
+  "slug": "medley-of-aromas-uruguayan-tripe-empanadas",
+  "title": "Uruguayan-Style Tripe Empanadas",
+  "description": "A traditional Uruguayan dish featuring slow-cooked tripe wrapped in a crispy empanada crust. Serve with a side of chimichurri sauce for added flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Medley of aromas (onions, garlic, bell peppers)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Uruguayan empanada dough",
+      "amount": "1 package",
+      "notes": "available at most Latin American markets"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pot, combine the tripe, medley of aromas, salt, and black pepper. Add enough water to cover the tripe and bring to a boil.",
+    "Reduce the heat to low and simmer for 2 hours, or until the tripe is tender.",
+    "While the tripe is cooking, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the cooked tripe in the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Brush the tops of the empanadas with olive oil and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot with a side of chimichurri sauce for added flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanadas",
+    "tripe",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/medley-of-aromas-uruguayan-tripe-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:25:30.814Z"
+}
