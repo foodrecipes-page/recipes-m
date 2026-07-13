@@ -1,0 +1,91 @@
+{
+  "slug": "marinated-melted-jamaican-chicken-kebabs",
+  "title": "Jamaican Chicken Kebabs",
+  "description": "Tender marinated chicken grilled to perfection on skewers with a delicious Caribbean twist.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Marinated chicken seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, onions, bell peppers, and zucchini onto skewers.",
+    "In a small bowl, mix together marinated chicken seasoning, Jamaican jerk seasoning, lime juice, and honey (if using).",
+    "Brush the skewers with the marinade, making sure all the ingredients are coated.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally.",
+    "Brush with vegetable oil during the last 2 minutes of cooking.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired.",
+    "Let the chicken rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "kebabs",
+    "jamaican",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-melted-jamaican-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:45:27.115Z"
+}
