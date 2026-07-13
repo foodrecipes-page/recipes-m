@@ -1,0 +1,87 @@
+{
+  "slug": "midnight-craving-portuguese-fromage-frais-stir-fry",
+  "title": "Midnight Stir Fry",
+  "description": "A quick and easy Portuguese-inspired stir fry for a late-night craving, featuring fromage and frais.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fromage Frais",
+      "amount": "8 oz",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and cook for 1 minute until fragrant.",
+    "Add onion, bell pepper, and mushrooms. Cook for 3-4 minutes until the vegetables start to soften.",
+    "Add zucchini and cook for an additional 2-3 minutes until the vegetables are tender.",
+    "Stir in fromage frais until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "stir-fry",
+    "fromage-frais",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-portuguese-fromage-frais-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:32:18.114Z"
+}
