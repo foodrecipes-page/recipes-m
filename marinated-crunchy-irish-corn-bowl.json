@@ -1,0 +1,72 @@
+{
+  "slug": "marinated-crunchy-irish-corn-bowl",
+  "title": "Irish Crunchy Corn Bowl",
+  "description": "A delicious and easy-to-make Irish-inspired corn bowl with crunchy elements. Perfect for a quick lunch or dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "marinated corn",
+      "amount": "1 cup",
+      "notes": "drained from marinade"
+    },
+    {
+      "name": "crunchy onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "large, shallow"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the marinated corn on a baking sheet lined with parchment paper.",
+    "Roast the corn in the oven for 15-20 minutes or until lightly charred.",
+    "In a large bowl, mix together the diced crunchy onion, shredded Irish cheddar cheese, diced red bell pepper, and chopped green onions.",
+    "Add the roasted corn to the bowl and toss to combine.",
+    "Spoon the corn mixture into a large, shallow bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "corn",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-crunchy-irish-corn-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T08:05:32.172Z"
+}
