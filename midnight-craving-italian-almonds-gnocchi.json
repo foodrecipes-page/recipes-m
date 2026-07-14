@@ -1,0 +1,81 @@
+{
+  "slug": "midnight-craving-italian-almonds-gnocchi",
+  "title": "Midnight Italian Almond Gnocchi Delight",
+  "description": "A simple yet satisfying Italian dish, perfect for a late-night craving. This recipe combines soft gnocchi with crunchy almonds and a touch of Italian seasoning.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gnocchi",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup (30g), sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup (15g), chopped"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp (2g)"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp (1g)"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup (30g), grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook gnocchi according to package instructions. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add garlic and cook for 1-2 minutes, until fragrant.",
+    "Add sliced almonds and cook for an additional 2-3 minutes, until lightly toasted.",
+    "Add cooked gnocchi to the skillet and toss with almonds, garlic, and Italian seasoning.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the gnocchi mixture to a baking dish and top with Parmesan cheese.",
+    "Bake in the preheated oven for 10-12 minutes, until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "gnocchi",
+    "almonds",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-italian-almonds-gnocchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:24:51.825Z"
+}
