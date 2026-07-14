@@ -1,0 +1,77 @@
+{
+  "slug": "melted-grilled-norwegian-seafood-kebabs",
+  "title": "Norwegian Grilled Seafood Kebabs",
+  "description": "A flavorful and easy-to-make recipe featuring grilled seafood kebabs with a Norwegian twist. Perfect for a quick and delicious meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sockeye Salmon Fillets",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound peeled and deveined",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lingonberry Jam",
+      "amount": "1/4 cup",
+      "notes": "Traditionally used in Norwegian cuisine"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh and fragrant"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut salmon and shrimp into 1-inch pieces and thread onto skewers.",
+    "In a small bowl, whisk together lemon juice, lingonberry jam, and olive oil.",
+    "Brush the mixture onto both sides of the seafood kebabs.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes or until cooked through.",
+    "Serve hot with chopped parsley garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "kebabs",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-grilled-norwegian-seafood-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:48:18.062Z"
+}
