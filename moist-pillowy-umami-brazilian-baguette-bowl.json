@@ -1,0 +1,67 @@
+{
+  "slug": "moist-pillowy-umami-brazilian-baguette-bowl",
+  "title": "Brazilian-Style Baguette with Umami Dipping Sauce",
+  "description": "A twist on the classic French baguette, served with a rich and savory dipping sauce. Perfect for a snack or light lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "moist",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1/4 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 large",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the baguette into 1-inch thick rounds.",
+    "In a small bowl, mix together the softened butter, heavy cream, and soy sauce.",
+    "Dip each baguette round into the umami dipping sauce, coating both sides.",
+    "Place the coated baguette rounds on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until crispy and golden brown.",
+    "Serve immediately in a large bowl and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "snack",
+    "umami",
+    "baguette"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-pillowy-umami-brazilian-baguette-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:59:31.290Z"
+}
