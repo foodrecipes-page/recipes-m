@@ -1,0 +1,73 @@
+{
+  "slug": "mildly-flavored-syrian-lentil-pilaf",
+  "title": "Syrian Lentil Pilaf",
+  "description": "A flavorful and nutritious Syrian-inspired dish made with lentils and mildly flavored pilaf.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mildly Flavored Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Syrian Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Syrian lentils, pilaf, salt, and black pepper to the saucepan.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "syrian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-flavored-syrian-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:14:55.429Z"
+}
