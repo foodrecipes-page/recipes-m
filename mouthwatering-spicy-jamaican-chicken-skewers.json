@@ -1,0 +1,77 @@
+{
+  "slug": "mouthwatering-spicy-jamaican-chicken-skewers",
+  "title": "Jamaican Chicken Skewers",
+  "description": "A flavorful and spicy Jamaican-inspired recipe featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, allspice, thyme, and scotch bonnet peppers.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Thread the marinated chicken onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-spicy-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:37:21.041Z"
+}
