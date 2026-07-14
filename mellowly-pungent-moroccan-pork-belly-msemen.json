@@ -1,0 +1,76 @@
+{
+  "slug": "mellowly-pungent-moroccan-pork-belly-msemen",
+  "title": "Moroccan Pork Belly Msemen",
+  "description": "A rich and spicy Moroccan-inspired dish featuring slow-cooked pork belly wrapped inside msemen, a traditional North African pancake.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "msemen",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pungent chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mellowly sweet onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork belly with salt, black pepper, and moroccan spice blend.",
+    "Place the pork belly on a baking sheet and cook for 2 hours, or until tender.",
+    "While the pork is cooking, heat a large skillet over medium-high heat.",
+    "Add the diced onion and cook until caramelized, about 20 minutes.",
+    "Add the pungent chili flakes and cook for an additional minute.",
+    "Wrap each msemen piece around a portion of the cooked pork belly and onion mixture.",
+    "Serve immediately and enjoy.",
+    "Optional: serve with a side of moroccan harissa for added heat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "pork",
+    "msemen",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellowly-pungent-moroccan-pork-belly-msemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:20:23.960Z"
+}
