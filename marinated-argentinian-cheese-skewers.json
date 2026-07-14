@@ -1,0 +1,93 @@
+{
+  "slug": "marinated-argentinian-cheese-skewers",
+  "title": "Argentinian Grilled Cheese Skewers",
+  "description": "A unique twist on traditional grilled cheese, featuring marinated cheese and Argentinian flavors. Perfect as a snack or appetizer.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Marinated Cheese (Queso Frito)",
+      "amount": "8 oz (225g)",
+      "notes": "Available at most Latin American markets"
+    },
+    {
+      "name": "Argentinian Sausage (Choripan)",
+      "amount": "4-6 sausages",
+      "notes": "Grilled and sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 large",
+      "notes": "Any color, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Argentinian Bread (Choripan)",
+      "amount": "4-6 slices",
+      "notes": "Grilled"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-16 wooden or metal",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "4-6 tbsp (60-90ml)",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread cheese, sausage, bell peppers, onions, and bread slices onto skewers.",
+    "3. Brush olive oil onto skewers.",
+    "4. Season with garlic powder, salt, and black pepper.",
+    "5. Grill skewers for 2-3 minutes per side, or until cheese is melted and bread is toasted.",
+    "6. Serve immediately with chimichurri sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cheese",
+    "argentinian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": "320-400",
+    "protein": "18-22g",
+    "carbs": "20-25g",
+    "fat": "20-25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-argentinian-cheese-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:04:46.868Z"
+}
