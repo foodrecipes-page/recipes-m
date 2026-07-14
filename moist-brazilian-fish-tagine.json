@@ -1,0 +1,88 @@
+{
+  "slug": "moist-brazilian-fish-tagine",
+  "title": "Grilled Fish Tagine",
+  "description": "A fusion of Brazilian and Moroccan flavors, this dish features grilled fish in a rich and aromatic tagine sauce.",
+  "cuisine": "Brazilian-Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as mahi-mahi or tilapia)",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Tagine paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish fillets with salt and black pepper.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, heat the tagine paste in a small saucepan over medium heat.",
+    "Add the onion and garlic to the saucepan and cook until the onion is translucent.",
+    "Stir in the lime juice and cook for an additional 1-2 minutes.",
+    "Serve the grilled fish with the tagine sauce spooned over the top.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "tagine-sauce",
+    "brazilian-moroccan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-brazilian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T08:49:04.159Z"
+}
