@@ -1,0 +1,62 @@
+{
+  "slug": "mediterranean-mediterranean-parmesan-cheese-roast",
+  "title": "Roasted Mediterranean Pasta",
+  "description": "A flavorful pasta dish featuring roasted vegetables and tangy parmesan cheese. This Mediterranean-inspired recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta (Mediterranean)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Roast Vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup, grated",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions.",
+    "Toss Mediterranean roast vegetables in olive oil, salt, and pepper.",
+    "Spread vegetables on a baking sheet and roast in the oven for 20-25 minutes.",
+    "In a large skillet, combine cooked pasta, roasted vegetables, and parmesan cheese.",
+    "Toss to combine and top with additional grated cheese if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "mediterranean",
+    "vegetarian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mediterranean-mediterranean-parmesan-cheese-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:12:11.213Z"
+}
