@@ -1,0 +1,90 @@
+{
+  "slug": "melting-jamaican-pork-stew",
+  "title": "Jamaican Pork Stew",
+  "description": "A flavorful and aromatic stew made with tender pork, a blend of Jamaican spices, and a hint of sweetness.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large, chopped",
+      "notes": "Any color"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Melting chocolate",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon, fresh or dried",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes in batches until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add the chopped onion to the pot. Cook, stirring occasionally, until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the browned pork back to the pot, along with the jerk seasoning, tomato paste, allspice, and thyme. Stir to combine.",
+    "Add the chopped tomatoes, brown sugar, and melting chocolate to the pot. Stir to combine.",
+    "Bring the stew to a simmer, then cover the pot and transfer it to the oven.",
+    "Bake for 20-25 minutes or until the pork is tender, the sauce has thickened, and the flavors have melded together.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Let the stew rest for 5-10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melting-jamaican-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:56:54.070Z"
+}
