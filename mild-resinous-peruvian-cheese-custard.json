@@ -1,0 +1,78 @@
+{
+  "slug": "mild-resinous-peruvian-cheese-custard",
+  "title": "Peruvian Custard Cheesecake",
+  "description": "A unique dessert that combines the flavors of Peru with a creamy cheesecake. The mild, resinous notes of the Peruvian ingredient add depth to the dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peruvian ingredient",
+      "amount": "2 tbsp",
+      "notes": "Mild, resinous flavor"
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix the custard, cheese, sugar, eggs, and vanilla extract in a bowl.",
+    "Add the flour and mix until combined.",
+    "Stir in the Peruvian ingredient.",
+    "Pour the mixture into a greased springform pan.",
+    "Bake for 35-40 minutes or until the edges are set.",
+    "Let it cool completely before serving.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-resinous-peruvian-cheese-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:29:13.494Z"
+}
