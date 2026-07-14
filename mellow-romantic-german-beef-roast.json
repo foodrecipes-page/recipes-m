@@ -1,0 +1,97 @@
+{
+  "slug": "mellow-romantic-german-beef-roast",
+  "title": "German Beef Roast with Mellow Gravy",
+  "description": "A hearty, comforting dish featuring a tender beef roast smothered in a rich, mellow gravy, inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "chuck or round work well"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 tablespoons",
+      "notes": "mellow mustard can be used as a substitute"
+    },
+    {
+      "name": "german",
+      "amount": "2 tablespoons",
+      "notes": "german seasoning blend"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the beef roast with salt, pepper, and german seasoning blend.",
+    "Heat a large Dutch oven over medium-high heat. Sear the beef roast until browned on all sides, about 2-3 minutes per side.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the beef broth, red wine (if using), and chopped carrots and potatoes to the pot.",
+    "Return the beef roast to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Roast the beef for 2-3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let rest for 10-15 minutes.",
+    "Strain the juices and discard the solids.",
+    "Skim off any excess fat and whisk in the mellow mustard.",
+    "Serve the beef roast with the mellow gravy spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "roast",
+    "gravy",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-romantic-german-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:41:41.002Z"
+}
