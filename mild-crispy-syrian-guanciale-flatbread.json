@@ -1,0 +1,59 @@
+{
+  "slug": "mild-crispy-syrian-guanciale-flatbread",
+  "title": "Guanciale and Syrian Flatbread Pizza",
+  "description": "A simple but flavorful flatbread topped with crispy guanciale and spicy Syrian pepperoni.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Guanciale",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Syrian flatbread",
+      "amount": "1 package (4-6 pieces)"
+    },
+    {
+      "name": "Mild red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mild olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the Syrian flatbread into 4-6 pieces.",
+    "Place the flatbread pieces on a baking sheet.",
+    "Drizzle the olive oil over the flatbread.",
+    "Sprinkle the red pepper flakes over the flatbread.",
+    "Bake the flatbread in the oven for 10-12 minutes, or until crispy.",
+    "While the flatbread is baking, cook the guanciale slices in a pan over medium heat until crispy.",
+    "Remove the flatbread from the oven and top with the crispy guanciale slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crispy-syrian-guanciale-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:12.403Z"
+}
