@@ -1,0 +1,64 @@
+{
+  "slug": "molten-russian-butter-hash",
+  "title": "Russian Molten Hash Browns",
+  "description": "A crispy, golden hash brown dish infused with the richness of Russian butter and molten flavors. Perfect for a comforting breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 large",
+      "notes": " Peeled and grated"
+    },
+    {
+      "name": "Russian Butter",
+      "amount": "4 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Molten Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine grated potatoes, melted Russian butter, and shredded molten cheese. Season with salt and pepper.",
+    "Transfer the mixture to a greased baking dish and top with pre-cooked hash browns.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Remove from oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hash-browns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-russian-butter-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:45:08.999Z"
+}
