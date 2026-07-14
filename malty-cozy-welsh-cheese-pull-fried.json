@@ -1,0 +1,73 @@
+{
+  "slug": "malty-cozy-welsh-cheese-pull-fried",
+  "title": "Welsh Rarebit Sandwich",
+  "description": "A classic Welsh comfort food made with a rich cheese sauce, perfect for a cozy evening in.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Welsh",
+      "amount": "1 cup",
+      "notes": "Welsh rarebit sauce"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "grated cheddar"
+    },
+    {
+      "name": "malty",
+      "amount": "2 slices",
+      "notes": "malty bread"
+    },
+    {
+      "name": "fried",
+      "amount": "2 tablespoons",
+      "notes": "fried onions"
+    },
+    {
+      "name": "cozy",
+      "amount": "1/4 teaspoon",
+      "notes": "cozy spice blend"
+    },
+    {
+      "name": "pull",
+      "amount": "2 tablespoons",
+      "notes": "malted milk powder"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Butter the malty bread slices.",
+    "3. Place the bread slices under the grill until toasted.",
+    "4. In a saucepan, combine the Welsh rarebit sauce, grated cheese, fried onions, cozy spice blend, and malted milk powder.",
+    "5. Stir the mixture over low heat until the cheese is melted and the sauce is smooth.",
+    "6. Assemble the sandwiches by spreading the cheese sauce on the toasted bread slices.",
+    "7. Place the sandwiches under the grill for a few seconds to melt the cheese.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "cheese-sauce",
+    "welsh-rarebit"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-cozy-welsh-cheese-pull-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:33:07.710Z"
+}
