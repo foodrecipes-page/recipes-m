@@ -1,0 +1,94 @@
+{
+  "slug": "mouthwatering-fresh-brazilian-lamb-skewers",
+  "title": "Brazilian-Style Lamb Skewers",
+  "description": "A classic Brazilian dish featuring marinated lamb skewers grilled to perfection, served with a side of fresh vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "You can also use a mix of lamb and beef for added flavor"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/4 cup",
+      "notes": "Use freshly squeezed lime juice for the best flavor"
+    },
+    {
+      "name": "Brazilian churrasco seasoning",
+      "amount": "2 tablespoons",
+      "notes": "You can also use a mix of cumin, coriander, and chili powder as a substitute"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality olive oil for the best flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": "You can also use a mix of onion and bell pepper for added flavor"
+    },
+    {
+      "name": "Bell pepper, thinly sliced",
+      "amount": "1 medium",
+      "notes": "You can also use a mix of onion and bell pepper for added flavor"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 medium",
+      "notes": "You can also use other summer squash as a substitute"
+    },
+    {
+      "name": "Tomato, halved",
+      "amount": "2 medium",
+      "notes": "Use fresh, ripe tomatoes for the best flavor"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "Use fresh cilantro for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, churrasco seasoning, olive oil, garlic, and onion.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated lamb, bell pepper, zucchini, and tomato onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Serve the skewers hot, garnished with chopped cilantro and a side of fresh vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "grilled",
+    "Brazilian",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-fresh-brazilian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:22:36.426Z"
+}
