@@ -1,0 +1,89 @@
+{
+  "slug": "molten-spicy-mexican-beef-fajitas",
+  "title": "Spicy Beef Fajitas",
+  "description": "Quick and flavorful fajitas made with spicy beef and sautéed vegetables. Serve with warm flour tortillas and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (flank steak)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fajita Seasoning",
+      "amount": "1 packet",
+      "notes": "or homemade blend"
+    },
+    {
+      "name": "Flour Tortillas",
+      "amount": "4-6",
+      "notes": "warm before serving"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of oil and cook the beef for 3-4 minutes or until browned.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining oil and cook the bell peppers and onions for 4-5 minutes or until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the spicy pepper flakes and fajita seasoning and cook for 1 minute.",
+    "Add the beef back into the skillet and stir to combine.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the beef and vegetable mixture onto the tortillas and topping with salsa and cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "fajitas",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-spicy-mexican-beef-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:17:20.211Z"
+}
