@@ -1,0 +1,82 @@
+{
+  "slug": "magnificently-rich-kenyan-lamb-sushi",
+  "title": "Kenyan Lamb Stew",
+  "description": "A hearty and flavorful stew from Kenya, featuring tender lamb and aromatic spices. Serve with a side of crusty bread or over rice for a satisfying meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and sauté the onion, garlic, and ginger until the onion is translucent.",
+    "Add the tomatoes, curry powder, cumin, salt, and black pepper. Stir to combine.",
+    "Add the coconut milk, lamb shoulder, and enough water to cover the lamb. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-rich-kenyan-lamb-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:27:21.637Z"
+}
