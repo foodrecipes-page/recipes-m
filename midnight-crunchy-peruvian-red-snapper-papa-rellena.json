@@ -1,0 +1,76 @@
+{
+  "slug": "midnight-crunchy-peruvian-red-snapper-papa-rellena",
+  "title": "Peruvian Stuffed Red Snapper",
+  "description": "A Peruvian-inspired dish featuring a flavorful filling inside a whole red snapper.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red snapper",
+      "amount": "1 whole snapper (2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "Papa (potatoes)",
+      "amount": "1 large potato, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Midnight beans",
+      "amount": "1 cup cooked, drained",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy corn",
+      "amount": "1 cup frozen, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2 small, seeded and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Rellena cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the snapper under cold water and pat dry with paper towels.",
+    "Season the snapper with salt and pepper.",
+    "In a large skillet, sauté the diced potatoes and chopped peppers until tender.",
+    "Add the cooked beans and corn to the skillet and stir to combine.",
+    "Stuff the snapper's cavity with the potato and bean mixture.",
+    "Top the filling with shredded cheese.",
+    "Place the snapper on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 12-15 minutes, or until the fish is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "fish",
+    "seafood",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-crunchy-peruvian-red-snapper-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:24:57.202Z"
+}
