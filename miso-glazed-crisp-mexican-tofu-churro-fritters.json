@@ -1,0 +1,77 @@
+{
+  "slug": "miso-glazed-crisp-mexican-tofu-churro-fritters",
+  "title": "Spicy Tofu Fritters",
+  "description": "Crispy fritters filled with spicy tofu and served with a side of sweet chili sauce. Perfect for a quick snack or appetizer.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "mexican",
+      "amount": "1/2 teaspoon",
+      "notes": "cumin"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "glazed",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "churro",
+      "amount": "1/4 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "fritters",
+      "amount": "1/4 cup",
+      "notes": "cornmeal"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together crumbled tofu, cumin, and a pinch of salt.",
+    "In a separate bowl, mix together flour, cornmeal, sugar, and a pinch of salt.",
+    "Add the dry ingredients to the tofu mixture and mix until just combined.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry for 2-3 minutes or until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate.",
+    "Serve hot with a side of sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "appetizer",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-glazed-crisp-mexican-tofu-churro-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:29:11.374Z"
+}
