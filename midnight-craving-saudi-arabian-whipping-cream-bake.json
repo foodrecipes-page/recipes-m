@@ -1,0 +1,77 @@
+{
+  "slug": "midnight-craving-saudi-arabian-whipping-cream-bake",
+  "title": "Saudi Arabian Midnight Omelette",
+  "description": "A traditional Saudi Arabian omelette filled with melted cheese and a hint of spice, perfect for a midnight craving.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Whipping Cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Add the whipping cream, salt, black pepper, cumin, and cayenne pepper to the bowl and mix well.",
+    "Heat the ghee or vegetable oil in a non-stick pan over medium heat.",
+    "Add the breadcrumbs to the pan and cook for 2-3 minutes, until lightly toasted.",
+    "Pour the egg mixture over the breadcrumbs and cook for 2-3 minutes, until the edges start to set.",
+    "Add the grated cheese and chopped scallions to the pan and fold the omelette in half.",
+    "Cook for another 2-3 minutes, until the cheese is melted and the omelette is cooked through.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "saudi arabian",
+    "midnight omelette",
+    "eggs",
+    "whipping cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-saudi-arabian-whipping-cream-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:28.427Z"
+}
