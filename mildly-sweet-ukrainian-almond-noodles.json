@@ -1,0 +1,81 @@
+{
+  "slug": "mildly-sweet-ukrainian-almond-noodles",
+  "title": "Sweet Ukrainian Noodle Pudding",
+  "description": "A traditional Ukrainian dessert made with noodles, sweet almond milk, and topped with a caramelized sugar crust.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ukrainian noodles",
+      "amount": "8 oz",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Sweet almond milk",
+      "amount": "2 cups",
+      "notes": "or regular milk"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "for the caramelized crust"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": "for the custard base"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to balance flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Ukrainian noodles according to package instructions. Drain and set aside.",
+    "In a medium saucepan, combine the sweet almond milk, granulated sugar, and unsalted butter. Heat over medium heat, stirring occasionally.",
+    "In a separate bowl, whisk together the egg yolks and vanilla extract (if using). Temper the egg yolks by slowly pouring the warm milk mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to the stovetop and cook over low heat, stirring constantly, until the custard thickens.",
+    "Stir in the cooked noodles and a pinch of salt. Pour the mixture into 6 (1/2 cup) ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until the tops are set and the edges are lightly golden brown.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Just before serving, sprinkle a thin layer of granulated sugar over the top of each ramekin. Caramelize the sugar with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dessert",
+    "sweet",
+    "almond",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "6g",
+    "carbs": "35g",
+    "fat": "9g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-ukrainian-almond-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:16:11.685Z"
+}
