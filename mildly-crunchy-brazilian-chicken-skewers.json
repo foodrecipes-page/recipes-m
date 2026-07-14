@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-crunchy-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "A flavorful and colorful dish inspired by Brazilian cuisine, featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Mildly spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "such as sriracha mayo"
+    },
+    {
+      "name": "Crunchy peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "Brazilian-style seasoning",
+      "amount": "1 teaspoon",
+      "notes": "such as achiote or annatto"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together mildly spicy sauce, crunchy peanut butter, and Brazilian-style seasoning.",
+    "Add chicken to the marinade and toss to coat. Let marinate for at least 30 minutes.",
+    "Thread chicken, red onion, and bell pepper onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "Serve immediately, garnished with fresh cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "bbq",
+    "latin",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-crunchy-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:59:35.603Z"
+}
