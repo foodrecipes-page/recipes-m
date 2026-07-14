@@ -1,0 +1,68 @@
+{
+  "slug": "molten-slovakian-potato-dumplings",
+  "title": "Slovakian Potato Dumplings",
+  "description": "A traditional Slovakian dish made with potato dumplings served with a variety of options such as fried onions, sour cream, or garlic.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Molten Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Boil the grated potatoes in water until tender.",
+    "Drain the potatoes and mash them in a bowl.",
+    "Add the flour, egg, and salt to the mashed potatoes and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll each piece into a long rope and cut into 1-inch pieces.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 5-7 minutes.",
+    "While the dumplings are cooking, melt the molten cheese in a pan over low heat.",
+    "Serve the cooked dumplings with the melted cheese and your choice of toppings.",
+    "Optional: add fried onions, sour cream, or garlic for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "potato",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-slovakian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:57:23.982Z"
+}
