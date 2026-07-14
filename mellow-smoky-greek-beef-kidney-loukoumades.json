@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-smoky-greek-beef-kidney-loukoumades",
+  "title": "Greek Beef Loukoumades",
+  "description": "A twist on traditional Greek doughnuts, these savory loukoumades are filled with a rich beef and kidney mixture.",
+  "cuisine": "Greek",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mellow greek yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "ground"
+    },
+    {
+      "name": "kidney",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "loukoumades mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine beef, kidney, and smoky paprika. Mix well.",
+    "Using the loukoumades mix, form dough into small balls and flatten slightly.",
+    "Add a small spoonful of the beef mixture to the center of each dough ball.",
+    "Seal the dough by folding it over and pressing edges together.",
+    "Fry the loukoumades in batches until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels and serve hot with a side of mellow Greek yogurt.",
+    "Sprinkle with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beef",
+    "loukoumades",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-greek-beef-kidney-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:59:42.313Z"
+}
