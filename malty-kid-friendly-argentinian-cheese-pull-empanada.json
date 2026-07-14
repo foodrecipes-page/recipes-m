@@ -1,0 +1,63 @@
+{
+  "slug": "malty-kid-friendly-argentinian-cheese-pull-empanada",
+  "title": "Argentinian Kid-Friendly Empanada Recipe",
+  "description": "A fun and easy empanada recipe for kids, inspired by traditional Argentinian cuisine. Perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Friendly Empanada Dough",
+      "amount": "1 package",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Malty Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Kid-Friendly Filling",
+      "amount": "1 cup",
+      "notes": "use a mix of shredded cheese and a bit of friendly empanada dough for a fun texture"
+    },
+    {
+      "name": "Pull apart Argentinian Bread",
+      "amount": "1/2 cup, crumbled",
+      "notes": "add some crunchy texture to the filling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. Spoon a small amount of the kid-friendly filling onto the center of each dough circle.",
+    "5. Fold the dough in half to form a half-moon shape, and press the edges together with a fork to seal.",
+    "6. Brush the tops of the empanadas with a little bit of water and sprinkle with shredded cheese.",
+    "7. Bake the empanadas for 15-20 minutes, or until they are golden brown.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "argentinian",
+    "snack",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-kid-friendly-argentinian-cheese-pull-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:07:31.849Z"
+}
