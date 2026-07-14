@@ -1,0 +1,90 @@
+{
+  "slug": "midnight-allspice-bruschetta",
+  "title": "Midnight Bruschetta",
+  "description": "A rich and flavorful twist on the classic Italian appetizer, featuring the warm and aromatic spices of midnight.",
+  "cuisine": "Italian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 baguette, cut into 1/2-inch slices",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large, diced",
+      "notes": null
+    },
+    {
+      "name": "Midnight",
+      "amount": "1 teaspoon, ground",
+      "notes": null
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/4 teaspoon, ground",
+      "notes": null
+    },
+    {
+      "name": "Bruschetta",
+      "amount": "1/4 cup, chopped fresh",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange bread slices on a baking sheet.",
+    "Drizzle olive oil over bread and sprinkle with minced garlic.",
+    "Bake for 5-7 minutes, or until toasted.",
+    "In a small bowl, combine diced tomatoes, ground midnight, and ground allspice.",
+    "Mix well to combine.",
+    "Spoon tomato mixture over toasted bread.",
+    "Sprinkle chopped bruschetta over top.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-allspice-bruschetta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:20:13.276Z"
+}
