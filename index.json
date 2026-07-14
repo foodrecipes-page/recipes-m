@@ -4392,15 +4392,12 @@
   },
   {
     "slug": "mediterranean-mediterranean-parmesan-cheese-roast",
-    "title": "Mediterranean Mediterranean Parmesan Cheese Roast",
+    "title": "Roasted Mediterranean Pasta",
     "tags": [
-      "brunch",
-      "easy-to-make",
-      "gluten-free",
+      "pasta",
       "mediterranean",
-      "parmesan",
-      "roasted",
-      "vegetarian"
+      "vegetarian",
+      "cheese"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
@@ -8220,14 +8217,15 @@
   },
   {
     "slug": "midnight-allspice-bruschetta",
-    "title": "Midnight Allspice Bruschetta",
+    "title": "Midnight Bruschetta",
     "tags": [
-      "midnight_allspice_bruschetta",
-      "rich_light_german_dish",
-      "ground_allspice_midnight_craving"
+      "italian",
+      "vegetarian",
+      "appetizer",
+      "snack"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -13524,16 +13522,15 @@
   },
   {
     "slug": "mildly-spicy-norwegian-tofu-curry",
-    "title": "Mildly Spicy Norwegian Tofu Curry",
+    "title": "Spicy Norwegian Curry Tofu Bowl",
     "tags": [
-      "comfort-food",
-      "norwegian-cuisine",
-      "one-pan",
-      "plant-based",
-      "post-workout"
+      "curry",
+      "norwegian",
+      "spicy",
+      "tofu"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -15418,17 +15415,15 @@
   },
   {
     "slug": "moist-rich-korean-dates-mandu",
-    "title": "Moist Rich Korean Dates Mandu",
+    "title": "Korean-Style Pan-Seared Mandu with Date Reduction Sauce",
     "tags": [
-      "asian-fusion",
-      "date-recipes",
-      "indulgent-dishes",
-      "korean-cuisine",
-      "mandu-recipes",
-      "pescatarian-friendly"
+      "korean",
+      "mandu",
+      "dates",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -16994,17 +16989,15 @@
   },
   {
     "slug": "molten-spicy-mexican-beef-fajitas",
-    "title": "Molten Spicy Mexican Beef Fajitas",
+    "title": "Spicy Beef Fajitas",
     "tags": [
+      "mexican",
       "beef",
       "fajitas",
-      "mexican",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "spicy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
