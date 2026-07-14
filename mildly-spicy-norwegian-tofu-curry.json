@@ -1,0 +1,75 @@
+{
+  "slug": "mildly-spicy-norwegian-tofu-curry",
+  "title": "Spicy Norwegian Curry Tofu Bowl",
+  "description": "A flavorful and spicy curry made with Norwegian influences, served with crispy tofu and served over a bed of fluffy rice.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "block of firm tofu",
+      "amount": "1"
+    },
+    {
+      "name": "Norwegian red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mildly spicy curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-high heat.",
+    "Add the onion and cook until lightly browned, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Add the tofu and cook until golden brown, about 5-6 minutes.",
+    "Stir in 1 cup of water and bring to a simmer.",
+    "Reduce the heat to low and let simmer for 10-12 minutes.",
+    "While the curry is simmering, cook the brown rice according to package instructions.",
+    "Serve the curry over the rice and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "norwegian",
+    "spicy",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-norwegian-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:04:09.883Z"
+}
