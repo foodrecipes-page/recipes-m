@@ -1,0 +1,80 @@
+{
+  "slug": "mustardy-snappy-lamb-tasty-scotch-egg",
+  "title": "Scotch Egg with Mustardy Sauce",
+  "description": "A classic scotch egg recipe with a twist of mustardy sauce, perfect for a quick snack.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "breakfast\"|\"snack",
+  "ingredients": [
+    {
+      "name": "Lamb Mince",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Scotch Egg",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Tasty",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a pan, cook the lamb mince over medium heat, breaking it up with a spoon, until browned.",
+    "2. Add the chopped tasty and cook for 1-2 minutes.",
+    "3. Remove from heat and let cool.",
+    "4. Wrap each scotch egg in the cooled lamb mixture.",
+    "5. Chill in the fridge for at least 30 minutes.",
+    "6. Meanwhile, mix the mustard and mayonnaise in a bowl.",
+    "7. Serve the scotch egg with the mustardy sauce.",
+    "8. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "british",
+    "lamb",
+    "scotch-egg"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-snappy-lamb-tasty-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:55:57.440Z"
+}
