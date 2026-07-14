@@ -1,0 +1,61 @@
+{
+  "slug": "mellow-kenyan-lentil-stew",
+  "title": "Kenyan Lentil Stew",
+  "description": "A hearty and comforting Kenyan-inspired lentil stew made with aromatic spices and a rich tomato sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "red or green"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 medium",
+      "notes": "onions"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add cumin and cook for 1 minute.",
+    "Add lentils, broth, and salt. Bring to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "lentil",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-kenyan-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:42:49.565Z"
+}
