@@ -1,0 +1,84 @@
+{
+  "slug": "meatless-meal-prep-syrian-asparagus-bowl",
+  "title": "Syrian-Style Asparagus Bowl",
+  "description": "A healthy and flavorful vegan bowl recipe inspired by Syrian cuisine, featuring roasted asparagus, chickpeas, and a tangy tahini sauce.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound, trimmed"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can, drained and rinsed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss asparagus with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast for 12-15 minutes or until tender.",
+    "In a large bowl, whisk together lemon juice, tahini, garlic, salt, and black pepper.",
+    "Add chickpeas, red onion, and roasted asparagus to the bowl. Toss to combine.",
+    "Drizzle with remaining 1 tablespoon olive oil and toss again.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "syrian",
+    "asparagus",
+    "bowl",
+    "meatless"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meatless-meal-prep-syrian-asparagus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:02:13.139Z"
+}
