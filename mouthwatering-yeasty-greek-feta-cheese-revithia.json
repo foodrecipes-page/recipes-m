@@ -1,0 +1,76 @@
+{
+  "slug": "mouthwatering-yeasty-greek-feta-cheese-revithia",
+  "title": "Revithia Feta Pie",
+  "description": "A traditional Greek savory pie filled with revithia and crumbled feta cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "revithia flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 oz, crumbled"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine revithia flour and yeast.",
+    "2. Gradually add water, mixing until a dough forms.",
+    "3. Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "5. Preheat oven to 375°F (190°C).",
+    "6. Punch down the dough and divide it into 2 equal pieces.",
+    "7. Roll out each piece of dough into a thin circle.",
+    "8. Place one circle of dough in a greased 9-inch pie dish.",
+    "9. Spread half of the feta cheese on the dough, leaving a 1-inch border around the edges.",
+    "10. Sprinkle chopped parsley on top of the feta cheese, if using.",
+    "11. Place the second circle of dough on top of the filling and press the edges to seal.",
+    "12. Brush the top of the pie with olive oil and bake for 35-40 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "feta",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-yeasty-greek-feta-cheese-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:30:07.489Z"
+}
