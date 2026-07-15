@@ -1,0 +1,74 @@
+{
+  "slug": "malty-american-cardamom-pie",
+  "title": "Malty American Pie Recipe",
+  "description": "A sweet and comforting dessert, perfect for any occasion.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "malty sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pie spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour and pie spice.",
+    "Add in malted sugar and cardamom, stir until combined.",
+    "Add in cold butter and use a pastry blender to work into the dry ingredients.",
+    "Roll out dough on a lightly floured surface to a thickness of 1/8 inch.",
+    "Transfer dough to a 9-inch pie dish and trim edges to fit.",
+    "In a separate bowl, whisk together eggs and heavy cream.",
+    "Pour egg mixture into the pie crust and smooth the top.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Allow pie to cool on a wire rack for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pie",
+    "malty",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-american-cardamom-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:07:51.896Z"
+}
