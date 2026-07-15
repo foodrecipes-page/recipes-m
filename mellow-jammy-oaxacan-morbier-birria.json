@@ -1,0 +1,72 @@
+{
+  "slug": "mellow-jammy-oaxacan-morbier-birria",
+  "title": "Oaxacan Mellow Birria Stew",
+  "description": "A rich and flavorful stew originating from Oaxaca, Mexico. Mellow cheese adds a creamy twist to the classic dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Birria meat (beef or goat)",
+      "amount": "1 pound",
+      "notes": "boneless and cut into small pieces"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Jammy onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Oaxacan chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the birria meat and cook until browned on all sides, about 5 minutes.",
+    "Add the Oaxacan chili powder and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours or until the meat is tender.",
+    "Stir in the shredded mellow cheese until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with sliced morbier cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lunch",
+    "stew",
+    "birria"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-jammy-oaxacan-morbier-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:30:17.141Z"
+}
