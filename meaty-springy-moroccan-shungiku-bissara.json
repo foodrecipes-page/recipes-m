@@ -1,0 +1,87 @@
+{
+  "slug": "meaty-springy-moroccan-shungiku-bissara",
+  "title": "Moroccan-Style Meatballs with Spring Greens",
+  "description": "A flavorful and healthy Moroccan-inspired dish featuring meatballs made with meaty and springy ingredients, served with a side of sautéed shungiku and a dollop of bissara.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Meaty ground meat",
+      "amount": "1 pound",
+      "notes": "You can use beef, lamb, or a combination of the two."
+    },
+    {
+      "name": "Springy greens",
+      "amount": "1 bunch",
+      "notes": "You can use any type of springy green, such as kale or collard greens."
+    },
+    {
+      "name": "Bissara (chickpea puree)",
+      "amount": "1 cup",
+      "notes": "You can make your own bissara from scratch or use store-bought."
+    },
+    {
+      "name": "Shungiku (chrysanthemum greens)",
+      "amount": "1 cup",
+      "notes": "You can use fresh or frozen shungiku."
+    },
+    {
+      "name": "Moroccan spices",
+      "amount": "2 teaspoons",
+      "notes": "You can use a pre-mixed Moroccan spice blend or make your own."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "You can use any type of oil, but olive oil is traditional in Moroccan cuisine."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "You can use any type of salt, but sea salt is recommended."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "You can use any type of pepper, but black pepper is traditional."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the meaty ground meat, springy greens, bissara, shungiku, Moroccan spices, olive oil, salt, and black pepper.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Use your hands to shape the mixture into small meatballs.",
+    "Place the meatballs on a baking sheet lined with parchment paper.",
+    "Bake the meatballs in the preheated oven for 15-20 minutes, or until cooked through.",
+    "While the meatballs are baking, heat a tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the shungiku to the skillet and sauté until wilted.",
+    "Serve the meatballs with the sautéed shungiku and a dollop of bissara.",
+    "Garnish with fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "meatballs",
+    "spring-greens",
+    "bissara",
+    "shungiku"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meaty-springy-moroccan-shungiku-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:30:34.297Z"
+}
