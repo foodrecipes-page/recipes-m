@@ -1,0 +1,93 @@
+{
+  "slug": "midnight-craving-thai-oxtail-nam-prik",
+  "title": "Thai Braised Oxtail",
+  "description": "A rich and flavorful Thai-inspired oxtail dish, perfect for a late-night craving.",
+  "cuisine": "Thai",
+  "diet": [
+    "beef",
+    "gluten",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "midnight bean paste",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "prik nam pla",
+      "amount": "2 tablespoons",
+      "notes": "Thai fish sauce"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the oxtail in batches, then set aside.",
+    "Add more oil if necessary, then sauté the garlic and shallots until fragrant.",
+    "Add the bean paste, fish sauce, and brown sugar; stir to combine.",
+    "Return the oxtail to the pot, cover, and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the meat is tender.",
+    "Stir in the coconut milk and Thai basil; cook for an additional 10 minutes.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with additional Thai basil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thaibraised",
+    "oxtail",
+    "midnightbeanpaste",
+    "priknampla"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-thai-oxtail-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T20:53:23.730Z"
+}
