@@ -1,0 +1,73 @@
+{
+  "slug": "mighty-american-beef-sandwich",
+  "title": "American Beef Sandwich",
+  "description": "A classic American-style sandwich featuring a beef patty, topped with cheese, lettuce, and tomato, all on a toasted bun.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Bun",
+      "amount": "4"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2"
+    },
+    {
+      "name": "Mayonnaise (or Ketchup)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Form the ground beef into 4 patties.",
+    "3. Season the beef patties with salt and pepper.",
+    "4. Grill the beef patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "5. Toast the buns on the grill or in a toaster.",
+    "6. Assemble the sandwiches by spreading mayonnaise or ketchup on the bottom bun, followed by a beef patty, a slice of cheese, a lettuce leaf, and a tomato slice.",
+    "7. Top with the top bun.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "beef",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-american-beef-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:49:06.590Z"
+}
