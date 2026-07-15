@@ -1,0 +1,72 @@
+{
+  "slug": "mindful-american-chicken-skillet",
+  "title": "American-Style Chicken Skillet",
+  "description": "A classic American dish made with chicken, onions, and bell peppers. Cooked in a skillet, this recipe is quick and easy to make.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "chicken",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindful-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:45:36.884Z"
+}
