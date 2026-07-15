@@ -1,0 +1,75 @@
+{
+  "slug": "mildly-smoky-thai-papaya-som-tum",
+  "title": "Smoky Papaya Salad",
+  "description": "A spicy and sour Thai-inspired salad made with grilled papaya, smoky flavors and crunchy texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Papaya",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Mildly Smoky Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai Chilies",
+      "amount": "2-3"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tum (Fermented Fish Paste)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cut the papaya into small pieces and grill until slightly charred.",
+    "2. In a blender or food processor, combine the smoky sauce, Thai chilies, fish sauce, lime juice, and tum.",
+    "3. Blend until smooth and adjust the seasoning as needed.",
+    "4. In a large bowl, combine the grilled papaya, cilantro, and crushed peanuts.",
+    "5. Pour the blended sauce over the papaya mixture and toss to combine.",
+    "6. Taste and adjust the seasoning as needed.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-thai-papaya-som-tum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:32:34.966Z"
+}
