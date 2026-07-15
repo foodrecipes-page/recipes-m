@@ -1,0 +1,64 @@
+{
+  "slug": "malty-dense-tunisian-eggs-frittata",
+  "title": "Tunisian Frittata",
+  "description": "A twist on the classic frittata, inspired by the flavors of Tunisia. Perfect for a quick and easy meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "egg"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "malty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "frittata",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Heat a large skillet over medium heat and add the malty, dense, and tunisian.",
+    "Pour the whisked eggs over the vegetables and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet.",
+    "Slide the frittata out of the skillet onto a plate and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-tunisian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:59:43.500Z"
+}
