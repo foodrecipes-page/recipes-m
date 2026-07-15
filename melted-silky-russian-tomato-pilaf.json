@@ -1,0 +1,80 @@
+{
+  "slug": "melted-silky-russian-tomato-pilaf",
+  "title": "Pilaf with Russian Tomato Sauce",
+  "description": "A simple and flavorful pilaf dish made with a tangy Russian tomato sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "silky pilaf mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato (canned)",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt 1 tablespoon of butter in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the diced fresh tomato and cook for 2-3 minutes.",
+    "Add the canned tomato, chicken broth, and dried dill.",
+    "Stir in the pilaf mix.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Fluff with a fork and serve hot.",
+    "Serve with melted butter and additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "tomato-sauce",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-silky-russian-tomato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:23:32.501Z"
+}
