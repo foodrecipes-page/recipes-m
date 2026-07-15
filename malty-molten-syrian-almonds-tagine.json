@@ -1,0 +1,67 @@
+{
+  "slug": "malty-molten-syrian-almonds-tagine",
+  "title": "Delicious Syrian Almond Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish made with tender almonds and sweet tagine. The perfect combination of Middle Eastern spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "molten",
+      "amount": "1/4 cup",
+      "notes": "melted butter"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together sliced almonds, chopped tagine, ground malty, and ground syrian.",
+    "Add melted molten butter to the bowl and mix until the almonds are well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 20-25 minutes or until the almonds are lightly toasted.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "meatless",
+    "almonds",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-molten-syrian-almonds-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:33:56.694Z"
+}
