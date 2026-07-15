@@ -1,0 +1,98 @@
+{
+  "slug": "mouthwatering-malaysian-shrimp-noodles",
+  "title": "Malaysian Shrimp Noodle Stir Fry",
+  "description": "Enjoy this spicy, flavorful, and quick-to-make noodle dish that's perfect for a weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Sambal Oelek",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions. Drain and set aside.",
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced ginger and garlic and cook for 30 seconds until fragrant.",
+    "Add the sambal oelek and cook for another minute.",
+    "Add the cooked noodles to the wok and stir to combine with the spice mixture.",
+    "Add the fish sauce, soy sauce, brown sugar, and red chili flakes to the wok and stir to combine.",
+    "Return the cooked shrimp to the wok and stir to combine with the noodle mixture.",
+    "Serve the Malaysian shrimp noodle stir-fry hot, garnished with chopped green onions and sliced red chili peppers if desired.",
+    "Adjust seasoning to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "malaysian",
+    "seafood",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-malaysian-shrimp-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:38:02.497Z"
+}
