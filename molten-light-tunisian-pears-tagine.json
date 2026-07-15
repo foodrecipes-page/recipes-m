@@ -1,0 +1,87 @@
+{
+  "slug": "molten-light-tunisian-pears-tagine",
+  "title": "Tunisian Tagine with Pears",
+  "description": "A sweet and savory Tunisian-inspired tagine made with tender lamb and poached pears.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.75 pounds",
+      "notes": "fat-trimmed"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "molten honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "pear juice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "pears",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season lamb with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Sear lamb until browned on all sides, about 5 minutes.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add spice blend and cook for 1 minute.",
+    "Add honey and pear juice. Stir to combine.",
+    "Add pears to the pot.",
+    "Transfer pot to the preheated oven and braise for 2 1/2 hours, or until lamb is tender.",
+    "Let the tagine rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "pear",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-light-tunisian-pears-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:15:19.178Z"
+}
