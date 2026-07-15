@@ -1,0 +1,61 @@
+{
+  "slug": "mushroom-caramelized-chestnut-salad",
+  "title": "Caramelized Mushroom Salad",
+  "description": "A simple and flavorful salad featuring caramelized mushrooms, roasted chestnuts, and fresh greens.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "caramelized",
+      "amount": "1/2 cup",
+      "notes": "see notes section"
+    },
+    {
+      "name": "chestnut",
+      "amount": "1/2 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the chestnuts with 1 tablespoon of olive oil and roast in the oven for 15-20 minutes, or until tender.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat. Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add 1 tablespoon of butter to the skillet and continue cooking the mushrooms until they are caramelized, stirring occasionally.",
+    "In a large bowl, combine the mixed greens, roasted chestnuts, and caramelized mushrooms.",
+    "Drizzle with your favorite salad dressing and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushroom-caramelized-chestnut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:39:12.324Z"
+}
