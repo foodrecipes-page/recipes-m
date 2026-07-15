@@ -1,0 +1,91 @@
+{
+  "slug": "mellow-jamaican-chicken-curry",
+  "title": "Jamaican Chicken Curry",
+  "description": "A flavorful and aromatic curry dish made with chicken, Jamaican spices, and a hint of sweetness.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Mellow curry sauce",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Remove chicken and set aside.",
+    "In the same skillet, add onion, garlic, and ginger. Cook until softened, about 3-4 minutes.",
+    "Stir in curry powder and cook for 1 minute.",
+    "Add curry sauce and stir to combine.",
+    "Return chicken to the skillet and stir to coat with curry sauce.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to low and simmer for 10-15 minutes or until chicken is cooked through.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "jamaican",
+    "caribbean",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:11:09.306Z"
+}
