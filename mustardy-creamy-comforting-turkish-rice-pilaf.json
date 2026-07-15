@@ -1,0 +1,60 @@
+{
+  "slug": "mustardy-creamy-comforting-turkish-rice-pilaf",
+  "title": "Creamy Turkish Rice Pilaf",
+  "description": "A comforting and flavorful side dish, perfect for accompanying your favorite meals. This creamy Turkish rice pilaf is easy to make and packed with delicious flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium saucepan over medium heat.",
+    "Add the pilaf and cook, stirring frequently, until lightly toasted.",
+    "Add the rice and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "Stir in the mustardy and creamy ingredients.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "turkish",
+    "rice",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-creamy-comforting-turkish-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:21:42.897Z"
+}
