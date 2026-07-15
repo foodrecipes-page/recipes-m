@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-sweet-kenyan-sweet-potato-bake",
+  "title": "Kenyan Sweet Potato Bake",
+  "description": "A sweet and savory dish from Kenya, featuring roasted sweet potatoes baked to perfection.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Mellow",
+      "amount": "1/4 cup",
+      "notes": "mellow seasoning blend"
+    },
+    {
+      "name": "Kenyan Sweet Pepper",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop sweet potatoes into 1-inch cubes.",
+    "In a large bowl, combine sweet potatoes, mellow seasoning blend, sweet pepper, bake, salt, and black pepper.",
+    "Drizzle coconut oil over the sweet potato mixture and toss to coat.",
+    "Transfer the sweet potatoes to a baking sheet and roast for 20 minutes.",
+    "While the sweet potatoes are roasting, mix Greek yogurt and a pinch of salt in a small bowl.",
+    "Remove the sweet potatoes from the oven and let cool for a few minutes.",
+    "Serve the roasted sweet potatoes with a dollop of yogurt on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-potato",
+    "kenyan",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-sweet-kenyan-sweet-potato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:55:22.158Z"
+}
