@@ -1825,16 +1825,15 @@
   },
   {
     "slug": "malty-american-cardamom-pie",
-    "title": "Malty American Cardamom Pie",
+    "title": "Malty American Pie Recipe",
     "tags": [
-      "american",
-      "cardamom",
       "dessert",
-      "high-sugar",
-      "weeknight"
+      "pie",
+      "malty",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "m"
   },
   {
@@ -14917,17 +14916,14 @@
   },
   {
     "slug": "moist-bouncy-venezuelan-sea-bass-skewers",
-    "title": "Moist Bouncy Venezuelan Sea Bass Skewers",
+    "title": "Grilled Bass Skewers",
     "tags": [
-      "healthy",
-      "high-protein",
-      "latin-american",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "latin",
+      "grilled"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "latin",
+    "totalTimeMin": 36,
     "shard": "m"
   },
   {
@@ -18788,17 +18784,13 @@
   },
   {
     "slug": "mushroom-caramelized-chestnut-salad",
-    "title": "Mushroom Caramelized Chestnut Salad",
+    "title": "Caramelized Mushroom Salad",
     "tags": [
+      "salad",
       "mushroom",
-      "chestnut",
-      "caramelized",
-      "french",
-      "fermented",
-      "festive",
-      "low-carb-friendly"
+      "vegetarian"
     ],
-    "cuisine": "French",
+    "cuisine": "vegetarian",
     "totalTimeMin": 35,
     "shard": "m"
   },
