@@ -1,0 +1,82 @@
+{
+  "slug": "malty-juicy-kenyan-lamb-tagine",
+  "title": "Kenyan Lamb Tagine",
+  "description": "A flavorful and aromatic stew originating from East Africa, made with tender lamb and a blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with brown sugar"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine in a large Dutch oven over medium heat.",
+    "Add the malty and cook, stirring occasionally, for 2 minutes.",
+    "Add the juicy and cook, stirring occasionally, for 3 minutes.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the kenyan, salt, and black pepper. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "cumin",
+    "dinner",
+    "east-african",
+    "kenyan",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-juicy-kenyan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:58:14.770Z"
+}
