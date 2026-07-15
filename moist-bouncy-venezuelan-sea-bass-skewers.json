@@ -1,0 +1,67 @@
+{
+  "slug": "moist-bouncy-venezuelan-sea-bass-skewers",
+  "title": "Grilled Bass Skewers",
+  "description": "A refreshing and flavorful dish featuring grilled sea bass, marinated in a mix of venezuelan spices.",
+  "cuisine": "latin",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Venezuelan Spices",
+      "amount": "2 tablespoons",
+      "notes": "mix of cumin, coriander, and garlic powder"
+    },
+    {
+      "name": "Moist Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "to help retain moisture during grilling"
+    },
+    {
+      "name": "Bouncy Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Soak skewers in water for 30 minutes.",
+    "2. Preheat grill to medium-high heat.",
+    "3. In a bowl, mix venezuelan spices, moist breadcrumbs, and bouncy lemon juice.",
+    "4. Add sea bass pieces to the marinade and toss to coat.",
+    "5. Thread the marinated bass onto skewers, leaving a little space between each piece.",
+    "6. Brush grill with oil to prevent sticking.",
+    "7. Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "latin",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-bouncy-venezuelan-sea-bass-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:53:11.361Z"
+}
