@@ -1,0 +1,81 @@
+{
+  "slug": "malty-dense-german-bacon-bake",
+  "title": "Bacon German Apple Strudel",
+  "description": "A twist on the classic German strudel, this recipe incorporates crispy bacon and a hint of malty sweetness.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "German pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "crispy, diced"
+    },
+    {
+      "name": "Malty apple filling (mix of sweet and tart apples)",
+      "amount": "2 cups",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Dense cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Bake mix",
+      "amount": "1 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the German pastry dough to a large rectangle.",
+    "In a bowl, mix the malty apple filling, brown sugar, and dense cinnamon.",
+    "Spread the apple mixture evenly over the dough, leaving a 1-inch border.",
+    "Arrange the crispy bacon on top of the apple mixture.",
+    "Fold the 1-inch border over the filling to seal the strudel.",
+    "Brush the melted butter over the top of the strudel.",
+    "Sprinkle the bake mix over the top of the strudel.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "strudel",
+    "bacon",
+    "apple",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-german-bacon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:43:28.301Z"
+}
