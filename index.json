@@ -4042,16 +4042,17 @@
   },
   {
     "slug": "meatless-meal-prep-syrian-asparagus-bowl",
-    "title": "Syrian Asparagus Bowl",
+    "title": "Syrian-Style Asparagus Bowl",
     "tags": [
+      "vegan",
       "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "syrian",
+      "asparagus",
+      "bowl",
+      "meatless"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 33,
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -6416,17 +6417,15 @@
   },
   {
     "slug": "mellow-sweet-kenyan-sweet-potato-bake",
-    "title": "Mellow Sweet Kenyan Sweet Potato Bake",
+    "title": "Kenyan Sweet Potato Bake",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
       "sweet-potato",
+      "kenyan",
+      "breakfast",
       "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 85,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -19081,16 +19080,15 @@
   },
   {
     "slug": "mustardy-creamy-comforting-turkish-rice-pilaf",
-    "title": "Mustardy Creamy Comforting Turkish Rice Pilaf",
+    "title": "Creamy Turkish Rice Pilaf",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "rice-pilaf",
+      "comforting",
       "turkish",
-      "weeknight"
+      "rice",
+      "pilaf"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
