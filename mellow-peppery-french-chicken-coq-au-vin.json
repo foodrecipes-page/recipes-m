@@ -1,0 +1,87 @@
+{
+  "slug": "mellow-peppery-french-chicken-coq-au-vin",
+  "title": "Chicken au Vin",
+  "description": "A classic French dish made with tender chicken cooked in a rich red wine sauce.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs",
+      "notes": ""
+    },
+    {
+      "name": "french",
+      "amount": "2 tablespoons butter",
+      "notes": ""
+    },
+    {
+      "name": "mellow",
+      "amount": "1 onion, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "peppery",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "vin",
+      "amount": "1 cup red wine (such as Burgundy or Pinot Noir)",
+      "notes": ""
+    },
+    {
+      "name": "coq",
+      "amount": "1 cup chicken broth",
+      "notes": ""
+    },
+    {
+      "name": "au",
+      "amount": "1 teaspoon dried thyme",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon salt",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon black pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes. Add the minced garlic and cook for an additional minute.",
+    "Add the red wine to the pot, scraping up any browned bits from the bottom. Bring the wine to a simmer and cook until reduced by half, about 5 minutes.",
+    "Add the chicken broth, thyme, and browned chicken back to the pot. Cover the pot and transfer it to the oven.",
+    "Bake the chicken in the preheated oven for 25-30 minutes, or until cooked through.",
+    "Remove the pot from the oven and let it cool slightly. Serve the chicken and sauce hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "french",
+    "wine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-peppery-french-chicken-coq-au-vin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:23:31.229Z"
+}
