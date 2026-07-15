@@ -1,0 +1,96 @@
+{
+  "slug": "meaty-mild-uruguayan-matcha-beef-skewers",
+  "title": "Uruguayan Beef Skewers with Chimichurri",
+  "description": "A classic Uruguayan dish featuring tender beef skewers served with a tangy and herby chimichurri sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder (optional)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak 20 bamboo skewers in water for at least 30 minutes.",
+    "In a large bowl, whisk together olive oil, salt, parsley, oregano, garlic, and red pepper flakes.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Thread the beef strips onto the bamboo skewers, leaving a small space between each piece.",
+    "Preheat the grill to medium-high heat.",
+    "Grill the beef skewers for 8-10 minutes, turning occasionally, or until cooked to your desired level of doneness.",
+    "While the beef is cooking, prepare the chimichurri sauce by combining parsley, oregano, garlic, red pepper flakes, red wine vinegar, and matcha powder (if using) in a bowl.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the grilled beef skewers with the chimichurri sauce spooned over the top.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "skewers",
+    "grilled",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meaty-mild-uruguayan-matcha-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:22:05.632Z"
+}
