@@ -1,0 +1,77 @@
+{
+  "slug": "melty-cheesy-japanese-pork-gyoza",
+  "title": "Pan-Seared Pork Gyoza with Melty Cheese",
+  "description": "A fusion twist on traditional Japanese gyoza, this pan-seared dish features juicy pork and a melty cheesy center.",
+  "cuisine": "Japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Gyoza Wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available in most Asian markets"
+    },
+    {
+      "name": "Melty Cheese",
+      "amount": "1 cup shredded mozzarella",
+      "notes": "or other melty cheese of choice"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup thinly sliced",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "for pan-searing"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of sesame oil to the pan and swirl to coat.",
+    "Add the ground pork to the pan, breaking it up with a spoon as it cooks.",
+    "Once the pork is browned, add 1 tablespoon of soy sauce and stir to combine.",
+    "Lay a gyoza wrapper on a flat surface and place a tablespoon of the pork mixture in the center.",
+    "Place a small piece of melty cheese on top of the pork mixture.",
+    "Fold the wrapper over the filling to form a half-moon shape, pressing the edges to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "Add the gyoza to the pan, leaving a small amount of space between each dumpling.",
+    "Pan-fry the gyoza until the bottoms are golden brown, about 2-3 minutes.",
+    "Flip the gyoza over and cook for an additional 2-3 minutes, until the other side is also golden brown.",
+    "Serve the gyoza hot with additional soy sauce and green onions for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "gyoza",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-cheesy-japanese-pork-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:39:14.466Z"
+}
