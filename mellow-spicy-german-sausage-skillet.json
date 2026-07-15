@@ -1,0 +1,78 @@
+{
+  "slug": "mellow-spicy-german-sausage-skillet",
+  "title": "Sausage and Pepper Skillet",
+  "description": "A hearty and flavorful skillet dish loaded with sausage, peppers, and onions. Perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spicy sausage",
+      "amount": "1 pound",
+      "notes": "Use a mild or medium-spicy sausage for a less intense flavor"
+    },
+    {
+      "name": "Mellow onion",
+      "amount": "1 large",
+      "notes": "Chop the onion into medium-sized pieces for even cooking"
+    },
+    {
+      "name": "German bell pepper",
+      "amount": "2",
+      "notes": "Use any color bell pepper you prefer"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "A large cast-iron or stainless steel skillet is ideal for this recipe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to bring out the flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Add a few grinds of black pepper for added depth"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality olive oil for best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the sliced bell peppers and cook until tender, about 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skillet",
+    "sausage",
+    "german",
+    "breakfast",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spicy-german-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:57.621Z"
+}
