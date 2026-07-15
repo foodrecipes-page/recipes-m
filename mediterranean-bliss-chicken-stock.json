@@ -1,0 +1,93 @@
+{
+  "slug": "mediterranean-bliss-chicken-stock",
+  "title": "Chicken Bliss Stew",
+  "description": "A hearty and flavorful stew made with tender chicken, vegetables, and a hint of Mediterranean spices. Serve with a side of crusty bread for a comforting meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "mediterranean bliss spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breasts and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Mediterranean bliss spice blend, chicken stock, carrots, and potatoes.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "chicken",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mediterranean-bliss-chicken-stock",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:24:09.638Z"
+}
