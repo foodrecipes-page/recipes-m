@@ -1,0 +1,79 @@
+{
+  "slug": "molten-ethiopian-berbere-berbere-stew",
+  "title": "Traditional Ethiopian Stew",
+  "description": "A classic Ethiopian dish made with tender lamb and flavorful berbere spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes.",
+    "Add onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add berbere spice and cook for 1 minute.",
+    "Add stew, tomato, and lamb pieces, and bring to a boil.",
+    "Cover and transfer to the oven, and cook at 300°F for 2 hours.",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "berbere",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-ethiopian-berbere-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:25:33.290Z"
+}
