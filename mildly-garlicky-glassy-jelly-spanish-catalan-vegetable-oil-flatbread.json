@@ -1,0 +1,63 @@
+{
+  "slug": "mildly-garlicky-glassy-jelly-spanish-catalan-vegetable-oil-flatbread",
+  "title": "Spanish Flatbread with Vegetable Tapenade",
+  "description": "A flavorful and easy-to-make flatbread topped with a delicious vegetable tapenade made with fresh vegetables and spices.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "mildly garlicky spanish catalan vegetable",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "glassy jelly",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "catalan spices",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange flatbread on a baking sheet.",
+    "In a blender or food processor, combine chopped vegetables, glassy jelly, and catalan spices. Blend until smooth.",
+    "Spread the vegetable tapenade over the flatbread.",
+    "Drizzle olive oil over the tapenade.",
+    "Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy and the tapenade is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "flatbread",
+    "tapenade"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-garlicky-glassy-jelly-spanish-catalan-vegetable-oil-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:12:28.076Z"
+}
