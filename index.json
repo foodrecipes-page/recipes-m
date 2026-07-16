@@ -2308,16 +2308,15 @@
   },
   {
     "slug": "malty-dense-moroccan-chocolate-tagine",
-    "title": "Malty Dense Moroccan Chocolate Tagine",
+    "title": "Moroccan Chocolate Tagine",
     "tags": [
       "chocolate",
-      "dessert",
-      "easter",
       "moroccan",
-      "special-occasion"
+      "dessert",
+      "cake"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 90,
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -4011,16 +4010,16 @@
   },
   {
     "slug": "meat-filled-hunan-dough-dumplings",
-    "title": "Meat-Filled Hunan Dough Dumplings",
+    "title": "Classic Hunan Dumplings",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
+      "chinese",
       "hunan",
-      "one-pan",
-      "weeknight"
+      "dumplings",
+      "pork",
+      "asian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -20780,6 +20779,58 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-smoky-venezuelan-tamarind-empanadas--indian",
+    "title": "Smoky Tamarind Chicken Empanadas",
+    "tags": [
+      "indian",
+      "chicken",
+      "empanadas",
+      "tamarind"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-gooey-peruvian-sweet-red-peppers-tacu-tacu--thai",
+    "title": "Spicy Thai Pepper Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-roasted-irish-beef-roast--gluten-free",
+    "title": "Irish Beef Roast",
+    "tags": [
+      "irish",
+      "beef",
+      "roast",
+      "gluten-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 135,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-jamaican-iceberg-lettuce-wrap--german",
+    "title": "Jamaican Chicken Wrap",
+    "tags": [
+      "german",
+      "chicken",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
