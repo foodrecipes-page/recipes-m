@@ -1,0 +1,88 @@
+{
+  "slug": "mellow-smoky-turkish-cheonggukjang-pilaf--mexican",
+  "title": "Smoky Cheonggukjang Tacos",
+  "description": "Spicy and savory tacos filled with a smoky Korean-inspired beef and served with fresh cilantro and crumbled cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mellow ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "cheonggukjang",
+      "amount": "2 tbsp",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "mild taco seasoning",
+      "amount": "1 packet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoky chipotle peppers",
+      "amount": "2",
+      "notes": "canned in adobo sauce"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking ground beef"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the taco seasoning and cook for 1 minute, stirring constantly.",
+    "Add the cheonggukjang and chipotle peppers and cook for an additional 2 minutes, stirring constantly.",
+    "Season with salt and pepper to taste.",
+    "Warm the pilaf rice according to package instructions.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with shredded cheese, chopped cilantro, and a dollop of pilaf rice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "korean-mexican",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-turkish-cheonggukjang-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:42:08.032Z"
+}
