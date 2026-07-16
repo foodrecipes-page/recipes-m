@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-briny-dutch-carnaroli-rice-pilaf--vegan",
+  "title": "Vegan Dutch-Style Carnaroli Rice Pilaf",
+  "description": "A flavorful and comforting vegan rice pilaf recipe with a Dutch twist, featuring Carnaroli rice and a blend of aromatic spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mildly flavored oil",
+      "amount": "2 tablespoons",
+      "notes": "Can be substituted with vegan butter or oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garden carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "briny vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dutch spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the mildly flavored oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the chopped carrots and sauté for another 5 minutes.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the Carnaroli rice and stir to coat the rice in oil and mix with vegetables.",
+    "Add the briny vegetable broth and Dutch spices, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked and the liquid is absorbed.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "rice-pilaf",
+    "dutch-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-briny-dutch-carnaroli-rice-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:52:14.377Z"
+}
