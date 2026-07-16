@@ -20638,5 +20638,41 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "mellow-spring-simmered-argentinian-chestnuts-nimono--chinese",
+    "title": "Chestnut and Mellow Mushroom Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-bouncy-venezuelan-sea-bass-skewers--gluten-free",
+    "title": "Grilled Bass Skewers",
+    "tags": [
+      "grilled",
+      "gluten-free",
+      "fish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 38,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-nutty-brazilian-chicken-skewers--japanese",
+    "title": "Japanese-Style Chicken Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "m"
   }
 ]
