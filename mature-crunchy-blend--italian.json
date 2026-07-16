@@ -1,0 +1,73 @@
+{
+  "slug": "mature-crunchy-blend--italian",
+  "title": "Italian Summer Gazpacho",
+  "description": "A refreshing Italian-inspired cold soup made with tomatoes, cucumbers, and bell peppers. Serve chilled as a light and healthy snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mature tomatoes",
+      "amount": "3 cups, diced",
+      "notes": null
+    },
+    {
+      "name": "cucumbers",
+      "amount": "1 cup, diced",
+      "notes": null
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup, diced",
+      "notes": "any color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "crunchy bread",
+      "amount": "1/2 cup, cubed",
+      "notes": null
+    },
+    {
+      "name": "blend of herbs",
+      "amount": "1 tablespoon",
+      "notes": "such as basil, oregano, parsley"
+    }
+  ],
+  "instructions": [
+    "Combine tomatoes, cucumbers, and bell peppers in a blender.",
+    "Blend until smooth.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add cubed bread and toast until lightly browned.",
+    "Stir in blend of herbs.",
+    "Combine soup and croutons in a bowl.",
+    "Serve chilled and garnish with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "soup",
+    "summer",
+    "vegetarian",
+    "cold"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-crunchy-blend--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:11:24.162Z"
+}
