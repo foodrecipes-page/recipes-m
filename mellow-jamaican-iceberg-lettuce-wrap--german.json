@@ -1,0 +1,76 @@
+{
+  "slug": "mellow-jamaican-iceberg-lettuce-wrap--german",
+  "title": "Jamaican Chicken Wrap",
+  "description": "A twist on traditional German cuisine, this Jamaican chicken wrap combines flavors of jerk chicken with crispy lettuce and mellow wrap.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mellow wrap",
+      "amount": "1"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with jamaican seasoning.",
+    "Grill chicken until cooked through, about 5-6 minutes per side.",
+    "Slice chicken into strips.",
+    "In a bowl, mix mayonnaise, shredded cheddar cheese, and sliced red onion.",
+    "Assemble wraps by spreading mayonnaise mixture on mellow wrap, then topping with sliced chicken, iceberg lettuce, lettuce, and sliced fresh cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-jamaican-iceberg-lettuce-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:39:35.506Z"
+}
