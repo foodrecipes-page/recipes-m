@@ -1,0 +1,79 @@
+{
+  "slug": "midnight-garlic-haven",
+  "title": "Garlic Haven Midnight Chicken",
+  "description": "A flavorful and savory dish that combines the richness of midnight and the pungency of garlic with the sweetness of haven.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Midnight oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Haven",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat the midnight oil in an oven-safe skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chicken breast and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Meanwhile, heat the haven in a small saucepan over low heat.",
+    "Stir in the chopped parsley.",
+    "Serve the chicken breast with the haven sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "dinner",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-garlic-haven",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:01:58.096Z"
+}
