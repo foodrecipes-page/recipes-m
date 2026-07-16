@@ -1,0 +1,63 @@
+{
+  "slug": "malty-dense-german-bacon-bake--gluten-free",
+  "title": "German-Style Gluten-Free Bacon Bake",
+  "description": "A hearty, comforting casserole featuring bacon, malty flavors, and a dense texture, all within a gluten-free framework.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "malty",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup"
+    },
+    {
+      "name": "german",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook bacon in a pan until crispy, then set aside.",
+    "3. In a separate bowl, mix together malty, dense, and german ingredients.",
+    "4. Add the cooked bacon to the bowl and stir to combine.",
+    "5. Pour the mixture into a baking dish and top with additional malty, if desired.",
+    "6. Bake in the preheated oven for 25-30 minutes, or until golden brown.",
+    "7. Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "gluten-free",
+    "bacon",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-german-bacon-bake--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:37:54.912Z"
+}
