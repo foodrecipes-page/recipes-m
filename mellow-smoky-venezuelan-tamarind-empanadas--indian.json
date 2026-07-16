@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-smoky-venezuelan-tamarind-empanadas--indian",
+  "title": "Smoky Tamarind Chicken Empanadas",
+  "description": "A twist on traditional empanadas, filled with smoky chicken and a tangy tamarind sauce, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mellow cheddar cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender or food processor, blend tamarind paste, smoky paprika, salt, and black pepper.",
+    "In a large pan, heat ghee or oil over medium heat.",
+    "Add the blended tamarind mixture and cook for 2-3 minutes.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Shred the chicken and add the mellow cheddar cheese. Stir until the cheese is melted.",
+    "Open the empanadas and fill each one with the chicken and cheese mixture.",
+    "Brush the edges with a little water and fold the empanadas in half.",
+    "Brush the tops with a little ghee or oil.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the empanadas are golden brown.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "empanadas",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-venezuelan-tamarind-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:17:51.900Z"
+}
