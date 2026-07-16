@@ -1,0 +1,70 @@
+{
+  "slug": "mighty-roasted-irish-beef-roast--gluten-free",
+  "title": "Irish Beef Roast",
+  "description": "A hearty, gluten-free Irish dish featuring a roasted beef roast.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Roast",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "Roasted Mighty Potatoes",
+      "amount": "2-3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Irish Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Roasted Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Season the beef roast with salt, black pepper, and fresh thyme.",
+    "Heat a large Dutch oven over medium-high heat. Sear the beef roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the beef roast to a roasting pan and place the potatoes, carrots, and irish butter around it.",
+    "Roast in the preheated oven for 2-3 hours, or until the beef reaches 135°F (57°C) for medium-rare.",
+    "Let the beef rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "irish",
+    "beef",
+    "roast",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-roasted-irish-beef-roast--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:28:05.406Z"
+}
