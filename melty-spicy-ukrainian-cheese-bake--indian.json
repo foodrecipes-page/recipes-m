@@ -1,0 +1,80 @@
+{
+  "slug": "melty-spicy-ukrainian-cheese-bake--indian",
+  "title": "Spicy Ukrainian Bake",
+  "description": "A spicy twist on traditional Ukrainian bake with a hint of Indian cuisine. This dish is perfect for those who enjoy spicy food.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melty cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Spicy ukrainian sausage",
+      "amount": "1 pound, sliced",
+      "notes": "Make sure to handle sausage safely"
+    },
+    {
+      "name": "Ukrainian bread",
+      "amount": "1 loaf, cubed",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Bake spice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the cubed bread, shredded cheese, sliced sausage, cumin, bake spice, salt, and black pepper. Mix well until all ingredients are evenly distributed.",
+    "Add the softened butter to the bread mixture and mix until the bread is well coated.",
+    "Transfer the bread mixture to a baking dish and bake for 20-25 minutes or until the top is golden brown and the cheese is melted.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-spices",
+    "spicy",
+    "bake",
+    "ukrainian-cuisine",
+    "cheese",
+    "melty-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-spicy-ukrainian-cheese-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:02:20.731Z"
+}
