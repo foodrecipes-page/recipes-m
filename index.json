@@ -11572,19 +11572,15 @@
   },
   {
     "slug": "mildly-garlicky-glassy-jelly-spanish-catalan-vegetable-oil-flatbread",
-    "title": "Mildly Garlicky Glassy-Jelly Spanish Catalan Vegetable Oil Flatbread",
+    "title": "Spanish Flatbread with Vegetable Tapenade",
     "tags": [
-      "ayurvedic-sattvic",
-      "catalan",
-      "flatbread",
-      "garlic",
-      "gluten-free",
-      "one-pan",
+      "spanish",
       "vegetarian",
-      "weeknight"
+      "flatbread",
+      "tapenade"
     ],
-    "cuisine": "Spanish Catalan",
-    "totalTimeMin": 50,
+    "cuisine": "spanish",
+    "totalTimeMin": 22,
     "shard": "m"
   },
   {
@@ -12373,13 +12369,13 @@
   },
   {
     "slug": "mildly-smoky-charred-spanish-sausages-paella",
-    "title": "Mildly Smoky Charred Spanish Sausages Paella",
+    "title": "Spanish Sausage Paella",
     "tags": [
-      "galician",
-      "one-pan",
-      "romantic",
       "spanish",
-      "weeknight"
+      "sausages",
+      "paella",
+      "one-pot",
+      "dinner"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
@@ -20710,6 +20706,43 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 33,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sweet-australian-vegetable-skewers--indian",
+    "title": "Sweet Vegetable Skewers",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "grilled",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-smoky-turkish-cheonggukjang-pilaf--mexican",
+    "title": "Smoky Cheonggukjang Tacos",
+    "tags": [
+      "mexican",
+      "korean-mexican",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-molten-romantic-turkish-cocoa-kofte--chinese",
+    "title": "Turkish Kofte Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "turkish-kofte",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
