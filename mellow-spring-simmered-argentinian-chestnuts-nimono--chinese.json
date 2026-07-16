@@ -1,0 +1,70 @@
+{
+  "slug": "mellow-spring-simmered-argentinian-chestnuts-nimono--chinese",
+  "title": "Chestnut and Mellow Mushroom Stir Fry",
+  "description": "A simple and delicious Chinese-inspired stir fry made with chestnuts, mellow mushrooms, and spring onions. Perfect as a quick dinner option.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mellow mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "chestnuts",
+      "amount": "1 cup peeled and sliced"
+    },
+    {
+      "name": "spring onions",
+      "amount": "2 cups chopped"
+    },
+    {
+      "name": "Argentinian olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches grated"
+    }
+  ],
+  "instructions": [
+    "Heat argentinian olive oil in a wok or large skillet over medium-high heat.",
+    "Add sliced mellow mushrooms and cook until they release their liquid and start to brown.",
+    "Add sliced chestnuts and cook for another 2-3 minutes.",
+    "Add chopped spring onions and grated ginger, stir-fry for 1 minute.",
+    "Add soy sauce, sugar, and sesame oil, stir-fry until the sauce is bubbly and slightly thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spring-simmered-argentinian-chestnuts-nimono--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:22:45.107Z"
+}
