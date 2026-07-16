@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-nutty-brazilian-chicken-skewers--french",
+  "title": "Brazilian Chicken Skewers with French Twist",
+  "description": "Tender chicken skewers marinated in a French-inspired mixture of herbs and spices, then grilled to perfection. Serve with a side of your favorite French bread.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Brazilian spice",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Mildly sweet honey",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together honey, thyme, garlic, salt, and pepper.",
+    "Add chicken to the bowl and toss to coat with the marinade.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "french",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-nutty-brazilian-chicken-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:24:13.177Z"
+}
