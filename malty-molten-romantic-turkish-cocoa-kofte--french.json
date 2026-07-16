@@ -1,0 +1,73 @@
+{
+  "slug": "malty-molten-romantic-turkish-cocoa-kofte--french",
+  "title": "French Cocoa Malt Kofte",
+  "description": "A French twist on traditional Turkish kofte, with the addition of cocoa powder for a rich and indulgent treat.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish kofte mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Romantic rose petals",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together malty flour, cocoa powder, Turkish kofte mix, and romantic rose petals.",
+    "In a separate bowl, whisk together egg and milk.",
+    "Add the egg mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Divide the dough into 8 equal pieces and shape into kofte.",
+    "Place the kofte on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until cooked through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "cocoa"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-molten-romantic-turkish-cocoa-kofte--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:41:53.180Z"
+}
