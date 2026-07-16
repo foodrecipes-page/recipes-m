@@ -12260,17 +12260,15 @@
   },
   {
     "slug": "mildly-savory-turkish-lamb-kofte",
-    "title": "Mildly Savory Turkish Lamb Kofte",
+    "title": "Turkish-Style Lamb Kofte",
     "tags": [
-      "diabetic-friendly",
-      "dutch-oven-recipes",
-      "gluten-free",
-      "lamb-recipes",
-      "turkish-food",
-      "whisked-meat"
+      "turkish",
+      "lamb",
+      "kofte",
+      "savory"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -20699,6 +20697,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-nutty-brazilian-chicken-skewers--french",
+    "title": "Brazilian Chicken Skewers with French Twist",
+    "tags": [
+      "chicken",
+      "grilled",
+      "french",
+      "skewers"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 33,
     "shard": "m"
   }
 ]
