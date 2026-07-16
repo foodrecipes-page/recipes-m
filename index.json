@@ -9292,15 +9292,15 @@
   },
   {
     "slug": "midnight-garlic-haven",
-    "title": "Midnight Garlic Haven",
+    "title": "Garlic Haven Midnight Chicken",
     "tags": [
-      "garlic",
-      "wild-garlic",
-      "malaysian",
-      "gluten-free"
+      "italian",
+      "chicken",
+      "dinner",
+      "garlic"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 22,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -16980,18 +16980,14 @@
   },
   {
     "slug": "molten-uruguayan-squid-roast",
-    "title": "Molten Uruguayan Squid Roast",
+    "title": "Uruguayan-Style Grill-Roasted Squid",
     "tags": [
-      "dinner",
-      "gluten-free",
-      "one-pan",
-      "pescatarian",
-      "roast",
-      "seafood",
-      "uruguayan"
+      "squid",
+      "uruguayan",
+      "grilled"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 18,
     "shard": "m"
   },
   {
@@ -20627,6 +20623,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-dense-german-bacon-bake--gluten-free",
+    "title": "German-Style Gluten-Free Bacon Bake",
+    "tags": [
+      "german",
+      "breakfast",
+      "gluten-free",
+      "bacon",
+      "casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
