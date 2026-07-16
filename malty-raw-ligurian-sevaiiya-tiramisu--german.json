@@ -1,0 +1,73 @@
+{
+  "slug": "malty-raw-ligurian-sevaiiya-tiramisu--german",
+  "title": "German Malty Crusted Pork Chops",
+  "description": "A hearty German-inspired dish with a malty crust on a tender pork chop, served with a side of flavorful Ligurian greens.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "Malty",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Ligurian Greens",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with salt and black pepper.",
+    "Dip each pork chop into the crushed malty, coating evenly.",
+    "Heat a skillet over medium-high heat and sear the pork chops for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Meanwhile, heat the raw honey in a small saucepan over low heat.",
+    "Toss the Ligurian greens in the honey until coated.",
+    "Serve the pork chops with the honey-glazed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork-chops",
+    "malty",
+    "greens"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-raw-ligurian-sevaiiya-tiramisu--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:01:42.592Z"
+}
