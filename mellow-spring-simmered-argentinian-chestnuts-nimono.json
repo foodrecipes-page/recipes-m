@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-spring-simmered-argentinian-chestnuts-nimono",
+  "title": "Argentinian-Style Chestnut and Mellow Mushroom Stew",
+  "description": "A hearty stew originating from Argentina, featuring mellow mushrooms and chestnuts, simmered in a rich and savory broth.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mellow mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "argentinian chestnuts",
+      "amount": "1 pound",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the sliced mellow mushrooms and cook until they release their moisture and start to brown.",
+    "Add the chopped spring onions and cook until they start to soften.",
+    "Add the sliced argentinian chestnuts, minced garlic, fresh thyme, and bay leaves.",
+    "Pour in the vegetable broth, making sure that all the ingredients are covered.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "chestnut",
+    "mushroom",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spring-simmered-argentinian-chestnuts-nimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:56:23.258Z"
+}
