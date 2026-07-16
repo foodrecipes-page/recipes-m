@@ -1,0 +1,89 @@
+{
+  "slug": "mellow-smoky-venezuelan-tamarind-empanadas",
+  "title": "Smoky Empanadas with Tamarind Salsa",
+  "description": "A twist on traditional empanadas, these smoky empanadas are filled with a tangy tamarind salsa, giving them a unique flavor and texture.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mellow empanada dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoky cheese",
+      "amount": "1 cup",
+      "notes": "shredded, such as cheddar or Monterey Jack"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1/4 cup",
+      "notes": "or 1 tablespoon tamarind puree"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tamarind salsa",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "vegan sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the smoky cheese in the center of each dough circle.",
+    "Top with a sprinkle of cumin and a pinch of salt.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little water and bake for 15-20 minutes, or until golden brown.",
+    "While the empanadas are baking, prepare the tamarind salsa by mixing together the tamarind paste, onion, and cumin.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the empanadas hot with a dollop of tamarind salsa and a sprinkle of vegan sour cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "latinamerican",
+    "empanadas",
+    "tamarind",
+    "salsa",
+    "vegetarian",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-venezuelan-tamarind-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:24:34.789Z"
+}
