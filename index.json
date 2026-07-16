@@ -6964,16 +6964,14 @@
   },
   {
     "slug": "melted-dutch-blue-cheese-casserole",
-    "title": "Melted Dutch Blue Cheese Casserole",
+    "title": "Blue Cheese Dutch Casserole",
     "tags": [
-      "bamboo-steamer",
-      "cheese",
-      "fusion",
-      "vegetarian",
-      "weeknight"
+      "blue cheese",
+      "casserole",
+      "comfort food"
     ],
-    "cuisine": "Dutch-Thai fusion",
-    "totalTimeMin": 22,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -20830,6 +20828,31 @@
       "lunch"
     ],
     "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-raw-ligurian-sevaiiya-tiramisu--german",
+    "title": "German Malty Crusted Pork Chops",
+    "tags": [
+      "german",
+      "pork-chops",
+      "malty",
+      "greens"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-crispy-syrian-guanciale-flatbread--keto",
+    "title": "Guanciale Flatbread Pizza",
+    "tags": [
+      "keto",
+      "pizza",
+      "italian"
+    ],
+    "cuisine": "Italian",
     "totalTimeMin": 25,
     "shard": "m"
   }
