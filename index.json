@@ -20560,5 +20560,59 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "m"
+  },
+  {
+    "slug": "malty-dense-german-bacon-bake--chinese",
+    "title": "Malty German-Style Chinese Pancakes",
+    "tags": [
+      "chinese",
+      "pancakes",
+      "breakfast",
+      "dessert"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moroccan-spice-moroccan-chewy-umami-sellou--mexican",
+    "title": "Spicy Sellou Empanadas",
+    "tags": [
+      "mexican",
+      "sweet",
+      "spicy",
+      "sellou"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-kenyan-fish-hash--german",
+    "title": "Melted Fish Hash German Breakfast",
+    "tags": [
+      "german",
+      "breakfast",
+      "fish",
+      "hash",
+      "kenyan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-dense-german-bacon-bake--indian",
+    "title": "Bacon Baked German Bread",
+    "tags": [
+      "indian",
+      "bacon",
+      "german-bread",
+      "bread",
+      "indian-inspired"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
