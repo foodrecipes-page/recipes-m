@@ -6196,18 +6196,17 @@
   },
   {
     "slug": "mellow-smoky-venezuelan-tamarind-empanadas",
-    "title": "Mellow Smoky Venezuelan Tamarind Empanadas",
+    "title": "Smoky Empanadas with Tamarind Salsa",
     "tags": [
-      "crowd-pleaser",
-      "latin-american",
-      "low-fat",
-      "silky",
-      "smoky",
-      "tangy",
-      "vegetarian"
+      "latinamerican",
+      "empanadas",
+      "tamarind",
+      "salsa",
+      "vegetarian",
+      "glutenfree"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -20743,6 +20742,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "medley-of-aromas-uruguayan-tripe-empanadas--chinese",
+    "title": "Uruguayan Tripe Stir Fry",
+    "tags": [
+      "stir-fry",
+      "uruguayan",
+      "chinese",
+      "beef"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-smoky-filipino-haricot-beans-sisig--japanese",
+    "title": "Sisig Bites - Japanese-Style",
+    "tags": [
+      "fusions",
+      "appetizer",
+      "bite-sized"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-molten-romantic-turkish-cocoa-kofte--vegetarian",
+    "title": "Vegetarian Turkish Kofte with Malted Chocolate Sauce",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "chocolate",
+      "snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 18,
     "shard": "m"
   }
 ]
