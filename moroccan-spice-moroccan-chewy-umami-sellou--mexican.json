@@ -1,0 +1,71 @@
+{
+  "slug": "moroccan-spice-moroccan-chewy-umami-sellou--mexican",
+  "title": "Spicy Sellou Empanadas",
+  "description": "Crispy empanadas filled with sweet and spicy sellou, perfect as a snack or dessert.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sellou",
+      "amount": "2 cups"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lard or vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, lard or shortening, and water. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of sellou in the center of each circle.",
+    "Fold the dough over the fillings to form a triangle or square shape. Press edges to seal.",
+    "Heat oil in a deep frying pan over medium heat. Fry empanadas until golden brown.",
+    "Drain on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "sweet",
+    "spicy",
+    "sellou"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moroccan-spice-moroccan-chewy-umami-sellou--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:31:39.348Z"
+}
