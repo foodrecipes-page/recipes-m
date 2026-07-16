@@ -1,0 +1,75 @@
+{
+  "slug": "mouthwatering-smoky-brazilian-perilla-leaf-skewers",
+  "title": "Brazilian Perilla Skewers",
+  "description": "A delicious and flavorful Brazilian-inspired dish featuring marinated perilla leaves on skewers, perfect for a summer barbecue.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "1 bunch",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "For marinating perilla leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "For added smokiness"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, salt, black pepper, and smoked paprika.",
+    "Add the perilla leaves to the bowl and toss to coat.",
+    "Soak skewers in water for at least 30 minutes before using.",
+    "Thread perilla leaves onto skewers, leaving a small space between each leaf.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 2-3 minutes per side, or until slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "perilla",
+    "brazilian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-smoky-brazilian-perilla-leaf-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:15:48.005Z"
+}
