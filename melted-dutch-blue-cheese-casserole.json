@@ -1,0 +1,87 @@
+{
+  "slug": "melted-dutch-blue-cheese-casserole",
+  "title": "Blue Cheese Dutch Casserole",
+  "description": "A rich and savory casserole with a tangy blue cheese twist. Perfect for a cozy dinner.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio works well"
+    },
+    {
+      "name": "melted cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheddar or mozzarella"
+    },
+    {
+      "name": "blue cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, tangy blue cheese crumbles"
+    },
+    {
+      "name": "dutch casserole",
+      "amount": "",
+      "notes": "",
+      "default": true
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes.",
+    "Add diced onion and minced garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in paprika, salt, and black pepper. Cook for 1 minute.",
+    "Transfer the beef mixture to a 9x13 inch baking dish.",
+    "Sprinkle shredded melted cheese over the top of the beef mixture.",
+    "Sprinkle crumbly blue cheese crumbles over the top of the melted cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blue cheese",
+    "casserole",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-dutch-blue-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:51:42.340Z"
+}
