@@ -1,0 +1,69 @@
+{
+  "slug": "mild-smoky-filipino-haricot-beans-sisig--japanese",
+  "title": "Sisig Bites - Japanese-Style",
+  "description": "A fusion twist on the classic Filipino sisig dish, served as bite-sized Japanese-inspired appetizers.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sisig",
+      "amount": "1 cup",
+      "notes": "Filipino-style sisig mixture"
+    },
+    {
+      "name": "Mild soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Haricot beans",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Filipino chili peppers",
+      "amount": "1-2",
+      "notes": null
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, mix together sisig mixture, soy sauce, and chili peppers.",
+    "2. Stir in haricot beans and daikon.",
+    "3. Using a small cookie scoop, form the mixture into bite-sized balls.",
+    "4. Coat each ball with sesame oil, pressing gently to adhere.",
+    "5. Serve immediately, garnished with sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "fusions",
+    "appetizer",
+    "bite-sized"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-smoky-filipino-haricot-beans-sisig--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:48:10.890Z"
+}
