@@ -1,0 +1,94 @@
+{
+  "slug": "mildly-smoky-charred-spanish-sausages-paella",
+  "title": "Spanish Sausage Paella",
+  "description": "A traditional Spanish dish featuring smoky sausages and charred vegetables. Easy to make and perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish sausages",
+      "amount": "1 pound",
+      "notes": "preferably chorizo or morcilla"
+    },
+    {
+      "name": "Mildly smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "adds smoky flavor to the dish"
+    },
+    {
+      "name": "Charred red bell pepper",
+      "amount": "1",
+      "notes": "from a previous roast or grill"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Spanish sausages and cook until browned, about 5 minutes.",
+    "Add the charred red bell pepper, smoked paprika, chicken broth, salt, and black pepper. Stir to combine.",
+    "Add the Spanish rice and stir to coat with the oil and distribute the ingredients evenly.",
+    "Bring the mixture to a simmer and cook, uncovered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "sausages",
+    "paella",
+    "one-pot",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-charred-spanish-sausages-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:33:57.970Z"
+}
