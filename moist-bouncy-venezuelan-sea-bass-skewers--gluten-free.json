@@ -1,0 +1,71 @@
+{
+  "slug": "moist-bouncy-venezuelan-sea-bass-skewers--gluten-free",
+  "title": "Grilled Bass Skewers",
+  "description": "A simple and flavorful gluten-free dish featuring bass, marinated in a mixture of Venezuelan spices and grilled to perfection.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bass fillets",
+      "amount": "4",
+      "notes": "approx. 120g each"
+    },
+    {
+      "name": "moist brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "bouncy white vinegar",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "venezuelan spices",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "skewers",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak skewers in water for 30 minutes.",
+    "Preheat grill to medium-high heat (180°C).",
+    "In a bowl, mix together brown sugar, white vinegar, and Venezuelan spices.",
+    "Add bass fillets to the marinade and mix to coat.",
+    "Thread the marinated bass onto the skewers.",
+    "Season with sea salt and grill for 8-10 minutes per side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "gluten-free",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-bouncy-venezuelan-sea-bass-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:48:05.897Z"
+}
