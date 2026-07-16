@@ -18487,17 +18487,16 @@
   },
   {
     "slug": "mouthwatering-smoky-brazilian-perilla-leaf-skewers",
-    "title": "Mouthwatering Smoky Brazilian Perilla Leaf Skewers",
+    "title": "Brazilian Perilla Skewers",
     "tags": [
-      "brazilian-food",
-      "gluten-free",
-      "grilled-meat",
-      "healthy-dinner",
-      "low-carb",
-      "smoky-flavor"
+      "grilled",
+      "vegetarian",
+      "perilla",
+      "brazilian",
+      "skewers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 21,
     "shard": "m"
   },
   {
@@ -20613,6 +20612,21 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "melty-spicy-ukrainian-cheese-bake--indian",
+    "title": "Spicy Ukrainian Bake",
+    "tags": [
+      "indian-spices",
+      "spicy",
+      "bake",
+      "ukrainian-cuisine",
+      "cheese",
+      "melty-cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
