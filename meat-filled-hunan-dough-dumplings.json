@@ -1,0 +1,79 @@
+{
+  "slug": "meat-filled-hunan-dough-dumplings",
+  "title": "Classic Hunan Dumplings",
+  "description": "A Chinese-inspired dish where juicy pork dumplings are steamed and served in a spicy Hunan sauce. This recipe combines the best of both worlds with a delicious and savory filling wrapped in a tender dough wrapper.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works best"
+    },
+    {
+      "name": "Hunan Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, Hunan sauce, garlic, ginger, and sesame oil (if using). Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Lay a dumpling wrapper on a flat surface. Place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper. Fold the wrapper into a half-moon shape, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "When the oil is hot, add a few of the dumplings to the pan (do not overcrowd). Cook for 2-3 minutes on each side, until the bottoms are golden brown.",
+    "Add 1 cup of water to the pan and cover with a lid. Steam the dumplings for 5-7 minutes, until cooked through.",
+    "Serve the steamed dumplings with additional Hunan sauce for dipping.",
+    "Optional: Pan-fry the dumplings in a little more oil until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "hunan",
+    "dumplings",
+    "pork",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meat-filled-hunan-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:29:16.425Z"
+}
