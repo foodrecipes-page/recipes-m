@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-spiced-jamaican-chicken-skewers",
+  "title": "Jamaican Jerk Chicken Skewers",
+  "description": "A flavorful and spicy chicken skewer recipe infused with the bold flavors of Jamaica. Perfect for a summer evening or outdoor gathering.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mildly spiced all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk marinade",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together jerk seasoning, flour, and marinade.",
+    "Add chicken breast and toss to coat.",
+    "Thread chicken, onion, and bell pepper onto skewers.",
+    "Brush skewers with vegetable oil and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until chicken is cooked through.",
+    "Serve hot with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:08:05.464Z"
+}
