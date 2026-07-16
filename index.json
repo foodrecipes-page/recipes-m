@@ -20674,5 +20674,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "m"
+  },
+  {
+    "slug": "mature-crunchy-blend--italian",
+    "title": "Italian Summer Gazpacho",
+    "tags": [
+      "italian",
+      "soup",
+      "summer",
+      "vegetarian",
+      "cold"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-molten-romantic-turkish-cocoa-kofte--french",
+    "title": "French Cocoa Malt Kofte",
+    "tags": [
+      "french",
+      "dessert",
+      "cocoa"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "m"
   }
 ]
