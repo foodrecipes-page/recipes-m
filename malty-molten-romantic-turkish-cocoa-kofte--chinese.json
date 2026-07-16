@@ -1,0 +1,89 @@
+{
+  "slug": "malty-molten-romantic-turkish-cocoa-kofte--chinese",
+  "title": "Turkish Kofte Stir Fry",
+  "description": "A Chinese-inspired stir fry dish featuring Turkish kofte and a variety of vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish kofte",
+      "amount": "1 package (approx. 20 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cocoa",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "romantic",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "molten",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the kofte and cook for 2-3 minutes on each side, or until browned.",
+    "Remove the kofte from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the bell peppers and onion to the skillet and cook for 3-4 minutes, or until tender.",
+    "Add the garlic to the skillet and cook for an additional minute.",
+    "Return the kofte to the skillet and stir in the malty, cocoa, and romantic.",
+    "Cook for an additional 1-2 minutes, or until the kofte is coated in the sauce.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "turkish-kofte",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-molten-romantic-turkish-cocoa-kofte--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:57:38.098Z"
+}
