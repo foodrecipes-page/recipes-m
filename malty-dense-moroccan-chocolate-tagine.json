@@ -1,0 +1,63 @@
+{
+  "slug": "malty-dense-moroccan-chocolate-tagine",
+  "title": "Moroccan Chocolate Tagine",
+  "description": "A rich and exotic dessert inspired by the flavors of Morocco, featuring a dense and moist chocolate cake filled with a sweet and sticky tagine sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dense",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malty",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Combine the dense, malty, and moroccan ingredients in a large mixing bowl.",
+    "Add the chocolate and mix until well combined.",
+    "Pour the mixture into a greased tagine and bake for 30-40 minutes.",
+    "While the cake is baking, prepare the tagine sauce by combining the tagine ingredients in a small saucepan.",
+    "Heat the sauce over medium heat until it thickens and caramelizes.",
+    "Remove the cake from the oven and let it cool for 10 minutes.",
+    "Drizzle the tagine sauce over the top of the cake and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "moroccan",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-moroccan-chocolate-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:57:06.694Z"
+}
