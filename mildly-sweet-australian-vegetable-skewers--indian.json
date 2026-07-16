@@ -1,0 +1,76 @@
+{
+  "slug": "mildly-sweet-australian-vegetable-skewers--indian",
+  "title": "Sweet Vegetable Skewers",
+  "description": "A colorful and flavorful Indian-inspired dish featuring sweet and mildly seasoned vegetables grilled to perfection on skewers.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mildly spiced cauliflower",
+      "amount": "250g",
+      "notes": " florets"
+    },
+    {
+      "name": "Australian zucchini",
+      "amount": "2",
+      "notes": " medium-sized"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": " mixed colors"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": " thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": " for brushing"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": " chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the sliced sweet potatoes, cauliflower, zucchini, bell peppers, and onion onto the skewers.",
+    "Brush the skewers with vegetable oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the vegetables are tender and lightly charred.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-australian-vegetable-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:21:24.254Z"
+}
