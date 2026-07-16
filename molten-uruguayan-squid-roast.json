@@ -1,0 +1,71 @@
+{
+  "slug": "molten-uruguayan-squid-roast",
+  "title": "Uruguayan-Style Grill-Roasted Squid",
+  "description": "A twist on traditional Uruguayan asado, this recipe features tender squid roasted to perfection with a smoky Uruguayan flair.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "melted",
+      "amount": "1/4 cup",
+      "notes": "from 1/2 cup unsalted butter, softened"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tablespoons",
+      "notes": "Uruguayan-style roasted red pepper paste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season squid with salt and black pepper.",
+    "Grill squid for 2-3 minutes per side, or until tender.",
+    "Meanwhile, melt butter in a small saucepan over medium heat.",
+    "Add roasted pepper paste and garlic; stir to combine.",
+    "Brush squid with melted butter mixture during last minute of grilling.",
+    "Serve immediately, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "squid",
+    "uruguayan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-uruguayan-squid-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:28:47.485Z"
+}
