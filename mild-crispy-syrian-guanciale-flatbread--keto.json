@@ -1,0 +1,60 @@
+{
+  "slug": "mild-crispy-syrian-guanciale-flatbread--keto",
+  "title": "Guanciale Flatbread Pizza",
+  "description": "A keto pizza made with crispy flatbread, guanciale, and a hint of spicy Syrian seasoning.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "4 oz"
+    },
+    {
+      "name": "crispy flatbread",
+      "amount": "1 flatbread"
+    },
+    {
+      "name": "Syrian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mild cheese (such as goat cheese or feta)",
+      "amount": "2 oz"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the guanciale in a skillet over medium heat until crispy.",
+    "Cut the flatbread into slices or use as is.",
+    "Top each flatbread slice with a few slices of guanciale, some mild cheese, and a sprinkle of Syrian seasoning.",
+    "Bake in the oven for 5-7 minutes, or until the cheese is melted and the bread is crispy.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pizza",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crispy-syrian-guanciale-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:30:53.465Z"
+}
