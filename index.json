@@ -6997,18 +6997,15 @@
   },
   {
     "slug": "melted-festive-american-cheese-quesadilla",
-    "title": "Melted Festive American Cheese Quesadilla",
+    "title": "Festive American Quesadilla",
     "tags": [
       "american",
-      "cheese-pull",
-      "festive",
-      "low-fat",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "cheese",
+      "quesadilla",
+      "snack"
     ],
     "cuisine": "american",
-    "totalTimeMin": 18,
+    "totalTimeMin": 13,
     "shard": "m"
   },
   {
@@ -21029,6 +21026,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-uruguayan-chicken-skewers--vegetarian",
+    "title": "Grilled Vegetable Skewers",
+    "tags": [
+      "vegetarian",
+      "grilled",
+      "skewers",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mouthwatering-spicy-jamaican-chicken-skewers--indian",
+    "title": "Jamaican Chicken Skewers",
+    "tags": [
+      "jamaican",
+      "chicken",
+      "skewers",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 36,
     "shard": "m"
   }
 ]
