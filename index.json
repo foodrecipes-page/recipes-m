@@ -20903,5 +20903,31 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "m"
+  },
+  {
+    "slug": "mwholesome-croatian-crustacean-mantecare-emulsify-crumble--vegetarian",
+    "title": "Mantecare Crumble Crostini",
+    "tags": [
+      "vegetarian",
+      "appetizer",
+      "snack",
+      "cheesy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
+    "slug": "massive-slovakian-lemongrass-takrai-bowl--italian",
+    "title": "Slovakian-Italian Takrai Chicken Bowl",
+    "tags": [
+      "italian",
+      "chicken",
+      "takrai",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
