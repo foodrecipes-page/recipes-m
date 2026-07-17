@@ -1,0 +1,79 @@
+{
+  "slug": "minty-greek-chicken-skewers--german",
+  "title": "Grilled Chicken Skewers with Minty Greek Sauce",
+  "description": "Traditional German-inspired skewers marinated in a refreshing minty Greek sauce.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "250g",
+      "notes": "for sauce"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "skewers",
+      "amount": "1 dozen"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Greek yogurt, mint leaves, lemon juice, and olive oil.",
+    "2. Add chicken to the marinade and mix well.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread chicken onto skewers, leaving a small space between each piece.",
+    "6. Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "7. Brush skewers with additional olive oil and season with salt and pepper.",
+    "8. Serve hot with minty Greek sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grilled",
+    "chicken",
+    "skewers",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-greek-chicken-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:00:24.353Z"
+}
