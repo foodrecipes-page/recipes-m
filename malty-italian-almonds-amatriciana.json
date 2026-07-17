@@ -1,0 +1,81 @@
+{
+  "slug": "malty-italian-almonds-amatriciana",
+  "title": "Pistachio and Amatriciana Crusted Almond Cookies",
+  "description": "Crunchy exterior, chewy interior cookies with a flavorful combination of pistachio, Amatriciana sauce, and almonds.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malty",
+      "amount": "1/2 cup",
+      "notes": "unsweetened malted milk powder"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp",
+      "notes": "Amatriciana sauce"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "almond flour"
+    },
+    {
+      "name": "pistachio",
+      "amount": "2 tbsp",
+      "notes": "chopped pistachios"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the almond flour, sugar, and malted milk powder.",
+    "In a separate bowl, whisk together the eggs and Amatriciana sauce.",
+    "Add the chopped almonds to the egg mixture and stir until combined.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Fold in the chopped pistachios.",
+    "Scoop the dough into balls and place on the prepared baking sheet.",
+    "Bake for 15-18 minutes or until the edges are golden brown.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cookies",
+    "almond",
+    "pistachio",
+    "amatriciana"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-italian-almonds-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:28:07.876Z"
+}
