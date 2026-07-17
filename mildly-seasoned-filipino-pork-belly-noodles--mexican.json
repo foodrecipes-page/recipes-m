@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-seasoned-filipino-pork-belly-noodles--mexican",
+  "title": "Filipino-Style Pork Belly Tacos",
+  "description": "A fusion of Filipino and Mexican flavors in a delicious taco. The pork belly is slow-cooked in a mixture of soy sauce, vinegar, and spices, then served in a crispy taco shell with a side of noodles.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Mildly Seasoned Filipino Sauce",
+      "amount": "1/4 cup",
+      "notes": "A mixture of soy sauce, vinegar, and spices"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "6-8 shells",
+      "notes": "Crispy taco shells for serving"
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sliced Cucumber",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, combine the pork belly cubes, Filipino sauce, and lime juice. Bring to a boil over medium-high heat, then cover and transfer to the oven. Braise the pork for 2 1/2 hours, or until it is tender and caramelized.",
+    "While the pork is cooking, cook the noodles according to package instructions. Drain and set aside.",
+    "When the pork is done, remove it from the oven and let it cool slightly. Using two forks, shred the pork into bite-sized pieces.",
+    " Warm the taco shells according to package instructions. Spoon some of the shredded pork into each shell, followed by some of the cooked noodles, sliced radishes, cucumber, and scallions.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "mexican",
+    "tacos",
+    "pork",
+    "belly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-seasoned-filipino-pork-belly-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:08:41.979Z"
+}
