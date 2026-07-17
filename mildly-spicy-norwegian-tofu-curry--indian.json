@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-spicy-norwegian-tofu-curry--indian",
+  "title": "Spicy Tofu Curry",
+  "description": "A mildly spicy and flavorful Indian-inspired curry made with tofu and a blend of spices. Serve over basmati rice or with naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "curry",
+      "amount": "2tsp"
+    },
+    {
+      "name": "norwegian",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "pepper",
+      "amount": ""
+    },
+    {
+      "name": "mildly",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic and ginger, cook until softened.",
+    "Add curry powder and mildly hot peppers, cook for 1 minute.",
+    "Add tofu and cook until golden brown.",
+    "Add norwegian salmon fillets and cook until cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve over basmati rice or with naan bread.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-norwegian-tofu-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:11:11.128Z"
+}
