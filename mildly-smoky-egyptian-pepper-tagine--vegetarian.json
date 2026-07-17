@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-smoky-egyptian-pepper-tagine--vegetarian",
+  "title": "Mildly Smoky Tagine",
+  "description": "A hearty and flavorful vegetarian tagine made with a blend of mild spices and the smokiness of preserved lemons.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Preserved Lemons",
+      "amount": "2"
+    },
+    {
+      "name": "Mildly Smoky Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Egyptian Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add preserved lemons, paprika, cumin, and tagine spice mix. Sauté for 2 minutes.",
+    "Add zucchini, red bell pepper, and chickpeas. Stir to combine.",
+    "Cover the tagine and simmer for 20 minutes or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "north-african",
+    "stew",
+    "lentil-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-pepper-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:07:47.380Z"
+}
