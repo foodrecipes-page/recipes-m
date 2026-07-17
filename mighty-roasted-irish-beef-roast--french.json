@@ -1,0 +1,78 @@
+{
+  "slug": "mighty-roasted-irish-beef-roast--french",
+  "title": "French-Style Roasted Beef",
+  "description": "A classic French dish featuring tender beef, roasted to perfection.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef, roast (3-4 lbs)",
+      "amount": "1",
+      "notes": "Choose a cut suitable for roasting, such as prime rib or round"
+    },
+    {
+      "name": "Mighty (garlic) cloves",
+      "amount": "3-4",
+      "notes": "Mince before using"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher or sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Roasted (carrots) bunch",
+      "amount": "2",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Roasted (potatoes) bunch",
+      "amount": "2-3",
+      "notes": "Peel and chop into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the beef with salt and pepper.",
+    "Heat butter in a large skillet over medium-high. Sear the beef until browned on all sides.",
+    "Transfer the beef to a roasting pan and set aside.",
+    "Toss carrots and potatoes with garlic, salt, and pepper in a separate bowl.",
+    "Add the vegetables to the roasting pan with the beef.",
+    "Roast in the preheated oven for 20 minutes.",
+    "Reduce oven temperature to 325°F (165°C) and continue roasting for an additional 20-25 minutes, or until the beef reaches your desired level of doneness.",
+    "Let the beef rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "roasted",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-roasted-irish-beef-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:54:54.322Z"
+}
