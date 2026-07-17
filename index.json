@@ -21053,5 +21053,56 @@
     "cuisine": "indian",
     "totalTimeMin": 36,
     "shard": "m"
+  },
+  {
+    "slug": "mild-crumbly-mediterranean-bresaola-bake--keto",
+    "title": "Bresaola and Mediterranean Frittata",
+    "tags": [
+      "keto-breakfast",
+      "mediterranean-frittata"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-seasoned-filipino-pork-belly-noodles--mexican",
+    "title": "Filipino-Style Pork Belly Tacos",
+    "tags": [
+      "filipino",
+      "mexican",
+      "tacos",
+      "pork",
+      "belly"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-fermented-french-lettuce-mille-feuille--japanese",
+    "title": "Japanese Mille-Feuille Salad",
+    "tags": [
+      "japanese",
+      "salad",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-pillowy-umami-brazilian-baguette-bowl--french",
+    "title": "French Onion Baguette Bowl",
+    "tags": [
+      "french",
+      "comfort-food",
+      "onion",
+      "cheese"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
