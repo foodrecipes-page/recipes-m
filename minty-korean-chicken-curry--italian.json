@@ -1,0 +1,96 @@
+{
+  "slug": "minty-korean-chicken-curry--italian",
+  "title": "Chicken Curry Italian Style",
+  "description": "A twist on traditional Italian cuisine with the addition of Korean and Indian flavors. This dish combines the spices and herbs of Italy with the bold flavors of Korea and India.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "korean curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "minty fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the Korean curry powder and cook for 1 minute.",
+    "Add the chicken broth and heavy cream to the skillet and stir to combine.",
+    "Return the chicken to the skillet and simmer until the sauce has thickened.",
+    "Stir in the fresh mint leaves and season with salt and pepper to taste.",
+    "Serve the chicken hot, garnished with additional mint leaves if desired.",
+    "Let the dish rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-korean-chicken-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:51:37.913Z"
+}
