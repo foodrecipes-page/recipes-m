@@ -1,0 +1,68 @@
+{
+  "slug": "mwholesome-croatian-crustacean-mantecare-emulsify-crumble--vegetarian",
+  "title": "Mantecare Crumble Crostini",
+  "description": "A vegetarian twist on the classic crostini, featuring a hearty mantecare topping and crunchy crustacean crumble.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian bread",
+      "amount": "1 baguette",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Mantecare spread",
+      "amount": "1/2 cup",
+      "notes": "see notes for homemade recipe"
+    },
+    {
+      "name": "Crustacean crumble topping",
+      "amount": "1/4 cup",
+      "notes": "see notes for homemade recipe"
+    },
+    {
+      "name": "Mwholesome cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "such as mozzarella or parmesan"
+    },
+    {
+      "name": "Emulsify oil",
+      "amount": "2 tbsp",
+      "notes": "such as olive or avocado oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the Croatian bread into 1/2-inch thick rounds.",
+    "Spread a layer of mantecare spread on each bread round.",
+    "Sprinkle shredded mwholesome cheese over the mantecare spread.",
+    "Top with a spoonful of crustacean crumble topping.",
+    "Drizzle with emulsify oil.",
+    "Bake for 10-12 minutes, or until the cheese is melted and the topping is crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "appetizer",
+    "snack",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mwholesome-croatian-crustacean-mantecare-emulsify-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:19:49.317Z"
+}
