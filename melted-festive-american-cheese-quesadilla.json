@@ -1,0 +1,53 @@
+{
+  "slug": "melted-festive-american-cheese-quesadilla",
+  "title": "Festive American Quesadilla",
+  "description": "A delicious and easy-to-make quesadilla filled with melted cheese, perfect for a festive dinner or snack.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "melted cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "festive tortilla",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "Place one tortilla in the skillet and sprinkle with half of the melted cheese.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortilla and cheese.",
+    "Cut the quesadillas into wedges and serve hot.",
+    "Optional: Serve with salsa, guacamole, or sour cream for added flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "cheese",
+    "quesadilla",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-festive-american-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:46:05.073Z"
+}
