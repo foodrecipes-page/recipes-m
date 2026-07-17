@@ -11614,17 +11614,14 @@
   },
   {
     "slug": "mildly-gooey-korean-soybean-sprouts-bowl",
-    "title": "Mildly Gooey Korean Soybean Sprouts Bowl",
+    "title": "Korean Sprout Bowl",
     "tags": [
-      "brunch-ideas",
-      "easy-meals",
-      "korean-cuisine",
-      "low-sodium",
-      "quick-recipes",
-      "vegetarian-friendly"
+      "korean",
+      "veggie",
+      "cheesy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -12678,17 +12675,14 @@
   },
   {
     "slug": "mildly-sour-brazilian-lamb-stew",
-    "title": "Mildly Sour Brazilian Lamb Stew",
+    "title": "Brazilian Lamb Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "family-friendly",
-      "kosher-friendly",
-      "lamb-based",
-      "one-pot"
+      "brazilian",
+      "stew",
+      "lamb"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {
@@ -18418,17 +18412,15 @@
   },
   {
     "slug": "mouthwatering-silky-jamaican-fish-curry",
-    "title": "Mouthwatering Silky Jamaican Fish Curry",
+    "title": "Jamaican Curry Fish",
     "tags": [
-      "coconut-milk-recipes",
-      "curry-dishes",
-      "fish-recipes",
-      "jamaican-cuisine",
-      "one-pot-meals",
-      "spicy-food"
+      "jamaican",
+      "curry",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21010,6 +21002,33 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-nutty-tunisian-pork-tagine--chinese",
+    "title": "Tunisian-Style Pork Tagine",
+    "tags": [
+      "fusion",
+      "tunisian",
+      "pork",
+      "casserole"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 110,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-creamy-malaysian-chicken-curry--thai",
+    "title": "Creamy Thai Chicken Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "chicken",
+      "creamy",
+      "malaysian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
