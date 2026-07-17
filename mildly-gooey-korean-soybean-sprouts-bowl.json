@@ -1,0 +1,74 @@
+{
+  "slug": "mildly-gooey-korean-soybean-sprouts-bowl",
+  "title": "Korean Sprout Bowl",
+  "description": "A hearty and flavorful bowl filled with sprouts, gooey cheese, and a sweet and spicy Korean-inspired sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mildly Spicy Gochujang Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Googey Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Soybean Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together gochujang sauce, soybean paste, sesame oil, and soy sauce.",
+    "Add the sprouts to the bowl and toss to coat with the sauce.",
+    "Transfer the sprouts to a baking dish and top with shredded cheese.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle with toasted sesame seeds and sliced green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "veggie",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-gooey-korean-soybean-sprouts-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:37:37.940Z"
+}
