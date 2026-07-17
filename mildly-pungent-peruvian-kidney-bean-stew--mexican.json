@@ -1,0 +1,94 @@
+{
+  "slug": "mildly-pungent-peruvian-kidney-bean-stew--mexican",
+  "title": "Peruvian Bean Stew",
+  "description": "A hearty and flavorful stew originating from Peru, adapted with Mexican flavors. Kidney beans and mildly spicy peppers come together to create a delicious and comforting dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peruvian",
+      "amount": "1",
+      "notes": "dried aji amarillo peppers"
+    },
+    {
+      "name": "kidney",
+      "amount": "1 can",
+      "notes": "red kidney beans, drained and rinsed"
+    },
+    {
+      "name": "bean",
+      "amount": "1 can",
+      "notes": "pinto beans, drained and rinsed"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    },
+    {
+      "name": "mildly pungent",
+      "amount": "1",
+      "notes": "onion, diced"
+    },
+    {
+      "name": "mildly",
+      "amount": "1",
+      "notes": "bell pepper, diced"
+    },
+    {
+      "name": "mildly",
+      "amount": "2",
+      "notes": "garlic cloves, minced"
+    },
+    {
+      "name": "mildly",
+      "amount": "1 teaspoon",
+      "notes": "cumin"
+    },
+    {
+      "name": "mildly",
+      "amount": "1 teaspoon",
+      "notes": "chili powder"
+    },
+    {
+      "name": "mildly",
+      "amount": "1/2 teaspoon",
+      "notes": "cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add diced bell pepper and cook for an additional 3 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cumin, chili powder, and cayenne pepper. Cook for 1 minute.",
+    "Add beef broth, dried aji amarillo peppers, kidney beans, and pinto beans.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "peruvian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-pungent-peruvian-kidney-bean-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:58:04.996Z"
+}
