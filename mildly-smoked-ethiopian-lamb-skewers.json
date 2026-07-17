@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-smoked-ethiopian-lamb-skewers",
+  "title": "Smoked Ethiopian Lamb Skewers",
+  "description": "A flavorful and aromatic dish that combines the rich flavors of Ethiopia with the smokiness of grilled lamb. Serve as an appetizer or main course.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure the lamb is at room temperature before assembling skewers."
+    },
+    {
+      "name": "Mildly seasoned Ethiopian spice blend",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade, to taste."
+    },
+    {
+      "name": "Vegetable oil for brushing",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Skewers for lamb",
+      "amount": "4-6",
+      "notes": "Wooden or metal, depending on preference."
+    },
+    {
+      "name": "Onion, peeled and chopped",
+      "amount": "1 large",
+      "notes": "Red or yellow onion works well."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "To taste, adjust accordingly."
+    },
+    {
+      "name": "Bell pepper, chopped",
+      "amount": "1 large",
+      "notes": "Any color, e.g., red, yellow, or orange."
+    },
+    {
+      "name": "Zest of lemon",
+      "amount": "1 lemon",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish, to taste."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, mix together Ethiopian spice blend, salt, and pepper.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with vegetable oil and sprinkle with spice blend mixture.",
+    "Grill skewers for 5-7 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, grill onion, garlic, and bell pepper until tender.",
+    "Once lamb is cooked, let it rest for 2-3 minutes before slicing.",
+    "Serve skewers with grilled vegetables and garnish with lemon zest and chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with a side of injera or rice for a more authentic Ethiopian meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grilled",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoked-ethiopian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:54:12.193Z"
+}
