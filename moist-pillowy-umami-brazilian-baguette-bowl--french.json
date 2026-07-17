@@ -1,0 +1,81 @@
+{
+  "slug": "moist-pillowy-umami-brazilian-baguette-bowl--french",
+  "title": "French Onion Baguette Bowl",
+  "description": "A French-inspired bowl filled with caramelized onions, gooey cheese, and crispy bread, perfect for a comforting meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "brazilian cheddar",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, melt butter over medium heat. Add sliced onions and cook, stirring occasionally, for 20-25 minutes or until caramelized.",
+    "In a separate bowl, toss baguette cubes with salt, black pepper, and fresh thyme.",
+    "Add baguette mixture to the skillet with onions and cook for an additional 2-3 minutes, until bread is toasted.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes, until bread is crispy and golden brown.",
+    "Remove skillet from oven and top with shredded Gruyère cheese and Brazilian cheddar. Return to oven and bake for an additional 2-3 minutes, until cheese is melted and bubbly.",
+    "Serve immediately, garnished with additional thyme if desired.",
+    "Enjoy your French Onion Baguette Bowl!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "comfort-food",
+    "onion",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-pillowy-umami-brazilian-baguette-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:31:44.336Z"
+}
