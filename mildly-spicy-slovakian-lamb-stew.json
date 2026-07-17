@@ -1,0 +1,95 @@
+{
+  "slug": "mildly-spicy-slovakian-lamb-stew",
+  "title": "Slovakian Spicy Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Slovakia, featuring tender lamb and a spicy kick.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "mildly spicy sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Brown the lamb shoulder on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned lamb shoulder back to the pot, along with the mildly spicy sausage, tomato paste, red wine, and beef broth.",
+    "Stir in the caraway seeds and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "slovakian",
+    "stew",
+    "spicy",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-slovakian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:21:10.366Z"
+}
