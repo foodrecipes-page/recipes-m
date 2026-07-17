@@ -1,0 +1,76 @@
+{
+  "slug": "malty-dense-moroccan-chocolate-tagine--chinese",
+  "title": "Moroccan Chicken Tagine with Malt",
+  "description": "A fusion of Chinese and Moroccan flavors in a hearty, comforting dish. This rich and savory stew is made with chicken, malt, and a blend of aromatic spices.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Moroccan Chicken",
+      "amount": "1.5 pounds boneless, skinless chicken thighs"
+    },
+    {
+      "name": "Malty Malt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dense Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Moroccan Spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Tagine Spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together malt, flour, Moroccan spice, and Tagine spice.",
+    "Add chicken to the bowl and mix until coated with the spice mixture.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned, about 5-6 minutes.",
+    "Add onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add 2 cups of chicken broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25-30 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-moroccan-fusion",
+    "tagine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-moroccan-chocolate-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:59:03.948Z"
+}
