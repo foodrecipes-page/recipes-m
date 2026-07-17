@@ -1,0 +1,97 @@
+{
+  "slug": "magnificently-creamy-malaysian-chicken-curry--thai",
+  "title": "Creamy Thai Chicken Curry",
+  "description": "A rich and flavorful Thai-inspired curry made with chicken, creamy coconut milk, and a blend of spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "magnificently creamy curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance the flavors"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large pan over medium-high heat.",
+    "2. Add the chicken and cook until browned, about 5-6 minutes.",
+    "3. Remove the chicken from the pan and set aside.",
+    "4. Add the onion and garlic to the pan and sauté until the onion is translucent.",
+    "5. Add the curry paste to the pan and stir for 1-2 minutes.",
+    "6. Add the coconut milk, fish sauce, and sugar to the pan and stir to combine.",
+    "7. Return the chicken to the pan and stir to coat with the curry sauce.",
+    "8. Reduce heat to low and simmer the curry for 10-15 minutes, or until the chicken is cooked through.",
+    "9. Season with salt to taste.",
+    "10. Garnish with chopped cilantro and serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "chicken",
+    "creamy",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-creamy-malaysian-chicken-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:16:46.815Z"
+}
