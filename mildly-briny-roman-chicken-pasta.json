@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-briny-roman-chicken-pasta",
+  "title": "Roman Chicken Pasta",
+  "description": "A classic Italian-inspired dish with tender chicken, al dente pasta, and a hint of brininess.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "mildly spicy Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "briny capers",
+      "amount": "2 tbsp",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "roman olive oil",
+      "amount": "2 tbsp",
+      "notes": "or regular olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shaved or grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chicken and cook until browned and cooked through, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the garlic and cook for 1 minute until fragrant.",
+    "Add the Italian seasoning, capers, and cooked chicken back into the skillet. Stir to combine.",
+    "When the pasta is done cooking, drain and add it to the skillet with the chicken and sauce. Toss to combine.",
+    "Top with shaved parmesan cheese and serve hot.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "chicken",
+    "roman"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-briny-roman-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:47:08.129Z"
+}
