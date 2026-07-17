@@ -1,0 +1,82 @@
+{
+  "slug": "meditereanean-friendly-irish-stout-bake--thai",
+  "title": "Thai-Style Pan-Seared Fish with Stout Beer Glaze",
+  "description": "A flavorful Thai-inspired dish featuring pan-seared fish glazed with a rich stout beer reduction.",
+  "cuisine": "thai",
+  "diet": [
+    "fish-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Stout Beer",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mediteranean Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Bake-Specific Cod Fillets",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fish-Safe Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "Sliced Fresh Thai Chilies",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Mediteranean Juice of 1 Lemon",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add Thai red curry paste and stir for 1 minute.",
+    "Add cod fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "While fish is cooking, reduce stout beer in a separate saucepan over medium heat until thickened, stirring occasionally.",
+    "Stir in fish-safe salt to taste.",
+    "Add reduced stout beer glaze to cooked fish and serve hot, garnished with chopped cilantro and sliced Thai chilies.",
+    "Serve with a squeeze of lemon juice and additional Thai red curry paste on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "fish",
+    "stoutbeer",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meditereanean-friendly-irish-stout-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:50:54.506Z"
+}
