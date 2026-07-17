@@ -1,0 +1,79 @@
+{
+  "slug": "mild-crumbly-mediterranean-bresaola-bake--keto",
+  "title": "Bresaola and Mediterranean Frittata",
+  "description": "A keto frittata recipe featuring crumbly bresaola and a flavorful mediterranean twist.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Mediterranean Feta Crumbles",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mild Scrambled Eggs",
+      "amount": "6 eggs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bake",
+      "amount": "1"
+    },
+    {
+      "name": "Freshly Ground Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Crack the eggs into a bowl and beat them with salt, pepper, and garlic powder.",
+    "Heat the olive oil in a 9-inch (23cm) oven-safe skillet over medium heat.",
+    "Add the scrambled eggs to the skillet and cook until the edges start to set.",
+    "Add the crumbled feta and chopped parsley to the eggs.",
+    "Place the skillet in the oven and bake for 15-20 minutes.",
+    "While the frittata is baking, slice the bresaola into thin strips.",
+    "Once the frittata is set, remove it from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and top with the sliced bresaola."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-breakfast",
+    "mediterranean-frittata"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crumbly-mediterranean-bresaola-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:54:25.150Z"
+}
