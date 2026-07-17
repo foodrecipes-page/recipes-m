@@ -12300,18 +12300,14 @@
   },
   {
     "slug": "mildly-smoked-ethiopian-lamb-skewers",
-    "title": "Mildly Smoked Ethiopian Lamb Skewers",
+    "title": "Smoked Ethiopian Lamb Skewers",
     "tags": [
-      "ethiopian",
-      "grilled",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "sesame-seeds",
-      "weeknight"
+      "grilled",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -20989,6 +20985,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "moroccan-charred-moroccan-lamb-mechoui--japanese",
+    "title": "Japanese-Style Lamb Mechoui",
+    "tags": [
+      "lamb",
+      "japanese",
+      "fusion",
+      "slow-cooked"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 165,
     "shard": "m"
   }
 ]
