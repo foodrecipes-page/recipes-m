@@ -1,0 +1,89 @@
+{
+  "slug": "mildly-sour-brazilian-lamb-stew",
+  "title": "Brazilian Lamb Stew",
+  "description": "A hearty and flavorful stew from Brazil, perfect for a cold evening. The mildly sour taste of the tomatoes balances the richness of the lamb.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "mildly sour"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Braised lamb broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches until browned on all sides, about 5 minutes. Transfer to a plate.",
+    "Add more oil if necessary, then cook the onion and garlic until softened, about 5 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the wine (if using) and bring to a boil.",
+    "Add the browned lamb, broth, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Stir in the diced tomatoes and cook for an additional 10 minutes.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "stew",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-brazilian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:34:43.562Z"
+}
