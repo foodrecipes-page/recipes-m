@@ -20929,5 +20929,32 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "m"
+  },
+  {
+    "slug": "meditereanean-friendly-irish-stout-bake--thai",
+    "title": "Thai-Style Pan-Seared Fish with Stout Beer Glaze",
+    "tags": [
+      "thaifood",
+      "fish",
+      "stoutbeer",
+      "glaze"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "minty-greek-chicken-skewers--german",
+    "title": "Grilled Chicken Skewers with Minty Greek Sauce",
+    "tags": [
+      "german",
+      "grilled",
+      "chicken",
+      "skewers",
+      "greek"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "m"
   }
 ]
