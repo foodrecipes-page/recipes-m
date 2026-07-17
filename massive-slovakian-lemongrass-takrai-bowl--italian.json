@@ -1,0 +1,91 @@
+{
+  "slug": "massive-slovakian-lemongrass-takrai-bowl--italian",
+  "title": "Slovakian-Italian Takrai Chicken Bowl",
+  "description": "A fusion of Slovakian and Italian flavors with the exotic taste of takrai. A perfect dish for adventurous foodies. Pair it with a glass of white wine for a delightful evening.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Takrai",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Slovakian chicken",
+      "amount": "1 lb",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "1 stalk",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together olive oil, garlic, salt, and black pepper.",
+    "Rub the mixture all over the chicken, making sure to coat it evenly.",
+    "Place the chicken in a large bowl and bake for 25-30 minutes or until cooked through.",
+    "While the chicken is baking, heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped lemongrass and cook for 2-3 minutes or until fragrant.",
+    "Add the chopped takrai and cook for another 2-3 minutes or until softened.",
+    "Stir in chopped parsley and season with salt and black pepper to taste.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "Serve the sliced chicken in the large bowl with the lemongrass-takrai mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "takrai",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/massive-slovakian-lemongrass-takrai-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:33:57.283Z"
+}
