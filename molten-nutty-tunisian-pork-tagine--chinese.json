@@ -1,0 +1,95 @@
+{
+  "slug": "molten-nutty-tunisian-pork-tagine--chinese",
+  "title": "Tunisian-Style Pork Tagine",
+  "description": "A fusion of Chinese and Tunisian flavors, this dish is a hearty and aromatic pork tagine that will leave you wanting more.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch pieces",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 tbsp",
+      "notes": "tunisian spice blend"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tbsp",
+      "notes": "molten honey"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "Add the tunisian spice blend, molten honey, and soy sauce. Stir to combine.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally, about 10 minutes.",
+    "Add the sliced almonds and cook for 1 minute.",
+    "Cover the pot and transfer it to the oven. Cook for 1-1/2 hours, or until the pork is tender.",
+    "Stir in the rice vinegar and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "tunisian",
+    "pork",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-nutty-tunisian-pork-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:00:17.518Z"
+}
