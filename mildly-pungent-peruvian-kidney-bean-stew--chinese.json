@@ -1,0 +1,96 @@
+{
+  "slug": "mildly-pungent-peruvian-kidney-bean-stew--chinese",
+  "title": "Spicy Chinese Kidney Bean Stew",
+  "description": "A hearty, comforting stew originating from China, made with kidney beans, mildly pungent flavors, and a touch of Peruvian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney Beans (cooked)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mildly Pungent Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Peruvian Ají Amarillo",
+      "amount": "2 tbsp",
+      "notes": "Paste"
+    },
+    {
+      "name": "Bean Stew Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat sesame oil in a large pan over medium heat.",
+    "2. Add sliced ginger and cook for 1-2 minutes until fragrant.",
+    "3. Add minced garlic and cook for another minute.",
+    "4. Add chopped onion and cook until softened, about 3-4 minutes.",
+    "5. Stir in Peruvian Ají Amarillo paste and cook for 1 minute.",
+    "6. Add cooked kidney beans, bean stew sauce, salt, and black pepper.",
+    "7. Stir well to combine and bring to a simmer.",
+    "8. Reduce heat to low and cook for 10-15 minutes or until the stew thickens.",
+    "9. Taste and adjust seasoning as needed.",
+    "10. Garnish with chopped green onions (if using) and serve hot.",
+    "11. Serve with steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "stew",
+    "kidney-beans"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-pungent-peruvian-kidney-bean-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:39:17.914Z"
+}
