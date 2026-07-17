@@ -1,0 +1,91 @@
+{
+  "slug": "mouthwatering-silky-jamaican-fish-curry",
+  "title": "Jamaican Curry Fish",
+  "description": "A flavorful and aromatic dish with the perfect balance of spices and fish.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "4 pieces (6 oz each)",
+      "notes": "firm white fish, such as snapper or tilapia"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp",
+      "notes": "use a mild or medium-hot curry powder, depending on your preference"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "use a neutral-tasting oil, such as canola or grapeseed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat or low-fat, depending on your preference"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use a flaky sea salt, such as kosher or Maldon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Season the fish with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the curry powder and cook for 1-2 minutes, stirring constantly.",
+    "Add the fish and cook for 2-3 minutes per side, or until cooked through.",
+    "Transfer the fish to a plate and cover with foil to keep warm.",
+    "Add the coconut milk to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5-7 minutes, or until thickened slightly.",
+    "Serve the fish with the curry sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "curry",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-silky-jamaican-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:04:06.582Z"
+}
