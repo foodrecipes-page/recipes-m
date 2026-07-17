@@ -2635,16 +2635,15 @@
   },
   {
     "slug": "malty-italian-almonds-amatriciana",
-    "title": "Malty Italian Almonds Amatriciana",
+    "title": "Pistachio and Amatriciana Crusted Almond Cookies",
     "tags": [
-      "high-protein",
       "italian",
-      "malty",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "cookies",
+      "almond",
+      "pistachio",
+      "amatriciana"
     ],
-    "cuisine": "Italian",
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "m"
   },
@@ -10978,18 +10977,15 @@
   },
   {
     "slug": "mildly-briny-roman-chicken-pasta",
-    "title": "Mildly Briny Roman Chicken Pasta",
+    "title": "Roman Chicken Pasta",
     "tags": [
-      "bouncy",
-      "briny",
-      "date-night",
-      "italian-cuisine",
-      "low-carb",
-      "one-pan",
-      "sugar-free"
+      "italian",
+      "pasta",
+      "chicken",
+      "roman"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -20854,6 +20850,45 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoky-egyptian-pepper-tagine--vegetarian",
+    "title": "Mildly Smoky Tagine",
+    "tags": [
+      "vegetarian",
+      "north-african",
+      "stew",
+      "lentil-free"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-norwegian-tofu-curry--indian",
+    "title": "Spicy Tofu Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-pungent-peruvian-kidney-bean-stew--chinese",
+    "title": "Spicy Chinese Kidney Bean Stew",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "stew",
+      "kidney-beans"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
