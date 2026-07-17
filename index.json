@@ -4565,17 +4565,16 @@
   },
   {
     "slug": "mellow-braised-canadian-mushroom-stew",
-    "title": "Mellow Braised Canadian Mushroom Stew",
+    "title": "Braised Mushroom Stew",
     "tags": [
-      "canadian-cuisine",
+      "beef",
+      "mushroom",
+      "stew",
       "comfort-food",
-      "low-fat",
-      "mushroom-based",
-      "vegan-friendly",
-      "winter-stew"
+      "canadian-cuisine"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {
@@ -6947,18 +6946,15 @@
   },
   {
     "slug": "melted-crunchy-dutch-corn-gratin",
-    "title": "Melted Crunchy Dutch Corn Gratin",
+    "title": "Classic Dutch Corn Gratin",
     "tags": [
-      "comfort-food",
-      "crunchy-topping",
-      "dutch-cuisine",
-      "midnight-craving",
-      "ovo-vegetarian",
-      "roasted-corn",
-      "yuzu-juice"
+      "corn",
+      "gratin",
+      "dutch",
+      "side-dish"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -20955,6 +20951,44 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "minty-korean-chicken-curry--italian",
+    "title": "Chicken Curry Italian Style",
+    "tags": [
+      "italian",
+      "korean",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-pungent-peruvian-kidney-bean-stew--mexican",
+    "title": "Peruvian Bean Stew",
+    "tags": [
+      "mexican",
+      "peruvian",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-dense-moroccan-chocolate-tagine--chinese",
+    "title": "Moroccan Chicken Tagine with Malt",
+    "tags": [
+      "chinese-moroccan-fusion",
+      "tagine",
+      "comfort-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
     "shard": "m"
   }
 ]
