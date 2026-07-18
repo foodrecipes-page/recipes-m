@@ -1,0 +1,93 @@
+{
+  "slug": "melted-mediterranean-polish-cheese-casserole--mexican",
+  "title": "Cheesy Casserole Quesadillas",
+  "description": "A twist on traditional quesadillas, these cheesy casseroles are perfect for a quick and easy Mexican-inspired meal.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Melted Cheese",
+      "amount": "1 cup shredded cheddar and Monterey Jack cheese blend",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Pasta",
+      "amount": "1 1/2 cups cooked and cooled",
+      "notes": ""
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound cooked and sliced",
+      "notes": ""
+    },
+    {
+      "name": "Casseroles",
+      "amount": "2 large flour tortillas",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Guacamole",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the sliced Polish sausage and cook until browned, about 5 minutes.",
+    "In a separate bowl, combine the melted cheese and cooked pasta. Mix well to combine.",
+    "Brush the tortillas with a little water and place them on a flat surface.",
+    "Spoon the pasta and cheese mixture onto half of each tortilla, leaving a 1/2-inch border around the edges.",
+    "Top the filling with the cooked sausage and fold the tortillas in half to enclose.",
+    "Place the quesadillas on a baking sheet lined with parchment paper and bake for 10-12 minutes, or until the cheese is melted and the tortillas are crispy.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with chopped fresh cilantro, sour cream, salsa, and guacamole, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "casserole",
+    "cheese",
+    "quesadillas",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-mediterranean-polish-cheese-casserole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:37:01.973Z"
+}
