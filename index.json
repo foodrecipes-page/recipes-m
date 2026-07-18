@@ -8640,18 +8640,15 @@
   },
   {
     "slug": "midnight-craving-jamaican-yautia-bake",
-    "title": "midnight-craving jamaican yautia bake",
+    "title": "Jamaican Midnight Bake",
     "tags": [
-      "gluten-free",
+      "midnight",
+      "craving",
       "jamaican",
-      "midnight-craving",
-      "one-pan",
-      "snack",
-      "sugar-free",
-      "tandoor"
+      "comfort-food"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -21225,6 +21222,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-citrusy-kenyan-chicken-pilaf--vegan",
+    "title": "Kenyan Style Vegan Chicken Pilaf",
+    "tags": [
+      "vegan",
+      "kenyan",
+      "pilaf",
+      "rice"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mediterranean-charred-mediterranean-beef-tagine--chinese",
+    "title": "Chinese Beef Tagine",
+    "tags": [
+      "chinese",
+      "beef",
+      "tagine",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
