@@ -1,0 +1,104 @@
+{
+  "slug": "midnight-craving-rich-vietnamese-clams-poach--vegetarian",
+  "title": "Midnight Clams with Vietnamese Flair",
+  "description": "A rich and savory vegetarian dish with poached clams, inspired by Vietnamese flavors. Perfect for a midnight craving.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "Freshly shelled clams, preferably with the black sauce removed"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "Peeled and bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "Peeled and sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Peeled and sliced"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4",
+      "notes": "Fresh"
+    },
+    {
+      "name": "fish sauce substitute",
+      "amount": "2 tablespoons",
+      "notes": "Use a vegetarian fish sauce or nam pla"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the savory flavors"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For poaching the clams"
+    },
+    {
+      "name": "chilies",
+      "amount": "2",
+      "notes": "Sliced and seeded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Peeled and minced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "Sliced and chilled"
+    }
+  ],
+  "instructions": [
+    "Begin by preparing the lemongrass, galangal, and ginger. Bruise the lemongrass and slice the galangal and ginger.",
+    "In a large pot of boiling water, blanch the lemongrass for 1 minute, then remove and set aside.",
+    "In the same pot, add the galangal and ginger and blanch for an additional minute, then remove and set aside with the lemongrass.",
+    "Add the sliced chilies, garlic, and lime leaves to the pot and blanch for 1 minute.",
+    "Add the clams to the pot and cover with water. Bring to a boil, then reduce heat to a simmer and poach for 3-5 minutes, or until the clams are cooked through.",
+    "Remove the clams from the pot and set aside with the lemongrass, galangal, and ginger.",
+    "Strain the cooking liquid through a fine-mesh sieve and discard the solids.",
+    "In a large bowl, combine the strained cooking liquid, fish sauce substitute, sugar, and vegetable oil.",
+    "Add the sliced cucumber to the bowl and toss to combine.",
+    "Add the poached clams to the bowl and toss gently to combine.",
+    "Serve immediately, garnished with fresh lime leaves and cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight",
+    "craving",
+    "rich",
+    "vietnamese",
+    "clams",
+    "poach",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-rich-vietnamese-clams-poach--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:44:31.460Z"
+}
