@@ -1,0 +1,64 @@
+{
+  "slug": "midnight-red-potato-delight",
+  "title": "Midnight Delight Potato Delicacy",
+  "description": "A simple, elegant dish that combines the earthy sweetness of potatoes with the vibrant flavors of red ingredients.",
+  "cuisine": "european",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "midnight (black beans)",
+      "amount": "1 cup, cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "red (bell peppers)",
+      "amount": "2, sliced",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "potato",
+      "amount": "2, peeled and diced",
+      "notes": "any variety, but high-starch works best"
+    },
+    {
+      "name": "delight (feta cheese)",
+      "amount": "1/2 cup, crumbled",
+      "notes": "optional, but adds tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss diced potatoes with a drizzle of oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until golden brown.",
+    "In a large skillet, sauté sliced red bell peppers over medium heat until tender.",
+    "Add cooked black beans to the skillet and stir to combine.",
+    "Once potatoes are done roasting, add them to the skillet and stir to combine.",
+    "Top with crumbled feta cheese (if using) and serve hot.",
+    "Garnish with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato",
+    "vegetarian",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-red-potato-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:46:38.977Z"
+}
