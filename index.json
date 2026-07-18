@@ -2914,19 +2914,15 @@
   },
   {
     "slug": "malty-moroccan-lamb-tagine",
-    "title": "Malty Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "beef",
-      "beer",
-      "comfortfood",
       "lamb",
       "moroccan",
-      "one-pan",
       "tagine",
-      "weeknight"
+      "couscous"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 190,
+    "cuisine": "North African",
+    "totalTimeMin": 150,
     "shard": "m"
   },
   {
@@ -19201,16 +19197,14 @@
   },
   {
     "slug": "mustardy-egyptian-egg-rolls-fried-rice",
-    "title": "Mustardy Egyptian Egg Rolls Fried-Rice",
+    "title": "Egyptian Fried Rice with Fried Egg",
     "tags": [
-      "egyptian",
-      "one-pan",
-      "sattvic",
       "vegetarian",
-      "weeknight"
+      "easy",
+      "easypeasy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -21248,6 +21242,59 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-roasted-irish-beef-roast--mexican",
+    "title": "Irish Beef Flank Steak Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "irish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-roasted-polish-chicken-bowl--vegan",
+    "title": "Polish Vegan Bowl",
+    "tags": [
+      "vegan",
+      "polish",
+      "bowls"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-roasted-polish-chicken-bowl--french",
+    "title": "Polish Chicken Bowl with Mellow French Twist",
+    "tags": [
+      "polish",
+      "french",
+      "chicken",
+      "sausage",
+      "potatoes",
+      "cheese"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-garlicky-american-pork-skillet--vegan",
+    "title": "Vegan Skillet Delight",
+    "tags": [
+      "vegan",
+      "magnificently",
+      "skillet",
+      "dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
