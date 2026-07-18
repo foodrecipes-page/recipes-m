@@ -1,0 +1,79 @@
+{
+  "slug": "mouthwatering-crunchy-malaysian-rice-fried-rice",
+  "title": "Malaysian Fried Rice",
+  "description": "A classic Malaysian dish made with fried rice, vegetables, and spices. Perfect for a quick and easy meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Mixed vegetables (e.g., peas, carrots, corn)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Palm sugar (or brown sugar)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add diced onion and minced garlic and stir-fry until fragrant.",
+    "Add mixed vegetables and stir-fry for 2-3 minutes.",
+    "Add cooked rice to the wok or skillet and stir-fry for 2-3 minutes.",
+    "Add soy sauce, oyster sauce (if using), and palm sugar to the rice mixture and stir-fry until combined.",
+    "Taste and adjust seasoning with salt as needed.",
+    "Transfer the fried rice to a serving platter and garnish with chopped green onions (optional).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "fried",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-crunchy-malaysian-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:22:25.208Z"
+}
