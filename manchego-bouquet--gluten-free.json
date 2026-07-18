@@ -1,0 +1,77 @@
+{
+  "slug": "manchego-bouquet--gluten-free",
+  "title": "Roasted Manchego and Bouquet Garni",
+  "description": "A simple yet flavorful dish featuring roasted Manchego cheese paired with a bouquet garni. This recipe is perfect for gluten-free diets.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 block (about 8 oz)",
+      "notes": null
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Fresh sage",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Manchego cheese into 1-inch cubes.",
+    "In a small bowl, combine the thyme, rosemary, and sage.",
+    "Place the cheese cubes on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the cheese and sprinkle with the herb mixture.",
+    "Season with salt and pepper to taste.",
+    "Roast in the preheated oven for 15-20 minutes, or until the cheese is melted and golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/manchego-bouquet--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:35:07.999Z"
+}
