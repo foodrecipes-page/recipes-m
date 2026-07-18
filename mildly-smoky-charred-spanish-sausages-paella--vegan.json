@@ -1,0 +1,95 @@
+{
+  "slug": "mildly-smoky-charred-spanish-sausages-paella--vegan",
+  "title": "Smoky Spanish Sausage-Free Paella",
+  "description": "A flavorful, vegan take on traditional Spanish paella, using smoky sausages alternatives and a variety of vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mildly Smoked Vegan Sausages",
+      "amount": "1 package (about 4 sausages)",
+      "notes": ""
+    },
+    {
+      "name": "Charred Smoked Paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spanish-Style Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Bell Peppers",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the mixed bell peppers and cook until tender, about 5 minutes.",
+    "Add the smoked vegan sausages and cook until browned, about 5 minutes.",
+    "Add the Spanish-style rice, smoked paprika, salt, and vegetable broth. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes.",
+    "Add the diced tomatoes and stir to combine. Cook for an additional 5 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "paella",
+    "smoky",
+    "charred"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-charred-spanish-sausages-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:28:10.312Z"
+}
