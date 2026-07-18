@@ -1,0 +1,80 @@
+{
+  "slug": "mild-garlicky-thai-fermented-black-beans-khao-soi--french",
+  "title": "French Khao Bean Casserole",
+  "description": "A hearty, garlicky French-inspired casserole made with tender beans and a rich, savory sauce, served with a side of crusty bread.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "khao",
+      "amount": "2 cups",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "fermented beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "soi",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "mild garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mild",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlicky",
+      "amount": "1 teaspoon",
+      "notes": "minced garlic powder"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked beans, khao, and soi to the pan.",
+    "Stir to combine and cook for 2-3 minutes, until the ingredients are well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a small bowl, mix together the minced garlic powder and a pinch of salt.",
+    "Sprinkle the garlic powder mixture evenly over the top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot, garnished with additional soi if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-garlicky-thai-fermented-black-beans-khao-soi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:50:12.395Z"
+}
