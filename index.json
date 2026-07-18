@@ -9503,17 +9503,14 @@
   },
   {
     "slug": "midnight-roasted-central-thai-chickpeas-fry-grind-rice-khao-khua",
-    "title": "Midnight Roasted Central-Thai Chickpeas Fry-Grind-Rice-Khao-Khua",
+    "title": "Thai-Style Roasted Chickpea Bites",
     "tags": [
-      "aerated",
-      "centralthai",
-      "midnight-snack",
-      "one-pan",
-      "raw-friendly",
-      "spicy"
+      "vegan",
+      "gluten-free",
+      "snack"
     ],
-    "cuisine": "Central Thai",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -10088,17 +10085,15 @@
   },
   {
     "slug": "mighty-smoky-uruguayan-pumpkin-empanadas",
-    "title": "Mighty Smoky Uruguayan Pumpkin Empanadas",
+    "title": "Smoky Uruguayan Empanadas",
     "tags": [
       "empanadas",
-      "pumpkin",
-      "quick",
+      "uruguayan",
       "smoky",
-      "snack",
-      "uruguayan"
+      "savory"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -21192,6 +21187,22 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-rich-vietnamese-clams-poach--vegetarian",
+    "title": "Midnight Clams with Vietnamese Flair",
+    "tags": [
+      "midnight",
+      "craving",
+      "rich",
+      "vietnamese",
+      "clams",
+      "poach",
+      "vegetarian"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
