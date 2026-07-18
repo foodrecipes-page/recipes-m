@@ -1,0 +1,81 @@
+{
+  "slug": "mildly-winey-brazilian-ume-plum-onigiri--indian",
+  "title": "Chicken Tikka Masala Onigiri Bites",
+  "description": "A fusion of Indian and Japanese flavors in a crispy onigiri bite, served with a side of mildly spiced chicken tikka masala sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onigiri",
+      "amount": "4-6 pieces",
+      "notes": "Japanese rice balls"
+    },
+    {
+      "name": "Mildly spiced chicken tikka masala sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Plum",
+      "amount": "1/2 cup",
+      "notes": "plum jam or chutney"
+    },
+    {
+      "name": "Ume",
+      "amount": "1/4 cup",
+      "notes": "ume plum vinegar or plum wine"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Cut the onigiri into bite-sized pieces.",
+    "2. In a small bowl, mix together plum jam, ume plum vinegar, garam masala, and salt.",
+    "3. Brush the mixture onto each onigiri piece.",
+    "4. Serve with a side of mildly spiced chicken tikka masala sauce.",
+    "5. Garnish with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "japanese",
+    "fusion",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-winey-brazilian-ume-plum-onigiri--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:34:03.750Z"
+}
