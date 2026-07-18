@@ -1,0 +1,77 @@
+{
+  "slug": "mildly-spicy-chiapan-corn-grilled-elote",
+  "title": "Grilled Elote",
+  "description": "A classic Mexican street food, grilled elote is a flavorful and easy-to-make side dish or snack. This recipe is perfect for summer gatherings or potlucks.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Elote corn",
+      "amount": "4 ears",
+      "notes": "Husked and silked"
+    },
+    {
+      "name": "Mildly spicy butter",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grilled chili powder",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Queso fresco (optional)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the elote corn for 10-12 minutes, turning every 2-3 minutes to achieve even char.",
+    "While the corn is grilling, mix the mildly spicy butter, lime juice, salt, and grilled chili powder in a small bowl.",
+    "Once the corn is done, brush the spicy butter mixture evenly onto each ear.",
+    "Garnish with chopped cilantro and crumbled queso fresco (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "elote",
+    "corn",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-chiapan-corn-grilled-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:31:49.881Z"
+}
