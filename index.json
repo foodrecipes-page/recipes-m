@@ -3623,17 +3623,14 @@
   },
   {
     "slug": "masala-japanese-bread-flatbread",
-    "title": "Masala Japanese Bread Flatbread",
+    "title": "Indian-Style Flatbread",
     "tags": [
-      "asian",
-      "flaky",
-      "quick",
-      "snack",
-      "spicy",
-      "vegan"
+      "flatbread",
+      "indian-spices",
+      "easy-snacks"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 42,
+    "cuisine": "Indian",
+    "totalTimeMin": 9,
     "shard": "m"
   },
   {
@@ -12158,16 +12155,15 @@
   },
   {
     "slug": "mildly-salty-british-seaweed-spotted-dick",
-    "title": "Mildly Salty British Seaweed Spotted Dick",
+    "title": "Spotted Dick British Pudding",
     "tags": [
-      "british-classic",
-      "dairy-free",
-      "seaweed-based",
-      "steamed-pudding",
-      "vegetarian-friendly"
+      "british",
+      "dessert",
+      "pudding",
+      "traditional"
     ],
     "cuisine": "British",
-    "totalTimeMin": 65,
+    "totalTimeMin": 140,
     "shard": "m"
   },
   {
@@ -17941,17 +17937,15 @@
   },
   {
     "slug": "mouthwatering-crunchy-malaysian-rice-fried-rice",
-    "title": "Malaysian Rice Fried Rice",
+    "title": "Malaysian Fried Rice",
     "tags": [
-      "brunch",
-      "dinner",
-      "lunch",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "fried",
+      "rice",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21146,6 +21140,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-crispy-syrian-guanciale-flatbread--italian",
+    "title": "Italian-Style Flatbread Pizza with Guanciale",
+    "tags": [
+      "italian",
+      "pizza",
+      "flatbread",
+      "guanciale"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "m"
   }
 ]
