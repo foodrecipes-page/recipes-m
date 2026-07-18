@@ -1,0 +1,89 @@
+{
+  "slug": "mildly-spicy-ethiopian-lentils-azifa--mexican",
+  "title": "Spicy Azifa Lentil Tacos",
+  "description": "A unique twist on traditional lentil tacos, with the bold flavors of Ethiopian azifa and a spicy kick.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Azifa Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 tsp",
+      "notes": "Spicy"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add red lentils, azifa spice mix, cumin, and chili powder. Cook for 1 minute.",
+    "Add lime juice and 2 cups of water. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning lentil mixture onto tortillas and topping with cheese and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "mexican",
+    "tacos",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-ethiopian-lentils-azifa--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:53:05.716Z"
+}
