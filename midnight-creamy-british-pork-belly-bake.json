@@ -1,0 +1,84 @@
+{
+  "slug": "midnight-creamy-british-pork-belly-bake",
+  "title": "Midnight Pork Belly Bake",
+  "description": "A savory, slow-cooked pork belly dish with a creamy sauce, perfect for a cold evening. This traditional British recipe is a must-try for pork lovers.",
+  "cuisine": "british",
+  "diet": [
+    "meat-lovers",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg"
+    },
+    {
+      "name": "midnight oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "creamy tomato sauce",
+      "amount": "250ml"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 160°C (325°F).",
+    "Cut the pork belly into a large piece and season with salt and pepper.",
+    "Heat the oil in a large oven-safe pan over medium heat. Sear the pork belly until browned on all sides.",
+    "Add the chopped onion and cook until softened, then add the minced garlic and cook for another minute.",
+    "Add the apple cider vinegar, honey, and creamy tomato sauce. Stir to combine.",
+    "Transfer the pan to the preheated oven and bake for 2 1/2 hours, or until the pork is tender and the sauce has thickened.",
+    "Remove the pan from the oven and sprinkle with chopped thyme. Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pork",
+    "comfort-food",
+    "midnight-oil"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 53,
+    "carbs": 44,
+    "fat": 57
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-creamy-british-pork-belly-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:15:04.076Z"
+}
