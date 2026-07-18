@@ -1,0 +1,81 @@
+{
+  "slug": "mild-crispy-syrian-guanciale-flatbread--italian",
+  "title": "Italian-Style Flatbread Pizza with Guanciale",
+  "description": "A classic Italian-style flatbread pizza topped with crispy guanciale and fresh herbs. This simple yet flavorful dish is perfect for a quick dinner or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "Crispy guanciale is key to this recipe"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a handful"
+    },
+    {
+      "name": "Mild mozzarella cheese",
+      "amount": "1/4 cup shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    1,
+    "Preheat your oven to 425°F (220°C).",
+    2,
+    "Roll out the flatbread to a thickness of about 1/4 inch.",
+    3,
+    "Brush the flatbread with olive oil and season with salt and black pepper.",
+    4,
+    "Top the flatbread with guanciale slices, making sure to cover the entire surface.",
+    5,
+    "Sprinkle shredded mozzarella cheese over the guanciale.",
+    6,
+    "Bake in the preheated oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted.",
+    7,
+    "Remove the flatbread from the oven and sprinkle with fresh parsley.",
+    8,
+    "Slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pizza",
+    "flatbread",
+    "guanciale"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-crispy-syrian-guanciale-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:11:39.925Z"
+}
