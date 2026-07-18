@@ -16988,16 +16988,14 @@
   },
   {
     "slug": "molten-wholesome-peruvian-baguette-empanada",
-    "title": "Molten Wholesome Peruvian Baguette Empanada",
+    "title": "Peruvian Empanada Baguette Sandwich",
     "tags": [
-      "easy-weeknight",
-      "gluten-free",
-      "one-pan",
-      "post-workout",
-      "whole30"
+      "peruvian",
+      "breakfast",
+      "sandwich"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -21103,6 +21101,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-dense-moroccan-chocolate-tagine--thai",
+    "title": "Thai Tagine Chocolate Cake",
+    "tags": [
+      "chocolate",
+      "thai",
+      "cake",
+      "dessert"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
     "shard": "m"
   }
 ]
