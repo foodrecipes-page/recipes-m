@@ -1,0 +1,55 @@
+{
+  "slug": "masala-japanese-bread-flatbread",
+  "title": "Indian-Style Flatbread",
+  "description": "A simple flatbread recipe infused with Indian spices, perfect for a quick snack or side dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Sprinkle both sides of the flatbread with masala and a pinch of salt.",
+    "If using soy sauce, brush it on one side of the flatbread.",
+    "Cook the flatbread for 1-2 minutes on the first side, until it starts to puff up.",
+    "Flip the flatbread and cook for another 1-2 minutes, until it's crispy and golden.",
+    "Repeat with the remaining flatbreads.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "indian-spices",
+    "easy-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/masala-japanese-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:37:23.760Z"
+}
