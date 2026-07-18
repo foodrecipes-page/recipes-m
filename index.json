@@ -13046,16 +13046,15 @@
   },
   {
     "slug": "mildly-spicy-chiapan-corn-grilled-elote",
-    "title": "Mildly Spicy Chiapan Corn Grilled Elote",
+    "title": "Grilled Elote",
     "tags": [
-      "gluten-free",
-      "grilled",
       "mexican",
-      "snack",
-      "summer",
-      "vegetarian"
+      "grilled",
+      "elote",
+      "corn",
+      "summer"
     ],
-    "cuisine": "mexican",
+    "cuisine": "Mexican",
     "totalTimeMin": 22,
     "shard": "m"
   },
@@ -21114,6 +21113,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoky-charred-spanish-sausages-paella--vegan",
+    "title": "Smoky Spanish Sausage-Free Paella",
+    "tags": [
+      "vegan",
+      "spanish",
+      "paella",
+      "smoky",
+      "charred"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
