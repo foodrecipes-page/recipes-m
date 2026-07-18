@@ -1,0 +1,91 @@
+{
+  "slug": "mushy-irish-potato-casserole--japanese",
+  "title": "Japanese Potato Casserole",
+  "description": "A fusion Japanese-inspired potato casserole with a crispy topping. The sweetness of the potatoes pairs perfectly with the savory flavors of the dish.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushy peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil for brushing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and thinly slice the Irish potatoes. In a large bowl, combine the sliced potatoes, soy sauce, sesame oil, and grated ginger. Toss to coat.",
+    "Transfer the potato mixture to a 9x13 inch casserole dish. Top with the mushy peas.",
+    "In a small bowl, mix together the sesame seeds and breadcrumbs. Sprinkle the mixture evenly over the top of the casserole.",
+    "Brush the sesame oil over the sesame seed mixture.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the casserole from the oven and sprinkle with chopped green onions.",
+    "Return the casserole to the oven and bake for an additional 5-10 minutes, or until the green onions are slightly caramelized.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "potato",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushy-irish-potato-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:44:10.770Z"
+}
