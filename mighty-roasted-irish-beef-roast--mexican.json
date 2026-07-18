@@ -1,0 +1,95 @@
+{
+  "slug": "mighty-roasted-irish-beef-roast--mexican",
+  "title": "Irish Beef Flank Steak Tacos",
+  "description": "A twist on traditional tacos, this recipe combines the rich flavors of Irish roast beef with the spices of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "mexican"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish beef flank steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Roasted onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mighty chipotle peppers",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together cumin, chili powder, and lime juice.",
+    "3. Rub the spice mixture evenly onto the beef flank steak.",
+    "4. Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 135°F.",
+    "5. Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "6. Meanwhile, grill the sliced onion and chipotle peppers until they are lightly charred.",
+    "7. Warm the tortillas on the grill or in the oven.",
+    "8. Assemble the tacos by placing a slice of beef onto a tortilla, followed by a spoonful of grilled onion and a sprinkle of cheese.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-roasted-irish-beef-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:07:54.568Z"
+}
