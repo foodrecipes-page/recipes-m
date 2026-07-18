@@ -1,0 +1,81 @@
+{
+  "slug": "mediterranean-charred-mediterranean-beef-tagine--chinese",
+  "title": "Chinese Beef Tagine",
+  "description": "A unique fusion of Chinese and Mediterranean flavors, featuring tender beef in a rich and spicy tagine sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "100g",
+      "notes": "pitted"
+    },
+    {
+      "name": "charred red peppers",
+      "amount": "2",
+      "notes": "roasted"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add 1 tbsp of oil and cook beef until browned, about 3-4 minutes.",
+    "Remove beef from heat and set aside.",
+    "In the same wok, add another tbsp of oil and sauté the olives, peppers, and tagine spice blend until the peppers are tender.",
+    "Add soy sauce, brown sugar, and rice vinegar to the wok, stirring to combine.",
+    "Return beef to the wok and stir to coat with the sauce.",
+    "Simmer for an additional 5 minutes, or until the beef is cooked through.",
+    "Serve beef hot, garnished with additional peppers and olives if desired.",
+    "Serve with steamed rice or noodles.",
+    "Garnish with chopped green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "tagine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mediterranean-charred-mediterranean-beef-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:23:43.420Z"
+}
