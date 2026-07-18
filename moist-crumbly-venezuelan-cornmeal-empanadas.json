@@ -1,0 +1,67 @@
+{
+  "slug": "moist-crumbly-venezuelan-cornmeal-empanadas",
+  "title": "Venezuelan Cornmeal Empanadas",
+  "description": "A traditional Venezuelan dish, these cornmeal empanadas are flavorful and easy to make.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "moist",
+      "amount": "1/4 cup",
+      "notes": "moistened with water"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/4 cup",
+      "notes": "crumbly cheese, shredded"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cornmeal, water, and moist. Mix well.",
+    "Add venezuelan and mix until dough forms.",
+    "Knead dough for 5 minutes.",
+    "Divide dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk.",
+    "Place a spoonful of crumbly cheese in the center of each disk.",
+    "Fold dough in half and press edges together to seal.",
+    "Heat a large skillet over medium heat.",
+    "Cook empanadas for 2-3 minutes on each side, until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cornmeal",
+    "empanadas",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-crumbly-venezuelan-cornmeal-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:27:20.979Z"
+}
