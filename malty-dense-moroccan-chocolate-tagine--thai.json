@@ -1,0 +1,89 @@
+{
+  "slug": "malty-dense-moroccan-chocolate-tagine--thai",
+  "title": "Thai Tagine Chocolate Cake",
+  "description": "A rich and dense Thai-inspired cake, infused with the warmth of chocolate and spices, perfect for a unique dessert.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "malty chocolate",
+      "amount": "1 cup",
+      "notes": "bittersweet chocolate, chopped"
+    },
+    {
+      "name": "dense tagine",
+      "amount": "1 cup",
+      "notes": "ground almonds"
+    },
+    {
+      "name": "maltose",
+      "amount": "1/2 cup",
+      "notes": "for added depth"
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": "large eggs, at room temperature"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": "leavening"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/4 cup",
+      "notes": "cooled slightly"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease and flour a 9-inch (23cm) round cake pan.",
+    "Whisk together flour, baking powder, and salt. Set aside.",
+    "In a medium bowl, whisk together melted coconut oil, maltose, and vanilla extract.",
+    "In a large mixing bowl, beat the eggs until light and fluffy.",
+    "Gradually add the dry ingredients to the egg mixture, beating until just combined.",
+    "Stir in the chopped chocolate, ground tagine, and maltose mixture until well combined.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "thai",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-moroccan-chocolate-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:43:00.015Z"
+}
