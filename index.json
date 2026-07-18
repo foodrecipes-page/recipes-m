@@ -9455,17 +9455,15 @@
   },
   {
     "slug": "midnight-red-potato-delight",
-    "title": "Midnight Red Potato Delight",
+    "title": "Midnight Delight Potato Delicacy",
     "tags": [
-      "midnight_red_potato_delight",
-      "sour",
-      "chewy",
-      "gluten_free",
-      "dessert",
-      "midnight_craving"
+      "potato",
+      "vegetarian",
+      "gluten-free",
+      "easy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "european",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -11581,17 +11579,15 @@
   },
   {
     "slug": "mildly-garlicky-irish-potato-stew",
-    "title": "Mildly Garlicky Irish Potato Stew",
+    "title": "Garlicky Irish Stew",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "one-pot",
-      "potatoes",
+      "irish",
       "stew",
-      "vegetarian"
+      "garlic",
+      "potatoes"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21124,6 +21120,32 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-ethiopian-lentils-azifa--keto",
+    "title": "Spicy Ethiopian Lentil Stew",
+    "tags": [
+      "lentils",
+      "ethiopian",
+      "spicy",
+      "keto"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-winey-brazilian-ume-plum-onigiri--indian",
+    "title": "Chicken Tikka Masala Onigiri Bites",
+    "tags": [
+      "indian",
+      "japanese",
+      "fusion",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "m"
   }
 ]
