@@ -1,0 +1,75 @@
+{
+  "slug": "mellow-roasted-polish-chicken-bowl--french",
+  "title": "Polish Chicken Bowl with Mellow French Twist",
+  "description": "A hearty French-inspired dish featuring roasted chicken, served in a bowl with a variety of accompaniments.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "4 links",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "roasted potatoes",
+      "amount": "2 medium-sized",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mellow cheese",
+      "amount": "1 cup shredded",
+      "notes": "such as brie or camembert"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper. Bake in the oven for 15-20 minutes, or until cooked through.",
+    "While the chicken cooks, grill the Polish sausage over medium heat until browned.",
+    "Slice the roasted potatoes and grill them alongside the sausage for a crispy exterior.",
+    "Shred the mellow cheese and set aside for serving.",
+    "Assemble the bowl by placing the cooked chicken, sausage, and potatoes in the bowl.",
+    "Top with the shredded cheese and garnish with chopped parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "french",
+    "chicken",
+    "sausage",
+    "potatoes",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-polish-chicken-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:35:33.679Z"
+}
