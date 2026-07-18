@@ -1,0 +1,86 @@
+{
+  "slug": "midnight-craving-jamaican-yautia-bake",
+  "title": "Jamaican Midnight Bake",
+  "description": "A delicious and comforting Jamaican-inspired bake recipe, perfect for satisfying your midnight cravings. This dish combines the sweetness of yautia with the bold flavors of Jamaica.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "1 medium-sized",
+      "notes": "Diced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium-sized",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Bake seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the diced yautia, melted coconut oil, chopped onion, minced garlic, ground cumin, dried thyme, and bake seasoning. Mix well until all the ingredients are fully incorporated.",
+    "Transfer the mixture to a baking dish and season with salt and black pepper to taste.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Remove the baking dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight",
+    "craving",
+    "jamaican",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-jamaican-yautia-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:49:40.472Z"
+}
