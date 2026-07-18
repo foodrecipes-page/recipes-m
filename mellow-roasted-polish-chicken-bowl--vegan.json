@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-roasted-polish-chicken-bowl--vegan",
+  "title": "Polish Vegan Bowl",
+  "description": "A hearty and flavorful vegan bowl inspired by Polish cuisine, featuring roasted vegetables and a tangy sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sauerkraut",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Roasted chicken-style tempeh",
+      "amount": "1 block",
+      "notes": "marinated"
+    },
+    {
+      "name": "Mellow red cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Bowl brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Vegan apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the sauerkraut and cook until slightly caramelized.",
+    "Add the tempeh and cook until browned.",
+    "Add the shredded cabbage and cook until wilted.",
+    "Add the cooked brown rice and stir to combine.",
+    "In a small bowl, whisk together the apple cider vinegar and a pinch of salt and pepper.",
+    "Pour the dressing over the bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "polish",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-polish-chicken-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:30:52.227Z"
+}
