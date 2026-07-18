@@ -1,0 +1,86 @@
+{
+  "slug": "miso-glazed-japanese-chicken-kebabs",
+  "title": "Japanese Chicken Skewers with Miso Glaze",
+  "description": "Sweet and savory Japanese-inspired skewers with a sticky miso glaze. Perfect for a quick weeknight dinner or a summer barbecue.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sake (or dry white wine)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "glazed sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together miso paste, soy sauce, brown sugar, rice vinegar, and sake until smooth.",
+    "Add the sliced green onions to the bowl and mix well.",
+    "In a separate bowl, whisk together sesame oil and sesame seeds (if using).",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the miso glaze onto both sides of the chicken.",
+    "Brush the sesame oil mixture onto both sides of the chicken.",
+    "Grill the skewers over medium-high heat for 8-10 minutes, turning occasionally.",
+    "Serve immediately, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-glazed-japanese-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:53:15.683Z"
+}
