@@ -1,0 +1,68 @@
+{
+  "slug": "molten-wholesome-peruvian-baguette-empanada",
+  "title": "Peruvian Empanada Baguette Sandwich",
+  "description": "A fusion of Peruvian flavors with French baguette for a unique breakfast sandwich.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peruvian Empanada",
+      "amount": "2",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "split in half"
+    },
+    {
+      "name": "Molten Cheese",
+      "amount": "2 slices",
+      "notes": "such as queso fresco"
+    },
+    {
+      "name": "Wholesome Avocado",
+      "amount": "1",
+      "notes": "mashed"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle to medium heat.",
+    "Place the baguette on the pan and toast until lightly browned.",
+    "Spread a layer of mashed avocado on the bottom half of the baguette.",
+    "Add 2 slices of molten cheese on top of the avocado.",
+    "Place the pre-cooked empanada on top of the cheese.",
+    "Sprinkle chopped cilantro on top of the empanada.",
+    "Place the top half of the baguette on the empanada.",
+    "Cook for an additional 2-3 minutes until the cheese is melted and the bread is crispy.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "breakfast",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-wholesome-peruvian-baguette-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:25:06.391Z"
+}
