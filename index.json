@@ -21154,5 +21154,44 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "m"
+  },
+  {
+    "slug": "molten-slovakian-potato-dumplings--italian",
+    "title": "Slovakian Potato Dumplings with Italian Twist",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "snack",
+      "potato"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-garlicky-thai-fermented-black-beans-khao-soi--french",
+    "title": "French Khao Bean Casserole",
+    "tags": [
+      "french",
+      "vegetarian",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-ethiopian-lentils-azifa--mexican",
+    "title": "Spicy Azifa Lentil Tacos",
+    "tags": [
+      "lentils",
+      "mexican",
+      "tacos",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
