@@ -1,0 +1,70 @@
+{
+  "slug": "mildly-garlicky-irish-potato-stew",
+  "title": "Garlicky Irish Stew",
+  "description": "A hearty and flavorful stew made with tender potatoes and a hint of garlic, perfect for a cold winter's day.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Mildly",
+      "amount": "to taste"
+    },
+    {
+      "name": "Irish Stew Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Peel and chop the potatoes into bite-sized pieces.",
+    "2. Mince the garlic cloves.",
+    "3. In a large pot, combine the chopped potatoes, minced garlic, and Irish Stew Seasoning.",
+    "4. Pour in the water and bring to a boil.",
+    "5. Reduce heat to low and let simmer for 20 minutes, or until the potatoes are tender.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "stew",
+    "garlic",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-garlicky-irish-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:57:05.221Z"
+}
