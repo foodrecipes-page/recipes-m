@@ -1,0 +1,78 @@
+{
+  "slug": "midnight-roasted-central-thai-chickpeas-fry-grind-rice-khao-khua",
+  "title": "Thai-Style Roasted Chickpea Bites",
+  "description": "Crispy roasted chickpea bites seasoned with Thai spices. A delicious and easy snack to make.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chickpeas and pat them dry with paper towels.",
+    "In a bowl, mix together the olive oil, Thai red chili flakes, cumin, salt, black pepper, and garlic powder.",
+    "Add the chickpeas to the bowl and toss them to coat them evenly with the spice mixture.",
+    "Line a baking sheet with parchment paper and spread the chickpeas out in a single layer.",
+    "Roast the chickpeas in the preheated oven for 30-40 minutes, or until crispy and golden brown.",
+    "Remove the chickpeas from the oven and let them cool completely on the baking sheet.",
+    "Once the chickpeas have cooled, transfer them to an airtight container and store them in the fridge for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": "5g",
+    "carbs": "20g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-roasted-central-thai-chickpeas-fry-grind-rice-khao-khua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:58:21.735Z"
+}
