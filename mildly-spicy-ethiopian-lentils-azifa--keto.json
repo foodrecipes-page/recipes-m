@@ -1,0 +1,93 @@
+{
+  "slug": "mildly-spicy-ethiopian-lentils-azifa--keto",
+  "title": "Spicy Ethiopian Lentil Stew",
+  "description": "A hearty, mildly spicy stew made with red lentils and a blend of Ethiopian spices. Serve with a side of greens for a keto-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "mildly spicy azifa spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pot over medium heat.",
+    "Add the onion, garlic, and ginger, and sauté until the onion is translucent.",
+    "Add the mildly spicy azifa spice blend and cook for 1 minute.",
+    "Add the tomato paste and cook for another minute.",
+    "Add the red lentils, water, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Check the lentils for tenderness. If they're not tender, continue to simmer for another 15 minutes.",
+    "Serve the stew hot, garnished with chopped fresh greens if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "spicy",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 39
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-ethiopian-lentils-azifa--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:00:45.836Z"
+}
