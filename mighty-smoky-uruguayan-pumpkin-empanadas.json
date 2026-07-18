@@ -1,0 +1,88 @@
+{
+  "slug": "mighty-smoky-uruguayan-pumpkin-empanadas",
+  "title": "Smoky Uruguayan Empanadas",
+  "description": "A savory twist on traditional empanadas, filled with smoky Uruguayan flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Sausage",
+      "amount": "1 lb",
+      "notes": "such as Chorizo or Morcilla"
+    },
+    {
+      "name": "Mighty Empanada Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": "slow-cooked in smoky Uruguayan spices"
+    },
+    {
+      "name": "Pumpkin",
+      "amount": "1/2 cup",
+      "notes": "roasted and mashed"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "such as Queso Fresco or Mozzarella"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 tsp",
+      "notes": "for added smokiness"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for brushing empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out empanada dough to desired thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a pan, caramelize onions over medium heat with smoky paprika.",
+    "Add roasted pumpkin to the pan and stir to combine.",
+    "Add Uruguayan sausage to the pan, breaking it up with a spoon.",
+    "Season with salt and pepper to taste.",
+    "Place a spoonful of the sausage mixture onto one half of each dough circle.",
+    "Top with shredded cheese.",
+    "Brush the edges of the dough with an egg wash.",
+    "Fold the dough in half to form a half-circle, pressing edges to seal.",
+    "Brush the tops of the empanadas with additional egg wash.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "smoky",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-smoky-uruguayan-pumpkin-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:54:06.547Z"
+}
