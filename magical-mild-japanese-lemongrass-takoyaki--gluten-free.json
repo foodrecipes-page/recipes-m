@@ -1,0 +1,88 @@
+{
+  "slug": "magical-mild-japanese-lemongrass-takoyaki--gluten-free",
+  "title": "Japanese-Style Takoyaki with Magical Spice",
+  "description": "A fusion of Japanese and magical flavors, this dish is a unique twist on the classic takoyaki. The mildly sweet takoyaki balls are filled with a delicious blend of magical spice and savory lemongrass.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mild Takoyaki Mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Magical Spice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "1 stalk",
+      "notes": "minced"
+    },
+    {
+      "name": "Japanese Mayo",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Dashi Broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Takoyaki Sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Octopus",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat dashi broth to 180°F (82°C).",
+    "In a large bowl, combine takoyaki mix, magical spice, and minced lemongrass. Gradually add in dashi broth and mix until smooth.",
+    "Heat a takoyaki pan or a non-stick skillet over medium heat.",
+    "Using a ladle, add a small amount of the mix to the pan and cook until the bottom is golden brown.",
+    "Flip the takoyaki balls over and cook for another 2-3 minutes.",
+    "Serve with Japanese mayo, green onion, sesame seeds, and takoyaki sauce.",
+    "Garnish with additional green onion and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "snack",
+    "magical",
+    "lemongrass"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-mild-japanese-lemongrass-takoyaki--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:11:23.988Z"
+}
