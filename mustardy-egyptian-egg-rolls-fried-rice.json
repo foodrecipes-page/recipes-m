@@ -1,0 +1,73 @@
+{
+  "slug": "mustardy-egyptian-egg-rolls-fried-rice",
+  "title": "Egyptian Fried Rice with Fried Egg",
+  "description": "A simple and flavorful dish combining Egyptian spices with the comfort of fried rice and a fried egg. Serve hot for a satisfying meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fried rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Mustardy",
+      "amount": "1 tsp",
+      "notes": "add to taste"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "1 tsp",
+      "notes": "add to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the Egyptian spice to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the fried rice to the skillet and stir to combine with the spice.",
+    "Push the rice to one side of the skillet.",
+    "Crack an egg into the other side of the skillet and scramble until cooked through.",
+    "Mix the egg with the rice.",
+    "Add the mustardy to the skillet and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "easypeasy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-egyptian-egg-rolls-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:15:37.707Z"
+}
