@@ -1,0 +1,88 @@
+{
+  "slug": "mildly-salty-british-seaweed-spotted-dick",
+  "title": "Spotted Dick British Pudding",
+  "description": "A traditional British steamed pudding made with suet and dried fruit, often served with custard.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "mildly sweet suet",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "dried fruit (raisins)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "spotted dick tea",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer and bring to a boil.",
+    "Mix the flour, suet, dried fruit, spotted dick tea, and sugar in a bowl.",
+    "In a separate bowl, whisk the egg and mix with the milk.",
+    "Add the wet ingredients to the dry ingredients and mix until combined.",
+    "Add the butter and mix until the mixture is smooth.",
+    "Transfer the mixture to a greased pudding basin.",
+    "Cover the pudding with a piece of parchment paper and tie with string.",
+    "Place the pudding in the steamer and steam for 2 hours.",
+    "Remove the pudding from the steamer and let it cool for 10 minutes.",
+    "Serve the pudding warm with custard."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "pudding",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-salty-british-seaweed-spotted-dick",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:09:27.455Z"
+}
