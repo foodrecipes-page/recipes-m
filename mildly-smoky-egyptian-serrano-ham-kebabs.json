@@ -1,0 +1,69 @@
+{
+  "slug": "mildly-smoky-egyptian-serrano-ham-kebabs",
+  "title": "Smoky Kebab Shawarma",
+  "description": "A flavorful smoky kebab wrapped in pita bread with a side of tangy tahini sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Kebabs",
+      "amount": "1 package (4-6 kebabs)",
+      "notes": null
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 pitas",
+      "notes": null
+    },
+    {
+      "name": "Mildly Spiced Tahini Sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Serrano Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Egyptian Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the Smoky Kebabs for 5-7 minutes per side, or until nicely charred.",
+    "3. Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "4. Assemble the shawarma by spreading a layer of mildly spiced tahini sauce on each pita, followed by a grilled kebab, sliced serrano peppers, and chopped cilantro.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "shawarma",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-serrano-ham-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:36:11.785Z"
+}
