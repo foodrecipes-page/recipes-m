@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-sour-irish-lamb-stew--mexican",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, flavorful Mexican-inspired stew made with tender lamb, potatoes, and a hint of sour cream.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mild diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, brown the lamb shoulder over medium-high heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the potatoes, diced tomatoes, and enough water to cover the ingredients.",
+    "Bring to a boil, then transfer to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender.",
+    "Stir in the sour cream and shredded cheese (if using).",
+    "Serve hot, garnished with fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-irish-lamb-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:34:03.038Z"
+}
