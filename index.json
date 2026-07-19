@@ -3019,16 +3019,15 @@
   },
   {
     "slug": "malty-shattering-australian-mozzarella-balls",
-    "title": "Malty Shattering Australian Mozzarella Balls",
+    "title": "Mozzarella and Australian Malt Balls",
     "tags": [
-      "beer-battered",
-      "deep-fried",
-      "fritters",
-      "vegetarian",
-      "weeknight"
+      "malt",
+      "maltballs",
+      "dessert",
+      "cheesy"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 23,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -6685,14 +6684,15 @@
   },
   {
     "slug": "melted-algerian-pork-tenderloin-tajine",
-    "title": "melted algerian pork tenderloin tajine",
+    "title": "Algerian Pork Tajine",
     "tags": [
-      "dinner-party",
-      "high-protein",
-      "special-occasion"
+      "algerian",
+      "pork",
+      "tajine",
+      "dinner"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 75,
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -12328,17 +12328,14 @@
   },
   {
     "slug": "mildly-smoky-egyptian-black-bean-stew",
-    "title": "Mildly Smoky Egyptian Black Bean Stew",
+    "title": "Smoky Black Bean Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "middle-eastern",
-      "one-pot",
-      "plant-based",
-      "smoky"
+      "stew",
+      "latin american",
+      "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "latin american",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
