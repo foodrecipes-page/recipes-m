@@ -1,0 +1,93 @@
+{
+  "slug": "marinated-rice-vermicelli-with-sun-dried-mushrooms",
+  "title": "Sun-Dried Mushroom Vermicelli",
+  "description": "A simple and flavorful Asian-inspired dish featuring sun-dried mushrooms and vermicelli noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Marinated sun-dried mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "With sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli noodles according to the package instructions. Drain and set aside.",
+    "Heat the sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the ginger and garlic and stir-fry for 1 minute.",
+    "Add the marinated sun-dried mushrooms and stir-fry for 2-3 minutes.",
+    "Add the cooked vermicelli noodles, soy sauce, and cooked rice to the wok or skillet.",
+    "Stir-fry everything together for 2-3 minutes.",
+    "Transfer the noodles to a serving platter and garnish with green onions and sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "noodles",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-rice-vermicelli-with-sun-dried-mushrooms",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:28:34.498Z"
+}
