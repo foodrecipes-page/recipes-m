@@ -5799,17 +5799,16 @@
   },
   {
     "slug": "mellow-pungent-greek-spinach-spanakopita",
-    "title": "Mellow Pungent Greek Spinach Spanakopita",
+    "title": "Spinach Spanakopita Recipe",
     "tags": [
-      "greek-food",
-      "puff-pastry",
-      "romantic-dinner",
-      "sous-vide",
       "spanakopita",
-      "vegetarian"
+      "greek",
+      "pastry",
+      "spinach",
+      "feta"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -21506,6 +21505,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-jamaican-chicken-skewers--indian",
+    "title": "Spicy Jamaican Chicken Skewers",
+    "tags": [
+      "indian",
+      "jamaican",
+      "spicy",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 33,
     "shard": "m"
   }
 ]
