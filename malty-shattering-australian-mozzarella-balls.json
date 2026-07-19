@@ -1,0 +1,56 @@
+{
+  "slug": "malty-shattering-australian-mozzarella-balls",
+  "title": "Mozzarella and Australian Malt Balls",
+  "description": "A unique dessert recipe featuring Australian malt balls and melted mozzarella cheese. The combination of textures and flavors creates a delightful experience.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian malt balls",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "8 oz",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Malty",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the Australian malt balls on the prepared baking sheet.",
+    "Place the mozzarella cheese in a saucepan over low heat.",
+    "Stir the mozzarella until melted and smooth.",
+    "Drizzle the melted mozzarella over the malt balls.",
+    "Sprinkle the malty powder over the top of the mozzarella.",
+    "Bake for 5-7 minutes or until the cheese is golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malt",
+    "maltballs",
+    "dessert",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-shattering-australian-mozzarella-balls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:25:03.940Z"
+}
