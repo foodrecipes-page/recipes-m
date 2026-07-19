@@ -1,0 +1,89 @@
+{
+  "slug": "magical-french-cookie-crepes",
+  "title": "Magical Crepes with French Cookie Crumble",
+  "description": "Thin magical crepes filled with a sweet French cookie crumble, perfect for a sweet treat.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Magical Crepes Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "French Cookie Crumble",
+      "amount": "1 cup",
+      "notes": "Make your own with ground French cookies and sugar"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, large",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "French Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the crepes flour, sugar, and salt.",
+    "2. In a separate bowl, whisk together the melted butter, egg, and milk.",
+    "3. Add the French vanilla extract to the wet ingredients and whisk to combine.",
+    "4. Pour the wet ingredients into the dry ingredients and stir until smooth.",
+    "5. Heat a small non-stick pan over medium heat.",
+    "6. Pour a small amount of the batter into the pan and tilt to evenly coat the bottom.",
+    "7. Cook for 1-2 minutes, until the edges start to curl.",
+    "8. Loosen the crepe with a spatula and flip.",
+    "9. Cook for another minute, until the other side is lightly browned.",
+    "10. Repeat with the remaining batter, until all the crepes are cooked.",
+    "11. To make the French cookie crumble, ground the French cookies in a food processor until finely ground.",
+    "12. Mix the ground cookies with sugar and melted butter until well combined.",
+    "13. Spoon a small amount of the French cookie crumble onto each crepe.",
+    "14. Roll up the crepes and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crepes",
+    "french",
+    "cookie",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-french-cookie-crepes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:21:09.492Z"
+}
