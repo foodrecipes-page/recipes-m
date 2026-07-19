@@ -1,0 +1,91 @@
+{
+  "slug": "malty-greek-papelon-pastitsio",
+  "title": "Greek Pastitsio Bake",
+  "description": "A classic Greek pasta bake dish made with ground beef and topped with a creamy bechamel sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "carnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malty Greek pasta",
+      "amount": "500g"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Papelon",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Pastitsio",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1L"
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "Brown the ground beef in a pan over medium-high heat. Drain excess fat.",
+    "Add diced papelon to the pan and cook until softened.",
+    "Stir in crushed pastitsio and cook for 1 minute.",
+    "Add beef broth to the pan and bring to a simmer.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add milk and bring to a simmer.",
+    "Reduce heat to low and stir in Parmesan and Feta cheese until melted.",
+    "Stir in cooked egg.",
+    "Combine cooked pasta, meat sauce, and bechamel sauce in a large bowl.",
+    "Transfer mixture to a baking dish and top with additional Feta cheese.",
+    "Bake in preheated oven for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pasta",
+    "beef",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-greek-papelon-pastitsio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:03:13.593Z"
+}
