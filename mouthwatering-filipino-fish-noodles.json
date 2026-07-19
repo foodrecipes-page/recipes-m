@@ -1,0 +1,81 @@
+{
+  "slug": "mouthwatering-filipino-fish-noodles",
+  "title": "Filipino Fish Noodle Soup",
+  "description": "A delicious and hearty Filipino-inspired noodle soup made with fish, noodles, and mouthwatering aromatics.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": "any white fish such as tilapia or cod"
+    },
+    {
+      "name": "Noodles",
+      "amount": "250g",
+      "notes": "egg noodles or rice noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional, for added umami flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add fish fillets; cook until they start to flake apart.",
+    "Add noodles, fish sauce, salt, and pepper; stir well.",
+    "Pour in water to cover the ingredients; bring to a boil.",
+    "Reduce heat to low; simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped green onions.",
+    "Enjoy your delicious and hearty Filipino-inspired noodle soup!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "fish",
+    "noodle",
+    "soup"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-filipino-fish-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:08:33.979Z"
+}
