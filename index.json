@@ -2619,17 +2619,15 @@
   },
   {
     "slug": "malty-greek-papelon-pastitsio",
-    "title": "malty greek papelon pastitsio",
+    "title": "Greek Pastitsio Bake",
     "tags": [
-      "easy-dinner",
       "greek",
-      "low-carb",
-      "one-pan",
-      "pastitsio",
-      "weeknight"
+      "pasta",
+      "beef",
+      "bake"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 40,
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -17904,14 +17902,13 @@
   },
   {
     "slug": "mouthwatering-crunchy-malaysian-rice-fried-rice",
-    "title": "Malaysian Fried Rice",
+    "title": "Crispy Fried Rice",
     "tags": [
-      "malaysian",
+      "crispy",
       "fried",
-      "rice",
-      "vegetarian"
+      "rice"
     ],
-    "cuisine": "malaysian",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "m"
   },
@@ -21482,6 +21479,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-indian-pork-chops-wrap--chinese",
+    "title": "Chinese-Style Pork Chops",
+    "tags": [
+      "pork",
+      "chinese",
+      "pork-chops",
+      "dinner",
+      "easy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
