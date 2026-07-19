@@ -2830,17 +2830,14 @@
   },
   {
     "slug": "malty-light-venezuelan-juniper-berries-empanada",
-    "title": "Malty Light Venezuelan Juniper Berries Empanada",
+    "title": "Venezuelan Empanada Dessert",
     "tags": [
+      "venezuelan",
       "empanada",
-      "gluten-free",
-      "latin-inspired",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "dessert"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -17466,17 +17463,14 @@
   },
   {
     "slug": "monsoon-wholesome-ethiopian-dash-friendly-roast",
-    "title": "Monsoon Wholesome Ethiopian Dash-Friendly Roast",
+    "title": "Ethiopian Roast Chicken",
     "tags": [
-      "beef",
-      "easy",
       "ethiopian",
-      "main-course",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "roast"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
@@ -19509,17 +19503,15 @@
   },
   {
     "slug": "mustardy-monsoon-dutch-speck-stew",
-    "title": "Mustardy Monsoon Dutch Speck Stew",
+    "title": "Speck and Monsoon Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "jain-friendly",
-      "one-pot",
+      "stew",
       "speck",
-      "stew"
+      "monsoon",
+      "european"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21374,6 +21366,47 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-british-eggplant-fish-and-chips--french",
+    "title": "Baked British Fish with Malt Glaze and Chips",
+    "tags": [
+      "fish",
+      "british",
+      "french",
+      "gluten-free",
+      "pescatarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-roasted-portuguese-lamb-roast--thai",
+    "title": "Grilled Mellow Lamb Skewers with Thai Spices",
+    "tags": [
+      "thai",
+      "grilled",
+      "skewers",
+      "lamb"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "melty-cheesy-japanese-pork-gyoza--italian",
+    "title": "Pork Gyoza Italian Wrap",
+    "tags": [
+      "italian",
+      "japanese",
+      "fusion",
+      "pork",
+      "gyoza"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "m"
   }
 ]
