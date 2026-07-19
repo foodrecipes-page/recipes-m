@@ -1,0 +1,80 @@
+{
+  "slug": "mild-nutty-indian-almonds-thali--german",
+  "title": "German Almond Apple Strudel",
+  "description": "A classic German dessert with a delicious combination of apples, almonds, and spices. Perfect for a warm evening or as a snack.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, sugar, and salt.",
+    "Add melted butter and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "In a separate bowl, mix sliced apples, chopped almonds, and vanilla extract.",
+    "Spread the apple mixture onto one half of the dough, leaving a 1/2 inch border.",
+    "Fold the other half of the dough over the apple mixture and press edges to seal.",
+    "Brush the top with melted butter and sprinkle with cinnamon.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Serve warm with a scoop of vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "apple",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-nutty-indian-almonds-thali--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:29:38.911Z"
+}
