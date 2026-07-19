@@ -1,0 +1,74 @@
+{
+  "slug": "mildly-smoky-egyptian-black-bean-stew",
+  "title": "Smoky Black Bean Stew",
+  "description": "A hearty and flavorful stew made with smoky spices, black beans, and mildly cooked vegetables.",
+  "cuisine": "latin american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mildly smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black beans, dried",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened, 5 minutes.",
+    "Add carrots, cook for 5 minutes.",
+    "Add smoked paprika, cumin, and black beans, cook for 1 minute.",
+    "Add tomato paste and vegetable broth, bring to a boil.",
+    "Reduce heat to low, simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "latin american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-black-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:20:48.698Z"
+}
