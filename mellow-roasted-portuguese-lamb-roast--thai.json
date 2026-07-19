@@ -1,0 +1,91 @@
+{
+  "slug": "mellow-roasted-portuguese-lamb-roast--thai",
+  "title": "Grilled Mellow Lamb Skewers with Thai Spices",
+  "description": "A flavorful and aromatic Thai-inspired dish featuring mellow lamb skewers grilled to perfection. The combination of roasted spices, portuguese seasonings, and roast vegetables creates a delightful and exotic taste experience.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "roasted coriander",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "portuguese oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "mellow garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "roast chili",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb cubes, roasted coriander, portuguese oregano, mellow garlic, and roast chili. Toss to coat evenly.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the lamb to marinate.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 63°C (145°F).",
+    "6. While lamb is cooking, combine palm sugar, coconut milk, fish sauce, and lime juice in a small saucepan.",
+    "7. Bring the mixture to a simmer over medium heat and cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "8. Brush the lamb skewers with the Thai sauce during the last 2 minutes of grilling.",
+    "9. Remove skewers from grill and let rest for 5 minutes before serving.",
+    "10. Serve hot with steamed vegetables and a side of sticky rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "skewers",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-portuguese-lamb-roast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:14:51.300Z"
+}
