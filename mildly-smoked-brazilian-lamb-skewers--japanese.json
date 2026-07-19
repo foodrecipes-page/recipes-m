@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-smoked-brazilian-lamb-skewers--japanese",
+  "title": "Japanese Lamb Skewers",
+  "description": "Grilled lamb skewers with a hint of smokiness, inspired by traditional Japanese flavors. Serve with steamed rice and stir-fried vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Mildly sweet soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoked sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brazilian-style skewers",
+      "amount": "10-12 sticks",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, sesame oil, garlic, and ginger. Add lamb and toss to coat.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Brush skewers with sesame oil and sprinkle with sesame seeds.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F.",
+    "Transfer skewers to a serving platter and garnish with chopped cilantro and green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoked-brazilian-lamb-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:44:16.112Z"
+}
