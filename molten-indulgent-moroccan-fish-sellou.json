@@ -1,0 +1,106 @@
+{
+  "slug": "molten-indulgent-moroccan-fish-sellou",
+  "title": "Moroccan Fish Tagine with Sellou",
+  "description": "A traditional Moroccan tagine made with fish, flavored with aromatic spices and served with a side of sweet sellou. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Seafood-Friendly",
+    "Gluten-Free",
+    "Vegetarian-Friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Sellou",
+      "amount": "1 cup",
+      "notes": "See separate recipe for sellou ingredients"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the ground ginger, cumin, paprika, salt, and black pepper. Cook for 1-2 minutes, stirring constantly.",
+    "Add the fish fillets and cook for 2-3 minutes per side, until they start to flake apart.",
+    "Add the chopped parsley and cook for an additional 1-2 minutes.",
+    "Transfer the tagine to the oven and bake at 375°F (190°C) for 10-12 minutes, or until the fish is cooked through.",
+    "Serve the fish with a side of sellou and garnish with additional parsley if desired.",
+    "Cook time may vary depending on the thickness of the fish fillets.",
+    "To make sellou, follow a separate recipe that includes ingredients like semolina flour, honey, and rose water.",
+    "Serve the tagine with a dollop of sellou on top and a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fish",
+    "sellou",
+    "tagine",
+    "one-pot",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-indulgent-moroccan-fish-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:38:21.586Z"
+}
