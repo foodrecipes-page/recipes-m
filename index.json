@@ -9948,17 +9948,14 @@
   },
   {
     "slug": "mighty-moist-venezuelan-ham-empanadas",
-    "title": "Mighty Moist Venezuelan Ham Empanadas",
+    "title": "Venezuelan Empanada Breakfast",
     "tags": [
-      "baked-goods",
-      "cheesy",
-      "keto-friendly",
-      "low-carb",
-      "meat-based",
-      "venezuelan-cuisine"
+      "breakfast",
+      "empanadas",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "Latin American",
+    "totalTimeMin": 45,
     "shard": "m"
   },
   {
@@ -18301,16 +18298,16 @@
   },
   {
     "slug": "mouthwatering-peppery-tunisian-vegetable-wrap",
-    "title": "Tunisian Vegetable Wrap",
+    "title": "Tunisian Veggie Wrap",
     "tags": [
-      "brunch",
-      "chewy",
-      "peppery",
-      "tunisian",
-      "vegetarian"
+      "north-african",
+      "vegetarian",
+      "healthy",
+      "lunch",
+      "easy-to-make"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 57,
+    "cuisine": "North African",
+    "totalTimeMin": 15,
     "shard": "m"
   },
   {
@@ -21327,6 +21324,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-braised-canadian-mushroom-stew--chinese",
+    "title": "Braised Mushroom Stir Fry",
+    "tags": [
+      "chinese-food",
+      "stir-fry",
+      "mushroom-dish"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "melt-in-mouth-crispy-japanese-pork-kaiseki-course--japanese",
+    "title": "Kaiseki-Style Pork Cutlet with Crispy Breading",
+    "tags": [
+      "japanese",
+      "pork",
+      "kaiseki",
+      "course"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
     "shard": "m"
   }
 ]
