@@ -1,0 +1,93 @@
+{
+  "slug": "mildly-spicy-jamaican-chicken-skewers--indian",
+  "title": "Spicy Jamaican Chicken Skewers",
+  "description": "A fusion of Jamaican jerk seasoning and Indian spices, these skewers make for a flavorful and spicy main course.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Indian chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a blender or food processor, combine jerk seasoning, ginger, garlic, coconut milk, chili powder, lime juice, and honey. Blend until smooth.",
+    "Add the blended marinade to a large bowl. Add the chicken breast and marinate for at least 30 minutes.",
+    "Thread the marinated chicken and red onion onto skewers.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "jamaican",
+    "spicy",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-jamaican-chicken-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:09:17.307Z"
+}
