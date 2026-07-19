@@ -1,0 +1,63 @@
+{
+  "slug": "malty-light-venezuelan-juniper-berries-empanada",
+  "title": "Venezuelan Empanada Dessert",
+  "description": "A sweet twist on traditional empanadas, filled with a malty berry mixture and topped with a crunchy juniper crust.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty Crust Dough",
+      "amount": "1 1/2 cups",
+      "notes": "Light and flaky"
+    },
+    {
+      "name": "Berries",
+      "amount": "1 cup",
+      "notes": "Mixed berries such as strawberries, blueberries, and raspberries"
+    },
+    {
+      "name": "Juniper Crunch",
+      "amount": "1/4 cup",
+      "notes": "Toasted and chopped juniper berries"
+    },
+    {
+      "name": "Venezuelan Empanada Filling",
+      "amount": "1/2 cup",
+      "notes": "Sweet malty mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the malty crust dough ingredients and knead for 5 minutes.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Cut out circles of dough for the empanada crust.",
+    "Fill the empanadas with the Venezuelan empanada filling.",
+    "Top the empanadas with a sprinkle of juniper crunch.",
+    "Bake the empanadas for 15-20 minutes, or until golden brown.",
+    "Serve warm with a scoop of ice cream."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanada",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-light-venezuelan-juniper-berries-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:43:54.202Z"
+}
