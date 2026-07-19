@@ -21350,5 +21350,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 32,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-smoked-brazilian-lamb-skewers--japanese",
+    "title": "Japanese Lamb Skewers",
+    "tags": [
+      "japanese",
+      "lamb",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 36,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-smoky-greek-beef-kidney-loukoumades--thai",
+    "title": "Smoked Beef Loukoumades with Spicy Mellow Sauce",
+    "tags": [
+      "thai",
+      "beef",
+      "loukoumades"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "m"
   }
 ]
