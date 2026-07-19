@@ -1,11 +1,9 @@
 {
   "slug": "mouthwatering-crunchy-malaysian-rice-fried-rice",
-  "title": "Malaysian Fried Rice",
-  "description": "A classic Malaysian dish made with fried rice, vegetables, and spices. Perfect for a quick and easy meal.",
-  "cuisine": "malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "title": "Crispy Fried Rice",
+  "description": "A simple and flavorful fried rice dish perfect for a quick meal. This recipe combines the crunch of fried ingredients with the comfort of rice.",
+  "cuisine": null,
+  "diet": null,
   "meal": "lunch",
   "ingredients": [
     {
@@ -13,47 +11,34 @@
       "amount": "2 cups cooked"
     },
     {
-      "name": "Vegetable oil",
-      "amount": "2 tablespoons"
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable or peanut oil"
     },
     {
-      "name": "Onion",
-      "amount": "1 medium, diced"
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
     },
     {
-      "name": "Garlic",
-      "amount": "2 cloves, minced"
+      "name": "Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
     },
     {
-      "name": "Mixed vegetables (e.g., peas, carrots, corn)",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Soy sauce",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "Oyster sauce (optional)",
+      "name": "Soy Sauce",
       "amount": "1 tablespoon"
-    },
-    {
-      "name": "Palm sugar (or brown sugar)",
-      "amount": "1 tablespoon"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste"
     }
   ],
   "instructions": [
     "Heat oil in a wok or large skillet over medium-high heat.",
-    "Add diced onion and minced garlic and stir-fry until fragrant.",
-    "Add mixed vegetables and stir-fry for 2-3 minutes.",
-    "Add cooked rice to the wok or skillet and stir-fry for 2-3 minutes.",
-    "Add soy sauce, oyster sauce (if using), and palm sugar to the rice mixture and stir-fry until combined.",
-    "Taste and adjust seasoning with salt as needed.",
-    "Transfer the fried rice to a serving platter and garnish with chopped green onions (optional).",
-    "Serve immediately and enjoy!"
+    "Add the egg and scramble it until cooked through, breaking it into small pieces as it cooks.",
+    "Add the fried shallots and stir-fry for 1-2 minutes.",
+    "Add the cooked rice to the wok or skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the soy sauce and stir-fry for another minute, until the rice is well coated.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the crispy fried rice to a serving platter and serve immediately.",
+    "Garnish with additional fried shallots and soy sauce if desired."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -61,19 +46,18 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "malaysian",
+    "crispy",
     "fried",
-    "rice",
-    "vegetarian"
+    "rice"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 10,
-    "carbs": 60,
-    "fat": 18
+    "calories": 340,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-crunchy-malaysian-rice-fried-rice",
   "providerUsed": "groq",
-  "createdAt": "2026-07-16T06:22:25.208Z"
+  "createdAt": "2026-07-17T07:35:47.523Z"
 }
