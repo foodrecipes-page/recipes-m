@@ -1,0 +1,74 @@
+{
+  "slug": "mustardy-indian-pork-chops-wrap--chinese",
+  "title": "Chinese-Style Pork Chops",
+  "description": "A flavorful and easy-to-make Chinese-inspired dish featuring pork chops in a savory mustard sauce, served with a crispy wrap.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 pieces",
+      "notes": "1-1.5 inches thick"
+    },
+    {
+      "name": "mustardy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "indian wrap",
+      "amount": "4-6 wraps",
+      "notes": "for serving"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the pork chops and cook for 2-3 minutes per side, or until browned.",
+    "3. Transfer the pork chops to a plate and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "5. Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "6. Add the mustardy sauce and cook for 1-2 minutes, stirring constantly.",
+    "7. Return the pork chops to the skillet and coat with the mustard sauce.",
+    "8. Cook for an additional 2-3 minutes, or until the pork chops are cooked through.",
+    "9. Serve the pork chops with a crispy Indian wrap on the side.",
+    "10. Garnish with sesame seeds and chopped scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "chinese",
+    "pork-chops",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-indian-pork-chops-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:48:43.198Z"
+}
