@@ -1,0 +1,88 @@
+{
+  "slug": "melt-in-mouth-crispy-japanese-pork-kaiseki-course--japanese",
+  "title": "Kaiseki-Style Pork Cutlet with Crispy Breading",
+  "description": "A Japanese-inspired dish featuring a tender pork cutlet coated in a crispy, flavorful breading. Perfect for a special occasion.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "japanese breadcrumbs",
+      "amount": "1 cup",
+      "notes": "preferably panko"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, salt, and pepper.",
+    "2. In a separate dish, beat the egg.",
+    "3. In a third dish, place the breadcrumbs.",
+    "4. Dip each pork cutlet in the flour mixture, coating both sides.",
+    "5. Dip the floured pork cutlet in the beaten egg, making sure to coat completely.",
+    "6. Finally, coat the pork cutlet in the breadcrumb mixture, pressing gently to adhere.",
+    "7. Heat about 1/4 inch of vegetable oil in a large skillet over medium-high heat.",
+    "8. Fry the breaded pork cutlets for about 3-4 minutes on each side, or until golden brown and crispy.",
+    "9. Remove the pork cutlets from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "10. Serve hot with a drizzle of sesame oil and your choice of steamed vegetables or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "kaiseki",
+    "course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melt-in-mouth-crispy-japanese-pork-kaiseki-course--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:30:22.031Z"
+}
