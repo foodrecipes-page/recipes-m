@@ -1,0 +1,76 @@
+{
+  "slug": "mildly-woodfired-korean-cream-guk",
+  "title": "Guk Cream Stew",
+  "description": "A creamy twist on the classic Korean stew. Perfect for a cold winter day.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guk",
+      "amount": "2 cups",
+      "notes": "Korean radish"
+    },
+    {
+      "name": "mildly spicy gochujang cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add guk and sauté for 5 minutes.",
+    "Add soy sauce, sugar, and gochujang cream. Stir to combine.",
+    "Bring to a simmer and cook for 10 minutes.",
+    "Season with black pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "creamy-stew",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-woodfired-korean-cream-guk",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:50:55.032Z"
+}
