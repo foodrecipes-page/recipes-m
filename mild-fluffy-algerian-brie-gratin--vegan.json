@@ -1,0 +1,67 @@
+{
+  "slug": "mild-fluffy-algerian-brie-gratin--vegan",
+  "title": "Algerian Vegan Stuffed Mushrooms",
+  "description": "A flavorful and aromatic Algerian-inspired dish featuring stuffed mushrooms with a mix of spices and cheese alternatives. Perfect for a satisfying vegan meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mild mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "algerian spice mix",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brie cheese alternative",
+      "amount": "1/2 cup",
+      "notes": "crumbly or shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for baking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean and prepare the mushrooms by removing the stems and scooping out the insides.",
+    "In a bowl, mix together cooked rice, Algerian spice mix, and brie cheese alternative.",
+    "Stuff each mushroom cap with the rice mixture, dividing it evenly.",
+    "Drizzle olive oil over the stuffed mushrooms and season with salt and pepper.",
+    "Bake for 20-25 minutes or until the mushrooms are tender and the filling is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "algerian",
+    "mushrooms",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-fluffy-algerian-brie-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:37:41.553Z"
+}
