@@ -1,0 +1,55 @@
+{
+  "slug": "milk-citrus-refresh",
+  "title": "Citrus Refresher Smoothie",
+  "description": "A quick and refreshing smoothie perfect for a hot summer day, made with citrus fruits and a hint of milk.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Citrus",
+      "amount": "1 cup, freshly squeezed",
+      "notes": "A combination of orange and lemon juice"
+    },
+    {
+      "name": "Refresh",
+      "amount": "a few drops",
+      "notes": "Optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Add milk, citrus, and refresh to a blender.",
+    "Blend until smooth and creamy.",
+    "Taste and adjust sweetness or citrus level as needed.",
+    "Pour into a glass and serve immediately.",
+    "Garnish with a slice of citrus, if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoothie",
+    "summer",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/milk-citrus-refresh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:27:47.956Z"
+}
