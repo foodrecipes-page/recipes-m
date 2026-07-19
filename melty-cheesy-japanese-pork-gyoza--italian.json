@@ -1,0 +1,87 @@
+{
+  "slug": "melty-cheesy-japanese-pork-gyoza--italian",
+  "title": "Pork Gyoza Italian Wrap",
+  "description": "A fusion twist on traditional Italian wraps, featuring Japanese-style pork gyoza and Italian seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Gyoza",
+      "amount": "1 package (20 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Melty Mozzarella",
+      "amount": "8 oz shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cheesy Parmesan",
+      "amount": "1/4 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "Pesto Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Pan-fry the gyoza until golden brown, then transfer to a baking sheet.",
+    "3. In a small bowl, mix together pesto sauce and Italian seasoning.",
+    "4. Spread a layer of the pesto sauce mixture on each gyoza.",
+    "5. Sprinkle mozzarella cheese over the pesto sauce.",
+    "6. Bake the gyoza in the oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "7. Meanwhile, heat some olive oil in a pan over medium heat.",
+    "8. Add minced garlic and cook for 1-2 minutes, until fragrant.",
+    "9. Add a few drops of olive oil to a large tortilla and spread a layer of the garlic-infused oil.",
+    "10. Assemble the wraps by placing 4-5 gyoza on each tortilla, followed by some chopped fresh basil.",
+    "11. Drizzle the remaining pesto sauce over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "japanese",
+    "fusion",
+    "pork",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melty-cheesy-japanese-pork-gyoza--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:37:35.040Z"
+}
