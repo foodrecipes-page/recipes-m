@@ -21418,5 +21418,44 @@
     "cuisine": "french",
     "totalTimeMin": 18,
     "shard": "m"
+  },
+  {
+    "slug": "mild-nutty-indian-almonds-thali--german",
+    "title": "German Almond Apple Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "apple",
+      "almonds"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sour-irish-lamb-stew--mexican",
+    "title": "Irish Lamb Stew",
+    "tags": [
+      "irish",
+      "lamb",
+      "stew",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-fluffy-algerian-brie-gratin--vegan",
+    "title": "Algerian Vegan Stuffed Mushrooms",
+    "tags": [
+      "vegan",
+      "algerian",
+      "mushrooms",
+      "rice"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
