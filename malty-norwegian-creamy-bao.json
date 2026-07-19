@@ -1,0 +1,71 @@
+{
+  "slug": "malty-norwegian-creamy-bao",
+  "title": "Malty Norwegian Bao",
+  "description": "A sweet and savory bao filled with a malty Norwegian cream cheese mixture. Perfect as a breakfast or brunch option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Malty cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "Norwegian sugar cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together the softened cream cheese, crushed cookies, cinnamon, and vanilla extract.",
+    "Roll out the bao and place a spoonful of the cream cheese mixture onto one half of the dough.",
+    "Brush the edges of the dough with melted butter.",
+    "Fold the other half of the dough over the filling, pressing the edges to seal.",
+    "Place the bao on a baking sheet lined with parchment paper and brush with the remaining melted butter.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "creamy",
+    "malty",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-norwegian-creamy-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:19:36.882Z"
+}
