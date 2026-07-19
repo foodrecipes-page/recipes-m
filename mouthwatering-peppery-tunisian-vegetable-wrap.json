@@ -1,0 +1,92 @@
+{
+  "slug": "mouthwatering-peppery-tunisian-vegetable-wrap",
+  "title": "Tunisian Veggie Wrap",
+  "description": "A flavorful and healthy wrap filled with tunisian spices and vegetables.",
+  "cuisine": "North African",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable wrap",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Mouthwatering hummus",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Peppery feta cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Spread a layer of hummus on the wrap.",
+    "Sprinkle the tunisian spice blend over the hummus.",
+    "Add sliced cucumber, chopped carrots, bell peppers, olives, lettuce, and tomato.",
+    "Top with feta cheese if desired.",
+    "Fold the wrap to enclose the filling.",
+    "Cook for 2-3 minutes or until the wrap is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "healthy",
+    "lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-peppery-tunisian-vegetable-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:35:56.280Z"
+}
