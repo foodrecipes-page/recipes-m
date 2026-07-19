@@ -1,0 +1,86 @@
+{
+  "slug": "mellow-braised-canadian-mushroom-stew--chinese",
+  "title": "Braised Mushroom Stir Fry",
+  "description": "A hearty and flavorful Chinese-inspired stir-fry made with tender braised mushrooms.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canadian mushrooms",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "mellow oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "braised sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "stew beef",
+      "amount": "1/2 lb",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for balance"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of mellow oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced stew beef and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of mellow oil.",
+    "Add the minced garlic and sliced ginger and cook until fragrant, about 30 seconds.",
+    "Add the bite-sized mushroom pieces and cook until they start to soften, about 2-3 minutes.",
+    "Add the braised sauce, soy sauce, rice vinegar, and sugar. Stir to combine.",
+    "Return the cooked beef to the wok and stir to combine with the sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the beef is well coated.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "stir-fry",
+    "mushroom-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-braised-canadian-mushroom-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:24:20.154Z"
+}
