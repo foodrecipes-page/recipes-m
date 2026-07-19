@@ -1,0 +1,77 @@
+{
+  "slug": "molten-wholesome-peruvian-baguette-empanada--mexican",
+  "title": "Mexican Street Empanada",
+  "description": "A crispy, savory pastry filled with spicy beef and onions, perfect for snacking on the go.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 box (10-12 count)",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large skillet, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the chopped onion and minced garlic. Cook until the onion is translucent.",
+    "Stir in cumin and chili powder. Cook for 1 minute.",
+    "Roll out the empanada dough according to package instructions.",
+    "Spoon a tablespoon or two of the beef mixture onto the center of each dough circle.",
+    "Top with shredded cheese.",
+    "Fold the dough in half to form a triangle or a square shape, pressing the edges to seal.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 15-20 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 10,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "empanada",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-wholesome-peruvian-baguette-empanada--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:08:27.774Z"
+}
