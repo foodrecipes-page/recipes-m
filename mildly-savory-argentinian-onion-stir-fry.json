@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-savory-argentinian-onion-stir-fry",
+  "title": "Argentinian-Style Stir Fry with Onion",
+  "description": "A savory and mildly flavorful stir fry recipe from Argentina, featuring onions and your choice of protein.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Protein of choice (chicken, beef, or tofu)",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Savory mild seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced protein and cook until browned, about 5-7 minutes.",
+    "Remove the protein from the skillet and set aside.",
+    "Add the minced garlic and chopped onion to the skillet and cook until the onion is translucent.",
+    "Add the savory mild seasoning, salt, and pepper to the skillet and stir to combine.",
+    "Return the protein to the skillet and stir to combine with the onion and garlic mixture.",
+    "Cook for an additional 2-3 minutes, until the protein is cooked through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "lunch",
+    "mild",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-savory-argentinian-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:07:47.003Z"
+}
