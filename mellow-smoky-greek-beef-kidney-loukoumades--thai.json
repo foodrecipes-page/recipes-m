@@ -1,0 +1,87 @@
+{
+  "slug": "mellow-smoky-greek-beef-kidney-loukoumades--thai",
+  "title": "Smoked Beef Loukoumades with Spicy Mellow Sauce",
+  "description": "A twist on traditional loukoumades, these Thai-inspired treats are filled with smoked beef and served with a side of spicy mellow sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mellow cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Smoked beef",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Kidney beans",
+      "amount": "1/2 cup, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Loukoumades",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Once hot, add the loukoumades and fry until golden brown, about 2-3 minutes.",
+    "Remove the loukoumades from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "In a bowl, mix together the Greek yogurt, mellow cheese, smoked beef, and kidney beans.",
+    "Season with salt, black pepper, and paprika to taste.",
+    "Serve the smoked beef mixture in the center of each loukoumades.",
+    "Drizzle with additional mellow cheese sauce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "loukoumades"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-greek-beef-kidney-loukoumades--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:30:15.360Z"
+}
