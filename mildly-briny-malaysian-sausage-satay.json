@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-briny-malaysian-sausage-satay",
+  "title": "Malaysian Satay Sausage Skewers",
+  "description": "Grilled satay sausage skewers with a hint of malaysian spices, served with a side of sweet chili sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Satay sausage",
+      "amount": "400g"
+    },
+    {
+      "name": "Mildly sweet onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Briny lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Malaysian chili sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread satay sausage onto skewers.",
+    "3. Brush coconut oil onto the sausage.",
+    "4. Season with salt and pepper to taste.",
+    "5. Grill sausage for 8-10 minutes, or until cooked through.",
+    "6. Meanwhile, mix together briny lime juice and malaysian chili sauce.",
+    "7. Serve grilled sausage with sweet chili sauce and garnish with chopped cilantro.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "malaysian",
+    "satay",
+    "sausage",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-briny-malaysian-sausage-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:02:21.919Z"
+}
