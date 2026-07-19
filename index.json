@@ -2924,16 +2924,16 @@
   },
   {
     "slug": "malty-norwegian-creamy-bao",
-    "title": "Malty Norwegian Creamy Bao",
+    "title": "Malty Norwegian Bao",
     "tags": [
-      "bao",
-      "cardamom",
-      "gluten-free-dough",
-      "norwegian",
-      "vegan-option"
+      "breakfast",
+      "brunch",
+      "creamy",
+      "malty",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21456,6 +21456,19 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "melty-shellfish-pilaf--chinese",
+    "title": "Spicy Melty Shrimp Pilaf",
+    "tags": [
+      "chinese",
+      "shrimp",
+      "pilaf",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
