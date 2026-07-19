@@ -1,0 +1,72 @@
+{
+  "slug": "malty-british-eggplant-fish-and-chips--french",
+  "title": "Baked British Fish with Malt Glaze and Chips",
+  "description": "A classic British dish with a French twist, featuring baked fish, a malty glaze, and crispy chips.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "4 pieces (6 oz each)",
+      "notes": "white fish like cod or tilapia"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tbsp",
+      "notes": "malt vinegar"
+    },
+    {
+      "name": "chips",
+      "amount": "2 cups",
+      "notes": "french fries"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "british",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with salt, pepper, and thyme.",
+    "Place the fish on a baking sheet lined with parchment paper.",
+    "Drizzle the malt vinegar over the fish and sprinkle with malt.",
+    "Bake the fish for 12-15 minutes or until cooked through.",
+    "Meanwhile, heat about 2 inches of oil in a deep frying pan to 350°F (175°C).",
+    "Fry the chips in batches until crispy and golden brown.",
+    "Drain the chips on paper towels.",
+    "Serve the fish with the chips and a side of eggplant if desired.",
+    "Garnish with fresh herbs if possible."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "british",
+    "french",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-british-eggplant-fish-and-chips--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:03:34.005Z"
+}
