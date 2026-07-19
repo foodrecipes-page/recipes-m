@@ -14187,14 +14187,14 @@
   },
   {
     "slug": "milk-citrus-refresh",
-    "title": "Milk Citrus Refresh",
+    "title": "Citrus Refresher Smoothie",
     "tags": [
-      "milk-citrus-refresh",
-      "low-calorie-friendly-sick-day-dish",
-      "refreshing-minty-snack"
+      "smoothie",
+      "summer",
+      "refreshing"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 8,
+    "cuisine": "American",
+    "totalTimeMin": 5,
     "shard": "m"
   },
   {
@@ -17931,17 +17931,15 @@
   },
   {
     "slug": "mouthwatering-filipino-fish-noodles",
-    "title": "Filipino Fish Noodles",
+    "title": "Filipino Fish Noodle Soup",
     "tags": [
-      "easy-cooking",
-      "filipino-food",
-      "noodle-dish",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "filipino",
+      "fish",
+      "noodle",
+      "soup"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21407,6 +21405,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mushroom-garlic-fluff-midnight-crunch--french",
+    "title": "Creamy Mushroom and Garlic Fritters",
+    "tags": [
+      "french",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 18,
     "shard": "m"
   }
 ]
