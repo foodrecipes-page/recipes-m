@@ -12366,18 +12366,14 @@
   },
   {
     "slug": "mildly-smoky-egyptian-serrano-ham-kebabs",
-    "title": "Mildly Smoky Egyptian Serrano Ham Kebabs",
+    "title": "Smoky Kebab Shawarma",
     "tags": [
-      "egyptian",
-      "grilled",
       "kebabs",
-      "satvik-friendly",
-      "serrano-ham",
-      "smoky",
-      "yakimono-grill"
+      "shawarma",
+      "middle eastern"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -14065,14 +14061,11 @@
   },
   {
     "slug": "mildly-woodfired-korean-cream-guk",
-    "title": "Mildly Woodfired Korean Cream Guk",
+    "title": "Guk Cream Stew",
     "tags": [
-      "chungcheong-region",
-      "cream-based",
       "korean-cuisine",
-      "kosher-friendly",
-      "pandan-wrapped",
-      "woodfired"
+      "creamy-stew",
+      "vegetarian-options"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -21490,6 +21483,32 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-creamy-chinese-suet-dumplings--german",
+    "title": "German Suet Dumplings",
+    "tags": [
+      "german",
+      "breakfast",
+      "dumplings",
+      "suet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-wholesome-peruvian-baguette-empanada--mexican",
+    "title": "Mexican Street Empanada",
+    "tags": [
+      "mexican",
+      "beef",
+      "empanada",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
