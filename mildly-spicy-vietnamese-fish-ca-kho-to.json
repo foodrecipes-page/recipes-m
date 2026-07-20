@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-spicy-vietnamese-fish-ca-kho-to",
+  "title": "Vietnamese Fish with Spicy Kho Sauce",
+  "description": "A flavorful Vietnamese dish featuring fish cooked in a spicy kho sauce, served with a side of steamed vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (any firm white fish)",
+      "amount": "1 pound",
+      "notes": "Such as snapper or tilapia"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Mildly Spicy Kho Sauce",
+      "amount": "1/4 cup",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Ca",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Kho",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the heat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the diced onion and cook until softened, about 3-4 minutes.",
+    "3. Add the fish and cook for 2-3 minutes per side, or until cooked through.",
+    "4. Remove the fish from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "6. Add the grated ginger and cook for 1 minute, until fragrant.",
+    "7. Add the mildly spicy kho sauce, ca, kho, sugar, and fish sauce (if using).",
+    "8. Stir to combine and bring to a simmer.",
+    "9. Return the fish to the skillet and spoon some of the kho sauce over the top.",
+    "10. Serve the fish hot, garnished with chopped green onions and steamed vegetables on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-vietnamese-fish-ca-kho-to",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:58:55.195Z"
+}
