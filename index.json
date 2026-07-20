@@ -21534,5 +21534,56 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "m"
+  },
+  {
+    "slug": "mustardy-crumbly-vietnamese-rice-com-tam--mexican",
+    "title": "Mexican Com Salad",
+    "tags": [
+      "mexican",
+      "salad",
+      "veggie",
+      "side-dish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-crumbly-venezuelan-cornmeal-empanadas--german",
+    "title": "German Cornmeal Empanadas with Salsa",
+    "tags": [
+      "german",
+      "snack",
+      "vegan",
+      "cornmeal",
+      "empanadas"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-spanish-potato-patatas-bravas--japanese",
+    "title": "Patatas Bravas Tempura",
+    "tags": [
+      "patatas-bravas",
+      "japanese-tempura",
+      "spanish-cuisine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-mashed-irish-potato-gratin--japanese",
+    "title": "Irish Potato Gratin with Japanese Twist",
+    "tags": [
+      "irish-potato-gratin",
+      "japanese-twist",
+      "cheesy-side-dish"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 70,
+    "shard": "m"
   }
 ]
