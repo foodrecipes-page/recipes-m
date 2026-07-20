@@ -11870,17 +11870,16 @@
   },
   {
     "slug": "mildly-peppery-german-potato-hash",
-    "title": "Mildly Peppery German Potato Hash",
+    "title": "German Peppery Hash Brown Casserole",
     "tags": [
-      "air-fryer",
-      "binchotan-grill",
-      "brunch",
-      "german-cuisine",
-      "potato-hash",
-      "vegetarian"
+      "german",
+      "breakfast",
+      "casserole",
+      "hash-browns",
+      "sausages"
     ],
     "cuisine": "German",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21666,6 +21665,45 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-crunchy-japanese-apple-tamagoyaki--italian",
+    "title": "Italian Apple Tart with Tamagoyaki Crust",
+    "tags": [
+      "italian",
+      "apple",
+      "tamagoyaki"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-mediterranean-polish-cheese-casserole--italian",
+    "title": "Italian Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "cheese",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "mashed-umami-irish-boil-hash--japanese",
+    "title": "Japanese Hash Brown",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "hash-brown",
+      "irish-potatoes",
+      "umami"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "m"
   }
 ]
