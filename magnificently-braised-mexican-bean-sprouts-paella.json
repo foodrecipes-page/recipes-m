@@ -1,0 +1,94 @@
+{
+  "slug": "magnificently-braised-mexican-bean-sprouts-paella",
+  "title": "Mexican Bean Paella",
+  "description": "A twist on the classic Spanish dish, this Mexican Bean Paella combines the flavors of Mexico with the heartiness of Spain.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Braised Mexican Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cumin, chili powder, salt, and pepper. Cook for 1 minute.",
+    "Add diced tomatoes and cook for 2 minutes.",
+    "Add braised Mexican rice and stir to combine.",
+    "Add bean sprouts and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the rice is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-braised-mexican-bean-sprouts-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:03:04.655Z"
+}
