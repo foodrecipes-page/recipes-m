@@ -1,0 +1,94 @@
+{
+  "slug": "mighty-spicy-malaysian-almond-flour-bake--chinese",
+  "title": "Spicy Malaysian Baked Chicken",
+  "description": "A flavorful and spicy chicken dish inspired by Malaysian cuisine, with a crispy almond crust.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "spicy flour",
+      "amount": "1/4 cup",
+      "notes": "or extra spicy powder"
+    },
+    {
+      "name": "spicy powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "mighty ginger",
+      "amount": "1 piece",
+      "notes": "about 2 inches long"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix together spicy flour, salt, and black pepper.",
+    "3. In another bowl, mix together almond flour and milk to create a smooth paste.",
+    "4. Dip the chicken breast in the melted butter, then in the almond flour mixture, and finally in the spicy flour mixture.",
+    "5. Place the coated chicken on a baking sheet lined with parchment paper.",
+    "6. Drizzle the melted butter over the chicken.",
+    "7. Bake for 25-30 minutes or until cooked through.",
+    "8. During the last 5 minutes of baking, add sliced mighty ginger on top of the chicken.",
+    "9. Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spicy",
+    "malaysian",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-spicy-malaysian-almond-flour-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:28:51.897Z"
+}
