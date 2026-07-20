@@ -1,0 +1,70 @@
+{
+  "slug": "moist-crumbly-venezuelan-cornmeal-empanadas--german",
+  "title": "German Cornmeal Empanadas with Salsa",
+  "description": "A twist on traditional German pastries, filled with a Venezuelan cornmeal mixture and served with a fresh salsa.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "preferably venezuelan"
+    },
+    {
+      "name": "moist",
+      "amount": "1/2 cup",
+      "notes": "such as applesauce or yogurt"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": "such as crushed crackers or chopped nuts"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "2 tablespoons",
+      "notes": "such as chopped cilantro or scallions"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together cornmeal, moist, crumbly, and venezuelan ingredients.",
+    "Divide dough into 4-6 equal pieces, depending on desired empanada size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place 1-2 tablespoons of the cornmeal mixture onto the center of each circle.",
+    "Fold dough in half and press edges to seal.",
+    "Bake empanadas for 15-20 minutes, or until golden brown.",
+    "Meanwhile, prepare salsa by combining diced tomatoes, onions, and cilantro.",
+    "Serve empanadas with salsa for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "snack",
+    "vegan",
+    "cornmeal",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-crumbly-venezuelan-cornmeal-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:38:26.981Z"
+}
