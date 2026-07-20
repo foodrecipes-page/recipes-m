@@ -1,0 +1,75 @@
+{
+  "slug": "magnificently-mashed-irish-potato-gratin--japanese",
+  "title": "Irish Potato Gratin with Japanese Twist",
+  "description": "An Irish-inspired potato gratin with a Japanese twist, using sesame oil and soy sauce to add depth of flavor.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "magnificently grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "minced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice the Irish potato.",
+    "In a large saucepan, combine the sliced potato and enough cold water to cover. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potato and set aside.",
+    "In a separate saucepan, melt the magnificently grated cheddar cheese over low heat, stirring constantly.",
+    "Add the sesame oil and soy sauce to the cheese sauce and stir to combine.",
+    "In a greased 9x13-inch baking dish, create a layer of potato slices.",
+    "Pour some of the cheese sauce over the potato layer, then sprinkle with minced scallions.",
+    "Repeat the layers two more times, ending with a layer of cheese sauce on top.",
+    "Season with salt and pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the potato is tender.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-potato-gratin",
+    "japanese-twist",
+    "cheesy-side-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-mashed-irish-potato-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:12:22.217Z"
+}
