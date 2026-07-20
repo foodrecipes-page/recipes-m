@@ -1,0 +1,78 @@
+{
+  "slug": "moist-velvety-german-apple-pudding",
+  "title": "Warm Apple Pudding with Caramelized German Apple",
+  "description": "A moist and velvety dessert that combines the flavors of apple with a hint of German spice.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 large",
+      "notes": "Granny Smith or similar variety"
+    },
+    {
+      "name": "german apple spice",
+      "amount": "1 tsp",
+      "notes": "Available at most German import stores"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or half-and-half"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples into 1-inch thick wedges.",
+    "In a large bowl, combine the sliced apples, sugar, and German apple spice. Toss until the apples are evenly coated.",
+    "In a separate bowl, whisk together the flour, eggs, heavy cream, and vanilla extract until smooth.",
+    "Pour the wet ingredients over the apple mixture and stir until the apples are well coated.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 35-40 minutes, or until the apples are tender and the topping is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "warm",
+    "apple",
+    "pudding",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-velvety-german-apple-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:13:59.766Z"
+}
