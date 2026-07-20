@@ -1,0 +1,69 @@
+{
+  "slug": "midnight-craving-dutch-christmas-pudding-trifle",
+  "title": "Midnight Dutch Trifle",
+  "description": "A layered dessert recipe perfect for Christmas nights. This trifle combines the best of Dutch and British traditions.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Vanilla pudding",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak the ladyfingers in coffee or tea for 5-7 minutes.",
+    "In a large bowl, whip the heavy cream until it forms stiff peaks.",
+    "Fold the whipped cream into the vanilla pudding until well combined.",
+    "Add the cocoa powder to the pudding mixture and mix until smooth.",
+    "Cut the soaked ladyfingers into quarters and layer them in a large serving dish.",
+    "Pour half of the pudding mixture over the ladyfingers.",
+    "Top with half of the fresh berries.",
+    "Repeat the layers, ending with a layer of pudding on top.",
+    "Chill the trifle in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "dessert",
+    "pudding",
+    "trifle",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-dutch-christmas-pudding-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:53:18.072Z"
+}
