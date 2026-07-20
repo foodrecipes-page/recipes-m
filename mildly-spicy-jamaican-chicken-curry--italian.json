@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-spicy-jamaican-chicken-curry--italian",
+  "title": "Jamaican Chicken Curry Pasta",
+  "description": "A fusion of Italian and Jamaican flavors, this dish combines spicy Jamaican curry with tender chicken and a side of pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into bite-sized pieces"
+    },
+    {
+      "name": "mildly spicy Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces, penne or similar shape"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the Jamaican curry powder to the skillet and cook for 1 minute.",
+    "Add the chicken broth and heavy cream to the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and cook until cooked through, about 5-7 minutes.",
+    "Cook the pasta according to the package instructions until al dente.",
+    "Combine the cooked pasta, chicken, and curry sauce in a large bowl.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "jamaican",
+    "curry",
+    "chicken",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-jamaican-chicken-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:32:44.614Z"
+}
