@@ -1,17 +1,15 @@
 {
   "slug": "midnight-creamy-british-pork-belly-bake",
-  "title": "Midnight Pork Belly Bake",
-  "description": "A savory, slow-cooked pork belly dish with a creamy sauce, perfect for a cold evening. This traditional British recipe is a must-try for pork lovers.",
+  "title": "Midnight British Pork Belly Bake",
+  "description": "A slow-cooked, fall-apart pork belly dish, smothered in a rich, creamy sauce, perfect for a cold winter's night.",
   "cuisine": "british",
-  "diet": [
-    "meat-lovers",
-    "comfort-food"
-  ],
+  "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
       "name": "pork belly",
-      "amount": "1 kg"
+      "amount": "1.5 kg",
+      "notes": "skin removed"
     },
     {
       "name": "midnight oil",
@@ -19,66 +17,73 @@
       "notes": "or vegetable oil"
     },
     {
-      "name": "onion",
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "onion, chopped",
       "amount": "1 large",
-      "notes": "finely chopped"
+      "notes": ""
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": "minced"
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
     },
     {
-      "name": "apple cider vinegar",
-      "amount": "2 tbsp"
+      "name": "creamy milk",
+      "amount": "150ml",
+      "notes": "or heavy cream"
     },
     {
-      "name": "honey",
-      "amount": "2 tbsp"
+      "name": "chicken stock",
+      "amount": "250ml",
+      "notes": ""
     },
     {
-      "name": "creamy tomato sauce",
-      "amount": "250ml"
-    },
-    {
-      "name": "fresh thyme",
-      "amount": "2 sprigs",
-      "notes": "chopped"
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
       "name": "salt and pepper",
-      "amount": "",
-      "notes": "to taste"
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat the oven to 160°C (325°F).",
-    "Cut the pork belly into a large piece and season with salt and pepper.",
-    "Heat the oil in a large oven-safe pan over medium heat. Sear the pork belly until browned on all sides.",
-    "Add the chopped onion and cook until softened, then add the minced garlic and cook for another minute.",
-    "Add the apple cider vinegar, honey, and creamy tomato sauce. Stir to combine.",
-    "Transfer the pan to the preheated oven and bake for 2 1/2 hours, or until the pork is tender and the sauce has thickened.",
-    "Remove the pan from the oven and sprinkle with chopped thyme. Serve hot, garnished with additional thyme if desired."
+    "Preheat oven to 160°C (325°F).",
+    "Season the pork belly with salt and pepper. Dust with flour, shaking off excess.",
+    "Heat oil in a large oven-safe pot over medium-high heat. Sear the pork belly until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the thyme, chicken stock, and creamy milk to the pot. Stir to combine.",
+    "Return the pork belly to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2.5 hours, or until the pork is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the pork with two forks and serve with the rich, creamy sauce spooned over the top."
   ],
-  "prepTimeMin": 30,
+  "prepTimeMin": 20,
   "cookTimeMin": 150,
-  "totalTimeMin": 180,
+  "totalTimeMin": 170,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "hard",
   "tags": [
     "british",
     "pork",
+    "baked",
     "comfort-food",
-    "midnight-oil"
+    "winter-dinner"
   ],
   "nutrition": {
-    "calories": 840,
-    "protein": 53,
-    "carbs": 44,
-    "fat": 57
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 90
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/midnight-creamy-british-pork-belly-bake",
   "providerUsed": "groq",
-  "createdAt": "2026-07-16T17:15:04.076Z"
+  "createdAt": "2026-07-17T20:48:44.124Z"
 }
