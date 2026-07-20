@@ -1,0 +1,81 @@
+{
+  "slug": "malty-syrian-pistachio-pilaf--keto",
+  "title": "Keto Syrian Pilaf with Pistachio Crunch",
+  "description": "A flavorful pilaf dish from Syria, adapted for a keto diet with a crunchy pistachio topping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "250g",
+      "notes": "preferably cauliflower"
+    },
+    {
+      "name": "Pistachio",
+      "amount": "100g",
+      "notes": "unsalted, chopped"
+    },
+    {
+      "name": "Malty",
+      "amount": "30g",
+      "notes": "unsalted, chopped"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1g",
+      "notes": "unsalted, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3g",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "3g"
+    },
+    {
+      "name": "Pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Heat 10ml of olive oil in a pan over medium heat",
+    "Add garlic and cook for 1 minute",
+    "Add pilaf and cook for 2 minutes",
+    "Add Syrian and malty, cook for 1 minute",
+    "Season with salt and pepper",
+    "Transfer to a serving dish",
+    "In a separate pan, heat 10ml of olive oil",
+    "Add pistachio and cook for 2 minutes",
+    "Sprinkle pistachio crunch on top of pilaf"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pilaf",
+    "middle eastern",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-syrian-pistachio-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:15:37.109Z"
+}
