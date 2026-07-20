@@ -1,0 +1,86 @@
+{
+  "slug": "mellow-spanish-potato-patatas-bravas--chinese",
+  "title": "Spanish-Style Stir-Fried Potatoes",
+  "description": "A fusion of Spanish and Chinese flavors, this dish combines crispy potatoes with savory mellow sausage.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spanish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Patatas bravas sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced mellow sausage and cook until browned, about 3-4 minutes.",
+    "Remove the cooked sausage from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Pour in the patatas bravas sauce, soy sauce, and sesame oil, and stir to combine.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the potatoes are coated in the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chinese",
+    "stir-fry",
+    "sausage",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spanish-potato-patatas-bravas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:34:21.546Z"
+}
