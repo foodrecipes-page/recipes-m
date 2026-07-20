@@ -21628,5 +21628,44 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "m"
+  },
+  {
+    "slug": "mascarponey-monsoon-delight--gluten-free",
+    "title": "Gluten-Free Mascarpone Delight",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "italian",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-syrian-pistachio-pilaf--keto",
+    "title": "Keto Syrian Pilaf with Pistachio Crunch",
+    "tags": [
+      "keto",
+      "pilaf",
+      "middle eastern",
+      "syrian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-spicy-malaysian-almond-flour-bake--chinese",
+    "title": "Spicy Malaysian Baked Chicken",
+    "tags": [
+      "chinese",
+      "spicy",
+      "malaysian",
+      "chicken"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
