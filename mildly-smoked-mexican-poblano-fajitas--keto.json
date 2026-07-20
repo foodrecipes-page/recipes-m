@@ -1,0 +1,87 @@
+{
+  "slug": "mildly-smoked-mexican-poblano-fajitas--keto",
+  "title": "Smoked Poblano Fajita Keto Bowl",
+  "description": "A keto twist on traditional fajitas, featuring smoked poblano peppers and mildly seasoned beef. ",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Smoked poblano peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat skillet to medium-high heat.",
+    "Cook skirt steak to 130°F (54°C) for medium-rare. Set aside.",
+    "Sear sliced onion and cook until caramelized, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add smoked poblano peppers, cook for 3-4 minutes, until tender.",
+    "Return cooked skirt steak to skillet and toss with onion and pepper mixture.",
+    "Stir in chopped cilantro, lime juice, coconut oil, salt, and pepper.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mexican",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoked-mexican-poblano-fajitas--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:14:12.393Z"
+}
