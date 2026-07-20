@@ -1,0 +1,71 @@
+{
+  "slug": "mashed-umami-irish-boil-hash--japanese",
+  "title": "Japanese Hash Brown",
+  "description": "A simple and delicious Japanese-inspired hash brown dish made with irish potatoes and umami flavor.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Umami seasoning",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": "shredded or grated"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add hash browns and cook until golden brown.",
+    "Add irish potatoes and cook until golden brown.",
+    "Add umami seasoning and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Transfer to a plate and garnish with soy sauce and sesame seeds, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "hash-brown",
+    "irish-potatoes",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mashed-umami-irish-boil-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:28:40.200Z"
+}
