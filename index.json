@@ -8506,15 +8506,16 @@
   },
   {
     "slug": "midnight-craving-dutch-christmas-pudding-trifle",
-    "title": "Midnight-craving Dutch Christmas Pudding Trifle",
+    "title": "Midnight Dutch Trifle",
     "tags": [
-      "christmas-pudding",
-      "dutch-desserts",
-      "low-carb",
-      "vegetarian"
+      "christmas",
+      "dessert",
+      "pudding",
+      "trifle",
+      "midnight"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -21584,6 +21585,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 70,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sour-japanese-pork-gyoza--italian",
+    "title": "Pork Gyoza Italian Skewers",
+    "tags": [
+      "italian",
+      "japanese",
+      "pork",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoked-mexican-poblano-fajitas--keto",
+    "title": "Smoked Poblano Fajita Keto Bowl",
+    "tags": [
+      "keto",
+      "mexican",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
