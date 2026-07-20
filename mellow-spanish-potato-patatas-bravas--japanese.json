@@ -1,0 +1,65 @@
+{
+  "slug": "mellow-spanish-potato-patatas-bravas--japanese",
+  "title": "Patatas Bravas Tempura",
+  "description": "Crispy Japanese-inspired tempura battered Spanish potatoes in a spicy bravas sauce. A unique twist on a classic tapas dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "patatas",
+      "amount": "1 large"
+    },
+    {
+      "name": "mellow",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "spanish",
+      "amount": "1/2 cup",
+      "notes": "cornstarch"
+    },
+    {
+      "name": "bravas",
+      "amount": "2 tablespoons",
+      "notes": "spicy bravas sauce"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the patatas into 1-inch cubes and rinse under cold water.",
+    "In a large bowl, mix together mellow and spanish. Gradually add water, stirring until smooth.",
+    "Add patatas to the batter and toss until coated.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat until 350°F.",
+    "Carefully add the battered patatas to the oil in batches and fry until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove the tempura from the oil and drain on paper towels.",
+    "Serve the tempura patatas hot with a side of bravas sauce for dipping.",
+    "Optional: garnish with chopped green onions and a sprinkle of mellow for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "patatas-bravas",
+    "japanese-tempura",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-spanish-potato-patatas-bravas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:39:23.874Z"
+}
