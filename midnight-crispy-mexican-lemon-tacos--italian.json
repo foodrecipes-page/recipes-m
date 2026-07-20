@@ -1,0 +1,83 @@
+{
+  "slug": "midnight-crispy-mexican-lemon-tacos--italian",
+  "title": "Midnight Italian Tacos",
+  "description": "A unique fusion of Italian and Mexican flavors, perfect for a late-night snack or dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Midnight black truffle salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the garlic powder, Mexican oregano, and black truffle salt to the skillet and stir to combine.",
+    "Stir in the lime juice and cook for an additional 1-2 minutes.",
+    "Warm the crushed tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a warmed tortilla and topping with shredded Parmesan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mexican",
+    "beef",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-crispy-mexican-lemon-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:38:50.282Z"
+}
