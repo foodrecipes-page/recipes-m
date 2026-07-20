@@ -1,0 +1,85 @@
+{
+  "slug": "magnificently-crispy-chinese-vegetable-spring-rolls",
+  "title": "Crispy Vegetable Spring Rolls",
+  "description": "Delicate spring rolls filled with shredded vegetables, served crispy and perfect as a snack or appetizer.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers",
+      "amount": "12-15 wrappers",
+      "notes": null
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded bean sprouts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1-2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine shredded cabbage, carrots, and bean sprouts.",
+    "2. Add chopped scallions to the bowl and mix well.",
+    "3. Lay a spring roll wrapper on a flat surface, with one corner pointing towards you.",
+    "4. Place about 1 tablespoon of the vegetable mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with a little water.",
+    "6. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Heat about 1-2 cups of vegetable oil in a large frying pan or wok over medium-high heat.",
+    "9. When the oil is hot, add a few of the spring rolls to the pan (do not overcrowd).",
+    "10. Fry the spring rolls until they are golden brown and crispy, about 2-3 minutes on each side.",
+    "11. Remove the spring rolls from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "12. Serve the spring rolls hot with soy sauce and sesame oil for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "vegetarian",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-crispy-chinese-vegetable-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:23:53.480Z"
+}
