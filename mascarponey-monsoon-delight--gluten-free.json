@@ -1,0 +1,67 @@
+{
+  "slug": "mascarponey-monsoon-delight--gluten-free",
+  "title": "Gluten-Free Mascarpone Delight",
+  "description": "A rich and creamy dessert that's perfect for warm weather. This gluten-free mascarpone delight is a refreshing treat that's sure to please.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mascarpone",
+      "amount": "250g"
+    },
+    {
+      "name": "Monsoon Delight (gluten-free cookies)",
+      "amount": "120g"
+    },
+    {
+      "name": "Fresh Berries (strawberries, blueberries, raspberries)",
+      "amount": "200g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "Grated from 1 lemon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Crush the Monsoon Delight cookies in a food processor until finely ground.",
+    "In a large mixing bowl, beat the mascarpone with an electric mixer until smooth.",
+    "Add the honey, lemon zest, and vanilla extract to the mascarpone and mix until well combined.",
+    "Gently fold in the crushed cookies until a uniform mixture is formed.",
+    "Spoon the mixture into individual serving cups or a large serving dish.",
+    "Top with fresh berries and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "italian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mascarponey-monsoon-delight--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:09:44.692Z"
+}
