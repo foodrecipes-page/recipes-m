@@ -1,0 +1,77 @@
+{
+  "slug": "magnificently-crunchy-japanese-apple-tamagoyaki--italian",
+  "title": "Italian Apple Tart with Tamagoyaki Crust",
+  "description": "A twist on the classic Italian tart, using a crispy tamagoyaki crust and topped with caramelized apples.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tamagoyaki",
+      "amount": "1 block"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large apples, peeled and sliced",
+      "amount": "3"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a food processor, pulse the tamagoyaki until it resembles coarse crumbs.",
+    "In a medium bowl, whisk together the flour, sugar, and a pinch of salt.",
+    "Add the softened butter and pulse until the mixture resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a 9-inch tart pan.",
+    "Bake the crust for 20-25 minutes, or until golden brown.",
+    "In a large bowl, whisk together the sliced apples, cinnamon, and nutmeg.",
+    "Arrange the apple slices on top of the baked crust in a concentric circle pattern.",
+    "Brush the beaten egg over the apples and sprinkle with granulated sugar.",
+    "Bake the tart for an additional 25-30 minutes, or until the apples are caramelized and the crust is golden brown.",
+    "Let the tart cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "apple",
+    "tamagoyaki"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-crunchy-japanese-apple-tamagoyaki--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:41:52.991Z"
+}
