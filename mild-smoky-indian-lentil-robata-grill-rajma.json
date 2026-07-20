@@ -1,0 +1,85 @@
+{
+  "slug": "mild-smoky-indian-lentil-robata-grill-rajma",
+  "title": "Smoky Robata Rajma Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with smoky robata lentils and rajma. Perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Kidney Beans (Rajma)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoky Robata Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add cumin seeds and let them sizzle.",
+    "Add chopped onion, minced garlic, and grated ginger. Cook until onion is translucent.",
+    "Add cumin powder, coriander powder, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add red kidney beans and smoky robata lentils. Mix well.",
+    "Add 2 cups of water and bring to a boil. Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "lentil",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-smoky-indian-lentil-robata-grill-rajma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:23:11.223Z"
+}
