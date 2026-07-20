@@ -1,0 +1,93 @@
+{
+  "slug": "magnificently-slow-cooked-australian-lamb-casserole",
+  "title": "Australian Lamb Casserole",
+  "description": "A hearty, comforting casserole filled with tender lamb and crunchy vegetables. Perfect for a cold winter's night.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Season the lamb with salt, thyme and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for a further 5 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-food",
+    "lamb-casserole",
+    "hearty-casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-slow-cooked-australian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:02:29.931Z"
+}
