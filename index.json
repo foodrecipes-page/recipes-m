@@ -21603,5 +21603,34 @@
     "cuisine": "mexican",
     "totalTimeMin": 30,
     "shard": "m"
+  },
+  {
+    "slug": "molten-roasted-russian-vegetables-roast--gluten-free",
+    "title": "Roasted Russian Vegetables",
+    "tags": [
+      "gluten-free",
+      "roasted",
+      "vegetarian",
+      "russian",
+      "sweet-potatoes",
+      "brussels-sprouts",
+      "carrots"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-charred-australian-prawns-skewers--indian",
+    "title": "Tandoori Prawn Skewers",
+    "tags": [
+      "indian",
+      "prawns",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "m"
   }
 ]
