@@ -1,0 +1,80 @@
+{
+  "slug": "miso-marinated-venezuelan-bresaola-tacos",
+  "title": "Miso-Glazed Bresaola Tacos",
+  "description": "A fusion of japanese flavors with venezuelan cuisine, these miso-glazed bresaola tacos are a unique twist on traditional tacos",
+  "cuisine": "venezuelan-japanese fusion",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "white miso"
+    },
+    {
+      "name": "Marinated peppers",
+      "amount": "1/2 cup",
+      "notes": "such as pimentos or bell peppers"
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Venezuelan aji amarillo",
+      "amount": "1 tsp",
+      "notes": "optional, for spice"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small saucepan, whisk together miso paste and 2 tbsp water until smooth.",
+    "3. Add marinated peppers to the miso glaze and stir to combine.",
+    "4. Place bresaola on a baking sheet and brush with miso glaze.",
+    "5. Roast in the oven for 10-12 minutes, or until caramelized.",
+    "6. Warm tacos shells according to package instructions.",
+    "7. Assemble tacos by placing roasted bresaola onto a shell, followed by a spoonful of marinated peppers and a sprinkle of cilantro.",
+    "8. Serve immediately, with lime wedges and aji amarillo on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "miso-glazed",
+    "bresaola",
+    "tacos",
+    "venezuelan-fusion",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-marinated-venezuelan-bresaola-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:04:07.701Z"
+}
