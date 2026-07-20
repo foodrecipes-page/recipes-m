@@ -1218,17 +1218,15 @@
   },
   {
     "slug": "magnificently-crispy-chinese-vegetable-spring-rolls",
-    "title": "Magnificently Crispy Chinese Vegetable Spring Rolls",
+    "title": "Crispy Vegetable Spring Rolls",
     "tags": [
-      "appetizer",
-      "chinese-food",
-      "low-fat",
-      "party-food",
+      "chinese",
       "snack",
-      "vegetarian"
+      "vegetarian",
+      "spring-rolls"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -21704,6 +21702,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-jamaican-chicken-curry--italian",
+    "title": "Jamaican Chicken Curry Pasta",
+    "tags": [
+      "italian",
+      "jamaican",
+      "curry",
+      "chicken",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-crispy-mexican-lemon-tacos--italian",
+    "title": "Midnight Italian Tacos",
+    "tags": [
+      "italian",
+      "mexican",
+      "beef",
+      "tacos"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
