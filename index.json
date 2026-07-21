@@ -14002,16 +14002,14 @@
   },
   {
     "slug": "mildly-velvety-tunisian-pecorino-tagine",
-    "title": "Mildly Velvety Tunisian Pecorino Tagine",
+    "title": "Tunisian Pecorino Tagine",
     "tags": [
       "north-african",
-      "one-pot",
-      "oven-friendly",
-      "tagine",
-      "tunisian"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -21881,6 +21879,31 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-british-eggplant-fish-and-chips--vegetarian",
+    "title": "Malty Eggplant Fritters",
+    "tags": [
+      "vegetarian",
+      "eggplant",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "monsoon-gored-gored-beef--indian",
+    "title": "Beef Korma",
+    "tags": [
+      "indian",
+      "beef",
+      "creamy",
+      "korma"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
