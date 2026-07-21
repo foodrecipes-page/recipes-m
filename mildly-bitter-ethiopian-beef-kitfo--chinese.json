@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-bitter-ethiopian-beef-kitfo--chinese",
+  "title": "Spicy Beef Kitfo Stir Fry",
+  "description": "A spicy twist on traditional Ethiopian kitfo served with Chinese flair. Mildly bitter greens add a nice contrast to this flavorful dish.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kitfo",
+      "amount": "1 pound",
+      "notes": "raw and finely chopped"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 teaspoon",
+      "notes": "spicy chili paste"
+    },
+    {
+      "name": "Mildly bitter greens",
+      "amount": "1 bunch",
+      "notes": "such as bok choy or gai lan"
+    }
+  ],
+  "instructions": [
+    "Heat the beef broth in a large skillet or wok over medium-high heat.",
+    "Add the soy sauce, ginger, and garlic to the skillet. Stir to combine.",
+    "Add the chopped kitfo to the skillet and stir to break up any clumps.",
+    "Cook the kitfo for 2-3 minutes, or until it is no longer raw in the center.",
+    "Add the sambal oelek to the skillet and stir to combine.",
+    "Add the mildly bitter greens to the skillet and stir to combine.",
+    "Cook the greens for 1-2 minutes, or until they are wilted.",
+    "Season the dish with salt and pepper to taste.",
+    "Serve the kitfo stir fry hot, garnished with additional ginger and garlic if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "ethiopian",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-bitter-ethiopian-beef-kitfo--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:35:04.249Z"
+}
