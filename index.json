@@ -13022,17 +13022,15 @@
   },
   {
     "slug": "mildly-spicy-egyptian-chicken-kebabs",
-    "title": "Mildly Spicy Egyptian Chicken Kebabs",
+    "title": "Egyptian Chicken Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "kebabs",
+      "egyptian",
+      "spicy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 36,
     "shard": "m"
   },
   {
@@ -21778,6 +21776,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-brazilian-wood-ear-mushroom-tart--thai",
+    "title": "Thai-Style Wood Ear Mushroom Stir Fry",
+    "tags": [
+      "thai-cuisine",
+      "vegetarian",
+      "stir-fry",
+      "mushroom"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "mouthwatering-filipino-fish-noodles--thai",
+    "title": "Thai-Style Fish Noodle Soup",
+    "tags": [
+      "thai",
+      "fish",
+      "noodle",
+      "soup"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
