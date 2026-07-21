@@ -1,0 +1,94 @@
+{
+  "slug": "mindful-american-chicken-skillet--mexican",
+  "title": "Mexican Skillet Chicken",
+  "description": "A flavorful and spicy Mexican-inspired dish made with chicken, bell peppers, onions, and tomatoes, all cooked in a skillet.",
+  "cuisine": "mexican",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the bell peppers and onion and cook until tender, about 5 minutes.",
+    "Add the cumin, chili powder, salt, and pepper, and stir to combine.",
+    "Add the tomato and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 10 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Cook the chicken to an internal temperature of at least 165°F (74°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "skillet",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindful-american-chicken-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:29:00.155Z"
+}
