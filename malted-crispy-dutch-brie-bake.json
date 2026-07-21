@@ -1,0 +1,74 @@
+{
+  "slug": "malted-crispy-dutch-brie-bake",
+  "title": "Malted Dutch Bake",
+  "description": "A sweet and crunchy Dutch bake made with crumbled malted cookies and topped with a crispy brie crust.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "malted cookies",
+      "amount": "1 1/2 cups, crushed"
+    },
+    {
+      "name": "dutch baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "brie cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "crispy rice cereal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium-sized bowl, whisk together malted cookies, Dutch baking powder, and granulated sugar.",
+    "Add melted butter, eggs, and vanilla extract to the bowl. Mix until well combined.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Top with crumbled brie cheese and crispy rice cereal.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the edges are set.",
+    "Remove from oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "sweet",
+    "dutch",
+    "malted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malted-crispy-dutch-brie-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:37:27.574Z"
+}
