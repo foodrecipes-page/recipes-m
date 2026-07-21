@@ -1,0 +1,64 @@
+{
+  "slug": "mildly-peppery-saudi-arabian-cucumber-salad",
+  "title": "Mildly Spiced Saudi-Style Cucumber Salad",
+  "description": "A refreshing and flavorful salad that combines the flavors of the Middle East with a crunchy cucumber.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mildly Spiced Saudi Arabian Pepper Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced cucumber and mixed greens.",
+    "In a small bowl, whisk together the Mildly Spiced Saudi Arabian Pepper Sauce, salt, white vinegar, and vegetable oil.",
+    "Pour the dressing over the cucumber and salad mixture.",
+    "Toss to coat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegetarian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-saudi-arabian-cucumber-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:39:58.044Z"
+}
