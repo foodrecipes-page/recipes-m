@@ -1,0 +1,72 @@
+{
+  "slug": "mature-briny-spanish-cheddar-wrap--vegetarian",
+  "title": "Spanish Wrap",
+  "description": "A vegetarian wrap filled with the flavors of Spain. Enjoy this simple and delicious meal for a quick lunch or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Cheddar Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Briny Olives",
+      "amount": "1/4 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Place the sliced briny olives in the pan and cook for 2-3 minutes.",
+    "Add the chopped fresh cilantro to the pan and cook for 1 minute.",
+    "Add the caramelized onions to the pan and cook for 1 minute.",
+    "Place the wrap in the pan and cook for 1 minute on each side, until crispy.",
+    "Transfer the wrap to a plate and top with the shredded Spanish cheddar cheese and mature cheddar cheese.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "cheese",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-briny-spanish-cheddar-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:00:44.719Z"
+}
