@@ -1,0 +1,80 @@
+{
+  "slug": "mellow-bitter-malaysian-rice-noodles--indian",
+  "title": "Malaysian Chicken Biryani",
+  "description": "A flavorful and aromatic Indian-inspired dish from Malaysia, made with marinated chicken and fragrant spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "mellow basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add chicken and cook until browned.",
+    "Add curry powder and cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Add rice and stir well.",
+    "Reduce heat to low, cover, and cook until rice is cooked and liquid is absorbed.",
+    "Fluff with a fork and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "biryani",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-bitter-malaysian-rice-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:34:26.722Z"
+}
