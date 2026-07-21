@@ -1,0 +1,103 @@
+{
+  "slug": "magnificently-slow-cooked-australian-lamb-casserole--chinese",
+  "title": "Australian-Style Chinese Lamb Casserole",
+  "description": "A hearty and flavorful Chinese-inspired casserole featuring lamb as the main protein. The combination of slow-cooked lamb, vegetables, and spices creates a rich and satisfying dish.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 can",
+      "notes": "Drained and chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, whisk together soy sauce, oyster sauce, brown sugar, ginger, and garlic. Add the lamb cubes and mix until well coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Remove the lamb from the marinade, letting any excess liquid drip off. In a large Dutch oven or heavy pot, heat the sesame oil over medium-high heat. Brown the lamb cubes on all sides, about 5 minutes per side. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes. Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the bamboo shoots, salt, and pepper to the pot, stirring to combine. Cook for 1 minute.",
+    "Add the browned lamb cubes back to the pot, and stir to combine with the vegetables and sauce.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Braise the lamb casserole for 2 1/2 to 3 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly. Serve the lamb casserole hot, garnished with chopped scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "chinese",
+    "casserole",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-slow-cooked-australian-lamb-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:49:54.802Z"
+}
