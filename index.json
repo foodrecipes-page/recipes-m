@@ -1720,17 +1720,15 @@
   },
   {
     "slug": "malted-crispy-dutch-brie-bake",
-    "title": "Malted Crispy Dutch Brie Bake",
+    "title": "Malted Dutch Bake",
     "tags": [
-      "cheese",
-      "crispy",
+      "dessert",
+      "sweet",
       "dutch",
-      "quick",
-      "vegan",
-      "wood-fired"
+      "malted"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 20,
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -21903,6 +21901,20 @@
       "korma"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-peppery-russian-milk-dumplings--german",
+    "title": "Scharfes Kartoffel-Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "potatoes",
+      "peppers",
+      "dinner"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "m"
   }
