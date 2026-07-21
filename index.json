@@ -21741,5 +21741,43 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "m"
+  },
+  {
+    "slug": "melted-sugar-tunisian-dates-tagine--french",
+    "title": "Tunisian Date Tagine",
+    "tags": [
+      "french",
+      "dessert",
+      "chocolate",
+      "dates"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-indian-chickpeas-chana-masala--keto",
+    "title": "Spicy Chana Masala",
+    "tags": [
+      "indian",
+      "spicy",
+      "keto"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mascarponey-monsoon-delight--vegetarian",
+    "title": "Monsoon Mascarpone Delight",
+    "tags": [
+      "dessert",
+      "vegetarian",
+      "mascarpone",
+      "monsoon-delight"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "m"
   }
 ]
