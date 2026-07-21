@@ -1,0 +1,60 @@
+{
+  "slug": "malty-german-bread-krapfen",
+  "title": "German Krapfen Bread Rolls",
+  "description": "Soft German bread rolls filled with sweet malty goodness. Perfect as a snack or dessert.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "malty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "german",
+      "amount": "1 loaf of bread, cubed"
+    },
+    {
+      "name": "bread",
+      "amount": "2 cups of warm water"
+    },
+    {
+      "name": "krapfen",
+      "amount": "1/2 cup of butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine cubed bread, melted butter, and warm water in a large mixing bowl.",
+    "Add malty ingredients and mix until well combined.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Divide dough into 6-8 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk.",
+    "Place dough disks on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bread",
+    "sweet",
+    "rolls"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-german-bread-krapfen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:38:45.622Z"
+}
