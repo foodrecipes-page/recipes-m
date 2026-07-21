@@ -1,0 +1,80 @@
+{
+  "slug": "magnificently-flaky-french-almond-macaron",
+  "title": "French Macaron Cake",
+  "description": "A delicate and elegant French-inspired macaron cake, perfect for special occasions. With its crunchy shell and airy filling, this cake is sure to impress.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 3/4 cups"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "Macaron shells",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Buttercream filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Food coloring (optional)",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Prepare the almond flour and granulated sugar in a medium bowl.",
+    "In a separate bowl, whip the egg whites until stiff peaks form.",
+    "Add the granulated sugar to the egg whites and continue whipping until stiff and glossy.",
+    "Gently fold the almond flour mixture into the egg mixture.",
+    "Transfer the mixture to a piping bag fitted with a round tip.",
+    "Pipe small circles of batter onto a parchment-lined baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles.",
+    "Allow the macarons to sit at room temperature for 30 minutes to an hour to form a skin.",
+    "Bake the macarons for 15-20 minutes, or until firm to the touch.",
+    "Allow the macarons to cool completely on a wire rack.",
+    "To assemble the cake, place a small amount of buttercream filling on one half of a macaron shell.",
+    "Top with another macaron shell to create a sandwich.",
+    "Repeat with the remaining macaron shells and filling.",
+    "Garnish with flaky sea salt and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "macaron",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2.5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-flaky-french-almond-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:48:48.142Z"
+}
