@@ -1357,16 +1357,15 @@
   },
   {
     "slug": "magnificently-flaky-french-almond-macaron",
-    "title": "Magnificently Flaky French Almond Macaron",
+    "title": "French Macaron Cake",
     "tags": [
-      "almond-based",
-      "date-night",
-      "diabetic-friendly",
-      "french-pastry",
-      "low-carb"
+      "french",
+      "macaron",
+      "cake",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -11915,17 +11914,14 @@
   },
   {
     "slug": "mildly-peppery-saudi-arabian-cucumber-salad",
-    "title": "Mildly Peppery Saudi Arabian Cucumber Salad",
+    "title": "Mildly Spiced Saudi-Style Cucumber Salad",
     "tags": [
-      "brunch",
-      "low-calorie",
-      "middle-eastern",
-      "refreshing",
-      "sugar-free",
-      "vegetarian"
+      "salad",
+      "vegetarian",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
@@ -22021,6 +22017,31 @@
     ],
     "cuisine": null,
     "totalTimeMin": 120,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoky-egyptian-black-bean-stew--keto",
+    "title": "Smoky Egyptian Bean Stew",
+    "tags": [
+      "keto",
+      "stew",
+      "mildly-spiced"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "muddy-vietnamese-quinoa-canh-chua--french",
+    "title": "Vietnamese-Style Quinoa Bowl with Muddy Vegetables",
+    "tags": [
+      "french",
+      "vietnamese",
+      "quinoa",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
