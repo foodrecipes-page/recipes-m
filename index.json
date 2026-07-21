@@ -21842,5 +21842,45 @@
     "cuisine": "italian",
     "totalTimeMin": 23,
     "shard": "m"
+  },
+  {
+    "slug": "mellow-cozy-korean-frozen-mix-wrap--indian",
+    "title": "Cozy Chicken Wrap",
+    "tags": [
+      "indian",
+      "chicken",
+      "wrap",
+      "comfort-food",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-crunchy-saudi-arabian-pine-nut-fritters--indian",
+    "title": "Saudi Arabian Pine Nut Fritters",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "snack",
+      "sweet"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mindful-american-chicken-skillet--mexican",
+    "title": "Mexican Skillet Chicken",
+    "tags": [
+      "mexican",
+      "chicken",
+      "skillet",
+      "easy-dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "m"
   }
 ]
