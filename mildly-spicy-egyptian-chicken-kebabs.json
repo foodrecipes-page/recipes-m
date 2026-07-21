@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-spicy-egyptian-chicken-kebabs",
+  "title": "Egyptian Chicken Kebabs",
+  "description": "A spicy and flavorful dish inspired by Egyptian cuisine, featuring marinated chicken kebabs grilled to perfection.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mildly spicy yogurt",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "2 tsp",
+      "notes": "a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "kebab sauce",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, spices, and kebab sauce.",
+    "Add the chicken cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken, onion, bell pepper, and tomato onto skewers.",
+    "Brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Serve hot with additional kebab sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "egyptian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-egyptian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:15:25.738Z"
+}
