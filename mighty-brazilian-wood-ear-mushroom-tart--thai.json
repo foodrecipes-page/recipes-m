@@ -1,0 +1,86 @@
+{
+  "slug": "mighty-brazilian-wood-ear-mushroom-tart--thai",
+  "title": "Thai-Style Wood Ear Mushroom Stir Fry",
+  "description": "A spicy Thai-inspired stir fry made with the unique flavor of wood ear mushrooms, served with a side of tart sauce.",
+  "cuisine": "thai",
+  "diet": [
+    null,
+    null,
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "200g",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "Tart Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mighty Brazilian Chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Brazilian Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of Brazilian olive oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced chilies and cook for 1 minute.",
+    "Add the minced garlic and grated ginger, cook for 30 seconds.",
+    "Add the sliced wood ear mushrooms, cook for 3-4 minutes or until they are tender.",
+    "Add the soy sauce, salt, and black pepper, stir to combine.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve the mushroom stir fry with a side of tart sauce.",
+    "Optional: garnish with chopped fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "vegetarian",
+    "stir-fry",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-brazilian-wood-ear-mushroom-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:43:35.144Z"
+}
