@@ -1,0 +1,67 @@
+{
+  "slug": "molten-briny-dutch-mushrooms-bowl--keto",
+  "title": "Mushroom and Dutch Keto Fritters",
+  "description": "A keto twist on traditional fritters, made with mushrooms and a crunchy dutch topping. Perfect as a snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "any variety"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "briny",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tbsp",
+      "notes": "melted butter"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for mixing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together mushrooms and crushed dutch.",
+    "Add melted molten and mix until combined.",
+    "Form into patties and place on a baking sheet.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "If desired, top with chopped briny before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "mushroom",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-briny-dutch-mushrooms-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:06:45.007Z"
+}
