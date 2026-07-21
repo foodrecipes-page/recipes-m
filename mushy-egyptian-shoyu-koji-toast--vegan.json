@@ -1,0 +1,56 @@
+{
+  "slug": "mushy-egyptian-shoyu-koji-toast--vegan",
+  "title": "Vegan Miso Soup with Toast",
+  "description": "A simple and comforting soup made with a miso paste made from koji, served with crispy toast.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Koji",
+      "amount": "100g"
+    },
+    {
+      "name": "Egyptian Mushy Peas",
+      "amount": "200g"
+    },
+    {
+      "name": "Shoyu",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat 2 tbsp of shoyu over low heat.",
+    "Add 100g of koji and cook for 5 minutes, stirring occasionally.",
+    "Add 200g of egyptian mushy peas and cook for a further 5 minutes, stirring occasionally.",
+    "Season with additional shoyu to taste.",
+    "Serve hot with crispy toast on the side."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "soup",
+    "miso",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mushy-egyptian-shoyu-koji-toast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:14:09.408Z"
+}
