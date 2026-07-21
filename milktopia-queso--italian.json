@@ -1,0 +1,83 @@
+{
+  "slug": "milktopia-queso--italian",
+  "title": "Milktopia Queso Fritters",
+  "description": "Crispy Italian-inspired fritters filled with milktopia and queso, perfect for snacking or as a side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Milktopia",
+      "amount": "1 (8 oz) container"
+    },
+    {
+      "name": "Queso",
+      "amount": "1 (8 oz) container"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried basil, oregano, and thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine milktopia and queso.",
+    "2. In a separate bowl, whisk together flour, Italian seasoning, salt, and black pepper.",
+    "3. Gradually add the dry ingredients to the milktopia-queso mixture and mix until well combined.",
+    "4. Using a cookie scoop or spoon, drop small balls of the mixture into a shallow dish filled with bread crumbs.",
+    "5. Roll each ball between your hands to shape into a ball and then flatten slightly.",
+    "6. Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "7. When the oil is hot, add a few fritters to the skillet (do not overcrowd).",
+    "8. Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "9. Remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "10. Repeat with the remaining fritters.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "fritters",
+    "vegan",
+    "italian-inspired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/milktopia-queso--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:37:35.472Z"
+}
