@@ -1,0 +1,72 @@
+{
+  "slug": "muddy-vietnamese-quinoa-canh-chua--french",
+  "title": "Vietnamese-Style Quinoa Bowl with Muddy Vegetables",
+  "description": "A French-inspired twist on traditional Vietnamese flavors, featuring quinoa and muddy vegetables in a hearty bowl.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "muddy vegetables (such as carrots and beets)",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "vietnamese chili sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "canh (Vietnamese fish sauce)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chua (Vietnamese pickled carrots and daikon)",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the muddy vegetables with 1 tbsp of olive oil and season with salt and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Cook the quinoa according to package instructions. Set aside.",
+    "In a large bowl, whisk together the vietnamese chili sauce, canh, and 1 tbsp of olive oil. Add the cooked quinoa and stir to combine.",
+    "Top the quinoa mixture with the roasted muddy vegetables, chopped cilantro, and chopped chua.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vietnamese",
+    "quinoa",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/muddy-vietnamese-quinoa-canh-chua--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:44:41.814Z"
+}
