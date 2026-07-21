@@ -1,0 +1,75 @@
+{
+  "slug": "mildly-smoky-egyptian-black-bean-stew--keto",
+  "title": "Smoky Egyptian Bean Stew",
+  "description": "A flavorful and nutritious keto-friendly stew made with smoky beans, mildly seasoned with spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky black beans",
+      "amount": "1 cup (cooked)",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Mildly spiced Egyptian stew spice blend",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Black garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Himalayan or sea salt"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the avocado oil over medium heat.",
+    "Add the minced black garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the smoky black beans, Egyptian stew spice blend, black pepper, and salt. Stir well to combine.",
+    "Cook for 5-7 minutes, stirring occasionally, until the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "stew",
+    "mildly-spiced"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-black-bean-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:26:47.110Z"
+}
