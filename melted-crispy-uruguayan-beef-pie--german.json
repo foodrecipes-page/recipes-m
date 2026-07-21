@@ -1,0 +1,80 @@
+{
+  "slug": "melted-crispy-uruguayan-beef-pie--german",
+  "title": "Uruguayan Beef Pie",
+  "description": "A German-inspired twist on a classic beef pie, featuring crispy crust and savory Uruguayan flavors.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1/2 pound, sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Crispy pie crust",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the sliced chorizo, chopped onion, and caraway seeds to the skillet and cook until the onion is translucent.",
+    "Season the meat mixture with salt and pepper to taste.",
+    "Pour the meat mixture into the pie crust and spread it out evenly.",
+    "Dot the top of the pie with melted butter.",
+    "Cover the pie with another pie crust or a piece of aluminum foil and crimp the edges to seal.",
+    "Bake the pie for 25-30 minutes, then remove the foil or top crust and continue baking for an additional 10-15 minutes, or until the crust is golden brown.",
+    "Serve warm, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chicken",
+    "pie",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-crispy-uruguayan-beef-pie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:51:42.382Z"
+}
