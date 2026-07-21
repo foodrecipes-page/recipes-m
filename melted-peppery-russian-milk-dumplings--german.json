@@ -1,0 +1,65 @@
+{
+  "slug": "melted-peppery-russian-milk-dumplings--german",
+  "title": "Scharfes Kartoffel-Schnitzel",
+  "description": "A German twist on a classic schnitzel dish, using melted peppers and onions for a sweet and savory flavor.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russische Kartoffeln",
+      "amount": "3-4",
+      "notes": "About 1 inch thick"
+    },
+    {
+      "name": "Melted Peppere",
+      "amount": "2 tablespoons",
+      "notes": "About 1/4 cup"
+    },
+    {
+      "name": "Russian Milk",
+      "amount": "1 cup",
+      "notes": "Buttermilk or sour cream work too"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": "For breading"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Cut the potatoes into 1/4 inch thick slices.",
+    "2. In a shallow dish, mix together the melted pepper and milk.",
+    "3. Dip each potato slice into the milk mixture, then coat in breadcrumbs.",
+    "4. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "5. Fry the coated potatoes for about 3-4 minutes on each side, or until golden brown.",
+    "6. Serve with dumplings and additional melted pepper, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "potatoes",
+    "peppers",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-peppery-russian-milk-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:02:00.550Z"
+}
