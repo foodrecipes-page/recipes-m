@@ -1,0 +1,69 @@
+{
+  "slug": "mascarponey-monsoon-delight--vegan",
+  "title": "Monsoon Delight Mousse",
+  "description": "A refreshing and creamy dessert made with monsoon delight, a vegan alternative to traditional mascarpone. This light and airy mousse is perfect for warm weather.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Monsoon Delight",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Aquafaba",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugar-free vanilla beans",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine Monsoon Delight, maple syrup, lemon juice, vanilla extract, aquafaba, coconut cream, and sugar-free vanilla beans.",
+    "Blend on high speed for 2-3 minutes, or until the mixture is smooth and creamy.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Refrigerate for at least 2 hours, or until set.",
+    "Serve chilled, garnished with fresh fruit or nuts if desired.",
+    "Note: Be sure to adjust the amount of maple syrup to your taste, as Monsoon Delight can be quite sweet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "mousse",
+    "monsoon-delight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mascarponey-monsoon-delight--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:23:20.735Z"
+}
