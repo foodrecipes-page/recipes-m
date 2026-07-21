@@ -21970,5 +21970,57 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "m"
+  },
+  {
+    "slug": "mellow-egyptian-chickpea-tagine--japanese",
+    "title": "Mellow Chickpea Tagine",
+    "tags": [
+      "japanese",
+      "tagine",
+      "chickpeas",
+      "mellow"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-briny-dutch-mushrooms-bowl--keto",
+    "title": "Mushroom and Dutch Keto Fritters",
+    "tags": [
+      "keto",
+      "low-carb",
+      "mushroom",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mushy-egyptian-shoyu-koji-toast--vegan",
+    "title": "Vegan Miso Soup with Toast",
+    "tags": [
+      "vegan",
+      "soup",
+      "miso",
+      "tofu"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mascarponey-monsoon-delight--vegan",
+    "title": "Monsoon Delight Mousse",
+    "tags": [
+      "vegan",
+      "dessert",
+      "mousse",
+      "monsoon-delight"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 120,
+    "shard": "m"
   }
 ]
