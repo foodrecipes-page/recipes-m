@@ -2515,15 +2515,15 @@
   },
   {
     "slug": "malty-german-bread-krapfen",
-    "title": "Malty German Bread Krapfen",
+    "title": "German Krapfen Bread Rolls",
     "tags": [
-      "breakfast",
       "german",
-      "sesame-seed",
-      "weeknight"
+      "bread",
+      "sweet",
+      "rolls"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -22042,6 +22042,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-slow-cooked-australian-lamb-casserole--chinese",
+    "title": "Australian-Style Chinese Lamb Casserole",
+    "tags": [
+      "lamb",
+      "chinese",
+      "casserole",
+      "slow-cooked"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 240,
     "shard": "m"
   }
 ]
