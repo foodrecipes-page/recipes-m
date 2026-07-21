@@ -1,0 +1,102 @@
+{
+  "slug": "mildly-spicy-indian-chickpeas-chana-masala--keto",
+  "title": "Spicy Chana Masala",
+  "description": "A keto twist on the classic Indian dish, made with spicy chana masala and chickpeas.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "chana masala",
+      "amount": "2 tbsp",
+      "notes": "make sure the store-bought version is low-carb"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add chana masala and stir. Cook for 1 minute.",
+    "Add chickpeas and stir to coat with the spice mixture.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-indian-chickpeas-chana-masala--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:00:07.096Z"
+}
