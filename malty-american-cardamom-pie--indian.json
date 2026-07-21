@@ -1,0 +1,66 @@
+{
+  "slug": "malty-american-cardamom-pie--indian",
+  "title": "Cardamom Pie",
+  "description": "A unique dessert that combines the spices of India with the comfort of a traditional pie.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malty Pie Crust",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom Syrup",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "American Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in pie dish.",
+    "In a separate bowl, whisk together cardamom syrup, sugar, and eggs.",
+    "Pour mixture into pie crust.",
+    "Dot top of pie with butter.",
+    "Bake for 45-50 minutes, or until filling is set and crust is golden brown.",
+    "Allow pie to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cardamom-pie",
+    "indian-desserts",
+    "pie-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-american-cardamom-pie--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:03:31.483Z"
+}
