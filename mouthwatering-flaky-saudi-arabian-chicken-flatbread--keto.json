@@ -1,0 +1,96 @@
+{
+  "slug": "mouthwatering-flaky-saudi-arabian-chicken-flatbread--keto",
+  "title": "Saudi Arabian Chicken Shawarma",
+  "description": "A low-carb twist on the classic street food, with marinated chicken and crispy flatbread.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices",
+      "notes": "low-carb or keto-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the chicken breast to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing it thinly.",
+    "Warm the flatbread slices by wrapping them in foil and heating them in the oven at 350°F (175°C) for 5 minutes.",
+    "Assemble the shawarma by slicing the chicken and serving it on the flatbread with your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "middle eastern",
+    "chicken",
+    "flatbread",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-flaky-saudi-arabian-chicken-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:58:58.762Z"
+}
