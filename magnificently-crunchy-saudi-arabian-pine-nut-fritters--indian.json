@@ -1,0 +1,79 @@
+{
+  "slug": "magnificently-crunchy-saudi-arabian-pine-nut-fritters--indian",
+  "title": "Saudi Arabian Pine Nut Fritters",
+  "description": "A crunchy and aromatic Indian-inspired sweet treat, made with pine nuts and a hint of saudi spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pine nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, baking powder, and salt.",
+    "Add pine nuts, sugar, and cardamom powder to the bowl, and mix until well combined.",
+    "Gradually add ghee or vegetable oil to the mixture, and mix until a dough forms.",
+    "Cover the dough and let it rest for 10 minutes.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "Once the oil is hot, shape the dough into small balls and flatten them slightly.",
+    "Fry the fritters in batches until they are golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-crunchy-saudi-arabian-pine-nut-fritters--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:10:07.356Z"
+}
