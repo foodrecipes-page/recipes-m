@@ -21803,5 +21803,44 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "m"
+  },
+  {
+    "slug": "mature-briny-spanish-cheddar-wrap--vegetarian",
+    "title": "Spanish Wrap",
+    "tags": [
+      "spanish",
+      "cheese",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-bitter-malaysian-rice-noodles--indian",
+    "title": "Malaysian Chicken Biryani",
+    "tags": [
+      "chicken",
+      "biryani",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "milktopia-queso--italian",
+    "title": "Milktopia Queso Fritters",
+    "tags": [
+      "italian",
+      "snack",
+      "fritters",
+      "vegan",
+      "italian-inspired"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
+    "shard": "m"
   }
 ]
