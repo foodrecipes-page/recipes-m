@@ -1,0 +1,69 @@
+{
+  "slug": "mascarponey-monsoon-delight--vegetarian",
+  "title": "Monsoon Mascarpone Delight",
+  "description": "A creamy, sweet dessert perfect for warm weather. This recipe combines the richness of mascarpone with the sweetness of monsoon delight.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mascarpone",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Monsoon Delight",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium bowl, whisk together the Mascarpone and Granulated Sugar until smooth.",
+    "Add the Vanilla Extract and whisk until combined.",
+    "In a separate bowl, whip the Heavy Cream until stiff peaks form.",
+    "Fold the whipped cream into the Mascarpone mixture until well combined.",
+    "Stir in the Monsoon Delight and Lemon Zest.",
+    "Pour the mixture into individual serving cups or a large baking dish.",
+    "Bake for 25-30 minutes, or until set.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Serve chilled, garnished with additional Lemon Zest if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "mascarpone",
+    "monsoon-delight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mascarponey-monsoon-delight--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:07:43.674Z"
+}
