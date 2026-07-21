@@ -1,0 +1,93 @@
+{
+  "slug": "mouthwatering-filipino-fish-noodles--thai",
+  "title": "Thai-Style Fish Noodle Soup",
+  "description": "A flavorful and spicy Thai soup made with fish, noodles, and aromatic spices. Serve hot and enjoy!",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish balls",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add lemongrass and galangal and cook for 1 minute.",
+    "Add fish balls and cook until browned.",
+    "Add fish sauce, soy sauce, and sriracha. Stir to combine.",
+    "Add rice noodles and cook until heated through.",
+    "Serve hot, garnished with chopped green onions and lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "noodle",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-filipino-fish-noodles--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:47:57.175Z"
+}
