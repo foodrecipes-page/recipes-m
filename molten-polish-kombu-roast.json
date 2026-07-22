@@ -1,0 +1,91 @@
+{
+  "slug": "molten-polish-kombu-roast",
+  "title": "Smoked Polish Sausage Stew",
+  "description": "A hearty stew made with smoked Polish sausage, kombu, and a hint of roast flavor.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Polish sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 inches",
+      "notes": "dried seaweed"
+    },
+    {
+      "name": "Roast",
+      "amount": "2 tablespoons",
+      "notes": "roast beef broth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chicken broth, kombu, onion, garlic, carrot, and potato.",
+    "Bring to a boil, then reduce heat to medium-low and simmer for 20 minutes.",
+    "Add the smoked Polish sausage and roast to the pot.",
+    "Simmer for an additional 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Remove the kombu before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "sausage",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-polish-kombu-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:30:36.715Z"
+}
