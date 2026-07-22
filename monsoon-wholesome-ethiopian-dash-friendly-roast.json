@@ -1,7 +1,7 @@
 {
   "slug": "monsoon-wholesome-ethiopian-dash-friendly-roast",
   "title": "Ethiopian Roast Chicken",
-  "description": "A flavorful and aromatic roast chicken dish inspired by Ethiopian cuisine, perfect for a special occasion.",
+  "description": "A flavorful and aromatic roasted chicken dish inspired by Ethiopian cuisine. The wholesome spices and friendly herbs add a delightful twist to the classic roasted chicken.",
   "cuisine": "Ethiopian",
   "diet": [
     "gluten-free"
@@ -11,43 +11,50 @@
     {
       "name": "whole chicken",
       "amount": "1",
-      "notes": "4-5 lbs"
-    },
-    {
-      "name": "wholesome olive oil",
-      "amount": "2 tbsp",
-      "notes": null
-    },
-    {
-      "name": "roast spices",
-      "amount": "1 tsp",
-      "notes": "ground cumin, coriander, and paprika"
-    },
-    {
-      "name": "friendly onions",
-      "amount": "1",
-      "notes": "chopped"
+      "notes": "3-4 lbs"
     },
     {
       "name": "dash of salt",
-      "amount": "to taste",
-      "notes": null
+      "amount": "",
+      "notes": "to taste"
     },
     {
-      "name": "monsoon black pepper",
-      "amount": "1/2 tsp",
-      "notes": null
+      "name": "wholesome black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "friendly thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "roast garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "monsoon mustard",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
     }
   ],
   "instructions": [
     "Preheat oven to 425°F (220°C).",
-    "Rinse the chicken and pat it dry with paper towels.",
-    "In a small bowl, mix together the olive oil, roast spices, salt, and black pepper.",
-    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
-    "Stuff the chopped onions inside the chicken cavity.",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a small bowl, mix together salt, black pepper, thyme, and minced garlic.",
+    "Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "If using monsoon mustard, brush it all over the chicken.",
+    "Drizzle olive oil over the chicken and rub it in.",
     "Place the chicken in a roasting pan and put it in the oven.",
-    "Roast the chicken for about 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
-    "Let the chicken rest for 10-15 minutes before carving and serving."
+    "Roast for 45-50 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving.",
+    "Serve hot and enjoy!"
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -56,17 +63,18 @@
   "difficulty": "medium",
   "tags": [
     "ethiopian",
-    "chicken",
-    "roast"
+    "roast-chicken",
+    "whole-chicken",
+    "garlic-roast"
   ],
   "nutrition": {
-    "calories": 540,
-    "protein": 55,
-    "carbs": 6,
-    "fat": 34
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-wholesome-ethiopian-dash-friendly-roast",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T01:39:32.257Z"
+  "createdAt": "2026-07-18T22:40:52.050Z"
 }
