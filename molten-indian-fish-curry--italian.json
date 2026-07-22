@@ -1,0 +1,94 @@
+{
+  "slug": "molten-indian-fish-curry--italian",
+  "title": "Italian Fish Curry",
+  "description": "A fusion of Italian and Indian flavors, this fish curry is a unique and exciting twist on traditional Italian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Cod or Tilapia)",
+      "amount": "4 x 6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Molten",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Indian Curry Leaves",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the fish fillets and cook for 3-4 minutes on each side until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the curry powder, curry leaves, salt, and pepper to the skillet and stir to combine.",
+    "Add the molten and stir well.",
+    "Add the diced tomato to the skillet and stir to combine.",
+    "Return the fish to the skillet and simmer for 2-3 minutes to coat with the curry sauce.",
+    "Sprinkle with cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "indian-cuisine",
+    "fish-curry",
+    "italian-indian-fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-indian-fish-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:29:49.718Z"
+}
