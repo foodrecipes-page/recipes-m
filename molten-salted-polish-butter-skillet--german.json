@@ -1,0 +1,56 @@
+{
+  "slug": "molten-salted-polish-butter-skillet--german",
+  "title": "German Skillet Panzerotti",
+  "description": "A German twist on traditional panzerotti, these skillet-cooked treats are filled with molten cheese and served with a side of salted polish sausage.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "molten mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salted polish sausage",
+      "amount": "4 links"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "skillet",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add butter to the skillet and let it melt.",
+    "Cook the salted polish sausage in the skillet for 2-3 minutes on each side, or until browned.",
+    "Meanwhile, slice the molten mozzarella cheese into 1-inch pieces.",
+    "Once the sausage is cooked, remove it from the skillet and set it aside.",
+    "Add the sliced mozzarella cheese to the skillet and let it melt.",
+    "Return the cooked sausage to the skillet and stir to combine with the melted cheese.",
+    "Serve the German skillet panzerotti hot, garnished with additional salted polish sausage if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sausage",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-salted-polish-butter-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:29:03.945Z"
+}
