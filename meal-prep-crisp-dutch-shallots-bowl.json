@@ -1,0 +1,82 @@
+{
+  "slug": "meal-prep-crisp-dutch-shallots-bowl",
+  "title": "Braised Meal in a Dutch Bowl",
+  "description": "A hearty, comforting meal cooked to perfection in a Dutch oven. This recipe combines tender meal with the sweetness of caramelized shallots.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "meal",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "dutch oven",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "crisp lardons or bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat the lardons or bacon in the Dutch oven over medium heat until crispy. Remove the cooked lardons or bacon from the pot, leaving the grease behind.",
+    "2. Add the sliced shallots to the pot and cook until they're softened and caramelized, stirring occasionally.",
+    "3. Add the meal to the pot and cook until it's browned on all sides, about 5 minutes.",
+    "4. Add the water, salt, and black pepper to the pot. Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "5. Braise the meal in the oven for 2 1/2 to 3 hours, or until it's tender.",
+    "6. Serve the meal hot, garnished with the crispy lardons or bacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "comforting",
+    "braised",
+    "dutch-oven",
+    "meal",
+    "lardons",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 22,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meal-prep-crisp-dutch-shallots-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:55:36.721Z"
+}
