@@ -1,0 +1,78 @@
+{
+  "slug": "malai-bites--keto",
+  "title": "Keto Malai Bites",
+  "description": "Crispy fried bites filled with a creamy malai filling, perfect for a keto diet.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malai",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cheese, grated",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bites",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together almond flour, coconut oil, eggs, and cheese.",
+    "Add the malai to the bowl and mix well.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry the bites until they are golden brown and crispy.",
+    "Remove the bites from the oil and place them on a paper towel-lined plate.",
+    "Sprinkle salt to taste.",
+    "Serve the keto malai bites hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "snack",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malai-bites--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:58:02.399Z"
+}
