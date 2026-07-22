@@ -1,0 +1,69 @@
+{
+  "slug": "magical-flaky-algerian-lamb-tagine--italian",
+  "title": "Algerian Tagine Lamb Ragu",
+  "description": "A fusion of Italian and Algerian flavors, this lamb tagine ragu is served with a side of crusty bread.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "magical",
+      "amount": "2 teaspoons",
+      "notes": "optional, but adds a burst of magic to the dish"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the flaky and sear until it forms a crispy crust.",
+    "Add the lamb and cook until browned on all sides.",
+    "Add the magical, algerian, and tagine. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 1 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the lamb ragu with a side of crusty bread.",
+    "Optional: sprinkle with additional magical for an extra burst of flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "algerian",
+    "lamb",
+    "tagine",
+    "magical"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-flaky-algerian-lamb-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:57:04.800Z"
+}
