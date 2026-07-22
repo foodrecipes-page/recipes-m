@@ -1,0 +1,59 @@
+{
+  "slug": "mighty-crunchy-japanese-nectarines-salad--japanese",
+  "title": "Japanese Nectarine Salad",
+  "description": "A refreshing and light Japanese-inspired salad featuring nectarines as the main ingredient.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "mighty salad",
+      "amount": "1/2 cup",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "toasted sesame seeds"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tbsp",
+      "notes": "soy sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced nectarines and mixed greens.",
+    "Drizzle the soy sauce over the top and toss to coat.",
+    "Sprinkle the toasted sesame seeds over the salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "salad",
+    "nectarine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-crunchy-japanese-nectarines-salad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:53:07.236Z"
+}
