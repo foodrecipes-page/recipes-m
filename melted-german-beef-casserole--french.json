@@ -1,0 +1,90 @@
+{
+  "slug": "melted-german-beef-casserole--french",
+  "title": "French Beef Casserole",
+  "description": "A hearty French-inspired casserole made with tender beef and a rich, flavorful sauce.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and pepper.",
+    "Sear the beef in a hot skillet with melted butter until browned, then set aside.",
+    "Add the onion and mushroom to the skillet and cook until the onion is translucent.",
+    "Add the flour to the skillet and cook for 1 minute.",
+    "Gradually add the red wine and beef broth, whisking constantly.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Return the beef to the skillet and simmer until heated through.",
+    "Transfer the beef and sauce to a baking dish and cover with foil.",
+    "Bake for 20-25 minutes or until the beef is cooked to desired doneness.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-beef-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:44:57.850Z"
+}
