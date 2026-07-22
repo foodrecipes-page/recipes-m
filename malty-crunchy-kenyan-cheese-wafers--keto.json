@@ -1,0 +1,52 @@
+{
+  "slug": "malty-crunchy-kenyan-cheese-wafers--keto",
+  "title": "Crunchy Keto Cheese Bites",
+  "description": "A simple, crunchy snack made with cheese and crunchy ingredients, perfect for keto dieters.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crunchy",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Malts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix together cheese and crushed crunchy ingredients.",
+    "Add malths to the bowl and mix until well combined.",
+    "Spoon the mixture onto a baking sheet and refrigerate for 30 minutes.",
+    "Bake in preheated oven for 15-20 minutes, or until crispy.",
+    "Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "cheese-lovers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-crunchy-kenyan-cheese-wafers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:20:20.930Z"
+}
