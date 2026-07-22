@@ -1,0 +1,65 @@
+{
+  "slug": "mildly-sweet-brazilian-pea-eggplant-toast",
+  "title": "Brazilian Toasted Eggplant",
+  "description": "A flavorful and savory Brazilian-inspired dish featuring toasted eggplant, sweet ingredients, and a hint of mild spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mildly Sweet",
+      "amount": "2 tablespoons honey",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian",
+      "amount": "2 tablespoons olive oil",
+      "notes": "Use Brazilian-style olive oil for authentic flavor"
+    },
+    {
+      "name": "Pea",
+      "amount": "1 cup frozen peas",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "Use crusty bread for best results"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the eggplant into 1/2-inch thick slices.",
+    "Brush both sides of the eggplant slices with olive oil and season with salt and pepper.",
+    "Place the eggplant slices on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "While the eggplant is roasting, toast the bread slices until lightly browned.",
+    "Heat the honey in a small saucepan over low heat until warm and runny.",
+    "To assemble the dish, place a toasted bread slice on a plate, top with a roasted eggplant slice, and drizzle with honey.",
+    "Serve immediately and garnish with frozen peas.",
+    "Repeat with remaining ingredients to serve four."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "honey",
+    "bread",
+    "snack",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-brazilian-pea-eggplant-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:12:51.357Z"
+}
