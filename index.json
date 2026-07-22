@@ -212,16 +212,14 @@
   },
   {
     "slug": "magical-crusty-malaysian-bread-toast",
-    "title": "Magical Crusty Malaysian Bread Toast",
+    "title": "Malaysian Crusty Magical Toast",
     "tags": [
-      "brunch-ideas",
-      "fondue-pot",
-      "fun-food",
-      "malaysian-cuisine",
-      "plant-based"
+      "breakfast",
+      "malaysian",
+      "magical"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
@@ -3927,19 +3925,18 @@
   },
   {
     "slug": "meal-prep-crisp-dutch-shallots-bowl",
-    "title": "Meal-Prep Crisp Dutch Shallots Bowl",
+    "title": "Braised Meal in a Dutch Bowl",
     "tags": [
-      "breakfast",
-      "dinner",
-      "keto",
-      "korean-brass-bowl",
-      "low-carb",
-      "lunch",
-      "meal-prep",
-      "sugar-free"
+      "hearty",
+      "comforting",
+      "braised",
+      "dutch-oven",
+      "meal",
+      "lardons",
+      "bacon"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 165,
     "shard": "m"
   },
   {
@@ -22178,6 +22175,45 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "magical-flaky-algerian-lamb-tagine--italian",
+    "title": "Algerian Tagine Lamb Ragu",
+    "tags": [
+      "italian",
+      "algerian",
+      "lamb",
+      "tagine",
+      "magical"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 105,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-roasted-chewy-egyptian-green-beans-tagine--chinese",
+    "title": "Spicy Chinese Green Beans",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "gluten-free",
+      "green-beans"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-german-beef-casserole--french",
+    "title": "French Beef Casserole",
+    "tags": [
+      "french",
+      "beef",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "m"
   }
 ]
