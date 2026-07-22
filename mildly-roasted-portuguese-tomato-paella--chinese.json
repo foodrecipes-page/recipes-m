@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-roasted-portuguese-tomato-paella--chinese",
+  "title": "Chinese-Style Paella with Tomato and Portuguese Sausage",
+  "description": "A fusion dish that brings together the flavors of Chinese Szechuan cuisine and the bold spices of Spanish paella, featuring roasted Portuguese sausage and fresh tomatoes.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "roasted portuguese sausage",
+      "amount": "1 lb, sliced"
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 large, diced"
+    },
+    {
+      "name": "mildly seasoned rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced Portuguese sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pan and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the pan.",
+    "Add the minced garlic and grated ginger and cook until fragrant, about 1 minute.",
+    "Add the diced tomatoes and cook until they start to break down, about 3-4 minutes.",
+    "Add the Szechuan peppercorns and cook for 1 minute.",
+    "Add the mildly seasoned rice to the pan and stir to coat the rice in the oil and mix with the vegetables.",
+    "Add the soy sauce and oyster sauce (if using) to the pan and stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Add the browned Portuguese sausage back to the pan and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and stir in the sesame oil.",
+    "Serve hot and garnish with chopped scallions (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "paella",
+    "portuguese sausage",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-portuguese-tomato-paella--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:59:20.309Z"
+}
