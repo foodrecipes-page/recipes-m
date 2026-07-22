@@ -1,0 +1,92 @@
+{
+  "slug": "mildly-peppery-filipino-rice-pilaf",
+  "title": "Pilaf with Filipino Flair",
+  "description": "A flavorful pilaf dish infused with the bold flavors of the Philippines, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mildly seasoned rice",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "peppery pilaf spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "filipino seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion, garlic, bell pepper, and tomato. Cook until the vegetables are tender.",
+    "Add the rice to the skillet and stir to combine with the vegetables.",
+    "Add the pilaf spice blend and Filipino seasoning. Stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pilaf",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-filipino-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:20:08.595Z"
+}
