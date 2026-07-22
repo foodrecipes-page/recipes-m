@@ -1,0 +1,74 @@
+{
+  "slug": "massive-meaty-vietnamese-beef-bun-rieu--vegan",
+  "title": "Vegan Vietnamese Beef Noodle Soup",
+  "description": "A plant-based take on the popular Vietnamese dish. Rich, savory, and comforting.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bun",
+      "amount": "200g"
+    },
+    {
+      "name": "Rieu (Mushroom) broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Beef-free 'beef' strips (Tofu or Seitan)",
+      "amount": "200g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the Rieu broth and set aside.",
+    "Heat the vegetable oil in a pan and sauté the onion, garlic, and ginger until softened.",
+    "Add the 'beef' strips and cook until browned.",
+    "Add the soy sauce and maple syrup to the pan and stir to coat the 'beef'.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Add the Rieu broth to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "vegan",
+    "soup",
+    "noodle"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/massive-meaty-vietnamese-beef-bun-rieu--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:10:18.826Z"
+}
