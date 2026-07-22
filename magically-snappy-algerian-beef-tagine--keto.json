@@ -1,0 +1,82 @@
+{
+  "slug": "magically-snappy-algerian-beef-tagine--keto",
+  "title": "Magical Beef Tagine",
+  "description": "A keto-friendly Moroccan-inspired beef stew cooked in a flavorful tagine with snappy vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp",
+      "notes": "cumin powder"
+    },
+    {
+      "name": "magically",
+      "amount": "1 tsp",
+      "notes": "ras el hanout spice blend"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup",
+      "notes": "carrots, cut into 1-inch pieces"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 1 tablespoon of oil over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same pot, add the remaining 1 tablespoon of oil, then add the cumin powder and cook for 1 minute.",
+    "Add the carrots and cook for 5 minutes, or until they start to soften.",
+    "Add the chicken broth, ras el hanout spice blend, salt, and black pepper. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven. Braise for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the beef and carrots hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "paleo",
+    "beef",
+    "stew",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-snappy-algerian-beef-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:18:35.474Z"
+}
