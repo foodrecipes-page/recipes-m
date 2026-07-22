@@ -22152,5 +22152,32 @@
     "cuisine": "vietnamese",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "midnight-cringing-croatian-tomatoes-braise--french",
+    "title": "Braised French Tomatoes",
+    "tags": [
+      "french",
+      "tomatoes",
+      "braised",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "magical-low-cal-mexican-chicken-mole-poblano--thai",
+    "title": "Thai-Style Chicken in Mole Sauce",
+    "tags": [
+      "thai",
+      "low-cal",
+      "mexican",
+      "chicken",
+      "mole"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "m"
   }
 ]
