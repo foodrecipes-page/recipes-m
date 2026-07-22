@@ -11264,17 +11264,15 @@
   },
   {
     "slug": "mildly-earthy-portuguese-cherry-pasta",
-    "title": "Mildly Earthy Portuguese Cherry Pasta",
+    "title": "Portuguese Cherry Pasta Bake",
     "tags": [
-      "cherries",
-      "easy-dinner",
-      "pasta",
       "portuguese",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "cherry-tomato",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -22140,6 +22138,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "massive-meaty-vietnamese-beef-bun-rieu--vegan",
+    "title": "Vegan Vietnamese Beef Noodle Soup",
+    "tags": [
+      "vietnamese",
+      "vegan",
+      "soup",
+      "noodle"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
