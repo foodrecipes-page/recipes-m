@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-earthy-portuguese-cherry-pasta",
+  "title": "Portuguese Cherry Pasta Bake",
+  "description": "A delicious and easy-to-make pasta bake with a portuguese twist, featuring sweet cherry tomatoes and a hint of earthy flavor.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved or quartered"
+    },
+    {
+      "name": "mildly spicy sausage (optional)",
+      "amount": "1 lb",
+      "notes": "such as linguiça or chorizo"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "8 oz",
+      "notes": "such as portobello or cremini"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add sausage (if using) and cook until browned, about 3-4 minutes.",
+    "Add mushrooms and cook until tender, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Stir in cherry tomatoes and cook until they start to release their juices.",
+    "In a large bowl, combine cooked pasta, sausage mixture, and a pinch of salt and pepper.",
+    "Transfer pasta mixture to a baking dish and top with grated parmesan.",
+    "Bake in preheated oven for 15-20 minutes, or until golden brown.",
+    "Garnish with chopped fresh basil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pasta",
+    "cherry-tomato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-earthy-portuguese-cherry-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:33:59.809Z"
+}
