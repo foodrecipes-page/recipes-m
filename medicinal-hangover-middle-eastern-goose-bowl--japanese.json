@@ -1,0 +1,90 @@
+{
+  "slug": "medicinal-hangover-middle-eastern-goose-bowl--japanese",
+  "title": "Goose Udon Noodle Bowl (Hanakara)",
+  "description": "A Japanese-inspired dish originating from the Eastern region, utilizing goose meat and a variety of medicinal herbs to create a soothing, hangover-reducing meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Goose meat",
+      "amount": "250g",
+      "notes": "Cooked to 74°C"
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "200g",
+      "notes": "Boiled al dente"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "Diluted in 2 cups hot water"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 in",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 in",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Medicinal herbs (dried)",
+      "amount": "1 tsp",
+      "notes": "Optional, to aid in hangover relief"
+    },
+    {
+      "name": "Middle eastern spices (dried)",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the goose meat to 74°C.",
+    "Boil the Udon noodles in salted water until al dente.",
+    "Prepare the miso paste by dissolving it in 2 cups of hot water.",
+    "Sear the ginger slices in sesame oil until caramelized.",
+    "Combine cooked goose meat, Udon noodles, miso broth, sesame oil, ginger, and scallions in a bowl.",
+    "Sprinkle chopped green onions and medicinal herbs (if using) over the top.",
+    "Garnish with additional scallions and sesame seeds (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goose",
+    "udon",
+    "noodle",
+    "bowl",
+    "japanese",
+    "eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/medicinal-hangover-middle-eastern-goose-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:17:21.581Z"
+}
