@@ -1,0 +1,89 @@
+{
+  "slug": "magical-low-cal-mexican-chicken-mole-poblano--thai",
+  "title": "Thai-Style Chicken in Mole Sauce",
+  "description": "A fusion twist on traditional Thai cuisine, using a Mexican mole sauce to add depth and richness to chicken and poblano peppers.",
+  "cuisine": "thai",
+  "diet": [
+    "low-cal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "mole sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted and sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-cal oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add mole sauce, coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring mixture to a simmer and cook until sauce has thickened, about 5-7 minutes.",
+    "Stir in roasted poblano peppers and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "low-cal",
+    "mexican",
+    "chicken",
+    "mole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-low-cal-mexican-chicken-mole-poblano--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:51:23.571Z"
+}
