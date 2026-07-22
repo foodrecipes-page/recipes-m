@@ -1,0 +1,72 @@
+{
+  "slug": "mildly-roasted-chewy-egyptian-green-beans-tagine--chinese",
+  "title": "Spicy Chinese Green Beans",
+  "description": "A quick and easy Chinese-inspired dish featuring green beans, onions, and a hint of spice. Perfect as a side or light lunch. Serve immediately to enjoy the best flavor and texture.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mildly roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tablespoons",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook for 2-3 minutes, or until it starts to soften.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the green beans and cook for 3-4 minutes, or until they start to soften.",
+    "Add the tagine, chili flakes, and salt to taste. Stir to combine.",
+    "Continue cooking for another 2-3 minutes, or until the green beans are tender but still crisp.",
+    "Serve immediately, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "gluten-free",
+    "green-beans"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-chewy-egyptian-green-beans-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:27:46.820Z"
+}
