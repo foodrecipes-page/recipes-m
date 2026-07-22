@@ -13707,19 +13707,16 @@
   },
   {
     "slug": "mildly-sweet-brazilian-pea-eggplant-toast",
-    "title": "mildly sweet brazilian pea-eggplant toast",
+    "title": "Brazilian Toasted Eggplant",
     "tags": [
-      "brazilian-cuisine",
-      "breakfast-ideas",
-      "easy-to-make",
-      "eggplant-recipes",
-      "high-protein",
-      "one-pan",
-      "pea-recipes",
-      "weeknight-dinners"
+      "eggplant",
+      "honey",
+      "bread",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 25,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -22227,6 +22224,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-snappy-algerian-beef-tagine--keto",
+    "title": "Magical Beef Tagine",
+    "tags": [
+      "keto",
+      "paleo",
+      "beef",
+      "stew",
+      "moroccan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 165,
     "shard": "m"
   }
 ]
