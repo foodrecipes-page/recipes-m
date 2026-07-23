@@ -1,0 +1,89 @@
+{
+  "slug": "moist-brazilian-fish-tagine--chinese",
+  "title": "Spicy Tagine Fish",
+  "description": "A Chinese-inspired dish that combines the flavors of the tagine with the freshness of fish, all in a moist and flavorful sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": "any white fish, such as cod or tilapia"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "or make your own with cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "Braziliian chili peppers",
+      "amount": "2",
+      "notes": "or any other chili pepper"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": "or honey for a different flavor"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or apple cider vinegar"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "or fish stock for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Heat a skillet over medium heat and add the sliced ginger and minced garlic.",
+    "Cook for 1-2 minutes until fragrant, then add the tagine spice blend and cook for another minute.",
+    "Add the chili peppers and cook for an additional minute.",
+    "Add the soy sauce, brown sugar, and rice vinegar to the skillet and stir to combine.",
+    "Add the fish to the skillet and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until the fish is cooked through.",
+    "Serve the fish with the spicy tagine sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "tagine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-brazilian-fish-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:08:39.827Z"
+}
