@@ -1,0 +1,89 @@
+{
+  "slug": "mildly-sweet-malaysian-fish-satay--french",
+  "title": "Malaysian Inspired Satay Chicken with French Twist",
+  "description": "A French-inspired satay dish with marinated chicken, grilled to perfection and served with a sweet and mildly spicy peanut sauce.",
+  "cuisine": "french",
+  "diet": [
+    null,
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewers"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with soy sauce"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with honey"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "or substitute with cashews"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together fish sauce, ginger, garlic, coriander, brown sugar, and coconut milk.",
+    "Add the chicken to the marinade and coat evenly. Let marinate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat. Thread the marinated chicken onto skewers.",
+    "Grill the chicken for 8-10 minutes per side or until cooked through.",
+    "Meanwhile, blend peanuts into a smooth paste and mix with peanut oil.",
+    "Grill the peanut paste for 2-3 minutes or until fragrant.",
+    "Serve the grilled chicken with peanut sauce and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "malaysian",
+    "grilled",
+    "chicken",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-malaysian-fish-satay--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:16:44.819Z"
+}
