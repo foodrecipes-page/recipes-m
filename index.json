@@ -8966,15 +8966,16 @@
   },
   {
     "slug": "midnight-craving-thai-falafel-crumble",
-    "title": "Midnight Craving Thai Falafel Crumble",
+    "title": "Midnight Falafel Crumble",
     "tags": [
-      "falafel",
-      "thai",
       "midnight",
-      "craving"
+      "snack",
+      "thaifusion",
+      "falafel",
+      "crumble"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 5,
+    "cuisine": "thaifusion",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -22567,6 +22568,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 180,
+    "shard": "m"
+  },
+  {
+    "slug": "marinated-pungent-argentinian-tofu-empanadas--thai",
+    "title": "Spicy Marinated Tofu Empanadas",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "snack",
+      "empanadas",
+      "marinated-tofu"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
