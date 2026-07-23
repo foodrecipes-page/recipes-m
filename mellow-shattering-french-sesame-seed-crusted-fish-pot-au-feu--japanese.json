@@ -1,0 +1,69 @@
+{
+  "slug": "mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu--japanese",
+  "title": "Pan-Seared Japanese Crusted Fish",
+  "description": "A delicate Japanese-inspired dish featuring a crispy sesame crust on a pan-seared fish fillet. Serve with steamed vegetables for a well-rounded meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "6 ounces",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "Toasted in a pan for added flavor"
+    },
+    {
+      "name": "Mellow crusted breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "For added crunch"
+    },
+    {
+      "name": "Shattering ginger",
+      "amount": "1 teaspoon",
+      "notes": "Finely grated for added flavor"
+    },
+    {
+      "name": "French au feu sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional for a richer flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Rinse the fish fillet and pat it dry with paper towels.",
+    "3. In a pan, toast the sesame seeds over medium heat until lightly browned.",
+    "4. In a shallow dish, mix together the sesame seeds, crusted breadcrumbs, and grated ginger.",
+    "5. Dip the fish fillet in the sesame seed mixture, pressing gently to adhere.",
+    "6. Heat a skillet over medium-high heat and add a small amount of oil.",
+    "7. Add the fish fillet and sear for 2-3 minutes on each side.",
+    "8. Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "9. Serve hot with steamed vegetables and a side of French au feu sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "sesame",
+    "crusted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:25:55.369Z"
+}
