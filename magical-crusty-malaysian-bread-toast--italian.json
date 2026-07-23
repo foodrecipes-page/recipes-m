@@ -1,0 +1,66 @@
+{
+  "slug": "magical-crusty-malaysian-bread-toast--italian",
+  "title": "Italian-Style Crusty Bread",
+  "description": "A classic Italian bread made with a crispy crust and soft interior, perfect for dipping in olive oil or sauces.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crusty",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "bread",
+      "amount": "1/2 loaf",
+      "notes": ""
+    },
+    {
+      "name": "magical",
+      "amount": "1 pinch",
+      "notes": "for extra flavor"
+    },
+    {
+      "name": "malaysian",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Slice the crusty bread into 1-inch thick slices.",
+    "3. Place the bread slices on a baking sheet lined with parchment paper.",
+    "4. Drizzle the olive oil over the bread slices.",
+    "5. Sprinkle the magical pinch over the bread.",
+    "6. Add the malaysian spice (if using).",
+    "7. Bake the bread in the preheated oven for 12-15 minutes, or until crispy and golden brown.",
+    "8. Remove the bread from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bread",
+    "snack",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crusty-malaysian-bread-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:28:26.029Z"
+}
