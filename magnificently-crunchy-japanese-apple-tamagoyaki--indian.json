@@ -1,0 +1,73 @@
+{
+  "slug": "magnificently-crunchy-japanese-apple-tamagoyaki--indian",
+  "title": "Indian-Style Tamagoyaki Wrap",
+  "description": "A fusion of Japanese omelette and Indian spices, this wrap is perfect for a quick snack or light lunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tamagoyaki",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Naan bread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "garam masala, cumin, and coriander"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Cook the naan bread for 1-2 minutes on each side, or until it's lightly toasted.",
+    "3. Spread a small amount of Indian spices on each naan bread.",
+    "4. Place a piece of tamagoyaki on each naan bread.",
+    "5. Add sliced cucumber, tomato, and cilantro on top of the tamagoyaki.",
+    "6. Fold the naan bread in half to form a wrap.",
+    "7. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "japanese",
+    "snack",
+    "wrap",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-crunchy-japanese-apple-tamagoyaki--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:42:41.863Z"
+}
