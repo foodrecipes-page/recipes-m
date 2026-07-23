@@ -22379,5 +22379,32 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "m"
+  },
+  {
+    "slug": "mellow-peppery-uruguayan-ikura-bake--keto",
+    "title": "Uruguayan Mellow Steak",
+    "tags": [
+      "keto",
+      "steak",
+      "uruguayan",
+      "mellow",
+      "peppery"
+    ],
+    "cuisine": "South American",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mouthwatering-charred-indian-beef-curry--keto",
+    "title": "Indian Beef Curry",
+    "tags": [
+      "keto",
+      "indian",
+      "beef",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "m"
   }
 ]
