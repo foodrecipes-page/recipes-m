@@ -1,0 +1,82 @@
+{
+  "slug": "malty-dense-ukrainian-paska-bake--thai",
+  "title": "Thai Coconut Paska Bread",
+  "description": "A sweet and fluffy Ukrainian-inspired bread infused with the flavors of Thailand, perfect for breakfast or as a snack.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "malty yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "dense flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "ukrainian paska",
+      "amount": "1 cup",
+      "notes": "ground paska"
+    },
+    {
+      "name": "bake sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "large egg"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted coconut oil"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and warm water. Let it sit for 5 minutes until frothy.",
+    "2. Add flour, paska, sugar, and egg to the bowl. Mix until a sticky dough forms.",
+    "3. Add coconut milk and melted coconut oil to the dough. Mix until well combined.",
+    "4. Knead the dough for 10 minutes until smooth and elastic.",
+    "5. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "6. Preheat the oven to 375°F (190°C).",
+    "7. Punch down the dough and shape it into a round loaf.",
+    "8. Place the loaf on a baking sheet lined with parchment paper.",
+    "9. Bake for 35-40 minutes until golden brown.",
+    "10. Let the bread cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "thai",
+    "ukrainian",
+    "coconut",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-dense-ukrainian-paska-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:22:49.562Z"
+}
