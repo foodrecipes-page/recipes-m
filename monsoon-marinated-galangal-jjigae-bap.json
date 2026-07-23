@@ -1,0 +1,91 @@
+{
+  "slug": "monsoon-marinated-galangal-jjigae-bap",
+  "title": "Galangal and Monsoon Jjigae Bap",
+  "description": "A spicy Korean-inspired dish made with galangal, monsoon sauce, and marinated ingredients, served with a side of crispy bap.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "monsoon sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "marinated bap",
+      "amount": "4 slices",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the grated galangal and cook for 1-2 minutes until fragrant.",
+    "Add the marinated bap slices and cook for 2-3 minutes until crispy.",
+    "Add the monsoon sauce and gochujang, and stir to combine.",
+    "Add the green onions and toasted sesame seeds (if using), and stir to combine.",
+    "Season with soy sauce and rice vinegar (if using) to taste.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "Serve immediately with additional monsoon sauce and green onions on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "galangal",
+    "monsoon-sauce",
+    "jjigae",
+    "bap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-marinated-galangal-jjigae-bap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:44:06.742Z"
+}
