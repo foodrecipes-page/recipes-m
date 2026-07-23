@@ -1,0 +1,74 @@
+{
+  "slug": "mellow-peppery-uruguayan-ikura-bake--keto",
+  "title": "Uruguayan Mellow Steak",
+  "description": "A keto recipe featuring a delicious Uruguayan steak seasoned with mellow and peppery flavors.",
+  "cuisine": "South American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan steak",
+      "amount": "1.5 pounds",
+      "notes": "Ribeye or strip loin"
+    },
+    {
+      "name": "Mellow seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Use a combination of oregano, thyme, and basil"
+    },
+    {
+      "name": "Peppery seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Use black pepper"
+    },
+    {
+      "name": "Bake seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Use paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the steak"
+    },
+    {
+      "name": "Ikura (optional)",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the steak with mellow and peppery seasoning.",
+    "Brush the steak with olive oil.",
+    "Heat a skillet over high heat and sear the steak for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes or until the steak reaches your desired level of doneness.",
+    "Remove the steak from the oven and let it rest for 5 minutes.",
+    "Slice the steak against the grain and serve with bake seasoning sprinkled on top.",
+    "If using ikura, garnish with it on top of the steak."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "steak",
+    "uruguayan",
+    "mellow",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-peppery-uruguayan-ikura-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:20:44.096Z"
+}
