@@ -1,0 +1,88 @@
+{
+  "slug": "marinated-pungent-argentinian-tofu-empanadas--thai",
+  "title": "Spicy Marinated Tofu Empanadas",
+  "description": "A twist on traditional Thai street food, this recipe combines the crunch of empanadas with the spicy flavors of marinated tofu. Perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Marinated Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Empanada Dough",
+      "amount": "1 package (12-15 empanadas)",
+      "notes": "Pre-made empanada dough for convenience"
+    },
+    {
+      "name": "Pungent Thai Chili Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out empanada dough to desired thickness.",
+    "Cut out circles of dough for empanadas.",
+    "Place a small amount of marinated tofu in the center of each dough circle.",
+    "Fold dough over filling and press edges to seal.",
+    "Brush tops with vegetable oil and sprinkle with sesame seeds.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "While empanadas are baking, heat pungent Thai chili paste in a small saucepan over low heat.",
+    "Add soy sauce and honey to the chili paste and stir to combine.",
+    "Once empanadas are done, brush with the spicy sauce and garnish with fresh cilantro.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "snack",
+    "empanadas",
+    "marinated-tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-pungent-argentinian-tofu-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:06:49.745Z"
+}
