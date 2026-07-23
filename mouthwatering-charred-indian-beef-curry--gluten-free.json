@@ -1,0 +1,89 @@
+{
+  "slug": "mouthwatering-charred-indian-beef-curry--gluten-free",
+  "title": "Indian Beef Curry",
+  "description": "A flavorful and aromatic beef curry recipe with a blend of Indian spices, perfect for a gluten-free meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger, and cook until onion is translucent.",
+    "Add beef and cook until browned.",
+    "Add curry powder, cumin powder, and coriander powder, and cook for 1 minute.",
+    "Add tomato puree and coconut milk, and stir well.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let it cook for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with rice or naan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "curry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-charred-indian-beef-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:37:27.655Z"
+}
