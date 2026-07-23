@@ -1,0 +1,95 @@
+{
+  "slug": "mildly-earthy-portuguese-cherry-pasta--mexican",
+  "title": "Mexican Earthy Pasta Bake",
+  "description": "A hearty pasta bake with earthy flavors inspired by Mexican cuisine. This comforting dish is perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mildly earthy mushrooms",
+      "amount": "1 cup",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the mushrooms, cumin, and chili powder to the skillet. Cook for an additional 2-3 minutes, until the mushrooms release their liquid and start to brown.",
+    "Add the cherry tomatoes to the skillet and cook for 2-3 minutes, until they start to release their juices.",
+    "Stir in the cooked pasta, portuguese cheese, salt, and black pepper. Cook for an additional 2-3 minutes, until the cheese is melted and the pasta is well coated.",
+    "Transfer the pasta mixture to a baking dish and top with additional portuguese cheese if desired.",
+    "Bake in the preheated oven for 15-20 minutes, until the top is golden brown and the cheese is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "bake",
+    "mushrooms",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-earthy-portuguese-cherry-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:36:10.616Z"
+}
