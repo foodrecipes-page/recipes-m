@@ -1,0 +1,78 @@
+{
+  "slug": "mouthwatering-greek-lamb-keftedes--mexican",
+  "title": "Lamb Koftas with Greek Feta",
+  "description": "A twist on traditional Mexican street food, these lamb koftas are infused with Greek flavors and topped with creamy feta cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "150g"
+    },
+    {
+      "name": "greek oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "greek feta cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine the ground lamb, Greek yogurt, oregano, garlic, salt, and pepper. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the grill to medium-high heat. Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Grill the koftas for 8-10 minutes, turning occasionally, until they are cooked through and lightly charred.",
+    "Transfer the koftas to a plate and top each one with a dollop of Greek yogurt and a sprinkle of crumbled feta cheese.",
+    "Drizzle with olive oil and lemon juice, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "greek",
+    "lamb",
+    "keftedes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-greek-lamb-keftedes--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:05:09.383Z"
+}
