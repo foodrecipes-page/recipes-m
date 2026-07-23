@@ -1,0 +1,71 @@
+{
+  "slug": "mildly-sweet-brazilian-pea-eggplant-toast--indian",
+  "title": "Sweet Brazilian Eggplant Toast",
+  "description": "A flavorful and spicy eggplant dish inspired by Brazilian cuisine, served with crispy toast for a side.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Brazilian mildly sweet pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Pea",
+      "amount": "100g, fresh"
+    },
+    {
+      "name": "Toast",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the sliced eggplant and mildly sweet pepper, cooking until softened.",
+    "Stir in the peas and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Meanwhile, toast the bread slices until crispy.",
+    "Serve the eggplant mixture over the toasted bread.",
+    "Garnish with additional peas and pepper slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "pepper",
+    "peas",
+    "toast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-brazilian-pea-eggplant-toast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:44:14.573Z"
+}
