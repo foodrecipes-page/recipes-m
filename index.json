@@ -5172,17 +5172,16 @@
   },
   {
     "slug": "mellow-grilled-british-malty-springy-one-pot-agave-leaf-wrapped-british-curry",
-    "title": "Mellow Grilled British Malt Spring One-Pot Agave Leaf Wrapped British Curry",
+    "title": "Classic British Spring Vegetable Mash",
     "tags": [
-      "british",
-      "curry",
-      "flexitarian",
-      "grilled",
-      "one-pot",
-      "weeknight"
+      "mash",
+      "spring-vegetables",
+      "british-cuisine",
+      "side-dish",
+      "vegetarian"
     ],
     "cuisine": "British",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -22579,6 +22578,46 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoked-mexican-poblano-fajitas--thai",
+    "title": "Thai Poblano Fajitas",
+    "tags": [
+      "thai-fusion",
+      "mexican-fusion",
+      "poblano-peppers",
+      "chicken",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mouthwatering-greek-lamb-keftedes--french",
+    "title": "French-Style Lamb Koftas",
+    "tags": [
+      "lamb",
+      "keftedes",
+      "french",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mouthwatering-charred-indian-beef-curry--gluten-free",
+    "title": "Indian Beef Curry",
+    "tags": [
+      "indian",
+      "beef",
+      "curry",
+      "gluten-free"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
