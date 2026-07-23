@@ -1,0 +1,96 @@
+{
+  "slug": "mouthwatering-greek-lamb-keftedes--french",
+  "title": "French-Style Lamb Koftas",
+  "description": "A twist on traditional Greek koftas, this French-inspired dish combines the flavors of lamb with the elegance of French cuisine.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "keftedes",
+      "amount": "1/4 cup",
+      "notes": "optional, for added spice"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Grind lamb in a food processor until it is well ground.",
+    "Add keftedes, milk, onion, garlic, egg, parmesan cheese, parsley, and feta cheese to the food processor. Process until well combined.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Divide the mixture into 8 equal portions and shape each portion into a kofta.",
+    "Place the koftas on a baking sheet lined with parchment paper.",
+    "Bake the koftas for 15-20 minutes, or until they are cooked through and lightly browned on the outside.",
+    "Serve the koftas hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "keftedes",
+    "french",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-greek-lamb-keftedes--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:30:51.522Z"
+}
