@@ -6465,17 +6465,15 @@
   },
   {
     "slug": "mellow-ukrainian-fish-stew",
-    "title": "Mellow Ukrainian Fish Stew",
+    "title": "Hearty Fish Stew",
     "tags": [
-      "easy",
-      "hangover-cure",
-      "low-sugar",
-      "one-pot",
+      "fish",
       "seafood",
-      "tsukbaegi"
+      "stew",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 33,
     "shard": "m"
   },
   {
@@ -6978,18 +6976,16 @@
   },
   {
     "slug": "melted-filipino-cheese-pull-bacon",
-    "title": "Melted Filipino Cheese-Pull Bacon",
+    "title": "Filipino-Style Bacon Cheese Quesadilla",
     "tags": [
       "bacon",
-      "cheese-pull",
-      "comfort-food",
+      "cheese",
       "filipino",
-      "one-pan",
-      "sugar-free-friendly",
-      "weeknight"
+      "melted",
+      "quesadilla"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "cuisine": "filipino",
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -22483,6 +22479,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 110,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-irish-lentil-stew--thai",
+    "title": "Thai-Style Lentil Stew",
+    "tags": [
+      "lentil-stew",
+      "thai-cuisine",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-earthy-portuguese-cherry-pasta--mexican",
+    "title": "Mexican Earthy Pasta Bake",
+    "tags": [
+      "mexican",
+      "pasta",
+      "bake",
+      "mushrooms",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
