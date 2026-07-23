@@ -15420,16 +15420,14 @@
   },
   {
     "slug": "moisture-shattering-thai-egg-omelette",
-    "title": "Moisture-Shattering Thai Egg Omelette",
+    "title": "Thai Omelette",
     "tags": [
-      "breakfast",
-      "coconut",
+      "thai",
       "omelette",
-      "shatter",
-      "thaifood"
+      "breakfast"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 22,
+    "cuisine": "Thai",
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
@@ -22316,6 +22314,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoky-korean-chilli-noodles--mexican",
+    "title": "Spicy Korean Noodle Tacos",
+    "tags": [
+      "korean-mexican",
+      "spicy",
+      "noodle-tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "miso-glazed-chinese-beet-xiaolongbao--japanese",
+    "title": "Pan-Seared Xiaolongbao with Miso-Glazed Beets",
+    "tags": [
+      "xiaolongbao",
+      "miso",
+      "beets",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 65,
     "shard": "m"
   }
 ]
