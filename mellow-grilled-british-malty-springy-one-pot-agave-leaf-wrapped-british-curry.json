@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-grilled-british-malty-springy-one-pot-agave-leaf-wrapped-british-curry",
+  "title": "Classic British Spring Vegetable Mash",
+  "description": "A simple yet delicious mash of spring vegetables, perfect for a light meal or side dish. This dish is a great way to showcase the flavors of the new season.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "springy spring vegetables",
+      "amount": "2 cups, chopped",
+      "notes": "such as carrots, parsnips, and turnips"
+    },
+    {
+      "name": "mellow butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grilled potatoes",
+      "amount": "1 cup, peeled and chopped",
+      "notes": "cooked until tender"
+    },
+    {
+      "name": "one pot of water",
+      "amount": "2 cups",
+      "notes": "for boiling the vegetables"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "1 tablespoon",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "leafy herbs",
+      "amount": "1/4 cup, chopped",
+      "notes": "such as parsley or chives"
+    }
+  ],
+  "instructions": [
+    "1. Boil the chopped spring vegetables in a pot of water until tender.",
+    "2. Drain the water and mash the cooked vegetables with mellow butter until smooth.",
+    "3. Add the grilled potatoes to the mashed vegetables and mix well.",
+    "4. If desired, add a drizzle of agave syrup for sweetness.",
+    "5. Season with salt and pepper to taste.",
+    "6. Garnish with chopped leafy herbs and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mash",
+    "spring-vegetables",
+    "british-cuisine",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-grilled-british-malty-springy-one-pot-agave-leaf-wrapped-british-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:20:44.441Z"
+}
