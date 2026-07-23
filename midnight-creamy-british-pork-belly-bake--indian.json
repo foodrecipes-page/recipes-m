@@ -1,0 +1,96 @@
+{
+  "slug": "midnight-creamy-british-pork-belly-bake--indian",
+  "title": "Indian-Style Pork Belly Curry",
+  "description": "A rich and flavorful Indian-inspired curry made with pork belly, perfect for a special occasion. This recipe combines the tender pork with a blend of Indian spices and creamy coconut milk.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg"
+    },
+    {
+      "name": "midnight black peppercorns",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250 ml"
+    },
+    {
+      "name": "yogurt",
+      "amount": "100 ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a small bowl, mix together the black peppercorns, garam masala, cumin powder, sugar, and salt.",
+    "Rub the spice mixture all over the pork belly, making sure to coat it evenly.",
+    "Heat a large Dutch oven or oven-safe pot over medium heat. Add a couple of tablespoons of oil and sear the pork belly until browned on all sides.",
+    "Remove the pork from the pot and set it aside.",
+    "Add more oil to the pot if needed, then sauté the chopped onion until it's translucent.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Pour in the coconut milk and yogurt, scraping up any browned bits from the bottom of the pot.",
+    "Return the pork belly to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and bake for 2 1/2 hours, or until the pork is tender and caramelized.",
+    "Remove the pot from the oven and let the pork rest for 10-15 minutes before slicing and serving.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding any solids.",
+    "Bring the sauce to a simmer over medium heat and cook until it thickens slightly.",
+    "Serve the pork belly with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "pork",
+    "belly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-creamy-british-pork-belly-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:06:11.044Z"
+}
