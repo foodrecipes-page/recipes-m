@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-smoky-korean-chilli-noodles--mexican",
+  "title": "Spicy Korean Noodle Tacos",
+  "description": "A fusion of Korean and Mexican flavors, these tacos are a unique twist on traditional Korean noodle dishes. Spicy chili flakes and smoky chipotle peppers add depth to this bold and spicy meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mildly spicy chipotle peppers in adobo sauce",
+      "amount": "2"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chipotle peppers and cook for an additional minute.",
+    "Add the noodles to the skillet and stir to combine.",
+    "Add the Korean chili flakes, chilli flakes, soy sauce, and lime juice. Stir to combine.",
+    "Cook for an additional 2-3 minutes or until heated through.",
+    "Sliced red onion and cilantro for garnish.",
+    "Serve the noodles in tacos shells and top with garnishes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-mexican",
+    "spicy",
+    "noodle-tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-korean-chilli-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:07:22.207Z"
+}
