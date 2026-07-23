@@ -22340,5 +22340,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 65,
     "shard": "m"
+  },
+  {
+    "slug": "midnight-melt-vegan-delight--german",
+    "title": "German Vegan Midnight Delight",
+    "tags": [
+      "german",
+      "vegan",
+      "dessert",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-brazilian-fish-tagine--chinese",
+    "title": "Spicy Tagine Fish",
+    "tags": [
+      "chinese",
+      "fish",
+      "tagine",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-chiapan-corn-grilled-elote--italian",
+    "title": "Spicy Elote Italian Corn Fritters",
+    "tags": [
+      "italian",
+      "corn",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "m"
   }
 ]
