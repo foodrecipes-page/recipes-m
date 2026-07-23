@@ -1,0 +1,61 @@
+{
+  "slug": "miso-glazed-chinese-beet-xiaolongbao--japanese",
+  "title": "Pan-Seared Xiaolongbao with Miso-Glazed Beets",
+  "description": "A twist on traditional Japanese steamed buns, served with a flavorful pan-seared xiaolongbao and a sweet miso-glazed beet accompaniment.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xiaolongbao",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "2",
+      "notes": "medium"
+    },
+    {
+      "name": "miso",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "glazed",
+      "amount": "1/4 cup",
+      "notes": "sugar-free"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Wrap the beets in foil and roast for 45 minutes, or until tender.",
+    "3. Meanwhile, pan-fry the xiaolongbao in a little oil until golden brown, about 3-4 minutes per side.",
+    "4. In a small saucepan, combine the miso and glazed. Heat over low heat, whisking until smooth.",
+    "5. To serve, place a pan-seared xiaolongbao on each plate, and top with a roasted beet half and a drizzle of the miso glaze.",
+    "6. Garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "xiaolongbao",
+    "miso",
+    "beets",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-glazed-chinese-beet-xiaolongbao--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:28:55.692Z"
+}
