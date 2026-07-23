@@ -1,0 +1,54 @@
+{
+  "slug": "midnight-uruguayan-apricot-jam-toast--italian",
+  "title": "Apricot Midnight Toast",
+  "description": "A simple Italian-inspired toast recipe topped with sweet apricot jam and midnight cheese. Perfect for a light snack.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Midnight cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Uruguayan cheese (optional)",
+      "amount": "1/4 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your toaster or toaster oven to 350°F (180°C).",
+    "2. Toast the bread until it is lightly browned.",
+    "3. Spread 1 tablespoon of apricot jam on each toast slice.",
+    "4. Top the jam with crumbled midnight cheese.",
+    "5. If desired, add crumbled uruguayan cheese on top of the midnight cheese.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-uruguayan-apricot-jam-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:15:40.564Z"
+}
