@@ -1,0 +1,100 @@
+{
+  "slug": "meaty-springy-moroccan-shungiku-bissara--german",
+  "title": "German-Style Meatball and Spring Onion Schnitzel",
+  "description": "A hearty German-inspired dish featuring meatballs and crispy spring onion schnitzel, flavored with moroccan spices.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "meaty",
+      "amount": "250g",
+      "notes": "ground beef"
+    },
+    {
+      "name": "springy",
+      "amount": "2",
+      "notes": "spring onions, thinly sliced"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, paprika"
+    },
+    {
+      "name": "shungiku",
+      "amount": "2 tbsp",
+      "notes": " chopped scallions"
+    },
+    {
+      "name": "bissara",
+      "amount": "1 cup",
+      "notes": "chickpea flour for coating"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "for meatball binder"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating schnitzel"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating schnitzel"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Combine ground meat, cumin, coriander, paprika, salt, and pepper in a bowl. Mix well with your hands.",
+    "Add chopped scallions and eggs to the bowl and mix until just combined.",
+    "Form into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place on a baking sheet lined with parchment paper.",
+    "Bake in the oven for 12-15 minutes, or until cooked through.",
+    "Meanwhile, prepare the schnitzel by dredging thinly sliced spring onions in flour, shaking off excess.",
+    "Dip the floured onions in beaten eggs and then coat in panko breadcrumbs.",
+    "Heat butter in a large skillet over medium-high heat. Fry the coated onions until golden brown and crispy, about 3-4 minutes per side.",
+    "Serve the meatballs with the crispy spring onion schnitzel and enjoy!",
+    "Garnish with chopped scallions and serve with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "meatballs",
+    "schnitzel",
+    "spring-onions"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meaty-springy-moroccan-shungiku-bissara--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:58:48.780Z"
+}
