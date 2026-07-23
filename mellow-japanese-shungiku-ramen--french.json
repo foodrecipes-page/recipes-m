@@ -1,0 +1,81 @@
+{
+  "slug": "mellow-japanese-shungiku-ramen--french",
+  "title": "Mellow and Shungiku French Ramen",
+  "description": "A unique French-inspired take on a traditional Japanese ramen dish, featuring mellow and shungiku.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mellow",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Ramen Noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Shungiku",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the garlic and ginger and sauté until fragrant.",
+    "Add the mellow and shungiku and cook until tender.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the Japanese ramen noodles and cook until al dente.",
+    "Season with soy sauce to taste.",
+    "Serve hot, garnished with additional shungiku if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "ramen"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-shungiku-ramen--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:42:57.138Z"
+}
