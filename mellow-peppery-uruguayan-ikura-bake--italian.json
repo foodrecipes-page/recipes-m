@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-peppery-uruguayan-ikura-bake--italian",
+  "title": "Uruguayan-Style Grilled Steak with Ikura Glaze",
+  "description": "A flavorful and tender Uruguayan-style grilled steak dish, topped with a spicy ikura glaze, making it a perfect Italian-inspired dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan steak",
+      "amount": "1.5 lbs",
+      "notes": "Choose a high-quality, grass-fed Uruguayan steak"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/4 cup",
+      "notes": "Look for high-quality, sustainable ikura"
+    },
+    {
+      "name": "Mellow olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Peppery salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bake garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the Uruguayan steak with peppery salt and bake garlic powder.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "Meanwhile, mix ikura with mellow olive oil in a small bowl.",
+    "Once the steak is cooked, brush the ikura glaze all over the top of the steak.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "Slice the steak against the grain and garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "steak",
+    "gluten-free",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-peppery-uruguayan-ikura-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:49:23.973Z"
+}
