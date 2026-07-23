@@ -1,0 +1,63 @@
+{
+  "slug": "melted-filipino-cheese-pull-bacon",
+  "title": "Filipino-Style Bacon Cheese Quesadilla",
+  "description": "A twist on the classic quesadilla, this recipe combines the savory flavors of Filipino cuisine with the comfort of melted cheese and crispy bacon.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Melted cheese",
+      "amount": "1 cup shredded cheddar"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded mozzarella"
+    },
+    {
+      "name": "Pull",
+      "amount": "1 package of large flour tortillas"
+    },
+    {
+      "name": "Filipino",
+      "amount": "1 tablespoon of patis (fish sauce)"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Cook the bacon until crispy. Set aside.",
+    "In the same skillet, add the patis and cook for 1 minute.",
+    "Place a large flour tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add a few slices of crispy bacon on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "cheese",
+    "filipino",
+    "melted",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-filipino-cheese-pull-bacon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:20:45.989Z"
+}
