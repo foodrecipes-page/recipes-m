@@ -1,0 +1,81 @@
+{
+  "slug": "mildly-spicy-chiapan-corn-grilled-elote--italian",
+  "title": "Spicy Elote Italian Corn Fritters",
+  "description": "A twist on traditional corn fritters with the addition of spicy elote, making it a unique italian dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Mildly Spicy Elote",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine corn, elote, flour, egg, parmesan cheese, salt, and black pepper. Mix well.",
+    "Add breadcrumbs and mix until just combined.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the corn mixture into the oil and flatten slightly.",
+    "Fry the fritters for about 3-4 minutes on each side, or until golden brown and crispy.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "corn",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-chiapan-corn-grilled-elote--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:20:30.944Z"
+}
