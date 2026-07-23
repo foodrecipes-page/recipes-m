@@ -1,0 +1,73 @@
+{
+  "slug": "magical-crispy-moroccan-sea-bass-briouat",
+  "title": "Briouat with Crispy Sea Bass",
+  "description": "A Moroccan-inspired dish featuring crispy sea bass and sweet briouat pastry, perfect for a light dinner.",
+  "cuisine": "moroccan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "briouat pastry",
+      "amount": "1 package",
+      "notes": "Available in most middle eastern grocery stores"
+    },
+    {
+      "name": "crispy oil",
+      "amount": "1/2 cup",
+      "notes": "Use a neutral-tasting oil for frying"
+    },
+    {
+      "name": "magical paprika",
+      "amount": "2 tsp",
+      "notes": "Add a pinch of magic to your dish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground pepper for best flavor"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "Serve with a squeeze of fresh lemon juice"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the sea bass fillets with salt, pepper, and magical paprika.",
+    "Heat the crispy oil in a large skillet over medium-high heat.",
+    "Add the sea bass fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the sea bass to a baking sheet and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, bake the briouat pastry according to package instructions.",
+    "Serve the crispy sea bass on top of the warm briouat pastry with a squeeze of fresh lemon juice.",
+    "Garnish with additional paprika, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "seafood",
+    "easy dinner",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crispy-moroccan-sea-bass-briouat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:58:21.475Z"
+}
