@@ -1,0 +1,99 @@
+{
+  "slug": "meat-infused-korean-ground-beef-bowl",
+  "title": "Korean Beef Bowl",
+  "description": "A flavorful and spicy Korean-inspired beef bowl with marinated beef, kimchi, and a fried egg.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (ground)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the beef, Korean chili flakes, brown sugar, gochujang, soy sauce, rice vinegar, and garlic. Mix well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the beef to marinate.",
+    "Heat a large skillet or wok over medium-high heat.",
+    "Remove the beef from the marinade and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the kimchi to the skillet and cook until it starts to caramelize.",
+    "Push the kimchi to one side of the skillet.",
+    "Crack an egg into the other side of the skillet and cook until the whites are set and the yolks are cooked to your desired doneness.",
+    "Serve the beef and kimchi over cooked white rice in a bowl.",
+    "Top with a fried egg and garnish with green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "beef",
+    "bowl",
+    "spicy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meat-infused-korean-ground-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:11:06.137Z"
+}
