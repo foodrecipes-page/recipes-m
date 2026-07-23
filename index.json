@@ -17129,16 +17129,17 @@
   },
   {
     "slug": "monsoon-marinated-galangal-jjigae-bap",
-    "title": "Monsoon Marinated Galangal Jjigae Bap",
+    "title": "Galangal and Monsoon Jjigae Bap",
     "tags": [
-      "high-protein",
       "korean",
-      "one-pan",
       "spicy",
-      "weeknight"
+      "galangal",
+      "monsoon-sauce",
+      "jjigae",
+      "bap"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -22302,6 +22303,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "magical-crusty-malaysian-bread-toast--italian",
+    "title": "Italian-Style Crusty Bread",
+    "tags": [
+      "italian",
+      "bread",
+      "snack",
+      "easy-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "m"
   }
 ]
