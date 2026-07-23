@@ -1,0 +1,96 @@
+{
+  "slug": "magnificently-slow-cooked-australian-lamb-casserole--italian",
+  "title": "Classic Italian Lamb Casserole",
+  "description": "A hearty, slow-cooked lamb casserole with an Italian twist. Perfect for a chilly evening.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Lamb Shoulder",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "Season the lamb with salt, black pepper, and Italian seasoning.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, then set aside.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the mushrooms and cook until they release their moisture.",
+    "Add the canned tomatoes, white wine, and browned lamb back to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 hours or until it's tender and falls apart easily.",
+    "Serve the lamb casserole hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "casserole",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-slow-cooked-australian-lamb-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:19:23.696Z"
+}
