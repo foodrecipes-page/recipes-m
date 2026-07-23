@@ -141,17 +141,15 @@
   },
   {
     "slug": "magical-crispy-moroccan-sea-bass-briouat",
-    "title": "Magical Crispy Moroccan Sea Bass Briouat",
+    "title": "Briouat with Crispy Sea Bass",
     "tags": [
-      "baked",
-      "crispy",
-      "gluten-free",
-      "moroccan-cuisine",
-      "pescatarian",
-      "seafood"
+      "moroccan",
+      "seafood",
+      "easy dinner",
+      "crispy"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 34,
+    "cuisine": "moroccan",
+    "totalTimeMin": 27,
     "shard": "m"
   },
   {
@@ -22263,6 +22261,47 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-crunchy-japanese-apple-tamagoyaki--indian",
+    "title": "Indian-Style Tamagoyaki Wrap",
+    "tags": [
+      "indian",
+      "japanese",
+      "snack",
+      "wrap",
+      "fusion"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sweet-malaysian-fish-satay--french",
+    "title": "Malaysian Inspired Satay Chicken with French Twist",
+    "tags": [
+      "french",
+      "malaysian",
+      "grilled",
+      "chicken",
+      "peanut-sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-shattering-french-sesame-seed-crusted-fish-pot-au-feu--japanese",
+    "title": "Pan-Seared Japanese Crusted Fish",
+    "tags": [
+      "japanese",
+      "fish",
+      "sesame",
+      "crusted"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
