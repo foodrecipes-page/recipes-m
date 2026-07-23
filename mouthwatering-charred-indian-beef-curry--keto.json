@@ -1,0 +1,90 @@
+{
+  "slug": "mouthwatering-charred-indian-beef-curry--keto",
+  "title": "Indian Beef Curry",
+  "description": "A flavorful and spicy beef curry dish inspired by Indian cuisine. Perfect for a keto diet.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Indian Curry Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium-high heat.",
+    "Add the diced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the tomato paste and beef broth and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the heavy cream and cook for another 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over cauliflower rice or with a side of naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "beef",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-charred-indian-beef-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:25:32.663Z"
+}
