@@ -1,0 +1,90 @@
+{
+  "slug": "mildly-spicy-spanish-chicken-roast",
+  "title": "Spanish Chicken Roast",
+  "description": "A flavorful and spicy chicken roast with a Spanish twist, perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 whole chicken (3 lbs)",
+      "amount": "3 lbs",
+      "notes": "remove giblets and rinse"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "2 tsp smoked paprika",
+      "amount": "2 tsp",
+      "notes": "add smoky flavor"
+    },
+    {
+      "name": "1 tsp garlic powder",
+      "amount": "1 tsp",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "1 tsp onion powder",
+      "amount": "1 tsp",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "1/4 cup chopped fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a small bowl, mix together olive oil, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+    "Garnish with chopped parsley and oregano."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "roast",
+    "dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 2,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-spanish-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:13:07.820Z"
+}
