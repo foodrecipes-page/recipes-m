@@ -1,0 +1,95 @@
+{
+  "slug": "melted-nutty-tunisian-meal-tagine",
+  "title": "North African Chicken Tagine",
+  "description": "A flavorful and aromatic dish from Tunisia, the country of origin for the tagine, a slow-cooked stew typically cooked in a clay pot with a conical lid.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the cumin and coriander and cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, honey, and almonds to the tagine.",
+    "Bring the mixture to a boil, then cover the tagine and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 45-50 minutes, or until the chicken is cooked through and the sauce is thickened.",
+    "Garnish with parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "tagine",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-nutty-tunisian-meal-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:10:39.279Z"
+}
