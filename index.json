@@ -555,17 +555,15 @@
   },
   {
     "slug": "magical-norwegian-cocoa-brownies",
-    "title": "Magical Norwegian Cocoa Brownies",
+    "title": "Norwegian Magical Brownies",
     "tags": [
-      "air-fryer-recipes",
-      "cataplana-recipes",
-      "cocoa-powder-recipes",
-      "egg-free-baking",
-      "norwegian-desserts",
-      "vegetarian-desserts"
+      "dessert",
+      "brownies",
+      "magical",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -7466,17 +7464,15 @@
   },
   {
     "slug": "melted-nutty-tunisian-meal-tagine",
-    "title": "Spiced Nutty Tunisian Tagine",
+    "title": "North African Chicken Tagine",
     "tags": [
-      "egg-free",
-      "gluten-free",
-      "high-protein",
-      "nutty",
-      "one-pan",
-      "weeknight"
+      "north-african",
+      "chicken",
+      "tagine",
+      "tunisian"
     ],
-    "cuisine": "North African",
-    "totalTimeMin": 45,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 65,
     "shard": "m"
   },
   {
@@ -22506,6 +22502,71 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-uruguayan-apricot-jam-toast--italian",
+    "title": "Apricot Midnight Toast",
+    "tags": [
+      "italian",
+      "snack",
+      "breakfast"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 5,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-slow-cooked-australian-lamb-casserole--italian",
+    "title": "Classic Italian Lamb Casserole",
+    "tags": [
+      "italian",
+      "lamb",
+      "casserole",
+      "slow-cooked"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 150,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sweet-brazilian-pea-eggplant-toast--indian",
+    "title": "Sweet Brazilian Eggplant Toast",
+    "tags": [
+      "eggplant",
+      "pepper",
+      "peas",
+      "toast",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-peppery-uruguayan-ikura-bake--italian",
+    "title": "Uruguayan-Style Grilled Steak with Ikura Glaze",
+    "tags": [
+      "italian",
+      "steak",
+      "gluten-free",
+      "grill"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-creamy-british-pork-belly-bake--indian",
+    "title": "Indian-Style Pork Belly Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "pork",
+      "belly"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 180,
     "shard": "m"
   }
 ]
