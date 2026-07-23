@@ -1,0 +1,75 @@
+{
+  "slug": "midnight-melt-vegan-delight--german",
+  "title": "German Vegan Midnight Delight",
+  "description": "A rich and creamy German-inspired dessert made with midnight oats and a touch of delight. Perfect for a comforting treat after a long day.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "midnight oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the non-dairy milk to a simmer over medium heat.",
+    "Add the maple syrup, vanilla extract, and salt. Stir to combine.",
+    "Reduce the heat to low and add the midnight oats. Cook, stirring constantly, for 5-7 minutes or until the oats have absorbed most of the liquid and have a creamy consistency.",
+    "Remove the saucepan from the heat and stir in the coconut oil until melted and well combined.",
+    "Transfer the mixture to a serving dish or individual ramekins.",
+    "Top with chopped almonds and dried cranberries.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegan",
+    "dessert",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-melt-vegan-delight--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:54:00.078Z"
+}
