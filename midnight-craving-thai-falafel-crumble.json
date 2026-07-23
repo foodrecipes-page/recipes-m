@@ -1,0 +1,82 @@
+{
+  "slug": "midnight-craving-thai-falafel-crumble",
+  "title": "Midnight Falafel Crumble",
+  "description": "A twist on the classic falafel, crumbled and seasoned to perfection for a midnight snack.",
+  "cuisine": "thaifusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "falafel mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine chickpeas, onion, garlic, falafel mix, paprika, and salt.",
+    "Mix well and mash slightly with a fork to create a crumbly texture.",
+    "Heat coconut oil in a non-stick skillet over medium heat.",
+    "Using a spoon, drop small balls of the falafel mixture into the skillet.",
+    "Cook for 3-4 minutes on each side, until golden brown.",
+    "Transfer the falafel to a baking sheet and bake for 10-12 minutes.",
+    "While the falafel is baking, mix the crumble with a pinch of salt.",
+    "Once the falafel is done, remove from the oven and sprinkle with crumble.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight",
+    "snack",
+    "thaifusion",
+    "falafel",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-thai-falafel-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:24:55.542Z"
+}
