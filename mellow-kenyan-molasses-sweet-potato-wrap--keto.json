@@ -1,0 +1,69 @@
+{
+  "slug": "mellow-kenyan-molasses-sweet-potato-wrap--keto",
+  "title": "Sweet Potato Keto Wrap",
+  "description": "A delicious keto wrap made with sweet potatoes and low-carb ingredients.",
+  "cuisine": "keto",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "baked"
+    },
+    {
+      "name": "mellow",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 low-carb",
+      "notes": "make sure it's keto-friendly"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1/4 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "molasses",
+      "amount": "1 tsp",
+      "notes": "optional, for sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke some holes in the sweet potatoes and bake for 45-60 minutes, or until tender.",
+    "Slice the sweet potatoes in half and let them cool for a few minutes.",
+    "In a small bowl, mix together the mellow and kenyan.",
+    "Spoon the mellow-kenyan mixture onto the center of the wrap.",
+    "Place the sweet potatoes on top of the mixture.",
+    "Drizzle with molasses, if using.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "sweet-potatoes",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-kenyan-molasses-sweet-potato-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:09:25.046Z"
+}
