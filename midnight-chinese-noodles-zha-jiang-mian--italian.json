@@ -1,0 +1,87 @@
+{
+  "slug": "midnight-chinese-noodles-zha-jiang-mian--italian",
+  "title": "Midnight Chinese Noodles",
+  "description": "A creative Italian-inspired take on traditional Chinese noodles, featuring midnight black squid ink noodles, savory zhajiang sauce, and crispy sesame seeds.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "midnight black squid ink noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "zhajiang sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chinese jiang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mian noodles",
+      "amount": "4 oz"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the midnight black squid ink noodles according to package instructions until al dente.",
+    "In a pan, heat the peanut oil over medium heat and add the minced garlic. Cook for 1-2 minutes until fragrant.",
+    "Add the zhajiang sauce and chinese jiang to the pan and stir to combine. Cook for an additional 2-3 minutes.",
+    "Add the mian noodles to the pan and stir to combine with the sauce. Cook for 2-3 minutes.",
+    "Serve the noodles hot, garnished with sesame seeds, green onions, and a drizzle of soy sauce and sugar.",
+    "To make the zhajiang sauce, combine the zhajiang sauce ingredients in a bowl and stir to combine.",
+    "To make the chinese jiang, combine the chinese jiang ingredients in a bowl and stir to combine.",
+    "To toast the sesame seeds, heat a pan over low heat and add the sesame seeds. Cook, stirring frequently, until fragrant and lightly browned.",
+    "To chop the green onions, thinly slice the green onions and chop into small pieces.",
+    "To mince the garlic, peel the garlic cloves and chop into small pieces.",
+    "To cook the noodles, bring a large pot of salted water to a boil and cook the noodles according to package instructions.",
+    "To cook the sauce, heat a pan over medium heat and add the sauce ingredients. Cook, stirring frequently, until the sauce thickens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chinese",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chinese-noodles-zha-jiang-mian--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:44:30.527Z"
+}
