@@ -1,0 +1,66 @@
+{
+  "slug": "molten-dutch-brussels-sprouts-casserole",
+  "title": "Roasted Brussels Sprouts and Sprouts Casserole",
+  "description": "A hearty, comforting casserole filled with roasted Brussels sprouts, topped with a crispy sprouts crust.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch casserole dish",
+      "amount": "1"
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Molten sprouts",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss Brussels sprouts with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes or until tender.",
+    "Mix molten sprouts with roasted Brussels sprouts.",
+    "Transfer the mixture to a Dutch casserole dish.",
+    "Bake for an additional 10-15 minutes or until the top is golden brown.",
+    "Meanwhile, toast some sprouts in a pan until crispy.",
+    "Top the casserole with the crispy sprouts before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brussels sprouts",
+    "casserole",
+    "roasted"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-dutch-brussels-sprouts-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:52:01.515Z"
+}
