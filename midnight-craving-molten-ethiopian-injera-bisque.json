@@ -1,0 +1,91 @@
+{
+  "slug": "midnight-craving-molten-ethiopian-injera-bisque",
+  "title": "Midnight Injera with Spicy Ethiopian Molten Bisque",
+  "description": "A warm, comforting Ethiopian-inspired meal for a late-night craving. Soft injera bread served with a spicy, rich molten bisque.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "injera",
+      "amount": "1 piece"
+    },
+    {
+      "name": "canellini beans",
+      "amount": "1 cup cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, puree the canellini beans, red onion, ginger, garlic, cumin, paprika, and cayenne pepper (if using).",
+    "Heat the oil in a medium saucepan over medium heat. Add the tomato paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the bean mixture and chicken broth to the saucepan. Bring to a simmer.",
+    "Reduce the heat to low and let the bisque simmer for 10-15 minutes or until heated through.",
+    "Meanwhile, toast the injera bread in the oven for 2-3 minutes or until lightly browned.",
+    "Serve the warm molten bisque with the toasted injera bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "moltensoup",
+    "injera",
+    "veganoption"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-molten-ethiopian-injera-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:16:38.150Z"
+}
