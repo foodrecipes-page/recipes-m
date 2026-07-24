@@ -8759,16 +8759,15 @@
   },
   {
     "slug": "midnight-craving-molten-ethiopian-injera-bisque",
-    "title": "midnight craving molten ethiopian injera bisque",
+    "title": "Midnight Injera with Spicy Ethiopian Molten Bisque",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "veg-friendly",
-      "weeknight"
+      "ethiopian",
+      "moltensoup",
+      "injera",
+      "veganoption"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 25,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -22719,6 +22718,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-chewy-mediterranean-enchilada-sauce-quesadilla--mexican",
+    "title": "Cheesy Quesadilla Fiesta",
+    "tags": [
+      "mexican-cuisine",
+      "cheesy-quesadillas",
+      "quick-and-easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "m"
   }
 ]
