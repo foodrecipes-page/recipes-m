@@ -22782,5 +22782,46 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-chiapan-corn-grilled-elote--mexican",
+    "title": "Spicy Grilled Elote",
+    "tags": [
+      "mexican",
+      "corn",
+      "grilled",
+      "elote",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-chinese-noodles-zha-jiang-mian--italian",
+    "title": "Midnight Chinese Noodles",
+    "tags": [
+      "italian",
+      "chinese",
+      "noodles",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoky-egyptian-black-bean-stew--italian",
+    "title": "Smoky Black Bean Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "black-beans",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
