@@ -1,0 +1,68 @@
+{
+  "slug": "malty-pillowy-argentinian-ikura-empanadas--vegetarian",
+  "title": "Argentinian Empanada Breakfast",
+  "description": "A vegetarian twist on the traditional Argentinian empanada, served as a breakfast dish. Flaky pastry filled with pillowy scrambled eggs, ikura and malty cheese.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Argentinian empanadas",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pillowy eggs",
+      "amount": "6",
+      "notes": "scrambled"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/4 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "Malty cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, such as cheddar or mozzarella"
+    },
+    {
+      "name": "Salsa criolla",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "If using homemade empanada dough, roll out to 1/4 inch thickness.",
+    "Cut out circles of dough for the empanadas.",
+    "Place a spoonful of scrambled eggs in the center of each dough circle.",
+    "Add a spoonful of ikura and shredded cheese on top of the eggs.",
+    "Fold the dough in half to form a half-circle shape, pressing the edges to seal.",
+    "Brush the tops with egg wash and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with salsa criolla, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "argentinian",
+    "empanada",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-pillowy-argentinian-ikura-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:55:57.175Z"
+}
