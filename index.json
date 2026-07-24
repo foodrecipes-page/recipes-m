@@ -10479,13 +10479,11 @@
   },
   {
     "slug": "mild-malaysian-tempeh-salad",
-    "title": "Mild Malaysian Tempeh Salad",
+    "title": "Malaysian Tempeh Salad",
     "tags": [
-      "low-carb",
-      "post-workout",
-      "quick",
-      "shojin-friendly",
-      "vegetarian"
+      "vegetarian",
+      "salad",
+      "malaysian"
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 25,
@@ -22768,6 +22766,21 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-crumbly-mediterranean-phyllo-dough-baklava--thai",
+    "title": "Thai Crispy Phyllo Bites",
+    "tags": [
+      "thai",
+      "snack",
+      "appetizer",
+      "phyllo",
+      "mediterranean",
+      "crispy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
     "shard": "m"
   }
 ]
