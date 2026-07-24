@@ -1,0 +1,56 @@
+{
+  "slug": "mustardy-crumbly-mediterranean-phyllo-dough-baklava--thai",
+  "title": "Thai Crispy Phyllo Bites",
+  "description": "Crunchy and savory bites filled with a flavorful Thai-inspired filling, perfect as an appetizer or snack.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (usually 20 sheets)"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 cup, crumbled",
+      "notes": "feta or parmesan work well"
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tbsp, mixed with 1 tbsp olive oil",
+      "notes": "can use store-bought mustards for convenience"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/4 cup, chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "Cut phyllo into 1-inch squares.",
+    "In a small bowl, mix together mediterranean, mustardy, and crumbly.",
+    "Place a small spoonful of the mediterranean mixture onto the center of each phyllo square.",
+    "Fold the phyllo squares into triangles or other desired shapes, pressing edges to seal.",
+    "Brush the tops with olive oil and place on a baking sheet.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "appetizer",
+    "phyllo",
+    "mediterranean",
+    "crispy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crumbly-mediterranean-phyllo-dough-baklava--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:28:41.036Z"
+}
