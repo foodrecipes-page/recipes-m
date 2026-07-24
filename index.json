@@ -22655,5 +22655,45 @@
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "molten-algerian-cocoa-tart--keto",
+    "title": "Keto Algerian Tart",
+    "tags": [
+      "keto",
+      "dessert",
+      "chocolate"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "monsoon-malty-australian-malai-nigiri--french",
+    "title": "French Nigiri Malt Crust Tarts",
+    "tags": [
+      "french",
+      "dessert",
+      "pastry",
+      "nigiri",
+      "tarts"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-served-basque-french-tofu-gratin--chinese",
+    "title": "Kung Pao Tofu",
+    "tags": [
+      "chinese",
+      "tofu",
+      "stir-fry",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "m"
   }
 ]
