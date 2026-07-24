@@ -1,0 +1,80 @@
+{
+  "slug": "molten-served-basque-french-tofu-gratin--chinese",
+  "title": "Kung Pao Tofu",
+  "description": "A spicy Sichuan-inspired stir-fry made with crispy tofu, peanuts, and vegetables. This classic Chinese dish is quick and easy to make.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "basque",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "french",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gratin",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of french in a wok or large skillet over medium-high heat.",
+    "2. Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "3. Remove the tofu from the wok and set aside.",
+    "4. Add the peanuts, basque, and gratin to the wok. Cook for 1-2 minutes, until the peanuts are fragrant.",
+    "5. Add the scallions and garlic to the wok. Cook for 1 minute, until the scallions are softened.",
+    "6. Return the tofu to the wok and stir in the peanuts and scallions.",
+    "7. Cook for 1-2 minutes, until the ingredients are well combined.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve immediately and garnish with additional peanuts and scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "tofu",
+    "stir-fry",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-served-basque-french-tofu-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:40:19.409Z"
+}
