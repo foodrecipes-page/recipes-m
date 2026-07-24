@@ -1,0 +1,95 @@
+{
+  "slug": "mildly-smoky-egyptian-black-bean-stew--italian",
+  "title": "Smoky Black Bean Stew",
+  "description": "A hearty Italian-inspired stew featuring smoky black beans, mildly seasoned with herbs and spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black bean, canned",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mild tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and carrot, cook until tender, about 5 minutes.",
+    "Add garlic, cook for 1 minute.",
+    "Add smoked paprika and oregano, cook for 1 minute.",
+    "Add tomato sauce and black beans, stir to combine.",
+    "Bring to a simmer, cook for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "stew",
+    "black-beans",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-black-bean-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:58:44.359Z"
+}
