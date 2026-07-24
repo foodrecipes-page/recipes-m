@@ -22731,5 +22731,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 15,
     "shard": "m"
+  },
+  {
+    "slug": "midnight-chinese-noodles-zha-jiang-mian--german",
+    "title": "Spätzle Noodle Stir Fry",
+    "tags": [
+      "german",
+      "stir-fry",
+      "spätzle"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-pungent-kenyan-eggs-frittata--italian",
+    "title": "Kenyan Italian Frittata",
+    "tags": [
+      "italian",
+      "kenyan",
+      "breakfast",
+      "frittata",
+      "eggs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
   }
 ]
