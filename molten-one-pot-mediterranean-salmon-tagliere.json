@@ -1,0 +1,87 @@
+{
+  "slug": "molten-one-pot-mediterranean-salmon-tagliere",
+  "title": "Pan-Seared Mediterranean Salmon",
+  "description": "A flavorful and healthy dish featuring pan-seared salmon, infused with Mediterranean herbs and served with a side of roasted vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "medium-sized"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt, pepper, oregano, and thyme.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the salmon fillets for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the salmon is cooked through.",
+    "While the salmon is cooking, toss the potatoes with olive oil, salt, and pepper. Spread them out on a baking sheet and roast in the oven for 15-20 minutes, or until tender.",
+    "Remove the skillet from the oven and squeeze the lemon juice over the salmon. Serve with roasted potatoes and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "mediterranean",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-one-pot-mediterranean-salmon-tagliere",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:47:34.459Z"
+}
