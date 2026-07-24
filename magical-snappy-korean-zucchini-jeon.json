@@ -1,0 +1,81 @@
+{
+  "slug": "magical-snappy-korean-zucchini-jeon",
+  "title": "Korean Jeon with Zucchini and Magical Crust",
+  "description": "A unique twist on traditional Korean pancakes, using a magical crust and snappy ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Magical Crust Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean Chopped Scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Zucchini, grated",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Snappy Corn Starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Jeon Batter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine Magical Crust Mix, Korean Chopped Scallions, Zucchini, Snappy Corn Starch, and Korean Chili Flakes in a bowl.",
+    "Add Jeon Batter and mix until a smooth batter forms.",
+    "Heat Vegetable Oil in a pan over medium heat.",
+    "Using a ladle, pour the batter into the pan.",
+    "Cook for 2-3 minutes, until the edges start to curl.",
+    "Flip the jeon over and cook for another 2 minutes.",
+    "Serve hot with your favorite dipping sauce.",
+    "Season with Salt and Black Pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "pancakes",
+    "veggies",
+    "snappy-ingredients"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-snappy-korean-zucchini-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:27:53.069Z"
+}
