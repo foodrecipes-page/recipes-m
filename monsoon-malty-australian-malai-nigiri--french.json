@@ -1,0 +1,94 @@
+{
+  "slug": "monsoon-malty-australian-malai-nigiri--french",
+  "title": "French Nigiri Malt Crust Tarts",
+  "description": "A unique dessert combining French pastry with Japanese nigiri for a delightful fusion. The malty crust adds a rich flavor.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian wheat flour",
+      "amount": "1 1/2 cups",
+      "notes": "Gluten-free type"
+    },
+    {
+      "name": "Monsoon sugar",
+      "amount": "1/2 cup",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Malty malted milk powder",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Nigiri rice flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Monsoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Monsoon milk",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine flour, malted milk powder, and salt in a bowl.",
+    "Add butter and use a pastry blender to mix until crumbly.",
+    "Add egg and mix until a dough forms.",
+    "Knead the dough for 10 minutes.",
+    "Wrap in plastic and refrigerate for 30 minutes.",
+    "Roll out the dough and use a cookie cutter to make shapes.",
+    "Bake for 20 minutes.",
+    "While baking, mix nigiri rice flour and water to make a paste.",
+    "Remove tarts from oven and let cool.",
+    "Use the nigiri paste to glue nigiri rice onto the tarts.",
+    "Dust with monsoon sugar and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "dessert",
+    "pastry",
+    "nigiri",
+    "tarts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-malty-australian-malai-nigiri--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:32:27.460Z"
+}
