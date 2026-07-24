@@ -1,0 +1,86 @@
+{
+  "slug": "mild-malaysian-tempeh-salad",
+  "title": "Malaysian Tempeh Salad",
+  "description": "A light and refreshing salad featuring marinated tempeh, inspired by Malaysian cuisine.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "mild",
+      "amount": "1 tablespoon",
+      "notes": "peanut sauce or similar"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable stock"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the tempeh cubes in peanut sauce for at least 30 minutes.",
+    "2. Preheat a non-stick pan over medium-high heat. Add the marinated tempeh and cook until browned, about 5 minutes.",
+    "3. In a separate pan, heat chicken stock over low heat. Add the sliced cucumber, grated carrots, and cooked tempeh.",
+    "4. In a large bowl, combine the shredded lettuce, cooked tempeh mixture, and crumbled tofu.",
+    "5. Drizzle lime juice over the salad and toss to combine.",
+    "6. Garnish with chopped cilantro, if desired.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "salad",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-malaysian-tempeh-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:39:02.227Z"
+}
