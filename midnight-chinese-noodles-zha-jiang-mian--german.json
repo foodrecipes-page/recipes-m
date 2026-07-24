@@ -1,0 +1,78 @@
+{
+  "slug": "midnight-chinese-noodles-zha-jiang-mian--german",
+  "title": "Spätzle Noodle Stir Fry",
+  "description": "A German-inspired stir fry made with Spätzle noodles and midnight sauce, served with a side of sautéed vegetables.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spätzle noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Midnight sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cooked sausage (optional)",
+      "amount": "100g",
+      "notes": "German-style sausage such as Bratwurst or Weisswurst"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook Spätzle noodles according to package instructions. Drain and set aside.",
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add chopped vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Add cooked sausage (if using) and cook for an additional 1-2 minutes.",
+    "Add Midnight sauce, soy sauce, and sugar to the skillet. Stir to combine.",
+    "Add cooked Spätzle noodles to the skillet and stir to combine with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir fry to a serving dish and garnish with chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stir-fry",
+    "spätzle"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-chinese-noodles-zha-jiang-mian--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:39:28.745Z"
+}
