@@ -676,17 +676,16 @@
   },
   {
     "slug": "magical-snappy-korean-zucchini-jeon",
-    "title": "Magical Snappy Korean Zucchini Jeon",
+    "title": "Korean Jeon with Zucchini and Magical Crust",
     "tags": [
-      "gluten-free",
-      "hangover-cure",
-      "korean-cuisine",
-      "low-glycemic",
-      "mini-cocotte",
-      "snappy-jeon"
+      "korean",
+      "breakfast",
+      "pancakes",
+      "veggies",
+      "snappy-ingredients"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -1543,17 +1542,16 @@
   },
   {
     "slug": "magnificently-silky-ethiopian-custard-fir-fir",
-    "title": "Magnificently Silky Ethiopian Custard Fir Fir",
+    "title": "Ethiopian Custard Fir Cake",
     "tags": [
-      "breakfast-ideas",
-      "ethiopian-cuisine",
-      "indulgent-dishes",
-      "long-fermentation",
-      "ovo-vegetarian",
-      "silky-custard"
+      "cake",
+      "ethiopian",
+      "fir",
+      "spiced",
+      "dessert"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -22755,6 +22753,20 @@
       "eggs"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-smoky-greek-beef-kidney-loukoumades--indian",
+    "title": "Smoky Beef Koftas",
+    "tags": [
+      "indian",
+      "beef",
+      "koftas",
+      "grill",
+      "smoky"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "m"
   }
