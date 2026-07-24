@@ -22695,5 +22695,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-indian-chickpeas-chana-masala--chinese",
+    "title": "Spicy Indian-Style Chickpea Stir Fry",
+    "tags": [
+      "chinese",
+      "indian",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-smoky-russian-onion-skewers--mexican",
+    "title": "Mexican Smoked Onion Skewers",
+    "tags": [
+      "mexican",
+      "grill",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "m"
   }
 ]
