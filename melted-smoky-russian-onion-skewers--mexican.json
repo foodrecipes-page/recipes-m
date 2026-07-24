@@ -1,0 +1,61 @@
+{
+  "slug": "melted-smoky-russian-onion-skewers--mexican",
+  "title": "Mexican Smoked Onion Skewers",
+  "description": "A flavorful and easy-to-make Mexican dish featuring smoky onions and a hint of melted cheese on skewers.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden",
+      "notes": ""
+    },
+    {
+      "name": "Melted Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Smoky Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium heat.",
+    "2. Cut the onion into large chunks and thread onto skewers.",
+    "3. Brush the onion with smoky seasoning.",
+    "4. Grill the skewers for 5-7 minutes per side, or until the onion is tender and lightly charred.",
+    "5. Remove the skewers from the grill and top with melted cheese.",
+    "6. Return the skewers to the grill for an additional 30 seconds to 1 minute, or until the cheese is melted and bubbly.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-smoky-russian-onion-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:45:05.373Z"
+}
