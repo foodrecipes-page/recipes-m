@@ -1,0 +1,84 @@
+{
+  "slug": "mellow-smoky-greek-beef-kidney-loukoumades--indian",
+  "title": "Smoky Beef Koftas",
+  "description": "Indian-inspired beef koftas with a smoky twist, perfect for a quick and delicious dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef mince",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "loukoumades",
+      "amount": "2 pieces",
+      "notes": "crushed into breadcrumbs"
+    },
+    {
+      "name": "mellow cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "mellow coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine beef mince, greek yogurt, crushed loukoumades, cumin powder, coriander powder, paprika, and salt. Mix well with your hands until just combined.",
+    "Do not overmix.",
+    "Using your hands, shape the mixture into 4-6 koftas, depending on desired size.",
+    "Thread the koftas onto skewers, leaving a little space between each one.",
+    "Grill the koftas for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Serve hot with your favorite sides, such as naan or rice.",
+    "Optional: serve with a dollop of raita (yogurt and cucumber sauce) to balance the spiciness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "koftas",
+    "grill",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-smoky-greek-beef-kidney-loukoumades--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:12:22.886Z"
+}
