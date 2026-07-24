@@ -15705,17 +15705,14 @@
   },
   {
     "slug": "molten-dutch-brussels-sprouts-casserole",
-    "title": "Molten Dutch Brussels Sprouts Casserole",
+    "title": "Roasted Brussels Sprouts and Sprouts Casserole",
     "tags": [
-      "crowd-pleaser",
-      "dutch",
-      "low-carb",
-      "one-pan",
-      "oven-baked",
-      "resinous"
+      "brussels sprouts",
+      "casserole",
+      "roasted"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 55,
     "shard": "m"
   },
   {
@@ -22644,6 +22641,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-pillowy-argentinian-ikura-empanadas--vegetarian",
+    "title": "Argentinian Empanada Breakfast",
+    "tags": [
+      "breakfast",
+      "argentinian",
+      "empanada",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
