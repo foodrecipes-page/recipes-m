@@ -1,0 +1,67 @@
+{
+  "slug": "mustardy-crispy-jamaican-pork-fried-rice",
+  "title": "Jamaican Pork Fried Rice",
+  "description": "A flavorful and spicy fried rice dish with crispy pork and Jamaican seasonings.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "mustardy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp vegetable oil in a large skillet over medium-high heat.",
+    "Add diced pork and cook until browned, about 3-4 minutes.",
+    "Add Jamaican seasoning and cook for 1 minute.",
+    "Add fried rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add mustardy sauce and stir-fry for another minute.",
+    "Transfer the mixture to a serving platter.",
+    "Top with crispy fried onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pork",
+    "fried-rice",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crispy-jamaican-pork-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:32:45.662Z"
+}
