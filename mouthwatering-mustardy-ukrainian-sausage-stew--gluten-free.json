@@ -1,0 +1,85 @@
+{
+  "slug": "mouthwatering-mustardy-ukrainian-sausage-stew--gluten-free",
+  "title": "Ukrainian Sausage Stew",
+  "description": "A hearty and flavorful stew made with Ukrainian sausage, perfect for a cold day.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add sliced sausage and cook until browned, about 5 minutes.",
+    "Remove sausage from pot and set aside.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped carrots and potatoes, cook for 5 minutes.",
+    "Add browned sausage back into the pot, along with mustard, tomato paste, and beef broth.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "sausage",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-mustardy-ukrainian-sausage-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:06:39.889Z"
+}
