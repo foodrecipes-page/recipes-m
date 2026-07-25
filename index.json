@@ -6446,16 +6446,16 @@
   },
   {
     "slug": "mellow-ukrainian-cheonggukjang-dumplings",
-    "title": "Mellow Ukrainian Cheonggukjang Dumplings",
+    "title": "Delicious Ukrainian Dumpling Stew",
     "tags": [
-      "brunch",
-      "chewy",
-      "comfort-food",
-      "savory",
-      "weekend"
+      "stew",
+      "dumplings",
+      "ukrainian",
+      "mellow",
+      "cheonggukjang"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -8385,19 +8385,15 @@
   },
   {
     "slug": "midnight-craving-canadian-pork-chops-bake",
-    "title": "springtime wood-fired baked pork chops",
+    "title": "Midnight Canadian Pork Chops",
     "tags": [
+      "midnight",
       "canadian",
-      "grassy",
-      "high-protein",
-      "one-pan",
       "pork-chops",
-      "spring",
-      "weeknight",
-      "wood-fired"
+      "bake"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -14584,17 +14580,15 @@
   },
   {
     "slug": "miso-marinated-uruguayan-udon-noodles",
-    "title": "Miso Marinated Uruguayan Udon Noodles",
+    "title": "Miso Udon Noodle Soup",
     "tags": [
-      "high-carb",
-      "miso-based",
-      "noodle-dish",
-      "one-pot",
-      "uruguayan",
+      "soup",
+      "noodle",
+      "miso",
       "vegetarian"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -22816,6 +22810,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mushy-irish-potato-casserole--italian",
+    "title": "Irish Potato Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "potatoes",
+      "mushrooms"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
     "shard": "m"
   }
 ]
