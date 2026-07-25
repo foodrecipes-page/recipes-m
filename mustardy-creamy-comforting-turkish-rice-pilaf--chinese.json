@@ -1,0 +1,71 @@
+{
+  "slug": "mustardy-creamy-comforting-turkish-rice-pilaf--chinese",
+  "title": "Turkish Comfort Pilaf",
+  "description": "A comforting and flavorful Chinese-Turkish fusion dish made with rice and pilaf. A satisfying meal for any occasion.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "comforting",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 teaspoon",
+      "notes": "Dijon mustard"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    }
+  ],
+  "instructions": [
+    "Heat comforting in a large saucepan over medium heat.",
+    "Add pilaf and cook, stirring constantly, for 2-3 minutes.",
+    "Add rice and stir to combine.",
+    "Cook for an additional 2-3 minutes, until rice is lightly toasted.",
+    "Stir in turkish, mustardy, and creamy.",
+    "Reduce heat to low and simmer, covered, for 18-20 minutes, or until liquid is absorbed.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "comfort-food",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-creamy-comforting-turkish-rice-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:12:31.418Z"
+}
