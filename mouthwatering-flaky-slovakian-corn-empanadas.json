@@ -1,0 +1,72 @@
+{
+  "slug": "mouthwatering-flaky-slovakian-corn-empanadas",
+  "title": "Slovakian Corn Empanadas",
+  "description": "A twist on the traditional Slovakian dish with a crispy empanada crust and sweet corn filling, perfect for a summer evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Mouthwatering corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Corn oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Empanadas",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "Cut the flaky pastry dough into 4-6 squares.",
+    "Place a spoonful of corn kernels in the center of each square.",
+    "Fold the dough in half and press the edges to seal.",
+    "Fry the empanadas for 2-3 minutes on each side, until golden brown.",
+    "Drain the empanadas on paper towels and sprinkle with Slovakian paprika.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "empanadas",
+    "corn",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mouthwatering-flaky-slovakian-corn-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:57:08.251Z"
+}
