@@ -1,0 +1,72 @@
+{
+  "slug": "malty-german-bread-krapfen--vegan",
+  "title": "Vegan German Krapfen with Malt Bread Crust",
+  "description": "A twist on traditional German krapfen, these vegan versions feature a malty bread crust and a tasty filling.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "malty bread",
+      "amount": "1/2 loaf",
+      "notes": ""
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "apple sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Chop the malty bread into small pieces.",
+    "In a bowl, mix together flax eggs, apple sauce, maple syrup, cinnamon, and nutmeg.",
+    "Add the chopped bread to the bowl and mix until a dough forms.",
+    "Using a 1/4 cup measuring cup, scoop the dough into the preheated pan.",
+    "Cook for 2-3 minutes or until the first side is golden brown.",
+    "Flip and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "german",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-german-bread-krapfen--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:20:19.206Z"
+}
