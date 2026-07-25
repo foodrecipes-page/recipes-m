@@ -7087,16 +7087,15 @@
   },
   {
     "slug": "melted-german-cabbage-stew",
-    "title": "Melted German Cabbage Stew",
+    "title": "German Cabbage Stew",
     "tags": [
-      "cheese-pull",
-      "comfort-food",
-      "hangover-cure",
-      "hearty",
-      "ovo-vegetarian"
+      "german",
+      "stew",
+      "cabbage",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -15454,16 +15453,17 @@
   },
   {
     "slug": "molten-algerian-rum-wrap",
-    "title": "Molten Algerian Rum Wrap",
+    "title": "Rum-Glazed Algerian Wrap",
     "tags": [
-      "algerian",
-      "breakfast",
-      "brunch",
-      "morning",
-      "morning-glory"
+      "north-african",
+      "snack",
+      "sweet",
+      "savory",
+      "rum",
+      "honey"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "m"
   },
   {
@@ -17486,14 +17486,15 @@
   },
   {
     "slug": "morrozan-couscous",
-    "title": "Morrozan Couscous",
+    "title": "Morrozan Couscous Bowl",
     "tags": [
-      "moroccan",
+      "morrozan",
       "couscous",
-      "veggie-friendly"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -23167,6 +23168,30 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 195,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spiced-ukrainian-beef-stew--german",
+    "title": "Mildly Spiced Ukrainian Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 110,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-aerated-australian-renkon-stew--vegan",
+    "title": "Renkon Stew",
+    "tags": [
+      "vegan-stew",
+      "renkon",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "m"
   }
 ]
