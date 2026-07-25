@@ -1,0 +1,89 @@
+{
+  "slug": "mindful-briny-vietnamese-tofu-bun-cha--french",
+  "title": "French-Style Banh Mi Tofu Sandwich",
+  "description": "A fusion twist on the classic French baguette, featuring crispy tofu, fresh herbs, and a hint of Vietnamese flavors.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Bun (French baguette)",
+      "amount": "1",
+      "notes": "Split in half lengthwise"
+    },
+    {
+      "name": "Vietnamese-style cha (spicy chili sauce)",
+      "amount": "2 tbsp",
+      "notes": "Available in most Asian markets"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mindful mayonnaise (or regular mayonnaise)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Briny pickled carrots",
+      "amount": "1/4 cup",
+      "notes": "Available in most Asian markets"
+    },
+    {
+      "name": "Fresh cucumber",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 5-7 minutes.",
+    "Meanwhile, toast the baguette by grilling it for a few minutes or baking it in the oven at 350°F (175°C) for 5 minutes.",
+    "Spread the mayonnaise on the toasted baguette.",
+    "Add the cooked tofu, pickled carrots, cucumber, mint leaves, and chili sauce on top of the mayonnaise.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Top with a fried egg or grilled pork for added protein.",
+    "Optional: Serve with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vietnamese",
+    "vegan",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindful-briny-vietnamese-tofu-bun-cha--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:56:03.701Z"
+}
