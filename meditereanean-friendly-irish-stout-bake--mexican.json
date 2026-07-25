@@ -1,0 +1,79 @@
+{
+  "slug": "meditereanean-friendly-irish-stout-bake--mexican",
+  "title": "Mexican Stout Stout Beer Chili",
+  "description": "A hearty chili recipe that combines the rich flavors of stout beer and mexican spices.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stout",
+      "amount": "1 bottle"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large pot over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chili powder and cumin and cook for 1 minute.",
+    "Add the diced tomatoes, kidney beans, stout, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve the chili hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chili",
+    "stout",
+    "beer"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/meditereanean-friendly-irish-stout-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:34:39.692Z"
+}
