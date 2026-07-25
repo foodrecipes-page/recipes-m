@@ -1,0 +1,71 @@
+{
+  "slug": "mildly-sweet-croatian-peaches-grill--chinese",
+  "title": "Grilled Peach Dumplings",
+  "description": "A sweet and savory twist on traditional Chinese dumplings, featuring tender peaches and a hint of Croatian spice.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling wrappers"
+    },
+    {
+      "name": "mildly sweet dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 tsp",
+      "notes": "adds a smoky depth"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for caramelizing the peaches"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for brushing the dumplings"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, combine the sliced peaches and a pinch of Croatian paprika.",
+    "Lay out the dumpling wrappers and place a tablespoon of the peach mixture in the center of each wrapper.",
+    "Brush the edges of the wrapper with a little water and fold the wrapper to form a half-moon shape.",
+    "Brush the tops of the dumplings with vegetable oil and place them on the grill.",
+    "Cook the dumplings for 2-3 minutes on each side, until they're golden brown and caramelized.",
+    "Serve the dumplings warm, topped with additional sliced peaches if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-peach-dumplings",
+    "chinese-dessert",
+    "sweet-peach-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-croatian-peaches-grill--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:10:41.293Z"
+}
