@@ -18937,18 +18937,15 @@
   },
   {
     "slug": "mustardy-crispy-jamaican-pork-fried-rice",
-    "title": "Mustardy Crispy Jamaican Pork Fried Rice",
+    "title": "Jamaican Pork Fried Rice",
     "tags": [
-      "caribbean",
-      "fried-rice",
-      "high-protein",
       "jamaican",
-      "one-pan",
-      "pork-tenderloin",
-      "weeknight"
+      "pork",
+      "fried-rice",
+      "meat-lovers"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -23130,6 +23127,32 @@
     ],
     "cuisine": "vegetarian",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-jamaican-chicken-skewers--keto",
+    "title": "Jamaican Chicken Skewers",
+    "tags": [
+      "jamaican",
+      "keto",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-creamy-comforting-turkish-rice-pilaf--chinese",
+    "title": "Turkish Comfort Pilaf",
+    "tags": [
+      "chinese",
+      "turkish",
+      "comfort-food",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
