@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-spicy-jamaican-chicken-skewers--keto",
+  "title": "Jamaican Chicken Skewers",
+  "description": "A keto-friendly recipe for Jamaican chicken skewers, marinated in a spicy and mildly flavored sauce. Perfect for a quick and tasty dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mildly spicy jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together jerk seasoning, allspice, paprika, garlic powder, and salt.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated chicken onto the skewers, leaving a little space between each piece.",
+    "Brush the tops of the skewers with coconut oil.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Cook the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "keto",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-jamaican-chicken-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:03:37.862Z"
+}
