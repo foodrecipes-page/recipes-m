@@ -1,0 +1,77 @@
+{
+  "slug": "molten-dutch-brussels-sprouts-casserole--indian",
+  "title": "Indian Brussels Sprouts Casserole",
+  "description": "A unique and flavorful twist on traditional Brussels sprouts, infused with Indian spices. This comforting casserole is perfect for a cold winter night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Dutch molten cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Trim the Brussels sprouts and cut them in half.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the Brussels sprouts and cook until they start to brown, about 5 minutes.",
+    "Add the garam masala, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and roast the Brussels sprouts for 15-20 minutes, or until tender and caramelized.",
+    "While the Brussels sprouts are roasting, melt the Dutch molten cheese in a saucepan over low heat.",
+    "Once the cheese is melted, stir in 1/4 cup of water to create a creamy sauce.",
+    "Remove the Brussels sprouts from the oven and transfer them to a baking dish.",
+    "Pour the cheese sauce over the Brussels sprouts and top with additional shredded cheese if desired.",
+    "Return the casserole to the oven and bake for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-dutch-brussels-sprouts-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:46:11.475Z"
+}
