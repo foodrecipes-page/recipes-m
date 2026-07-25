@@ -1,0 +1,93 @@
+{
+  "slug": "mellow-australian-citrus-lasagna--indian",
+  "title": "Australian Citrus Chicken Lasagna",
+  "description": "A flavorful twist on the classic lasagna, with Australian chicken and a hint of citrus.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Australian mellow gouda cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "fresh citrus zest",
+      "amount": "2 tablespoons",
+      "notes": "from oranges or lemons"
+    },
+    {
+      "name": "citrus juice",
+      "amount": "2 tablespoons",
+      "notes": "from oranges or lemons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic; cook until softened.",
+    "Add chicken to skillet; cook until browned and cooked through.",
+    "Stir in citrus zest, citrus juice, and tomato sauce.",
+    "In a large bowl, combine cooked noodles, chicken mixture, and shredded gouda cheese.",
+    "In a greased 9x13-inch baking dish, create a layer of noodles, followed by a layer of chicken mixture.",
+    "Repeat layering until all ingredients are used, ending with a layer of noodles on top.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Sprinkle with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian-inspired",
+    "citrus",
+    "lasagna",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-australian-citrus-lasagna--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:26:33.260Z"
+}
