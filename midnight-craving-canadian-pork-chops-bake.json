@@ -1,0 +1,90 @@
+{
+  "slug": "midnight-craving-canadian-pork-chops-bake",
+  "title": "Midnight Canadian Pork Chops",
+  "description": "A simple, flavorful dish featuring pork chops baked with a blend of spices and herbs, perfect for a late-night snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork chops with salt, black pepper, garlic powder, and paprika.",
+    "In a shallow dish, mix together breadcrumbs and brown sugar.",
+    "Dip each pork chop into the breadcrumb mixture, coating both sides evenly.",
+    "Heat butter in an oven-safe skillet over medium heat.",
+    "Sear the coated pork chops for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until cooked through.",
+    "Remove from oven and sprinkle with parsley.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight",
+    "canadian",
+    "pork-chops",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-canadian-pork-chops-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:04:13.799Z"
+}
