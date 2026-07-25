@@ -1,0 +1,63 @@
+{
+  "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot--thai",
+  "title": "Thai Stamppot With Lardons",
+  "description": "A twist on traditional Dutch stamppot, this Thai-inspired dish combines crispy lardons and a tangy sauce with boiled potatoes and kale.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch stamppot potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Lardons",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sour sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green curry paste",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until tender.",
+    "Meanwhile, heat the lardons in a pan over medium-high heat until crispy.",
+    "Add the molten sauce, sour sauce, soy sauce, and green curry paste to the pan with the lardons.",
+    "Stir to combine and bring to a simmer.",
+    "Once the potatoes are done, mash them with a fork and add to the pan with the lardons and sauce.",
+    "Stir to combine and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "potatoes",
+    "lardons",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-sour-dutch-soy-sauce-lardons-stamppot--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:51:17.085Z"
+}
