@@ -1,0 +1,95 @@
+{
+  "slug": "mildly-spicy-korean-vegetable-namul",
+  "title": "Spicy Korean Namul Salad",
+  "description": "A simple and healthy Korean-style salad made with stir-fried namul and spicy kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Namul (Korean sesame leaf)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Gochugaru (Korean red pepper flakes)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the namul and pat dry with paper towels.",
+    "2. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "3. Add the garlic and cook for 1 minute until fragrant.",
+    "4. Add the namul and cook for 2-3 minutes until wilted.",
+    "5. In a small bowl, whisk together the gochujang, soy sauce, rice vinegar, sugar, and gochugaru.",
+    "6. Pour the sauce over the namul and stir-fry for 1 minute.",
+    "7. Add the green onion and toasted sesame seeds, and stir-fry for another minute.",
+    "8. Season with salt to taste.",
+    "9. Serve immediately and enjoy.",
+    "10. Garnish with additional green onion and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salad",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-korean-vegetable-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:18:36.236Z"
+}
