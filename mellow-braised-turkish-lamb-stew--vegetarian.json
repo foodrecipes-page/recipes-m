@@ -1,0 +1,78 @@
+{
+  "slug": "mellow-braised-turkish-lamb-stew--vegetarian",
+  "title": "Mellow Stew",
+  "description": "A hearty and comforting stew made with tender lamb and a blend of earthy spices. Perfect for a chilly evening.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mellow",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add carrot and potato and cook for 5 minutes.",
+    "Stir in mellow and turkish, and cook for 1 minute.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until lamb is tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mellow",
+    "stew",
+    "comfort food",
+    "hearty meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-braised-turkish-lamb-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:51:55.848Z"
+}
