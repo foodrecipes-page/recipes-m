@@ -1,0 +1,74 @@
+{
+  "slug": "makrut-lime-cheesy-bread--japanese",
+  "title": "Makrut Cheesy Bread Toast",
+  "description": "A twist on traditional Japanese bread toast, elevated with the citrus flavor of makrut lime and the creaminess of cheese.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Makrut lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cheese",
+      "amount": "2 slices",
+      "notes": "Japanese-style melty cheese"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "Japanese milk bread or brioche"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the toaster or toaster oven to 350°F (175°C).",
+    "Slice the makrut lime leaves finely and set aside.",
+    "Toast the bread slices until lightly browned.",
+    "Spread a slice of cheese on each toasted bread slice.",
+    "Dollop a slice of unsalted butter on top of the cheese.",
+    "Sprinkle a few slices of makrut lime leaves on top of the butter.",
+    "Drizzle a small amount of lime juice on top of the makrut lime leaves.",
+    "Season with salt to taste.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "cheese",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/makrut-lime-cheesy-bread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:47:10.522Z"
+}
