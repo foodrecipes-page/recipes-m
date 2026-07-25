@@ -1,0 +1,83 @@
+{
+  "slug": "miso-marinated-uruguayan-udon-noodles",
+  "title": "Miso Udon Noodle Soup",
+  "description": "A comforting and flavorful soup made with Udon noodles, miso paste, and a hint of Uruguayan spices.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "white miso"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sliced shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Uruguayan paprika",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Marinated ginger",
+      "amount": "1 piece",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the Udon noodles and cook according to package instructions.",
+    "In a small bowl, whisk together the miso paste and a splash of hot broth until smooth.",
+    "Add the sliced mushrooms and green onions to the pot and cook until the mushrooms are tender.",
+    "Stir in the miso paste mixture and cook for 1 minute.",
+    "Season with soy sauce and Uruguayan paprika to taste.",
+    "Serve hot, garnished with marinated ginger slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "noodle",
+    "miso",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/miso-marinated-uruguayan-udon-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:46:18.281Z"
+}
