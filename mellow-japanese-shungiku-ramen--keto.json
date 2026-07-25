@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-japanese-shungiku-ramen--keto",
+  "title": "Japanese-Style Shungiku Ramen",
+  "description": "A keto-friendly twist on the classic Japanese noodle dish, featuring shungiku and mellow flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mellow oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Shungiku",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Ramen",
+      "amount": "1 package (keto-friendly)",
+      "notes": "Check ingredients for sugar content"
+    },
+    {
+      "name": "Soy sauce (low-carb)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the mellow oil in a large skillet over medium-high heat.",
+    "Add the shungiku and cook until wilted, about 3-4 minutes.",
+    "Add the ramen and cook according to package instructions.",
+    "In a small bowl, whisk together soy sauce and 1 tablespoon of water.",
+    "Add the soy sauce mixture to the skillet and stir to combine.",
+    "Top with green onions, sesame seeds, salt, and pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ramen",
+    "keto",
+    "low-carb",
+    "mellow"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-shungiku-ramen--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:49:17.074Z"
+}
