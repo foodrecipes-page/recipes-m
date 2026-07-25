@@ -1,0 +1,69 @@
+{
+  "slug": "mildly-briny-malaysian-sausage-satay--german",
+  "title": "Bratwurst Satay with Mild Chutney",
+  "description": "A German twist on the classic Southeast Asian satay, featuring grilled bratwurst served with a sweet and spicy chutney.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Mild Chutney",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Malaysian Satay Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Briny Coleslaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sausage Skewers",
+      "amount": "10",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread bratwurst onto sausage skewers, leaving a small space between each piece.",
+    "3. Brush the satay with oil and season with salt and pepper.",
+    "4. Grill the satay for 5-7 minutes per side, or until slightly charred.",
+    "5. Meanwhile, warm the chutney and satay sauce in a small saucepan over low heat.",
+    "6. Serve the grilled satay with the chutney and satay sauce for dipping.",
+    "7. Garnish with briny coleslaw and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grilled",
+    "satay",
+    "bratwurst",
+    "chutney"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-briny-malaysian-sausage-satay--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:52:51.452Z"
+}
