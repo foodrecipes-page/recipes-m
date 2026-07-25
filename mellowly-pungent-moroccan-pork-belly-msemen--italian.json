@@ -1,0 +1,80 @@
+{
+  "slug": "mellowly-pungent-moroccan-pork-belly-msemen--italian",
+  "title": "Italian-Style Moroccan Pork Belly",
+  "description": "A flavorful and tender pork belly dish infused with the aromas of Italian and Moroccan cuisine. Perfect for a special occasion or a cozy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 kg",
+      "notes": "Ask the butcher for a piece with a good layer of fat"
+    },
+    {
+      "name": "Msemen",
+      "amount": "2 sheets",
+      "notes": "Use the Moroccan flatbread for a crispy texture"
+    },
+    {
+      "name": "Mellowly olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pungent garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for a stronger flavor"
+    },
+    {
+      "name": "Moroccan cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Italian salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork belly with salt, black pepper, and Moroccan cumin.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the pork belly until browned on all sides, about 5 minutes.",
+    "Transfer the pork belly to the oven and roast for 20 minutes.",
+    "While the pork belly is cooking, warm the msemen sheets in the oven for 5 minutes.",
+    "Remove the pork belly from the oven and let it rest for 5 minutes.",
+    "Slice the pork belly into thick strips and serve with the msemen sheets."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "moroccan",
+    "pork",
+    "belly",
+    "msemen",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellowly-pungent-moroccan-pork-belly-msemen--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:55:08.113Z"
+}
