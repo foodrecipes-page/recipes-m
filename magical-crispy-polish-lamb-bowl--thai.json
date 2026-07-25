@@ -1,0 +1,112 @@
+{
+  "slug": "magical-crispy-polish-lamb-bowl--thai",
+  "title": "Thai Crispy Lamb Bowl",
+  "description": "A flavorful Thai-inspired dish featuring crispy lamb, crunchy vegetables, and a sprinkle of magic.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "magical",
+      "amount": "1 teaspoon",
+      "notes": "add a pinch of magic to the oil"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "chopped crispy snack"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tablespoon",
+      "notes": " Polish-style sour cream"
+    },
+    {
+      "name": "bowl",
+      "amount": "4",
+      "notes": "large serving bowls"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes.",
+    "Add the garlic, ginger, fish sauce, and chili flakes (if using) to the skillet and cook for 1 minute.",
+    "Add the crispy snack to the skillet and cook until crispy, about 2-3 minutes.",
+    "Transfer the lamb mixture to a bowl and set aside.",
+    "Heat the remaining 1 tablespoon of vegetable oil in a small skillet over medium heat.",
+    "Add the sliced cucumber and grated carrot to the skillet and cook until slightly tender, about 2-3 minutes.",
+    "Add the chopped mint to the skillet and cook for 1 minute.",
+    "To assemble the bowls, place a portion of the lamb mixture in each bowl, followed by the cucumber-carrot mixture.",
+    "Drizzle the Polish-style sour cream over the top and sprinkle with additional crispy snack (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "lamb",
+    "crispy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crispy-polish-lamb-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:37:09.693Z"
+}
