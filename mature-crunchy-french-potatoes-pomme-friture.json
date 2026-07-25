@@ -1,0 +1,64 @@
+{
+  "slug": "mature-crunchy-french-potatoes-pomme-friture",
+  "title": "Pan Fried Potatoes Pomme Friture",
+  "description": "A simple and delicious recipe for crispy pan fried potatoes. This dish is perfect for a snack or side.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "friture",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mature potatoes",
+      "amount": "peeled and sliced",
+      "notes": "used for frying"
+    },
+    {
+      "name": "crunchy potatoes",
+      "amount": "peeled and sliced",
+      "notes": "used for garnish"
+    },
+    {
+      "name": "french potatoes",
+      "amount": "peeled and sliced",
+      "notes": "used for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 2 inches of friture in a large frying pan over medium-high heat.",
+    "Once the friture is hot, add the sliced potatoes and fry until golden brown.",
+    "Remove the fried potatoes from the pan and place on a paper towel lined plate.",
+    "Leave about 1 tablespoon of friture in the pan, then reduce heat to medium.",
+    "Add the sliced crunchy potatoes to the pan and fry until crispy.",
+    "Season with salt to taste.",
+    "Serve the pan fried potatoes hot and garnish with additional crispy potatoes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "snack",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mature-crunchy-french-potatoes-pomme-friture",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:48:57.193Z"
+}
