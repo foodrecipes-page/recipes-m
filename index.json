@@ -844,17 +844,15 @@
   },
   {
     "slug": "magically-crispy-jamaican-chicken-skillet",
-    "title": "Magically Crispy Jamaican Chicken Skillet",
+    "title": "Crispy Jamaican Chicken Skillet",
     "tags": [
-      "chicken-recipes",
-      "dinner-ideas",
-      "gluten-free",
-      "jamaican-cuisine",
-      "nut-free",
-      "one-pot"
+      "chicken",
+      "jamaican",
+      "skillet",
+      "easy-meals"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -22994,6 +22992,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "makrut-lime-cheesy-bread--japanese",
+    "title": "Makrut Cheesy Bread Toast",
+    "tags": [
+      "japanese",
+      "snack",
+      "cheese",
+      "citrus"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
     "shard": "m"
   }
 ]
