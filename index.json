@@ -22928,5 +22928,58 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-sweet-croatian-peaches-grill--chinese",
+    "title": "Grilled Peach Dumplings",
+    "tags": [
+      "grilled-peach-dumplings",
+      "chinese-dessert",
+      "sweet-peach-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-brazilian-fish-tagine--mexican",
+    "title": "Grilled Fish Tacos with Brazilian Salsa",
+    "tags": [
+      "mexican",
+      "tacos",
+      "fish",
+      "lunch"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "mouthwatering-crunchy-malaysian-rice-fried-rice--vegetarian",
+    "title": "Crispy Fried Rice",
+    "tags": [
+      "malaysian",
+      "fried",
+      "rice",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-earthy-portuguese-cherry-pasta--indian",
+    "title": "Spicy Cherry Pasta Indian Fusion",
+    "tags": [
+      "indian",
+      "fusion",
+      "pasta",
+      "vegetarian",
+      "cherry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "m"
   }
 ]
