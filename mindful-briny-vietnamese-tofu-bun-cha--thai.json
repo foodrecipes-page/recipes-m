@@ -1,0 +1,86 @@
+{
+  "slug": "mindful-briny-vietnamese-tofu-bun-cha--thai",
+  "title": "Thai-Style Cha Buns",
+  "description": "A fusion of Vietnamese cha and Thai flavors, these crispy buns are filled with savory, spicy tofu.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Mindful bun dough",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Vietnamese cha seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Briny fish sauce",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced and seeded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "2. Divide the bun dough into small balls and flatten each into a disk.",
+    "3. In a separate pan, heat the cha seasoning and fish sauce over low heat.",
+    "4. Add the tofu to the pan and stir to coat with the cha seasoning mixture.",
+    "5. Place a disk of bun dough in the hot oil and fry until crispy, about 2-3 minutes per side.",
+    "6. Repeat with the remaining dough disks.",
+    "7. Stuff each bun with the tofu mixture, then top with a few slices of Thai chili and a sprinkle of cilantro.",
+    "8. Serve immediately with a squeeze of lime juice and a sprinkle of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thaifusion",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mindful-briny-vietnamese-tofu-bun-cha--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:23:17.153Z"
+}
