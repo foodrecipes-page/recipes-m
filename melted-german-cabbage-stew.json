@@ -1,0 +1,99 @@
+{
+  "slug": "melted-german-cabbage-stew",
+  "title": "German Cabbage Stew",
+  "description": "A hearty and comforting German-inspired stew made with tender cabbage and flavorful meat. Serve with a side of crusty bread or over mashed potatoes.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the shredded cabbage and cook until it starts to soften, about 5 minutes.",
+    "Sprinkle the caraway seeds and flour over the cabbage and stir to combine.",
+    "Add the beef broth and water, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the cabbage is tender, about 20 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, topped with additional melted butter if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stew",
+    "cabbage",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:22:02.528Z"
+}
