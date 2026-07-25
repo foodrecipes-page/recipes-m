@@ -1,0 +1,90 @@
+{
+  "slug": "mild-italian-bread-tagine--french",
+  "title": "French Chicken Tagine",
+  "description": "Inspired by French and Moroccan flavors, this dish features tender chicken in a rich and spicy tagine sauce. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tsp",
+      "notes": "or homemade mix of cinnamon, ginger, cumin, coriander, and cayenne"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mild italian sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned, about 5 minutes. Remove the chicken from the pot and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot. Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the tagine spice mix to the pot and cook for 1 minute.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the chicken to the pot and simmer, covered, until cooked through, about 20-25 minutes.",
+    "Serve the chicken and sauce over bread, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "tagine",
+    "sauce",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-italian-bread-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:30:26.431Z"
+}
