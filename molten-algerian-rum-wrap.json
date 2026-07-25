@@ -1,0 +1,75 @@
+{
+  "slug": "molten-algerian-rum-wrap",
+  "title": "Rum-Glazed Algerian Wrap",
+  "description": "Savor the rich flavors of North Africa in this sweet and savory wrap, topped with a hint of rum-glazed goodness.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Algerian Wrap",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rum (optional)",
+      "amount": "2 tbsp",
+      "notes": "optional, add a hint of flavor"
+    },
+    {
+      "name": "Molten Honey",
+      "amount": "2 tbsp",
+      "notes": "or regular honey for a sweeter taste"
+    },
+    {
+      "name": "Sliced Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped or slivered"
+    },
+    {
+      "name": "Chopped Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the Algerian wrap on a baking sheet and toast for 2-3 minutes, or until lightly browned.",
+    "In a small saucepan, heat the rum (if using) and molten honey over low heat until warm and fragrant.",
+    "Brush the rum-honey glaze over the toasted wrap.",
+    "Sprinkle the sliced almonds over the wrap.",
+    "Top with chopped fresh mint (if using).",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "snack",
+    "sweet",
+    "savory",
+    "rum",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-algerian-rum-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:01:15.507Z"
+}
