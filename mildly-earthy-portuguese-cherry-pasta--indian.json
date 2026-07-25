@@ -1,0 +1,100 @@
+{
+  "slug": "mildly-earthy-portuguese-cherry-pasta--indian",
+  "title": "Spicy Cherry Pasta Indian Fusion",
+  "description": "A unique blend of Indian spices and cherry flavors with pasta. Perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mildly flavored pasta",
+      "amount": "8 oz",
+      "notes": "such as fusilli or penne"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "portuguese chorizo",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a pan, heat ghee over medium heat.",
+    "Add cumin, coriander, turmeric, and red chili powder. Cook for 1 minute.",
+    "Add mushrooms and cook until tender.",
+    "Add cherry tomatoes and cook for 2-3 minutes.",
+    "Add chorizo and cook for an additional 1-2 minutes.",
+    "Combine cooked pasta with the pan mixture and season with salt.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fusion",
+    "pasta",
+    "vegetarian",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-earthy-portuguese-cherry-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:34:17.324Z"
+}
