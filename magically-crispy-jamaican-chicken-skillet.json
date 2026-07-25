@@ -1,0 +1,70 @@
+{
+  "slug": "magically-crispy-jamaican-chicken-skillet",
+  "title": "Crispy Jamaican Chicken Skillet",
+  "description": "A flavorful and spicy one-pan dish made with crispy chicken, onions, and bell peppers in a Jamaican-inspired sauce.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "magically crispy seasoning blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of skillet oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of skillet oil to the skillet. Add the chopped onion and bell pepper and cook until softened, about 3-4 minutes.",
+    "Add the magically crispy seasoning blend and Jamaican jerk seasoning to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the seasoning mixture.",
+    "Reduce heat to medium-low and simmer, uncovered, for 10-12 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "jamaican",
+    "skillet",
+    "easy-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-crispy-jamaican-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:16:55.107Z"
+}
