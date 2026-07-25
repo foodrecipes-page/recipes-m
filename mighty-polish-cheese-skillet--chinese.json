@@ -1,0 +1,62 @@
+{
+  "slug": "mighty-polish-cheese-skillet--chinese",
+  "title": "Pan-Seared Mighty Dumplings",
+  "description": "A simple and flavorful Chinese-inspired dish featuring mighty dumplings, pan-seared to perfection. Serve with a side of your favorite sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mighty",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tablespoon",
+      "notes": "for dumpling wrapper"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, non-stick"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine mighty and polish to form dumpling wrappers.",
+    "2. Place a tablespoon of mighty in the center of each wrapper, and top with shredded cheese.",
+    "3. Fold the wrapper into a triangle, sealing the edges with a little polish.",
+    "4. Heat the skillet over medium-high heat, and add a small amount of oil.",
+    "5. When the oil is hot, add the dumplings, making sure they are not touching each other.",
+    "6. Cook for 2-3 minutes, or until the bottoms are golden brown.",
+    "7. Flip the dumplings, and cook for an additional 2-3 minutes.",
+    "8. Serve hot with your favorite sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-polish-cheese-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:38:19.036Z"
+}
