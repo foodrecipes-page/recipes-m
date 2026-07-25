@@ -23106,5 +23106,30 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
     "shard": "m"
+  },
+  {
+    "slug": "molten-dutch-brussels-sprouts-casserole--indian",
+    "title": "Indian Brussels Sprouts Casserole",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-braised-turkish-lamb-stew--vegetarian",
+    "title": "Mellow Stew",
+    "tags": [
+      "mellow",
+      "stew",
+      "comfort food",
+      "hearty meal"
+    ],
+    "cuisine": "vegetarian",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
