@@ -1,0 +1,68 @@
+{
+  "slug": "malai-bites--french",
+  "title": "French Chicken Bites en Croute",
+  "description": "A French-inspired chicken dish featuring crispy bites coated in a flaky malai crust, perfect for a dinner party.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken with salt and pepper.",
+    "Dust chicken pieces with flour, shaking off excess.",
+    "Dip floured chicken in beaten eggs, then coat in malai mixture.",
+    "Place coated chicken on a baking sheet lined with parchment paper.",
+    "Drizzle melted butter over the chicken.",
+    "Bake for 20-25 minutes or until golden brown and cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "french",
+    "dinner",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malai-bites--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:02:39.136Z"
+}
