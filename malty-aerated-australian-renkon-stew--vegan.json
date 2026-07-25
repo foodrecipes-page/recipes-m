@@ -1,0 +1,65 @@
+{
+  "slug": "malty-aerated-australian-renkon-stew--vegan",
+  "title": "Renkon Stew",
+  "description": "A hearty and comforting stew made with tender renkon and a variety of aromatic spices. This vegan stew is perfect for a chilly evening.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "renkon",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "australian",
+      "amount": "2 teaspoons",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped malty and sauté for 2 minutes.",
+    "Add the stew, renkon, and australian, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Stir in aerated and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-stew",
+    "renkon",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-aerated-australian-renkon-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:45:55.435Z"
+}
