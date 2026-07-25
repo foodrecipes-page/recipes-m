@@ -17883,15 +17883,13 @@
     "slug": "mouthwatering-flaky-slovakian-corn-empanadas",
     "title": "Slovakian Corn Empanadas",
     "tags": [
-      "corn",
-      "empanadas",
-      "flaky-pastry",
-      "low-glycemic",
       "slovakian",
+      "empanadas",
+      "corn",
       "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -22823,6 +22821,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 65,
+    "shard": "m"
+  },
+  {
+    "slug": "mindful-briny-vietnamese-tofu-bun-cha--french",
+    "title": "French-Style Banh Mi Tofu Sandwich",
+    "tags": [
+      "french",
+      "vietnamese",
+      "vegan",
+      "sandwich",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-australian-citrus-lasagna--indian",
+    "title": "Australian Citrus Chicken Lasagna",
+    "tags": [
+      "indian-inspired",
+      "citrus",
+      "lasagna",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "meditereanean-friendly-irish-stout-bake--mexican",
+    "title": "Mexican Stout Stout Beer Chili",
+    "tags": [
+      "mexican",
+      "chili",
+      "stout",
+      "beer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "m"
   }
 ]
