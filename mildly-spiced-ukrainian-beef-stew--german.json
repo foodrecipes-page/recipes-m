@@ -1,0 +1,87 @@
+{
+  "slug": "mildly-spiced-ukrainian-beef-stew--german",
+  "title": "Mildly Spiced Ukrainian Beef Stew",
+  "description": "A hearty German-inspired beef stew made with mildly spiced Ukrainian flavors.",
+  "cuisine": "german",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mildly spiced ukrainian sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Brown the beef stew meat in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the chopped carrots and potatoes, beef broth, tomato paste, salt, and pepper.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "If using flour, stir it in before serving.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-ukrainian-beef-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:13:02.555Z"
+}
