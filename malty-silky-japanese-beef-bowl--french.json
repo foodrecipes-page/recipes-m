@@ -1,0 +1,67 @@
+{
+  "slug": "malty-silky-japanese-beef-bowl--french",
+  "title": "Japanese Beef Bourguignon",
+  "description": "A French-inspired beef stew with Japanese twist, featuring tender beef and rich flavors.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tbsp",
+      "notes": "malt vinegar"
+    },
+    {
+      "name": "silky",
+      "amount": "1 cup",
+      "notes": "silk soy sauce"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tbsp",
+      "notes": "sushi rice vinegar"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 large",
+      "notes": "stainless steel or ceramic"
+    }
+  ],
+  "instructions": [
+    "Season beef with salt and pepper.",
+    "Sear beef in hot pan until browned, then set aside.",
+    "Add silky and japanese to pan, stir to combine.",
+    "Add beef back to pan, cook until coated with sauce.",
+    "Transfer beef to bowl, simmer sauce until thickened.",
+    "Serve beef topped with sauce and garnished with fresh herbs.",
+    "Serve with rice or noodles, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-silky-japanese-beef-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:43:58.831Z"
+}
