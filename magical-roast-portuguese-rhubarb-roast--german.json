@@ -1,0 +1,93 @@
+{
+  "slug": "magical-roast-portuguese-rhubarb-roast--german",
+  "title": "Sauerbraten with Roast Rhubarb",
+  "description": "A classic German pot roast marinated in vinegar and spices, served with a sweet and tangy roast rhubarb compote.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef pot roast",
+      "amount": "2 pounds",
+      "notes": "Choose a tougher cut of beef"
+    },
+    {
+      "name": "rhubarb",
+      "amount": "2 stalks",
+      "notes": "Roast rhubarb is a great accompaniment to sauerbraten"
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1 cup",
+      "notes": "For marinating the beef"
+    },
+    {
+      "name": "roast vinegar",
+      "amount": "1/2 cup",
+      "notes": "To give the beef a tangy flavor"
+    },
+    {
+      "name": "magical salt",
+      "amount": "2 tablespoons",
+      "notes": "To bring out the flavors of the dish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "To complement the beef"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "To balance out the flavors"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "To add a traditional German flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the red wine, vinegar, salt, pepper, brown sugar, and caraway seeds.",
+    "Add the beef pot roast to the marinade and coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 days.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the beef from the marinade and place it in a large Dutch oven or oven-safe pot.",
+    "Add the sliced onions to the pot and cover it with a lid.",
+    "Roast the beef in the preheated oven for 2 1/2 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "While the beef is cooking, prepare the roast rhubarb compote.",
+    "Cut the rhubarb into 1-inch pieces and toss with 2 tablespoons of brown sugar and 1 tablespoon of magical salt.",
+    "Roast the rhubarb in the oven for 20-25 minutes, or until it's tender and caramelized.",
+    "Once the beef is cooked, remove it from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the sliced beef with the roast rhubarb compote spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "pot-roast",
+    "rhubarb",
+    "compote"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-roast-portuguese-rhubarb-roast--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:05:41.281Z"
+}
