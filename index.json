@@ -13273,17 +13273,15 @@
   },
   {
     "slug": "mildly-spicy-korean-vegetable-namul",
-    "title": "Mildly Spicy Korean Vegetable Namul",
+    "title": "Spicy Korean Namul Salad",
     "tags": [
-      "dairy-free",
-      "flavorful",
-      "healthy",
-      "korean-cuisine",
-      "one-pot",
-      "vegetarian"
+      "korean",
+      "salad",
+      "vegetarian",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -23005,6 +23003,44 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "mindful-briny-vietnamese-tofu-bun-cha--thai",
+    "title": "Thai-Style Cha Buns",
+    "tags": [
+      "thaifusion",
+      "snack",
+      "veggie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-polish-cheese-skillet--chinese",
+    "title": "Pan-Seared Mighty Dumplings",
+    "tags": [
+      "chinese",
+      "dumplings",
+      "pan-seared"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-japanese-shungiku-ramen--keto",
+    "title": "Japanese-Style Shungiku Ramen",
+    "tags": [
+      "japanese",
+      "ramen",
+      "keto",
+      "low-carb",
+      "mellow"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
     "shard": "m"
   }
 ]
