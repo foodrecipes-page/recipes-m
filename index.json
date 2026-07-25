@@ -22862,5 +22862,58 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-briny-malaysian-sausage-satay--german",
+    "title": "Bratwurst Satay with Mild Chutney",
+    "tags": [
+      "german",
+      "grilled",
+      "satay",
+      "bratwurst",
+      "chutney"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "malai-bites--french",
+    "title": "French Chicken Bites en Croute",
+    "tags": [
+      "chicken",
+      "french",
+      "dinner",
+      "main-course"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-german-bread-krapfen--vegan",
+    "title": "Vegan German Krapfen with Malt Bread Crust",
+    "tags": [
+      "vegan",
+      "german",
+      "bread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 16,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-italian-bread-tagine--french",
+    "title": "French Chicken Tagine",
+    "tags": [
+      "french",
+      "chicken",
+      "tagine",
+      "sauce",
+      "bread"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
