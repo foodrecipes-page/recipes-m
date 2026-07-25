@@ -1,0 +1,91 @@
+{
+  "slug": "mildly-spiced-spanish-chicken-paella--vegan",
+  "title": "Vegan Spanish Paella",
+  "description": "A vegan twist on the classic Spanish dish, made with sautéed vegetables, rice, and a hint of smoky paprika. Perfect for a hearty and flavorful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mildly spiced Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken-style vegan chorizo",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the diced red bell pepper and cook for 2 minutes.",
+    "Add the diced tomato and cook for 2 minutes.",
+    "Add the smoked paprika and stir to combine.",
+    "Add the sliced vegan chorizo and cook for 2 minutes.",
+    "Add the Spanish rice and stir to combine.",
+    "Cook for 2-3 minutes, stirring frequently, until the rice is lightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "paella",
+    "rice",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-spanish-chicken-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:18:38.375Z"
+}
