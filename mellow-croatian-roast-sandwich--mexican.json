@@ -1,0 +1,78 @@
+{
+  "slug": "mellow-croatian-roast-sandwich--mexican",
+  "title": "Croatian Roast Sandwich",
+  "description": "A twist on the classic roast beef sandwich with a mexican flair. The croatian sausage adds a spicy kick.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Roast beef",
+      "amount": "1/2 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mellow cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Sub sandwich rolls",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Letuce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": "mild"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Slice the roast beef into thin strips and set aside.",
+    "Cook the croatian sausage in a pan over medium-high heat until browned.",
+    "Slice the cooked sausage into thin strips.",
+    "Assemble the sandwiches by spreading a layer of salsa on the bottom bun, followed by a slice of roast beef, a few strips of sausage, a sprinkle of mellow cheese, and a handful of lettuce, tomatoes, and onions.",
+    "Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-croatian-roast-sandwich--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:46:34.014Z"
+}
