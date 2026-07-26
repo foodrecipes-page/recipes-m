@@ -1,0 +1,87 @@
+{
+  "slug": "mildly-sour-japanese-pork-gyoza--vegetarian",
+  "title": "Vegetarian Gyoza Stir Fry",
+  "description": "A twist on traditional gyoza, this stir fry features a variety of vegetables and savory flavors. Serve with your favorite dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mildly flavored soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour kimchi (vegetarian)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "japanese rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pork-free vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "gyoza wrappers (vegetarian)",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds (optional)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the shredded carrots and cook for 3-4 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chopped scallions and cook for an additional minute.",
+    "Add the pork-free vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and let the mixture simmer for 5-7 minutes.",
+    "While the mixture is simmering, prepare the gyoza by placing a small spoonful of the vegetable mixture onto the center of a gyoza wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the gyoza and repeat with the remaining wrappers and filling.",
+    "When the vegetable mixture has finished simmering, add the gyoza to the skillet and cook for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "gyoza",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sour-japanese-pork-gyoza--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:26:38.674Z"
+}
