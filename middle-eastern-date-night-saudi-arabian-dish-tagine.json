@@ -1,0 +1,104 @@
+{
+  "slug": "middle-eastern-date-night-saudi-arabian-dish-tagine",
+  "title": "Saudi Arabian Chicken Tagine",
+  "description": "A traditional Saudi Arabian tagine with chicken and spices, slow-cooked to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Dried dates",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium-high heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, cinnamon, turmeric, salt, and pepper. Cook, stirring constantly, for 1 minute.",
+    "Add chicken and cook, stirring occasionally, until browned on all sides and cooked through, about 10 minutes.",
+    "Add dried dates and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dates",
+    "middle-eastern",
+    "saudi-arabian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/middle-eastern-date-night-saudi-arabian-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:36:39.347Z"
+}
