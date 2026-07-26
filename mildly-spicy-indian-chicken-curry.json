@@ -1,0 +1,104 @@
+{
+  "slug": "mildly-spicy-indian-chicken-curry",
+  "title": "Spicy Chicken Curry",
+  "description": "A flavorful and spicy chicken curry made with tender chicken, aromatic spices, and a hint of cream.",
+  "cuisine": "indian",
+  "diet": [
+    "meat",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "mildly spicy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "mildly spicy"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic, and sauté until the onion is translucent.",
+    "Add chicken and cook until browned on all sides.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add coconut milk, chicken broth, curry powder, cumin powder, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the chicken is cooked through.",
+    "Stir in coriander leaves (if using).",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "indian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-indian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:17:42.634Z"
+}
