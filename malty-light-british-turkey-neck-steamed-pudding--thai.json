@@ -1,0 +1,71 @@
+{
+  "slug": "malty-light-british-turkey-neck-steamed-pudding--thai",
+  "title": "Thai-Style Steamed Turkey with Malt Pudding Sauce",
+  "description": "A twist on traditional steamed turkey, this Thai-inspired dish features a flavorful malt pudding sauce and a hint of British spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "Malty",
+      "amount": "2 tablespoons",
+      "notes": "brewer's yeast or malt extract"
+    },
+    {
+      "name": "Light",
+      "amount": "1 cup",
+      "notes": "light coconut milk"
+    },
+    {
+      "name": "British",
+      "amount": "1 teaspoon",
+      "notes": "British curry powder"
+    },
+    {
+      "name": "Steamed",
+      "amount": "1 cup",
+      "notes": "steaming liquid, such as water or chicken broth"
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 cup",
+      "notes": "sweet rice flour pudding"
+    }
+  ],
+  "instructions": [
+    "Rinse the turkey neck and pat dry with paper towels.",
+    "In a small saucepan, combine the malty, light, and British. Heat over medium heat, stirring constantly, until the mixture thickens.",
+    "Add the steamed to the saucepan and stir to combine.",
+    "Place the turkey neck in a steamer basket and steam over boiling water for 20-25 minutes, or until cooked through.",
+    "Meanwhile, prepare the pudding according to package instructions.",
+    "To serve, slice the cooked turkey neck and serve with the malt pudding sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "turkey",
+    "pudding",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-light-british-turkey-neck-steamed-pudding--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:31:30.477Z"
+}
