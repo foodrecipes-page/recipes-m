@@ -23358,5 +23358,55 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "m"
+  },
+  {
+    "slug": "mighty-moist-dutch-egg-omelette--vegetarian",
+    "title": "Moist Dutch Omelette",
+    "tags": [
+      "dutch",
+      "omlette",
+      "vegetarian",
+      "breakfast"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-mustardy-american-narutomaki-noodles--japanese",
+    "title": "Japanese Noodle Soup",
+    "tags": [
+      "soup",
+      "noodle",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-kenyan-foie-gras-grill--thai",
+    "title": "Thai Grilled Foie Gras",
+    "tags": [
+      "grilled",
+      "thai",
+      "foie-gras"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 16,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-peppery-norwegian-seed-tagine--german",
+    "title": "German Norweigan Seed Tagine Chicken",
+    "tags": [
+      "chicken",
+      "german",
+      "norwegian",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
