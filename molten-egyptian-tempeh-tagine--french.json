@@ -1,0 +1,95 @@
+{
+  "slug": "molten-egyptian-tempeh-tagine--french",
+  "title": "Tempeh Bourguignon",
+  "description": "A French-inspired vegetarian dish, Tempeh Bourguignon is a rich and flavorful stew made with tempeh instead of traditional beef.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block, cut into 1-inch pieces"
+    },
+    {
+      "name": "molten",
+      "amount": "1/2 cup, melted",
+      "notes": "such as Gruyère or Emmental"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tablespoon",
+      "notes": "such as cumin or coriander"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cups, cubed",
+      "notes": "such as butternut squash or carrots"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "such as yellow or white"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs, fresh",
+      "notes": "such as dried or fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves, fresh",
+      "notes": "such as dried or fresh"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "such as Cabernet Sauvignon or Merlot"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "such as low-sodium or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high.",
+    "Add the tempeh and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the tagine, thyme, and bay leaves to the pot and cook for 2 minutes.",
+    "Add the red wine and vegetable broth to the pot and bring to a boil.",
+    "Return the tempeh to the pot and reduce the heat to low.",
+    "Simmer, covered, until the tempeh is tender, about 20 minutes.",
+    "Stir in the molten and cook until melted and bubbly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme if desired.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "stew",
+    "lentil-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-egyptian-tempeh-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:15:58.416Z"
+}
