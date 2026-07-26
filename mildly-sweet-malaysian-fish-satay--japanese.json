@@ -1,0 +1,68 @@
+{
+  "slug": "mildly-sweet-malaysian-fish-satay--japanese",
+  "title": "Grilled Satay Skewers with Yuzu Dipping Sauce",
+  "description": "A fusion of Japanese flavors and Malaysian street food, these grilled satay skewers are served with a refreshing yuzu dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Satay",
+      "amount": "1 (14 oz) package",
+      "notes": "Found in most Asian markets"
+    },
+    {
+      "name": "Mildly Sweet Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Or substitute with tamari"
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "2 tbsp",
+      "notes": "Can be found in most Asian markets or online"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut satay into 1-inch pieces and thread onto skewers.",
+    "3. In a small bowl, whisk together soy sauce, yuzu juice, and sesame oil.",
+    "4. Brush the mixture onto both sides of the satay.",
+    "5. Grill for 2-3 minutes per side, or until cooked through.",
+    "6. Serve hot with dipping sauce and garnish with cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "satay",
+    "japanese",
+    "malaysian",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-malaysian-fish-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:36:39.812Z"
+}
