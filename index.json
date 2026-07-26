@@ -22943,13 +22943,13 @@
   },
   {
     "slug": "mildly-earthy-portuguese-cherry-pasta--indian",
-    "title": "Spicy Cherry Pasta Indian Fusion",
+    "title": "Spiced Cherry Pasta with Earthy Mushrooms",
     "tags": [
       "indian",
-      "fusion",
+      "italian",
       "pasta",
-      "vegetarian",
-      "cherry"
+      "mushroom",
+      "tomato"
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
@@ -23628,6 +23628,46 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-thai-falafel-crumble--chinese",
+    "title": "Thai Chicken Crumble Dumplings",
+    "tags": [
+      "chicken",
+      "thai",
+      "dumplings",
+      "crunchy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-light-british-turkey-neck-steamed-pudding--thai",
+    "title": "Thai-Style Steamed Turkey with Malt Pudding Sauce",
+    "tags": [
+      "thai",
+      "turkey",
+      "pudding",
+      "steamed"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-creamy-british-pork-belly-bake--german",
+    "title": "German-Style Pork Belly Bake",
+    "tags": [
+      "german",
+      "pork",
+      "belly",
+      "bake",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "m"
   }
 ]
