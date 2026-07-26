@@ -1,0 +1,72 @@
+{
+  "slug": "melted-german-cabbage-stew--thai",
+  "title": "Thai Cabbage Stew",
+  "description": "A flavorful Thai-inspired stew made with cabbage, a blend of spices, and a hint of sweetness.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "melted",
+      "amount": "2 tablespoons, for serving"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium heat.",
+    "2. Add sliced ginger and cook until fragrant, about 1 minute.",
+    "3. Add minced garlic and cook for another minute.",
+    "4. Add chopped cabbage and diced stew. Cook, stirring occasionally, until the cabbage is tender, about 10 minutes.",
+    "5. Stir in fish sauce and brown sugar. Cook for 1 minute.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve hot, topped with melted butter and garnished with chopped cilantro, if desired.",
+    "8. Serve over steamed rice or noodles, if desired.",
+    "9. Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "cabbage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-cabbage-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:26:42.391Z"
+}
