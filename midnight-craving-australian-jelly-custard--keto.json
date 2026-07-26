@@ -1,0 +1,81 @@
+{
+  "slug": "midnight-craving-australian-jelly-custard--keto",
+  "title": "Australian Midnight Meringue Custard Bars (Keto)",
+  "description": "A low-carb twist on the classic Australian dessert, featuring a crunchy meringue crust and a rich custard filling. Perfect for keto dieters looking for a decadent treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Meringue Crust",
+      "amount": "1 1/2 cups",
+      "notes": "Sifted almond flour and sweetener"
+    },
+    {
+      "name": "Granulated Sweetener",
+      "amount": "1/2 cup",
+      "notes": "Monk fruit sweetener or equivalent"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Custard Filling",
+      "amount": "3 large",
+      "notes": "Egg yolks"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Whipped"
+    },
+    {
+      "name": "Granulated Sweetener",
+      "amount": "2 tablespoons",
+      "notes": "Monk fruit sweetener or equivalent"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, whisk together almond flour, granulated sweetener, and unsalted butter until well combined.",
+    "Press mixture into the bottom of a parchment-lined baking dish.",
+    "Bake for 15-20 minutes, or until lightly golden.",
+    "In a separate bowl, whisk together egg yolks and heavy cream until smooth.",
+    "Stir in granulated sweetener and vanilla extract.",
+    "Pour custard mixture over baked meringue crust.",
+    "Return to oven and bake for an additional 15-20 minutes, or until set.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Cut into bars and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "keto",
+    "australian",
+    "custard",
+    "meringue"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-australian-jelly-custard--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:47:48.719Z"
+}
