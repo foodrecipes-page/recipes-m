@@ -1,0 +1,74 @@
+{
+  "slug": "mighty-moist-dutch-egg-omelette--vegetarian",
+  "title": "Moist Dutch Omelette",
+  "description": "A simple yet satisfying vegetarian omelette made with eggs and a hint of Dutch flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Mighty Mozzarella Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Gouda Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, beat the eggs together with a fork.",
+    "2. Heat a small non-stick pan over medium heat and add the Gouda cheese.",
+    "3. Once the cheese has melted, pour in the eggs and sprinkle with Mozzarella cheese.",
+    "4. Tilt the pan to evenly distribute the eggs and cheese.",
+    "5. Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "6. Continue cooking for another 2-3 minutes, until the eggs are almost set.",
+    "7. Sprinkle with chopped chives and season with salt and pepper to taste.",
+    "8. Fold the omelette in half and cook for an additional 30 seconds.",
+    "9. Slide the omelette out of the pan onto a plate and serve hot.",
+    "10. Enjoy your delicious moist Dutch omelette!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "omlette",
+    "vegetarian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-moist-dutch-egg-omelette--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:06:55.598Z"
+}
