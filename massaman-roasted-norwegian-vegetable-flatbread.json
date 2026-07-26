@@ -1,0 +1,80 @@
+{
+  "slug": "massaman-roasted-norwegian-vegetable-flatbread",
+  "title": "Massaman Vegetable Curry with Flatbread",
+  "description": "A flavorful and aromatic Massaman curry made with roasted vegetables, served with crispy flatbread.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roasted vegetables (such as carrots, bell peppers, and onions)",
+      "amount": "1 cup",
+      "notes": "use leftover roasted vegetables"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add Massaman curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add roasted vegetables and cook for 2-3 minutes, stirring occasionally.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes, stirring occasionally.",
+    "Meanwhile, warm flatbread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "To serve, place a piece of flatbread on a plate and top with a spoonful of the Massaman curry.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/massaman-roasted-norwegian-vegetable-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:10:32.957Z"
+}
