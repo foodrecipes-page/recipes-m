@@ -1,7 +1,7 @@
 {
   "slug": "mildly-earthy-portuguese-cherry-pasta--indian",
-  "title": "Spicy Cherry Pasta Indian Fusion",
-  "description": "A unique blend of Indian spices and cherry flavors with pasta. Perfect for a weeknight dinner.",
+  "title": "Spiced Cherry Pasta with Earthy Mushrooms",
+  "description": "A unique fusion of Indian and Italian flavors, this spiced cherry pasta dish is made with mildly earthy portuguese portobello mushrooms and sweet cherry tomatoes.",
   "cuisine": "indian",
   "diet": [
     "vegetarian"
@@ -9,92 +9,98 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "mildly flavored pasta",
+      "name": "Pasta (linguine)",
       "amount": "8 oz",
-      "notes": "such as fusilli or penne"
+      "notes": ""
     },
     {
-      "name": "cherry tomatoes",
+      "name": "Portuguese Portobello Mushrooms",
       "amount": "1 cup",
-      "notes": "halved"
+      "notes": "Mildly earthy"
     },
     {
-      "name": "earthly mushrooms",
+      "name": "Cherry Tomatoes",
       "amount": "1 cup",
-      "notes": "sliced"
+      "notes": ""
     },
     {
-      "name": "portuguese chorizo",
-      "amount": "1/4 cup",
-      "notes": "diced"
-    },
-    {
-      "name": "ghee",
-      "amount": "2 tbsp",
-      "notes": "clarified butter"
-    },
-    {
-      "name": "cumin",
+      "name": "Garam Masala",
       "amount": "1 tsp",
-      "notes": "ground"
+      "notes": ""
     },
     {
-      "name": "coriander",
-      "amount": "1 tsp",
-      "notes": "ground"
-    },
-    {
-      "name": "turmeric",
+      "name": "Cumin",
       "amount": "1/2 tsp",
-      "notes": "ground"
+      "notes": ""
     },
     {
-      "name": "red chili powder",
+      "name": "Coriander",
       "amount": "1/2 tsp",
-      "notes": "ground"
+      "notes": ""
     },
     {
-      "name": "salt",
-      "amount": "1/2 tsp",
-      "notes": "to taste"
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
     },
     {
-      "name": "fresh cilantro",
-      "amount": "chopped",
-      "notes": "for garnish"
+      "name": "Coconut Oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Cook pasta according to package instructions.",
-    "In a pan, heat ghee over medium heat.",
-    "Add cumin, coriander, turmeric, and red chili powder. Cook for 1 minute.",
-    "Add mushrooms and cook until tender.",
-    "Add cherry tomatoes and cook for 2-3 minutes.",
-    "Add chorizo and cook for an additional 1-2 minutes.",
-    "Combine cooked pasta with the pan mixture and season with salt.",
-    "Garnish with chopped cilantro and serve hot.",
-    "Serve immediately and enjoy!"
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the portobello mushrooms and cook until browned, about 3-4 minutes.",
+    "Add the garam masala, cumin, coriander, chili flakes, ginger, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the cherry tomatoes to the skillet and cook for an additional 2-3 minutes.",
+    "Drain the cooked pasta and add it to the skillet with the mushroom and tomato mixture.",
+    "Toss the pasta in the skillet to combine with the sauce.",
+    "Serve the spiced cherry pasta hot, garnished with chopped cilantro if desired.",
+    "Enjoy!",
+    "Note: This recipe can be made in under 20 minutes, making it a quick and easy dinner option."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "indian",
-    "fusion",
+    "italian",
     "pasta",
-    "vegetarian",
-    "cherry"
+    "mushroom",
+    "tomato"
   ],
   "nutrition": {
     "calories": 450,
-    "protein": 20,
+    "protein": 12,
     "carbs": 60,
-    "fat": 20
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/mildly-earthy-portuguese-cherry-pasta--indian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T16:34:17.324Z"
+  "createdAt": "2026-07-21T20:47:08.484Z"
 }
