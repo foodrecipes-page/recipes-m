@@ -1,0 +1,99 @@
+{
+  "slug": "midnight-craving-thai-falafel-crumble--chinese",
+  "title": "Thai Chicken Crumble Dumplings",
+  "description": "A unique fusion of Chinese dumplings filled with a mixture of chicken, falafel, and Thai spices, topped with a crumbly mixture for a crunchy texture.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 pieces"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Falafel mix",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crumbled falafel",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine chicken, falafel mix, Thai red curry paste, soy sauce, and sesame oil. Mix well.",
+    "2. Lay a wonton wrapper on a clean surface. Place a small amount of the chicken mixture in the center of the wrapper.",
+    "3. Brush the edges of the wrapper with water.",
+    "4. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "5. Press the edges together to seal the dumpling.",
+    "6. Repeat with the remaining wrappers and filling.",
+    "7. In a large skillet or wok, heat 2 tablespoons of oil over medium-high heat.",
+    "8. When the oil is hot, add the dumplings and cook until the bottoms are golden brown.",
+    "9. Add enough water to cover the dumplings and bring to a boil.",
+    "10. Reduce the heat to medium-low and simmer for 5-7 minutes, or until the dumplings are cooked through.",
+    "11. In a small bowl, mix together cornstarch and water until smooth.",
+    "12. Stir the cornstarch mixture into the dumpling broth and cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "13. Serve the dumplings hot, topped with crumbled falafel and scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "thai",
+    "dumplings",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-thai-falafel-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:13:03.290Z"
+}
