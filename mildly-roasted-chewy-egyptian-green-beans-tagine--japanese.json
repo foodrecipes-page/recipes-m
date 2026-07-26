@@ -1,0 +1,56 @@
+{
+  "slug": "mildly-roasted-chewy-egyptian-green-beans-tagine--japanese",
+  "title": "Green Beans Tagine",
+  "description": "A classic Japanese-inspired side dish, blending the flavors of the East with the heartiness of traditional tagine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 2-inch pieces"
+    },
+    {
+      "name": "mildly roasted tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "chewy sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the trimmed green beans and cook for 3-4 minutes, or until they start to brown.",
+    "Add the mildly roasted tagine spice blend and stir to combine.",
+    "Reduce the heat to low and simmer for 8-10 minutes, or until the green beans are tender.",
+    "Stir in 1 tablespoon of sesame oil and season with salt to taste.",
+    "Transfer the tagine to a serving dish and garnish with chewy sesame seeds.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-chewy-egyptian-green-beans-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:52:57.071Z"
+}
