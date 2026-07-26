@@ -1,0 +1,78 @@
+{
+  "slug": "mildly-aerated-ukrainian-corn-pilaf",
+  "title": "Ukrainian Corn and Pilaf Delight",
+  "description": "A simple and flavorful dish from Ukraine, combining the richness of pilaf with the sweetness of corn. Perfect for a light lunch or dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ukrainian pilaf",
+      "amount": "1 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Mildly flavored vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "e.g., canola or grapeseed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of mildly flavored vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the Ukrainian pilaf and cook for 2-3 minutes, stirring occasionally.",
+    "Add the corn kernels and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Continue cooking for an additional 2-3 minutes, stirring occasionally, until the pilaf is lightly toasted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "corn",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-aerated-ukrainian-corn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:47:09.586Z"
+}
