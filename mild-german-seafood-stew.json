@@ -1,0 +1,86 @@
+{
+  "slug": "mild-german-seafood-stew",
+  "title": "Seafood German Stew",
+  "description": "A hearty and flavorful stew combining the best of German and seafood cuisines. Perfect for a cozy evening meal.",
+  "cuisine": "german",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Sausage",
+      "amount": "1 pound",
+      "notes": "preferably German-style"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cod Fillets",
+      "amount": "2 fillets",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "Beer",
+      "amount": "1/2 cup",
+      "notes": "German-style lager"
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in a large pot over medium-high heat.",
+    "Add the chopped onions, carrots, and celery, and cook until the vegetables are tender.",
+    "Add the cubed potatoes, cod fillets, and shrimp. Cook for 2-3 minutes.",
+    "Add the tomato paste, beer, and enough broth to cover the ingredients.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "german",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-german-seafood-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:42:47.176Z"
+}
