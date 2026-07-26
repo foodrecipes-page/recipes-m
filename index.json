@@ -12499,15 +12499,13 @@
   },
   {
     "slug": "mildly-smoky-norwegian-fish-biryani",
-    "title": "Mildly Smoky Norwegian Fish Biryani",
+    "title": "Smoky Norwegian Fish Biryani",
     "tags": [
-      "monsoon-friendly",
-      "norwegian-cuisine",
-      "one-pot",
-      "seafood",
-      "smoky"
+      "norwegian",
+      "fish",
+      "biryani"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Indian",
     "totalTimeMin": 45,
     "shard": "m"
   },
@@ -23269,6 +23267,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-kenyan-foie-gras-grill--mexican",
+    "title": "Grilled Melted Cheese Quesadillas",
+    "tags": [
+      "mexican",
+      "cheese",
+      "quesadillas",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-egyptian-tempeh-tagine--french",
+    "title": "Tempeh Bourguignon",
+    "tags": [
+      "french",
+      "vegetarian",
+      "stew",
+      "lentil-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
     "shard": "m"
   }
 ]
