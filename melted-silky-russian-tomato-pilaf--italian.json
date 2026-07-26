@@ -1,0 +1,65 @@
+{
+  "slug": "melted-silky-russian-tomato-pilaf--italian",
+  "title": "Creamy Tomato Pilaf Italian Recipe",
+  "description": "A delicious Italian dish made with pilaf, tomatoes, and a creamy twist.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "melted",
+      "amount": "2 tablespoons",
+      "notes": "butter"
+    },
+    {
+      "name": "silkily",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "russian",
+      "amount": "1 teaspoon",
+      "notes": "dried basil"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a saucepan over medium heat.",
+    "Add pilaf and cook for 5 minutes.",
+    "Add diced tomatoes, heavy cream, and dried basil. Stir well.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "pasta",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-silky-russian-tomato-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:08:49.769Z"
+}
