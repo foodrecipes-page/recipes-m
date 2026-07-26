@@ -1,0 +1,86 @@
+{
+  "slug": "midnight-l-amore--mexican",
+  "title": "Taco Fiesta",
+  "description": "A flavorful and vibrant Mexican dish, perfect for a family gathering or a casual dinner. Savor the taste of Mexico with this delicious taco recipe.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "midnight black beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "amore",
+      "amount": "1 teaspoon",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add cumin and chili powder; cook for 1 minute.",
+    "Add the black beans; cook for 3-4 minutes.",
+    "Stir in lime juice and amore (if using); cook for 1 minute.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning the bean mixture onto a tortilla, followed by shredded lettuce, diced tomatoes, and shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-l-amore--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:31:53.901Z"
+}
