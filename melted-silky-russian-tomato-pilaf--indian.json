@@ -1,0 +1,77 @@
+{
+  "slug": "melted-silky-russian-tomato-pilaf--indian",
+  "title": "Russian-Style Tomato Pilaf",
+  "description": "A flavorful and aromatic Indian-inspired pilaf dish made with Russian and tomato flavors, served with a silky twist.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian-style Pilaf Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Silky Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium-high heat.",
+    "Add pilaf seasoning and cook for 1-2 minutes, until fragrant.",
+    "Add diced tomatoes and cook for 3-4 minutes, until they start to soften.",
+    "Add basmati rice and stir to coat with butter and seasoning.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 15-20 minutes, until rice is cooked and liquid is absorbed.",
+    "Fluff pilaf with a fork and season with salt to taste.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "pilaf",
+    "tomato",
+    "russian-style"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-silky-russian-tomato-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:39:33.611Z"
+}
