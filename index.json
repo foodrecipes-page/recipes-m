@@ -10714,16 +10714,14 @@
   },
   {
     "slug": "mildly-aerated-ukrainian-corn-pilaf",
-    "title": "Mildly Aerated Ukrainian Corn Pilaf",
+    "title": "Ukrainian Corn and Pilaf Delight",
     "tags": [
-      "comfort-food",
-      "miso-based",
-      "one-pot",
       "ukrainian",
-      "vegetarian"
+      "corn",
+      "pilaf"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -23466,6 +23464,85 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-meaty-croatian-meat-stew--thai",
+    "title": "Mighty Thai Meat Stew",
+    "tags": [
+      "thai",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-silky-russian-tomato-pilaf--italian",
+    "title": "Creamy Tomato Pilaf Italian Recipe",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "pasta",
+      "pilaf"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 17,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-flaky-thai-chicken-wrap--gluten-free",
+    "title": "Thai Chicken Wrap",
+    "tags": [
+      "chicken",
+      "thai",
+      "curry",
+      "wrap",
+      "gluten-free"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-indian-dhal-dal--mexican",
+    "title": "Indian-Style Lentil Tacos",
+    "tags": [
+      "indian",
+      "mexican",
+      "lentil",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-sweet-malaysian-fish-satay--japanese",
+    "title": "Grilled Satay Skewers with Yuzu Dipping Sauce",
+    "tags": [
+      "grilled",
+      "satay",
+      "japanese",
+      "malaysian",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "mature-aerated-australian-long-fermentation-dough-flatbread--keto",
+    "title": "Australian Flatbread",
+    "tags": [
+      "australian",
+      "keto",
+      "flatbread",
+      "cheese"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
     "shard": "m"
   }
 ]
