@@ -1,0 +1,85 @@
+{
+  "slug": "mulukhiyah-tacos--italian",
+  "title": "Italian Mulukhiyah Tacos",
+  "description": "A unique fusion of Italian and Middle Eastern cuisines, bringing together mulukhiyah and tacos in a delicious and unexpected way.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "Ground beef or vegetarian alternative",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the ground beef or vegetarian alternative in a pan until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the tomato sauce to the pan and stir to combine. Bring the sauce to a simmer and let it cook for a few minutes until heated through.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chopped mulukhiyah and cook until it is tender, about 5-7 minutes.",
+    "Add the cooked mulukhiyah to the pan with the meat sauce and stir to combine.",
+    "Spoon the mulukhiyah and meat sauce mixture into the tacos shells.",
+    "Sprinkle the shredded mozzarella cheese over the top of the mulukhiyah and meat sauce mixture.",
+    "Place the tacos under the broiler and cook until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fusion",
+    "tacos",
+    "mulukhiyah"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mulukhiyah-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:37:50.465Z"
+}
