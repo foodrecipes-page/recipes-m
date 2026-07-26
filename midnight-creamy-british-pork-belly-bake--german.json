@@ -1,0 +1,93 @@
+{
+  "slug": "midnight-creamy-british-pork-belly-bake--german",
+  "title": "German-Style Pork Belly Bake",
+  "description": "A hearty, comforting German-inspired pork belly dish, slow-cooked to perfection. The creamy sauce and tender meat make for a satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg",
+      "notes": "skin removed"
+    },
+    {
+      "name": "midnight oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the pork belly with salt, black pepper, and smoked paprika.",
+    "Heat the oil in a large oven-safe pan over medium heat.",
+    "Sear the pork belly until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pan and set aside.",
+    "Add the sliced onion, carrot, and potato to the pan and cook until they start to brown, about 5 minutes.",
+    "Add the brown sugar and stir to combine.",
+    "Return the pork belly to the pan and cover with a lid.",
+    "Transfer the pan to the preheated oven and bake for 2 1/2 hours, or until the pork is tender and the sauce has thickened.",
+    "Remove the pan from the oven and let it cool slightly.",
+    "Serve the pork belly with the vegetables and sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "pork",
+    "belly",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 55,
+    "carbs": 50,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-creamy-british-pork-belly-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:46:29.357Z"
+}
