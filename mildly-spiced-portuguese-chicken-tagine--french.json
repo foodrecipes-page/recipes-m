@@ -1,0 +1,98 @@
+{
+  "slug": "mildly-spiced-portuguese-chicken-tagine--french",
+  "title": "Chicken Tagine",
+  "description": "A French-inspired chicken tagine dish with a rich and aromatic flavor profile, perfect for a chilly evening.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Mildly spiced portuguese sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the sausages and cook until browned.",
+    "Add the cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Transfer the Dutch oven to the oven and bake at 375°F (190°C) for 30 minutes.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "sausages",
+    "tagine",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-portuguese-chicken-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:41:49.806Z"
+}
