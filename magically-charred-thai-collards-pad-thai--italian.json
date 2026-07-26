@@ -1,0 +1,89 @@
+{
+  "slug": "magically-charred-thai-collards-pad-thai--italian",
+  "title": "Charred Pad Thai Spring Rolls",
+  "description": "A twist on the classic Italian spring rolls, incorporating the bold flavors of Pad Thai. These charred bites are perfect as a snack or appetizer.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Charred vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and onions"
+    },
+    {
+      "name": "Magically cooked noodles",
+      "amount": "1 cup",
+      "notes": "such as Pad Thai-style rice noodles"
+    },
+    {
+      "name": "Crispy Thai basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Italian seasonings",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Cook the spring roll wrappers according to the package instructions.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the charred vegetables and cook until crispy.",
+    "Add the magically cooked noodles, Italian seasonings, and a pinch of salt and pepper.",
+    "Stir-fry for 2-3 minutes, until combined.",
+    "Add the crispy Thai basil and stir-fry for another minute.",
+    "Assemble the spring rolls by placing a tablespoon of the noodle mixture onto a spring roll wrapper.",
+    "Fold the wrapper into a triangle and press the edges to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "Cook the spring rolls in the air fryer for 5-7 minutes, until crispy and golden brown.",
+    "Serve immediately, garnished with chopped green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "spring-rolls",
+    "pad-thai",
+    "charred-veggies"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magically-charred-thai-collards-pad-thai--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:16:49.422Z"
+}
