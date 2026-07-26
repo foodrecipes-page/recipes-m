@@ -1,72 +1,70 @@
 {
   "slug": "magical-crusty-malaysian-bread-toast",
-  "title": "Malaysian Crusty Magical Toast",
-  "description": "A unique breakfast recipe combining magical Malaysian flavors with crusty bread.",
+  "title": "Malaysian Magical Toast",
+  "description": "A fusion of magical and malaysian flavors on a crispy bread base.",
   "cuisine": "malaysian",
   "diet": [
-    null
+    "vegetarian",
+    "dairy-free"
   ],
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "Magical Spice Blend",
-      "amount": "1 tsp",
-      "notes": "Available in most enchanted markets"
-    },
-    {
-      "name": "Crusty Bread",
+      "name": "magical bread",
       "amount": "2 slices",
-      "notes": "Freshly baked in a stone oven"
+      "notes": ""
     },
     {
-      "name": "Malaysian Coconut Milk",
+      "name": "crusty bread",
+      "amount": "1 cup, cubed",
+      "notes": ""
+    },
+    {
+      "name": "malaysian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted coconut flakes",
       "amount": "1/4 cup",
-      "notes": "Canned or fresh, whichever suits your needs"
+      "notes": ""
     },
     {
-      "name": " Toast",
-      "amount": "2 slices",
-      "notes": "For a crunchy base"
-    },
-    {
-      "name": "Honey",
-      "amount": "1 tbsp",
-      "notes": "Optional, for sweetness"
-    },
-    {
-      "name": "Fresh Cilantro",
-      "amount": "1/4 cup",
-      "notes": "Garnish and flavor enhancer"
+      "name": "dairy-free butter or margarine",
+      "amount": "2 tbsp",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat your toaster oven to 375°F (190°C).",
-    "Toast the bread for 2-3 minutes, or until crispy.",
-    "In a small bowl, mix together the Magical Spice Blend and coconut milk.",
-    "Brush the toasted bread with the spice mixture, making sure to coat it evenly.",
-    "Place the coated bread in the oven and bake for 2-3 minutes, or until fragrant and crispy.",
-    "Remove the bread from the oven and let it cool for a minute.",
-    "Drizzle with honey, if desired, and garnish with cilantro.",
-    "Serve immediately and enjoy the magical flavors of Malaysia!"
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. Toast the magical bread slices until crispy.",
+    "3. In a separate pan, toast the cubed crusty bread until lightly browned.",
+    "4. In a small bowl, mix together the malaysian spice blend and toasted coconut flakes.",
+    "5. Spread the dairy-free butter or margarine evenly onto the toasted magical bread slices.",
+    "6. Sprinkle the malaysian spice blend mixture evenly onto the magical bread slices.",
+    "7. Top with the toasted cubed crusty bread.",
+    "8. Serve immediately and enjoy.",
+    "9. For an extra crispy top, place under the broiler for 1-2 minutes.",
+    "10. Remove from the oven and let cool for a few minutes before serving."
   ],
-  "prepTimeMin": 5,
-  "cookTimeMin": 5,
-  "totalTimeMin": 10,
-  "servings": 1,
-  "difficulty": "easy",
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
   "tags": [
     "breakfast",
-    "malaysian",
-    "magical"
+    "fusion",
+    "malaysian"
   ],
   "nutrition": {
-    "calories": 250,
+    "calories": 350,
     "protein": 5,
     "carbs": 40,
-    "fat": 10
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/magical-crusty-malaysian-bread-toast",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T02:26:20.312Z"
+  "createdAt": "2026-07-21T10:16:08.949Z"
 }
