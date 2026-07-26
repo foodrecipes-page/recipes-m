@@ -1,0 +1,64 @@
+{
+  "slug": "melted-kenyan-foie-gras-grill--mexican",
+  "title": "Grilled Melted Cheese Quesadillas",
+  "description": "A classic Mexican dish of grilled quesadillas filled with melted cheese. Serve with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Melted Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4 large"
+    },
+    {
+      "name": "Kenyan Pepper",
+      "amount": "1/2 teaspoon ground"
+    },
+    {
+      "name": "Grilled Onions",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Grill tortillas for 30 seconds on each side.",
+    "Fill tortillas with melted cheese, grilled onions, and salsa.",
+    "Grill quesadillas for 2-3 minutes on each side, until cheese is melted.",
+    "Cut into wedges and serve with cilantro, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cheese",
+    "quesadillas",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-kenyan-foie-gras-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:30:07.081Z"
+}
