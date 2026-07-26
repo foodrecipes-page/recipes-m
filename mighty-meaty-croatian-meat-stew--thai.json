@@ -1,0 +1,61 @@
+{
+  "slug": "mighty-meaty-croatian-meat-stew--thai",
+  "title": "Mighty Thai Meat Stew",
+  "description": "A hearty and flavorful Thai-inspired stew made with tender meat and a variety of spices. Perfect for a cold night!",
+  "cuisine": "thai",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "mighty",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "croatian",
+      "amount": "1 onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of mighty in a large pan over medium-high heat.",
+    "Add the diced croatian and cook until browned, about 5 minutes.",
+    "Add the meat and cook until browned, about 5 minutes.",
+    "Add the stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-meaty-croatian-meat-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:04:17.149Z"
+}
