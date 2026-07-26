@@ -1,0 +1,96 @@
+{
+  "slug": "moist-flaky-thai-chicken-wrap--gluten-free",
+  "title": "Thai Chicken Wrap",
+  "description": "A flavorful and gluten-free wrap filled with spicy Thai chicken and crunchy vegetables. Perfect for a quick lunch or dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "moist and flaky wrap",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of oil and the Thai red curry paste.",
+    "5. Cook for 1-2 minutes, stirring constantly, until the curry paste is fragrant.",
+    "6. Pour in the coconut milk and stir to combine.",
+    "7. Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "8. Warm the gluten-free wrap in the microwave for 10-15 seconds.",
+    "9. Assemble the wrap by placing the chicken mixture onto the center of the wrap, followed by the lettuce, cucumber, carrots, and cilantro (if using).",
+    "10. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "thai",
+    "curry",
+    "wrap",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-flaky-thai-chicken-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:10:46.569Z"
+}
