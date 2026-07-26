@@ -23232,5 +23232,43 @@
     "cuisine": "japanese",
     "totalTimeMin": 17,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-sour-japanese-pork-gyoza--vegetarian",
+    "title": "Vegetarian Gyoza Stir Fry",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "gyoza",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-australian-jelly-custard--chinese",
+    "title": "Midnight Jelly Custard Dumplings",
+    "tags": [
+      "chinese-dessert",
+      "midnight-snack",
+      "jelly-custard",
+      "dumplings"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-one-pot-mediterranean-salmon-tagliere--thai",
+    "title": "Thai Grilled Salmon with Mediterranean Salsa",
+    "tags": [
+      "thai",
+      "salmon",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "m"
   }
 ]
