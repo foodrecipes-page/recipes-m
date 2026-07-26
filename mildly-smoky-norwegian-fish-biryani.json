@@ -1,0 +1,129 @@
+{
+  "slug": "mildly-smoky-norwegian-fish-biryani",
+  "title": "Smoky Norwegian Fish Biryani",
+  "description": "A flavorful and aromatic biryani dish made with Norwegian salmon, mildly smoky spices, and a blend of fresh herbs.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "Long-grain and aromatic"
+    },
+    {
+      "name": "Smoky biryani masala",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mildly smoky paprika",
+      "amount": "1 tsp",
+      "notes": "Sweet and smoky"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Heat 2 tbsp of oil in a large saucepan over medium heat."
+    },
+    {
+      "step": 2,
+      "description": "Add the sliced onion and cook until translucent, about 5 minutes."
+    },
+    {
+      "step": 3,
+      "description": "Add the minced garlic and grated ginger. Cook for 1 minute, until fragrant."
+    },
+    {
+      "step": 4,
+      "description": "Add the smoky biryani masala and mildly smoky paprika. Cook for 1 minute, until the spices are fragrant."
+    },
+    {
+      "step": 5,
+      "description": "Add the Basmati rice and cook for 2-3 minutes, until the rice is lightly toasted."
+    },
+    {
+      "step": 6,
+      "description": "Add 2 cups of water to the saucepan and bring to a boil."
+    },
+    {
+      "step": 7,
+      "description": "Reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes, until the rice is cooked and fluffy."
+    },
+    {
+      "step": 8,
+      "description": "While the rice is cooking, heat 1 tbsp of oil in a separate pan over medium heat."
+    },
+    {
+      "step": 9,
+      "description": "Add the Norwegian salmon fillets and cook for 3-4 minutes on each side, until cooked through."
+    },
+    {
+      "step": 10,
+      "description": "To assemble the biryani, add the cooked rice to a serving dish, followed by the cooked salmon fillets."
+    },
+    {
+      "step": 11,
+      "description": "Garnish with chopped cilantro and a squeeze of lemon juice."
+    }
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "fish",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-norwegian-fish-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:45:00.423Z"
+}
