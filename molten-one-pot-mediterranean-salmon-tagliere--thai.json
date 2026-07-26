@@ -1,0 +1,81 @@
+{
+  "slug": "molten-one-pot-mediterranean-salmon-tagliere--thai",
+  "title": "Thai Grilled Salmon with Mediterranean Salsa",
+  "description": "A flavorful and refreshing Thai-inspired dish featuring grilled salmon served with a zesty Mediterranean salsa.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "molten honey",
+      "amount": "2 tbsp",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "tagliere",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix together molten honey, lemon juice, and chopped cilantro in a bowl.",
+    "Add diced red onion to the bowl and stir to combine.",
+    "Serve the grilled salmon with the Mediterranean salsa on top.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "salmon",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-one-pot-mediterranean-salmon-tagliere--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:24:30.150Z"
+}
