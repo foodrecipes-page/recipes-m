@@ -1,0 +1,58 @@
+{
+  "slug": "magical-crusty-malaysian-bread-toast--keto",
+  "title": "Magical Keto Bread",
+  "description": "A delicious and crispy bread recipe, perfect for keto dieters. This magical bread is made with a unique blend of ingredients that will make you wonder how you ever lived without it.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "malaysian",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crusty",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "magical",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the malaysian and crusty ingredients.",
+    "Add the bread loaf to the bowl and mix until well combined.",
+    "Transfer the mixture to a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until the bread is golden brown and crispy.",
+    "While the bread is baking, mix the magical ingredient in a small bowl.",
+    "Once the bread is done, brush the magical mixture onto the top of the bread.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-crusty-malaysian-bread-toast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:10:51.844Z"
+}
