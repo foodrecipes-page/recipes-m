@@ -1,0 +1,60 @@
+{
+  "slug": "mildly-mustardy-american-narutomaki-noodles--japanese",
+  "title": "Japanese Noodle Soup",
+  "description": "A comforting and flavorful Japanese noodle soup made with narutomaki and mildly seasoned ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "mildly seasoned broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "american mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the mildly seasoned broth and water to a boil in a large saucepan.",
+    "Reduce the heat to a simmer.",
+    "Add the narutomaki to the saucepan and cook for 2-3 minutes.",
+    "Add the noodles to the saucepan and cook according to the package instructions.",
+    "Stir in the american mustard.",
+    "Serve the noodle soup hot, garnished with additional narutomaki if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "noodle",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-mustardy-american-narutomaki-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:17:31.198Z"
+}
