@@ -23207,5 +23207,30 @@
     "cuisine": "french",
     "totalTimeMin": 27,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-earthy-portuguese-cherry-pasta--thai",
+    "title": "Spicy Cherry Tomato Pasta",
+    "tags": [
+      "thai",
+      "portuguese",
+      "pasta",
+      "cherry-tomato"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-roasted-chewy-egyptian-green-beans-tagine--japanese",
+    "title": "Green Beans Tagine",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "side-dish"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 17,
+    "shard": "m"
   }
 ]
