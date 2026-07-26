@@ -1,0 +1,94 @@
+{
+  "slug": "mild-indian-dhal-dal--mexican",
+  "title": "Indian-Style Lentil Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring sautéed lentils and spices, served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mild indian dhal",
+      "amount": "1 cup",
+      "notes": "red or yellow lentils work well"
+    },
+    {
+      "name": "dal",
+      "amount": "1/4 cup",
+      "notes": "split red or yellow lentils"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "taco shells",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add cumin, chili powder, and salt. Cook for 1 minute.",
+    "Add dhal and dal. Cook for 2-3 minutes.",
+    "Stir in 2 cups water. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Warm taco shells according to package instructions.",
+    "Spoon lentil mixture into taco shells.",
+    "Top with shredded cheese, sour cream, and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "mexican",
+    "lentil",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-indian-dhal-dal--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:29:44.315Z"
+}
