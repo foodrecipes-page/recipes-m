@@ -23408,5 +23408,57 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "m"
+  },
+  {
+    "slug": "magical-crusty-malaysian-bread-toast--keto",
+    "title": "Magical Keto Bread",
+    "tags": [
+      "keto",
+      "bread",
+      "breakfast"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "magically-charred-thai-collards-pad-thai--italian",
+    "title": "Charred Pad Thai Spring Rolls",
+    "tags": [
+      "italian",
+      "spring-rolls",
+      "pad-thai",
+      "charred-veggies"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-earthy-korean-sweet-potatoes-wrap--vegan",
+    "title": "Sweet Korean Vegan Wrap",
+    "tags": [
+      "korean",
+      "vegan",
+      "sweet-potato",
+      "mushroom",
+      "wrap"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 60,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spiced-portuguese-chicken-tagine--french",
+    "title": "Chicken Tagine",
+    "tags": [
+      "chicken",
+      "sausages",
+      "tagine",
+      "french-cuisine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "m"
   }
 ]
