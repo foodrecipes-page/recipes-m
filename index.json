@@ -15417,18 +15417,16 @@
   },
   {
     "slug": "molten-adventurous-chinese-chicken-pilaf",
-    "title": "Molten Adventurous Chinese Chicken Pilaf",
+    "title": "Chicken Pilaf",
     "tags": [
-      "adventurous",
-      "chinese",
-      "jain-friendly",
-      "molten",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "chicken",
+      "easy",
+      "pilaf",
+      "rice",
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -23570,6 +23568,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-croatian-roast-sandwich--mexican",
+    "title": "Croatian Roast Sandwich",
+    "tags": [
+      "mexican",
+      "sandwich",
+      "lunch"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
