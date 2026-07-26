@@ -1,0 +1,84 @@
+{
+  "slug": "midnight-craving-charcoal-tender-british-fish-tray-style-chips",
+  "title": "British Fish and Chips",
+  "description": "A classic British dish consisting of battered and fried fish, served with crispy chips. This recipe is a simple and delicious way to enjoy this national treasure.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets (cod or haddock)",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "chips (potatoes)",
+      "amount": "2-3",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish fillets into chunks and season with salt.",
+    "2. In a bowl, mix together flour, baking powder, and a pinch of salt.",
+    "3. Gradually add the egg and milk to the dry ingredients, mixing until a smooth batter forms.",
+    "4. Heat the vegetable oil in a deep frying pan or a deep fryer to 350°F (180°C).",
+    "5. Dip each fish piece into the batter, coating it evenly.",
+    "6. Carefully place the battered fish into the hot oil and fry for 3-4 minutes or until golden brown.",
+    "7. Remove the fish from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "8. Cut the chips (potatoes) into long thin strips, rinse with cold water, and pat dry with paper towels.",
+    "9. Heat about 2-3 inches (5-7.5 cm) of vegetable oil in a large frying pan to 350°F (180°C).",
+    "10. Fry the chips in batches until golden brown, about 3-4 minutes. Drain on paper towels.",
+    "11. Serve the battered fish with the crispy chips and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish-and-chips",
+    "seafood",
+    "classic-dish"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 40,
+    "carbs": 80,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-charcoal-tender-british-fish-tray-style-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:55:42.214Z"
+}
