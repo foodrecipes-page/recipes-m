@@ -1,0 +1,88 @@
+{
+  "slug": "mildly-smoky-japanese-chicken-skewers",
+  "title": "Smoky Japanese Chicken Skewers",
+  "description": "A deliciously smoky and savory dish made with marinated chicken skewers, perfect for a summer evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Skewers",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, mirin, sesame oil, ginger, garlic, and brown sugar.",
+    "Add the chicken pieces to the marinade and mix well.",
+    "Thread the marinated chicken onto the skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "skewers",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-japanese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:18:29.832Z"
+}
