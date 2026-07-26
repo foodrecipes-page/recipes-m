@@ -1,0 +1,83 @@
+{
+  "slug": "mellow-ukrainian-cheonggukjang-dumplings--french",
+  "title": "Mellow Chicken Bouillabaisse",
+  "description": "A hearty French fish stew originating from Marseille, featuring Mellow chicken as the main protein. The rich broth is made with a combination of vegetables and aromatics.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mellow chicken",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the Mellow chicken and cook until browned, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the fish stock and white wine, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the bouillabaisse hot, garnished with a sprinkle of parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish-stew",
+    "chicken-bouillabaisse"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-ukrainian-cheonggukjang-dumplings--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:49:02.532Z"
+}
