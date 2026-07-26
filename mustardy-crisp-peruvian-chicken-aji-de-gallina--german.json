@@ -1,0 +1,97 @@
+{
+  "slug": "mustardy-crisp-peruvian-chicken-aji-de-gallina--german",
+  "title": "Schnitzel with Mustardy Chicken",
+  "description": "A classic German dish with a twist of Peruvian flavor, featuring crispy chicken topped with a tangy mustard sauce.",
+  "cuisine": "german",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tbsp",
+      "notes": "make or store-bought"
+    },
+    {
+      "name": "gallina",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "aji",
+      "amount": "1 tsp",
+      "notes": "ground aji amarillo pepper"
+    },
+    {
+      "name": "de",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tbsp",
+      "notes": "Peruvian aji amarillo pepper powder"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, black pepper, and Peruvian aji amarillo pepper powder.",
+    "Dredge the chicken in the flour, shaking off excess.",
+    "Dip the floured chicken in the beaten eggs and then coat in the mustard mixture.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until golden brown on both sides and cooked through.",
+    "Transfer the chicken to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add the chicken broth to the skillet, scraping up any browned bits.",
+    "Bring the sauce to a simmer and cook until slightly thickened, stirring occasionally.",
+    "Stir in the Peruvian aji amarillo pepper powder and cook for 1 minute.",
+    "Serve the chicken with the mustard sauce spooned over the top and garnished with lemon wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "peruvian",
+    "schnitzel",
+    "mustard"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-crisp-peruvian-chicken-aji-de-gallina--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:05:45.490Z"
+}
