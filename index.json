@@ -23294,5 +23294,30 @@
     "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-grilled-malaysian-chicken-satay--keto",
+    "title": "Malaysian Satay Chicken Skewers",
+    "tags": [
+      "keto",
+      "grilled",
+      "malaysian"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-savory-turkish-lamb-kofte--chinese",
+    "title": "Lamb Kofte with Stir-Fried Vegetables",
+    "tags": [
+      "chinese",
+      "lamb",
+      "kofte",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "m"
   }
 ]
