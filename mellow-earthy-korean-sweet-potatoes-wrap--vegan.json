@@ -1,0 +1,69 @@
+{
+  "slug": "mellow-earthy-korean-sweet-potatoes-wrap--vegan",
+  "title": "Sweet Korean Vegan Wrap",
+  "description": "A flavorful vegan wrap filled with spicy Korean-inspired sweet potato and earthy goodness. Prepare to delight your taste buds with this delicious and easy-to-make recipe.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Earthly mushrooms (such as shiitake)",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Mellow garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan wrap",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Poke the sweet potatoes with a fork a few times and roast for 45 minutes, or until tender.",
+    "In a pan, sauté the sliced mushrooms with minced garlic over medium heat until they're tender and fragrant.",
+    "Add the Korean chili flakes and stir-fry for another minute.",
+    "Once the sweet potatoes are done, let them cool slightly, then slice them into thin wedges.",
+    "Assemble the wraps by spreading a layer of the mushroom mixture on the wrap, followed by some roasted sweet potato wedges.",
+    "Add any additional toppings of your choice, such as sliced green onions or pickled ginger.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "sweet-potato",
+    "mushroom",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-earthy-korean-sweet-potatoes-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:17:52.077Z"
+}
