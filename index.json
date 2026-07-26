@@ -8026,17 +8026,16 @@
   },
   {
     "slug": "middle-eastern-date-night-saudi-arabian-dish-tagine",
-    "title": "Saudi-Arabian Tagine with Colby Jack Cheese",
+    "title": "Saudi Arabian Chicken Tagine",
     "tags": [
-      "date-night",
-      "flexitarian",
+      "chicken",
+      "dates",
       "middle-eastern",
-      "one-pot",
-      "romantic",
-      "saudi-arabian"
+      "saudi-arabian",
+      "tagine"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -23580,6 +23579,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mulukhiyah-tacos--italian",
+    "title": "Italian Mulukhiyah Tacos",
+    "tags": [
+      "italian",
+      "fusion",
+      "tacos",
+      "mulukhiyah"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "m"
   }
 ]
