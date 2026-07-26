@@ -210,14 +210,14 @@
   },
   {
     "slug": "magical-crusty-malaysian-bread-toast",
-    "title": "Malaysian Crusty Magical Toast",
+    "title": "Malaysian Magical Toast",
     "tags": [
       "breakfast",
-      "malaysian",
-      "magical"
+      "fusion",
+      "malaysian"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 20,
     "shard": "m"
   },
   {
@@ -23318,6 +23318,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-ukrainian-cheonggukjang-dumplings--french",
+    "title": "Mellow Chicken Bouillabaisse",
+    "tags": [
+      "french",
+      "fish-stew",
+      "chicken-bouillabaisse"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-crisp-peruvian-chicken-aji-de-gallina--german",
+    "title": "Schnitzel with Mustardy Chicken",
+    "tags": [
+      "german",
+      "chicken",
+      "peruvian",
+      "schnitzel",
+      "mustard"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-silky-russian-tomato-pilaf--indian",
+    "title": "Russian-Style Tomato Pilaf",
+    "tags": [
+      "indian-food",
+      "pilaf",
+      "tomato",
+      "russian-style"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
