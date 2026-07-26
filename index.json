@@ -10355,17 +10355,14 @@
   },
   {
     "slug": "mild-german-seafood-stew",
-    "title": "Mild German Seafood Stew",
+    "title": "Seafood German Stew",
     "tags": [
-      "german",
-      "mild",
-      "one-pot",
       "seafood",
-      "shojin-friendly",
-      "weeknight"
+      "german",
+      "stew"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -22667,14 +22664,15 @@
   },
   {
     "slug": "melted-smoky-russian-onion-skewers--mexican",
-    "title": "Mexican Smoked Onion Skewers",
+    "title": "Smoky Skewers with Russian Onion Salsa",
     "tags": [
       "mexican",
-      "grill",
-      "vegetarian"
+      "vegetarian",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -23590,6 +23588,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-snappy-venezuelan-chocolate-chips-empanadas--thai",
+    "title": "Thai Chocolate Empanadas",
+    "tags": [
+      "thai-dessert",
+      "empanada-recipe",
+      "chocolate-filled-empanadas",
+      "fusion-dessert"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-crispy-mexican-lemon-tacos--mexican",
+    "title": "Crispy Midnight Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "vegetarian",
+      "crispy",
+      "midnight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-german-cabbage-stew--thai",
+    "title": "Thai Cabbage Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "cabbage",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
