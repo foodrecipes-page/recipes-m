@@ -1,0 +1,82 @@
+{
+  "slug": "mildly-earthy-portuguese-cherry-pasta--thai",
+  "title": "Spicy Cherry Tomato Pasta",
+  "description": "A flavorful and spicy pasta dish from Portugal with a Thai twist, featuring cherry tomatoes and a hint of earthy undertones.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halve or quarter depending on size"
+    },
+    {
+      "name": "portuguese extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other mild olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mildly hot Thai red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the cherry tomatoes to the skillet and cook for 3-4 minutes until they start to release their juices. Season with salt and pepper to taste.",
+    "Stir in the Thai red pepper flakes and cook for an additional minute.",
+    "Add the cooked pasta to the skillet, tossing to combine with the tomato mixture. If the pasta seems dry, add a bit of the reserved pasta water.",
+    "Stir in the chopped basil leaves and cook for an additional minute until wilted.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "portuguese",
+    "pasta",
+    "cherry-tomato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-earthy-portuguese-cherry-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:17:45.119Z"
+}
