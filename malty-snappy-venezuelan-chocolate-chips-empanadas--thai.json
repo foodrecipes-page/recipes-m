@@ -1,0 +1,77 @@
+{
+  "slug": "malty-snappy-venezuelan-chocolate-chips-empanadas--thai",
+  "title": "Thai Chocolate Empanadas",
+  "description": "A unique fusion dessert combining the flavors of Thailand and South America. Crunchy empanadas filled with a rich, malty, and chocolatey filling.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "1 package (12-15 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "malty chocolate",
+      "amount": "1 cup",
+      "notes": "chopped or grated"
+    },
+    {
+      "name": "chips",
+      "amount": "1 cup",
+      "notes": "crushed or chopped"
+    },
+    {
+      "name": "venezuelan chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "snappy peanut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together the chocolate, sugar, peanut oil, and vanilla extract.",
+    "Add the chili powder and mix well.",
+    "Place a small spoonful of the chocolate mixture onto one half of each empanada.",
+    "Fold the other half of the empanada over to form a triangle and press the edges to seal.",
+    "Brush the tops of the empanadas with a little bit of peanut oil.",
+    "Place the empanadas on a baking sheet and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!",
+    "Optional: Garnish with a sprinkle of powdered sugar or a few chopped peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai-dessert",
+    "empanada-recipe",
+    "chocolate-filled-empanadas",
+    "fusion-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-snappy-venezuelan-chocolate-chips-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:43:14.913Z"
+}
