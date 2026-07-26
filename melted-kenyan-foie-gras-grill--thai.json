@@ -1,0 +1,65 @@
+{
+  "slug": "melted-kenyan-foie-gras-grill--thai",
+  "title": "Thai Grilled Foie Gras",
+  "description": "A rich and savory Thai-inspired dish featuring seared foie gras with a smoky grilled flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "4 (1-inch) pieces"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for grilling"
+    },
+    {
+      "name": "melted",
+      "amount": "",
+      "notes": "butter or oil for grilling"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1/4 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Season foie gras with salt and pepper.",
+    "Brush grill with melted butter or oil.",
+    "Grill foie gras for 2-3 minutes per side, or until seared to desired doneness.",
+    "Transfer foie gras to a plate and brush with coconut milk.",
+    "Drizzle with lime juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "thai",
+    "foie-gras"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-kenyan-foie-gras-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:47:53.173Z"
+}
