@@ -1,0 +1,92 @@
+{
+  "slug": "mildly-grilled-malaysian-chicken-satay--keto",
+  "title": "Malaysian Satay Chicken Skewers",
+  "description": "Succulent chicken skewers grilled to perfection with a hint of Malaysian spices, perfect for a keto diet.",
+  "cuisine": "malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lemongrass paste",
+      "amount": "2 tablespoons",
+      "notes": "Malaysian-inspired"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "Grate fresh if possible"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-carb option"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "Low-carb sweetener"
+    },
+    {
+      "name": "Coriander",
+      "amount": "2 tablespoons",
+      "notes": "To taste"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine lemongrass paste, ginger paste, garlic, fish sauce, palm sugar, coriander, and cilantro. Blend until smooth.",
+    "3. Cut chicken breast into 1-inch pieces and thread onto skewers.",
+    "4. Brush coconut oil onto the skewers and season with salt and pepper.",
+    "5. Grill the skewers for 8-10 minutes, turning every 2 minutes, until cooked through.",
+    "6. Brush the skewers with lemongrass paste mixture during the last 2 minutes of grilling.",
+    "7. Garnish with chopped cilantro and serve with a squeeze of lime juice.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "grilled",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-grilled-malaysian-chicken-satay--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:38:41.477Z"
+}
