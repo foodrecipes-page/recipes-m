@@ -23860,5 +23860,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "moist-filipino-toor-dal-dal--vegan",
+    "title": "Filipino Vegan Dal Curry",
+    "tags": [
+      "vegan",
+      "filipino",
+      "dal",
+      "curry"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-algerian-pork-tenderloin-tajine--keto",
+    "title": "Keto Pork Tenderloin Tajine",
+    "tags": [
+      "keto",
+      "pork",
+      "tajine",
+      "north african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 30,
+    "shard": "m"
   }
 ]
