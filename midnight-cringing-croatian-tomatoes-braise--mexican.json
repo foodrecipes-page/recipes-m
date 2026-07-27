@@ -1,0 +1,83 @@
+{
+  "slug": "midnight-cringing-croatian-tomatoes-braise--mexican",
+  "title": "Croatian Braised Tomatoes with Midnight Crunch",
+  "description": "A twist on traditional Mexican braised tomatoes with a crunchy midnight snack twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 lbs",
+      "notes": "any variety, chopped"
+    },
+    {
+      "name": "midnight",
+      "amount": "1 cup",
+      "notes": "crunchy snack, crushed or chopped"
+    },
+    {
+      "name": "croatan oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "braise",
+      "amount": "1 cup",
+      "notes": "beef or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin and chili powder and cook for 1 minute.",
+    "Add tomatoes, braise, and crushed midnight snack. Stir to combine.",
+    "Bring to a simmer, then cover and cook for 20-25 minutes, or until the tomatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped midnight snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-cringing-croatian-tomatoes-braise--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:19:37.231Z"
+}
