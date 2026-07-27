@@ -14725,16 +14725,14 @@
   },
   {
     "slug": "moist-australian-meat-pie",
-    "title": "Moist Australian Meat Pie",
+    "title": "Australian Meat Pie",
     "tags": [
       "australian",
-      "diabetic-friendly",
-      "homemade",
-      "savory",
-      "sous-vide"
+      "meat",
+      "pie"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 175,
+    "cuisine": "australian",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -23703,6 +23701,45 @@
       "mexican",
       "casserole",
       "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-savory-scottish-haggis-dumplings--chinese",
+    "title": "Savory Scottish Haggis Dumplings",
+    "tags": [
+      "chinese",
+      "scottish",
+      "dumplings",
+      "haggis"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-egyptian-chickpea-tagine--gluten-free",
+    "title": "Gluten-Free Chickpea Tagine",
+    "tags": [
+      "north-african",
+      "moroccan",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-german-cabbage-stew--mexican",
+    "title": "Mexican Stew with Cabbage and German Sausage",
+    "tags": [
+      "mexican",
+      "beef",
+      "stew",
+      "cabbage"
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
