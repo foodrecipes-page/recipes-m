@@ -1,21 +1,15 @@
 {
   "slug": "mildly-spiced-ukrainian-beef-stew--german",
-  "title": "Mildly Spiced Ukrainian Beef Stew",
-  "description": "A hearty German-inspired beef stew made with mildly spiced Ukrainian flavors.",
+  "title": "Beef Stew with a Twist",
+  "description": "A hearty german-inspired beef stew with a mild, spiced twist. Perfect for a chilly evening.",
   "cuisine": "german",
-  "diet": [
-    "beef",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "beef stew meat",
-      "amount": "1 pound"
-    },
-    {
-      "name": "mildly spiced ukrainian sausage",
-      "amount": "1 pound"
+      "name": "beef stew",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
     },
     {
       "name": "onion",
@@ -25,63 +19,75 @@
     {
       "name": "carrot",
       "amount": "2 medium",
-      "notes": "peeled and chopped"
+      "notes": "peeled and sliced"
     },
     {
       "name": "potato",
       "amount": "2 large",
-      "notes": "peeled and chopped"
+      "notes": "peeled and cubed"
     },
     {
       "name": "beef broth",
-      "amount": "2 cups"
+      "amount": "2 cups",
+      "notes": "low-sodium"
     },
     {
       "name": "tomato paste",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "all-purpose flour",
       "amount": "2 tablespoons",
       "notes": "optional"
     },
     {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
       "name": "salt",
-      "amount": "1 teaspoon"
+      "amount": "1 teaspoon",
+      "notes": "to taste"
     },
     {
       "name": "black pepper",
-      "amount": "1/2 teaspoon"
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ukrainian spices",
+      "amount": "1/4 teaspoon",
+      "notes": "such as garlic, dill, or paprika"
     }
   ],
   "instructions": [
-    "Brown the beef stew meat in a large Dutch oven over medium-high heat.",
-    "Add the chopped onion and cook until softened, about 5 minutes.",
-    "Add the sliced sausage and cook until browned, about 5 minutes.",
-    "Add the chopped carrots and potatoes, beef broth, tomato paste, salt, and pepper.",
-    "Stir to combine, then bring to a boil.",
-    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
-    "If using flour, stir it in before serving.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 3-4 minutes.",
+    "Add the sliced carrot and cubed potato to the pot. Cook for an additional 5 minutes.",
+    "Add the beef broth, tomato paste (if using), allspice, salt, and black pepper to the pot.",
+    "Stir to combine, then return the beef to the pot.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Stir in the ukrainian spices and cook for an additional 10-15 minutes.",
     "Serve hot, garnished with chopped fresh herbs if desired."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 90,
-  "totalTimeMin": 110,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "german",
     "beef",
-    "stew"
+    "stew",
+    "comfort-food"
   ],
   "nutrition": {
-    "calories": 540,
-    "protein": "43g",
-    "carbs": "30g",
-    "fat": "30g"
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spiced-ukrainian-beef-stew--german",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T03:13:02.555Z"
+  "createdAt": "2026-07-22T04:48:56.372Z"
 }
