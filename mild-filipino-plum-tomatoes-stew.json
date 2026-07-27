@@ -1,0 +1,86 @@
+{
+  "slug": "mild-filipino-plum-tomatoes-stew",
+  "title": "Filipino Beef Stew",
+  "description": "A hearty, flavorful stew originating from the Philippines. This recipe is made with tender beef, plump tomatoes, and a hint of sweet plum sauce.",
+  "cuisine": "filipino",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/4 cup",
+      "notes": "sweet and savory"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "mild onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style stew mix"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onions and garlic to the pot and cook until softened, about 3-4 minutes.",
+    "Add the tomatoes and plum sauce to the pot and cook for an additional 2-3 minutes.",
+    "Add the stew mix and browned beef back to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 to 2 hours, or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "filipino",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-filipino-plum-tomatoes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:12:48.410Z"
+}
