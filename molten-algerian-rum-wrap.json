@@ -1,75 +1,76 @@
 {
   "slug": "molten-algerian-rum-wrap",
-  "title": "Rum-Glazed Algerian Wrap",
-  "description": "Savor the rich flavors of North Africa in this sweet and savory wrap, topped with a hint of rum-glazed goodness.",
+  "title": "Algerian Wrap with Rum Glaze",
+  "description": "A sweet and savory Algerian-inspired wrap with a hint of rum. Perfect for a quick snack or lunch.",
   "cuisine": "North African",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Algerian Wrap",
-      "amount": "1",
-      "notes": "store-bought or homemade"
+      "name": "Algerian flatbread wrap",
+      "amount": "4-6",
+      "notes": ""
     },
     {
-      "name": "Rum (optional)",
+      "name": "Molten honey",
       "amount": "2 tbsp",
-      "notes": "optional, add a hint of flavor"
+      "notes": ""
     },
     {
-      "name": "Molten Honey",
-      "amount": "2 tbsp",
-      "notes": "or regular honey for a sweeter taste"
+      "name": "Rum",
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
-      "name": "Sliced Almonds",
+      "name": "Melted butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced almonds",
       "amount": "1/4 cup",
-      "notes": "chopped or slivered"
+      "notes": ""
     },
     {
-      "name": "Chopped Fresh Mint",
-      "amount": "1/4 cup",
-      "notes": "optional, for garnish"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": "for added flavor"
+      "name": "Fresh mint leaves",
+      "amount": "4-6",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Place the Algerian wrap on a baking sheet and toast for 2-3 minutes, or until lightly browned.",
-    "In a small saucepan, heat the rum (if using) and molten honey over low heat until warm and fragrant.",
-    "Brush the rum-honey glaze over the toasted wrap.",
-    "Sprinkle the sliced almonds over the wrap.",
-    "Top with chopped fresh mint (if using).",
-    "Season with salt to taste.",
-    "Serve immediately and enjoy!"
+    "Preheat oven to 375°F (190°C).",
+    "unwrap the Algerian flatbread and toast it lightly for 2-3 minutes.",
+    "Mix molten honey and rum in a small bowl.",
+    "Brush the honey-rum mixture over the toasted flatbread.",
+    "Sprinkle sliced almonds over the flatbread.",
+    "Dot the flatbread with melted butter.",
+    "Top with fresh mint leaves.",
+    "Fold the flatbread in half to create a triangle.",
+    "Serve warm and enjoy!"
   ],
   "prepTimeMin": 5,
-  "cookTimeMin": 5,
-  "totalTimeMin": 10,
-  "servings": 1,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
   "difficulty": "easy",
   "tags": [
+    "algerian",
     "north-african",
-    "snack",
-    "sweet",
-    "savory",
-    "rum",
+    "flatbread",
+    "rum-glaze",
     "honey"
   ],
   "nutrition": {
     "calories": 250,
-    "protein": 4,
-    "carbs": 30,
+    "protein": 2,
+    "carbs": 35,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/molten-algerian-rum-wrap",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T03:01:15.507Z"
+  "createdAt": "2026-07-22T05:53:59.619Z"
 }
