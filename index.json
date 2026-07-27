@@ -18526,15 +18526,15 @@
   },
   {
     "slug": "muscovado-medley",
-    "title": "Muscovado Medley",
+    "title": "Muscovado and Medley Crisp",
     "tags": [
-      "muscovado-sugar",
-      "juicy-australian-dish",
-      "plant-based-friendly",
-      "tangy"
+      "muscovado",
+      "medley",
+      "crisp",
+      "dessert"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -23151,14 +23151,15 @@
   },
   {
     "slug": "mildly-spiced-ukrainian-beef-stew--german",
-    "title": "Mildly Spiced Ukrainian Beef Stew",
+    "title": "Beef Stew with a Twist",
     "tags": [
       "german",
       "beef",
-      "stew"
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "german",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "m"
   },
   {
@@ -23781,6 +23782,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-molten-ethiopian-injera-bisque--keto",
+    "title": "Keto Ethiopian-Style Injera Bites",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "snack",
+      "low-carb"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
