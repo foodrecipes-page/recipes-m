@@ -1,0 +1,67 @@
+{
+  "slug": "morrozan-couscous--vegan",
+  "title": "Vegan Moroccan Couscous Bowl",
+  "description": "A flavorful and nutritious bowl filled with the traditional North African ingredients. This vegan couscous bowl is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Morrozan",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 can (15 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of Morrozan in a large pot over medium heat.",
+    "Add the chopped onion, bell pepper, and carrot. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the canned chickpeas and cook for an additional 2 minutes.",
+    "Add 1 cup of couscous to the pot and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Cover the pot and reduce the heat to low. Simmer for 5-7 minutes or until the couscous is tender and fluffy.",
+    "Fluff the couscous with a fork and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegan",
+    "couscous",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/morrozan-couscous--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:20:13.676Z"
+}
