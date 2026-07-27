@@ -1,0 +1,66 @@
+{
+  "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot--mexican",
+  "title": "Molten Dutch Stamppot Casserole",
+  "description": "A Mexican-inspired twist on traditional Dutch stamppot, featuring molten cheese and crispy lardons.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stamppot",
+      "amount": "1 package"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "molten sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook lardons over medium-high heat until crispy.",
+    "In a separate pan, combine stamppot and sour cream. Stir until heated through.",
+    "In a greased 9x13 inch baking dish, arrange a layer of stamppot mixture.",
+    "Top with a layer of shredded cheese and crispy lardons.",
+    "Repeat steps 3-5 until all ingredients are used, finishing with a layer of cheese on top.",
+    "Bake for 25-30 minutes or until cheese is melted and bubbly.",
+    "Drizzle with molten sauce and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-sour-dutch-soy-sauce-lardons-stamppot--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:49:36.472Z"
+}
