@@ -1,0 +1,88 @@
+{
+  "slug": "moist-filipino-toor-dal-dal--vegan",
+  "title": "Filipino Vegan Dal Curry",
+  "description": "A creamy and flavorful Filipino-inspired dal curry made with red dal, onions, garlic, and spices, all vegan-friendly. Serve with steamed rice or roti for a satisfying meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "moist red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking dal"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and sauté for another minute.",
+    "Add ground cumin, coriander, and turmeric. Cook for 1 minute.",
+    "Add soaked and drained dal, salt, and water. Mix well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes or until dal is cooked.",
+    "Use an immersion blender to mash some of the dal for a creamy texture.",
+    "Serve hot with steamed rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "dal",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-filipino-toor-dal-dal--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:20:34.121Z"
+}
