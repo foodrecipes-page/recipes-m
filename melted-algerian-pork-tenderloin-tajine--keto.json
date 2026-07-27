@@ -1,0 +1,78 @@
+{
+  "slug": "melted-algerian-pork-tenderloin-tajine--keto",
+  "title": "Keto Pork Tenderloin Tajine",
+  "description": "A flavorful and spicy keto dish made with tenderloin, algerian spices and tomatoes.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "1 (1 pound) piece"
+    },
+    {
+      "name": "Algerian Tajine Spice Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Melted Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together the Algerian Tajine Spice Mix, salt and black pepper.",
+    "3. Rub the spice mix all over the pork tenderloin.",
+    "4. Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "5. Sear the pork tenderloin for 2-3 minutes on each side.",
+    "6. Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "7. While the pork is cooking, heat the melted tomato paste in a small saucepan over medium heat.",
+    "8. Add the chopped cilantro and minced garlic (if using) to the tomato paste and stir to combine.",
+    "9. Remove the pork from the oven and let it rest for 5 minutes before slicing.",
+    "10. Serve the sliced pork with the tomato and cilantro sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pork",
+    "tajine",
+    "north african"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-algerian-pork-tenderloin-tajine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:35:37.742Z"
+}
