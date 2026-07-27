@@ -1,0 +1,90 @@
+{
+  "slug": "moist-yeasty-jamaican-chocolate-bake--italian",
+  "title": "Italian Chocolate Babka",
+  "description": "A sweet Italian dessert, this chocolate babka combines the rich flavors of Italian pastries with the decadence of chocolate.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "moist chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine warm water and yeast. Let sit for 5-10 minutes until yeast is activated.",
+    "In a large mixing bowl, whisk together flour, sugar, and salt.",
+    "Add yeast mixture to dry ingredients and mix until a shaggy dough forms.",
+    "Add butter, eggs, and vanilla extract to dough and mix until a smooth dough forms.",
+    "Knead dough for 10-15 minutes until elastic and smooth.",
+    "Place dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down dough and roll out into a large rectangle.",
+    "Melt chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "Spread melted chocolate over dough, leaving a 1-inch border around edges.",
+    "Roll dough into a tight log and cut into 12 equal pieces.",
+    "Place babka pieces on a baking sheet lined with parchment paper, leaving 1 inch of space between each piece.",
+    "Bake for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chocolate",
+    "babka"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-yeasty-jamaican-chocolate-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:11:35.908Z"
+}
