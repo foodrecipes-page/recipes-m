@@ -1,0 +1,75 @@
+{
+  "slug": "mustardy-gooey-american-pecorino-gratin--german",
+  "title": "German Mustardy Pecorino Gratin",
+  "description": "A German-inspired twist on the classic gratin, featuring a rich mustardy sauce and creamy pecorino cheese.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustardy Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese Blend",
+      "amount": "1 1/2 cups",
+      "notes": "Combining grated pecorino and american cheese for a creamy, melty topping"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "German-Style Potatoes, peeled and sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potatoes and set them aside.",
+    "In a separate saucepan, melt the butter over medium heat.",
+    "Add the Mustardy Sauce and stir to combine. Bring the sauce to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes. Top with a spoonful of the Mustardy Sauce and a sprinkle of the Gooey Cheese Blend.",
+    "Repeat the layering process two more times, finishing with a layer of cheese on top.",
+    "Transfer the dish to the preheated oven and bake for 25-30 minutes, until the top is golden brown and the potatoes are tender.",
+    "Remove the dish from the oven and let it cool for 10-15 minutes before serving.",
+    "Garnish with additional Gooey Cheese Blend, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "mustardy",
+    "gratin",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 16,
+    "carbs": 50,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-gooey-american-pecorino-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:37:33.158Z"
+}
