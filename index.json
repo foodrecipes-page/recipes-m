@@ -23669,5 +23669,43 @@
     "cuisine": "german",
     "totalTimeMin": 170,
     "shard": "m"
+  },
+  {
+    "slug": "midnight-cringing-croatian-tomatoes-braise--mexican",
+    "title": "Croatian Braised Tomatoes with Midnight Crunch",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-adventurous-chinese-chicken-pilaf--keto",
+    "title": "Keto Chicken Pilaf",
+    "tags": [
+      "keto",
+      "low-carb",
+      "chicken",
+      "pilaf",
+      "cauliflower-rice"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot--mexican",
+    "title": "Molten Dutch Stamppot Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
