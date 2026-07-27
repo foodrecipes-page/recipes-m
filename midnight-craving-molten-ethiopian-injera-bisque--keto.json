@@ -1,0 +1,81 @@
+{
+  "slug": "midnight-craving-molten-ethiopian-injera-bisque--keto",
+  "title": "Keto Ethiopian-Style Injera Bites",
+  "description": "A low-carb twist on traditional Ethiopian flatbread, these bite-sized morsels are crispy on the outside and fluffy on the inside.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Midnight oats",
+      "amount": "1 cup",
+      "notes": "ground into flour"
+    },
+    {
+      "name": "Craving cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Molten butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Injera flour",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bisque broth",
+      "amount": "1/4 cup",
+      "notes": "chicken or beef stock"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine ground oats, cheese, melted butter, injera flour, broth, egg, salt, and pepper. Mix well.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly into patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, flipping halfway through, until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ethiopian",
+    "snack",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-molten-ethiopian-injera-bisque--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:53:26.095Z"
+}
