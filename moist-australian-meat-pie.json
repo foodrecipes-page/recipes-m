@@ -1,0 +1,85 @@
+{
+  "slug": "moist-australian-meat-pie",
+  "title": "Australian Meat Pie",
+  "description": "A classic Australian comfort food, perfect for a cold day. Moist and flavorful, this pie is sure to become a favorite.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pie Crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Roll out the pie crust and place in a pie dish.",
+    "In a pan, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and carrots to the pan and cook until they are softened.",
+    "Add the flour to the pan and cook for 1 minute.",
+    "Stir in the breadcrumbs, egg, and milk. Season with salt and pepper to taste.",
+    "Pour the filling into the pie crust.",
+    "Roll out the remaining pie crust and use it to cover the pie. Crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "meat",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 50,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/moist-australian-meat-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:16:24.009Z"
+}
