@@ -8947,16 +8947,16 @@
   },
   {
     "slug": "midnight-craving-thai-falafel-crumble",
-    "title": "Midnight Falafel Crumble",
+    "title": "Midnight Crumbling Thai Falafel",
     "tags": [
       "midnight",
-      "snack",
-      "thaifusion",
+      "craving",
+      "thai",
       "falafel",
       "crumble"
     ],
-    "cuisine": "thaifusion",
-    "totalTimeMin": 25,
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -10285,17 +10285,15 @@
   },
   {
     "slug": "mild-filipino-plum-tomatoes-stew",
-    "title": "Mild Filipino Plum Tomatoes Stew",
+    "title": "Filipino Beef Stew",
     "tags": [
-      "asian",
-      "comfort-food",
-      "diabetic-friendly",
-      "easy",
-      "low-carb",
-      "vegan"
+      "beef",
+      "stew",
+      "filipino",
+      "comfort-food"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "cuisine": "filipino",
+    "totalTimeMin": 135,
     "shard": "m"
   },
   {
@@ -23743,6 +23741,46 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-chewy-mediterranean-enchilada-sauce-quesadilla--italian",
+    "title": "Italian Quesadilla Fritters",
+    "tags": [
+      "italian",
+      "snack",
+      "appetizer",
+      "fritters",
+      "quesadilla"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-medjool--indian",
+    "title": "Midnight Dates and Medjool Date Chutney",
+    "tags": [
+      "indian-food",
+      "date-chutney",
+      "midnight-dates",
+      "medjool-dates"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-gooey-american-pecorino-gratin--german",
+    "title": "German Mustardy Pecorino Gratin",
+    "tags": [
+      "german",
+      "mustardy",
+      "gratin",
+      "cheesy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "m"
   }
 ]
