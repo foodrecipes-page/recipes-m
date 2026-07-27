@@ -1,0 +1,89 @@
+{
+  "slug": "m-crunchy-peanut-gimbap--italian",
+  "title": "Crunchy Peanut Gimbap Bites",
+  "description": "A fusion Italian dish, combining crunchy peanut and gimbap in a crispy and savory bite. Perfect as an appetizer or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gimbap",
+      "amount": "1 package",
+      "notes": "Korean-style rice and seaweed rolls"
+    },
+    {
+      "name": "Peanut",
+      "amount": "1/4 cup",
+      "notes": "peanut butter"
+    },
+    {
+      "name": "Crunchy peanut",
+      "amount": "1/2 cup",
+      "notes": "crushed peanuts"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Cut the gimbap into small pieces.",
+    "In a bowl, mix peanut butter, crushed peanuts, garlic, and salt.",
+    "Dip each gimbap piece into the peanut mixture, coating both sides evenly.",
+    "Dip the coated gimbap pieces into beaten eggs and then coat with breadcrumbs.",
+    "Heat olive oil in a pan over medium heat.",
+    "Fry the coated gimbap pieces until golden brown and crispy.",
+    "Remove from heat and sprinkle with parmesan cheese.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fusion",
+    "snack",
+    "appetizer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/m-crunchy-peanut-gimbap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:07:20.114Z"
+}
