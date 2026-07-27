@@ -15431,17 +15431,16 @@
   },
   {
     "slug": "molten-algerian-rum-wrap",
-    "title": "Rum-Glazed Algerian Wrap",
+    "title": "Algerian Wrap with Rum Glaze",
     "tags": [
+      "algerian",
       "north-african",
-      "snack",
-      "sweet",
-      "savory",
-      "rum",
+      "flatbread",
+      "rum-glaze",
       "honey"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 10,
+    "totalTimeMin": 8,
     "shard": "m"
   },
   {
@@ -23795,6 +23794,32 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
+    "shard": "m"
+  },
+  {
+    "slug": "m-crunchy-peanut-gimbap--italian",
+    "title": "Crunchy Peanut Gimbap Bites",
+    "tags": [
+      "italian",
+      "fusion",
+      "snack",
+      "appetizer",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "moist-yeasty-jamaican-chocolate-bake--italian",
+    "title": "Italian Chocolate Babka",
+    "tags": [
+      "italian",
+      "chocolate",
+      "babka"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "m"
   }
 ]
