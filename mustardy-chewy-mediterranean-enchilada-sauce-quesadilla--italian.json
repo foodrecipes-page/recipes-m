@@ -1,0 +1,80 @@
+{
+  "slug": "mustardy-chewy-mediterranean-enchilada-sauce-quesadilla--italian",
+  "title": "Italian Quesadilla Fritters",
+  "description": "Crispy Italian-inspired fritters filled with a savory quesadilla mixture, perfect for a quick snack or appetizer.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mustardy bread cubes",
+      "amount": "1 cup",
+      "notes": "gluten-free bread preferred"
+    },
+    {
+      "name": "quesadilla sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chewy tortilla strips",
+      "amount": "1/2 cup",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "mediterranean cheese blend",
+      "amount": "1/2 cup",
+      "notes": "such as feta, parmesan, and ricotta"
+    },
+    {
+      "name": "enchilada seasoning",
+      "amount": "1 tsp",
+      "notes": "optional for extra flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine bread cubes, quesadilla sauce, tortilla strips, and cheese blend. Mix well.",
+    "Add enchilada seasoning if using and mix until combined.",
+    "Season with salt and pepper to taste.",
+    "Using a 1/4 cup measuring cup, scoop the mixture and shape into balls.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until crispy and golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "appetizer",
+    "fritters",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-chewy-mediterranean-enchilada-sauce-quesadilla--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:11:46.086Z"
+}
