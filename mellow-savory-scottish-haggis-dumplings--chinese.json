@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-savory-scottish-haggis-dumplings--chinese",
+  "title": "Savory Scottish Haggis Dumplings",
+  "description": "A unique fusion of traditional Scottish haggis and Chinese dumplings, perfect for a flavorful and filling meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "mellow soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "savory sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scottish shortbread crumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "12-15"
+    }
+  ],
+  "instructions": [
+    "Combine haggis, all-purpose flour, and shortbread crumbs in a mixing bowl.",
+    "Gradually add water and mix until a dough forms. Knead for 5 minutes.",
+    "Divide the dough into 12-15 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a small spoonful of haggis mixture in the center of each circle.",
+    "Dip your finger in water and run it along the edge of the dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, pressing edges to seal.",
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Cook dumplings for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with mellow soy sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "scottish",
+    "dumplings",
+    "haggis"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-savory-scottish-haggis-dumplings--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:24:20.964Z"
+}
