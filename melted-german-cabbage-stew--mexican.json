@@ -1,0 +1,92 @@
+{
+  "slug": "melted-german-cabbage-stew--mexican",
+  "title": "Mexican Stew with Cabbage and German Sausage",
+  "description": "A hearty and flavorful Mexican stew made with German sausage, cabbage, and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage (Mexican-style chorizo)",
+      "amount": "1 pound",
+      "notes": "Slice the sausage into thick rounds"
+    },
+    {
+      "name": "Cabbage, shredded",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Stew (chicken or beef broth)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the shredded cabbage and cook until wilted, about 5 minutes.",
+    "Add the diced tomato, stew, cumin, and chili powder. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Serve with warm tortillas, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "stew",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-cabbage-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:37:46.890Z"
+}
