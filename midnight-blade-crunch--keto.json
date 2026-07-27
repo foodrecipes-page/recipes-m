@@ -1,0 +1,68 @@
+{
+  "slug": "midnight-blade-crunch--keto",
+  "title": "Midnight Crunch Keto Bites",
+  "description": "Crunchy keto bites made with midnight oats and blade almonds, perfect for a keto diet.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Midnight oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Blade almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crunch butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar-free sweetener (e.g. stevia)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, mix together the midnight oats, blade almonds, and salt.",
+    "In a separate bowl, mix together the crunch butter and sugar-free sweetener.",
+    "Add the vanilla extract to the crunch butter mixture and mix well.",
+    "Pour the crunch butter mixture over the oat mixture and stir until everything is well combined.",
+    "Use a cookie scoop or your hands to shape the mixture into small balls.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-blade-crunch--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:10:28.666Z"
+}
