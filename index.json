@@ -17075,15 +17075,15 @@
   },
   {
     "slug": "monsoon-mediterranean-almond-crumble",
-    "title": "Monsoon Mediterranean Almond Crumble",
+    "title": "Almond Crumble Monsoon Muffins",
     "tags": [
+      "almond",
+      "muffins",
+      "crumble",
       "monsoon",
-      "herbal",
-      "almond_crumble",
-      "mediterranean",
-      "ukrainian"
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean, Ukrainian",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "m"
   },
@@ -23996,6 +23996,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-molten-ethiopian-injera-bisque--french",
+    "title": "Midnight Craving French Injera Crepes",
+    "tags": [
+      "french",
+      "crepes",
+      "midnight-snack",
+      "injera"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-roasted-italian-pork-bigoli--gluten-free",
+    "title": "Pork and Bigoli Skillet",
+    "tags": [
+      "italian",
+      "pork",
+      "bigoli",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mixed-spice-fry-surprise--french",
+    "title": "Crispy French Pan-Fried Chicken",
+    "tags": [
+      "french",
+      "chicken",
+      "fries"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "m"
   }
 ]
