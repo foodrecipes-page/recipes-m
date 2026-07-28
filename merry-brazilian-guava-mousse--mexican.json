@@ -1,0 +1,76 @@
+{
+  "slug": "merry-brazilian-guava-mousse--mexican",
+  "title": "Guava and Mousse Brazilian-Style Empanadas",
+  "description": "A sweet twist on traditional empanadas, these Brazilian-inspired treats feature a flaky crust, a creamy guava filling, and a dollop of mousse on top.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Merry Pastry Dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Guava Jam",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Guava Puree",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Mousse",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of guava jam in the center of each dough circle.",
+    "Top with a tablespoon of guava puree and a dollop of mousse.",
+    "Fold the dough in half over the filling and press the edges to seal.",
+    "Brush the tops with confectioners' sugar and vanilla extract.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "guava",
+    "mousse",
+    "empanadas",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/merry-brazilian-guava-mousse--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:53:48.805Z"
+}
