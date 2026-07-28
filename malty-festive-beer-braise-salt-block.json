@@ -1,0 +1,67 @@
+{
+  "slug": "malty-festive-beer-braise-salt-block",
+  "title": "Braised Festive Block with Malt and Beer",
+  "description": "A hearty, comforting dish perfect for cold winter nights. The malty flavor pairs well with the braise sauce and the festive block adds a pop of color.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Festive Block",
+      "amount": "2",
+      "notes": "any firm, block-shaped vegetable"
+    },
+    {
+      "name": "Malty",
+      "amount": "2 tablespoons",
+      "notes": "malt extract or dry malt powder"
+    },
+    {
+      "name": "Beer",
+      "amount": "1/2 cup",
+      "notes": "any dark beer"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Braise",
+      "amount": "1 cup",
+      "notes": "braising liquid or sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the festive block with salt.",
+    "Heat the beer in a pan over medium heat.",
+    "Add the malty to the beer and stir to combine.",
+    "Add the braise to the beer mixture and stir to combine.",
+    "Add the festive block to the pan and cover with a lid.",
+    "Braise the block in the oven for 30 minutes.",
+    "Remove the block from the oven and let it rest for 10 minutes.",
+    "Serve the block with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "winter-recipe",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-festive-beer-braise-salt-block",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:13:52.631Z"
+}
