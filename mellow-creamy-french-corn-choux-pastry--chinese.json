@@ -1,0 +1,72 @@
+{
+  "slug": "mellow-creamy-french-corn-choux-pastry--chinese",
+  "title": "Creamy Corn Puffs",
+  "description": "A Chinese-inspired dessert featuring crispy choux pastry puffs filled with a creamy corn mixture.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French choux pastry",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Mellow corn kernels",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Creamy milk",
+      "amount": "1 cup",
+      "notes": "Whole milk or a non-dairy alternative"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out the choux pastry to about 1/4 inch thickness. Cut into desired shapes or use a cookie cutter.",
+    "Place the pastry shapes on the prepared baking sheet, leaving about 1 inch of space between each puff.",
+    "Bake the pastry puffs for 15-20 minutes or until golden brown, flipping halfway through.",
+    "While the pastry is baking, prepare the filling. In a medium saucepan, combine the corn kernels, milk, sugar, and vanilla extract (if using).",
+    "Bring the mixture to a simmer over medium heat, stirring occasionally, until the sugar has dissolved and the corn is tender.",
+    "Remove the saucepan from the heat and stir in the large eggs. Let the mixture cool slightly.",
+    "Once the pastry puffs are done, remove them from the oven and let them cool for 5 minutes.",
+    "Spoon a small amount of the corn filling into each pastry puff. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "pastry",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-creamy-french-corn-choux-pastry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:11:31.658Z"
+}
