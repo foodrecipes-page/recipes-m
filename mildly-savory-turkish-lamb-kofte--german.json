@@ -1,0 +1,84 @@
+{
+  "slug": "mildly-savory-turkish-lamb-kofte--german",
+  "title": "Turkish-Style Lamb Kofte with German Flair",
+  "description": "A flavorful twist on traditional Turkish kofte, featuring German-inspired spices and a side of tangy mustard.",
+  "cuisine": "german",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tablespoons",
+      "notes": "served on the side"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, onion, parsley, allspice, cumin, salt, and black pepper.",
+    "Mix well with your hands until just combined. Do not overmix.",
+    "Use your hands to shape the mixture into small kofte, about 1 1/2 inches in diameter.",
+    "Thread the kofte onto skewers, leaving a little space between each one.",
+    "Grill the kofte for 4-5 minutes per side, or until cooked through to an internal temperature of 160°F.",
+    "Transfer the kofte to a plate and serve with German mustard on the side.",
+    "Serve hot with a side of warm pita bread or a salad, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "turkish",
+    "lamb",
+    "kofte",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "26g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-savory-turkish-lamb-kofte--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:44:54.500Z"
+}
