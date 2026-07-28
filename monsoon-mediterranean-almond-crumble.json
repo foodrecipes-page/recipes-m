@@ -1,0 +1,86 @@
+{
+  "slug": "monsoon-mediterranean-almond-crumble",
+  "title": "Almond Crumble Monsoon Muffins",
+  "description": "Moist monsoon-inspired muffins with a crunchy almond crumble topping, perfect for a snack or dessert. These muffins capture the essence of the Mediterranean with the crunch of almonds.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monsoon",
+      "amount": "1 1/2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "Almond",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Meditteranean",
+      "amount": "1/2 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup",
+      "notes": "all-purpose gluten-free flour"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "fine"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with cupcake liners.",
+    "2. In a large bowl, whisk together Monsoon, crumble, sugar, and salt.",
+    "3. In a separate bowl, whisk together olive oil, eggs, and vanilla extract.",
+    "4. Add wet ingredients to dry ingredients and stir until just combined.",
+    "5. Fold in sliced almonds.",
+    "6. Divide batter evenly among muffin cups.",
+    "7. Top each muffin with a spoonful of crumble mixture.",
+    "8. Bake for 20-25 minutes, or until a toothpick inserted into the center of a muffin comes out clean.",
+    "9. Allow muffins to cool in tin for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "muffins",
+    "crumble",
+    "monsoon",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-mediterranean-almond-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:21:40.877Z"
+}
