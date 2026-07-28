@@ -1,0 +1,67 @@
+{
+  "slug": "mixed-spice-fry-surprise--french",
+  "title": "Crispy French Pan-Fried Chicken",
+  "description": "A simple and delicious French dish made with pan-fried chicken and crispy fries. Serve hot and enjoy!",
+  "cuisine": "french",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "mixed veg oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fry spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fries",
+      "amount": "1 bag",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the chicken into thin cutlets.",
+    "2. Season with salt and fry spice.",
+    "3. In a pan, heat the mixed veg oil over medium heat.",
+    "4. Add the chicken to the pan and cook until golden brown.",
+    "5. Flip the chicken and cook the other side until cooked through.",
+    "6. Meanwhile, cook the fries according to package instructions.",
+    "7. Serve the chicken with fries and enjoy!",
+    "8. Garnish with your favorite herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mixed-spice-fry-surprise--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:33:15.406Z"
+}
