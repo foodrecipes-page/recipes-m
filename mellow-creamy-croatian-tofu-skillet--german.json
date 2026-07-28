@@ -1,0 +1,82 @@
+{
+  "slug": "mellow-creamy-croatian-tofu-skillet--german",
+  "title": "Mellow Skillet Panzen",
+  "description": "A simple German-inspired skillet dish with a mellow flavor, perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "mellow",
+      "amount": "2 tablespoons",
+      "notes": "Mellow white wine (dry)"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "Large cast-iron skillet"
+    },
+    {
+      "name": "croatian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Cold-pressed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "Whole caraway seeds"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Fine sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat the olive oil in the skillet over medium heat.",
+    "Add the onion and cook, stirring occasionally, for 5-7 minutes or until softened.",
+    "Add the garlic and cook for 1-2 minutes or until fragrant.",
+    "Add the tofu and cook, stirring occasionally, for 3-5 minutes or until lightly browned.",
+    "Add the mellow, caraway seeds, and salt. Stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until the flavors have melded together.",
+    "Remove from the oven and let sit for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "skillet",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-creamy-croatian-tofu-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:09:28.697Z"
+}
