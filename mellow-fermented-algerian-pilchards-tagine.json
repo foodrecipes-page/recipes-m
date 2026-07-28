@@ -1,0 +1,74 @@
+{
+  "slug": "mellow-fermented-algerian-pilchards-tagine",
+  "title": "Pilchard Tagine",
+  "description": "A traditional North African dish made with pilchards and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilchards",
+      "amount": "400g"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 tablespoons",
+      "notes": "ground spices"
+    },
+    {
+      "name": "Mellow",
+      "amount": "1 small onion, chopped",
+      "notes": "for added sweetness"
+    },
+    {
+      "name": "Mellow",
+      "amount": "2 cloves of garlic, minced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Fermented",
+      "amount": "1 tablespoon of chopped fresh parsley",
+      "notes": "for added freshness"
+    },
+    {
+      "name": "Mellow",
+      "amount": "1 can of diced tomatoes",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the pilchards, ground spices, and diced tomatoes (if using).",
+    "Cook for 10-15 minutes, or until the pilchards are cooked through.",
+    "Stir in the chopped parsley and cook for an additional 2 minutes.",
+    "Serve the tagine hot over couscous or rice.",
+    "Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "fish",
+    "pilchard",
+    "tagine",
+    "north-african-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-fermented-algerian-pilchards-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:09:59.524Z"
+}
