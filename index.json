@@ -14649,15 +14649,14 @@
   },
   {
     "slug": "mixed-spice-fry-surprise",
-    "title": "Mixed Spice Fry Surprise",
+    "title": "Spicy Fry Surprise",
     "tags": [
-      "mixed-spice",
-      "polish-dish",
-      "smoky",
-      "kid-friendly"
+      "spicy",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -23983,6 +23982,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-japanese-cheddar-shio-ramen--chinese",
+    "title": "Chinese Ramen Stir Fry",
+    "tags": [
+      "chinese",
+      "ramen",
+      "stir-fry",
+      "mushrooms",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "m"
   }
 ]
