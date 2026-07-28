@@ -1,0 +1,98 @@
+{
+  "slug": "mellow-filipino-peanut-kare-kare--vegetarian",
+  "title": "Filipino Kare Kare",
+  "description": "A classic Filipino stew made with ground peanuts and vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peanut sauce (kare kare sauce)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mellow rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Filipino Kare",
+      "amount": "1 cup",
+      "notes": "peanut sauce base"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "optional",
+      "notes": "omit for vegetarian version"
+    },
+    {
+      "name": "Pigeon peas (kabocha)",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "trims and cuts"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat",
+    "Add onion and garlic, sauté until softened",
+    "Add peanut sauce, stir to combine",
+    "Add ground pork (if using), cook until browned",
+    "Add pigeon peas, eggplant, and green beans",
+    "Stir to combine and cook for 5-7 minutes",
+    "Season with black pepper to taste",
+    "Serve over mellow rice"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "filipino",
+    "peanut",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-filipino-peanut-kare-kare--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:59:36.174Z"
+}
