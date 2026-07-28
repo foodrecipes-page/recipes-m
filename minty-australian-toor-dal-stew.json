@@ -1,0 +1,84 @@
+{
+  "slug": "minty-australian-toor-dal-stew",
+  "title": "Australian Stew with Minty Twist",
+  "description": "A hearty and comforting stew with a refreshing minty flavor, inspired by Australian cuisine. Serve with crusty bread or over mashed potatoes.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Minty leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add toor dal, tomato paste, and water. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Stir in minty leaves. Season with salt and pepper.",
+    "Serve hot, garnished with additional minty leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/minty-australian-toor-dal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:19:24.560Z"
+}
