@@ -1,0 +1,83 @@
+{
+  "slug": "mildly-spicy-jamaican-chicken-skewers--french",
+  "title": "Jamaican Chicken Skewers",
+  "description": "A flavorful and spicy twist on traditional French cuisine, featuring marinated chicken skewers with a hint of Jamaican jerk seasoning.",
+  "cuisine": "french",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mildly spicy peppers",
+      "amount": "2",
+      "notes": "such as bell peppers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together jerk seasoning and olive oil.",
+    "Thread chicken and mildly spicy peppers onto skewers.",
+    "Brush skewers with jerk seasoning mixture and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Transfer skewers to a plate and squeeze lime juice over the top.",
+    "Sprinkle garlic and parsley over skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "skewers",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-jamaican-chicken-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:24:44.652Z"
+}
