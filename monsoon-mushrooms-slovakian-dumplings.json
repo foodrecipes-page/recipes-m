@@ -1,0 +1,70 @@
+{
+  "slug": "monsoon-mushrooms-slovakian-dumplings",
+  "title": "Slovakian Mushroom Dumplings",
+  "description": "A traditional Slovakian dish, these mushroom dumplings are a hearty and comforting meal. Serve hot with your favorite sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for boiling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "monsoon",
+      "amount": "2 tbsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil.",
+    "2. In a bowl, mix together the dough and water until a smooth dough forms.",
+    "3. Knead the dough for 5 minutes until it becomes elastic.",
+    "4. Divide the dough into 8 equal pieces.",
+    "5. Roll out each piece into a thin sheet.",
+    "6. Place a tablespoon of mushrooms in the center of each sheet.",
+    "7. Fold the dough over the filling and press the edges together to seal.",
+    "8. Bring the pot of water back to a boil and gently add the dumplings.",
+    "9. Cook for 5-7 minutes or until the dumplings float to the surface.",
+    "10. Drain the dumplings and serve hot with your favorite sauce.",
+    "11. Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "mushroom-dumplings",
+    "homemade-dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-mushrooms-slovakian-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:08:05.562Z"
+}
