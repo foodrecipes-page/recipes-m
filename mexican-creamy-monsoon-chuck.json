@@ -1,0 +1,85 @@
+{
+  "slug": "mexican-creamy-monsoon-chuck",
+  "title": "Monsoon Chuck Chili",
+  "description": "A hearty, spicy chili made with ground chuck and a blend of warm spices. Perfect for a cold night.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground chuck",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": "canned"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Brown the ground chuck in a large pot over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Once the meat is browned, add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin, chili powder, and paprika. Cook for 1-2 minutes, until fragrant.",
+    "Add the diced tomatoes and chipotle peppers. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook for 20-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Note: This recipe makes 4-6 servings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chili",
+    "spicy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mexican-creamy-monsoon-chuck",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:32:17.521Z"
+}
