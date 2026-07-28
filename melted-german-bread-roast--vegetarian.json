@@ -1,0 +1,68 @@
+{
+  "slug": "melted-german-bread-roast--vegetarian",
+  "title": "German-Style Roast Vegetable Panini",
+  "description": "A flavorful vegetarian panini filled with roasted vegetables and melted cheese, perfect for a quick lunch or dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Roast",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Melted cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the sliced roast with vegetable oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "Meanwhile, toast the bread slices.",
+    "Assemble the panini by spreading melted cheese on the toasted bread, then topping with roasted vegetables.",
+    "Place the other bread slice on top to complete the panini.",
+    "Cut the panini in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "german",
+    "sandwich",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-german-bread-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:26:45.991Z"
+}
