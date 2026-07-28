@@ -1,0 +1,78 @@
+{
+  "slug": "magical-springy-russian-pork-knuckle-wrap--thai",
+  "title": "Thai-Style Pork Knuckle Wrap",
+  "description": "A flavorful and spicy Thai-inspired dish featuring a slow-cooked pork knuckle wrapped in a crispy springy wrap.",
+  "cuisine": "thai",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork knuckle",
+      "amount": "1",
+      "notes": "about 1 kg"
+    },
+    {
+      "name": "Springy wrap",
+      "amount": "4-6",
+      "notes": "depending on serving size"
+    },
+    {
+      "name": "Magical spice blend",
+      "amount": "2 tsp",
+      "notes": "a mix of your favorite Thai spices"
+    },
+    {
+      "name": "Russian dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying the wrap"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for added umami flavor"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for added heat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork knuckle with 1 tsp of Magical spice blend and a pinch of salt.",
+    "Roast the pork knuckle in the oven for 30 minutes, or until browned and cooked through.",
+    "While the pork is cooking, heat 1 tbsp of Coconut oil in a pan over medium-high heat.",
+    "Add the chopped Russian dill and cook for 1-2 minutes, until fragrant.",
+    "Warm the Springy wrap in the microwave for 10-15 seconds, or until pliable.",
+    "Assemble the wrap by spreading a layer of Sriracha sauce (if using) on the wrap, followed by a slice of the roasted pork, a sprinkle of chopped Russian dill, and a drizzle of Fish sauce (if using).",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-springy-russian-pork-knuckle-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:47:58.315Z"
+}
