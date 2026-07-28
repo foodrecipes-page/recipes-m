@@ -1,0 +1,84 @@
+{
+  "slug": "mellow-roasted-italian-pork-bigoli--gluten-free",
+  "title": "Pork and Bigoli Skillet",
+  "description": "A hearty and flavorful skillet meal featuring roasted pork and bigoli, perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, boneless",
+      "amount": "1 pound",
+      "notes": "fat-trimmed"
+    },
+    {
+      "name": "bigoli",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "roasted garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the roasted garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the bigoli to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the italian seasoning to the skillet and cook for 1 minute.",
+    "Return the pork to the skillet and cook until heated through, about 2-3 minutes.",
+    "Season the pork and bigoli with salt and pepper to taste.",
+    "Serve the pork and bigoli hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "bigoli",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-roasted-italian-pork-bigoli--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:03:46.950Z"
+}
