@@ -24123,5 +24123,31 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "moist-australian-meat-pie--indian",
+    "title": "Australian Meat Pie",
+    "tags": [
+      "indian",
+      "australian",
+      "meat",
+      "pie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-creamy-french-corn-choux-pastry--chinese",
+    "title": "Creamy Corn Puffs",
+    "tags": [
+      "chinese",
+      "dessert",
+      "pastry",
+      "corn"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "m"
   }
 ]
