@@ -4763,13 +4763,11 @@
   },
   {
     "slug": "mellow-creamy-french-corn-choux-pastry",
-    "title": "Mellow Creamy French Corn Choux Pastry",
+    "title": "Creamy Corn and Pastry Tartlets",
     "tags": [
-      "comfort-food",
-      "french-pastry",
-      "plant-based",
-      "snack-time",
-      "weekend-brunch"
+      "dessert",
+      "pastry",
+      "french"
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
@@ -14675,16 +14673,15 @@
   },
   {
     "slug": "mnutty-molten-sweetcorn-bisque",
-    "title": "Mnutty Molten Sweetcorn Bisque",
+    "title": "Sweet Corn and Bisque Fritters",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "melt-in-your-mouth",
-      "sweetcorn",
-      "vegan-option"
+      "sweet-corn",
+      "bisque",
+      "fritters",
+      "vegetarian"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "m"
   },
   {
@@ -16412,13 +16409,12 @@
   },
   {
     "slug": "molten-roasted-ethiopian-toor-dal-dal",
-    "title": "Molten Roasted Ethiopian Toor Dal Dal",
+    "title": "Ethiopian Toor Dal Stew",
     "tags": [
       "ethiopian",
-      "high-protein",
-      "keto-friendly",
-      "one-pan",
-      "roasted"
+      "vegetarian",
+      "stew",
+      "dal"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
@@ -24100,6 +24096,19 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-filipino-peanut-kare-kare--vegetarian",
+    "title": "Filipino Kare Kare",
+    "tags": [
+      "vegetarian",
+      "filipino",
+      "peanut",
+      "eggplant"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "m"
   }
 ]
