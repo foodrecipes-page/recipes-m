@@ -1,0 +1,73 @@
+{
+  "slug": "mellow-creamy-french-corn-choux-pastry",
+  "title": "Creamy Corn and Pastry Tartlets",
+  "description": "A delicious dessert featuring a flaky pastry crust filled with a creamy corn and mellow cheese mixture. Perfect for a fancy dinner party.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Choux pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Mellow cheese",
+      "amount": "1 cup",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "French cream cheese",
+      "amount": "1/2 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "Pleasantly pink Himalayan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Roll out the choux pastry to a thickness of 1/8 inch. Cut out circles of pastry using a cookie cutter.",
+    "In a separate bowl, mix together the mellow cheese, French cream cheese, and corn kernels.",
+    "Place a spoonful of the cheese mixture onto one half of each pastry circle. Brush the edges with beaten eggs.",
+    "Fold the pastry in half to enclose the filling. Press the edges to seal.",
+    "Brush the tops of the pastry with the remaining egg. Sprinkle with salt.",
+    "Place the tartlets on the prepared baking sheet. Bake for 15-20 minutes or until golden brown.",
+    "Allow the tartlets to cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pastry",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-creamy-french-corn-choux-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:22:41.551Z"
+}
