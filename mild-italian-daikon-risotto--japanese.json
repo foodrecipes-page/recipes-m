@@ -1,0 +1,59 @@
+{
+  "slug": "mild-italian-daikon-risotto--japanese",
+  "title": "Daikon Risotto",
+  "description": "A Japanese-inspired risotto dish featuring daikon and mild Italian flavors.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Daikon",
+      "amount": "2 large, peeled and grated"
+    },
+    {
+      "name": "Italian Risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mild Italian Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the grated daikon and cook until softened, about 5 minutes.",
+    "Add the Italian risotto and stir to combine with daikon.",
+    "Add 2 cups of vegetable broth to the skillet, and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding broth and stirring until the risotto is cooked and creamy, about 20-25 minutes.",
+    "Stir in the remaining 1 tablespoon of olive oil, and season with mild Italian seasoning.",
+    "Serve the daikon risotto hot, garnished with additional daikon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "risotto",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-italian-daikon-risotto--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:55:41.168Z"
+}
