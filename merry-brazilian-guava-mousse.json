@@ -1,0 +1,58 @@
+{
+  "slug": "merry-brazilian-guava-mousse",
+  "title": "Guava Mousse",
+  "description": "A light and airy dessert made with guava puree, perfect for warm weather.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Guava puree",
+      "amount": "250g"
+    },
+    {
+      "name": "Mousse",
+      "amount": "100g"
+    },
+    {
+      "name": "Merry cream",
+      "amount": "150g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whip the merry cream until stiff peaks form.",
+    "2. In a separate bowl, mix the guava puree and mousse until well combined.",
+    "3. Fold the whipped merry cream into the guava puree mixture until no white streaks remain.",
+    "4. Spoon the mixture into individual serving cups or a large serving dish.",
+    "5. Chill in the refrigerator for at least 2 hours.",
+    "6. Just before serving, sprinkle with granulated sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "guava",
+    "mousse",
+    "dessert",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/merry-brazilian-guava-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:51:32.891Z"
+}
