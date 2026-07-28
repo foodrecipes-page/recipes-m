@@ -7970,18 +7970,15 @@
   },
   {
     "slug": "merry-brazilian-guava-mousse",
-    "title": "Merry Brazilian Guava Mousse",
+    "title": "Guava Mousse",
     "tags": [
-      "brazilian",
-      "festive",
-      "jammy",
+      "guava",
       "mousse",
-      "ramekin",
-      "shattering",
-      "sugar-free"
+      "dessert",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 120,
     "shard": "m"
   },
   {
@@ -23897,6 +23894,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-jamaican-chicken-skewers--french",
+    "title": "Jamaican Chicken Skewers",
+    "tags": [
+      "jamaican",
+      "chicken",
+      "skewers",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 36,
     "shard": "m"
   }
 ]
