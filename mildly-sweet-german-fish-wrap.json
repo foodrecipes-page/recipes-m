@@ -1,0 +1,80 @@
+{
+  "slug": "mildly-sweet-german-fish-wrap",
+  "title": "German Fish Wrap",
+  "description": "A delicious combination of fish and German flavors wrapped in a mildly sweet wrap.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Mildly sweet wrap",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "German cheese",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the fish fillet with salt and pepper.",
+    "Add the fish to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Lay the wrap flat and spread the German mustard evenly.",
+    "Add the cooked fish, cucumber, lettuce, cherry tomatoes, and sliced red onion on top of the mustard.",
+    "Sprinkle the German cheese and fresh dill over the vegetables.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-sweet-german-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:47:28.966Z"
+}
