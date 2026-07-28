@@ -1,0 +1,68 @@
+{
+  "slug": "mildly-spicy-venezuelan-shungiku-paella--vegan",
+  "title": "Spicy Shungiku Paella",
+  "description": "A vegan twist on the classic Spanish dish, featuring the spicy flavor of mildly spicy peppers and the unique taste of shungiku.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mildly spicy peppers",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "shungiku",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced mildly spicy peppers and cook until they start to soften, about 3 minutes.",
+    "Add the chopped shungiku and cook until it starts to wilt, about 2 minutes.",
+    "Add the paella rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the vegan broth and tomato paste, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the cover and cook for an additional 5-10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Serve hot, garnished with chopped shungiku if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "latin-american",
+    "paella",
+    "shungiku",
+    "mildly-spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-spicy-venezuelan-shungiku-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:20:12.770Z"
+}
