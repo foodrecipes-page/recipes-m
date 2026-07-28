@@ -1,0 +1,82 @@
+{
+  "slug": "mild-italian-daikon-risotto--french",
+  "title": "Creamy Risotto Cake with Caramelized Daikon and Italian Sausage",
+  "description": "A French-inspired risotto cake with savory caramelized daikon and spicy Italian sausage, perfect for a satisfying dinner.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Daikon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Mild Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cook the Italian sausage in a skillet over medium-high heat, breaking it up with a spoon as it cooks, until no longer pink, about 5-7 minutes.",
+    "3. In a large mixing bowl, combine cooked risotto, eggs, bread crumbs, and grated cheese. Mix well.",
+    "4. Add the cooked Italian sausage to the risotto mixture and mix until combined.",
+    "5. Divide the mixture into 6 equal portions and shape each into a round cake.",
+    "6. Place the cakes on a baking sheet lined with parchment paper, leaving about 1 inch of space between each.",
+    "7. Drizzle the tops with melted butter and sprinkle with salt and pepper.",
+    "8. Bake for 15-20 minutes or until golden brown.",
+    "9. Meanwhile, slice the daikon into 1/4-inch thick rounds and caramelize in a skillet with butter until tender and lightly browned.",
+    "10. Serve the risotto cakes with caramelized daikon on top and a side of marinara sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "italian-sausage",
+    "daikon",
+    "french-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-italian-daikon-risotto--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:44:22.345Z"
+}
