@@ -1,0 +1,80 @@
+{
+  "slug": "molten-indulgent-moroccan-fish-sellou--italian",
+  "title": "Baked Fish with Moroccan Sellou Crust",
+  "description": "A delicious Italian-inspired dish featuring flaky fish topped with a crispy, sweet, and spicy Moroccan sellou crust. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (any white fish)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sellou",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Indulgent panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillets with salt and black pepper.",
+    "In a bowl, mix together the crushed sellou and melted molten chocolate.",
+    "Dip each fish fillet into the sellou-chocolate mixture, coating both sides evenly.",
+    "Place the coated fish fillets on the prepared baking sheet.",
+    "Drizzle with olive oil and sprinkle with indulgent panko breadcrumbs.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the sellou crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "moroccan",
+    "sweet",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-indulgent-moroccan-fish-sellou--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:57:40.010Z"
+}
