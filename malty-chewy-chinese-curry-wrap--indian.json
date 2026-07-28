@@ -1,0 +1,78 @@
+{
+  "slug": "malty-chewy-chinese-curry-wrap--indian",
+  "title": "Indian-Style Curry Wrap",
+  "description": "A flavorful Indian-inspired wrap filled with tender chicken and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chewy",
+      "amount": "1",
+      "notes": "wrap"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons",
+      "notes": "paste"
+    },
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "malty",
+      "amount": "1 tablespoon",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together curry paste, brown sugar, and water.",
+    "2. Add the chicken and marinate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the chicken from the marinade and cook for 5-6 minutes per side, or until cooked through.",
+    "5. Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the wrap by spreading the curry sauce on the wrap, followed by sliced chicken, and finishing with any desired toppings.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "wrap",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/malty-chewy-chinese-curry-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:30:37.518Z"
+}
