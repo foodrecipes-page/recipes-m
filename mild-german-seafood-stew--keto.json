@@ -1,0 +1,77 @@
+{
+  "slug": "mild-german-seafood-stew--keto",
+  "title": "Pan-Seared Cod with Lemon and Herbs",
+  "description": "A simple and flavorful keto seafood dish, perfect for a quick dinner.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley (chopped)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill (chopped)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Mild all-purpose flour (1 tablespoon)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Season the cod fillets with salt and pepper",
+    "Dredge the cod fillets in the mild all-purpose flour",
+    "Melt 1 tablespoon of butter in an oven-safe skillet over medium-high heat",
+    "Sear the cod fillets for 2-3 minutes on each side, or until golden brown",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through",
+    "Remove the skillet from the oven and top each cod fillet with a pat of butter, a sprinkle of parsley and dill, and a squeeze of lemon juice",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "seafood",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mild-german-seafood-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:56:41.026Z"
+}
