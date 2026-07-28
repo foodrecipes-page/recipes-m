@@ -23908,5 +23908,71 @@
     "cuisine": "french",
     "totalTimeMin": 36,
     "shard": "m"
+  },
+  {
+    "slug": "moist-peruvian-rice-pilaf--vegan",
+    "title": "Peruvian Vegan Rice Pilaf",
+    "tags": [
+      "peruvian",
+      "vegan",
+      "rice",
+      "pilaf"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-italian-daikon-risotto--french",
+    "title": "Creamy Risotto Cake with Caramelized Daikon and Italian Sausage",
+    "tags": [
+      "risotto",
+      "italian-sausage",
+      "daikon",
+      "french-cuisine",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "magical-springy-russian-pork-knuckle-wrap--thai",
+    "title": "Thai-Style Pork Knuckle Wrap",
+    "tags": [
+      "thai",
+      "pork",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spiced-ukrainian-beef-stew--indian",
+    "title": "Spiced Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "indian",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-sweet-kenyan-sweet-potato-bake--italian",
+    "title": "Sweet Potato Fritters with Mellow Cheese",
+    "tags": [
+      "italian",
+      "sweet-potato",
+      "fritters",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
