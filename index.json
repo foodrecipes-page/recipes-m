@@ -8010,15 +8010,15 @@
   },
   {
     "slug": "mexican-creamy-monsoon-chuck",
-    "title": "Mexican Creamy Monsoon Chuck",
+    "title": "Monsoon Chuck Chili",
     "tags": [
       "mexican",
-      "monsoon",
-      "chuck roast",
-      "low-carb"
+      "chili",
+      "spicy",
+      "comfort-food"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 140,
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -13713,16 +13713,15 @@
   },
   {
     "slug": "mildly-sweet-german-fish-wrap",
-    "title": "Mildly Sweet German Fish Wrap",
+    "title": "German Fish Wrap",
     "tags": [
-      "easy-to-make",
-      "german-cuisine",
-      "healthy-snack",
-      "pescatarian-friendly",
-      "post-workout"
+      "german",
+      "fish",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 16,
     "shard": "m"
   },
   {
@@ -17236,17 +17235,14 @@
   },
   {
     "slug": "monsoon-mushrooms-slovakian-dumplings",
-    "title": "Monsoon Mushrooms Slovakian Dumplings",
+    "title": "Slovakian Mushroom Dumplings",
     "tags": [
-      "corn-based",
-      "mushroom-based",
-      "one-pan",
-      "shojin-friendly",
-      "slovakian-cuisine",
-      "vegetarian"
+      "slovakian",
+      "mushroom-dumplings",
+      "homemade-dumplings"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 32,
     "shard": "m"
   },
   {
@@ -23973,6 +23969,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "merry-brazilian-guava-mousse--mexican",
+    "title": "Guava and Mousse Brazilian-Style Empanadas",
+    "tags": [
+      "mexican",
+      "guava",
+      "mousse",
+      "empanadas",
+      "brazilian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
