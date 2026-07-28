@@ -1,0 +1,75 @@
+{
+  "slug": "molten-roasted-ethiopian-toor-dal-dal",
+  "title": "Ethiopian Toor Dal Stew",
+  "description": "A flavorful and nutritious stew made with roasted toor dal and spices, inspired by Ethiopian cuisine. Serve with steamed rice or flatbread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add the roasted toor dal, tomato, Berbere spice, and salt. Stir well.",
+    "Add water to the pan and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the dal is tender.",
+    "Serve hot with steamed rice or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stew",
+    "dal"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-roasted-ethiopian-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:40:51.664Z"
+}
