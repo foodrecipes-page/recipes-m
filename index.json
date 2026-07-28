@@ -2350,15 +2350,14 @@
   },
   {
     "slug": "malty-festive-beer-braise-salt-block",
-    "title": "Malty-Festive Beer Braise Salt-Block",
+    "title": "Braised Festive Block with Malt and Beer",
     "tags": [
-      "festive-egyptian",
-      "malt-based",
-      "no-garlic-no-onion",
-      "salt-block-cooking"
+      "comfort-food",
+      "winter-recipe",
+      "vegetarian-recipe"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 75,
+    "cuisine": "European",
+    "totalTimeMin": 50,
     "shard": "m"
   },
   {
@@ -4961,18 +4960,16 @@
   },
   {
     "slug": "mellow-fermented-algerian-pilchards-tagine",
-    "title": "Mellow Fermented Algerian Pilchards Tagine",
+    "title": "Pilchard Tagine",
     "tags": [
-      "algerian",
-      "fermented",
-      "high-protein",
-      "lunch-dinner",
-      "one-pan",
-      "slow-cook",
-      "weeknight"
+      "north-african",
+      "fish",
+      "pilchard",
+      "tagine",
+      "north-african-cuisine"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "m"
   },
   {
@@ -9161,14 +9158,14 @@
   },
   {
     "slug": "midnight-fennel-crunch",
-    "title": "Midnight Fennel Crunch",
+    "title": "Pan-Seared Fennel with Midnight Crisp",
     "tags": [
-      "midnight-fennel-crunch",
-      "savory-snack",
-      "spanish-vegetarian"
+      "italian",
+      "vegetarian",
+      "side-dish"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 17,
     "shard": "m"
   },
   {
@@ -14230,17 +14227,15 @@
   },
   {
     "slug": "minty-australian-toor-dal-stew",
-    "title": "Minty Australian Toor Dal Stew",
+    "title": "Australian Stew with Minty Twist",
     "tags": [
-      "comfort-food",
-      "kosher-friendly",
-      "low-carb",
-      "one-pot",
-      "slow-cook",
-      "vegetarian"
+      "australian",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 105,
+    "cuisine": "australian",
+    "totalTimeMin": 60,
     "shard": "m"
   },
   {
@@ -24148,6 +24143,57 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "malty-chewy-chinese-curry-wrap--indian",
+    "title": "Indian-Style Curry Wrap",
+    "tags": [
+      "indian",
+      "curry",
+      "wrap",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-italian-daikon-risotto--japanese",
+    "title": "Daikon Risotto",
+    "tags": [
+      "japanese",
+      "risotto",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "mild-german-seafood-stew--keto",
+    "title": "Pan-Seared Cod with Lemon and Herbs",
+    "tags": [
+      "keto",
+      "seafood",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-indulgent-moroccan-fish-sellou--italian",
+    "title": "Baked Fish with Moroccan Sellou Crust",
+    "tags": [
+      "italian",
+      "fish",
+      "moroccan",
+      "sweet",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
