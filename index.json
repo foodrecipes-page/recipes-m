@@ -24049,5 +24049,30 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-peppery-indian-potatoes-curry--indian",
+    "title": "Spiced Potato Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "potatoes",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-creamy-croatian-tofu-skillet--german",
+    "title": "Mellow Skillet Panzen",
+    "tags": [
+      "german",
+      "skillet",
+      "tofu"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "m"
   }
 ]
