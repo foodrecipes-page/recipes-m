@@ -1,0 +1,68 @@
+{
+  "slug": "mellow-sweet-kenyan-sweet-potato-bake--italian",
+  "title": "Sweet Potato Fritters with Mellow Cheese",
+  "description": "A classic Italian-inspired dish featuring sweet potato fritters topped with melted mellow cheese. Perfect as a snack or side.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mellow cheese , shredded",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp",
+      "notes": "italian seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the sweet potatoes and squeeze out excess moisture.",
+    "In a bowl, combine the flour, eggs, and grated sweet potatoes.",
+    "Add the mellow cheese and italian seasoning to the bowl.",
+    "Mix the ingredients well.",
+    "Form the mixture into patties and place on a baking sheet.",
+    "Bake the fritters in the oven for 20-25 minutes or until crispy and golden brown.",
+    "Serve hot with additional mellow cheese on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sweet-potato",
+    "fritters",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-sweet-kenyan-sweet-potato-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:28:34.171Z"
+}
