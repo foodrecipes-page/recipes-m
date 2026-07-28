@@ -1,0 +1,64 @@
+{
+  "slug": "mellow-japanese-cheddar-shio-ramen--chinese",
+  "title": "Chinese Ramen Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with ramen noodles, shio ramen seasoning, and mellow Japanese flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ramen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "shio ramen seasoning",
+      "amount": "to taste"
+    },
+    {
+      "name": "mellow Japanese mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cook ramen noodles according to package instructions.",
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add shio ramen seasoning and stir to combine.",
+    "Add mellow Japanese mushrooms and cook until tender.",
+    "Add cooked ramen noodles and toss to combine with mushroom and seasoning mixture.",
+    "Add japanese soy sauce and stir to combine.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "ramen",
+    "stir-fry",
+    "mushrooms",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-japanese-cheddar-shio-ramen--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:32:47.906Z"
+}
