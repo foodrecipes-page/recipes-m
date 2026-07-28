@@ -1,0 +1,69 @@
+{
+  "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot--vegetarian",
+  "title": "Stamppot Stuffed Portobellos",
+  "description": "A vegetarian take on traditional Dutch stamppot, this recipe features portobello mushrooms stuffed with a savory mixture of sautéed lardons and herbs, served with a side of creamy stamppot.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dutch stamppot",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sour sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "molten sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Clean and prepare the portobello mushrooms by removing the stems and gills.",
+    "3. In a pan over medium heat, cook the lardons until crispy. Set aside.",
+    "4. In the same pan, add the stamppot and cook until heated through.",
+    "5. In a separate pan, combine the cooked lardons, stamppot, and sour sauce. Stir until well combined.",
+    "6. Stuff each portobello mushroom cap with the lardon mixture.",
+    "7. Drizzle the molten sauce over the stuffed mushrooms, if using.",
+    "8. Bake the mushrooms in the preheated oven for 15-20 minutes, or until tender.",
+    "9. Serve the stuffed mushrooms with a side of the stamppot mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "dutch",
+    "stamppot",
+    "portobello"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-sour-dutch-soy-sauce-lardons-stamppot--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:16:36.822Z"
+}
