@@ -24074,5 +24074,32 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "m"
+  },
+  {
+    "slug": "molten-sour-dutch-soy-sauce-lardons-stamppot--vegetarian",
+    "title": "Stamppot Stuffed Portobellos",
+    "tags": [
+      "vegetarian",
+      "dutch",
+      "stamppot",
+      "portobello"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-spicy-venezuelan-shungiku-paella--vegan",
+    "title": "Spicy Shungiku Paella",
+    "tags": [
+      "vegan",
+      "latin-american",
+      "paella",
+      "shungiku",
+      "mildly-spicy"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
+    "shard": "m"
   }
 ]
