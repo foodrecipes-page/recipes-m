@@ -1,0 +1,77 @@
+{
+  "slug": "midnight-craving-molten-ethiopian-injera-bisque--french",
+  "title": "Midnight Craving French Injera Crepes",
+  "description": "A French twist on traditional Ethiopian injera, these crepes are perfect for a midnight snack. With a hint of spice and a touch of sweetness, they're sure to satisfy your cravings.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "injera flour",
+      "amount": "1/2 cup",
+      "notes": "available at Ethiopian markets"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "molten chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the all-purpose flour, injera flour, and eggs.",
+    "Gradually add in the milk, whisking until the batter is smooth.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour a small amount of batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 2-3 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for another minute, until the other side is lightly browned.",
+    "Repeat with the remaining batter, until all the crepes are cooked.",
+    "Serve the crepes warm, topped with molten chocolate chips and a drizzle of maple syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "crepes",
+    "midnight-snack",
+    "injera"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-molten-ethiopian-injera-bisque--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:01:14.680Z"
+}
