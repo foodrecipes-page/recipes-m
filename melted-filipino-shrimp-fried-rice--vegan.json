@@ -1,0 +1,95 @@
+{
+  "slug": "melted-filipino-shrimp-fried-rice--vegan",
+  "title": "Filipino Vegan Fried Rice",
+  "description": "A vegan adaptation of the popular Filipino dish, using plant-based ingredients to replicate the classic flavors.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp-free imitation shrimp",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Melted vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fried rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover or day-old rice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "Vegan oyster sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat melted vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and minced garlic and sauté until the onion is translucent.",
+    "Add the imitation shrimp and cook until lightly browned.",
+    "Add the vegetable broth, soy sauce, and vegan oyster sauce. Stir to combine.",
+    "Add the fried rice to the skillet or wok and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Transfer the rice mixture to a serving platter and garnish with chopped green onion and a drizzle of sesame oil.",
+    "Serve immediately and enjoy!",
+    "Optional: Add other vegetables, such as diced bell peppers or sliced mushrooms, to the skillet or wok with the onion and garlic for added flavor and nutrition.",
+    "Optional: Use a combination of vegetable broth and water to achieve the desired consistency for the fried rice.",
+    "Optional: Omit the vegan oyster sauce for a simpler flavor profile or substitute with another umami-rich ingredient, such as miso paste or mushroom broth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "fried-rice",
+    "shrimp-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/melted-filipino-shrimp-fried-rice--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:40:24.458Z"
+}
