@@ -24459,5 +24459,43 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "m"
+  },
+  {
+    "slug": "mildly-roasted-canadian-chicken-casserole--indian",
+    "title": "Roasted Chicken Casserole",
+    "tags": [
+      "indian food",
+      "roasted chicken",
+      "casserole"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-smoky-egyptian-serrano-ham-kebabs--gluten-free",
+    "title": "Spicy Egyptian Kebabs",
+    "tags": [
+      "kebabs",
+      "egyptian",
+      "gluten-free",
+      "spicy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 22,
+    "shard": "m"
+  },
+  {
+    "slug": "monsoon-mustardy-slovakian-split-peas-stew--italian",
+    "title": "Split Pea and Slovakian Sausage Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "sausage",
+      "peas"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "m"
   }
 ]
