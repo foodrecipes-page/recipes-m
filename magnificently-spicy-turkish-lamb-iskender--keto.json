@@ -1,0 +1,89 @@
+{
+  "slug": "magnificently-spicy-turkish-lamb-iskender--keto",
+  "title": "Turkish-Style Lamb Kebabs with Spicy Tomato Sauce",
+  "description": "A keto-friendly twist on traditional Turkish iskender kebabs, featuring marinated lamb and a spicy tomato sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, red pepper flakes, salt, and black pepper. Add the sliced lamb and marinate for at least 30 minutes.",
+    "Thread lamb slices onto skewers, if using.",
+    "Grill lamb for 5-7 minutes per side, or until cooked to your liking.",
+    "Meanwhile, combine diced tomatoes and red wine vinegar in a saucepan. Bring to a simmer over medium heat and cook until the sauce has thickened slightly.",
+    "Serve lamb kebabs with spicy tomato sauce and garnish with chopped parsley.",
+    "Optional: serve with a side of roasted vegetables or a salad for a more substantial meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebabs",
+    "spicy",
+    "tomato sauce",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-spicy-turkish-lamb-iskender--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:25:28.777Z"
+}
