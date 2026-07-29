@@ -1,0 +1,61 @@
+{
+  "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--french",
+  "title": "Smoked Salmon Tea Sandwiches",
+  "description": "Classic French-inspired tea sandwiches featuring smoked salmon, silky cream cheese, and a hint of mustard.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "4 oz",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "silk tea sandwich bread",
+      "amount": "1 loaf",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "mustardy cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together the softened cream cheese and a pinch of mustard.",
+    "2. Lay out the sliced bread on a clean surface.",
+    "3. Spread a small amount of the mustardy cream cheese onto each slice of bread.",
+    "4. Top each slice with a few pieces of smoked salmon.",
+    "5. Season with black pepper to taste.",
+    "6. Cut the sandwiches into quarters or halves, depending on your preference.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "tea-time",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:09:36.285Z"
+}
