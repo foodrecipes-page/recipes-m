@@ -1,0 +1,79 @@
+{
+  "slug": "molten-algerian-rum-wrap--keto",
+  "title": "Keto Algerian Wrap",
+  "description": "A twist on traditional wrap recipes, this keto-friendly dish combines the flavors of Algeria with a crispy, low-carb wrap.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rum-Infused Chicken Breast",
+      "amount": "2",
+      "notes": "Marinate for at least 30 minutes"
+    },
+    {
+      "name": "Algerian Wrap",
+      "amount": "1",
+      "notes": "Cook at 425°F (220°C) for 5-7 minutes"
+    },
+    {
+      "name": "Molten Cheddar Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Marinate the chicken breast in rum for at least 30 minutes.",
+    "Wrap the Algerian wrap in foil and cook for 5-7 minutes.",
+    "Slice the cooked chicken breast and add to the wrap.",
+    "Sprinkle shredded cheese, chopped cilantro, and sliced red onion on top.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "wrap",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/molten-algerian-rum-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:28:08.220Z"
+}
