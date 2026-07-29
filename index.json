@@ -17234,18 +17234,13 @@
   },
   {
     "slug": "monsoon-mustardy-slovakian-split-peas-stew",
-    "title": "monsoon mustardy slovakian split peas stew",
+    "title": "Slovakian Split Pea Stew",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "hearty",
-      "monsoon",
-      "mustardy",
-      "one-pan",
+      "stew",
       "slovakian",
-      "split-peas"
+      "vegetarian"
     ],
-    "cuisine": "slovakian",
+    "cuisine": "Slovakian",
     "totalTimeMin": 40,
     "shard": "m"
   },
@@ -24304,6 +24299,96 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--vegetarian",
+    "title": "Smoked Salmon Tea Sandwich",
+    "tags": [
+      "salmon",
+      "tea sandwiches",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-bitter-filipino-sweetcorn-fried-rice--thai",
+    "title": "Thai Sweetcorn Fried Rice",
+    "tags": [
+      "thaifood",
+      "sweetcorn",
+      "friedrice",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-peppery-filipino-rice-pilaf--chinese",
+    "title": "Filipino-Style Fried Rice",
+    "tags": [
+      "filipino",
+      "chinese",
+      "fried-rice"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "molten-algerian-rum-wrap--keto",
+    "title": "Keto Algerian Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "wrap",
+      "chicken"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-spicy-turkish-lamb-iskender--chinese",
+    "title": "Spicy Turkish Lamb",
+    "tags": [
+      "chinese",
+      "turkish",
+      "lamb",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 170,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--gluten-free",
+    "title": "Smoked Salmon Sandwich",
+    "tags": [
+      "smoked-salmon",
+      "gluten-free",
+      "sandwich",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 7,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-peppery-indian-potatoes-curry--gluten-free",
+    "title": "Indian Curry Potatoes",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "potatoes",
+      "curry"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "m"
   }
 ]
