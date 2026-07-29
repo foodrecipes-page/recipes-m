@@ -1,0 +1,66 @@
+{
+  "slug": "mighty-american-beef-sandwich--gluten-free",
+  "title": "Gluten-Free American Beef Sandwich",
+  "description": "A classic American-style beef sandwich made with gluten-free ingredients, perfect for a quick lunch or dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Hamburger Buns",
+      "amount": "4 buns"
+    },
+    {
+      "name": "American Cheese Slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Mighty American Ketchup",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Sandwich Pickles",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 lettuce leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 patties.",
+    "Season the patties with salt and pepper to taste.",
+    "Grill the patties for 4-5 minutes per side.",
+    "Meanwhile, toast the gluten-free hamburger buns on the grill.",
+    "Assemble the sandwiches by spreading ketchup on the bottom bun, followed by a beef patty, a slice of cheese, a few slices of pickle, and finally the top bun.",
+    "Top with lettuce leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "sandwich",
+    "american",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mighty-american-beef-sandwich--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:06:35.311Z"
+}
