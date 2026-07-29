@@ -1,0 +1,91 @@
+{
+  "slug": "mellow-crispy-greek-feta-fritters--japanese",
+  "title": "Crispy Japanese Feta Fritters",
+  "description": "A delicious Japanese-inspired appetizer made with crispy feta fritters, perfect for snacking.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "mellow flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "crispy sesame seeds",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup",
+      "notes": "pre-made fritters or mixture"
+    },
+    {
+      "name": "mild paprika",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix feta cheese and greek yogurt until well combined.",
+    "Add mellow flour to the bowl and mix until a dough forms.",
+    "Split the dough into 8-10 equal pieces.",
+    "Shape each piece into a ball and flatten slightly.",
+    "Coat each ball with crispy sesame seeds.",
+    "Heat oil in a deep frying pan to 350°F (180°C).",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "feta",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mellow-crispy-greek-feta-fritters--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:24:46.404Z"
+}
