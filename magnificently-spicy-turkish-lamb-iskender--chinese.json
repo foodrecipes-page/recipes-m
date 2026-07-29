@@ -1,0 +1,87 @@
+{
+  "slug": "magnificently-spicy-turkish-lamb-iskender--chinese",
+  "title": "Spicy Turkish Lamb",
+  "description": "A fusion of Chinese and Turkish flavors, this spicy lamb dish is a unique twist on traditional cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5 kg)"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Iskender kebab spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup, for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the lamb shoulder with Iskender kebab spice mix, salt, and pepper.",
+    "Heat 2 tablespoons of oil in a Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the sliced ginger and minced garlic to the pot and sauté until fragrant, about 1 minute.",
+    "Add the soy sauce, rice vinegar, brown sugar, and Turkish red pepper flakes to the pot, stirring to combine.",
+    "Return the lamb shoulder to the pot and add the water, making sure the lamb is mostly submerged.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the lamb at 300°F (150°C) for 2 1/2 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Slice the lamb against the grain and serve with the spicy sauce spooned over the top.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magnificently-spicy-turkish-lamb-iskender--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:41:58.442Z"
+}
