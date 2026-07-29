@@ -1,0 +1,65 @@
+{
+  "slug": "mildly-peppery-filipino-rice-pilaf--chinese",
+  "title": "Filipino-Style Fried Rice",
+  "description": "A twist on traditional fried rice, incorporating flavorful Filipino ingredients. Serve as a main dish or side.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mildly Spicy Sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-Style Pepper Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cooked Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add sliced sausage and cook until browned, about 3-4 minutes.",
+    "Remove sausage from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet and stir in the Filipino-Style Pepper Sauce.",
+    "Add cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice for about 5 minutes, until it starts to brown.",
+    "Add cooked pilaf to the skillet and stir-fry for another 2-3 minutes.",
+    "Return the cooked sausage to the skillet and stir-fry for 1-2 minutes, until everything is well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and serve hot.",
+    "Garnish with chopped green onions and a sprinkle of toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "chinese",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-filipino-rice-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:27:10.459Z"
+}
