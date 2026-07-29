@@ -1,0 +1,78 @@
+{
+  "slug": "monsoon-mustardy-slovakian-split-peas-stew",
+  "title": "Slovakian Split Pea Stew",
+  "description": "A hearty and flavorful stew originating from Slovakia, featuring split peas and a hint of mustardy spice.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Split Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Monsoon Curry Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Slovakian Mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and celery; cook until tender.",
+    "Stir in curry powder, mustard, and salt; cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Add peas and reduce heat to low; simmer for 30 minutes.",
+    "Season with pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/monsoon-mustardy-slovakian-split-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:49:08.094Z"
+}
