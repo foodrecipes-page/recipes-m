@@ -1,0 +1,79 @@
+{
+  "slug": "mildly-aerated-ukrainian-corn-pilaf--keto",
+  "title": "Crispy Ukrainian Corn Fritters (Keto)",
+  "description": "A twist on traditional Ukrainian corn fritters, this keto version replaces flour with pilaf and adds a crispy exterior.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "aerated",
+      "amount": "1/4 cup",
+      "notes": "aerated sugar-free baking powder"
+    },
+    {
+      "name": "mildly",
+      "amount": "1/2 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, whisk together the pilaf, aerated, mildly, and eggs.",
+    "3. Stir in the corn, melted butter, and chopped fresh dill (if using).",
+    "4. Using a 1/4 cup measuring cup, scoop the mixture into balls.",
+    "5. Flatten each ball slightly into a disk shape.",
+    "6. Place the disks on a baking sheet lined with parchment paper.",
+    "7. Bake for 20-25 minutes, or until the fritters are golden brown and crispy.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "corn",
+    "fritters",
+    "keto",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-aerated-ukrainian-corn-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:32:51.156Z"
+}
