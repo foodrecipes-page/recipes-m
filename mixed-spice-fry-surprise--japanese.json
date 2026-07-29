@@ -1,0 +1,75 @@
+{
+  "slug": "mixed-spice-fry-surprise--japanese",
+  "title": "Tempura Bites",
+  "description": "Crispy Japanese tempura bites made with mixed seafood and vegetables. Serve with a side of spicy sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mixed seafood mix (shrimp, fish, calamari)",
+      "amount": "1 cup",
+      "notes": "Frozen or fresh"
+    },
+    {
+      "name": "Mixed vegetables (carrots, zucchini, bell peppers)",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Fry mixed",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Spice mix",
+      "amount": "2 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together flour and cornstarch.",
+    "2. In a separate bowl, mix together mixed seafood and vegetables.",
+    "3. Coat the seafood and vegetables with the flour mixture, shaking off excess.",
+    "4. Heat the fry mixed in a deep frying pan or a deep fryer to 350°F (180°C).",
+    "5. Fry the coated seafood and vegetables in batches until golden brown, about 2-3 minutes.",
+    "6. Remove the fried tempura from the oil with a slotted spoon and drain on paper towels.",
+    "7. Serve the tempura bites hot with a side of spicy sauce.",
+    "8. To make the spicy sauce, mix together 1/2 cup soy sauce, 1/4 cup rice vinegar, and 1 tsp sriracha in a bowl.",
+    "9. Adjust the sauce to taste with more soy sauce, vinegar, or sriracha."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tempura",
+    "japanese-cuisine",
+    "seafood",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mixed-spice-fry-surprise--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:41:12.501Z"
+}
