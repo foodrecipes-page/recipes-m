@@ -1,0 +1,75 @@
+{
+  "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--gluten-free",
+  "title": "Smoked Salmon Sandwich",
+  "description": "A delicious and easy-to-make gluten-free sandwich, perfect for a light lunch or snack.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "4 oz",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "Mustardy mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Silky cream cheese",
+      "amount": "2 tbsp",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Scottish flatbread",
+      "amount": "1 loaf",
+      "notes": "gluten-free and toasted"
+    },
+    {
+      "name": "Afternoon tea pickles",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tea leaves",
+      "amount": "1 tsp",
+      "notes": "dried and used as a garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Lay a slice of toasted Scottish flatbread on a clean surface.",
+    "Spread a layer of silky cream cheese on the flatbread, leaving a 1/2 inch border around the edges.",
+    "Place 2 oz of smoked salmon on top of the cream cheese.",
+    "Add 2 slices of afternoon tea pickles on top of the salmon.",
+    "Drizzle a tablespoon of mustardy mayonnaise over the pickles.",
+    "Top with another slice of toasted Scottish flatbread.",
+    "Place the sandwich in the panini press or grill and cook for 2-3 minutes or until the bread is golden brown.",
+    "Garnish with a sprinkle of tea leaves and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-salmon",
+    "gluten-free",
+    "sandwich",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:17:42.950Z"
+}
