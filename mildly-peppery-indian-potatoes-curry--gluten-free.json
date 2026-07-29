@@ -1,0 +1,88 @@
+{
+  "slug": "mildly-peppery-indian-potatoes-curry--gluten-free",
+  "title": "Indian Curry Potatoes",
+  "description": "A flavorful and easy-to-make gluten-free dish, combining the warmth of Indian spices with the comfort of potatoes.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "mildly, peppery, indian curry",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, and cook until the onion is translucent.",
+    "Add the curry leaves and cook for 1 minute.",
+    "Add the curry powder and cook for another minute.",
+    "Add the potatoes, tomato, salt, and water, and stir well.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 20 minutes, or until the potatoes are tender.",
+    "Stir occasionally to prevent the potatoes from sticking to the pan.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "potatoes",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-peppery-indian-potatoes-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:21:55.022Z"
+}
