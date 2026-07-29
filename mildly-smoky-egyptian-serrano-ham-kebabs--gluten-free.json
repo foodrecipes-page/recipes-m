@@ -1,0 +1,61 @@
+{
+  "slug": "mildly-smoky-egyptian-serrano-ham-kebabs--gluten-free",
+  "title": "Spicy Egyptian Kebabs",
+  "description": "A flavorful and spicy kebab recipe inspired by Egyptian cuisine. Perfect for a quick and easy dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky chicken kebabs",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Serrano peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Mildly sweet onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Egyptian flatbread (gluten-free)",
+      "amount": "4-6 slices",
+      "notes": null
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, onions, and Serrano peppers onto skewers.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Meanwhile, grill or toast Egyptian flatbread for 2-3 minutes, or until crispy.",
+    "Assemble kebabs by placing a few slices of ham on each flatbread, followed by a kebab.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with a side of tzatziki sauce or a simple green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "egyptian",
+    "gluten-free",
+    "spicy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-smoky-egyptian-serrano-ham-kebabs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:15:53.540Z"
+}
