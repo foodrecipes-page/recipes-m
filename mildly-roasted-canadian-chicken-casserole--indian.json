@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-roasted-canadian-chicken-casserole--indian",
+  "title": "Roasted Chicken Casserole",
+  "description": "A flavorful Indian-inspired roasted chicken casserole made with mildly spiced ingredients. A perfect comfort food for a chilly evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat",
+    "egg"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Mildly spiced garam masala",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Roasted red bell peppers",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Canadian cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt and black pepper.",
+    "Heat oil in a large skillet over medium-high heat. Sear the chicken until browned on both sides, then set aside.",
+    "In the same skillet, add the diced bell peppers and cook until tender.",
+    "Add the garam masala and cook for 1 minute, until fragrant.",
+    "Add the canned diced tomatoes and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Add the shredded cheese on top of the mixture.",
+    "Place the seared chicken on top of the cheese.",
+    "Bake for 25-30 minutes, until the cheese is melted and bubbly.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian food",
+    "roasted chicken",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-roasted-canadian-chicken-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:51:54.628Z"
+}
