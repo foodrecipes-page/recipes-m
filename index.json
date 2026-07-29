@@ -5016,17 +5016,15 @@
   },
   {
     "slug": "mellow-filipino-peanut-tagine",
-    "title": "Mellow Filipino Peanut Tagine",
+    "title": "Filipino Mellow Chicken Tagine",
     "tags": [
-      "bain-marie",
-      "ceramic-tagine",
-      "filipino-cuisine",
-      "peanut-based",
-      "shojin-friendly",
-      "solo-dinner"
+      "filipino",
+      "chicken",
+      "peanut-sauce",
+      "tagine"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "m"
   },
   {
@@ -24218,6 +24216,94 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 10,
+    "shard": "m"
+  },
+  {
+    "slug": "mellow-crispy-greek-feta-fritters--japanese",
+    "title": "Crispy Japanese Feta Fritters",
+    "tags": [
+      "japanese",
+      "snack",
+      "feta",
+      "fritters"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-ethiopian-beef-stew--japanese",
+    "title": "Japanese Beef Stew",
+    "tags": [
+      "beef-stew",
+      "japanese-cuisine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 180,
+    "shard": "m"
+  },
+  {
+    "slug": "mildly-aerated-ukrainian-corn-pilaf--keto",
+    "title": "Crispy Ukrainian Corn Fritters (Keto)",
+    "tags": [
+      "ukrainian",
+      "corn",
+      "fritters",
+      "keto",
+      "snack"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "midnight-craving-thai-falafel-crumble--vegan",
+    "title": "Thai Crumble Falafel",
+    "tags": [
+      "vegan",
+      "thaifood",
+      "falafel",
+      "crumble"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 40,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-crunchy-japanese-apple-tamagoyaki--french",
+    "title": "French-Style Tamagoyaki with Crunchy Apple",
+    "tags": [
+      "french",
+      "japanese",
+      "dessert",
+      "apple"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "mixed-spice-fry-surprise--keto",
+    "title": "Keto Crispy Fry Bites",
+    "tags": [
+      "keto",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "m"
+  },
+  {
+    "slug": "monsoon-crunchy-chinese-beetroot-robata-grill-buddha-jumps-over-wall--chinese",
+    "title": "Buddha's Wall of Flavors Stir Fry",
+    "tags": [
+      "beetroot",
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "m"
   }
 ]
