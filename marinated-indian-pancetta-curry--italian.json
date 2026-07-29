@@ -1,0 +1,75 @@
+{
+  "slug": "marinated-indian-pancetta-curry--italian",
+  "title": "Pan-Seared Pancetta Chicken with Indian Curry Sauce",
+  "description": "A fusion of Italian and Indian flavors in this quick and easy dish. The pancetta adds a rich savory taste while the curry sauce brings a warm and aromatic flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Ground"
+    },
+    {
+      "name": "curry sauce (homemade or store-bought)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Season the chicken breast with salt, pepper, and curry powder.",
+    "2. Heat a skillet over medium-high heat. Add 2 slices of pancetta and cook until crispy.",
+    "3. Remove the pancetta from the skillet and set aside.",
+    "4. Add the chopped onion to the skillet and cook until translucent.",
+    "5. Add the minced garlic and cook for 1 minute.",
+    "6. Add the chicken breast to the skillet and cook until browned on both sides.",
+    "7. Add the curry sauce to the skillet and stir to combine.",
+    "8. Simmer the sauce for 5-7 minutes or until the chicken is cooked through.",
+    "9. Serve the chicken with the curry sauce and crispy pancetta on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "indian",
+    "chicken",
+    "curry",
+    "pancetta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/marinated-indian-pancetta-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:36:22.086Z"
+}
