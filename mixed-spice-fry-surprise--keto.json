@@ -1,0 +1,59 @@
+{
+  "slug": "mixed-spice-fry-surprise--keto",
+  "title": "Keto Crispy Fry Bites",
+  "description": "A crispy and flavorful snack made with fried fry, perfect for keto dieters.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spice",
+      "amount": "1/4 tsp",
+      "notes": "Your choice of spice"
+    },
+    {
+      "name": "surprise",
+      "amount": "1/2 tsp",
+      "notes": "Surprise ingredient, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil to 375°F (190°C).",
+    "2. Cut the fry into bite-sized pieces.",
+    "3. In a bowl, mix together the fry, mixed, and spice.",
+    "4. Add the surprise ingredient to the bowl and mix well.",
+    "5. Using a spoon, drop small amounts of the mixture into the oil.",
+    "6. Fry the bites until golden brown, about 2-3 minutes.",
+    "7. Remove the bites from the oil and place on a paper towel-lined plate.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mixed-spice-fry-surprise--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:09:45.916Z"
+}
