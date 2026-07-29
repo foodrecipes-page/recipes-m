@@ -1,0 +1,90 @@
+{
+  "slug": "midnight-craving-thai-falafel-crumble--vegan",
+  "title": "Thai Crumble Falafel",
+  "description": "A vegan twist on traditional falafel, with a crispy Thai-inspired crumble topping.",
+  "cuisine": "thaicuisine",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "falafel mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a food processor, combine chickpeas, onion, garlic, coriander, cumin, turmeric, and paprika. Process until coarsely chopped.",
+    "Add the falafel mix and process until well combined.",
+    "Transfer the mixture to a bowl and stir in oat flour.",
+    "Using your hands, shape the mixture into small patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes, flipping halfway through.",
+    "While the falafel is baking, prepare the crumble topping. Mix together oat flour, vegan butter, and a pinch of salt.",
+    "Remove the falafel from the oven and top each patty with the crumble mixture.",
+    "Return to the oven and bake for an additional 5 minutes, or until the crumble is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thaifood",
+    "falafel",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/midnight-craving-thai-falafel-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:34:52.512Z"
+}
