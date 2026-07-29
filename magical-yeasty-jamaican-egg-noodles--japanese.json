@@ -1,0 +1,63 @@
+{
+  "slug": "magical-yeasty-jamaican-egg-noodles--japanese",
+  "title": "Magical Jamaican Udon Soup",
+  "description": "A unique Japanese-inspired soup featuring magical and Jamaican flavors.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yeasty dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Magical Jamaican spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the yeasty dough into thin strips.",
+    "Heat a pot over medium heat and cook the dough strips until crispy.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Add the Magical Jamaican spice blend and reduce heat to low.",
+    "Crack the egg into the pot and stir gently.",
+    "Cook for 5 minutes or until the egg is set.",
+    "Add the noodles to the pot and cook for an additional 3-4 minutes.",
+    "Serve hot and enjoy!",
+    "Garnish with additional Magical Jamaican spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "soup",
+    "noodles",
+    "m Magical",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/magical-yeasty-jamaican-egg-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:30:38.694Z"
+}
