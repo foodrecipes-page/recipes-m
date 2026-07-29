@@ -1,0 +1,86 @@
+{
+  "slug": "mildly-bitter-filipino-sweetcorn-fried-rice--thai",
+  "title": "Thai Sweetcorn Fried Rice",
+  "description": "A simple and flavorful Thai-inspired fried rice dish with sweetcorn and a hint of bitterness.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "medium sweetcorn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mildly flavored oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mildly bitter green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai fried rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "filipino soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add green onions and stir-fry for 1 minute.",
+    "Add sweetcorn and stir-fry for another 2 minutes.",
+    "Add Thai fried rice, salt, and pepper, and stir-fry for 2-3 minutes.",
+    "Add soy sauce and stir-fry for a final minute.",
+    "Transfer to a serving platter, garnish with cilantro, and serve immediately.",
+    "Cook time is approximately 10 minutes.",
+    "Prep time is approximately 5 minutes.",
+    "Total time is approximately 15 minutes.",
+    "Servings are 2-3.",
+    "Difficulty is medium."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "sweetcorn",
+    "friedrice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mildly-bitter-filipino-sweetcorn-fried-rice--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:25:01.900Z"
+}
