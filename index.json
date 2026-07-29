@@ -24390,5 +24390,74 @@
     "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "m"
+  },
+  {
+    "slug": "magical-yeasty-jamaican-egg-noodles--japanese",
+    "title": "Magical Jamaican Udon Soup",
+    "tags": [
+      "japanese",
+      "soup",
+      "noodles",
+      "m Magical",
+      "egg"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "melted-filipino-shrimp-fried-rice--vegan",
+    "title": "Filipino Vegan Fried Rice",
+    "tags": [
+      "vegan",
+      "filipino",
+      "fried-rice",
+      "shrimp-free"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mighty-american-beef-sandwich--gluten-free",
+    "title": "Gluten-Free American Beef Sandwich",
+    "tags": [
+      "beef",
+      "sandwich",
+      "american",
+      "gluten-free"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 18,
+    "shard": "m"
+  },
+  {
+    "slug": "magnificently-spicy-turkish-lamb-iskender--keto",
+    "title": "Turkish-Style Lamb Kebabs with Spicy Tomato Sauce",
+    "tags": [
+      "turkish",
+      "lamb",
+      "kebabs",
+      "spicy",
+      "tomato sauce",
+      "keto"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "m"
+  },
+  {
+    "slug": "marinated-indian-pancetta-curry--italian",
+    "title": "Pan-Seared Pancetta Chicken with Indian Curry Sauce",
+    "tags": [
+      "italian",
+      "indian",
+      "chicken",
+      "curry",
+      "pancetta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "m"
   }
 ]
