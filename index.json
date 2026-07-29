@@ -9334,15 +9334,14 @@
   },
   {
     "slug": "midnight-nourish-knafeh",
-    "title": "Midnight Nourish Knafeh",
+    "title": "Midnight Knafeh",
     "tags": [
-      "midnight_nourish_knafeh",
-      "peppery_dessert",
-      "cream_cheese_base",
-      "nut_free_knafeh"
+      "middle-eastern",
+      "dessert",
+      "cheese"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "m"
   },
   {
@@ -24194,6 +24193,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mixed-spice-fry-surprise--japanese",
+    "title": "Tempura Bites",
+    "tags": [
+      "tempura",
+      "japanese-cuisine",
+      "seafood",
+      "vegetables"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "m"
+  },
+  {
+    "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--french",
+    "title": "Smoked Salmon Tea Sandwiches",
+    "tags": [
+      "french",
+      "tea-time",
+      "finger-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 10,
     "shard": "m"
   }
 ]
