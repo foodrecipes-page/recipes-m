@@ -1,0 +1,61 @@
+{
+  "slug": "mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--vegetarian",
+  "title": "Smoked Salmon Tea Sandwich",
+  "description": "A classic tea sandwich recipe featuring smoked salmon, perfect for a light and refreshing snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "6 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Silky afternoon tea bread",
+      "amount": "1 loaf",
+      "notes": "Sliced into thin pieces"
+    },
+    {
+      "name": "Mustardy spread",
+      "amount": "2 tbsp",
+      "notes": "Make sure it's vegetarian"
+    },
+    {
+      "name": "Scottish cheddar cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Optional, vegetarian"
+    }
+  ],
+  "instructions": [
+    "1. Lay out the thinly sliced bread on a clean surface.",
+    "2. Spread a thin layer of mustardy spread on each slice of bread.",
+    "3. Arrange a slice of smoked salmon on top of the spread.",
+    "4. Sprinkle crumbled Scottish cheddar cheese on top of the salmon (if using).",
+    "5. Place another slice of bread on top to create a sandwich.",
+    "6. Cut the sandwiches into smaller pieces or use a cookie cutter to create fun shapes.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "tea sandwiches",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/mustardy-silky-scottish-smoked-salmon-afternoon-tea-sandwich--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:17:10.656Z"
+}
